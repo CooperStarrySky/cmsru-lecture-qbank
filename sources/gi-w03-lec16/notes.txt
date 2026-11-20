@@ -1,0 +1,1004 @@
+=== PAGE 1 ===
+Vitamins and Minerals Lectures 16 and 17 (Friday, October 30, 2026; 10 am and 11 am)
+Note from Dr. Phadtare: I would strongly suggest you to read this ebook as it gives support to two lectures.
+This ebook was created using a number of different sources, notably: (i) Wardlow’s perspectives in
+Nutrition, (ii) Nutrition for healthy living-Wendy Schiff, (iii) Lippincott reviews in biochemistry; Denise R.
+Ferrier. I would also like to acknowledge my previous nutrition mentor and a retired RWJMS professor, Dr.
+Brodsky.
+Kwashiorkor & Marasmus
+Protein-energy malnutrition (PEM) is not a phenomenon limited to developing countries. It can be seen in
+hospitalized patients, in individuals with chronic illness and in individuals recovering from surgery or severe
+trauma, individuals living in poverty and/or isolation and those with substance abuse problems or have
+anorexia nervosa. Sadly, albeit very rarely, it also can be seen in the abused children of neglectful parents,
+here in the state of New Jersey. It is also not a rare phenomenon, with WHO estimates of perhaps 5 million
+deaths of children under 5 years of age per year attributable to PEM worldwide. The severest forms of these
+deficiencies are kwashiorkor and marasmus.
+Kwashiorkor is a disease of chronic dietary protein insufficiency, though there is also evidence that
+diseases progression is more complicated than that (some hypothesize the presence of key micronutrient
+deficiencies to be of at least equal importance). It is most often noted in children, after they are weaned from
+breast milk (a very good source of amino acids) onto a carbohydrate rich diet that is poor in essential amino
+acids (and in some micronutrients, to be sure). Such a diet may provide adequate calories, but it’s in a
+context of poor amino acid nutrition. At the biochemical level this leads to inadequate rates of protein
+synthesis, with the net effect being reduced protein inventories in many tissues, with commensurate loss of
+tissue function and/or stability. Presentation includes a swollen belly (due to loss of the ability to maintain
+water compartments), thinning hair, and dermatitis. Impaired growth and development, and weak immune
+responses, accompany this condition. Permanent failure to meet growth milestones is also possible, despite
+intervention.
+Marasmus is caused by a combined deficiency for both calories and for protein. As such, its presentation
+differs somewhat from that of kwashiorkor. As with kwashiorkor, body weight and height are significantly
+below growth expectations. However, the caloric deficiency in marasmus has a different consequence for
+amino acid and protein metabolism than is seen in kwashiorkor. With severe caloric deficiency, muscle (and
+fat) mass is lost due to catabolic turnover of protein (and TAGs) for energy, while there is less dramatic
+interruption of visceral organ function. In that regard it is a milder disease (organ and tissue function is
+calorie limited, to be sure, which ironically may moderate the adverse effects of dietary amino acid
+deficiency).
+Vitamins
+Vitamins are organic compounds required by the body in small amounts, far below the daily intake of the
+macronutrients. Vitamins are needed to maintain normal growth and health. They are necessary for specific
+metabolic functions but cannot be synthesized by humans, or cannot be synthesized in sufficient amounts to
+meet their needs, and therefore must be supplied in the diet. Vitamins are not energy sources and are not
+used for structural purposes. The 13 vitamins are divided into two categories. There are 4 fat soluble
+vitamins (vitamins A,D,E,K) and 9 water soluble vitamins consisting of Ascorbic acid (vitamin C) and
+the 8 B-complex vitamins (thiamine, riboflavin, niacin, biotin, pantothenic acid, folic acid, vitamin B1
+
+
+=== PAGE 2 ===
+12, vitamin B-6). The overall roles of the vitamins include protein and amino acid metabolism, antioxidant
+defenses, gene expression, bone health, energy metabolism.
+You are not expected to memorize RDA or UL values. Also a general idea about main food sources of each
+vitamin should be fine. You do not need to memorize any structures. Some of the important terms/concepts
+are highlighted in bold throughout. The focus is on the role of individual vitamins, deficiencies and
+toxicities, if any.
+Table 1: Dietary Reference Intakes, tolerable upper limits, food sources, and deficiencies
+Vitamin
+Vitamin D
+
+RDA
+600IU
+
+UL
+4000IU
+
+Food sources
+Made in skin in UV light;
+supplement in milk; cod liver oil,
+salmon, shiitake mushrooms
+Retinyl ester: egg yolks, liver, fish
+oil, milk, butter.  carotene: fruits,
+vegetables
+Intestinal bacteria, green leafy
+vegetables, egg yolk
+Vegetable oils, liver, eggs
+
+Deficiency Syndrome
+Rickets in children
+Osteomalacia in adults
+
+Vitamin A
+
+800g
+
+10mg
+
+Vitamin K
+
+90g
+
+Tocopherol
+Vitamin E
+Thiamine
+Vit B-1
+
+15mg
+
+1000mg
+
+-
+
+Spinocerebellar
+degeneration
+Whole wheat, peas, beans
+Dry and wet beriberi
+Wernicke Korsakoff
+syndrome
+Liver, yeast, wheat germ, milk eggs, Cheilosis,
+glossitis,
+green leafy vegetables
+dermatitis
+Widely distributed, rich in meat; Pellagra
+also depends on Trp content
+4
+Ds:
+diarrhea,
+dermatitis, dementia,
+death
+Widely distributed, germs of grains, Cheilosis,
+glossitis,
+seeds; egg yolk; yeast; meat
+dermatitis, peripheral
+neuropathy
+Eggs, peanuts
+Liver, whole milk, eggs, shrimp, Pernicious anemia
+chicken, pork
+Widely distributed; supplementation Neural tube defects;
+megaloblastic anemia
+Yeast, liver, eggs
+
+1.1mg
+
+-
+
+Riboflavin
+Vit B-2
+Niacin
+Vit B-3
+
+1.1mg
+
+-
+
+14mg
+
+35mg
+
+Pyridoxine
+Vitamin B6
+
+1.3mg
+
+100mg
+
+Biotin
+Cobalamin
+Vit B-12
+Folic Acid
+
+30g
+2.4g
+
+-
+
+400g
+
+1000g
+
+Pantothenic
+Acid
+Ascorbic
+acid; Vit C
+
+5mg
+75mg
+
+2g
+
+Fresh fruits, vegetables
+
+Scurvy
+
+Night
+blindness,
+xerophthalmia,
+Bleeding
+
+Fat soluble vitamins A, D, E, K
+The four fat soluble vitamins are all extremely insoluble in water, since they contain no ionizable groups.
+Fat-soluble vitamins are absorbed in the ileum, along with dietary fats, and are stored in the liver and adipose
+for potentially long periods of time. Hence, efficient uptake of diet-sourced fat-soluble vitamins requires
+2
+
+
+=== PAGE 3 ===
+normal function of the bile salts, the enterohepatic circulation, and delivery of vitamins to target tissues via
+lipoproteins. The fat soluble vitamins all play very different biological roles.
+ Vitamin A: stimulates rhodopsin production in the eye; antioxidant
+ Vitamin D: critical role in calcium homeostasis
+ Vitamin E: antioxidant
+ Vitamin K: only fat soluble vitamin which is a coenzyme; it is involved in post-translational
+carboxylation of glutamic acid residues in prothrombin and clotting factors
+Vitamin A
+Daily adult requirement of vitamin A can be obtained in the form of retinyl esters from animal sources (egg
+yolks, liver, fish oil, milk, butter), which provide the largest available amounts, or in the form of -carotene
+(green and orange vegetables).
+ Retinol – transport form
+ Retinyl esters -storage form
+ Retinal – form involved in vision
+ Retinoic acid – active in epithelial differentiation and growth
+ -carotene (dietary, in vegetables)-cleaved and converted to retinol in intestinal mucosa
+Why is vitamin A essential?
+ Vision in reduced light: phototransduction, in association with rod and cone cell visual pigments. The
+visual pigment of the rod cells is rhodopsin, which consists of the protein opsin bound to the prosthetic
+group (chromophore) II-cis retinal. Exposure to light leads to bleaching of the visual pigment and release
+of opsin and all trans retinal, together with generation of a nerve impulse. Rhodopsin is the most light
+sensitive pigment and therefore the most important in reduced light.
+ Hormones that regulate gene expression (retinol, retinoic acid). Involved in differentiation of mucussecreting epithelium.
+ Enhanced immunity, resistance to infections
+ Glycoprotein and mucopolysacharide synthesis (retinyl phosphate)
+ Anti-oxidant (-carotene)
+ Bone remodeling
+Vitamin A deficiency
+Vitamin A is the most widespread worldwide vitamin deficiency. It is common in developing countries and
+the leading cause of blindness in world.
+ Vision problems
+ Night blindness
+ Xerophthalmia (dry eye)
+ Defects in the maintenance of healthy epithelial tissues (acne and psoriasis)
+ Increased susceptibility to infection, leading to higher mortality rates from common diseases such as
+measles, infectious diarrhea.
+Vitamin A Toxicity
+Vitamin A is stored in the liver. High doses of vitamin A over a period of months or years can lead to bone
+pain, dermatitis, liver and spleen enlargement, nausea and diarrhea, and birth defects. Because of its storage
+and accumulation, vitamin A toxicity is a real concern. The -carotenes, however, show no toxicities, though
+elevated consumption can lead to a yellowing of the skin.
+3
+
+
+=== PAGE 4 ===
+Synthetic retinoids are being used in treatments for acne and psoriasis. These synthetic compounds are
+structurally very similar to vitamin A but show reduced toxicity, permitting higher doses. Retinoids are
+effective for acne because they depress sebum production, providing less opportunity for bacterial
+(Propionibaterius acnes) proliferation. Retinoids also depress the associated inflammatory response, giving a
+weaker local inflammatory reaction.
+Vitamin D
+Vitamin D has various forms.
+Roles of vitamin D
+Vitamin D plays a critical role in calcium
+UV light
+homoeostasis, mediating calcium absorption from
+the intestine and mobilization from the bone to
+maintain normal plasma levels of calcium and
+phosphorous. vitamin D may be viewed as a steroid
+hormone which binds to high affinity receptors
+(VDR, vitamin D Receptors) and involves action on
+the intestines, bones and kidneys. It is a key
+regulator of the availability of calcium (directly) and
+phosphorous (indirectly). The maintenance of
+plasma calcium levels within a fairly narrow range
+involves a balance in the rates of secretion in the
+urine, absorption in the intestine, and mobilization
+from and deposition to the bone. The active form of
+vitamin D can (1) stimulate intestinal absorption of
+calcium and phosphorous; (2) mobilize bone
+calcium, in concert with PTH; and (3) stimulate PTH
+dependent reabsorption of calcium in the distal renal
+tubules. There is also evidence that 1,25 (OH)2 D
+plays a role in cell cycle arrest, apoptosis, and
+inhibition of proglandin pathways which leads to antiproliferative and pro-differentiating effects in
+malignant cells and anti-inflammatory activity.
+7-dehydrocholesterol
+
+Vitamin D Deficiency: Rickets and Osteomalacia
+Both Rickets and Osteomalacia are caused by a deficiency in vitamin D, which in turn results in
+hypocalcemia. The cause of this vitamin deficiency may stem from any one of several possibilities:
+
+
+
+
+inadequate synthesis of active hormone due to inadequate exposure to sunlight
+inadequate absorption of dietary vitamin
+inadequate dietary supply
+
+Rickets (in children) is the improper mineralization of cartilage and osteoid matrix, leading to soft bones.
+Because bones are growing in children, the clinical picture is complex, ultimately including the possibility of
+permanent deformation of the skeleton. Lordosis of the spine and/or bowing of the legs are notable clinical
+presentations.
+Osteomalacia (in adults) is the demineralization of existing bone causing weakening and tendency to
+fracture, without gross changes in bone contour.
+4
+
+
+=== PAGE 5 ===
+Osteoporosis
+Skeletal growth (modeling) continues into the third decade of life. After that time, bone maintenance
+exclusively takes the form of remodeling, a balance of activity by osteoclasts and osteoblasts.
+Vitamin D toxicity: Extremely excessive levels of vitamin D (100,000IU for weeks or months) are toxic and
+can lead to loss of appetite, nausea, thirst and stupor. Very high levels of vitamin D (above 10,000 IUs per
+day) are known to cause kidney and tissue damage.
+Vitamin K
+
+
+
+
+K1 (phylloquinone, phytylmenaquinone) in vegetables
+K2 (menaquinone, multiprenylmenaquinone) synthesized by intestinal bacteria
+K3 is synthesized from a synthetic precursor (menadione)
+
+Role of Vitamin K
+The principal action of vitamin K is in blood clotting. Vitamin K is the only fat-soluble vitamin that acts as a
+coenzyme. It acts as a coenzyme for the carboxylase that converts glutamic acid residues to carboxyglutamic acid residues, in prothrombin and clotting factors VII, IX and X. The clotting factors are all
+synthesized as inactive precursor molecules, and the carboxylation of these specific glutamic acid residues is
+necessary before they can be activated. The carboxylated glutamic acid residues are capable of binding
+calcium, and the calcium-prothrombin complex can bind to phospholipids, which is essential for clotting on
+the platelet surface. Proteins other than those in the clotting cascade have been found to undergo vitamin K
+mediated carboxylation of glutamic acid residues, e.g. osteocalcin in bone. It has been suggested that vitamin
+K may favor calcification of bone.
+Vitamin K Deficiency
+Deficiency leads to hypoprothrombinemia and increased coagulation times.
+ Vitamin K is synthesized by bacteria in the gut so deficiency is unusual except in newborns.
+Hemorrhagic bleeding can occur. Vitamin K stores in neonates may be low because of poor transference
+across the placenta, and neonates have sterile intestines. In addition, human milk and cow milk do not
+provide adequate vitamin K. Thus, it is recommended that all newborns receive a single injection of
+vitamin K as a precaution again bleeding.
+ Broad spectrum antibiotic treatments will also decrease the bacterial population in the gut and could lead
+to vitamin K deficiency in vulnerable populations.
+ Problems with fat absorption (e.g. Cystic fibrosis) may lead to vitamin K deficiency.
+Vitamin K Toxicity
+The storage of vitamin K in liver is not so high, so its toxicity is rare. Natural forms are not toxic, but large
+amounts of foods with high vitamin K content could interfere with Coumadin action. Infants receiving
+prolonged administration of large amounts of synthetic vitamin K (K3) can develop hemolytic anemia and
+jaundice, probably due to toxic effects on red blood cells.
+Anticoagulants: Warfarin (brand name Coumadin) is a vitamin K antagonist used to inhibit clotting, by
+preventing vitamin K from getting reduced back into its active form. At least 2 million people are taking
+warfarin in the US, to prevent blot clots (atrial fibrillation, artificial heart values, deep venous thrombosis,
+pulmonary embolism). But use of warfarin carries risk of bleeding and hemorrhage, and is not compatible
+with having surgery. A person on warfarin must be monitored for clotting time, and may show bruising or
+other bleeding signs.
+5
+
+
+=== PAGE 6 ===
+Vitamin E
+Vitamin E is a family of tocopherol compounds, with -tocopherol the most common and active. Vegetable
+oils are rich sources of vitamin E; liver and eggs contain moderate amounts. Vitamin E is the least toxic of
+the fat-soluble vitamins; no toxicity has been observed at doses of 300 mg/day.
+Role of Vitamin E
+Vitamin E is absorbed into the lymphatic system by the small intestine. Its biologically active form tocopherol is transported into the blood after incorporation into very low density lipoproteins (VLDL) in the
+liver, a process that requires -tocopherol transport protein. Vitamin E is the most effective lipid soluble
+antioxidant, protecting membranes from free radical and lipid peroxidation induced damage.
+Deficiency of vitamin E
+Vitamin E deficiency is largely restricted to premature infants. When observed in children or adults, it is
+usually associated either with defective lipid absorption due to cystic fibrosis, abetalipoproteinaemia, or
+chronic cholestasis (where bile cannot flow from the liver to the duodenum); or due to a transport defect
+such as mutation in the -tocopherol transport protein. Vitamin E deficiency causes a distinct neurological
+disorder including spinocerebellar degeneration and mild to moderate axonal sensory neuropathy, together
+with ataxia, areflexia, and other symptoms. In adults, symptoms may develop after ~10-20 years of
+malabsorption.
+What is an Antioxidant?
+The major reactive oxygen species that cause damage in cells are:
+ Superoxide (·O2-): This radical is reactive and can penetrate membranes through anion channels.
+ Hydrogen peroxide (H2O2): This reactive oxygen intermediate (which is not a free radical) is formed
+directly by several enzyme reactions and from superoxide by the action of superoxide dismutase.
+Hydrogen peroxide is toxic to the cell largely because it can give rise to hydroxyl radical (see below).
+Hydrogen peroxide is neutral and can readily diffuse across cell membranes and membranes separating
+cellular compartments.
+
+
+
+Hydroxyl radical (·OH):
+This reactive
+of hydrogen peroxide with ferrous (Fe++) ion.
+combines with biological molecules at rates that
+hydroxyl radical is formed it usually reacts with
+6
+
+intermediate is most often formed by the reaction
+The hydroxyl radical is very reactive and
+are diffusion controlled. This means that after the
+the first molecule it encounters.
+
+
+=== PAGE 7 ===
+These reactive oxygen species randomly damage the molecules near them, leading to chemical damage of
+proteins, lipids and DNA, and there may be no means to remove the damaged molecules.
+
+
+
+
+Protein oxidation often marks proteins for degradation by intracellular proteases or leads to the
+accumulation of proteins that are either catalytically inactive or less active, as well as to thermolabile
+forms of enzymes.
+Lipid peroxidation: Peroxidation of lipids may result in the loss of membrane integrity and
+compromised cellular function.
+Modification of DNA: Reactive oxygen intermediates can oxidatively damage DNA, producing strand
+breaks and modification of several bases.
+
+Free radical damage, or oxygen toxicity, has been implicated in aging, heart disease, Alzheimer’s disease,
+and diabetes.
+Antioxidant defenses consist of enzymes, endogenous antioxidant chemicals, and exogenous antioxidant
+chemicals in the diet (e.g. vitamins E,C)
+
+
+
+
+Antioxidant enzymes: superoxide dismutase, glutathione peroxidase and catalase.
+Endogenous antioxidant chemicals: glutathione, ubiquinol
+Exogenous antioxidants in the diet: vitamin E, vitamin C, -carotenes, phenolics, lycopenes.
+
+Note: lycopenes is found almost exclusively in tomatoes and tomato products and accounts for 50% of
+carotenoids in human serum. It has the highest single oxygen quenching capacity in vitro of all common
+dietary carotenoids. Lycopenes could contribute to the protective effect of vegetable consumption on cancer
+and heart disease. Other antioxidants include polyphenols, pomegranate juice and resveratrol.
+Does Vitamin E protect against heart disease? There are observational studies that correlate vitamin E
+intake with protection against the development of heart disease. The vitamin, functioning as an antioxidant,
+could in theory prevent the formation of oxidized LDL particles which are considered to promote heart
+disease. However, random controlled trials with purified vitamin E have not confirmed these protective
+effects. There is evidence that the body uses free radicals to kill abnormal cancer cells, and that excessive
+amounts of antioxidant supplementation can interfere with the body’s normal defenses. So current evidence
+suggests that antioxidant supplementation is not beneficial for heart disease, cancer or even intense exercise.
+Water soluble vitamins
+Water soluble vitamins are excreted in the urine, and there are generally not significant stores in the body.
+They usually function as cofactors of enzymes. Some vitamins, e.g. vitamin B12, are coenzymes for only a
+small number of enzymes, while other vitamins, e.g. niacin in NADH, are involved in hundreds of reactions.
+Coenzymes are small organic molecules bound to enzymes and required for activity. Most coenzymes are
+non-covalently bound, and are regenerated at the end of the reaction, so very small amounts are required.
+
+Vitamin
+Thiamine (B1)
+Riboflavin (B2)
+Pyridoxine (B6)
+
+Coenzyme form
+Thiamine pyrophosphate (TPP)
+Flavin mononucleotide (FMN); Flavin adenine dinucleotide (FAD)
+Pyridoxal phosphate
+7
+
+
+=== PAGE 8 ===
+Cobalamin (B12)
+Niacin
+Folic acid
+Pantothenic acid
+Lipoic acid
+
+Cobalamin
+Nicotinamide dinucleotide (NAD)
+Tetrahydrofolic acid (THF)
+Coenzyme A
+Lipollysine
+Thiamine (Vitamin B-1)
+
+Thiamine pyrophosphate (TPP) is the biologically active form of the vitamin, formed by the transfer of a
+pyrophosphate group from ATP to thiamine. All animals require a dietary supply of thiamine, which is
+synthesized by plants or microorganisms. TPP is a cofactor used by many enzymes. It serves as a cofactor in
+the oxidative decarboxylation of -keto acids, e.g. pyruvate dehydrogenase and -ketoglutarate
+dehydrogenase reactions. It is also required for transketolase in the pentose-phosphate pathway, and appears
+to be required for synthesis of acetylcholine and therefore nerve signal transmission.
+Thiamine Deficiency
+The oxidation of pyruvate and -ketoglutarate play a key role in the energy metabolism of most tissues. If
+there is thiamine deficiency, the activity of these two dehydrogenase reactions is decreased, resulting in a
+decreased production of ATP and impaired cellular function. Thiamine deficiency will lead to a buildup of
+pyruvate levels, along with reduced levels of ATP, ribose (precursor to nucleic acids), and NADPH (as a cofactor for fatty acid synthesis).
+Well documented syndromes result from thiamine deficiency. Beri-beri is a severe thiamine deficiency
+syndrome found in areas where polished rice is the major component of the diet.
+
+
+
+
+Wet beriberi impacts cardiovascular function and leads to swelling of the legs, fluid in the lungs and
+rapid heart rate.
+Dry beriberi affects the nerves and muscles, causing memory loss and mental confusion, pain in the
+hands and feet, involuntary eye movements and trouble standing and moving.
+Wernicke-Korsakoff syndrome is most commonly seen in chronic alcoholics, and may be due to
+dietary insufficiency as a result of impaired intestinal absorption of the vitamin. This state is
+characterized by mental confusion, loss of eye coordination, and ataxia.
+Riboflavin (Vitamin B-2)
+
+Riboflavin is synthesized by all green plants, and by most bacteria and fungi, but not by animals. Riboflavin
+is used in the synthesis of FMN (flavin mononucleotide) and FAD (flavin dinucleotide). Riboflavin kinase
+synthesizes FMN from riboflavin and ATP. FAD is synthesized by subsequent adenylation of FMN by FAD
+synthetase. The flavin containing cofactors, FMN or FAD, are utilized by about 150 enzymes, including
+NADH dehydrogenase (complex I of the electron transport chain), succinate dehydrogenase (complex II of
+the electron transport chain), and methylenetetrahydrofolate reductase.
+Riboflavin deficiency is not associated with a major human disease, but it frequently accompanies other
+vitamin deficiencies and can lead to skin inflammation and breakdown around the mouth (cheilosis), nose,
+tongue.
+
+8
+
+
+=== PAGE 9 ===
+Niacin (Vitamin B-3)
+Synthesis of niacin occurs in almost all organisms, from plants to humans. In humans, tryptophan can be
+converted to niacin, but this does not supply sufficient niacin to meet the needs of the body. Niacin is thus
+classified as a vitamin. Niacin or nicotinic acid, is amidated to form nicotinamide, which is the building
+block for both NAD and NADP. Many different enzymes use NAD or NADP as coenzymes in oxidation
+reduction reactions, such as occur in the synthesis of fatty acids, cholesterol and steroid hormones.
+Niacin Deficiency
+Deficiency of niacin leads to pellagra, a disease involving the skin, GI tract, and CNS. The symptoms of
+pellagra progress through Dermatitis, Diarrhea, Dementia and if untreated, Death. (Remember the 4 “D”s).
+Pyridoxin (Vitamin B-6)
+Pyridoxine is synthesized in green plants and many microorganisms. There are three forms of vitamin B6, all
+derivatives of pyridine, differing only in the nature of the functional group attached to the ring: PyridoxalPhosphate (PLP) is the active cofactor form, serving as a coenzyme for 112 enzymes involved in the
+synthesis, interconversion, and catabolism of amino acids and heme. It functions in energy production from
+amino acids and is also involved in the synthesis of serotonin and norepinephrine, and the sphingolipids
+involved in myelinization. The cofactor forms a covalent linkage (Schiff base) with a lysyl residue in the
+enzyme which gets converted to substrate-PLP when PLP is attacked by a substrate amino group.
+Pyridoxin Deficiency
+Deficiencies in PLP can result in multiple clinical problems because of its involvement in so many enzyme
+reactions. Behavioral changes may be noted because of deficiencies in neurotransmitters and myelin
+synthesis, while anemia can also result. Isoniazid is a common drug used for the treatment of tuberculosis.
+Vitamin B6 binds very tightly to isoniazid, and becomes unavailable to act as a co-enzyme.
+Biotin (Vitamin B-7)
+Biotin is made by bacteria, and under ordinary circumstances, sufficient quantities of biotin are provided to
+mammals by intestinal bacterial synthesis. Biotin is a coenzyme in carboxylation reactions, serving as a
+carrier of activated carbon dioxide. Biotin is covalently bound to the -amino groups of lysine residues of
+biotin-dependent enzymes. Biotin is a coenzyme of pyruvate carboxylase, which catalyzes the carboxylation
+of pyruvate to form oxaloacetate, the first step in gluconeogenesis. Carbon dioxide is activated by the energy
+from ATP to bind to the biotin while it is attached to the lysine on the enzyme, and then the carbon dioxide is
+transferred to pyruvate to produce oxaloacetate. Biotin is a coenzyme in a significant number of other
+carboxylation reactions as well, e.g. cytosolic acetyl-CoA carboxylase, mitochondrial propionyl-CoA
+carboxylase, etc.
+Biotin Deficiency
+Biotin is found in numerous foods and also is synthesized by intestinal bacteria and deficiencies of the
+vitamin are rare. Deficiencies are generally seen only after long antibiotic therapies which deplete the
+intestinal fauna or following excessive consumption of raw eggs. The latter is due to the affinity of the egg
+white protein, avidin, for biotin preventing intestinal absorption of the biotin.
+
+9
+
+
+=== PAGE 10 ===
+Cobalamin (Vitamin B-12)
+Absorption of vitamin B-12: The absorption of vitamin B-12 is a complex process. Two key proteins to
+remember in this process are the R protein (a cobalamin-binding protein present in the saliva) and the
+Intrinsic Factor (IF, a protein secreted by the parietal cells of the stomach, which promotes the absorption
+of vitamin B-12 in the ileum, via a specific receptor). Vitamin B-12 is bound to proteins in the food. In the
+stomach, the acid and pepsin release vitamin B-12 from these proteins, so that the free vitamin B-12 can bind
+to the R protein. In the small intestine, trypsin from pancreas releases R protein from vitamin B-12, which
+then can bind to the intrinsic factor. The vitamin B-12 and intrinsic factor complex is absorbed into blood
+and binds to the transport protein transcobalamine II. The vitamin B-12-transcobalamine II complex then
+enters the portal vein and is delivered to liver. As mentioned above, vitamin B-12 can be stored in the liver
+for years. (For a quick review of the steps involved in the absorption of Vitamin B-12, see the animation
+presented during the lecture).
+Defects in the absorption of vitamin B-12: The absorption of vitamin B-12 may be affected due to various
+reasons such as:
+ The absence of or defective synthesis of R-protein, pancreatic proteases or intrinsic factor
+ Surgical removal of much of the ileum or stomach
+ Ileum diseases like Crohn’s disease
+ Bacterial overgrowth in the intestine
+ Tapeworm infestation
+ Use of certain anti-reflux medications that significantly reduce acid production by the parietal cells (e.g.
+Omiprazole)
+ Chronic malabsorption syndromes which may occur with various gastrointestinal disorders
+ Atrophic gastritis, which decreases the production of HCl and digestive enzymes, leading to inefficient
+cleaving of R-protein and vitamin B-12 in foods. 10-30% of older adults have atrophic gastritis and thus
+are advised to eat foods fortified with vitamin
+B-12 or take supplements, as these contain free
+vitamin B-12 which is in crystalline form that is
+readily absorbed.
+Functions: Vitamin B-12 is required for only
+two enzymatic reactions. The two functions and
+consequences of vitamin B-12 deficiency for each
+of these is briefly described below.
+1. Vitamin B-12 is required in mitochondria for
+the methymalonyl-CoA mutase reaction
+(methyl malonyl CoA conversion to succinyl
+CoA) in branched chain amino acid catabolism
+and the oxidation of fatty acids with an odd
+number of carbons.
+Consequence of vitamin B-12 deficiency:
+Accumulation of methylmalonyl CoA is the basis
+for some models on the biochemical basis of the neuropathies associated with vitamin B-12 deficiency. The
+structure of methylmalonyl CoA is similar to that of malonyl CoA. Thus in its excess, methylmalonyl CoA
+competes with malonyl CoA in fatty acid synthesis, and may also be incorporated into nascent fatty acids
+10
+
+
+=== PAGE 11 ===
+(thereby leading to branch chain fatty acids). Because glial cells undergo high rates of membrane turnover,
+defects in fatty acid synthesis may result in damage or death to these cells.
+2. The Folate Trap Hypothesis. Vitamin B-12 is involved in the conversion of cytoplasmic homocysteine
+to methionine, in the folate pathway. The figure below depicts the interconversions of H4folate in single
+carbon metabolism, along with the places vitamin B-12 and homocysteine act as co-factor and as substrate,
+respectively, in a methyl-transfer reaction in folate biochemistry.
+
+Consequence of vitamin B-12 deficiency: N5-methyl H4folate and homocysteine accumulate in the case of
+vitamin-B12 deficiency, which in turn leads to deficiency for H4folate. The inability to ‘recycle’ N5-methyl
+H4folate to H4folate effectively ‘traps’ intracellular pools of folate in the N5-methyl form. Even in the
+presence of normal dietary supplies of folate, the failure of the B-12-mediated reaction to proceed will
+continue to lead to the “trapping” of the N5-methyl derivative. Reactions that require other forms of folate,
+such as those in purine and TMP synthesis, will be inhibited. Actively dividing cells, such as those of the
+hematopoetic system, require a large pool of dNTPs as precursors for genomic replication. With folate
+‘trapped’ in the N5-methyl form, the production of purines and TMP will be adversely affected. Cell
+division rates will consequently be slowed, and the production of hematopoetic cells will be reduced. This
+results in the characteristic macrocytic megaloblastic histology (enlarged, potentially multi-nucleated cells
+that have failed to fully conclude cell division).
+Sum result of vitamin B-12 deficiency: Vitamin B-12 deficiency thus may result in pernicious anemia,
+exhibiting two types of symptoms: (i) hematopoetic (macrocytic anemia, with megaloblastic changes) and
+(ii) neurological (peripheral neuropathy via progressive demyelination). While the anemia can be reversed
+with either folate or B12 administration, if the neuropathy is severe, permanent loss of function can occur.
+Prior to vitamin therapy, this disease was frequently fatal. Fortunately, dietary deficiency for vitamin B-12
+is now quite rare in developed societies. One of the principal causes of pernicious anemia is an autoimmune
+reaction against parietal cells of the stomach. Development of antibodies against an H+/K+-ATPase located
+on the lumenal surface of parietal cells leads to infiltration of T and B cells into the submucosa and the
+lamina, with degenerative changes in parietal cells. Antibodies against IF have also been occasionally
+observed. The Schilling test is used for patients with vitamin B12 deficiency to determine whether the patient
+has pernicious anemia.
+11
+
+
+=== PAGE 12 ===
+Folic acid
+Folic acid or folate plays a key role in one-carbon metabolism, transferring one-carbon fragments from
+donors such as serine, glycine and histidine to intermediates in the synthesis of amino acids purines and
+thymine. Folic acid is obtained primarily from yeasts and leafy vegetables as well as animal liver. The
+folates are a collection of pteridine ring-based water soluble molecules. PABA (para-aminobenzoic acid) is
+an intermediate in the synthesis of folic acid, which gets converted to dihydropteroic acid. This in turn gets
+converted to dihydrofolic acid. Animal cannot synthesize PABA (para-aminobenzoic acid) nor attach
+glutamate residues to pteroic acid, thus, requiring folate intake in the diet. When stored in the liver or
+ingested, folic acid exists in a polyglutamate form. Intestinal mucosal cells remove some of the glutamate
+residues through the action of the lysosomal enzyme, conjugase. The removal of glutamate residues makes
+folate less negatively charged (from the polyglutamic acids) and therefore more capable of passing through
+the basal lamenal membrane of the epithelial cells of the intestine and into the bloodstream. Folic acid is
+reduced within cells (principally the liver where it is stored) to tetrahydrofolate (THF also H4folate) through
+the action of dihydrofolate reductase (DHFR), an NADPH-requiring enzyme.
+Folic Acid Deficiency: A deficiency of folic acid will lead to megaloblastic anemia, due to the decreased
+synthesis of purines and thymidine and resultant inability of cells to make DNA and divide. Note that
+vitamin B-12 deficiency will also lead to the same consequences. Folate deficiency can also cause neural
+tube defects in the fetus, again as a consequence of decreased DNA synthesis and cell division. Folic acid
+was the most common vitamin deficiency in the US, particularly among pregnant women and alcoholics,
+which led to supplementation of foods with this vitamin.
+
+Pantothenic acid (Vitamin B-5)
+Pantothenic acid is synthesized by green plants and most microorganisms. Pantothenic acid is a component
+of coenzyme A, which functions in the transfer of acyl groups It is also a component of phosphopantetheine
+in fatty acid synthase. Co A is required for reactions involving transfer of acyl groups, including the
+metabolism of fats, carbohydrates, and proteins. More than 70 enzymes use CoA or CoA derivatives.
+Deficiency is very rare because of the essential nature of CoA. No RDA has been established and no UL has
+been established because there have been no adverse effects. Eggs, liver and yeast are the most important
+sources of pantothenic acid although the vitamin is widely distributed.
+Ascorbic (Vitamin C)
+Ascorbic acid is more commonly known as vitamin C. Ascorbic acid is a dietary essential for human beings,
+other primates, and the guinea pig, but can be synthesized by all other species of animals. The most
+important reactions requiring ascorbate as a cofactor are those catalyzed by prolyl hydroxylase and lysyl
+hydroxylase. This leads to the hydroxylation of proline, which is essential for collagen stability, and for
+hydroxylysine residues involved in collagen cross-linking to form strong fibrils. Vitamin C is, therefore,
+required for the maintenance of normal connective tissue as well as for wound healing and bone remodeling.
+Deficiency in vitamin C: Vitamin C deficiency leads to the disease scurvy due to the role of the vitamin in
+the post-translational modification of collagens. Scurvy is characterized by easily bruised skin, muscle
+fatigue, soft swollen gums, decreased wound healing and hemorrhaging, osteoporosis, and anemia. Vitamin
+C is readily absorbed and so the primary cause of vitamin C deficiency is poor diet, and this is rare today.
+
+12
+
+
+=== PAGE 13 ===
+Other metabolic reactions requiring vitamin C as a cofactor include the catabolism of tyrosine and the
+synthesis of epinephrine from tyrosine and the synthesis of the bile acids. Another function of ascorbate is as
+a reducing agent in a number of different reactions, e.g. aiding in the intestinal absorption of iron by
+reducing ferric iron to ferrous iron. It is involved in the biosynthesis of corticosteroids, aldosterone, the
+conversion of cholesterol to bile acids and functions as a reducing agent for mixed-function oxidases.
+Vitamin C is known for its antioxidant properties, and may act as a free radical scavenger which could play a
+role in the prevention of certain chronic disorders, aging, etc.. Vitamin C is the most unstable of vitamins. It
+is destroyed by long term storage and exposure to alkali. Megadoses of vitamin C have been suggested to
+combat the common cold. However, controversy still surrounds this proposal.
+Minerals
+Minerals are inorganic substances, which are critical for body functions including cell metabolism, nerve
+impulse transmission, growth and development as depicted in the figure given below. Based on their amount
+present and required for proper functioning of body, minerals can be divided into two categories,
+macrominerals and microminerals. There are eleven essential macrominerals: (i) sodium, potassium,
+magnesium, calcium, phosphorus, and chloride and (ii) non-metallic elements in macronutrients like
+proteins, and fats: hydrogen, carbon, nitrogen, oxygen, and sulfur. The nine essential microminerals (trace
+minerals) are iodine, iron, copper, zinc, manganese, molybdenum, selenium, chromium, fluoride. Some
+books categorize cobalt as essential trace element, as it is a component of vitamin B12. However, in general,
+the above nine are considered essential trace elements. Microminerals are also called as trace minerals as
+these are generally present in most tissues at concentrations of less than 100 microgram/gram (100 ppm) or
+required in the diet only in microgram or milligram quantities. Most important trace elements in clinical
+nutrition are zinc, copper, selenium, iodine, iron and fluoride, as deficiency of these minerals is most
+prevalent world-wide.
+Dietary Reference Intakes, tolerable upper limits, and food sources for zinc, copper, selenium, iodine
+and iron
+Mineral
+RDA
+UL
+Food sources
+(mg/day)
+Zinc
+Males: 11 mg
+40
+Seafood (especially oysters), whole grains, meat,
+Females: 8 mg
+fortified cereals
+Copper
+10
+Liver, cocoa, legumes, shellfish, whole grains
+900 g
+Selenium
+0.4
+Meat, eggs, fish, sea-foods, whole grains, nuts
+55 g
+Iodine
+1.1
+Iodized salt, salt-water fish, dairy products
+150 g
+Iron
+Males: 8 mg
+45
+Meat, whole grain, rice, molasses, enriched breads
+Females (19-50
+and cereals, seafood, eggs, leafy greens, such as
+years): 18 mg
+spinach, broccoli, kale, turnip greens, collards,
+beans, peas, lentils
+
+13
+
+
+=== PAGE 14 ===
+Blood forming
+and clotting
+Water and ion
+balance
+•Sodium
+•Potassium
+•Chloride
+•Phosphorous
+•Water
+
+•Iron
+•Copper
+•Calcium
+
+Bone health
+•Calcium
+•Phosphorus
+•iron
+•Zinc
+•Copper
+•Fluoride
+•Manganese
+
+Growth and
+development
+
+Antioxidant
+defenses
+
+•Calcium
+•Phosphorous
+•Zinc
+
+•Selenium
+•Zinc
+•Copper
+•Manganese
+
+Cell metabolism
+Muscle contraction,
+relaxation
+•Sodium
+•Potassium
+•Chloride
+•Calcium
+•Magnesium
+
+Nerve impulses
+•Sodium
+•Potassium
+•Chloride
+•Calcium
+
+•Calcium
+•Magnesium
+•Phosphorus
+•Zinc
+•Chromium
+•Iodide
+•Water
+
+Water and minerals are involved in several processes in the body
+
+Zinc
+With the exception of iron and iodine, essentiality of most trace minerals has only been recently recognized.
+Intensive research on these began in early 1960s, with the discovery of a group of Middle-Eastern adolescent
+boys who showed symptoms such as, dwarfism and undeveloped sexual organs. Later on, they were
+diagnosed to be zinc deficient.
+Why is zinc essential?
+Zinc is an essential component of several enzymes including metalloenzymes and proteins. It is important
+for healing, the sense of taste and smell, DNA synthesis and proper functioning of immune system, heme
+synthesis, bone formation, growth and development during pregnancy, childhood and adolescence. Very
+high doses of zinc reduced duration of cold symptoms in one study. Other studies have found no benefit, but
+zinc lozenges are sold in many pharmacies. Because of the widespread deficiency of zinc in poor countries,
+zinc supplements are given to young children to reduce morbidity and mortality from pneumonia & diarrhea.
+
+14
+
+
+=== PAGE 15 ===
+Absorption and metabolism of zinc
+Zinc is absorbed through small intestine, which can be decreased by phytic acid and fiber in whole grains as
+well as high non-heme
+iron
+intake.
+After
+Zinc in food
+absorption into the
+intestinal cells, zinc
+If the body does not need zinc
+induces the synthesis
+of metallothionein, a
+Mucosal cells in
+The pancreas uses zinc to
+protein that binds zinc
+intestine store
+make digestive enzymes
+Zinc is excreted in shed
+excess
+zinc
+in
+and thus at least party
+and secretes them into
+intestinal cells
+metallothionein
+the intestine
+regulates
+the
+absorption of zinc. If
+If the body needs zinc
+body does not need
+zinc, it is excreted in
+shed intestinal cells. If
+Metallothionein
+releases zinc to
+the body needs zinc, it
+albumin and
+binds to proteins like
+transferrin for
+albumin
+for
+transport
+transportation. There is
+no storage site for zinc, but body maintains an exchangeable pool of zinc in liver, pancreas etc, which helps
+it recycle it when its intake is low. As excess zinc is excreted through the feces, the risk for toxicity is
+decreased. Small amounts are excreted in urine and sweat. Large doses of zinc however can override this
+mechanism and lead to toxicity.
+Zinc deficiency
+As zinc is component of several enzymes and proteins, it is logical to think that its deficiency will be
+manifested at various physiological levels. Substantial evidence clearly indicates that the cell-mediated
+immune system is adversely affected by zinc deficiency. Described below are important zinc deficiencies.
+
+
+
+
+Acrodermatitis Enteropathica. It is a rare, autosomal recessive disorder, characterized by skin lesions,
+diarrhea, alopecia, anorexia, growth impairment, delayed sexual maturation, and increased susceptibility
+to infection. Persons with this disorder have very low plasma zinc concentrations (22 mcg/dl; normal is
+70-120 mcg/dl). This condition is generally fatal if untreated. Treatment with sufficient oral zinc results
+in rapid recovery.
+Adolescent Zinc Deficiency. This is a clearly described syndrome, in which males are primarily
+affected. Main symptoms include growth impairment, hypogonadism, delayed onset of puberty, failure of
+development of secondary sexual characteristics. This condition responds well to oral zinc supplements.
+
+Zinc Deficiency may also be associated with various chronic infectious diseases and malabsorption disorders
+and may arise due to alcoholism. Zinc deficiency in alcoholics may be due to enhanced urinary excretion of
+zinc as well as poor diet. Some studies in New Jersey, Alabama, and Chile demonstrated that maternal zinc
+deficiency may be common and results in reduced fetal and neonatal growth.
+Zinc toxicity
+The UL for zinc is 40 mg/day. Ingesting amounts higher than 100 mg can result in diarrhea, cramps, nausea,
+vomiting and decreased immune system function. Megadoses of zinc may also interfere with copper
+absorption and metabolism, as these two minerals share a common protein, metallothionein, for their
+absorption. Thus, high concentration of zinc competes with binding and absorption of copper. The UL of
+zinc is specifically designed to avoid copper deficiency.
+15
+
+
+=== PAGE 16 ===
+Copper
+Why is copper essential?
+The ability of copper to alternate between two oxidation states (Cu+ and Cu++) makes it important component
+of many proteins such as, ceruloplasmin, which is involved in the oxidization of iron for its subsequent
+transport to body cells. Low levels of this enzyme result in decreased synthesis of hemoglobin and
+development of anemia. Therefore, copper and iron metabolism are closely linked. Copper is also part of
+superoxide dismutase family, which prevents oxidative damage to the cells. Copper is involved in the
+regulation of neurotransmitters and has an important role in connective tissue formation as a component of
+lysyl oxidase. This enzyme cross-links the strands in elastin and collagen.
+Absorption and metabolism of copper
+Similar to zinc, copper is absorbed through small intestine, transported to blood cells, binds to albumin, and
+then transported to liver and kidneys. Metallothionein is involved in the process as mentioned above. Liver is
+the main storage site for copper, however very little copper is stored in the body. For transport from liver to
+other tissues, copper is bound to ceruloplasmin, which binds to the specific receptors within the tissues and
+releases copper. Excretion of copper is through bile into the feces.
+Copper deficiency
+Causes of copper deficiency include, (i) bariatric & peptic ulcer surgery, (ii) malabsorption diseases, (iii)
+treatment with chelating agents such as EDTA, D-penicillamine used for the treatment of lead poisoning and
+(iv) ingestion of high-dose Zn supplements or consumer products with high zinc levels. e.g. denture creams
+or pennies. Sometimes it also occurs due to unknown reasons.
+Recent studies show that copper deficiency may cause myelopathy and peripheral neuropathy with
+symptoms and MRI results that resemble neuropathy due to vitamin B12 deficiency. The latter may co-exist
+with copper deficiency. Anemia (mostly microcytic-small RBCs) and neutropenia co-exist with the
+neurologic manifestations. Copper supplementation will correct the anemia and neutropenia, but may not
+reverse the neuropathy. Copper deficiency is also manifested as Menkes Syndrome, a recessive, X-linked
+trait, in which cellular copper transport is defective.
+Copper toxicity
+ Wilson's Disease. This is a rare autosomal recessive disorder. It is characterized by low plasma levels of
+copper and ceruloplasmin and high tissue concentrations of copper and results in brain and liver lesions.
+Treatment with D-penicillamine or high doses of zinc is effective. However, treatment with Dpenicillamine may lead to zinc deficiency.
+ Hemodialysis. High concentrations of trace elements in contaminated dialysis fluids may have toxic
+effects. Copper (also aluminum and zinc) toxicity is occasionally found in such patients.
+
+Selenium
+Why is selenium essential?
+Selenium functions at the core of several selenoproteins, many of which are act as antioxidants, e.g. the
+glutathione peroxidases (GPXs), thioredoxin reductases (TRs) and iodothyronine deiodinases (DIs). GPXs
+for example, break down peroxides like hydrogen peroxide to water, thus preventing them from forming free
+radicals and damaging cells. Other selenoproteins are needed for proper functioning of immune system and
+thyroid gland. The deiodinase enzymes that convert thyroxine to triiodothyronine require selenium. There
+16
+
+
+=== PAGE 17 ===
+are some studies which indicate that selenium may be beneficial in lowering the risk of prostate, colon and
+other cancers. However, more research is needed in this area.
+Selenium deficiency
+Keshan disease. This is a congestive cardiomyopathy caused by dietary deficiency of selenium. It is named
+after Keshan Providence in China, where symptoms were first noted. Later on it was found that this
+condition is widespread in areas extending from northeast to southwest China, due to selenium-deficient soil.
+This condition is often fatal and often affects children and women of child bearing age. It is characterized by
+heart failure and pulmonary edema. This has now been largely eradicated by dietary selenium fortification.
+Selenium toxicity
+Plants growing in the soils containing high levels of soil can accumulate very high levels of selenium leading
+to toxicity in the cattle and horses grazing on them such as loss of hair and weight, affected muscle function
+and even death. It is said that selenium poisoning may have played a role in the late arrival of troops to the
+battle of Little Bighorn. General George Custer was hoping for reinforcements, but a "peculiar sickness"
+developed in the horses traveling across the plains, through what are now known to be high selenium
+regions. Selenium toxicity symptoms in humans include nausea, diarrhea, fatigue, irritability and nervous
+system disorders, hair loss, brittleness of nails, skin rashes and garlic breath odor.
+Iodine
+Why is iodine essential?
+Iodine is needed for proper functioning of thyroid and production of thyroid hormones, thyroxine (T4) and
+triiodothyronine (T3). These hormones play vital role in cell metabolism and are thus critical for regulation
+of basal energy expenditure, macronutrient metabolism, growth and organ maturation. The thyroid gland
+traps iodide from the blood stream and accumulates it for the synthesis of these hormones.
+Iodine deficiency
+Iodine deficiency is the second most prevalent trace element deficiency in the world. Deficiency causes
+impaired growth, cognitive impairment, goiter (enlarged thyroid), and other problems. If there is a deficiency
+in iodine, the pituitary gland secretes TSH, thyroid-stimulating hormone. The thyroid gland thus enlarges
+(goiter) in response to the increased levels of TSH, trying to remove as much iodide as possible from the
+bloodstream. It is important to note that enlarged thyroid gland can also be due to certain diseases or
+conditions not related to iodine intake. Fetus is especially susceptible to iodine deficiency as it can lead to
+conditions such as low birth weight, neurological disorders, and impaired mental function. The restriction of
+brain development and growth is called as cretinism. This is characterized by short stature, severe cognitive
+impairment etc.
+Iodine toxicity
+High intake of iodine was reported especially in certain parts of Japan due to high consumption of iodinerich seaweeds. High intake of iodine may increase the risk of papillary cancer.
+
+Iron
+Why is iron essential?
+Iron is component of important proteins such as hemoglobin, myoglobin, and cytochromes. Hemoglobin is
+present in red blood cells and carries oxygen to tissues, myoglobin is present in muscles and controls oxygen
+uptake from red blood cells, while cytochromes are group of proteins that carry electrons during certain
+17
+
+
+=== PAGE 18 ===
+reactions involved in release of energy from macronutrients. Thus, well-functioning of all these systems is
+necessary to provide energy to the cells to perform work; absence of which leads to fatigue, a major
+symptom of iron deficiency.
+Iron deficiency
+Iron deficiency is the most prevalent deficiency in the world. Iron deficiency is a fairly common problem in
+premenopausal women, while it is least in elderly people (hence the absence of iron in ‘silver’
+supplements).
+Iron deficiency often exists without anemia, but deficiency without anemia will progress to anemia
+(microcytic) if causes of deficiency are not corrected. In microcytic anemia, red blood cells are small due to
+insufficient hemoglobin production. Some of the main symptoms of iron deficiency include:
+ Fatigue, reduced work capacity and exercise tolerance
+ Sensation of feeling cold
+ Affected neurotransmitter function, and immunologic and inflammatory defenses
+ Pica (compulsive eating of nonfood items)
+ Pagophagia (compulsive eating of ice)
+ Pallor, pale conjuctiva and spoon nails
+Iron toxicity
+Iron also poses a risk if consumed in excess, thus, upper level of 45 mg/day has been set for iron. Intakes
+above this level, especially from supplements and highly fortified foods can cause nausea, vomiting, stomach
+irritation, diarrhea and impaired absorption of other minerals. In United States, accidental iron overdose is
+the leading cause of poisoning in the children under the age of six years. Adult overload may also result from
+frequent blood transfusions.
+Hemochromatosis (primary) is a genetic condition that is responsible for iron overload in adults, more
+prevalent in men than women, usually diagnosed after age 35. Symptoms are not specific and may include
+impotence, severe fatigue, bronze or gray skin, chest pain, abdominal pain, and depression. The normal
+degradation of transport protein is not efficient in this condition, leading to excess absorption and transport
+of iron to tissues leading to overload of iron and tissue injury, deposits in liver, heart and other organs,
+eventually liver disease and heat failure. Treatment with periodic phlebotomy to decrease iron stores is very
+effective for this condition. Also avoid vitamins with iron or vitamin C which promotes iron absorption, and
+avoid alcohol if there is liver damage. Secondary hemochromatosis occurs due to excess intake of iron.
+Note: In accordance with the ACCME Essentials and Standards, everyone involved in planning and
+presenting this CMSRU educational lecture has no relevant commercial relationships or conflicts of interest.
+There is no commercial support for this program. Instructional materials contained in this document may
+include copyrighted material. The copyright law of the U.S. (Title 17, United States Code) governs the
+making of photocopies or other reproductions of copyrighted material. Please do not reproduce, or transmit,
+any portion of this content. This is strictly for use within CMSRU class. This is posted only on the
+Blackboard which is protected by password. This is in compliance with fair use regulations.
+
+18
+

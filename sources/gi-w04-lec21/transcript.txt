@@ -1,0 +1,942 @@
+[00:00:00] Let's get ready to rumble.
+[00:00:04] All right.
+[00:00:08] All right, so We're moving on.
+[00:00:12] We just did upper GI cancers.
+[00:00:13] We're gonna move on to, uh, to lower GI cancers.
+[00:00:17] Thanks, Doctor Talabisa.
+[00:00:19] He made me sound pretty cool, didn't he?
+[00:00:21] Plugged me a bunch of times.
+[00:00:22] It was great.
+[00:00:22] Um, so now we're gonna be talking about lower GI
+[00:00:25] cancers, uh, oh, I would, I have to mention this.
+[00:00:30] At one o'clock, we have a review session.
+[00:00:31] It's just a one-hour session.
+[00:00:33] Uh, we'd love you to come.
+[00:00:34] It's 20 questions as in our usual pattern.
+[00:00:37] So, uh, one o'clock.
+[00:00:39] So you get an hour's lunch, come back, and we'll
+[00:00:42] have fun.
+[00:00:44] So, colorectal cancer or, or colon cancer is basically lower
+[00:00:47] GI cancers.
+[00:00:47] Obviously, this has been a theme throughout your entire week,
+[00:00:51] and this is meant to fortify a lot of the
+[00:00:53] information that you, you've had in, um, in your ALGs
+[00:00:57] and, and give you some additional detail.
+[00:01:00] If there's any questions that pop up in ALG certainly
+[00:01:02] that are relevant to this, please feel free to ask.
+[00:01:06] Um, so, Objective-wise, we're gonna be looking at the presentation
+[00:01:13] of hereditary GI cancer syndromes.
+[00:01:16] These are well-recognized and understood, and um boards likes them
+[00:01:22] because of that fact, however uncommon they might be, but
+[00:01:25] they're not as uncommon as you think.
+[00:01:27] And have a working knowledge of the clinical genetics of
+[00:01:30] some of these syndromes.
+[00:01:31] By the way, a lot of the clinical genetics in
+[00:01:34] these syndromes also translate to sporadic cancers, meaning a lot
+[00:01:38] of the mutations that you'll see in one, you'll also
+[00:01:42] see in sporadic cancers.
+[00:01:43] So it gives you an idea that there's a, there's
+[00:01:45] a, an underlying microbiologic pathway that's at work here.
+[00:01:50] And we're gonna review these, uh, hereditary cancers.
+[00:01:53] We will talk a little bit about gastric, um, hepatic
+[00:01:56] and, and, uh, pancreatic cancers, although that's supplemental information, and
+[00:02:02] we're gonna talk about some of the, uh, heritability trends.
+[00:02:05] So, colon cancer, epidemiology, risk factors, genetics, HMPCC invariants, FAP
+[00:02:11] and variants, some screening, pancreatic cancer, gastric cancer.
+[00:02:16] Like I said, that's supplementary information.
+[00:02:19] So, starting with colon cancer, it's incredibly common.
+[00:02:23] Very likely that you will know somebody that develops a
+[00:02:26] colon cancer, 4th most common cancer in the United States,
+[00:02:29] 9% of all new cancers in men, 11% in women,
+[00:02:33] uh, 6% of the population will develop it.
+[00:02:35] You know more than 100 people.
+[00:02:38] You will see somebody that develops colorectal cancer and a
+[00:02:41] 2.6% lifetime risk of dying from colon cancer.
+[00:02:45] So not uncommon.
+[00:02:48] And we actually haven't been great at screening.
+[00:02:51] When you look, this is a little bit of an
+[00:02:52] older slide, but still holds true the pattern.
+[00:02:55] So, if you look at the top, uh, uh, Pap
+[00:02:59] testing and, and mammography, we've done a lot better job,
+[00:03:02] but colorectal cancer, we haven't done uh as good of
+[00:03:05] a job.
+[00:03:05] And it's interesting, you see where the curve shifts.
+[00:03:09] Where all of a sudden the numbers start to go
+[00:03:11] up right around 2003.
+[00:03:13] And this is something that's called the Katie Couric effect.
+[00:03:15] Do you guys, do you guys know who Katie Couric
+[00:03:17] is?
+[00:03:17] She was part of the NBC, uh, Today Show.
+[00:03:21] And so, in 1997, her husband, Jay Moynihan, was diagnosed
+[00:03:24] with colon cancer and then within nine months died, and
+[00:03:27] he was 42.
+[00:03:28] Yeah, uh, and then she used her, her national platform
+[00:03:32] and really decided, I'm gonna make this understood that we're,
+[00:03:36] we're not screening as well.
+[00:03:38] And even went on TV and had her colonoscopy, you
+[00:03:41] can pull it up online and had her colonoscopy, uh,
+[00:03:44] aired live on TV, um, and It's thought that that,
+[00:03:49] that this really increased.
+[00:03:50] It's, it's known as the Kirk effect that increased our
+[00:03:52] colorectal cancer screening.
+[00:03:54] We still have a ways to go.
+[00:03:54] We're still under 80% of people that should be screened,
+[00:03:59] uh, you know, there's 20% that we're missing for various
+[00:04:02] reasons.
+[00:04:05] When we look at the way that colon cancer comes
+[00:04:09] about, the vast majority of sporadic cancers, like 75%.
+[00:04:13] Then there is the, you know, 25% which are familial,
+[00:04:19] but we don't understand what the genetic.
+[00:04:23] We don't understand if that's genetically related, we think it
+[00:04:26] is, but we don't understand the, the molecular biology of
+[00:04:29] that.
+[00:04:30] And then there's the syndromes that are not as common
+[00:04:32] like Lynch syndrome, also known as HNPCC.
+[00:04:37] They are not synonymous, but for our purposes, they are.
+[00:04:41] And then FAP familial adenomatous polyposis, these have tons of
+[00:04:45] polyps, these have very few polyps, and then the hammertomati
+[00:04:48] syndromes, which in general, you might have seen in the
+[00:04:51] ALG that hamartoma are generally not pre-cancerous, however, certain circumstances
+[00:04:57] they might be.
+[00:05:00] In terms of epidemiology, we know that uh cancers in
+[00:05:03] the ascending and sigmoid, particularly the ascending, are going up
+[00:05:06] and cancers in the rectum are going down.
+[00:05:09] We're not sure what kind of factors are because of
+[00:05:12] that, whether it's our screening or epigenetics.
+[00:05:16] And it varies regionally, which suggests dietary components, but we're
+[00:05:19] not sure.
+[00:05:20] Northeast and north central states higher than southern states and
+[00:05:24] western states, although the southern states are catching up a
+[00:05:26] little bit.
+[00:05:27] And then migration trends.
+[00:05:30] We always wanna know why, what are we doing that's,
+[00:05:33] that's causing the problem, what environmental factors?
+[00:05:35] We know that people uh who migrate from areas where
+[00:05:39] there's low risk.
+[00:05:41] When they go to a high risk area, probably we
+[00:05:43] think dietary related, that their risk of colon cancer then
+[00:05:47] mimics the area in which they live.
+[00:05:50] And this is evident.
+[00:05:51] I mentioned Japan on that previous slide, a lot of
+[00:05:54] fruits and vegetables and, and non-red meat fats, as compared
+[00:05:59] to places like New Zealand and the United States where
+[00:06:02] you have a lot higher consumption of, of uh animal
+[00:06:06] fats.
+[00:06:07] Uh, we don't know.
+[00:06:10] This is asked several times in different ALGs, whether or
+[00:06:13] not processed foods are part of this.
+[00:06:15] We think there's no data.
+[00:06:17] But something that happens environmentally contributes to this problem.
+[00:06:22] Risk factors, age.
+[00:06:23] As you get older, your ability genetically to combat cancers,
+[00:06:27] or corrective mechanisms and tumor suppressive mechanisms disappear from mutations.
+[00:06:33] Certainly any chronic inflammatory states anywhere in the body, but
+[00:06:37] for something like Crohn's and ulcerative colitis, ulcerative colitis is
+[00:06:39] more common to develop colorectal cancer, but Crohn's still a
+[00:06:41] higher risk than the average population.
+[00:06:44] If you develop one polyp, you're more likely to develop
+[00:06:47] another polyp.
+[00:06:49] Certainly the hereditary colorectal cancer syndromes, something like prior abdominal
+[00:06:53] radiation, which might uh alter our ability uh genetically to
+[00:06:58] fight some of these cancers.
+[00:07:00] Then there's other risk factors, uh, African African-American more than
+[00:07:04] Caucasian, male more than female, acromegaly, something about the growth
+[00:07:08] hormone, stimulates, uh, excessive, um, excessive cellular replication.
+[00:07:14] Patients on immunosuppression, once again, you're decreasing your ability to
+[00:07:18] fight off tumors genetically.
+[00:07:20] Um.
+[00:07:22] Obesity, we're gonna talk about obesity, diabetes, alcohol, cigarette smoking,
+[00:07:28] certainly, and then cholecystectomy, uh, right-sided colon cancer.
+[00:07:32] I wanna go over some of the, the, um, the
+[00:07:36] microbiology, of why this might be the case.
+[00:07:41] So, we already talked about it, migration studies link diet
+[00:07:43] and environment.
+[00:07:44] You move from one place, low, low in animal fat
+[00:07:47] to another place, higher in animal fat.
+[00:07:50] More vegetables, fruits and vegetables, less fruits and vegetables, and
+[00:07:53] your risk of colorectal cancer goes up.
+[00:07:55] Diets with increased fat, particularly in the descending and sigmoid
+[00:07:59] colons, we're not sure why.
+[00:08:01] And if you look at places that consume a lot
+[00:08:03] of fat, like the United States, 45 to 50 or
+[00:08:06] 40 to 55, 40 to 45% of our total caloric
+[00:08:09] intake is fat, as compared to other places that eat
+[00:08:13] a lot of fruits and vegetables, 10 to 15%.
+[00:08:16] Actually, there's some studies that, that talk about physical activity
+[00:08:20] and, and obesity, probably part of the same pathway.
+[00:08:24] If you're low physical activity and you have obesity, you're
+[00:08:27] more likely to develop colorectal cancer.
+[00:08:31] And why?
+[00:08:31] There's, there's some pathways we, we think about.
+[00:08:35] So, when you have, when you're consuming excess fats, you
+[00:08:37] have, you have cholesterol.
+[00:08:39] That cholesterol needs to be processed, broken down, excreted.
+[00:08:42] So, what does our body do, right?
+[00:08:44] Well, Our liver makes primary bile acids.
+[00:08:48] It goes through the gut, where you have dehydroxylation by
+[00:08:50] gut bacteria, secondary bile acids, and this leads to a
+[00:08:55] whole bunch of conjugated bile acids below.
+[00:08:59] Well, what do we know about bile acids?
+[00:09:02] They activate the arachnoidonic pathway.
+[00:09:05] And Well you also see that uh through the cyclooxygenase,
+[00:09:10] through this whole pathway where you will have these downstream
+[00:09:13] meteors, prostaglandin E2, thromboxane A2.
+[00:09:18] These are pro-inflammatory, pro-angiogenous mediators, which kind of links diet
+[00:09:24] to colorectal cancer.
+[00:09:25] Interestingly, Cyclo-oxygenase, right?
+[00:09:29] We have ways to inhibit this, right?
+[00:09:31] NSAIDs and aspirin.
+[00:09:33] So, theoretically, and not just theoretically, people on NSAIDs and
+[00:09:36] aspirin have a lower risk of colorectal cancer, and it's
+[00:09:39] thought through this uh pathway.
+[00:09:42] When we take it further and we look at thromboxane
+[00:09:44] A and prostaglandin E2 with their pro-inflammatory and pro-angiogenic properties,
+[00:09:52] they basically will increase angiogenesis.
+[00:09:54] This is something that Cells that are rapidly producing uninhibited,
+[00:09:59] they get a selective advantage, right?
+[00:10:01] So, more angiogenesis, less apoptosis, and higher cellular proliferation.
+[00:10:06] So you're feeding the blood supply, and, and those cells
+[00:10:10] aren't dying as much.
+[00:10:12] So it makes a lot of sense.
+[00:10:15] This is everything that I just said.
+[00:10:17] So it's there for you.
+[00:10:20] Other protective factors, so.
+[00:10:23] I just mentioned aspirin and NSAIDs, for sure.
+[00:10:26] Interestingly, hormone replacement therapy is kind of controversial.
+[00:10:30] Um, people on estrogen and progesterone tend to have a
+[00:10:33] lower risk of developing colorectal cancer, but when you look
+[00:10:37] at the data, it doesn't really decrease dying from colorectal
+[00:10:41] cancer, and we're not sure what that's about exactly.
+[00:10:45] Um, so it's not a recommendation.
+[00:10:47] We talked about physical activity, we already talked about diet,
+[00:10:51] fiber, there's good data, we'll talk about that in a
+[00:10:53] minute.
+[00:10:53] Calcium, decent data, vitamin B6, some data.
+[00:10:58] Other agents really here, vitamin D, garlic, statins, magnesium, fish
+[00:11:02] oil, don't really pan out.
+[00:11:06] But these are the ones that, that are thought to
+[00:11:09] be and recommended with some caveats for kind of uh
+[00:11:13] primary and secondary prevention.
+[00:11:17] So possible protective mechanisms.
+[00:11:19] Well, calcium binds to ionized fatty acids and bile acids
+[00:11:22] to form insoluble calcium compounds.
+[00:11:26] Calcium suppresses, suppresses mucosal ornithine decarboxylase, which is an enzyme
+[00:11:31] found in cells with rapid proliferation.
+[00:11:33] And you will see it in certain cancers, particularly elderly
+[00:11:36] patients with, with colon polyps.
+[00:11:38] So, and, and also calcium may decrease some of the
+[00:11:42] KRAS, uh, uh, the, the, the bad effects of KRAS
+[00:11:45] mutations, which we'll talk about some of the mutations in
+[00:11:47] a minute.
+[00:11:49] Possible protective mechanisms for dietary, for high fiber.
+[00:11:53] So it dilutes the carcinogens, minimizes the contact with the,
+[00:11:56] with the clonic mucosa, and um it may decrease some
+[00:12:00] of the, the bacterial, the harmful effects of the bacterial
+[00:12:03] enzymes that, uh, that ferment the fecal flora and the
+[00:12:07] short chain fatty acids, lowers pH and inhibits carcinogenesis.
+[00:12:10] That's the thought process of how it works.
+[00:12:15] Another question that came up in the ALGs is the
+[00:12:17] symptoms.
+[00:12:18] Um, oftentimes, People will present with fatigue, dyspnea, angina, and
+[00:12:24] really that's due to an iron deficiency anemia.
+[00:12:27] These patients, these patients sometimes will have pain, nausea, uh,
+[00:12:32] vomiting from obstruction, and these tend to be left-sided cancers,
+[00:12:36] um, but oftentimes they won't have any pain.
+[00:12:39] The vast majority of times, you will do a physical
+[00:12:41] exam and, and feel a mass.
+[00:12:44] I do a rectal exam and I could feel a
+[00:12:45] mass.
+[00:12:46] Uh, so sometimes you'll feel it, not so common, but
+[00:12:49] these proximal lesions because of the stool content.
+[00:12:54] It's liquid in in the cecum in the right colon,
+[00:12:57] so they, those patients oftentimes don't get obstructive symptoms, they
+[00:13:01] might present with anemia, uh, and patients with left-sided disease
+[00:13:05] are more likely to have obstructive symptoms and and anemia.
+[00:13:09] Sometimes, oftentimes people have no symptoms.
+[00:13:14] And this is just reiterating kind of what I said,
+[00:13:16] but basically on the left side, more obstructive symptoms, and
+[00:13:19] on the right side, more, more of an anemia.
+[00:13:26] Diagnostic studies, there's a lot for years and years and
+[00:13:29] years, we've been talking about how do you diagnose it.
+[00:13:31] Yeah, well, of course, you get in the office and
+[00:13:33] you can do a physical exam.
+[00:13:34] A history and physical and kind of figure that out.
+[00:13:37] I put on there double contrast barium enema, more of
+[00:13:41] historical relevance, although sometimes I will still order that test.
+[00:13:46] It doesn't give me any of the other confusing stuff
+[00:13:48] in terms of other organs, and it just focuses on
+[00:13:51] the colon, and you can see this is what they
+[00:13:53] call an apple core lesion, right?
+[00:13:55] It looks like an apple, apple that's been bitten out
+[00:13:56] in the middle, um, but it, it can be useful.
+[00:14:00] I still will order this test, not very commonly.
+[00:14:03] Uh, virtual colonoscopy is something that was popular about 15
+[00:14:06] years ago, and basically, you give somebody a bowel prep,
+[00:14:09] and then you do a CAT scan, and you see,
+[00:14:12] and, and, and the way that they can design the
+[00:14:14] images, is it can look intraumminally, even though CAT scans
+[00:14:18] are really Good at looking at organs and tissues and
+[00:14:21] not as good at looking at, at lumens.
+[00:14:24] This will look intraluminally and, uh, what you can see,
+[00:14:27] they can, they can reconstruct the images and what you'll
+[00:14:29] see is a polyp here, right?
+[00:14:31] And they can, you can also see these things here.
+[00:14:34] Um, the problem with this is when you're talking about
+[00:14:37] the type of polyp.
+[00:14:39] You started talking about the different types of polyps that
+[00:14:41] you'll see.
+[00:14:42] Some of the polyps like the sessile serrated polyps are
+[00:14:46] actually flat and hard to see, so a CT colonography
+[00:14:51] will not detect this.
+[00:14:53] Um, additionally, prep is an issue, radiation is an issue,
+[00:14:58] so, Not as popular, was popular 15 years ago.
+[00:15:02] Now, I would go more to some of the stool-based
+[00:15:05] tests, something like a Cologuard or FIT test over a
+[00:15:08] CT colonography.
+[00:15:10] Colonoscopy, of course, we know all about that.
+[00:15:13] Other studies.
+[00:15:13] So, um, we talked a little bit about CT scans.
+[00:15:16] A regular CT scan is not good for diagnosing, uh,
+[00:15:20] uh, you know, colon polyps and that sort of stuff,
+[00:15:22] but can be very helpful is standard of care once
+[00:15:25] you've diagnosed a colon cancer because you wanna see if
+[00:15:28] it's gone anywhere, and that's the primary mechanism that we
+[00:15:30] use.
+[00:15:32] Also, uh, a CEA, a tumor marker, we don't typically,
+[00:15:37] about, you know, up to 30% of colon cancers do
+[00:15:40] not exhibit this marker, so it's not a good screening
+[00:15:43] test, which is why we do not use it in
+[00:15:45] screening.
+[00:15:46] But if somebody develops a colon cancer and their CEA
+[00:15:50] is elevated, we oftentimes will use it to track whether
+[00:15:54] or not the response to therapy or recurrence is, is
+[00:15:57] happening.
+[00:15:58] So, that's when we use something like a CEA.
+[00:16:02] This is basically what we just talked about.
+[00:16:07] So really, the gold standard test, even though the gold
+[00:16:10] standard doesn't even exist anymore, you know, there's no such
+[00:16:13] thing as a gold standard.
+[00:16:14] But, the gold standard test is a colonoscopy.
+[00:16:17] It is the best test.
+[00:16:18] It's diagnostic, and it's therapeutic.
+[00:16:21] You can go in and you can look, you see
+[00:16:23] a polyp, and you can remove it.
+[00:16:25] You can take tissue, you get pathology.
+[00:16:27] Other tests do not tell you that, for example, something
+[00:16:30] like a Cologuard.
+[00:16:32] You can, you can just tell whether or not somebody
+[00:16:36] is more likely to have a polyp, but you can't
+[00:16:38] do anything about that.
+[00:16:39] You still then have to go in and do a
+[00:16:41] colonoscopy thereafter.
+[00:16:42] So, all roads still lead to colonoscopy.
+[00:16:45] There are blood tests, not recommended in guidelines, not nearly
+[00:16:49] sensitive or specific enough.
+[00:16:50] Maybe one day we'll get there, we are not there.
+[00:16:53] And even Cologuard, although it is part of standard, uh,
+[00:16:58] standard diagnostic or screening criteria, it's still not as effective
+[00:17:03] and not the primary test that you go to a
+[00:17:05] colonoscopy as that.
+[00:17:09] So, for years, and we've been doing colonoscopies since the
+[00:17:12] 1980s, and we didn't even really know that they worked.
+[00:17:15] You know, they had this idea of a progression from
+[00:17:18] benign to adenoma to carcinoma sequence, but we weren't even
+[00:17:23] really sure that, that it worked.
+[00:17:25] This is the landmark study in 2012 that came out.
+[00:17:28] And it basically had 2000 patients that looked at them,
+[00:17:32] people that underwent colonoscopy versus didn't go to colonoscopy, and
+[00:17:35] it found a 50% reduction in mortality for colorectal cancer,
+[00:17:39] so, very significant.
+[00:17:41] So, this has kind of justified all the stuff that
+[00:17:43] we were doing for the, the 30 years prior to
+[00:17:46] that.
+[00:17:47] But whenever you're reading the study, he studies, the devil's
+[00:17:51] in the details.
+[00:17:52] This is an article that came out in 2022, and
+[00:17:55] it basically said, effect of colonoscopy screening on risk for
+[00:18:00] colorectal cancer-related deaths, and then all the headlines popped up.
+[00:18:04] Colonoscopies may not be as effective as thought or effective
+[00:18:07] as thought, studies suggests, and doctors disagree.
+[00:18:11] Well, why?
+[00:18:12] Because this basically said that you only had an 18%
+[00:18:15] risk reduction for doing a colon for, for doing a
+[00:18:17] colonoscopy.
+[00:18:19] But once again, the devil's in the details.
+[00:18:21] This study looked at a bunch of people in Northern
+[00:18:24] Europe, where the standard of care is not offering any
+[00:18:28] screening.
+[00:18:29] So, this was an intention to screen.
+[00:18:30] They offered people to go and screen.
+[00:18:33] And with that, of the people that ended up going
+[00:18:35] screening versus standard of care offering nothing, there was an
+[00:18:38] 18% risk reduction.
+[00:18:39] When you look at the details of it, when you
+[00:18:42] actually did an intention to treat sub-analysis on this study,
+[00:18:46] it actually showed the exact same thing that the study
+[00:18:48] showed in 2012, which was a 50% reduction in colorectal
+[00:18:51] cancer screening of the people that were due for screening,
+[00:18:53] that actually underwent colonoscopy as compared to the people that
+[00:18:56] didn't get any screening.
+[00:18:58] So, always know what you're reading and look what you're
+[00:19:01] reading, and um and understand.
+[00:19:05] So, the average risk of or the age of of
+[00:19:08] screening now for all organizations, as they're listed up here,
+[00:19:12] AGA, ACG, ASGE, USPSTF, they all recommend the age of
+[00:19:17] 45.
+[00:19:19] We talked about it in some of the ALGs.
+[00:19:21] This number will probably go down because of early onset
+[00:19:25] colorectal cancer that doesn't really have a genetic component that
+[00:19:29] we know of.
+[00:19:29] Meaning, we don't know what the mutation is, but we're
+[00:19:31] seeing it younger and younger, and we don't know why.
+[00:19:34] So, at some point in time, that, that number's probably
+[00:19:36] gonna go down to 45.
+[00:19:37] So, you're closer to a colonoscopy if you haven't had
+[00:19:38] one.
+[00:19:41] What about the biology?
+[00:19:43] Um, so, the, the hallmark of neoplasia is abnormal cellular
+[00:19:48] proliferation.
+[00:19:49] We also know that carcinogenesis is a multi-stage, uh, process.
+[00:19:55] Cells kind of have to be genetically primed to pass
+[00:19:57] through a series of stages where they get to uncontrolled
+[00:20:01] growth, and cells that are proliferating are susceptible to primary
+[00:20:04] carcinogens and genetic ulcerations.
+[00:20:06] So, um, and the GI tract is a very common
+[00:20:10] one, that the GI tract turns over cells about every
+[00:20:13] 7 days.
+[00:20:16] And when we think of cellular proliferation, you start here,
+[00:20:18] this, I don't wanna get too complex with this, but
+[00:20:20] you start here with stem cells, and they mature as
+[00:20:23] they go up.
+[00:20:24] But if you get a mutation in the area, right,
+[00:20:27] and all of a sudden that mutation takes over, there's
+[00:20:29] multiple different uh ways that this can happen, but basically
+[00:20:33] what you're getting is a cell with a selective advantage
+[00:20:35] because of a mutation that has Uh, angiogenesis has more
+[00:20:40] blood supply, more food, and uncontrolled, um, proliferation.
+[00:20:44] That's the hallmark of the neo of the neoplasia.
+[00:20:49] Types of different polyps.
+[00:20:50] There are many, many types of different polyps.
+[00:20:53] Whenever we're thinking of, whenever I'm thinking about polyps, I'm
+[00:20:56] thinking about whether or not they are clinically significant, meaning,
+[00:21:00] are they, uh, do they have neoplas do they have,
+[00:21:03] uh, cancerous potential or not.
+[00:21:06] And In general, some of these, like, uh, hematomatous polyps
+[00:21:12] don't have neoplastic potential, with the exception of, in this
+[00:21:17] category, there are certain things, juvenile polyposa syndrome, Ps Jaeger's,
+[00:21:22] and P10 hematomatous tumor syndrome.
+[00:21:24] These are certain exceptions.
+[00:21:26] So, oftentimes we'll say, generally, This polyp is not precancerous,
+[00:21:30] much like a hyperplastic polyp.
+[00:21:32] Generally, hyperplastic polyps are benign.
+[00:21:35] There is a syndrome that's hyperplastic polyposa syndrome, where it
+[00:21:38] can be, but for our purposes, generally these these these
+[00:21:42] cell types or these polyp types are benign.
+[00:21:45] Uh, and certainly inflammatory polyps too.
+[00:21:48] We talk about it in inflammatory bowel disease, Crohn's disease,
+[00:21:51] particularly where you will get these, uh, inflammatory polyps or
+[00:21:54] post-infectious syndrome syndromes.
+[00:21:56] Patients sometimes will develop these.
+[00:21:57] They are pseudopolyps, they're inflammatory, they are not pre-cancerous.
+[00:22:01] And then we start to get to the ones where
+[00:22:04] They are pre-cancerous, these adenomas, and there's different types.
+[00:22:08] There's serrated, and there's several subtypes of serrated, not super
+[00:22:12] important for our purposes, but they're serrated polyps.
+[00:22:15] There are tubular adenomas, and there are villous adenomas.
+[00:22:18] The more the villous um architecture is, is more worrisome.
+[00:22:23] These are the ones that progress to high grade, uh,
+[00:22:25] dysplasia and cancer.
+[00:22:27] So, whenever we're looking at, I'm looking at, uh, pre-malignant
+[00:22:31] or not pre-malignant potential.
+[00:22:35] I mentioned about the, the pathogenesis of colorectal cancer screening,
+[00:22:39] the, the adenoma to carcinoma sequence.
+[00:22:42] And basically, it starts out, you have a normal, you
+[00:22:44] have a normal colon, and then basically from maybe a
+[00:22:48] mutation that we know about or not, you get an
+[00:22:50] adenoma, that adenoma gets larger, develops those components, develops high
+[00:22:55] grade dysplasia, and turns into a cancer.
+[00:22:57] So, that's why it makes sense if you do a
+[00:22:59] colonoscopy before you get to the carcinoma point that you
+[00:23:02] can basically completely remove that.
+[00:23:05] And it was with this logic originally, where we started
+[00:23:08] doing colonoscopies, even not knowing that colonoscopies actually worked.
+[00:23:14] And there's this carcinogenesis happens in, in stages, right?
+[00:23:18] So, you will see along the way from normal epithelium
+[00:23:23] to cancer and metastasis, there are several different areas where
+[00:23:28] you would, you will develop a mutation.
+[00:23:31] And I mentioned before that these mutations happen in the
+[00:23:34] hereditary syndromes, but also happen in non-herditary syndromes, right?
+[00:23:38] Their basis is similar.
+[00:23:41] But APC is uh is tends to be one of
+[00:23:43] the early mutations that you say, that you see moving
+[00:23:46] on to KRRAAS, uh, um, loss of QA 18Q and
+[00:23:51] and and P53.
+[00:23:53] So, it's kind of this, this multi-step carcinogenic pathway.
+[00:23:58] You can develop a cancer with just one of these.
+[00:24:00] Oftentimes you'll see several mutations once it gets to a
+[00:24:03] carcinoma stage.
+[00:24:07] And let's look at some of the molecular genetics of
+[00:24:09] this.
+[00:24:09] So, Basically, what happens is that when you get mutations,
+[00:24:13] it alters the normal cell cycle and proliferation.
+[00:24:17] And obviously, you either have germline mutations, which are, which
+[00:24:21] are inherited, you know, vertically, or you can get somama
+[00:24:25] so uh somatic mutations which are uh environmentally acquired through
+[00:24:30] diet or otherwise.
+[00:24:32] And there are 3 major classes of, of the genetics
+[00:24:36] leading to colorectal cancer.
+[00:24:37] There's alteration in oncogenes, loss of tumor suppressor genes, and
+[00:24:42] DNA mismatch repair, and we'll go through each one of
+[00:24:44] these.
+[00:24:46] So, oncogenes, oncogenes are, are, are normal genes that kind
+[00:24:51] of regulate cell growth.
+[00:24:53] When you get a mutation in those, then you have
+[00:24:56] an abnormal proliferation that leads to cancer.
+[00:24:58] And that there's the, the RAS, that, that RAS gene
+[00:25:03] is, is very common.
+[00:25:04] There's several different subtypes of that, KRAS NR RASHRAAS, and
+[00:25:07] they basically encode this, this, uh, guanine nuclei, uh, nucleotide
+[00:25:12] binding protein.
+[00:25:14] That regulates uh signal pathways, so it can kind of
+[00:25:16] get switched on and never off.
+[00:25:20] When we see this, it, it happens in a lot
+[00:25:22] of sporadic mutations, but it also happens in some of
+[00:25:25] the hereditary, uh, cancers as well.
+[00:25:28] So KRAS is a, is a big one.
+[00:25:31] And the idea is this is the VRS family of
+[00:25:33] genes.
+[00:25:34] Basically, when you get a mutation, we're not gonna go
+[00:25:36] through all the details of this slide, but what you
+[00:25:38] end up with is apoptosis resistance, excessive proliferation, angiogenesis, and
+[00:25:45] oftentimes leads to metastasis.
+[00:25:50] This is basically what I've just said.
+[00:25:54] The second class is the loss of tumor suppressor genes,
+[00:25:57] and there's several different types of tumor suppressor genes.
+[00:26:00] One of them is the APC gene mutation.
+[00:26:02] You once again will see this in, in sporadic colon
+[00:26:05] cancers as well as hereditary syndromes.
+[00:26:08] Um, and this is the whole two-hit hypothesis or single-hit
+[00:26:12] hypothesis.
+[00:26:13] So, APC is basically what you see in familial adenomas
+[00:26:18] polyposis syndrome.
+[00:26:20] This whole idea came from Knudsen's model on retinoblastoma, where
+[00:26:23] these people were developing retinoblastoma at an early age.
+[00:26:27] And why?
+[00:26:28] Because they were born with one with already having a
+[00:26:31] mutation, an an inherited mutation.
+[00:26:34] And then as life progresses, and your body uh gets
+[00:26:38] another mutation, you're more likely to develop a, a a
+[00:26:42] retinoblastoma.
+[00:26:43] So, you only need a single germline mutation, once you,
+[00:26:46] uh, or you already have a single germline mutation, and
+[00:26:49] then you develop another somatic mutation over time.
+[00:26:52] That's why people develop these cancers at an earlier age.
+[00:26:55] Same thing with, with, uh, APC they call it the,
+[00:26:58] the single hit model, um, but The idea you're born
+[00:27:02] with a with a a genetic mutation, and then you
+[00:27:05] suffer one, another hit or mutation as life goes on.
+[00:27:10] Um Another tumor suppressor gene is P53, located in chromosome
+[00:27:17] 17.
+[00:27:18] It's present in about 75% of, of colon cancers, and
+[00:27:21] basically, what this gene normally is designed to do is
+[00:27:24] take DNA cells with DNA that's mutated and put it
+[00:27:28] into the resting phase.
+[00:27:31] But when you lose, you get a mutation and you
+[00:27:34] lose that ability, then that tumor suppressor ability is incapable
+[00:27:39] of doing that.
+[00:27:40] And uh this usually happens later in that, in, in
+[00:27:43] that sequence, that multi multi-process sequence, and this one is
+[00:27:47] associated with uh metastasis.
+[00:27:51] And this is the, uh, the AQ deletion, it's also
+[00:27:55] known as uh deleted in colon cancer, the DCC gene.
+[00:27:58] You see it in 70% of all tumors, and it
+[00:28:00] regulates cellular adhesion.
+[00:28:02] This has worsening for obvious reasons.
+[00:28:05] If it has cellular adhesion, it has worsening prognosis, these
+[00:28:08] people tend to get more distant metastasis.
+[00:28:11] These tests, these mutations are not something that we check
+[00:28:14] up front, meaning we don't do screening and look for
+[00:28:17] people with these, with these mutations.
+[00:28:19] We don't, it doesn't exist.
+[00:28:21] It doesn't make sense.
+[00:28:22] It's not cost effective.
+[00:28:23] We might not even know what the data means, um,
+[00:28:26] so we don't use that.
+[00:28:28] We don't use any of these systems.
+[00:28:30] To screen general patients, we will typically check this testing
+[00:28:34] after you've diagnosed a colon cancer.
+[00:28:36] They send it to pathology, they do all sorts of
+[00:28:38] genetic testing on it to figure out what somebody has.
+[00:28:42] If you can locate any mutation in somebody from the
+[00:28:46] actual colon cancer, you can then go back and test
+[00:28:49] family members.
+[00:28:50] You can do this, we don't typically do it, but
+[00:28:52] you can go back and check family members and see
+[00:28:54] if they had that mutation.
+[00:28:55] You do some serum screening, and you can see if
+[00:28:57] they have that mutation.
+[00:28:58] But uh the MD Ander Cancer Center does all this
+[00:29:01] stuff.
+[00:29:02] The third is abnormal mismatch repair, DNA mismatch repair.
+[00:29:06] So, whenever you're replicating, there are always these kind of
+[00:29:08] mismatches that occur, and this system goes in and corrects
+[00:29:12] those.
+[00:29:12] But when you have a mutation in this system, and
+[00:29:15] you have a problem with the mismatch repair, there's several
+[00:29:18] different types here.
+[00:29:19] The main ones are MSH2 and MLH1.
+[00:29:22] They're actually 6 or 7 different subtypes, and basically, you
+[00:29:27] lose the ability to fix that DNA defect.
+[00:29:31] And, um, you will, you will see this in HM,
+[00:29:35] it's one of the hallmarks of HMPCC and it happens
+[00:29:38] also in 10% of sporadic cancers.
+[00:29:41] Also what I said.
+[00:29:44] So, These are the main mutations, right?
+[00:29:47] We just went through them, KRAS, ABC, DCC, P53, uh,
+[00:29:51] MSH2 and MLH1, and they all have different, you know,
+[00:29:55] what are they?
+[00:29:56] Are they an oncogene?
+[00:29:57] Are they tumor suppressor genes?
+[00:29:59] Are they DNA mismatch preparer?
+[00:30:01] And they all have kind of different functions of what
+[00:30:03] they do.
+[00:30:04] And there can be multiple in, in a person with
+[00:30:07] a single cancer.
+[00:30:09] Um, saying the same thing, but these are the, the
+[00:30:13] different subtypes of the mismatch repair genes.
+[00:30:16] So, there's a bunch of them.
+[00:30:17] I don't care that you know all the details of
+[00:30:18] that.
+[00:30:18] This is more associated with Lynch syndrome, ABC more with
+[00:30:22] FAP, and then, but you see the sporadic tumors, you
+[00:30:25] see a lot of the similar mutations that occur as
+[00:30:28] well.
+[00:30:30] So, what are the syndromes?
+[00:30:31] Back to the slide, now we're talking about the small
+[00:30:34] portion of people that have a family history of colon
+[00:30:37] cancer, where we know what the mutation is.
+[00:30:42] So, which of the following statements is incorrect?
+[00:30:44] Hematomatous polyps are always benign.
+[00:30:47] ABC is the is the site of the earliest known
+[00:30:50] mutation in the chromosomal pathway to colon cancer.
+[00:30:53] Deletion of P53 and DCC genes can lead to distant
+[00:30:56] metastasis.
+[00:30:58] Or villus adenomatous polyp is the most dangerous polyp.
+[00:31:06] Hey, I hear.
+[00:31:08] That is correct, right?
+[00:31:10] Um, I guess enough said on that.
+[00:31:15] Hematomaous polyps, we already talked about, they are not um
+[00:31:18] always benign, and they're the syndromes, juvenile polyposis syndrome, Putz-Jeger's
+[00:31:22] syndrome, and the P10 hematomatous tumor syndrome.
+[00:31:26] Um Uh, P53 and DCC are tumor suppressor genes which
+[00:31:30] normally have an inhibitory effect, um, on, uh, on the
+[00:31:34] cell cycle.
+[00:31:36] So, let's talk about some of the major uh colon
+[00:31:38] cancer syndromes.
+[00:31:39] So, the two main ones, the ones that we are
+[00:31:42] primarily focused on, you can imagine you go down, down
+[00:31:45] a rabbit hole for this, but is HNPCC.
+[00:31:49] Uh, HMPCC and Lyn syndrome are synonymous, but not exactly
+[00:31:54] equal.
+[00:31:55] Uh, so, Lynn syndrome is due to the mutation that
+[00:31:59] they know.
+[00:32:00] Uh, familial colorectal cancer type X is basically Presents the
+[00:32:05] exact same way, but we don't know what the mutation
+[00:32:07] is.
+[00:32:08] And then the polyposis syndromes, uh, uh, FAP familial adenomatous
+[00:32:13] polyposis, and that's due to the APC mutation.
+[00:32:16] There's attenuated FAP due to, due to different types of
+[00:32:20] APC mutations.
+[00:32:21] And then there's, there are, there's um MAP which is
+[00:32:25] due to an MMYHG mutation, slightly different.
+[00:32:30] These all follow under the, under the syndromes where people
+[00:32:33] will get excessive number of polyps, as compared to HMPCC
+[00:32:37] where they don't get a lot of polyps.
+[00:32:40] They still get them, they just don't get nearly as
+[00:32:41] many.
+[00:32:43] So, I mentioned, these are not synonymous.
+[00:32:45] Um, there's Lyn syndrome 1, there's Lynz syndrome 2.
+[00:32:49] Lynn syndrome 1 is more for colorectal cancer.
+[00:32:52] Lynz syndrome 2 has more to do with extra clonic
+[00:32:56] tumors, but all within the same category.
+[00:32:59] It's named after Lynch, the, the, the, uh, guy that
+[00:33:02] discovered it.
+[00:33:04] But the features of HMPCC or Lynch is that these
+[00:33:08] patients will get cancer at an earlier age, um, so,
+[00:33:12] less than 45 years old.
+[00:33:14] They typically get them more proximally, although not always, um,
+[00:33:18] and it, it occurs in discrete adenomas, but not sheets
+[00:33:21] of polyps, adenomas throughout the colon.
+[00:33:24] And once again, it's a mismatch repair.
+[00:33:28] That's the issue with it.
+[00:33:29] It's autosomal dominant.
+[00:33:30] There's 6 different subtypes, as we talked about.
+[00:33:33] It's also present in 3 to 5% of all colon
+[00:33:36] cancers, and This one has extracolonic cancers which are found,
+[00:33:41] which we'll talk about.
+[00:33:42] So, when you look at somebody with HMPCC, They get
+[00:33:47] diagnosed a lot earlier, in their 40s compared to 60s,
+[00:33:50] they will oftentimes have multiple tumors, which are synchronous or
+[00:33:53] metachronous, meaning different stages of cancers.
+[00:33:56] They tend to be more proximal.
+[00:33:59] They also tend to have extra colonic uh malignancy.
+[00:34:03] They're poorly differentiated, they have a, a replication error.
+[00:34:08] As compared to sporadic cancers.
+[00:34:10] So, we treat these people differently.
+[00:34:12] We know the mutation, and we screen them a lot
+[00:34:14] earlier.
+[00:34:15] And how do we screen them?
+[00:34:16] Because I mentioned that there are extra colonic manifestations of
+[00:34:19] this type of colon cancer.
+[00:34:20] So, you can see in the general population, 5 to
+[00:34:23] 6%, with Lyn syndrome, 80%.
+[00:34:27] There's also a higher incidence of endometrial cancer.
+[00:34:31] Stomach cancer and ovarian cancer.
+[00:34:33] So, when I'm talking to these people, I ask about
+[00:34:36] family history of all these different types of cancers.
+[00:34:38] And there's lesser, there's lesser risk, but it's also increased
+[00:34:41] for small bowel, hepatobiliary, urinary tract, and brain cancers.
+[00:34:45] So, I ask, whenever I'm screening somebody or somebody comes
+[00:34:48] in for screening for colorectal cancer, I ask for a
+[00:34:51] bunch of these other tumors.
+[00:34:53] I ask them, I, I say, do you have any
+[00:34:54] family history, ovarian, gastric, endometrial, um, malignancies, particularly.
+[00:35:01] Uh hepatobiliary cancers at a young age.
+[00:35:05] So I asked all these questions, and this is kind
+[00:35:07] of the, the general screening that we use.
+[00:35:10] And in fact, there's something that's that's called the Amsterdam
+[00:35:13] criteria, and it's the 321 rule.
+[00:35:16] Which basically is, this is a very good way to
+[00:35:19] screen, uh, to screen somebody if they have a family
+[00:35:22] history.
+[00:35:23] So, at least 3 family members, um, affected by colon
+[00:35:27] colorectal cancer, or an extracolonic cancer, um, that spans 2
+[00:35:33] generations, one of which is a first degree of the
+[00:35:35] other 2, 1st degree relative of the other two.
+[00:35:37] So, it's like, we call it the 321 rule.
+[00:35:39] There are, there are additional things that you can sue.
+[00:35:43] So, in other words, this is a revised criteria where
+[00:35:45] they talk about other HMPCC associated cancers, not just colon
+[00:35:50] cancer, uh, or, where they have the, the histo the,
+[00:35:54] the, uh, the mutation.
+[00:35:56] So, there are different revised criteria, but in a, in
+[00:35:59] an office setting where it's quick, there's very easy ways
+[00:36:02] to kind of do this and really know which category
+[00:36:05] you should put somebody into.
+[00:36:07] I talked about the, the, it's the missed, uh, the
+[00:36:10] microsatellite instability, which is uh a, an MMR mutation.
+[00:36:15] So basically what happens is you, you lack the corrective
+[00:36:19] mechanisms to, to take out the extra DNA and these
+[00:36:24] are called microsatellites.
+[00:36:26] So, basically, these patients will have an excessive amount of
+[00:36:29] DA that was not removed by our normal mechanisms cause
+[00:36:33] they have a mismatch repair defect in patients with young
+[00:36:38] with young patients that, that have polyps, like if I'm
+[00:36:41] doing a colonoscopy on somebody for a reason in their,
+[00:36:43] in their 30s and I pull out a polyp, I
+[00:36:45] say send, send in for, uh, for MSI testing, right?
+[00:36:49] That can be a hint that, that that's what you're
+[00:36:51] dealing with.
+[00:36:53] Um, so, I mentioned this, it basically changes these repetitive
+[00:36:56] stretches of DNA that are inserted and, and, and they're
+[00:37:00] not being spliced out.
+[00:37:02] And it's just a germline mutation in general, although you
+[00:37:06] can have it somatic, and it's up to 90% of
+[00:37:09] patients with uh with HMPCC.
+[00:37:11] So, very common and one of the markers that we
+[00:37:13] think of for HMPCC.
+[00:37:17] And this is basically everything I said.
+[00:37:19] There are some subcategories of this.
+[00:37:22] So, Muir Tor syndrome is a variant of HMPCC or
+[00:37:26] Lynch syndrome, and it basically has all the same things.
+[00:37:29] It's associated with MSH2 or MLH1, and you also get
+[00:37:34] these sebaceous gland tumors and keratoacanthomas, which you can see
+[00:37:38] on physical exam.
+[00:37:40] These are the sebaceous cysts or keratoacanthoma.
+[00:37:43] So, When I'm examining somebody, and, and I have seen
+[00:37:47] this stuff, you see it in the office, and it
+[00:37:49] kind of raises suspicion.
+[00:37:52] Um, recommendations for Lynch, we already kind of talked about
+[00:37:55] this a little bit.
+[00:37:56] I don't need you to know the details of what
+[00:37:59] the, what the time frame, time frames are, what age
+[00:38:02] you start them.
+[00:38:04] Uh, if you become a gastroenterologist, then sure.
+[00:38:06] But the idea is that there's colonic and extracolonic, and
+[00:38:11] in particular, um, uh, the uterus, ovary, stomach, and urinary
+[00:38:15] tract.
+[00:38:16] So, you are doing screening.
+[00:38:17] These people get screening.
+[00:38:19] Uh, differently.
+[00:38:20] Whenever I have somebody with this sort of syndrome, or
+[00:38:22] I suspect it, I send them to, to MD Anderson,
+[00:38:25] and I have them do a full genetic screen.
+[00:38:28] They do a full family history, then they will run
+[00:38:32] a host of tests of genetic markers to see what
+[00:38:34] people have, to see if they can identify them.
+[00:38:36] And that, those markers are now that we have over
+[00:38:39] 100 in certain circumstances, we, we might order them.
+[00:38:44] OK, now switching gears to FAP familial adenomatous polyposis.
+[00:38:49] Different, right?
+[00:38:50] So, it's autosomal dominance in the APC tumor suppressor gene
+[00:38:54] on chromosome 5, which gets, uh, gets mutated.
+[00:38:59] The risk is even higher, lifetime risk of 100%.
+[00:39:03] So, 93% of people will have colon cancer at the
+[00:39:05] age of 50.
+[00:39:06] These are sheets of adenomas, polyps everywhere as compared to
+[00:39:10] HMPCC, which is just a few polyps.
+[00:39:14] And there's also a risk of escolonic cancers, desmoid tumors,
+[00:39:18] duodenal, thyroid, uh, hepatolastoma.
+[00:39:21] This is the one I say, I ask people if
+[00:39:23] anybody, relatives developed a liver cancer really before the age
+[00:39:26] of 5, stomach cancers.
+[00:39:28] So we screen these people differently.
+[00:39:30] They also have some dental abnormalities.
+[00:39:32] I'll show you some pictures, some osteomas and accessory teeth.
+[00:39:35] Um, and they have this peculiar thing called a chirpy
+[00:39:38] lesion, uh, congenital hypertrophy of the retinal epithelium, which you
+[00:39:42] can see on fundoscopic exam.
+[00:39:46] So These people, you're really doing colonoscopy early on, like,
+[00:39:52] as early as 10 to 15 years old.
+[00:39:54] That's really hard.
+[00:39:55] And you're doing them every year, and some of these
+[00:39:59] patients that have a ton of polyps.
+[00:40:02] It can be hard, but typically we're sending these patients
+[00:40:05] for a prophylactic uh uh colectomy, which is hard.
+[00:40:08] Can you imagine, I imagine being a young kid and,
+[00:40:11] and having, well, usually they don't make an ostomy, but,
+[00:40:15] but they will basically have no colon, they're gonna have
+[00:40:17] diarrhea the rest of their life.
+[00:40:18] And not only that, even after you remove the colon,
+[00:40:22] there's not every bit of colon removed.
+[00:40:23] You still have to do, go in and do surveillance.
+[00:40:26] So, you have to do surveillance and look in the
+[00:40:28] rectum at the remaining tissue because people develop cancers in
+[00:40:30] that area also.
+[00:40:32] Additionally, because they can develop cancers in the upper GI
+[00:40:34] tract, they start getting upper endoscopies.
+[00:40:37] So, whenever I have a patient with FAP I'm doing
+[00:40:40] an upper endoscopy and a colonoscopy, or just to look,
+[00:40:44] a flexible sigmoidoscopy, just to look at the last part,
+[00:40:46] to make sure that they haven't developed uh cancer there.
+[00:40:50] And uh they can get amppillary tumors, so I'm oftentimes
+[00:40:52] using a side viewing scope cause I can look at
+[00:40:54] the ampula.
+[00:40:55] So, also, they can get thyroid tumors, they can get,
+[00:40:58] and you have to screen for hepatoblastoma, but that's up
+[00:41:01] until the age of 5.
+[00:41:03] Beyond that, those, those patients do not develop them.
+[00:41:06] This is one of the variants of FAP called Gardner
+[00:41:09] syndrome, and basically they get these, I love the eye
+[00:41:11] patch.
+[00:41:14] You could recognize this guy.
+[00:41:16] Um, but they get these epidermoid cysts and they get
+[00:41:18] these osteomas.
+[00:41:19] They also, like I said, they can get, they can
+[00:41:21] get supernumerary teeth, they can get that chirpy lesion, so
+[00:41:24] they can get a whole host of physical findings that
+[00:41:25] you can see in the office.
+[00:41:29] Uh, this is, uh, Turcot, which is a variant of
+[00:41:32] FAP or Lynch syndrome.
+[00:41:34] And basically, you get, um, you get these, uh, brain
+[00:41:38] lesions.
+[00:41:38] So for, for FAP with an APC mutation, they get
+[00:41:41] medulloblastomas, but for MMR mutations with, with HMPCC they get
+[00:41:47] glioblastomas.
+[00:41:48] So they're more risk, higher risk to have brain cancers.
+[00:41:51] So, obviously, something genetic is going on where you have
+[00:41:54] multi-systems occurring.
+[00:41:56] Um, talk about some of the hematomatous stuff.
+[00:41:59] This is Putz Jaeger's.
+[00:42:00] This is something that you can definitely, I've seen this
+[00:42:02] multiple times in my career, where they get these kind
+[00:42:05] of characteristics, uh, uh, uh, mutations on their, or not
+[00:42:09] mutations, um, pigmentation on their lips.
+[00:42:12] Um, they get a have a higher risk of cancer,
+[00:42:14] overall cancer risk, 9 93% by 65 years, colon, breast,
+[00:42:19] pancreas, stomach, ovaries, and others.
+[00:42:21] So, these are a different class.
+[00:42:23] And you see, it's the same, same Doc Lynch, who
+[00:42:26] kind of went down, uh, uh, you know, some deep
+[00:42:29] studying to look at all these different genetic syndromes that
+[00:42:33] lead to colorectal cancer.
+[00:42:35] All right, let's match some of the following.
+[00:42:37] So puts the acres I just showed you.
+[00:42:45] Come on Skin pigmentation, great.
+[00:42:50] Turkat, and that's the, the, I don't wanna give it
+[00:42:53] away, but that's basically the, the, the brain cancers, whether
+[00:42:57] or not it's a medulloblastoma or glioblastoma.
+[00:43:04] Subtypes of the APC mutation and the MMR genes, the
+[00:43:08] MSH2 and MLH1.
+[00:43:12] Gardner syndrome, it's a variant of FAP.
+[00:43:16] Chirpy lesions An FAP Let's do the APC.
+[00:43:25] Good.
+[00:43:27] All right.
+[00:43:28] Oh, and also FAP.
+[00:43:31] All right, so, let's talk about some of the pathology
+[00:43:33] that you see.
+[00:43:33] So, the vast, vast, vast majority of them are adenomatous,
+[00:43:36] so, adenocarcinoma.
+[00:43:39] You can have sarcomas, you can have uh neuroendocrine tumors,
+[00:43:42] and you can also have melanomas.
+[00:43:44] You see it occasionally, not super common.
+[00:43:47] The vast majority are, are adenocarcinoma.
+[00:43:50] There's staging, so, this is not quite historical cause we
+[00:43:54] still use it, but this is Duke's classification, and it
+[00:43:56] basically just talks about, you know, It's a tumor, but
+[00:44:01] not through the bowel wall, or penetrates through the bowel
+[00:44:03] wall, or C is it goes to local local lymph
+[00:44:06] nodes or distant metastasis.
+[00:44:08] That corresponds to the TNM staging now, which we have
+[00:44:11] for all cancers, and this, and it's the same sort
+[00:44:14] of idea.
+[00:44:15] All these are set up to figure out prognosis with
+[00:44:18] treatment.
+[00:44:19] So, you can get a very specific number.
+[00:44:21] This percentage of people are alive after 5 years with
+[00:44:25] a, a, a stage 3, like stage 3 disease or
+[00:44:29] whatever it might be.
+[00:44:31] And you saw, you see that it was, it was,
+[00:44:33] uh, Let's go back.
+[00:44:39] You could see that these are the Duke's classifications that
+[00:44:41] are, that are next to it, that kind of line
+[00:44:43] up with it pretty well.
+[00:44:44] But nonetheless, you're using TNM.
+[00:44:46] And when we look at prognosis, obviously, Uh, 5 year
+[00:44:50] survival for distant Mets is max 30%.
+[00:44:54] Maybe these numbers are getting a little bit better, but
+[00:44:57] at, you know, at an early stage, stage one, these
+[00:45:00] are very, very, very curable.
+[00:45:05] All right, we're in the home stretch, so other hereditary
+[00:45:08] GI cancers?
+[00:45:11] So, pancreatic cancer, um, only 5 to 10% is hereditary,
+[00:45:17] and it's divided in several different categories.
+[00:45:19] So, you have a, a risk, uh, hereditary, um, cancer
+[00:45:23] syndromes that carry an increased risk of pancreatic cancer versus
+[00:45:27] a familial pancreatic cancer.
+[00:45:29] That's, so, if somebody in your family has pancreatic cancer,
+[00:45:32] we don't.
+[00:45:33] Typically screen you if you have two relatives, then we
+[00:45:36] do screen you.
+[00:45:37] We will do annual or, or biannual CT scans to
+[00:45:42] look at the pancreas, or ones that cause inflammation that
+[00:45:45] can lead to pancreatic cancer, something like cystic fibrosis.
+[00:45:51] Um, and when we look at all of these different
+[00:45:54] cancers, pancreatic cancer, you know, we mentioned Putz-Jeger syndrome, right?
+[00:45:59] That's one of them, FAP, right?
+[00:46:02] So you, you, you can, you can see the, uh,
+[00:46:05] increased risk of pancreatic cancer for a bunch of different
+[00:46:08] inherited syndromes.
+[00:46:10] And hereditary pancreatitis is one of them.
+[00:46:12] We already talked about the PRSS one and Sink one.
+[00:46:19] So, diseases associated with pancreatic cancer, HMPCC, yes, puts Jaeger,
+[00:46:24] yes, FAP not sure about that one.
+[00:46:30] And then gastric cancer.
+[00:46:32] So, you have an increased risk of gastric cancer with
+[00:46:35] HMPCC, with FAP, and with Perzieger.
+[00:46:37] So, these patients, like I said, I'm doing an upper
+[00:46:40] endoscopy and a colonoscopy on these patients at the recommended
+[00:46:44] surveillance intervals.
+[00:46:47] And that's it.
+[00:46:49] Any questions?
+[00:46:54] All right, thank you very much.

@@ -1,0 +1,82 @@
+{
+ "lecture_id": "gi-w03-lec14",
+ "block": "GI",
+ "week": 3,
+ "lecture": "14 Inflammatory Bowel Disease",
+ "contributor": "thirth",
+ "questions": [
+  {
+   "id": "gi-w03-lec14-q01",
+   "source": "slide",
+   "source_ref": "Slides 30, 25, 19",
+   "stem": "Which one of the following statements regarding IBD is incorrect?",
+   "choices": [
+    "There is a bimodal age distribution in IBD.",
+    "NOD2 increases susceptibility in Crohn disease.",
+    "Crohn disease is characterized by transmural inflammation.",
+    "UC is a female predominant disease.",
+    "Smoking is protective against UC."
+   ],
+   "answer": 3,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "Yeah, yeah, it's, it's, yeah, uh, it's, uh, Crohn's disease is, is really the female predominant, but all the other ones are, are correct.",
+     "at": "00:22:15"
+    },
+    {
+     "type": "slide",
+     "slide": 30,
+     "image": "img/gi-w03-lec14/slide_30.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 25,
+     "image": "img/gi-w03-lec14/slide_25.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 19,
+     "image": "img/gi-w03-lec14/slide_19.jpg"
+    }
+   ],
+   "note": "D is the incorrect statement. Ulcerative colitis is slightly more common in men (male > female); it is Crohn disease that leans female (female > male). The professor said so in lecture: Crohn disease is the female-predominant one, and all the other statements are correct.\nA is true: both Crohn disease and UC have a bimodal onset, at 15-40 years and again at 50-80 years.\nB is true: NOD2 variants raise the risk of Crohn disease, although carrying one is not required to get the disease.\nC is true: Crohn inflammation is transmural, which is why it causes fistulas and strictures, while UC is limited to the mucosa.\nE is true: smoking protects against UC but is a risk factor for Crohn disease."
+  },
+  {
+   "id": "gi-w03-lec14-q02",
+   "source": "slide",
+   "source_ref": "Slides 63, 34, 61",
+   "stem": "Which one of the following statements regarding IBD is incorrect?",
+   "choices": [
+    "Treatment of UC has not been shown to decrease either the incidence of PSC or its progression.",
+    "Methotrexate is effective in the treatment of UC.",
+    "Skin manifestations of IBD include pyoderma gangrenosum and erythema nodosum.",
+    "IBD is associated with uric acid, calcium oxalate and calcium phosphate stones."
+   ],
+   "answer": 1,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "Yeah, methotrexate, um, is, seems to be effective in patients with Crohn's disease but really has not been effective for ulcerative colitis.",
+     "at": "00:46:02"
+    },
+    {
+     "type": "slide",
+     "slide": 63,
+     "image": "img/gi-w03-lec14/slide_63.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 34,
+     "image": "img/gi-w03-lec14/slide_34.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 61,
+     "image": "img/gi-w03-lec14/slide_61.jpg"
+    }
+   ],
+   "note": "B is the incorrect statement. Methotrexate works in Crohn disease but has not been effective in ulcerative colitis. The lecture's treatment table lists methotrexate as \"Yes\" for Crohn disease and \"No\" for UC, and the professor confirmed this when he went over the question.\nA is true: treating the colitis calms the bowel and some extraintestinal problems, but it does not prevent PSC or slow it down.\nC is true: pyoderma gangrenosum and erythema nodosum are the two classic IBD skin lesions. Erythema nodosum tends to track with gut activity and responds to treatment, while pyoderma may not.\nD is true: uric acid stones come from diarrhea or an ileostomy (acidic, concentrated urine), calcium oxalate stones from ileal disease or resection (more oxalate absorbed), and calcium phosphate stones from bedrest or steroids."
+  }
+ ]
+}

@@ -1,0 +1,104 @@
+{
+ "lecture_id": "gi-w02-lec07",
+ "block": "GI",
+ "week": 2,
+ "lecture": "07 Biliary Disease",
+ "contributor": "thirth",
+ "questions": [
+  {
+   "id": "gi-w02-lec07-q01",
+   "source": "slide",
+   "source_ref": "Slides 26, 19, 20, 18, 25",
+   "stem": "A 36-year-old obese woman presents with cholelithiasis. She gets RUQ pain when she eats her favorite food, French fries. Which of the following is a risk factor for developing any type of gallstones? And why?",
+   "choices": [
+    "Crohn's ileitis",
+    "Roux-en-Y gastric bypass surgery",
+    "Pregnancy",
+    "Hemolytic anemia",
+    "Obesity",
+    "Somatostatin analogues",
+    "All of the above"
+   ],
+   "answer": 6,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "Crohn's ileitis, we just talked about, ruin why gastric bypass surgery, they lose weight rapidly, excess circulating cholesterol, pregnancy, we talked about both estrogen and progesterone, a hemolytic anemia. Right, hemolytic anemia is where you have extra uh bilirubin circulating around, obesity from cholesterol, somatostatin analogs, right, you don't get motility, so really all of the above.",
+     "at": "00:24:00"
+    },
+    {
+     "type": "slide",
+     "slide": 26,
+     "image": "img/gi-w02-lec07/slide_26.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 19,
+     "image": "img/gi-w02-lec07/slide_19.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 20,
+     "image": "img/gi-w02-lec07/slide_20.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 18,
+     "image": "img/gi-w02-lec07/slide_18.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 25,
+     "image": "img/gi-w02-lec07/slide_25.jpg"
+    }
+   ],
+   "note": "All of the above. Each one raises gallstone risk through a different mechanism: more cholesterol in bile, fewer bile salts to dissolve it, a sluggish gallbladder, or extra bilirubin that forms pigment stones.\nCrohn's ileitis: the diseased ileum cannot reabsorb bile acids, so the bile salt pool shrinks. Dysbiosis also increases bacterial deconjugation of bilirubin. These patients can form both cholesterol and pigment stones.\nRoux-en-Y gastric bypass: the rapid weight loss afterward floods the liver with cholesterol, which ends up in bile.\nPregnancy: estrogen increases cholesterol uptake and synthesis, and progesterone decreases gallbladder motility.\nHemolytic anemia: red cell breakdown creates an excess bilirubin load, which leads to black pigment stones.\nObesity: increased biliary cholesterol secretion.\nSomatostatin analogues (octreotide): they suppress CCK, so the gallbladder does not contract and bile stagnates."
+  },
+  {
+   "id": "gi-w02-lec07-q02",
+   "source": "slide",
+   "source_ref": "Slides 62, 63, 55",
+   "stem": "A 45-year-old man presents with right upper quadrant pain and jaundice for 2 days. Physical exam reveals scleral icterus. A urinalysis demonstrates bile breakdown products. A RUQ ultrasound reveals a stone impacted in which area?",
+   "choices": [
+    "In the cystic duct",
+    "In the ileum",
+    "In the pancreatic duct",
+    "In the common bile duct"
+   ],
+   "answer": 3,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "So I'm telling you that that you have an obstruction post hepadock. Cause it's conjugated.",
+     "at": "00:48:06"
+    },
+    {
+     "type": "transcript",
+     "quote": "Right, it's just obstructing the pancreatic duct, so it's in the common bile duct.",
+     "at": "00:48:42"
+    },
+    {
+     "type": "notes",
+     "quote": "Most patients are free of jaundice; the presence of hyperbilirubinemia suggests obstruction of the common bile duct.",
+     "page": 4
+    },
+    {
+     "type": "slide",
+     "slide": 62,
+     "image": "img/gi-w02-lec07/slide_62.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 63,
+     "image": "img/gi-w02-lec07/slide_63.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 55,
+     "image": "img/gi-w02-lec07/slide_55.jpg"
+    }
+   ],
+   "note": "The common bile duct (choledocholithiasis). Two days of symptoms means this is acute. Jaundice and bile breakdown products in dark urine point to a rise in conjugated bilirubin, which is water soluble and can be filtered by the kidney. The liver is conjugating normally, so the block must be after the liver, in the duct that carries all hepatic bile to the duodenum. The professor's point: every line in the stem is a clue.\nCystic duct: a stone here blocks only the gallbladder. Bile from the liver still flows down the common hepatic and common bile ducts, so you do not typically get jaundice.\nIleum: a stone in the ileum is gallstone ileus, a bowel obstruction. It does not block bile flow or cause jaundice.\nPancreatic duct: a stone here obstructs pancreatic secretions, but bilirubin keeps moving through the bile duct."
+  }
+ ]
+}

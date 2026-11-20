@@ -1,0 +1,220 @@
+=== PAGE 1 ===
+Colon cancer (Wednesday, November 4, 2026; 11 am)
+Important note from course directors: Please note that this ebook is created to provide foundation to the main
+concepts presented in the lecture slides and is not intended to include all of the information presented in the
+slides. Dr. Phadtare created the ebook using Robbins and Cotran and UpToDate and Dr. DeSipio added the
+description of Familial adenomatous polyposis (FAP) from UpToDate.
+Colorectal cancer (CRC) is a common and lethal disease. The risk of developing CRC is influenced by both
+environmental and genetic factors.
+Epidemiology
+CRC incidence and mortality rates vary markedly around the world. Globally, CRC is the third most commonly
+diagnosed cancer in males and the second in females. In the United States, 8 percent of all cancer deaths are due
+to colorectal cancer, however CRC incidence rates have declined about 2 to 3 percent per year over the last 15
+years. The highest incidence rates are in Australia and New Zealand, Europe, and North America, and the
+lowest rates are found in Africa and South-Central Asia. These geographic differences appear to be attributable
+to differences in dietary and environmental exposures that are imposed upon a background of genetically
+determined susceptibility. Low socioeconomic status (SES) is also associated with an increased risk for the
+development of colorectal cancer. Potentially modifiable behaviors such as physical inactivity, unhealthy diet,
+smoking, and obesity are thought to account for a substantial proportion of the socioeconomic disparity in risk
+of new onset colorectal cancer. Other factors, particularly lower rates of CRC screening, also contribute
+substantively to SES differences in CRC risk.
+Risk factors
+Age is a major risk factor for sporadic CRC. Large bowel cancer is uncommon before the age of 40; the
+incidence begins to increase significantly between the ages of 40 and 50, and age-specific incidence rates
+increase in each succeeding decade thereafter. More recent data from the United States SEER database and
+other Western cancer registries suggest that colon and particularly rectal cancer incidence is increasing in the
+under age 50 group, while they are decreasing in older groups. CRC incidence is about 25 percent higher in men
+than in women and is about 20 percent higher in African Americans than in whites. The incidence is higher in
+patients with specific inherited conditions that predispose them to the development of CRC. Environmental and
+genetic factors can increase the likelihood of developing CRC.
+ The major factors that increase the risk of colon cancer and influence screening recommendations are
+hereditary forms of colorectal cancer, age, a personal or family history of sporadic colorectal cancer (and
+possibly large or advanced adenomas), inflammatory bowel disease, and a history of abdominal irradiation.
+ Several potentially modifiable factors including obesity, diabetes, tobacco use, excess consumption of
+alcohol, and lack of physical activity have been consistently identified as risk factors in observational studies,
+but at present, they do not alter screening recommendations.
+ Other risk factors have been identified, including black race, sex, acromegaly, and a history or renal
+transplantation, but their influence on screening recommendations has been variable.
+ The dietary factors most closely associated with increased rates of colorectal cancer are low intake of
+unabsorbable vegetable fiber and high intake of refined carbohydrates and fat. Although these associations are
+clear, the mechanistic relationship between diet and risk remains poorly understood. It is theorized that
+reduced fiber content leads to decreased stool bulk and altered composition of the intestinal microbiota. This
+change may increase synthesis of potentially toxic oxidative by-products of bacterial metabolism, which
+would be expected to remain in contact with the colonic mucosa for longer periods of time as a result of
+1
+
+
+=== PAGE 2 ===
+reduced stool bulk. High fat intake also enhances hepatic synthesis of cholesterol and bile acids, which can be
+converted into carcinogens by intestinal bacteria.
+ In addition to dietary modification, pharmacologic chemoprevention has become an area of great interest.
+Several epidemiologic studies suggest that aspirin or other NSAIDs have a protective effect. This is consistent
+with studies showing that some NSAIDs cause polyp regressi on in FAP patients in whom the rectum was left
+in place after colectomy. It is suspected that this effect is mediated by inhibition of the enzyme
+cyclooxygenase-2 (COX-2), which is highly expressed in 90% of colorectal carcinomas and 40% to 90% of
+adenomas. COX-2 is necessary for production of prostaglandin E2, which promotes epithelial proliferation,
+particularly after injury. Of further interest, COX-2 expression is regulated by TLR4, which recognizes
+lipopolysaccharide and is also overexpressed in adenomas and carcinomas.
+Adenocarcinoma
+Adenocarcinoma of the colon is the most common malignancy of the GI tract and is a major cause of morbidity
+and mortality worldwide. In contrast, the small intestine, which accounts for 75% of the overall length of the GI
+tract, is an uncommon site for benign and malignant tumors. Among malignant small intestinal tumors,
+adenocarcinomas and well-differentiated neuroendocrine (carcinoid) tumors have roughly equal incidence,
+followed by lymphomas and sarcomas.
+Pathogenesis
+
+Morphologic and molecular changes in the adenoma-carcinoma sequence. Loss of one normal copy of the
+tumor suppressor gene APC occurs early. Individuals born with one mutant allele are therefore at
+increased risk of developing colon cancer. Alternatively, inactivation of APC in colonic epithelium may
+occur later in life. This is the “first hit” according to the Knudson hypothesis. The loss of the intact second
+copy of APC follows (“second hit”). Other changes, including mutation of KRAS, losses at 18q21
+involving SMAD2 and SMAD4, and inactivation of the tumor suppressor gene TP53, lead to the
+emergence of carcinoma, in which further mutations occur. Although there seems to be a temporal
+sequence of changes, the accumulation of mutations, rather than their occurrence in a specific order, is
+most critical.
+
+2
+
+
+=== PAGE 3 ===
+Studies of colorectal carcinogenesis have provided fundamental insights into the general mechanisms of cancer
+evolution. The combination of molecular events that lead to colonic adenocarcinoma is heterogeneous and
+includes genetic and epigenetic abnormalities. At least two genetic pathways have been described. In simplest
+terms, these are the APC/β-catenin pathway, which is activated in the classic adenoma-carcinoma sequence; and
+the microsatellite instability pathway, which is associated with defects in DNA mismatch repair and
+accumulation of mutations in microsatellite repeat regions of the genome. Both pathways involve the stepwise
+accumulation of multiple mutations, but differ in the genes involved and the mechanisms by which mutations
+accumulate. Epigenetic events, the most common of which is methylation-induced gene silencing, may enhance
+progression along either pathway.
+The classic adenoma-carcinoma sequence, accounts for up to 80% of sporadic colon tumors and typically
+includes mutation of APC early in the neoplastic process. Both copies of the APC gene must be functionally
+inactivated, either by mutation or epigenetic events, for adenomas to develop. APC is a key negative regulator
+of β-catenin, a component of the Wnt signaling pathway. Additional mutations accumulate, including activating
+mutations in KRAS that promote growth and prevent apoptosis. The tumor suppressor gene TP53 is mutated in
+70% to 80% of colon cancers, but is uncommonly affected in adenomas, suggesting that TP53 mutations also
+occur at later stages of tumor progression. Loss of function of TP53 and other tumor suppressor genes is often
+caused by chromosomal deletions, supporting the idea that chromosomal instability is a hallmark of the APC/βcatenin pathway. In patients with DNA mismatch repair deficiency, mutations accumulate in
+microsatellite repeats, a condition referred to as microsatellite instability (MSI). These are referred to as
+MSI high, or MSI-H, tumors.
+Morphology
+Overall, adenocarcinomas are distributed approximately equally over the entire length of the colon. Tumors in
+the proximal colon often grow as polypoid, exophytic masses that extend along one wall of the large-caliber
+cecum and ascending colon; these tumors rarely cause obstruction. In contrast, carcinomas in the distal colon
+tend to be annular lesions that produce “napkin-ring” or “apple-core” constrictions and luminal narrowing,
+sometimes to the point of obstruction. Both forms grow into the bowel wall over time. The general microscopic
+characteristics of right- and left-sided colonic adenocarcinomas are similar. Most tumors are composed of tall
+columnar cells that resemble dysplastic epithelium found in adenomas. The invasive component of these tumors
+
+Morphologic and molecular changes in the mismatch repair pathway of colon carcinogenesis. Defects in
+mismatch repair genes result in microsatellite instability and permit accumulation of mutations in numerous
+genes. If these mutations affect genes involved in cell survival and proliferation, cancer may develop.
+3
+
+
+=== PAGE 4 ===
+elicits a strong stromal desmoplastic response, which is responsible for their characteristic firm consistency.
+Some poorly differentiated tumors form few glands. Others may produce abundant mucin that accumulates
+within the intestinal wall, and these are associated with poor prognosis. Tumors may also be composed of
+signet-ring cells that are similar to those in gastric cancer or may display features of neuroendocrine
+differentiation.
+Clinical Features
+The availability of endoscopic screening combined with the knowledge that most carcinomas arise within
+adenomas presents a unique opportunity for cancer prevention. Unfortunately, colorectal cancers develop
+insidiously and may go undetected for long periods. Cecal and other right-sided colon cancers are most often
+called to clinical attention by the appearance of fatigue and weakness due to iron deficiency anemia. Thus, it is
+a clinical maxim that the underlying cause of iron deficiency anemia in an older man or postmenopausal woman
+is GI cancer until proven otherwise. Left-sided colorectal adenocarcinomas may produce occult bleeding,
+changes in bowel habits (such as constipation), or cramping and left lower quadrant discomfort.
+Although poorly differentiated and mucinous histologies are associated with poor prognosis, the two most
+important prognostic factors are depth of invasion and the presence of lymph node metastases. Invasion into the
+muscularis propria confers significantly reduced survival that is decreased further by the presence of lymph
+node metastases. Metastases may involve regional lymph nodes, lungs and bones, but as a result of portal
+drainage of the colon, the liver is the most common site of metastatic lesions. The rectum does not drain via the
+portal circulation, hence carcinomas of the anal region that metastasize often circumvent the liver.
+Hereditary Colon Cancers
+Familial adenomatous polyposis (FAP) and Lynch syndrome (hereditary nonpolyposis colorectal cancer
+[HNPCC]) are the most common of the familial colon cancer syndromes, but together these two conditions
+account for only about 5 percent of CRC cases.
+Hereditary Non-Polyposis Colorectal Cancer
+Hereditary non-polyposis colorectal cancer (HNPCC), also known as Lynch syndrome, was originally described
+based on familial clustering of cancers at several sites including the colorectum, endometrium, stomach, ovary,
+ureters, brain, small bowel, hepatobiliary tract, pancreas, and skin. HNPCC is thought to account for 2% to 4%
+of all colorectal cancers, making it the most common syndromic form of colon cancer. Colon cancers in
+HNPCC patients tend to occur at younger ages than sporadic colon cancers and are often located in the right
+colon. Just as identification of APC mutations in FAP has provided molecular insights into the pathogenesis of
+the majority of sporadic colon cancers, unraveling the defects in HNPCC has shed light on the mechanisms
+responsible for most of the remaining sporadic cases. HNPCC is caused by inherited mutations in genes that
+encode proteins responsible for the detection, excision, and repair of errors that occur during DNA
+replication. There are at least five such mismatch repair genes, but majority of patients with HNPCC have
+mutations in MSH2 or MLH1. Patients with HNPCC inherit one mutant gene and one normal allele. When the
+second copy is lost through mutation or epigenetic silencing, defects in mismatch repair lead to the
+accumulation of mutations at rates up to 1000 times higher than normal, mostly in regions containing short
+repeatings sequences referred to as microsatellites. The human genome contains approximately 50,000 to
+100,000 microsatellites, which are prone to undergo expansion during DNA replication and represent the most
+frequent sites of mutations in HNPCC. The consequences of mismatch repair deficiency and the resulting
+microsatellite instability are discussed next in the context of colonic adenocarcinoma.
+4
+
+
+=== PAGE 5 ===
+Extracolonic manifestations. The most common extracolonic tumor in Lynch syndrome is endometrial
+cancer. The risk of endometrial cancer varies depending on the mismatch repair (MMR) mutation. Individuals
+with Lynch syndrome are also at increased risk of cancer of the ovary, stomach, small bowel, hepatobiliary
+system, transitional cell cancer of the renal pelvis and ureter, brain (glioma), and sebaceous neoplasms.
+Muir-Torre and Turcot variants. Muir-Torre syndrome, a variant of Lynch syndrome, is characterized by
+sebaceous tumors and cutaneous keratoacanthomas, in addition to cancers associated with Lynch syndrome.
+Turcot syndrome is a historical term that originally described the association of familial CRC with brain tumors
+(primarily medulloblastomas and gliomas). As the genetics of the familial CRCs were defined, it became clear
+that brain tumors were associated with both familial adenomatous polyposis (FAP) and Lynch syndrome. The
+majority of brain tumors associated with Lynch syndrome are gliomas.
+Family Adenomatous Polyposis Syndrome
+Familial adenomatous polyposis (FAP) is characterized by the presence of multiple colorectal adenomatous
+polyps (typically more than 100). Multiple colorectal polyps may also be seen in individuals with MUTYHassociated polyposis and hamartomatous polyposis syndromes (Peutz-Jeghers, juvenile polyposis syndrome,
+and Cowden syndrome).
+Epidemiology. Familial adenomatous polyposis (FAP) occurs in approximately 1/10,000 to 1/30,000 live
+births, and accounts for less than 1 percent of all colorectal cancers in the United States. It affects both sexes
+equally and has a worldwide distribution.
+Genetics. Adenomatous polyposis (FAP) and its variants are caused by germline mutations in the tumor
+suppressor gene, adenomatous polyposis coli (APC). FAP follows an autosomal dominant pattern of inheritance
+with near complete penetrance of the colonic manifestations but variable penetrance of the extracolonic
+manifestations of the disease. More than 1000 different mutations of the APC gene associated with FAP have
+been described, most of which lead to frame shifts and premature stop codons. Inactivating mutations of
+both APC alleles is thought to be necessary for the development of adenomas in FAP.
+Clinical manifestations. Familial adenomatous polyposis (FAP) is characterized by the presence of numerous
+colorectal adenomas (usually hundreds). A number of extracolonic manifestations have also been associated
+with FAP.
+Extracolonic manifestations. Polyps occur in the upper gastrointestinal tract in 30-100% of patients with FAP
+(fundic gland polyps, gastric adenomas, duodenal adenomas). Duodenal adenomas can progress to cancer (412%). At least 5-10% of patients with FAP develop periampullary cancer. Adenomas can occur rarely in the
+gallbladder, bile duct, and the small bowel, particularly the distal ileum. Desmoid tumors, sebaceous or
+epidermoid cysts, lipomas, osteomas, fibromas, supernumerary teeth, juvenile nasopharyngeal angiofibromas,
+and adrenal adenomas have also been associated with FAP. Multiple and bilateral patches of congenital
+hypertrophy of the retinal pigment epithelium (CHRPE) are also features of the disease in some families.
+Patients with FAP are at risk for several extraintestinal malignancies including follicular or papillary thyroid
+cancer (2 to 3 % lifetime risk), childhood hepatoblastoma (1 percent lifetime risk), and central nervous system
+(CNS) tumors (mostly medulloblastomas) (<1 percent lifetime risk).
+
+5
+
+
+=== PAGE 6 ===
+FAP variants
+Gardner syndrome. Gardner syndrome was a term used originally to describe families with colonic polyposis
+and a number of extracolonic manifestation, but is consider a subset of FAP as it is caused by a mutation in the
+APC gene. These extraintestinal manifestations include desmoid tumors, sebaceous or epidermoid cysts,
+lipomas, osteomas (especially of the mandible), fibromas, supernumerary teeth, gastric fundic gland polyps,
+juvenile nasopharyngeal angiofibromas, and CHRPE.
+Turcot syndrome. Turcot syndrome is a historical term that originally described the association of familial
+colon cancer with brain tumors (primarily medulloblastomas and gliomas). As the genetics of the familial colon
+cancers were defined, it became clear that brain tumors were associated with both FAP and Lynch syndrome
+(hereditary nonpolyposis colorectal cancer). The majority of FAP-associated brain tumors are
+medulloblastomas, whereas Lynch syndrome is more commonly associated with gliomas.
+Note: In accordance with the ACCME Essentials and Standards, everyone involved in planning and presenting
+this CMSRU educational lecture has no relevant commercial relationships or conflicts of interest. There is no
+commercial support for this program. Instructional materials contained in this document may include
+copyrighted material. The copyright law of the U.S. (Title 17, United States Code) governs the making of
+photocopies or other reproductions of copyrighted material. Please do not reproduce, or transmit, any portion of
+this content. This is strictly for use within CMSRU class. This is posted only on the Blackboard which is
+protected by password. This is in compliance with fair use regulations.
+
+6
+

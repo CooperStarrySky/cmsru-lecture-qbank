@@ -1,0 +1,238 @@
+{
+ "lecture_id": "gi-w03-lec16",
+ "block": "GI",
+ "week": 3,
+ "lecture": "16 Vitamins",
+ "contributor": "thirth",
+ "questions": [
+  {
+   "id": "gi-w03-lec16-q01",
+   "source": "slide",
+   "source_ref": "Slides 136, 24",
+   "stem": "A 36-year-old woman goes to the health food store to buy dietary supplements that she is convinced will help her be healthier and live longer. A year later she has increasing headaches, joint pain, nausea, vomiting and weight loss. On physical examination she has dryness of the oral mucosa, and a mild degree of papilledema is noted on funduscopic examination. A radiograph of her hands shows bony hyperostosis. An excessive intake of which one of the following nutrients is most likely responsible for these findings?",
+   "choices": [
+    "Vitamin B-12",
+    "Vitamin D",
+    "Vitamin A",
+    "Niacin"
+   ],
+   "answer": 2,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "But if it is about toxicity, start putting vitamin A on your differential, OK?",
+     "at": "00:19:52"
+    },
+    {
+     "type": "notes",
+     "quote": "Vitamin A is stored in the liver. High doses of vitamin A over a period of months or years can lead to bone pain, dermatitis, liver and spleen enlargement, nausea and diarrhea, and birth defects.",
+     "page": 3
+    },
+    {
+     "type": "transcript",
+     "quote": "So this woman goes to the healthy food store and she's actually healthy, but she's taking multivitamins additionally. So this is something to do with toxicity.",
+     "at": "00:39:35",
+     "from": "gi-w03-lec17",
+     "lecture": "17 Essential Trace minerals"
+    },
+    {
+     "type": "transcript",
+     "quote": "So this is easy, right? Which one do you think? Vitamin A.",
+     "at": "00:39:54",
+     "from": "gi-w03-lec17",
+     "lecture": "17 Essential Trace minerals"
+    },
+    {
+     "type": "slide",
+     "slide": 136,
+     "image": "img/gi-w03-lec16/slide_136.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 24,
+     "image": "img/gi-w03-lec16/slide_24.jpg"
+    }
+   ],
+   "note": "Vitamin A. She is taking extra supplements on top of a normal diet, so think toxicity, and this is the vitamin A toxicity picture. Vitamin A is stored in the liver as retinyl palmitate, so high doses over months build up and cause bone pain and hyperostosis, dry skin and mucosa, nausea and liver enlargement. The professor pointed out that vitamin A also raises pressure around the optic nerve, which is the papilledema.\nVitamin B-12: excess B-12 is not known to cause toxicity; the lecture covers it only as a deficiency (megaloblastic anemia and neuropathy).\nVitamin D: too much vitamin D causes hypercalcemia, not papilledema with hyperostosis and dry mucosa.\nNiacin: high-dose niacin causes flushing, not this mix of raised intracranial pressure and bone changes."
+  },
+  {
+   "id": "gi-w03-lec16-q02",
+   "source": "slide",
+   "source_ref": "Slides 137, 36, 40",
+   "stem": "A 61-year-old man presents to his family physician. He reports a tendency to bruise easily, and laboratory data reveal a longer blood clotting time. The bruising and prolonged prothrombin time can be explained by a decrease in which of the following vitamins?",
+   "choices": [
+    "Vitamin A",
+    "Vitamin C",
+    "Vitamin D",
+    "Vitamin E",
+    "Vitamin K"
+   ],
+   "answer": 4,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "It acts as a coenzyme for carboxylase that converts glutamic acid residues on prothrombin.",
+     "at": "00:29:44"
+    },
+    {
+     "type": "notes",
+     "quote": "Deficiency leads to hypoprothrombinemia and increased coagulation times.",
+     "page": 5
+    },
+    {
+     "type": "transcript",
+     "quote": "He, he, he has a tendency to bruise easily and longer blood clot time. I don't think even I have to go further. What is that? Vitamin K",
+     "at": "00:40:09",
+     "from": "gi-w03-lec17",
+     "lecture": "17 Essential Trace minerals"
+    },
+    {
+     "type": "slide",
+     "slide": 137,
+     "image": "img/gi-w03-lec16/slide_137.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 36,
+     "image": "img/gi-w03-lec16/slide_36.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 40,
+     "image": "img/gi-w03-lec16/slide_40.jpg"
+    }
+   ],
+   "note": "Vitamin K. It is the cofactor for the carboxylase that converts glutamate residues on prothrombin and factors VII, IX and X into their active gamma-carboxyglutamate form. Without it those factors can't work, so the PT gets longer and the patient bruises and bleeds.\nVitamin A: deficiency causes night blindness and dry eye, not a clotting problem.\nVitamin C: scurvy does cause easy bruising and bleeding gums, but through weak collagen in capillary walls, so the prothrombin time stays normal.\nVitamin D: deficiency causes rickets in children and osteomalacia in adults.\nVitamin E: deficiency causes hemolytic anemia and neurologic problems such as ataxia and sensory neuropathy, not a long PT."
+  },
+  {
+   "id": "gi-w03-lec16-q03",
+   "source": "slide",
+   "source_ref": "Slides 138, 45, 48",
+   "stem": "A 55-year-old man presents to the ER with multiple bruises and swollen gums. For the past two years his diet has consisted solely of red meat and Diet Coke. What is the likely diagnosis?",
+   "choices": [
+    "Night blindness",
+    "Anemia",
+    "Rickets",
+    "Scurvy"
+   ],
+   "answer": 3,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "You get scurvy when you have vitamin C. Deficiency, you're going to see easily bruised skin, soft swollen gums, decreased wound healing, hemorrhaging, osteoporosis, because collagen has that intricate network and if that is not there, all of these things can occur.",
+     "at": "00:37:35"
+    },
+    {
+     "type": "transcript",
+     "quote": "He's only eating red meat. What's that? Scurvy, because that's lack of fruits and vegetables.",
+     "at": "00:40:26",
+     "from": "gi-w03-lec17",
+     "lecture": "17 Essential Trace minerals"
+    },
+    {
+     "type": "slide",
+     "slide": 138,
+     "image": "img/gi-w03-lec16/slide_138.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 45,
+     "image": "img/gi-w03-lec16/slide_45.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 48,
+     "image": "img/gi-w03-lec16/slide_48.jpg"
+    }
+   ],
+   "note": "Scurvy. He eats no fruits or vegetables, so he has no source of vitamin C. Vitamin C stabilizes collagen, and without it capillaries leak red cells, giving easy bruising, soft swollen bleeding gums, poor wound healing and hemorrhage.\nNight blindness is an early sign of vitamin A deficiency; nothing here points to the eyes.\nAnemia can happen in scurvy, but it is a nonspecific finding and doesn't explain swollen gums plus bruising the way scurvy does.\nRickets is vitamin D deficiency in children, with soft bones and bowed legs."
+  },
+  {
+   "id": "gi-w03-lec16-q04",
+   "source": "slide",
+   "source_ref": "Slides 139, 27",
+   "stem": "An 18-month-old inner-city boy is brought to the pediatric clinic by his parents because of poor growth and development, frequent crying and weakness. He has lived largely on breast milk supplemented by cereal and rice, and he spends most of his time indoors. The physician observes bowing of the legs and softening of the occipital and parietal bones. Deficiency of which one of the following vitamins is possible?",
+   "choices": [
+    "Vitamin A",
+    "Vitamin C",
+    "Vitamin D",
+    "Vitamin E",
+    "Vitamin K"
+   ],
+   "answer": 2,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "What you do need to know from GI point of view is this slide that if there is a vitamin D deficiency, rickets and osteomalacia can occur.",
+     "at": "00:20:55"
+    },
+    {
+     "type": "transcript",
+     "quote": "She was exclusively breastfed till she was 11 months old. Now human milk is an excellent source of all essential amino acids, but not vitamin D.",
+     "at": "00:21:38"
+    },
+    {
+     "type": "transcript",
+     "quote": "inner city boy, he has poor growth, development, he's solely on breast milk and cereal and rice, bowing of legs. Vitamin D deficiency.",
+     "at": "00:40:36",
+     "from": "gi-w03-lec17",
+     "lecture": "17 Essential Trace minerals"
+    },
+    {
+     "type": "slide",
+     "slide": 139,
+     "image": "img/gi-w03-lec16/slide_139.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 27,
+     "image": "img/gi-w03-lec16/slide_27.jpg"
+    }
+   ],
+   "note": "Vitamin D. This is rickets: poor mineralization of growing bone, which leaves soft skull bones and bowed legs. He gets almost no sunlight and has no dietary vitamin D source, and breast milk alone is low in vitamin D, which is why breast-fed babies are at risk.\nVitamin A deficiency affects the eyes (night blindness, xerophthalmia) and immunity, not bone mineralization.\nVitamin C deficiency (scurvy) causes bleeding gums and bruising from weak collagen, not bowed legs.\nVitamin E deficiency causes hemolytic anemia and neurologic signs.\nVitamin K deficiency causes bleeding, mainly in newborns."
+  },
+  {
+   "id": "gi-w03-lec16-q05",
+   "source": "slide",
+   "source_ref": "Slides 140, 69, 211",
+   "stem": "A 75-year-old patient comes to the clinic with fatigue. Lab analysis shows megaloblastic anemia. Based on further lab tests, the physician suspects marked loss of intrinsic factor and orders monthly injections of which one of the following vitamins?",
+   "choices": [
+    "Vitamin A",
+    "Vitamin C",
+    "Vitamin B-12",
+    "Vitamin E"
+   ],
+   "answer": 2,
+   "evidence": [
+    {
+     "type": "notes",
+     "quote": "Intrinsic Factor (IF, a protein secreted by the parietal cells of the stomach, which promotes the absorption of vitamin B-12 in the ileum, via a specific receptor).",
+     "page": 10
+    },
+    {
+     "type": "transcript",
+     "quote": "75 year old patient reports to the symptoms of fatigue, megaloblastic anemia, intrinsic factor loss. We know this in our sleep, right? B12.",
+     "at": "00:40:51",
+     "from": "gi-w03-lec17",
+     "lecture": "17 Essential Trace minerals"
+    },
+    {
+     "type": "slide",
+     "slide": 140,
+     "image": "img/gi-w03-lec16/slide_140.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 69,
+     "image": "img/gi-w03-lec16/slide_69.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 211,
+     "image": "img/gi-w03-lec16/slide_211.jpg"
+    }
+   ],
+   "note": "Vitamin B-12. B-12 has to bind intrinsic factor to be absorbed in the ileum, so losing intrinsic factor (pernicious anemia) means oral B-12 is poorly absorbed and it is given by injection. The deficiency causes megaloblastic anemia and, if left long enough, demyelinating neuropathy that may not fully recover.\nVitamin A does not need intrinsic factor, and its deficiency causes eye and immune problems, not megaloblastic anemia.\nVitamin C deficiency causes scurvy.\nVitamin E deficiency causes hemolytic anemia, which is not megaloblastic."
+  }
+ ]
+}

@@ -1,0 +1,996 @@
+[00:00:04] Let's get started.
+[00:00:07] All right, well, congratulations on being done your last ALG.
+[00:00:13] That's very exciting.
+[00:00:14] Congratulations.
+[00:00:15] There's a lot of energy here.
+[00:00:17] I like that.
+[00:00:18] Um, we're really starting to wind down GI, and that
+[00:00:22] makes me a little sad because I'd love talking to
+[00:00:25] you all and hearing fascinating questions, and you make me
+[00:00:29] think, and, you know, you always have to think.
+[00:00:31] I said this in one of the ALGs, you have
+[00:00:33] to read, keep reading, always keep reading.
+[00:00:36] Uh, today, we're gonna talk about pediatric gastroenterology.
+[00:00:39] It's, uh, it's an important topic because, uh, you don't
+[00:00:42] really get this until later, but pediatric disease and GI
+[00:00:46] is a little bit different, and, um, and worthwhile for,
+[00:00:50] for a lecturer.
+[00:00:52] So, Normal stuff.
+[00:00:55] We have included the digital flashcards, uh, and they can
+[00:00:59] hand you, help you at the end of the lecture.
+[00:01:00] We won't be going through those, but they're there.
+[00:01:02] And it's some of the material, but not all the
+[00:01:03] important, uh, but not all the material, but, but, uh,
+[00:01:07] some important concepts and, and certainly helpful.
+[00:01:11] So as usual, we'll talk about objectives.
+[00:01:14] We're talking about pediatric patients, and these are different than
+[00:01:17] adult patients, and why?
+[00:01:19] And these particular uh congenital malformations of the GI tract,
+[00:01:24] which Doctor Swope has talked to you about, we'll provide
+[00:01:26] them here for some reinforcement.
+[00:01:28] Discuss, uh, certain common pediatric population disease processes like eosinophilic
+[00:01:34] esophagitis, celiac disease, constipation, ankopparesis, inflammatory bowel disease, and then
+[00:01:39] understanding some of the biliary pathology that you can see,
+[00:01:41] in particular the disease listed.
+[00:01:44] And then just briefly touch on childhood obesity.
+[00:01:47] So This is just a picture of different things that
+[00:01:50] you might see, you know, obviously, top left is jaundice.
+[00:01:53] Uh, you will encounter kids with, with feeding tubes for
+[00:01:57] various different reasons.
+[00:01:59] Um, chronic abdominal pain, constipation, these are very, you know,
+[00:02:03] very common things that we will see.
+[00:02:06] So, why are kids different?
+[00:02:09] So, kids are different because depending on their age, they
+[00:02:13] might not be able to communicate as well.
+[00:02:15] Obviously, infants can't communicate much more than a grunt, and,
+[00:02:19] uh, so, you know, you don't know if they're smiling
+[00:02:21] or pooping or what, what.
+[00:02:23] So, it can be a little bit challenging, you know,
+[00:02:25] and they're, they're, you're kind of like a mechanic in
+[00:02:27] that situation.
+[00:02:27] You know that something's wrong, or maybe there isn't, and
+[00:02:30] you have to try to figure it out.
+[00:02:33] You know, teenagers can be um, Quiet.
+[00:02:37] Sometimes they can, they can burst out and tell you
+[00:02:39] stuff, but, and you're also dealing with the interplay with
+[00:02:42] the parents.
+[00:02:43] And the parents, obviously, you know, that that that's their
+[00:02:45] genes.
+[00:02:46] They want that these kids to be doing well, so
+[00:02:49] the parents can be uber aggressive.
+[00:02:52] They can be exceedingly educated, uh, particularly when they do
+[00:02:56] online searches.
+[00:02:57] They oftentimes want excessive testing, they oftentimes won't, uh, will,
+[00:03:03] will talk for their kids.
+[00:03:04] Uh, and they oftentimes will, uh, will want.
+[00:03:09] You know, obviously the best for their children, and maybe
+[00:03:11] what's not indicated.
+[00:03:12] So that is a difficult thing that you have to
+[00:03:14] kind of navigate a little bit.
+[00:03:17] And the spectrum of disease differs, you know, typically, with
+[00:03:21] children, you're not dealing with cancers.
+[00:03:23] Not that you can't, but you're not dealing with cancers,
+[00:03:26] and you're often dealing with things that are more functional,
+[00:03:29] um, you know, meaning that it might be a, a
+[00:03:31] variant of what a normal might be.
+[00:03:34] These are not dangerous disease processes, but they can cause
+[00:03:36] symptoms and certainly some, some stress.
+[00:03:39] And when you're talking about what you're gonna do, your
+[00:03:42] evaluation might be different.
+[00:03:44] It's sometimes very hard to draw blood from an infant,
+[00:03:47] or kids can be really afraid of needles, or if
+[00:03:51] you're doing a test where they have to lay still
+[00:03:53] for a long time, that can be really hard.
+[00:03:55] Um, and like I said before, the parents oftentimes want
+[00:03:58] a lot of this testing, even if it's invasive.
+[00:04:00] So, you, in your mind, you have to be doing
+[00:04:02] the calculation of whether or not the risk reward, benefit
+[00:04:05] makes sense.
+[00:04:07] And Therapies are different.
+[00:04:09] A lot of times the therapies are the same, but,
+[00:04:11] you know, for children, they're weight-based, right?
+[00:04:13] So, you have to keep that in mind because in
+[00:04:16] general, they're smaller, and, and their physiology works a little
+[00:04:19] bit differently.
+[00:04:19] So, these are all things that you have to keep
+[00:04:21] in mind that, you know, kids are not just small
+[00:04:24] adults.
+[00:04:27] Uh, by visits, this is what you typically see.
+[00:04:30] So, constipation, we're kind of going from the top around,
+[00:04:33] but constipation, reflux, um, Uh, liver disease, or I should
+[00:04:40] say FAP and obesity are, are really common.
+[00:04:44] Um, but, you know, you get down to things like
+[00:04:46] congenital malformations, IBD, not as common.
+[00:04:50] But this would kind of be percentage-wise, what you would
+[00:04:52] see in office visits.
+[00:04:56] When you're thinking about pediatric patients, and you're evaluating them,
+[00:05:01] in general, you know, that you have the growth curve.
+[00:05:03] And the growth curve is really important because almost certainly,
+[00:05:08] when they remain on the growth curve, that there's not
+[00:05:11] something drastic, or organic, or, or really, really problematic.
+[00:05:16] There can be, but the growth curve is something that
+[00:05:18] you pay attention to a lot.
+[00:05:19] And then also, what they do, um, I don't know
+[00:05:23] if any of you have kids, but a newborn patient
+[00:05:26] can go to the bathroom nonstop, or they might not
+[00:05:29] go to the bathroom a lot, and it can alter,
+[00:05:31] and it's smelly and pasty.
+[00:05:34] You'll know.
+[00:05:35] Um, and teenagers are different, right?
+[00:05:37] Like, so, as you start to get older, your, the
+[00:05:41] bowel pattern changes a lot, right?
+[00:05:42] So, they can be up 1 to 2 times a
+[00:05:45] day, up to 3 times a day, their stool is
+[00:05:47] generally, uh, formed, soft, painless.
+[00:05:52] Reflux is a super, super common disease, and this really
+[00:05:55] has to do with when you're an infant, uh, your
+[00:05:59] lower esophageal sphincter takes a long time to mature.
+[00:06:03] About 40% of, of, uh, infants, young children have reflux
+[00:06:07] disease, that they will eventually mature out of.
+[00:06:11] Um, and Virtually every baby I've ever been around, and
+[00:06:15] true to statistics, regurgitates and stuff comes up, right?
+[00:06:17] It's just things aren't formed as well, the motility doesn't
+[00:06:20] work as well.
+[00:06:21] So, this is a common kind of variant, and sometimes
+[00:06:24] you just, most of the time you can just treat
+[00:06:26] with an H2 blocker or PPI and this usually resolves
+[00:06:29] over some months.
+[00:06:32] So, these are the things that we're going to talk
+[00:06:34] about, congenital malformations, common uh pediatric disorders, and some biliary
+[00:06:40] disorders.
+[00:06:41] Uh, this, as I mentioned, Doctor Swope have talked about
+[00:06:45] these, we're gonna reinforce that.
+[00:06:48] These other ones have been discussed, uh, celiac disease, inflammatory
+[00:06:51] bowel disease, uh, and neonatal jaundice, we've talked about a
+[00:06:55] little bit, we're gonna talk about them again, but we're
+[00:06:58] gonna kind of review all of this as we go
+[00:07:00] through.
+[00:07:01] So, let's talk about the congenital malformations.
+[00:07:04] These are sometimes just a little bit of memory.
+[00:07:07] This, these sort of issues occur within the 1st 12
+[00:07:11] weeks when you're having organogenesis, right?
+[00:07:14] So, this is, this is when they typically occur in
+[00:07:18] gestation.
+[00:07:20] So tracheoesophageal fistula is not super common, 1 in 3000,
+[00:07:24] it's associated with polyhydraminos.
+[00:07:26] These patients will typically present with vomiting, distention, uh, abdominal
+[00:07:32] distention, they get air in the belly, um, they will
+[00:07:35] have respiratory distress, aspiration, pneumonias.
+[00:07:38] Uh, if you are passing a nasogastric tube, oftentimes that
+[00:07:43] tube won't go down, which is a clue.
+[00:07:45] Like I said, because they have they have a disordered
+[00:07:49] connection between the trachea and the esophagus, they will also
+[00:07:51] get excessive air in the stomach.
+[00:07:53] And really the only way to fix this is surgically,
+[00:07:57] and there's different surgery for, for different ones.
+[00:08:00] So, this is the most common of them, that's, that's
+[00:08:03] 86%, and less common as you go down the pathway,
+[00:08:07] but there's obviously different uh anatomic variations on what you
+[00:08:11] will see.
+[00:08:12] And interestingly, up to 70% have these associated abnormalities of
+[00:08:16] Actorol, the vertebral defects, anal atresia, cardiac defects, tracheoesophageal fistula,
+[00:08:22] and renal abnormalities and limb abnormalities.
+[00:08:23] So, something for pediatric gastroenterologists to, to keep in mind.
+[00:08:31] Hypertrophic pyloric stenosis, not uncommon, uh, 3 per 1000, it
+[00:08:37] usually presents pretty early, within, you know, about 4 weeks,
+[00:08:41] uh, old, and these patients typically will have a projectile
+[00:08:44] vomiting, and that projectile vomiting, would you think is bilious
+[00:08:48] or non-bilious?
+[00:08:50] Non-bilious, right?
+[00:08:51] Because the obstruction is at the level of the, the
+[00:08:53] pylorus, and sometimes you can even palpate it, you can
+[00:08:56] feel it, you can diagnose it by imaging, ultrasound, uh,
+[00:09:00] CT scan, endoscopy.
+[00:09:02] If you do an endoscopy, it can be really tight
+[00:09:04] and hypertrophied, you can see it.
+[00:09:06] It's much more common in first born males.
+[00:09:09] If you just let it be, and you give nutrition
+[00:09:13] in a different way, meaning you have a nasal uh
+[00:09:15] jejunal tube, you can do that.
+[00:09:18] This, this almo not universally, but it, it, it oftentimes
+[00:09:22] resolves.
+[00:09:23] That's difficult, and most time it's a pretty simple surgery
+[00:09:26] where they do a pyloromyotomy.
+[00:09:27] They basically go in and they cut, they cut that
+[00:09:29] pylorus open, and, and patients don't typically have any problems
+[00:09:34] after that.
+[00:09:35] So there's a very uh curable problem, usually resolves on
+[00:09:38] its own, but usually you have to do something about
+[00:09:40] it.
+[00:09:42] Duodenal atresia So, 1 in 3500, and it's basically for
+[00:09:47] the failure of the duodenum uh to re-canalize.
+[00:09:51] And so basically you'll get a, you'll get a stricture
+[00:09:53] in there.
+[00:09:54] And because, well, depending on where the obstruction is, uh,
+[00:09:58] oftentimes that, that, uh, you'll have a bilious, right?
+[00:10:02] Because it's oftentimes after the outlet of the of the
+[00:10:07] bile duct into the small bowel, but it doesn't have
+[00:10:09] to be bilious, but they get a bilious vomiting.
+[00:10:12] You'll get this characteristic double bubble sign, because you have
+[00:10:16] gastric air, which makes sense, and then you have duodenal
+[00:10:19] air, so that's the double bubble sign.
+[00:10:21] It's also associated with polyhydraminose.
+[00:10:24] And about 50% have other associated uh congenital abnormalities, 40%
+[00:10:29] have trisomy 21.
+[00:10:34] Annular pancreas, not super common.
+[00:10:36] It's basically a ring of pancreatic tissue that encircles the
+[00:10:40] duodenum and makes an obstruction.
+[00:10:42] Um, and you can also get double bubble on this,
+[00:10:46] but, but not characteristically.
+[00:10:49] But basically what happens is you have an incomplete rotation
+[00:10:52] of that pancreatic bud, uh, during organogenesis, and it creates
+[00:10:57] an obstruction, uh, it can be a complete obstruction.
+[00:11:00] Uh, you oftentimes will get bilious vomiting, um, and it's
+[00:11:06] the only way to fix this is, is surgery, and
+[00:11:08] it's also associated with polyhydromes.
+[00:11:09] So, what you're seeing is a pattern where A lot
+[00:11:12] of these disease processes also are associated with other abnormalities,
+[00:11:16] which you have to be uh aware of and kind
+[00:11:19] of thinking about as you're as you're going through this
+[00:11:21] and diagnosing people.
+[00:11:23] This is an interesting one, malrotation of the midgut, about
+[00:11:27] 1 in 500 live births.
+[00:11:29] So, basically, it's a com a complete failure of the,
+[00:11:32] well, not a complete, but usually a failure of the
+[00:11:35] intestines to rotate around the SMA during development.
+[00:11:40] Um, and what happens is that things are opposite.
+[00:11:44] Uh, they can get bilious vomiting.
+[00:11:46] This, this can be a pediatric emergency.
+[00:11:48] The, the fix for this is really surgical, and it's
+[00:11:51] the lab procedure.
+[00:11:52] This was a surgeon in the 30s, 1930s, that created
+[00:11:55] this procedure that is still a cornerstone of treatment today.
+[00:12:00] So, it's, it's a surgical procedure.
+[00:12:02] And what it does is it doesn't attempt To move
+[00:12:05] everything back to where it's supposed to be.
+[00:12:06] What it attempts to do, since these people will oftentimes
+[00:12:09] get, uh, get volvulus, where that which means where the
+[00:12:12] bowel rotates on itself and creates an obstruction.
+[00:12:15] So what it does is the procedure kind of tacks
+[00:12:17] down the mesentery, so it makes it less likely that
+[00:12:20] these patients will have, will have a volvulus, uh, and
+[00:12:25] once again, associate association with Verol.
+[00:12:31] Mackel's diverticulum, of course, we talked about this one a
+[00:12:33] whole bunch in ALG, uh, can be pretty common, 1
+[00:12:36] in 100 live births, uh, and it's an incomplete obliteration
+[00:12:40] of the guillotine duct.
+[00:12:42] Oftentimes, painless bleeding.
+[00:12:44] This usually occurs in children, but we do see it
+[00:12:48] in adults as well, and is part of the workup
+[00:12:51] for, uh, for unexplained bleeding.
+[00:12:54] But remember, the rule of two is 2% of the
+[00:12:56] population, 2 ft proximal to the terminal ileum, 2 inches
+[00:12:59] long, 2 years old, 2 to 1 male to female
+[00:13:01] ratio, and, and two common types of ectopic tissue, which
+[00:13:06] are gastric and pancreatic.
+[00:13:08] And you can see this is a, a, uh, A
+[00:13:11] normal motility exam, and basically you can see kind of
+[00:13:15] this ectopic tissue right here.
+[00:13:17] And it's a MECA scan is typically what we get.
+[00:13:20] I meant to say a nuclear medicine medicine scan, which
+[00:13:22] is, this is what a MECA scan is, and it
+[00:13:23] picks up this ectopic tissue.
+[00:13:26] Uh, and If you see it, and it's symptomatic, you're
+[00:13:31] gonna resect it.
+[00:13:32] That's the only treatment.
+[00:13:32] It's a super easy surgical resection.
+[00:13:38] Hirschsprung's is something that primarily occurs in young patients, in
+[00:13:43] pediatric patients, although there is a delayed onset Hirschsprung's, which
+[00:13:46] you will see.
+[00:13:48] Uh, these patients have had difficulty, the patients that make
+[00:13:50] it into adulthood before diagnosis, have a, a really long-term
+[00:13:55] problem with bowels, as always, 1 in 6000 live births.
+[00:13:59] And remember those old neurocrest cells.
+[00:14:01] This occurs because the neurocrest cells have not migrated down,
+[00:14:05] and it's usually in the rectum.
+[00:14:07] And because of that, you have unopposed contraction or stricture.
+[00:14:12] It's like a functional obstruction in the bowel, which does
+[00:14:14] not allow stool to pass.
+[00:14:16] In fact, one of the ways that you should be
+[00:14:18] alerted to this is when a baby, uh, an infant
+[00:14:21] fails to pass meconium, you know, their first stool.
+[00:14:24] And, uh, they can be distended, uh, you can feel
+[00:14:29] a mass in the sigmoid and descending colon, and really
+[00:14:31] what you're feeling is stool, cause it's obstructed.
+[00:14:35] Uh, about 20% have an associated abnormality, about 10, uh,
+[00:14:38] 10% have a family history of the same thing.
+[00:14:42] Uh, they can diagnose it with CT scan, this one
+[00:14:44] happens to be a barium enema.
+[00:14:47] And, and there's several ways to diagnose it.
+[00:14:49] In, in kids, I didn't put up anal rectal manometry,
+[00:14:52] that's how you diagnosis in diagnose it in adults, because
+[00:14:57] that test takes a, it's a weird test and it
+[00:14:59] takes a lot of, of patient compliance and trying to
+[00:15:02] figure it out.
+[00:15:03] When you, when you do a biopsy, when you go
+[00:15:05] in and do a flexible sigmoidoscopy or a colonoscopy, When
+[00:15:09] you do a well biopsy, which means you biopsy and
+[00:15:11] you biopsy again, because you're looking for a lack of
+[00:15:15] those, um, those nerve bundles that would be, uh, norm
+[00:15:20] which would be normal.
+[00:15:20] So, when you have, when you don't find any nerve
+[00:15:22] bundles, that's how you, that's one of the ways you
+[00:15:24] diagnose it.
+[00:15:24] And the way that you correct it is surgically.
+[00:15:26] It's really, you ever been to the Mutter Museum?
+[00:15:30] That really large colon, that's a Hirschsprungs.
+[00:15:36] Anal agenesis, not common, 1 in 5000.
+[00:15:40] And there's all different kinds, as you can see over
+[00:15:43] here.
+[00:15:44] You know, when, have you ever been in a delivery
+[00:15:46] room when they, when the pediatrician takes the baby and
+[00:15:49] does like a million different things, right?
+[00:15:51] They're, they look, doing an APCAR score.
+[00:15:53] One of the things they're doing, uh, you know, they're
+[00:15:55] checking for respiratory, they're checking their heart.
+[00:15:57] One of the things they do is look at all
+[00:15:59] of the orifices.
+[00:16:00] Are they all open?
+[00:16:01] One of them is, is this, right?
+[00:16:03] They're looking to see if you have an imperforate anus,
+[00:16:06] if, if there's, if it's open, if it's really tiny
+[00:16:08] or whatever it is, this is one of the ways
+[00:16:10] that you diagnose this, right?
+[00:16:12] So, it's a lack of external communication.
+[00:16:13] Obviously, that's a big problem, so you're not gonna have
+[00:16:16] any stool passage because you don't really have an opening.
+[00:16:19] And the only way to fix this is surgically.
+[00:16:22] Um, these patients have it tough because you're messing with
+[00:16:26] the, with the internal and external sphincter, so these patients
+[00:16:29] will always have some bowel issues, um, and oftentimes leakage.
+[00:16:35] It's a tougher one.
+[00:16:36] so you do have some long-term sequela of the disease
+[00:16:40] process and then the subsequent treatment, and once again, associated
+[00:16:43] with Vacteril, you're seeing a lot of these abnormalities associated
+[00:16:46] with something else.
+[00:16:48] OK, so that's all of those.
+[00:16:51] Remember that's in Doctor Swope's lecture.
+[00:16:52] This was kind of a quick run through and reinforcement
+[00:16:55] of that.
+[00:16:56] So, which of the following statements is incorrect?
+[00:16:59] Tracheoesophageal fistula results of an excess excessive air in the
+[00:17:02] stomach.
+[00:17:04] Duodenal atresia is characterized by the double bubble sign.
+[00:17:07] And your pancreas originates from incomplete rotation of the posterior
+[00:17:11] pancreatic bud.
+[00:17:13] Mal rotation in the midgut typically presents as uh bilious
+[00:17:16] vomiting.
+[00:17:17] Incomplete obliteration of the vilotine duct is observed in Meckel's
+[00:17:20] diverticulum.
+[00:17:22] Uh, failed migration of neural crest cells leads to the
+[00:17:25] development of Hirschprung's, and Bacterol is associated with anal agenesis.
+[00:17:36] A, B, C, D, E, F, or G.
+[00:17:43] Yes, I heard yes.
+[00:17:45] That's the right answer, yes.
+[00:17:48] So it's the ventral pancreatic, but, uh, not the posterior.
+[00:17:54] I'm gonna add to her, sorry, same thing.
+[00:17:57] Um, right, duodenal altricia, associated with trisomy in 40% of
+[00:18:01] patients.
+[00:18:02] Remember the rule of twos for, for Meckels.
+[00:18:06] And remember you biopsy this and ganglionosis.
+[00:18:10] Um, for, uh, Hirschsprung's disease, right?
+[00:18:14] In fact they're all associated with a bunch of different
+[00:18:16] things.
+[00:18:20] OK, a 5 week old newborn is brought to the
+[00:18:22] emergency room after 2 days of non-bilious, non-bloody vomiting, which,
+[00:18:27] according to mom, will project across the entire room.
+[00:18:30] Otherwise, he's well and appears to have mild dehydration.
+[00:18:33] What is the definitive treatment for this illness?
+[00:18:36] What is this illness?
+[00:18:38] I gave you that buzz phrase.
+[00:18:42] Hypertrophic pyellaric stenosis, right?
+[00:18:44] Projectile vomiting.
+[00:18:46] So, none of these other things really help, really, it's
+[00:18:48] surgical.
+[00:18:49] Um, and, uh, and, or you wait, but it's almost
+[00:18:53] always surgical in treatment.
+[00:18:55] Easy one to fix.
+[00:19:00] OK, let's discuss some of the disease processes that are
+[00:19:03] very common.
+[00:19:04] Yeah, question.
+[00:19:10] Uh, you typically will do the entire sphincter because it's
+[00:19:13] a full thickness issue.
+[00:19:15] The question was, what, the surgery, what are you doing?
+[00:19:18] Are you doing just a partial myotomy or a full
+[00:19:20] myotomy?
+[00:19:21] You're usually doing a full myotomy.
+[00:19:27] Downstream what?
+[00:19:28] I'm sorry?
+[00:19:31] And the question is, does doing a full myotomy, pyloric
+[00:19:34] myotomy, affect the downstream issues with, with acid?
+[00:19:38] And the answer is yes.
+[00:19:40] Um, but, uh, it's usually not something that is, is
+[00:19:44] tremendously problematic, and typically when they're doing it, um, you
+[00:19:49] know, they don't do it, so they splay the whole
+[00:19:51] thing open, they splay it open enough.
+[00:19:53] Is the idea.
+[00:19:56] OK, we're going to discuss some of the disease processes
+[00:20:00] that are common in, in pediatric uh gastroenterology.
+[00:20:06] So, eosinophilic esophagitis, a relatively new diagnosis within the last
+[00:20:11] 40 years.
+[00:20:13] Uh, we're not sure why it's occurring more and more.
+[00:20:17] A lot of theories The reason why we're talking about
+[00:20:21] it now is kids present very differently, not always, but
+[00:20:25] can present very differently than adults.
+[00:20:28] So, When you're looking at it, that, you know, the
+[00:20:31] age of, uh, the presentation depends on the age.
+[00:20:33] So, infants might just refuse, they can't tell you, food's
+[00:20:37] getting stuck, and they don't typically have food getting stuck.
+[00:20:39] They're usually on really soft stuff, and in any case,
+[00:20:42] but they don't wanna eat, uh, they have failure to
+[00:20:44] thrive, that's FTT, uh, and, and they have aversions to
+[00:20:48] food, they don't want to, they oftentimes have a tremendous
+[00:20:50] amount of reflux.
+[00:20:53] Uh Children, on the other hand, will have vomiting, dysphagia,
+[00:20:57] abdominal pain, they also get heartburn, regurgitation, they also don't
+[00:21:01] wanna eat, even though they might not be able to
+[00:21:04] explain what's going on.
+[00:21:05] Um, and adults, obviously, uh, can, can really be a
+[00:21:11] little bit more precise about what symptoms they're having, and
+[00:21:14] mostly it's dysphagia.
+[00:21:17] Sometimes for adults, they're presenting, uh, the presenting.
+[00:21:21] symptom is they have a food infection, so we have
+[00:21:23] to go in and take it out.
+[00:21:24] That's a lot how it happens, actually.
+[00:21:26] Somebody will say, oh, I've had problems with swallowing, and
+[00:21:29] this is adults and children, have problems with swallowing for
+[00:21:31] a really long time, but they don't really present for
+[00:21:33] medical attention until there's actually something stuck in there.
+[00:21:36] And Acid medications, particularly in kids, doesn't work nearly as
+[00:21:42] well.
+[00:21:43] In adults, it can work, uh, and we're not sure
+[00:21:46] if that's because of the acid in and of itself,
+[00:21:48] or something with the proton pump inhibitor, which we use
+[00:21:51] to treat it, that, uh, that will, will decrease that
+[00:21:55] inflammatory process.
+[00:21:57] The diagnosis is, and really proximal and distal biopsies.
+[00:22:03] Eosinophils above 1515 or more.
+[00:22:06] And the problem with this is because it's a chronic
+[00:22:10] allergic scenario.
+[00:22:13] Um, these patients over time, develop fibrosis and stricturing, and
+[00:22:17] I'm gonna show you some pictures of what we typically
+[00:22:19] see, uh, and that's the part that you want to
+[00:22:22] avoid.
+[00:22:22] So, this is a lifelong chronic condition that you have
+[00:22:26] to get, uh, kind of get used to, to dealing
+[00:22:29] with.
+[00:22:32] What you typically will see, this is a food impaction,
+[00:22:35] this is very typical, when I go in, this is
+[00:22:37] what you see.
+[00:22:38] These are the rings, and this is, these are fibrotic
+[00:22:40] strictures.
+[00:22:41] You should see the rings here, so it's very characteristic.
+[00:22:44] They also have these linear furrows, which you can see
+[00:22:48] right here and right here.
+[00:22:50] These are very characteristic.
+[00:22:52] There's actually an endoscopic scoring system that makes it more
+[00:22:54] likely that it is eosinophilic esophagitis, and to what level,
+[00:22:59] and how you might treat them.
+[00:23:01] That we use, and then you see these white plaques,
+[00:23:04] it kind of looks like candida esophagitis, but it's not
+[00:23:06] actually what these are, are eosinophilic microabscesses.
+[00:23:10] And, uh, and the diagnosis is once again biopsy.
+[00:23:15] There is a lot of data on treatment, and uh
+[00:23:19] the treatment with stricturing diseases you have to dilate.
+[00:23:22] So, these people are at slightly higher risk of, of
+[00:23:25] perforation when you do dilate, and perforating the esophagus is
+[00:23:28] very bad because remember there's, there is no cirrhosa, there's
+[00:23:32] an adventitia, so when Enteric contents get into the, into
+[00:23:37] the mediastinum, that's bad, so you don't want that obviously.
+[00:23:40] But this is, uh, this is what it looks like
+[00:23:43] endoscopically.
+[00:23:44] There's a, uh, there are a bunch of treatments um
+[00:23:46] for it, but You know, for kids, we often send
+[00:23:50] them for allergy testing, because there's often coexisting uh um
+[00:23:55] allergies, right?
+[00:23:56] I, whenever I'm questioning somebody, I'm always asking about food
+[00:24:00] allergies, medication allergies, seasonal allergies.
+[00:24:03] I'm asking for, for if they have asthma, atopic in
+[00:24:07] general.
+[00:24:08] So, you wanna figure out if there's some allergic component
+[00:24:11] coming on, because this is primarily an allergic disease.
+[00:24:14] So, we send, I said kids for allergy testing a
+[00:24:18] lot, um, and adults less so.
+[00:24:21] In fact, for adults, it's not really recommended that we
+[00:24:24] do, but, uh, some of us do anyway.
+[00:24:27] Sometimes you can pick up a particular thing that, uh,
+[00:24:30] you know, particular food that somebody is allergic to.
+[00:24:33] But in kids, it tends to be more helpful.
+[00:24:36] Still, and sometimes you don't pick up anything on allergy
+[00:24:39] testing, the most common thing we do is this six-food
+[00:24:42] elimination diet.
+[00:24:45] These are common, you'll know these.
+[00:24:47] Milk, eggs, soy, wheat, nuts, and fish, shellfish and non-shellfish
+[00:24:52] alike.
+[00:24:53] Um, and a lot of the nuts are, uh, particularly
+[00:24:56] tree nuts, but a lot of different, uh, types of
+[00:24:58] nuts.
+[00:24:58] So, um, this is something that if you put somebody
+[00:25:01] on, both adults and kids, these patients will oftentimes get
+[00:25:05] better, just by avoiding, avoiding the foods that tend to
+[00:25:08] be hyperallergenic.
+[00:25:10] You can do a targeted food, if you know what
+[00:25:14] food it is that they have a particular allergy to,
+[00:25:17] when the allergy testing comes back, you can sometimes just
+[00:25:19] be able to eliminate those particular foods, and that can
+[00:25:22] work.
+[00:25:23] Sometimes it's so significant that you put people on an
+[00:25:26] elemental diet, sometimes in a hypoallergenic formula, particularly for kids,
+[00:25:31] and this works.
+[00:25:33] But it's very restrictive, uh, or you can do a
+[00:25:35] combination of elimination and elemental.
+[00:25:38] Um, pharmacotherapy for kids, particularly, is oral corticosteroids.
+[00:25:44] Uh, for kids also, and this is newer, I didn't
+[00:25:48] put it up here, but, uh, dupilumab, also a brand
+[00:25:51] name, Dupixent, which is a shot, works really well, and,
+[00:25:56] uh, approved for kids a year and older.
+[00:25:59] So, you can use it.
+[00:26:01] Doing shots for kids is tough, but, uh, dupilumab works
+[00:26:04] and it works very well.
+[00:26:06] It's an IL-5 uh mediator.
+[00:26:13] OK.
+[00:26:14] How about celiac disease?
+[00:26:17] That's not a question, is it?
+[00:26:18] That's a yawn.
+[00:26:19] That's a yawn.
+[00:26:21] There was a yawn.
+[00:26:22] Should we all yawn?
+[00:26:27] I feel better.
+[00:26:28] All right, so celiac disease, super common.
+[00:26:33] Um IDA is iron deficiency anemia.
+[00:26:37] Uh, Doctor, Doctor Fatari obviously, uh, covered this before, but
+[00:26:40] we'll go over it again.
+[00:26:41] Uh, iron deficiency anemia, that characteristic, uh, rash, the dermatitis
+[00:26:45] epetiformis that you could see.
+[00:26:47] They can get arthritis, they can get liver disease, they
+[00:26:51] can get elevations of their liver enzymes.
+[00:26:52] In fact, if somebody comes in with elevated liver enzymes,
+[00:26:54] one of the things I'm checking is celiac.
+[00:26:56] They get osteopenia because they don't absorb as well.
+[00:26:59] They can get, uh, neurologic problems, they can get delayed
+[00:27:03] puberty, short stature, uh, dental enamel erosions, mouth sores, uh,
+[00:27:09] there's a whole, there's even other things which we haven't
+[00:27:11] listed, you know, pregnancy issues, which you don't list in
+[00:27:14] pediatric patients, obviously, but there's a whole host of things
+[00:27:16] that celiac can do.
+[00:27:18] And when we look at the biopsies, remember, and we'll
+[00:27:23] talk about this more, but um you have these.
+[00:27:28] You basically have these uh This, um, lymph this, um,
+[00:27:34] intraepithelial lymphocytes, which you will see, and the characteristic and
+[00:27:38] hallmark is you have this kind of flattening of the
+[00:27:41] villi.
+[00:27:46] OK, how about uh constipation and ankopresis?
+[00:27:48] This is really, really common in pediatric populations.
+[00:27:51] Once again, the Bristol stool chart, one of my favorite
+[00:27:53] charts, but Uh, it, this is very useful in the
+[00:27:58] office.
+[00:27:58] It really helps us understand what kind of stool pattern
+[00:28:01] has, and it's different than the frequency.
+[00:28:03] This is the consistency, but this is very helpful.
+[00:28:08] So, Up to 30% of visits.
+[00:28:14] Is constipation for children, very, very common.
+[00:28:17] And Most of the time, it's non-pathologic, and we think
+[00:28:22] of this more of a developmental issue, um, or a
+[00:28:26] functional issue, potentially.
+[00:28:28] And basically, delay or difficulty passing stools, and it kind
+[00:28:31] of is a cycle that progresses upon itself.
+[00:28:34] So, it's hard to do.
+[00:28:35] So, then, then kids will withhold stooling more, and then
+[00:28:41] the more they get blocked, the more difficult it is
+[00:28:43] to pass stool, and it's really traumatic to pass.
+[00:28:46] Uh, to, you know, to pass a really, really hard
+[00:28:48] stool.
+[00:28:50] You obviously have to think, and I wrote mostly stool
+[00:28:53] withholding.
+[00:28:53] Kids will do all different things.
+[00:28:55] Kids will, uh, clutch onto mom, uh, they'll hide behind
+[00:28:59] furniture, um, they'll walk on their toes, all not to
+[00:29:03] have a bowel movement.
+[00:29:04] So, it's stuff that you kind of have to pick
+[00:29:05] up on, and as a parent, you get pretty, uh,
+[00:29:08] keen on, on figuring that stuff out.
+[00:29:10] But the behaviors are a little bit different instead of,
+[00:29:12] I feel constipated.
+[00:29:14] Uh, and you have to think about other things that
+[00:29:17] you could be missing.
+[00:29:17] It could be a later onset Hirschsprung's, if this is,
+[00:29:20] uh, uh, you know, a, a young kid, 78, or
+[00:29:24] they could have some, uh, some metabolic disorder or an
+[00:29:27] endocrinologic disorder, so hyperthyroid or electrolyte abnormalities, or even neurologic
+[00:29:31] issues.
+[00:29:32] And really the treatment for this is threefold.
+[00:29:36] It's diet, behavior, and medication.
+[00:29:39] So, you want a diet high in fiber, and a
+[00:29:43] lot of liquids.
+[00:29:45] You also, because these children don't want to go to
+[00:29:48] the bathroom, sometimes you have to work with their daycare
+[00:29:52] and schedule time stooling visits.
+[00:29:55] So you have to schedule it, because what you're doing
+[00:29:57] is trying to reprogram people.
+[00:29:59] And you have to give medications, whatever laxative therapy you
+[00:30:02] use.
+[00:30:02] MiraLax is fine, right?
+[00:30:04] It doesn't necessarily matter, but, but, uh, it's really consistent
+[00:30:08] behavior.
+[00:30:09] And you also have to educate the parents to say,
+[00:30:12] you know, look, this is when this, when these sort
+[00:30:13] of behaviors are happening, and the stooling pattern is, is
+[00:30:16] delayed, you know, you want to get on top of
+[00:30:19] this because, uh, ultimately, and by the way, that's an
+[00:30:21] X-ray with stool, that's exactly what you see, all that
+[00:30:23] stool everywhere, stool, that's tons of stool.
+[00:30:28] But what can happen is something that's called ankopparesis, which
+[00:30:31] is really, really bad constipation that's on, on for a
+[00:30:35] real long time.
+[00:30:36] And what ends up happening is you have so much
+[00:30:38] stool collected.
+[00:30:39] And by the way, this isn't Hirschsprung's, right?
+[00:30:40] This is, this is constipation that has gone uh remarkably
+[00:30:45] awry.
+[00:30:46] But this is really, really hard stool.
+[00:30:48] And what ends up happening is the colon keeps dilating,
+[00:30:51] keeps dilating, and keeps dilating.
+[00:30:54] And that eventually can get atonic.
+[00:30:56] You can get a megacolon.
+[00:30:57] It's a functional megacolon, meaning there's not an obstruction, like
+[00:31:01] there is for something like Hirschsprung's or stricture, but when
+[00:31:04] the stool when the the colon keeps dilating, the muscle
+[00:31:08] fibers keep stretching out, and they don't connect, and basically,
+[00:31:12] you'll have patients with, with this sort of problem, and
+[00:31:15] it can take a real long time to diagnose.
+[00:31:17] Um, the treatment is very hard.
+[00:31:20] You have to look for other things that are going
+[00:31:22] on in life.
+[00:31:23] You know, a lot of these things that start off
+[00:31:26] as kind of normal patterns, um, different developmental stages will
+[00:31:31] bring them out.
+[00:31:31] So, when When kids start switching to, to off of
+[00:31:36] formula to solid food, or they start going to school,
+[00:31:39] or there's stressful events in their life, this is kind
+[00:31:42] of when you see these kind of um behaviors that,
+[00:31:45] that start to happen, and they can, uh, they can
+[00:31:48] propel.
+[00:31:49] And the thing about opparesis is that you can pass
+[00:31:52] in you, you start passing stool.
+[00:31:54] Well, what, how does that make sense?
+[00:31:56] These people are constipated.
+[00:31:56] Why are they, what are they passing stool?
+[00:32:01] The colon doesn't contract, they have a big hard stool
+[00:32:04] ball in there.
+[00:32:04] Why are they, what are they passing?
+[00:32:07] They're passing liquid So, you get an overflow diarrhea, basically,
+[00:32:11] this huge solid piece of stool in here, and you're
+[00:32:15] just, because there's, there is stool behind it that's liquid,
+[00:32:18] it just kind of comes around the edges and they
+[00:32:20] get an incontinence.
+[00:32:21] So, uh, and also because the nerves aren't working, eventually
+[00:32:25] kind of stuff just comes out.
+[00:32:27] So You never want it to get progressed to this
+[00:32:31] point in time, that, you know, an average diagnostic lag
+[00:32:33] of 5 years.
+[00:32:36] OK, moving on to pediatric inflammatory bowel disease.
+[00:32:41] So 25% of IBD is diagnosed in childhood.
+[00:32:46] Um, it's more likely to be extensive diagnosis.
+[00:32:50] When it hits people younger, it's harder.
+[00:32:53] And the name of the game is getting treatment on
+[00:32:56] board and getting treatment on board earlier, because it could
+[00:32:59] be progressive, and you want to prevent that long-term inflammation,
+[00:33:04] to prevent the complications.
+[00:33:06] Uh, when you present as a kid, you're much more
+[00:33:08] likely to have a fam uh, a family history of
+[00:33:11] inflammatory bowel disease.
+[00:33:12] And they can present atypically, they might just fall off
+[00:33:15] the growth curve as their primary, uh, their, their, the
+[00:33:19] primary way that they present.
+[00:33:20] So, they can have delayed puberty.
+[00:33:22] You're, you're basically in a chronic inflammatory state, so your
+[00:33:26] normal developmental stages might be delayed, might have delayed, uh,
+[00:33:29] puberty.
+[00:33:30] The treatments are the same, they're weight-based, but they're generally
+[00:33:33] the same.
+[00:33:33] So, we use biologics in children also.
+[00:33:37] But you wanna kind of figure this out and figure
+[00:33:39] it out early.
+[00:33:41] OK.
+[00:33:42] Which of the following statements is incorrect?
+[00:33:46] Up to 5 eosinophils are seen in an esophageal biopsy
+[00:33:48] in patients diagnosed with eosinophilic esophagitis.
+[00:33:51] Functional megacolon is associated with ankopparesis.
+[00:33:55] Patients suffering from pediatric celiac disease may exhibit short stature
+[00:33:59] and delayed puberty.
+[00:34:01] A pediatric inflammatory bowel disease tends to be more extensive
+[00:34:03] at the time of diagnosis.
+[00:34:07] A, B, C, D, who votes for A.
+[00:34:10] Me?
+[00:34:11] See They Yeah, the number is 15 And you will
+[00:34:17] see that number So, 515 or more eosinophils is diagnostic
+[00:34:23] of eosinophilic esophagitis.
+[00:34:26] Um, and remember all the different other things that can
+[00:34:29] occur with celiac disease, der dermatititis or petiformis, neurologic symptoms,
+[00:34:34] liver disease, arthritis.
+[00:34:36] Uh, and also, um, they suffer from growth failure and
+[00:34:40] delayed puberty.
+[00:34:41] So, Stuff to remember.
+[00:34:43] OK Six year old healthy boy who has just started
+[00:34:47] his first grade, has a recent onset of daily soiling
+[00:34:50] accidents.
+[00:34:51] On physical exam, he is growing and gaining weight, well,
+[00:34:55] but has mild abdominal distension and dullness to percussion.
+[00:34:59] Uh, what's most true of this disease?
+[00:35:04] So what is it?
+[00:35:10] Well, it's constipation, but right, also, he's starting a daily
+[00:35:14] soiling accidents.
+[00:35:16] Is this Hirsh Sprungs?
+[00:35:18] Why?
+[00:35:21] Could be, but much more likely that they develop it,
+[00:35:25] they develop it at an earlier age, not always, but
+[00:35:29] they don't typically soil, right?
+[00:35:33] So, this is ankopparesis or constipation, right?
+[00:35:35] They're kind of in the same continuum, but, um, the
+[00:35:38] soil soiling accidents, when you start to see that, that's
+[00:35:41] the overflow diarrhea that they get, even though they're constipated.
+[00:35:46] OK.
+[00:35:48] Lastly, let's move on to some of the biliary stuff.
+[00:35:51] Now, we talked about the biliary stuff before, and this
+[00:35:55] is once again a reinforcement.
+[00:35:57] Just to remember when we went way back and we
+[00:35:59] were talking about biliary secretions, we're talking about conjugated, unconjugated
+[00:36:03] bilirubin, we're doing this really to hammer it home.
+[00:36:05] And because a lot of this stuff is pediatric, which
+[00:36:08] you will see, these disease processes.
+[00:36:10] We've already heard about neonatal jaundice.
+[00:36:12] Uh, Krigley Nahar, you haven't, probably Gilbert, Dubin-Johnson, Rotor syndrome.
+[00:36:18] Extrahepatic biliary atresia, which is particularly a pediatric issue.
+[00:36:22] So, when a kid presents with jaundice, you have to
+[00:36:25] think about what other symptoms they have, how old they
+[00:36:28] are, what the presentation was, whether it was a newborn,
+[00:36:31] a few weeks old, or much later.
+[00:36:36] So you know physiologic jaundice.
+[00:36:38] What happens in physiologic jaundice?
+[00:36:40] Why does it happen?
+[00:36:43] It's a failure to up regulate UDB glugonyl transferase, particularly
+[00:36:47] in the newborns, and it can take a little while,
+[00:36:50] and it's indirect, right?
+[00:36:51] Because UDP glucuronyl transferase conjugates the bilirubin, so they have
+[00:36:55] an unconjugated or indirect hyperbilirubinemia.
+[00:36:59] Um, and you typically you see the bilirubin rise within
+[00:37:02] the 1st 10 days and start to decline over the
+[00:37:04] next 2 weeks.
+[00:37:05] It is a completely benign condition.
+[00:37:07] Sometimes they will use phototherapy.
+[00:37:09] They don't want that indirect bilirubin to get too high,
+[00:37:12] which can cause problems in kids, but, uh, you can
+[00:37:15] use phototherapy to convert it to a conjugated version, right?
+[00:37:19] These are the ones with the patients, remember this story
+[00:37:21] that Doctor Fattari told where the babies in the light
+[00:37:24] did a little bit better?
+[00:37:25] Same idea.
+[00:37:29] So we'll go through each one of these, but this
+[00:37:31] is really to hammer down how this stuff works, right?
+[00:37:34] So we have normal, hemolytic jaundice.
+[00:37:39] Obstruction or extrahepatic biliary atresia, Dubin-Johnson's and rotors, physiologic jaundice,
+[00:37:45] Gilbert's and Kriegler Nahar.
+[00:37:48] OK.
+[00:37:49] Normal process, right?
+[00:37:51] Unconjugated bilirubin circulating the blood, bound to albumen, makes its
+[00:37:55] way into the liver.
+[00:37:56] The liver conjugates it through a glucuronal transferase, right?
+[00:38:01] It makes a conjugated bilirubin, gets excreted into the bile
+[00:38:04] ducts, comes out of the ampula, goes into the small
+[00:38:07] intestine.
+[00:38:09] Gives the stool a nice normal color.
+[00:38:13] Um, and then ropatic circulation, etc.
+[00:38:17] Some of that gets resorbed, which is why when you
+[00:38:19] check serum, you'll see conjugated and unconjugated in the serum,
+[00:38:23] right?
+[00:38:24] And That helps result in, because it's soluble, results in
+[00:38:29] uh the yellow color in the urine, right?
+[00:38:31] And once again, some of that is unconjugated in the
+[00:38:33] blood.
+[00:38:34] That's the normal process.
+[00:38:37] What about somebody with a hemolytic jaundice?
+[00:38:40] So, in this process, you have an excess amount of,
+[00:38:44] of bilirubin that has to be dealt with.
+[00:38:46] And this happens if you have, uh, like a hemolytic
+[00:38:49] anemia, right?
+[00:38:50] The blood cells are getting turned over faster, so you
+[00:38:53] have excess amount of, of bilirubin circulating around, or you
+[00:38:58] get a huge hematoma, you do see this, somebody gets
+[00:39:00] a, a huge blood hematoma in their leg, and you'll
+[00:39:03] see the unconjugated bilirubin go up, because what happens is,
+[00:39:07] you have more of a load.
+[00:39:09] It gets into the liver.
+[00:39:10] The liver is working as hard as it can, so
+[00:39:12] it still puts out conjugated bilirubin in the bile ducts,
+[00:39:16] into the, into the small bowel.
+[00:39:19] So you still get the dark, the darker stool color.
+[00:39:23] Some of it gets resorbed, so you have the normal
+[00:39:25] concentration of conjugated bilirubin within the stool, I'm sorry, within
+[00:39:29] the blood, urine is still, uh, is still, you know,
+[00:39:33] the normal color yellow, because that's what gets the conjugated
+[00:39:36] can get filtered through the kidneys as compared to the,
+[00:39:38] the unconjugated, and you still have an unconjugated, but you
+[00:39:42] have a higher percentage of unconjugated.
+[00:39:44] As you normally would, compared to conjugated in the blood
+[00:39:46] in the serum, which is how you measure it, because
+[00:39:48] you have an excess bilirubin load that can't be conjugated
+[00:39:53] as well in the liver.
+[00:39:53] It's just overloading the UDP glucuronyl transferase.
+[00:39:58] Makes sense?
+[00:40:00] Good.
+[00:40:01] All right, what about extrahepatic biliary atresia?
+[00:40:03] This is a, we're gonna talk about this in a
+[00:40:04] second, but this is a really problematic disease, because what
+[00:40:08] happens when you're developing, it's a technically, it's like a
+[00:40:11] mechanical obstruction, like a stone, right?
+[00:40:15] Um, so, basically, what happens is that, that, um, the
+[00:40:19] bile ducts don't recanulize during development, so there's no way
+[00:40:23] to kind of get that out into the small bowel.
+[00:40:26] So, um, it's post-hepatic.
+[00:40:30] Meaning that it's after conjugation.
+[00:40:33] So what comes in.
+[00:40:35] Right?
+[00:40:36] It comes, it comes out, but because of the bile
+[00:40:39] ducts, you can't get the bile ducts to release it
+[00:40:41] into the small bowel.
+[00:40:43] It's much like a stone would be, right?
+[00:40:45] So, what happens, it has to get resorbed, so you're
+[00:40:48] gonna have, uh, you're gonna have a conjugated hyperbilirubinemia, and
+[00:40:53] because you have extra conjugated, you're gonna have a tea-colored
+[00:40:56] urine, and you're gonna have a clay colored stool, right?
+[00:40:59] So, it's exactly like an obstructive stone, right?
+[00:41:03] Same idea.
+[00:41:04] Or maybe better example, since stones are are more acute,
+[00:41:08] like a, like a pancreatic cancer that's obstructing the duct,
+[00:41:11] right?
+[00:41:12] So, that's the idea.
+[00:41:17] So, something important to notice, although you normally will see
+[00:41:20] pale stools and dark urine as a feature of biliary
+[00:41:23] obstruction, uh, it can also occur in acute hepatitis.
+[00:41:27] We didn't really go into that, but you can see
+[00:41:29] it.
+[00:41:30] For our purposes and our exam, we're not thinking about
+[00:41:33] it like that.
+[00:41:33] Understand that it exists, but usually, that's, so it can
+[00:41:38] happen.
+[00:41:38] I just don't want you to say, well, it happened
+[00:41:40] in an acute liver disease, so, yeah, it's possible.
+[00:41:42] But it's much more common when you're talking about an
+[00:41:44] extrahepatic biliary obstruction of one form or another.
+[00:41:50] OK, what about uh Dubin-Johnson and Roeder syndrome?
+[00:41:54] Dubin-Johnson is also called black liver disease.
+[00:41:57] These are generally benign conditions.
+[00:42:00] But it's a functional obstruction, meaning the liver still can
+[00:42:04] still conjugate.
+[00:42:07] But what happens is there's, there's, there are different systems
+[00:42:10] involved in the processing of bile, uh, I'm sorry, of,
+[00:42:14] of bilirubin, uh, after it's been conjugated, both with, with
+[00:42:20] the storage and the export out of the hepatocyte.
+[00:42:22] So, it's a similar process.
+[00:42:24] But remember I talked about, um, those, those ABC cassette
+[00:42:28] transporters when we're talking about, we're talking about gallstones.
+[00:42:32] Um, similar idea, but basically, it's a problem with the,
+[00:42:36] with, with it being unable to be excreted out of
+[00:42:39] the hepatocyte, so it doesn't really get into the, in,
+[00:42:43] into the, the bowel as much.
+[00:42:45] Um, you typically will have a slightly darker urine.
+[00:42:50] There is some amount.
+[00:42:53] Of, uh, of stuff that's still, um, meaning conjugated bile
+[00:42:58] that gets through.
+[00:42:58] So, these patients don't typically have clay-colored stool.
+[00:43:03] Um, but you see, there's different syndromes.
+[00:43:06] Dubin-Johnson is the one that's associated with black liver.
+[00:43:09] Um, Rohor's isn't.
+[00:43:11] These are both benign.
+[00:43:13] Uh, there is a, a different, um, but there is
+[00:43:15] a, a slightly different mechanism.
+[00:43:17] And one that we know about, and so, on boards
+[00:43:20] and stuff, these are legit that you might have to
+[00:43:22] distinguish between Duba Johnson and Roeders.
+[00:43:25] But both of them are, are a conjugated hyperbilirubinemia.
+[00:43:31] What about unconjugated?
+[00:43:33] So, there's several different forms of this, right?
+[00:43:36] And typically what they are related to is, uh, the
+[00:43:41] enzyme availability and, and viability to conjugate, so, of, of
+[00:43:46] glucuronal transferase.
+[00:43:48] Physiologic jaundice, we've talked about ad nauseam at this point,
+[00:43:52] but right, it's cause it's you have to, the body's
+[00:43:53] gotta up regulate UDB glucuronal transferase.
+[00:43:57] Gilbert's is something where you just have lower levels.
+[00:44:00] Deutsch won't mind me telling you this, but he's got
+[00:44:02] Gilbert's.
+[00:44:03] I think he told you.
+[00:44:05] So that's not a HIPAA violation.
+[00:44:06] He told you.
+[00:44:08] But, um, but it's very common, and typically, sometimes people
+[00:44:13] will will present in like school, in med school, they
+[00:44:14] get stressed for an exam, they get a, they get
+[00:44:17] a little bit tiny little bit of jaundice.
+[00:44:20] Um, but that's due, due to low levels of the
+[00:44:22] enzyme.
+[00:44:23] Um, Kriegellinaha is that one of these is the only
+[00:44:27] one of these that is super or can be bad.
+[00:44:29] There's a type 1 and type 2.
+[00:44:31] Type 1 can be really bad.
+[00:44:32] These people, these patients can get marked elevations of, uh,
+[00:44:37] of their unconjugated bilirubin, which in a younger population, uh,
+[00:44:42] can get in, uh, into the brain in the globus
+[00:44:44] pallidus, and, and, uh, they get something that's called chicterus.
+[00:44:49] Um, but that, that one can be, can be problematic.
+[00:44:52] But, um, most of them, type 2, and, uh, and
+[00:44:56] then obviously Gilbert's and, and, and, uh, physiologic jaundice are,
+[00:45:01] are benign.
+[00:45:02] But the same thing happens, basically.
+[00:45:05] You're going through, you're, you're, you're putting less into the
+[00:45:08] small bowel, but you still have a normal colored stool,
+[00:45:12] less is coming back, but you still have, and you,
+[00:45:14] and, and you'll still, because you have some conjugated bilirubin
+[00:45:18] in the urine, your urine is still gonna be yellow,
+[00:45:20] but you have a, a slightly higher excess of, of
+[00:45:23] unconjugated.
+[00:45:26] Uh, extrahepatic biliary tresia is something to be noted, um,
+[00:45:31] not very common, 1 in 10,000, right?
+[00:45:34] And this is basically a conjugated hyperbilirubinemia.
+[00:45:37] Remember, the bile ducts don't recanulize, so it can't put,
+[00:45:41] uh, conjugated bile into the bile ducts, into the small
+[00:45:44] bowel.
+[00:45:45] Um, they can get jaundice, they can get acolic stools
+[00:45:49] and dark urine.
+[00:45:50] This typically presents pretty early.
+[00:45:53] Um, and you have to have a high index of
+[00:45:55] suspicion.
+[00:45:57] Really, you have to do something about this soon, often
+[00:46:00] on neonatals, where you have to fix that, either doing
+[00:46:04] surgeries, liver transplants, not so much, but yes, but what
+[00:46:08] you have to do is relieve that obstruction, because with
+[00:46:11] prolonged obstruction, they'll develop cirrhosis super quick.
+[00:46:14] Right?
+[00:46:15] Because of, because of biliary obstruction.
+[00:46:17] Uh, much in the same, same idea as we talked
+[00:46:20] about, um, uh, primary biliary cholangitis, right, where a prolonged
+[00:46:25] obstruction and excess bileproducts that remain in that biliary system
+[00:46:29] and liver will backflow and cause problems on the liver.
+[00:46:32] But this is something that you have to kind of
+[00:46:35] recognize as a pediatrician.
+[00:46:37] This is a tough one, because it's, it's pretty invasive
+[00:46:40] in terms of how you fix it.
+[00:46:41] OK.
+[00:46:44] Last few minutes, a 3 week old boy presents to
+[00:46:46] his pediatrician because his mother has noticed that he looks
+[00:46:48] yellow.
+[00:46:49] On questioning, she elaborates that the jaundice began several days
+[00:46:52] after birth, and is associated with dark urine and acholic
+[00:46:55] stools.
+[00:46:56] Laboratory studies show a direct bilirubin level of 5 and
+[00:47:00] a total bilirubin level of 5.5, meaning the indirect is
+[00:47:03] only 0.5.
+[00:47:05] Which of the following is the most likely diagnosis, congenital
+[00:47:09] extrahepatic biliary atresia, Kriegler-Nhar, Gilbert's, physiologic jaundice, or Dubin-Johnson?
+[00:47:28] Right?
+[00:47:29] Early age.
+[00:47:31] Direct hyperbilirubinemia.
+[00:47:34] Right, so remember, Gilbert's physiologic jaundice, right, these are unconjugated,
+[00:47:41] OK?
+[00:47:45] And you have to do surgery like I said.
+[00:47:49] We talked about Gilbert's, I remember getting stressed, taking a
+[00:47:52] test.
+[00:47:54] And physiologic jaundice is low levels of glucuronyl transferase.
+[00:47:58] Um, And, and, uh, Dubin Johnson, if it appears it's,
+[00:48:03] it's much later and this is a benign condition as
+[00:48:05] well.
+[00:48:08] Just the last thing to touch on, which will affect
+[00:48:11] you all, this is kind of the next uh epidemic
+[00:48:14] in the United States.
+[00:48:15] If you look at timelines and obesity trends, uh, we
+[00:48:19] all already know this, but this is something that is
+[00:48:22] occurring earlier and earlier.
+[00:48:24] Uh, in both boys and girls, and, uh, it's something
+[00:48:28] that you really have to pay attention to.
+[00:48:30] It's obviously, you could spend a tremendous amount of time
+[00:48:33] talking about this individual lectures and conferences, but I bring
+[00:48:36] it up just to mention that this is something that
+[00:48:39] you keep in mind, and is not just an adult
+[00:48:41] disease, which is now bleeding into the pediatric population as
+[00:48:44] well.
+[00:48:45] And with that Just remember their digital flashcards, questions.
+[00:48:55] All right, thank you very much.

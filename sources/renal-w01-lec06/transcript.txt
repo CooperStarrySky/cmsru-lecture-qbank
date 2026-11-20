@@ -1,0 +1,1018 @@
+[00:00:05] OK, I wanna, uh, I wanna get started.
+[00:00:10] Um, if I have a, I have a correction to
+[00:00:12] make, and I was prompted by one of your classmates
+[00:00:15] who said, wait a minute, you said that the rhomK
+[00:00:17] channel sets up a positive, uh, a lumin-positive potential difference
+[00:00:21] in the loop of Henley.
+[00:00:22] Uh, and that drives sodium, calcium, and magnesium transcellular transport.
+[00:00:30] I misspoke.
+[00:00:31] It's not transcellular, it's paracellular.
+[00:00:34] That's meant to represent between a couple of cells, not
+[00:00:38] through the cells.
+[00:00:40] OK.
+[00:00:42] Minor correction, I misspoke.
+[00:00:45] It's paracellular, paracellular transport of sodium, calcium, and magnesium.
+[00:00:51] OK.
+[00:00:55] All right, so let's talk about.
+[00:01:03] Let's talk about water.
+[00:01:11] OK, so the learning objectives for this talk are relate
+[00:01:14] changes in extracellular fluid osmolarity.
+[00:01:19] To changes in cell volume.
+[00:01:22] Changes in cell volume.
+[00:01:25] Predict the effect of total body water balance on ECF
+[00:01:29] osmolarity.
+[00:01:31] Describe the physiology of water homeostasis.
+[00:01:36] Predict the clinical consequences of disorders of water homeostasis, and
+[00:01:41] apply knowledge of cell volume regulation to treatment of disorders
+[00:01:46] of water homeostasis.
+[00:01:48] So, this will all become clear.
+[00:01:50] Clear as water.
+[00:01:55] Uh, so these are the suggested readings.
+[00:01:59] OK.
+[00:01:59] So, what's the importance of extracellular fluid osmolarity?
+[00:02:03] OK, so this little schematic here shows a happy little
+[00:02:06] cell on the upper left, uh, and this little cell,
+[00:02:10] what is that noise?
+[00:02:13] Oh, are we supposed to exit?
+[00:02:17] We're good.
+[00:02:20] We're good, OK.
+[00:02:22] OK.
+[00:02:24] All right.
+[00:02:24] If, if, let me just, let, let me just say
+[00:02:27] that if smoke starts coming in, we'll all leave.
+[00:02:31] OK, so here's, so here's, here's this happy little cell.
+[00:02:35] Uh, and it has a certain amount of solute inside
+[00:02:37] it, right?
+[00:02:39] Uh, if this little cell is plunked into a solution
+[00:02:44] that has an osmolarity that is identical to that of
+[00:02:47] the intracellular water.
+[00:02:50] Uh, there's no change in the volume of that cell.
+[00:02:53] If, on the other hand, you plunk it into a
+[00:02:56] hyper-osmolar solution, a hyper-osmolar solution, then water will move out
+[00:03:02] of the cell.
+[00:03:04] Down its concentration gradient.
+[00:03:06] And I, I, I'd like to emphasize that concept.
+[00:03:08] Water moves down its concentration gradient into the extracellular space,
+[00:03:13] and the cell shrinks.
+[00:03:15] Conversely, if you take that cell and you put it
+[00:03:18] into a hypo-osmolar solution, a hypo-osmolar solution, water, again, will
+[00:03:23] move down its concentration gradient, this time from the extracellular
+[00:03:26] compartment into the cell, and the cell will swell.
+[00:03:30] Is everybody good with that?
+[00:03:33] Good OK, so, I want to define an effective Osmo.
+[00:03:40] As a solute that causes water to move across the
+[00:03:44] cell membrane.
+[00:03:45] Not all solutes are effective osmos.
+[00:03:51] And I'm going to define effective osmolarity as tonicity, tonicity.
+[00:03:57] OK.
+[00:03:59] All right, so this is that same schematic I showed
+[00:04:01] you before.
+[00:04:03] And what happens, again, if you add pure sodium chloride
+[00:04:06] to the extracellular compartment, right?
+[00:04:08] Like salt pills, OK?
+[00:04:10] You get an expansion, and you get an increase in
+[00:04:12] the osmolarity of the extracellular fluid compartment, because you're adding
+[00:04:16] solute without water.
+[00:04:18] And then water moves down its concentration gradient from the
+[00:04:21] intracellular compartment to the extracellular compartment, expanding the ECF and
+[00:04:25] shrinking the uh the intracellular fluid compartment.
+[00:04:30] So that the osmolarity in both compartments is equalized, right?
+[00:04:35] Because sodium chloride is an effective osmo, an effective osmo.
+[00:04:39] It can't get into the cells.
+[00:04:41] It's restricted to the ECF.
+[00:04:44] OK, glucose is an effective osmole under certain circumstances, like
+[00:04:48] people with diabetes mellitus in poor control.
+[00:04:50] That glucose is stuck on the outside, uh, in the
+[00:04:54] extracellular fluid compartment, and that also increases the osmolarity there,
+[00:04:59] draws water out of cells, causes expansion of the ECF
+[00:05:03] and shrinking of the Intracellular fluid compartment.
+[00:05:09] Urea, on the other hand, urea is freely permeent across
+[00:05:14] almost all cell membranes in the body.
+[00:05:16] There are urea channels all over the place.
+[00:05:19] And so urea is not an effective osmo.
+[00:05:21] It doesn't cause water movement across the cell membrane.
+[00:05:27] OK.
+[00:05:28] What, what happens if you add pure water, pure water
+[00:05:31] to this little system?
+[00:05:33] And pure water, the osmolarity of the extracellular fluid, right?
+[00:05:36] Cause water is reabsorbed, let's say you drink this water,
+[00:05:39] it's reabsorbed from the gut.
+[00:05:41] It's absorbed from the gut.
+[00:05:43] So, it dilutes the extracellular fluid compartment.
+[00:05:47] And causes water movement into cells.
+[00:05:52] Uh, causing some expansion of The intracellular compartment.
+[00:06:02] OK, so why do we care about this?
+[00:06:04] Who cares?
+[00:06:05] Cells shrink, cells swell, who cares?
+[00:06:08] Well, it matters when you're talking about the brain, because
+[00:06:12] changes in volume are in the brain are constricted by
+[00:06:17] The rigid calvarium.
+[00:06:19] So if the brain shrinks a lot, It actually pulls
+[00:06:24] away from the, from the uh uh vascular supply and
+[00:06:28] can cause intracerebral intracranial bleeding.
+[00:06:32] And conversely, if the brain swells, It can swell so
+[00:06:37] much that you could actually have transtentorial herniation and death.
+[00:06:43] So this stuff matters.
+[00:06:45] It really matters.
+[00:06:47] What I want to talk about is how we defend
+[00:06:49] against these really terrible things.
+[00:06:53] So, extracellular fluid, effective osmolarity determines cell volume, and cell
+[00:06:59] volume really matters.
+[00:07:03] Extracellular fluid osmolarity is total body solute divided by total
+[00:07:08] body water.
+[00:07:10] And I told you last time, remember, sodium, sodium and
+[00:07:12] its associated anions are the vastly predominant solute in the
+[00:07:16] extracellular fluid.
+[00:07:18] And we have homeostatic mechanisms that tend to maintain that
+[00:07:21] really constant.
+[00:07:22] So, that means that changes in ECF osmolarity are, for
+[00:07:26] the most part, due to Oops.
+[00:07:31] Due to changes in total body water, total body water.
+[00:07:36] So changes in ECF osmolarity are due to changes in
+[00:07:41] total body water.
+[00:07:44] So we're gonna talk about water balance, water homeostasis.
+[00:07:48] So, daily water balance is input minus output, OK?
+[00:07:53] So, what are the inputs of our daily water?
+[00:07:57] Uh, they are extrinsic, right?
+[00:07:59] We drink water.
+[00:08:01] Uh, that's highly variable.
+[00:08:04] Most of the water we take in is for social
+[00:08:06] reasons.
+[00:08:07] It's not mostly driven by thirst.
+[00:08:09] Uh, and it's very variable.
+[00:08:11] And then there's a certain amount of intrinsic water, water
+[00:08:15] of metabolism, right?
+[00:08:17] And for most people at the, in the basal state,
+[00:08:19] that's about 200 mLs a day.
+[00:08:22] About 200 mLs a day.
+[00:08:23] If you're running a marathon and you're metabolizing a humongous
+[00:08:26] amount of, uh, of glycogen, uh, during the marathon, uh,
+[00:08:31] you can generate a huge amount of, uh, intrinsic water.
+[00:08:36] Uh, up to, up to like 1 L.
+[00:08:39] Uh, how about output?
+[00:08:41] Uh, output is several forms.
+[00:08:44] Insensible, that means we don't have conventional ways of measuring
+[00:08:48] it.
+[00:08:48] Insensible, we don't notice it.
+[00:08:50] And that's through the lung and through the skin.
+[00:08:54] And I don't even mean sweat.
+[00:08:55] I mean perspiration.
+[00:08:56] You're perspiring right now.
+[00:08:58] You don't even know it, but you're perspiring right now.
+[00:09:01] Uh.
+[00:09:02] And that's about 10 millequivalents, uh, 10 mL, 10 mLs
+[00:09:06] per kilogram body weight per day.
+[00:09:08] So, in the 70 kg person, you're talking like 700
+[00:09:12] mLs a day of insensible water losses.
+[00:09:15] Totally insensible.
+[00:09:16] And then there's sweat, highly variable.
+[00:09:18] It depends on what you do.
+[00:09:20] And GI losses, which, you know, most people don't have
+[00:09:22] diarrhea, you know, it's about 200 mL a day.
+[00:09:25] And then there's renal elimination of water.
+[00:09:28] And it turns out that the renal is variable and
+[00:09:33] regulated.
+[00:09:34] And that's how we actually maintain water balance.
+[00:09:37] Because the kidney is capable of altering the amount of
+[00:09:41] water that it puts into the urine.
+[00:09:43] And that's how we maintain water balance.
+[00:09:47] And this is illustrated schematically, right here.
+[00:09:51] And it shows the variability of water excretion.
+[00:09:53] Now urine is composed of solutes and water.
+[00:09:57] And the solute excretion from day to day is more
+[00:09:59] or less constant.
+[00:10:00] You know, it's based on how much on your diet.
+[00:10:03] So, the concentration of the urine is dependent on how
+[00:10:08] much water is in the urine relative to the amount
+[00:10:11] of solute.
+[00:10:13] And it's hugely variable.
+[00:10:15] It can vary from 50 milliosms per liter to 1200
+[00:10:19] milliosms per liter, or 1/6 of plasma osmodality to 4
+[00:10:24] times the plasma osmality.
+[00:10:26] So, 24-fold variation in urinary concentration.
+[00:10:33] Um, so, how does that happen?
+[00:10:36] Uh, I'll show you.
+[00:10:40] OK, so let's, let's take an example, and the example
+[00:10:42] is the hiker in the desert who forgets to bring
+[00:10:46] his water bottle.
+[00:10:48] Right?
+[00:10:48] So he's got some insensible water loss he's got a
+[00:10:50] lot of insensible water losses.
+[00:10:52] He's got some sweat losses.
+[00:10:53] He's losing a lot of water.
+[00:10:55] So what happens when he loses this water?
+[00:10:57] He's losing more water than salt.
+[00:10:59] He's not losing very much salt at all.
+[00:11:01] Uh, and what happens to this little schematic here?
+[00:11:05] Uh, under those circumstances, the osmolarity of his extracellular fluid
+[00:11:10] space goes up.
+[00:11:13] And the intracellular space comes into equilibrium with that.
+[00:11:17] And so you get some shrinkage of the intracellular space.
+[00:11:23] So where is that red?
+[00:11:24] What happens to this guy physiologically?
+[00:11:26] That turns out to be red.
+[00:11:29] That increase in extracellular fluid osmolarity is red in the
+[00:11:32] hypothalamus.
+[00:11:33] It turns out that there are osmoreceptors.
+[00:11:38] Osmo receptors in your hypothalamus, in the supraoptic and para
+[00:11:43] paraventricular neurons, they actually have dedicated little sodium channels that
+[00:11:50] allow them to read the osmolarity of the extracellular fluid
+[00:11:54] space.
+[00:11:54] And when the osmolarity goes up, they synthesize a hormone
+[00:12:00] called arginine vasopressin, also called anti-diuretic hormone or ADH.
+[00:12:08] Arginine vasopressin, AVP or ADH.
+[00:12:12] And that travels down the axons from the hypothalamus to
+[00:12:16] the posterior pituitary, where they are where it's secreted into
+[00:12:20] the circulation.
+[00:12:23] So what happens to this arginine vasopressin, right?
+[00:12:25] So this is the hiker in the desert.
+[00:12:27] He's water depleted.
+[00:12:29] His cells have shrunk.
+[00:12:31] Uh, he's in trouble.
+[00:12:32] It's read by his hypothalamus.
+[00:12:36] Arginine vasopressin secreted into his circulation, and where do you
+[00:12:39] think that arginine vasopressin is red?
+[00:12:43] Take a guess, take a wild guess.
+[00:12:47] Sorry?
+[00:12:49] OK, well, the kidney would be good.
+[00:12:52] But you, yeah, you're great.
+[00:12:53] The collecting duct, exactly right, exactly right.
+[00:12:56] And that's shown here.
+[00:12:57] So arginine vasopressin acts on the collecting dust.
+[00:13:02] To cause what?
+[00:13:06] What would this guy not want to lose any more
+[00:13:08] of?
+[00:13:09] Water.
+[00:13:10] So that causes water reabsorption from his filtrate back into
+[00:13:16] his circulation.
+[00:13:18] How perfect is that?
+[00:13:20] So, what's the mechanism there?
+[00:13:21] So, here are these nice little principal cells in the
+[00:13:24] collecting duct.
+[00:13:25] And you can see that arginine vasopressin binds to its
+[00:13:29] V2 receptor, it's V2 receptor on the basolateral membrane.
+[00:13:34] And that causes insertion of these aquaporin channels, these water
+[00:13:40] channels composed of aquaporin in the apical membrane.
+[00:13:46] And that allows reabsorption of water from the collecting duct
+[00:13:51] lumen into the circulation, back into the circulation.
+[00:13:57] How beautiful is that?
+[00:13:58] And On the bottom panel, you can see that in
+[00:14:01] the absence of vasopressin, these aquaporin channels are, uh, translocated
+[00:14:07] in vesicles back into the cytoplasm where they are destroyed,
+[00:14:11] uh, by lysosomes.
+[00:14:15] OK, so.
+[00:14:18] The so This allows the variability of the urinary concentration.
+[00:14:25] Under the influence of vasopressin.
+[00:14:28] So the key to urinary concentration and dilution is separation
+[00:14:32] of solute and water transport along the nephron, right?
+[00:14:36] You have to be able to separate the solute.
+[00:14:40] And water reabsorption in order to affect the osmolarity of
+[00:14:44] the plasma, of the extracellular fluid.
+[00:14:47] Remember I told you that in the proximal tubule, The
+[00:14:51] reabsorption of salt and water is isotonic.
+[00:14:55] So that can't affect the osmolarity of Uh, of the
+[00:15:00] extracellular fluid.
+[00:15:02] It's only in the distal nephron that there's separation of
+[00:15:06] solute and water.
+[00:15:07] And I'm gonna show you what that looks like.
+[00:15:09] So You might have asked yourselves, why is the loop
+[00:15:14] of Henley shaped like a loop.
+[00:15:17] What is the purpose of that?
+[00:15:19] And the only purpose of the loop of Henley being
+[00:15:23] shaped like a loop is to allow this separation of
+[00:15:27] salt and water reabsorption so that you can vary the
+[00:15:31] concentration of the urine.
+[00:15:34] 20 fourfold.
+[00:15:36] OK, so let's, let's take a look at, at how
+[00:15:39] the loop actually does that.
+[00:15:41] And the purpose of the loop.
+[00:15:43] The purpose of the, the shape of the loop is
+[00:15:46] to create a concentrated, a highly concentrated interstitial.
+[00:15:52] In the medulla of the kidney.
+[00:15:54] That's why the loop is shaped like a loop.
+[00:15:57] It is to to create a very concentrated, a high
+[00:16:01] osmolarity.
+[00:16:02] In the, in the medulla of the kidney.
+[00:16:06] So, how does it happen?
+[00:16:08] Well, I don't, you don't have to like, know this
+[00:16:11] in great detail.
+[00:16:11] You do not have to know this in great detail,
+[00:16:13] but it's, it's pretty cool.
+[00:16:15] And it depends on the variable permeabilities of the different
+[00:16:19] segments of the loop.
+[00:16:20] So, here, you can see the descending limb of the
+[00:16:24] Uh, of the loop of Henley, and here's the ascending
+[00:16:27] limb of the loop of Henley.
+[00:16:28] And this is a, a sort of fictitious basal state
+[00:16:32] where the osmolarity is equal in both limbs and in
+[00:16:36] the interstitial.
+[00:16:37] And then make the assumption, two assumptions.
+[00:16:40] One is that the descending limb is not permeable to
+[00:16:43] water.
+[00:16:46] Uh, uh, sorry, that the descending limb has some permeability
+[00:16:49] to water, but no permeability to sodium chloride transport.
+[00:16:54] No permeability to sodium chloride.
+[00:16:56] And make the assumption that the ascending limb is permeable
+[00:17:00] to sodium chloride.
+[00:17:01] It's, it's capable of transporting sodium chloride, as I showed
+[00:17:03] you in the last talk.
+[00:17:05] But it's impermeable to water, impermeable to water.
+[00:17:12] So, so those are the two facts that you have.
+[00:17:15] Uh, and make another assumption, that is that the maximum
+[00:17:17] gradient that you can achieve across the membrane, the maximum
+[00:17:21] osmolar gradient that you can achieve is 200 milliams per
+[00:17:24] liter.
+[00:17:26] So, here's the basal state.
+[00:17:27] Everything is equal.
+[00:17:29] Now, this ascending limb is transporting solute from the lumen
+[00:17:33] into the into the interstitial.
+[00:17:36] Uh, so it goes from 300 mills per meter in
+[00:17:40] the lumen to 200 now in the lumen and 400
+[00:17:43] in the interstitium, and that causes water movement from the
+[00:17:47] descending limb of the loop of Henley into the interstitial,
+[00:17:52] and that allows the fluid in the descending limb to
+[00:17:55] come into osmotic equilibrium with the interstitial.
+[00:17:59] And then that is transported downstream to the ascending limb,
+[00:18:04] and the whole thing happens again, so that you get
+[00:18:07] progressive countercurrent multiplication.
+[00:18:11] So that you end up with a very concentrated medullary
+[00:18:14] gesticium, like 1200 millias per liter.
+[00:18:19] Uh, At the tip of the Of the medulla.
+[00:18:25] Like I said, you don't have to, you don't have
+[00:18:27] to memorize this.
+[00:18:28] It, I just think it's extremely cool how this happens,
+[00:18:31] and uh I hope you appreciate the, the beauty of
+[00:18:35] it.
+[00:18:36] So, but you do have to know that the purpose
+[00:18:40] of the loop.
+[00:18:41] is to generate a concentrated medullary interstitial.
+[00:18:45] And you remember I said that the the maximum urinary
+[00:18:49] concentration that you can achieve is 1200 milliams per liter.
+[00:18:53] Well, it's no coincidence that the maximum uh concentration at
+[00:18:58] the tip of the medulla is 1200 milliams per liter.
+[00:19:02] And you can already anticipate that in the presence of
+[00:19:05] maximum vasopressin concentration, that the, that the filtrate in the
+[00:19:11] collecting duct will come into equilibrium with osmotic equilibrium with
+[00:19:16] this concentrated medullary testtitium, and you will end up putting
+[00:19:19] out a urine with an osmodality of 1200 mills per
+[00:19:22] liter.
+[00:19:23] That makes sense?
+[00:19:25] Good.
+[00:19:28] OK.
+[00:19:31] All right, so, How do we form a concentrated urine?
+[00:19:36] Um, remember I said that, uh, the, the, the proximal
+[00:19:39] tubule, there's no change in the osmodality of the filtrate,
+[00:19:42] but it gets progressively concentrated as you get toward the
+[00:19:45] tip of the medulla.
+[00:19:46] And then, because of the transport characteristics of the thick
+[00:19:50] ascending limb, where you're transporting solute without water.
+[00:19:55] The filtrate gets progressively diluted.
+[00:19:58] So that's called the medullary diluting site.
+[00:20:00] So, it goes from an osmolarity of about 1200, whoops.
+[00:20:05] All right.
+[00:20:07] Go from an osmolarity of about 1200 at the tip
+[00:20:09] of the medulla back down to about 150, uh, at
+[00:20:13] the, uh, the cortical aspect of the thick ascending limb
+[00:20:17] because of these transport characteristics.
+[00:20:19] Sodium chloride transport out without water, progressive dilution.
+[00:20:23] The characteristics, the transport characteristics of the of the distal
+[00:20:29] tubule are more or less the same as those of
+[00:20:32] the thick ascending limb.
+[00:20:33] That is, It's permeable to sodium chloride transport, but not
+[00:20:37] water.
+[00:20:37] And so, this is called the cortical diluting site, where
+[00:20:41] the osmala of the filtrate is taken from about 150
+[00:20:44] down to 50.
+[00:20:46] Well, that's interesting.
+[00:20:47] 50 milliosms here.
+[00:20:50] 1200 milliosms here, that was what I said was the
+[00:20:54] range of urine concentration.
+[00:20:58] Which means that in the absence of vasopressin, in the
+[00:21:01] absence of vasopressin, You can put out, well, in the,
+[00:21:07] in the presence of vasopressin, you put out a urine
+[00:21:09] that comes into osmotic equilibrium with the interstitium.
+[00:21:15] But in the absence of vasopressin, Oops.
+[00:21:19] Let me also, yeah, OK.
+[00:21:20] So vasopressin not only increases the transport of water.
+[00:21:24] By inserting water channels, but also increases the transport of
+[00:21:27] urea, which is highly concentrated here in this, uh, collecting
+[00:21:32] duct.
+[00:21:32] And that urea actually contributes to the osmolarity of the
+[00:21:36] filtrate because it's transported into the descending limb of the
+[00:21:40] loop of Henley.
+[00:21:41] So, it, it contributes to the osmolarity here.
+[00:21:44] In the absence of vasopressin.
+[00:21:47] Hold on a second.
+[00:21:49] Any, oops.
+[00:21:51] Sorry.
+[00:21:57] Oh yeah, one other thing you should know is that
+[00:22:00] the, the structure of the vasculature here.
+[00:22:03] Uh, is such that it helps to maintain, it doesn't
+[00:22:07] dissipate, but helps to maintain this osmotic gradient in the,
+[00:22:12] uh, in the, uh, interstitial, uh.
+[00:22:17] Right?
+[00:22:17] I mean, Doctor Chirico, I think showed you that um
+[00:22:22] these uh Oops.
+[00:22:26] Sorry.
+[00:22:30] That the shape of these vessels allows, uh, allows transport
+[00:22:36] of water, uh.
+[00:22:38] Uh, in the, in the cortex of the kidney, so
+[00:22:43] that the water doesn't dissipate the, um, the gradient.
+[00:22:46] And here you can see that, that, uh, water shunting.
+[00:22:52] So these vasor recta, they're called, vasor recta, uh, if
+[00:22:55] they, if these were linear, you would get complete dissipation
+[00:22:59] of the, uh, osmotic gradient.
+[00:23:02] So that these have to be in a hairpin, um,
+[00:23:06] formation in order to maintain the gradient.
+[00:23:09] OK, so the defense against hypernatremia then, uh, under conditions
+[00:23:14] like our hiker in the desert, uh, he has a
+[00:23:17] high plasma sodium concentration, high osmolarity.
+[00:23:20] That's read by the hypothalamus.
+[00:23:23] Uh, arginine vasopressin is, uh, secreted by the posterior pituitary,
+[00:23:28] causes water reabsorption, and stabilizes the plasma sodium concentration, prevents
+[00:23:33] it from going any lower, right?
+[00:23:35] But how does that get restored to normal?
+[00:23:38] How does this plasma sodium concentration get restored to normal?
+[00:23:41] There has to be another limb here in this homeostatic
+[00:23:44] loop, uh, and that is thirst.
+[00:23:48] So, on, in his situation, the hyper-osmolarity.
+[00:23:53] Actually contributes to angiotensin 2 generation.
+[00:23:56] And if he gets it all volume depleted because he's
+[00:23:58] lost a little bit of salt in his sweat, he's
+[00:24:01] in a high renal angiotensin state.
+[00:24:03] That Increase in angiotensin and his endogenous thirst.
+[00:24:10] Drives water ingestion, drinking behavior.
+[00:24:16] This is a graph that you really should try to
+[00:24:19] understand.
+[00:24:20] Uh, this relates the plasma osmolarity on the X-axis, plasma
+[00:24:24] osmolarity on the X-axis, with plasma arginine vasopressin concentration, circulating
+[00:24:30] plasma arginine vasopressin concentration on this Y axis, and the
+[00:24:35] urine osmolarity, which is, uh, effectively a bioassay under most
+[00:24:42] circumstances for plasma argenine vasopressin.
+[00:24:45] So as vasopressin goes up, your nosinarity goes up, right?
+[00:24:50] And this Curve here Is the normal curve.
+[00:24:57] So we hang out here.
+[00:24:59] With a plasma osmolarity of around 290, something like that.
+[00:25:03] That's called our set point.
+[00:25:04] That's where we hang out.
+[00:25:06] And we don't vary by more than about 2% for
+[00:25:09] most of our lives around this set point.
+[00:25:12] Uh, if we, if our plasma osmolarity goes up like
+[00:25:16] this hiker in the desert, then arginine vasopressin is secreted
+[00:25:21] and the urine osmolarity goes up to conserve water.
+[00:25:25] When it goes up high enough, it reaches the thirst
+[00:25:28] threshold, the thirst threshold.
+[00:25:31] At which point, you will be motivated to drink water,
+[00:25:35] not just to stabilize your osmolarity, but to recover to
+[00:25:39] your set point.
+[00:25:44] OK, so the defense against hypernatremia is Or vasopressive water
+[00:25:49] reabsorption.
+[00:25:51] And also hypo hypothalamic activation of the thirst center with
+[00:25:56] water ingestion that normalizes the plasma sodium concentration.
+[00:26:01] OK.
+[00:26:03] All right.
+[00:26:04] So, what are the causes of hypernatremia from pure, pure,
+[00:26:09] using this schema, the causes of hypernatremia from pure water
+[00:26:14] deficit.
+[00:26:15] Well, you could have Absence of RGE vasopressin, or a
+[00:26:21] deficiency in the production of RGE vasopressin, that's called central
+[00:26:25] diabetes insipidus, Central diabetes insipiditus.
+[00:26:28] Diabetes meaning flow, and insipid meaning weak.
+[00:26:32] So, weak flow, watery urine.
+[00:26:35] Central diabetes insipiditus.
+[00:26:38] You could have Adequate arginine vasopressin, but Uh, it's ineffective,
+[00:26:46] uh, in the kidney, and that's called nephrogenic diabetes insipiditus,
+[00:26:51] nephrogenic diabetes insipiditus.
+[00:26:54] You could have a thirst defect.
+[00:26:57] And that has a name, it's called a dipsia.
+[00:27:00] It's common in older people, but you can see it
+[00:27:02] in under other circumstances.
+[00:27:06] Or you could have incapacity to get to water, inability
+[00:27:09] to get to water.
+[00:27:10] You could be disabled, you could be bed-bound, and you
+[00:27:12] have nobody there to help you get to water.
+[00:27:14] Uh, that also can cause, uh, pure water deficit, resulting
+[00:27:18] in hypernatremia.
+[00:27:22] And a pure water deficit, now this is interesting, a
+[00:27:24] pure water deficit.
+[00:27:26] is almost imperceptible clinically.
+[00:27:30] Why is that?
+[00:27:32] Because remember, the intravascular space, which is the space that
+[00:27:35] we talk about when we talk about the clinical assessment
+[00:27:38] of volume status.
+[00:27:40] The intravascular space is only 1/12 of total body water.
+[00:27:45] Which means that you can lose a lot of total
+[00:27:47] body water, a lot of water from your body.
+[00:27:51] Without it being manifesting without it being manifested as volume
+[00:27:55] depletion.
+[00:27:57] In other words, well, I'll give you an example.
+[00:27:59] You can lose 6 L of total body water, 6
+[00:28:04] L of total body water.
+[00:28:07] And only 500 mLs comes from your intravascular space.
+[00:28:11] That's on the verge of clinical manifestation.
+[00:28:16] But 6 leaders lost.
+[00:28:19] From the body, 6 L of water lost to the
+[00:28:22] body will raise the plasma and sodium concentration from 140.
+[00:28:26] To 160 You get that?
+[00:28:35] Yeah.
+[00:28:36] Good.
+[00:28:37] OK.
+[00:28:39] So this is what happens to this hiker in the
+[00:28:40] desert.
+[00:28:41] He has an increase in his plasma morality, but The
+[00:28:44] ECF and ICF osmolarity.
+[00:28:47] He has some shrinkage of the intracellular compartment and a
+[00:28:50] barely perceptible shrinkage of the extracellular fluid compartment.
+[00:28:55] OK, so who is this patient here?
+[00:28:58] Who's this patient here?
+[00:28:59] Remember, remember the normal curve, right?
+[00:29:02] relates the plasma osmodality with, with the urine osmodality.
+[00:29:06] But here's a patient who has a urine osmodality that
+[00:29:09] is off the curve.
+[00:29:11] That's his urine osmomality right there.
+[00:29:14] What's going on with this guy?
+[00:29:18] In other words, his plasma ososity has increased to the
+[00:29:23] point where he should have.
+[00:29:25] An increase in his circulating vasopressin concentration, which should cause
+[00:29:28] an increase in his urine osmality, but he doesn't have
+[00:29:31] it.
+[00:29:32] What's this guy's problem?
+[00:29:38] What do you think?
+[00:29:40] I see some heads nodding in an affirmative direction.
+[00:29:44] Take a stab at it.
+[00:29:45] What do you, what do you have to lose?
+[00:29:48] OK, so diabetes insipiditus.
+[00:29:50] Yeah, this would be totally compatible with diabetes insipiditus.
+[00:29:55] And the, and the question then is, what kind of,
+[00:29:58] what flavor of diabetes and syphis does he have?
+[00:30:01] Does he have central diabetes insipiditus or does he have
+[00:30:04] nephrogenic diabetes insipiditus?
+[00:30:06] So, let's take a look at that.
+[00:30:08] This is a response to normal water deprivation.
+[00:30:10] And we actually can do this test.
+[00:30:12] We do a water deprivation test.
+[00:30:13] We actually take people and we deprive them of water
+[00:30:16] for hours.
+[00:30:17] And we follow their urinosmality over time.
+[00:30:20] And under normal circumstances, their urinosmolality should increase as they
+[00:30:25] become progressively water depleted.
+[00:30:28] Right?
+[00:30:29] So that would be a normal response.
+[00:30:30] What would you predict in somebody who has Uh, diabetes
+[00:30:34] insipiditus.
+[00:30:37] Well, the first thing you predict is that they have
+[00:30:40] no change in the urine osmality with water deprivation.
+[00:30:44] No change in the urine osma.
+[00:30:46] But then you have to distinguish between nephrogenic and central
+[00:30:50] diabetes insipiditus.
+[00:30:51] So how could you do that?
+[00:30:56] Yeah.
+[00:31:00] Exactly right, exactly right.
+[00:31:01] Give them exogenous, uh, antidiuretic hormone.
+[00:31:05] Exactly right.
+[00:31:06] And You can probably predict what would happen if they
+[00:31:09] have central diabetes insipiditus, meaning they don't have any endogenous
+[00:31:13] vasopressin.
+[00:31:14] You give them the hormone and they would increase their
+[00:31:16] urine osminality.
+[00:31:17] So, the hormone that we use is something called uh
+[00:31:21] DDAVP cause it doesn't have any vasopressive effect.
+[00:31:24] Uh, and.
+[00:31:26] If they do this, if they have absolutely no change
+[00:31:30] in their urinals, then what do they have?
+[00:31:33] They have nephrogenic diabetes insipiditus, right, because the kidney is
+[00:31:35] unresponsive to the exogenous vasopressant, whereas if you give them
+[00:31:41] The vasopressin and they have an increase in their urine
+[00:31:43] hospitality, and it doesn't have to be by much.
+[00:31:46] Uh, then they have central diabetes insipiditus.
+[00:31:54] Um, you don't have to, you're not responsible for the
+[00:31:57] causes of central DI and nephrogenic DI if you wanna.
+[00:32:01] Uh, satisfy your curiosity, you can look at a book.
+[00:32:05] Uh, but as an M2, you will not be responsible
+[00:32:07] for those.
+[00:32:09] Um, so there are, uh, uh, you know, we've been
+[00:32:12] talking mostly about pure water loss as a cause of
+[00:32:15] hypernatremia.
+[00:32:17] Um, and, and by the way, I am conflating hypernatrem
+[00:32:22] with hyper osmolarity, and the reason I'm doing that is
+[00:32:25] because under The vast majority of circumstances, hyper-osmolarity is associated
+[00:32:31] with hypernatremia because hypernatremia is, uh, because sodium and its
+[00:32:36] associated ions are the vastly predominant solutes in the extracellular
+[00:32:39] fluid space.
+[00:32:41] So when we talk about hyper osmality, almost all the
+[00:32:43] time, we're talking about hypernatremia.
+[00:32:46] So, if you have pure water loss, the extracellular fluid
+[00:32:49] volume is more or less normal.
+[00:32:53] Because of the way that water is distributed through the
+[00:32:56] entire total body water space.
+[00:32:58] If you lose water and salt, but water more than
+[00:33:02] salt to cause the hypernatremia, you will look volume depleted
+[00:33:05] because you will have lost some salt.
+[00:33:09] Right?
+[00:33:10] Conversely, if the hypernatremia is due to gain of salt,
+[00:33:15] More than water.
+[00:33:17] And these circumstances are quite rare.
+[00:33:20] Most of the time, it's iatrogenic.
+[00:33:22] Uh, but sometimes, uh, for example, a near drowning victim,
+[00:33:26] uh, in ocean water can ingest a fair amount of
+[00:33:29] ocean water, which has an osmo that's like 4 times
+[00:33:32] the plasma osmolarity, so they can gain salt and water,
+[00:33:36] but way more salt than water.
+[00:33:38] Those people are hypernatrenic, but they look volume overloaded, volume
+[00:33:41] overloaded.
+[00:33:42] Because of the gain in salt.
+[00:33:45] OK.
+[00:33:48] Uh, so You have somebody who's hypernatremic.
+[00:33:53] Uh, how do you treat them?
+[00:33:54] Uh, you wanna correct their whatever volume deficit they have
+[00:33:57] first, right?
+[00:33:58] You want to defend their circulation.
+[00:34:00] But then you wanna correct the water deficit.
+[00:34:03] Uh, and this gets complicated.
+[00:34:07] Because you have to account for what's called cell volume
+[00:34:10] adaptation.
+[00:34:12] Remember, I said that in conditions of hyper osmolarity, the
+[00:34:15] cells shrink.
+[00:34:17] And it's most worrisome in the brain.
+[00:34:20] Um, you know, I have a personal relationship with my
+[00:34:23] brain, and my brain tells me that, uh, it doesn't
+[00:34:27] like it to be shrunk.
+[00:34:29] My brain does not like to be shrunk.
+[00:34:31] And so it has mechanisms to defend the cell volume.
+[00:34:36] And that's called cell volume adaptation.
+[00:34:37] And let me show you what that looks like.
+[00:34:39] So, the normal cell volume is the dotted line, and
+[00:34:43] the shrunken little cell is uh shown in the middle
+[00:34:47] there.
+[00:34:47] So, this is a shrunken cell, and what does this
+[00:34:50] cell do?
+[00:34:51] This cell actually takes up electrolytes from the extracellular fluid
+[00:34:55] space.
+[00:34:56] And by doing so, it causes water movement into the
+[00:34:59] cell.
+[00:35:00] And it also generates some low molecular weight solutes, like
+[00:35:06] glutamine and myoocetal and taurine.
+[00:35:09] In and of itself, these are called idiogenic osmos.
+[00:35:12] So, it doesn't take them up from the out extracellular
+[00:35:14] fluid.
+[00:35:14] It generates them itself so that water will move from
+[00:35:18] the extracellular fluid space into the cell and restore the
+[00:35:22] cell nearly to its normal volume.
+[00:35:25] This takes a few days, but, uh, it'll restore the
+[00:35:30] cell nearly to its normal volume.
+[00:35:33] So this is called cell volume adaptation.
+[00:35:37] So under these circumstances, if you treat his, and, and
+[00:35:40] he's still hyper osmolar.
+[00:35:42] He's still hypernatremic, your guy.
+[00:35:45] But his brain has done this terrific job of adapting
+[00:35:48] the cells uh so that they're not shrunken anymore.
+[00:35:52] If now you give him a lot of water.
+[00:35:55] If you give him a lot of exogenous water to
+[00:35:58] correct his hypernatremia, what's the danger?
+[00:36:04] Not necessarily hyponatremia.
+[00:36:07] Think about the cell.
+[00:36:10] Sorry?
+[00:36:12] Cell swelling, exactly right.
+[00:36:15] So if you give him exogenous water now, the cell
+[00:36:18] will swell and The brain does not like that either,
+[00:36:22] does not like that at all.
+[00:36:24] In fact, that's generally considered to be more dangerous than
+[00:36:27] cell shrinking.
+[00:36:29] So you have to be careful about how you rep
+[00:36:31] replenish water in people who have had, especially long-standing hypernatremia.
+[00:36:39] OK.
+[00:36:39] Is everybody clear on this?
+[00:36:44] OK, and cerebral edema, as I said, is uh not
+[00:36:47] a pleasant thing.
+[00:36:48] And if it happens, if it's severe enough and it
+[00:36:50] happens fast enough, you can actually get transentorial herniation and
+[00:36:54] death.
+[00:36:57] OK, let's take the converse.
+[00:36:59] Let's take the converse, and the converse is uh somebody
+[00:37:02] who drinks water.
+[00:37:04] Uh, we do that all the time.
+[00:37:06] What happens when we drink water, even just normally we
+[00:37:08] drink water.
+[00:37:09] So, this is somebody who has drunk 1 L of
+[00:37:12] water, uh, and you can see that their plasma osmolarity.
+[00:37:17] Goes down a little bit.
+[00:37:18] Just a little bit, just goes down a little bit.
+[00:37:20] But it's red.
+[00:37:23] Uh, but in such a way that it causes an
+[00:37:27] increase in urine volume.
+[00:37:30] And a marked decrease in the urinosmality.
+[00:37:37] How does that happen?
+[00:37:38] It happens because this subtle decrease in plasma osmolarity is
+[00:37:45] read again by these osma receptors in the hypothalamus, these
+[00:37:50] osmo receptors in the hypothalamus, and they shut off vasopressin.
+[00:37:55] Release.
+[00:37:58] And once you shut off vasopressin release, Uh, there's no
+[00:38:02] argenine vasopressant anymore.
+[00:38:04] Uh, affecting the, uh, principal cells of the collecting duct.
+[00:38:09] And this, and this very dilute urine, remember this urine
+[00:38:13] that's been diluted from 1200.
+[00:38:16] Down to 300, down to 150, and then in the
+[00:38:18] cortical diluting site, down to 50 mL per liter.
+[00:38:22] In the absence of vasopressin, that very dilute urine comes
+[00:38:27] shooting out.
+[00:38:30] And that accounts for that, that range that I talked
+[00:38:32] about of urine osmity between 50 milliasms per liter.
+[00:38:37] And that's in the absence of vasopressin to 1200 milliams
+[00:38:41] per liter in under conditions of maximal vasopressin secretion.
+[00:38:50] Now, this is a beautiful system.
+[00:38:52] It really works extremely well.
+[00:38:55] And So this is a defense against hyponatremia, but hyponatremia
+[00:39:02] is the most common electrolyte disorder that we see.
+[00:39:06] How is that possible?
+[00:39:08] I mean, this is a beautiful system.
+[00:39:09] It works really well.
+[00:39:10] It works in all of you.
+[00:39:11] I mean, you know exactly where, where you'd be.
+[00:39:15] You know exactly where you would be if you drank
+[00:39:16] that whole thing down right now.
+[00:39:18] In 20 minutes, you would be, you know exactly where
+[00:39:20] you'd be, right?
+[00:39:21] It works really well.
+[00:39:23] And yet, hyponatremia is the most common electrolyte abnormality.
+[00:39:27] How can that possibly be?
+[00:39:31] Well, It gets to the question of what's the maximum
+[00:39:35] amount of water that you can take in and get
+[00:39:38] rid of in a day.
+[00:39:40] Like, is it possible to overwhelm this normal diluting capacity?
+[00:39:46] Uh, so let's take a look at that.
+[00:39:48] We estimate that the amount of water that we can
+[00:39:50] take in and get rid of in a day is
+[00:39:51] about 10% of our GFR.
+[00:39:54] If our GFR is 180 L a day, that means
+[00:39:58] that as an adult, you can get rid of like
+[00:40:00] 18 L a day.
+[00:40:01] How do we arrive at this?
+[00:40:03] We arrive at this Based on this equation.
+[00:40:06] And you don't have to, you don't have to memorize
+[00:40:08] this.
+[00:40:08] You just have to understand the concept here.
+[00:40:11] The maximum water excretion rate in liters per day.
+[00:40:15] Is the solute, your daily solute excretion in milliams per
+[00:40:20] day.
+[00:40:21] divided by the minimum urine osmolarity that you can achieve.
+[00:40:26] I said, the minimum urine osmolarity you can achieve is
+[00:40:28] about 50 milliosms per liter.
+[00:40:30] We generally take in about 900 milliosms of solute a
+[00:40:34] day.
+[00:40:35] That's how much we have to get rid of in
+[00:40:37] the form of, uh, electrolytes and, uh, protein, uh, uh,
+[00:40:42] metabolites.
+[00:40:44] About 900 milliosms per day.
+[00:40:47] So 900 divided by 50 is 18 L.
+[00:40:52] So that's the most that you can get rid of.
+[00:40:53] You can drink and get rid of it a day,
+[00:40:55] if you have normal solute intake.
+[00:40:59] The problem with that is, um, you can overwhelm that
+[00:41:02] in two ways.
+[00:41:03] One is, you can drink more than 18 L a
+[00:41:06] day.
+[00:41:07] Some people do that.
+[00:41:08] It's called primary polydipsia.
+[00:41:10] It used to be called psychogenic polydipsia, uh, because most
+[00:41:14] people who Think about these things, don't do that.
+[00:41:18] Uh, but some people are driven to drink huge amounts
+[00:41:22] of water, uh, primary polydipsia.
+[00:41:25] Uh, and the other, um, the other time that you
+[00:41:28] can see this is in people who have a low
+[00:41:31] solute intake.
+[00:41:33] And high water intake, and those are enthusiastic beer drinkers.
+[00:41:38] Beer is basically carbohydrate and water.
+[00:41:41] And so, carbohydrate metabolism generates CO2 and water, so it
+[00:41:45] generates no fixed solute that you have to get rid
+[00:41:48] of through the kidney.
+[00:41:50] So you're taking in a huge amount, or you can,
+[00:41:52] if you're an enthusiastic beer drinker.
+[00:41:53] You're taking in a huge amount of water in the
+[00:41:55] form of beer and no fixed solute.
+[00:41:58] And so that equation that I showed you before is
+[00:42:00] completely screwed up because I said that the maximum amount
+[00:42:04] of water that you can take in.
+[00:42:07] And get rid of is your total solute excretion per
+[00:42:10] day divided by the UN, the minimum urinary concentration.
+[00:42:14] If they're taking in, instead of 900 milliams a day,
+[00:42:20] uh, only enough to generate 200 milliams a day.
+[00:42:25] And they're still capable of diluting their urine perfectly well,
+[00:42:27] down to 50, then the most they can take in
+[00:42:30] and get rid of in a day is 4 L,
+[00:42:32] not 18 L 4 L.
+[00:42:34] And if they exceed that, then they start to get
+[00:42:37] progressively hyponatremic.
+[00:42:40] Do we see this?
+[00:42:41] We absolutely see this.
+[00:42:44] I had a friend who practiced in New Orleans, and
+[00:42:46] he said that he would see somebody come in with
+[00:42:48] beer, extreme hyponatremia from beer potomania, at least once a
+[00:42:53] week.
+[00:42:58] OK, what about this person?
+[00:43:00] Remember, here's the normal curve.
+[00:43:02] Here's the normal curve, plasma osmoality versus urine osmality.
+[00:43:07] And the urine osmality here is Way off the curve
+[00:43:12] In the upward direction.
+[00:43:14] In other words, this person has a low plasma osmality
+[00:43:17] which should suppress their vasoresence completely and allow them to
+[00:43:21] put out a very concentrated, a very dilute urine, and
+[00:43:24] yet, he's putting out a, a, a, a concentrated urine.
+[00:43:29] What's going on with this person?
+[00:43:37] Well, if you, if you use this.
+[00:43:41] Access here If you, if you say that, that this
+[00:43:46] axis, the urinary concentration is a, is a, a biomarker
+[00:43:51] for this.
+[00:43:54] Plasma arginine vasopressin concentration, then what's his arginine vasopressin concentration?
+[00:44:01] It's high.
+[00:44:03] It's inappropriately high, you would say, right?
+[00:44:06] It's inappropriately high, given his low plasma osmolarity.
+[00:44:13] It looks like he's hanging on to water.
+[00:44:16] He's reabsorbing water in his collecting duct.
+[00:44:19] Um, at a time when he is already his extracellular
+[00:44:23] fluid volume is already too dilute.
+[00:44:27] That doesn't make any sense.
+[00:44:29] So what's going on here?
+[00:44:37] Well, that's a possibility.
+[00:44:39] The syndrome of inappropriate ADH.
+[00:44:41] You would clearly say that his ADH concentration is too
+[00:44:45] high.
+[00:44:46] You would say that.
+[00:44:47] And, and that would be totally reasonable.
+[00:44:49] And the question then is, inappropriate for what?
+[00:44:53] Inappropriate for what?
+[00:44:54] Cause it turns out that there's not just one physiologic
+[00:44:58] stimulus for RGE vasopressin.
+[00:45:00] And what we've been talking about is the osmotic stimulus
+[00:45:03] for arginine vasopressin, right?
+[00:45:04] Hyper-osmality stimulates arginine vasopressin, causing water reabsorption and great homeostasis,
+[00:45:10] right?
+[00:45:11] But there's another physiologic stimulus for RGE vasopressin, and that
+[00:45:15] is a barrow receptor stimulus for argine vasopressin.
+[00:45:20] A barrow receptor stimulus for RG vasopressin.
+[00:45:24] Uh, and that looks like this, these barrel receptors.
+[00:45:28] Uh, under conditions of decreased stretch, send a stimulatory signal
+[00:45:33] to the brain stem, the vasomotor centers in the brain
+[00:45:35] stem, that then is relayed to the hypothalamus causing release
+[00:45:39] of arginine vasopressin.
+[00:45:43] They don't call it vasopressin for nothing.
+[00:45:47] It is a potent pressor hormone.
+[00:45:50] So under conditions of volume depletion, you will be in
+[00:45:53] a high vasopressin state.
+[00:45:58] And you will be in a high vasopressent state under
+[00:46:01] conditions of volume depletion or hypotension, regardless of what your
+[00:46:04] plasma osmolarity is.
+[00:46:06] Regardless of what your plasma, and that's shown here in
+[00:46:09] this slide, in this graph, which shows the response to
+[00:46:14] isotonic volume depletion.
+[00:46:17] Vasopressin.
+[00:46:17] Here's vasopressin.
+[00:46:19] Uh, in response to, um, isotonic volume depletion versus isovolemic,
+[00:46:27] uh, Uh Hypernatremia.
+[00:46:33] So you can see that this this effect predominates.
+[00:46:39] So, just to re-emphasize, if you are volume depleted or
+[00:46:44] hypotensive, you will be in a high vasopressant state.
+[00:46:49] Regardless of what your plasma osmology is.
+[00:46:53] So there are 2 physiologic stimuli.
+[00:46:56] So when we talk about the syndrome of inappropriate antidiuresis.
+[00:47:01] We talk about the syndrome of inappropriate antidiuresis.
+[00:47:04] We mean inappropriate to both physiologic stimuli.
+[00:47:12] So SID hyponatremia with a concentrated urine, inappropriate to the
+[00:47:17] two physiologic stimuli for arginine vasopressin stimulation.
+[00:47:23] OK.
+[00:47:25] Uh, you also need to know that not all hyponatremia
+[00:47:30] is associated with hypotonicity.
+[00:47:32] Not all hyponatremia is associated with hypotonicity.
+[00:47:35] For example, in the, uh, in the The patient that
+[00:47:40] I talked about earlier, the person with hyperglycemia, diabetic and
+[00:47:44] poor control, for example, there's gonna be um movement of
+[00:47:48] water because of the hyper-osmolarity in the extracellular fluid space.
+[00:47:52] It's gonna be water movement out of cells, expanding the
+[00:47:56] extracellular fluid compartment.
+[00:47:58] The sodium content there hasn't changed.
+[00:48:03] Same sodium content, but now in a bigger volume.
+[00:48:05] So this patient actually has hyponatremia, hyponatremia.
+[00:48:10] But They don't have cell swelling, they actually have cell
+[00:48:14] shrinkage.
+[00:48:16] So we don't worry about the hyponatremia in this situation.
+[00:48:22] So, not all hyponatremia is associated with hypotonicity.
+[00:48:26] Is this real hyponatremia?
+[00:48:28] Yeah, it's real.
+[00:48:29] Meaning, the concentration of sodium in the extracellular fluid space
+[00:48:33] is lower because of the expansion of the ECF because
+[00:48:36] of this water movement out of cells.
+[00:48:41] OK, this is a schema which you can see in
+[00:48:44] your, in the slide set that I sent you.
+[00:48:46] Um, uh, and you can just walk through this.
+[00:48:49] I'm not gonna go through it now, but you can
+[00:48:51] walk through it, and it'll help you sort through some
+[00:48:54] problems that you might face.
+[00:49:00] OK.
+[00:49:01] So, what's, what are the clinical presentation, what are the
+[00:49:04] characteristics of clinical presentation of hyponatremia?
+[00:49:07] You should know that the signs and symptoms are proportional
+[00:49:10] to the severity of the hyponatremia and the rate of
+[00:49:14] its development.
+[00:49:16] The severity and the rate.
+[00:49:19] All are attributable to cerebral edema.
+[00:49:23] And altered neuron metabolism.
+[00:49:29] This is true hyponatremia I'm talking about, not the hyper
+[00:49:32] osmolar hyponatremia that you can see in people with hyperglycemia,
+[00:49:35] but true hypoosmolar hyponatremia.
+[00:49:39] All the signs and symptoms are due to cerebral edema
+[00:49:42] and altered neuron metabolism.
+[00:49:45] And they are these, and this is sort of an
+[00:49:47] order of severity, malaise, uh, headache, lethargy, nausea, confusion, seizure,
+[00:49:55] coma.
+[00:49:57] And even death.
+[00:50:00] So this is, it's no joke.
+[00:50:03] Uh, it is one of the few potentially lethal electrolyte
+[00:50:09] disturbances.
+[00:50:12] So the correction of the hyponatremia, the urgency of the
+[00:50:15] correction is determined by signs and symptoms.
+[00:50:17] So, if we have somebody who presents with hyponatremia, and
+[00:50:21] they have any of those symptoms like malaise, lethargy, or
+[00:50:25] any of the signs, certainly seizure, uh, or altered mental
+[00:50:29] status in some other way, we treat that as an
+[00:50:32] emergency, an emergency.
+[00:50:35] But the rate of correction has to account once again
+[00:50:38] for cell volume adaptation.
+[00:50:41] Cell volume adaptation.
+[00:50:43] And this time it's in the other direction.
+[00:50:45] So what does that look like?
+[00:50:46] So, remember, once again, the normal size of the cell
+[00:50:49] is in the dotted line.
+[00:50:51] And so, this is a cell that is actually swollen
+[00:50:54] because of the hyponatremia.
+[00:50:56] Because of the hypoosmolar hyponatremia.
+[00:50:59] Now, this cell, again, doesn't like to be swollen.
+[00:51:03] And so it does everything it can to normalize its
+[00:51:05] cell volume.
+[00:51:07] And, and the first thing it does is it starts
+[00:51:08] kicking out electrolytes.
+[00:51:11] And the next thing it does is it starts kicking
+[00:51:13] out water.
+[00:51:15] Uh, in combination with that electrolyte, right?
+[00:51:17] So, it actually shrinks back to its normal, practically to
+[00:51:21] its normal size over days.
+[00:51:23] It also kicks out some non-electrolyte osmolytes like the one
+[00:51:26] I, the ones I told you about, myo acetyl, taurine,
+[00:51:28] glycine, uh, with the, the, the goal of reducing the
+[00:51:34] cell volume back almost completely to its normal size.
+[00:51:39] Almost completely to its normal size.
+[00:51:42] So you still have this hyponatremic patient.
+[00:51:45] This hyponatremic patient has been hyponatremic now for days, but
+[00:51:49] his brain cells have shrunk back to almost their normal
+[00:51:54] size.
+[00:51:56] So now, if you treat this patient, to get them
+[00:51:59] out of the hyponatremia and treat them too fast.
+[00:52:04] You will actually shrink their cells.
+[00:52:07] Uh, how can you correct the hyponatremia?
+[00:52:09] One is you can, uh, restrict their water intake.
+[00:52:15] Or you can give them sodium chloride administration, give them
+[00:52:18] sodium chloride, either isotonic or hypertonic, or you can use
+[00:52:23] V2 receptor blockers, uh, also known as Vaptans.
+[00:52:27] Uh, the Vaptans work by blocking this V2 receptor.
+[00:52:31] They are V2 receptor blockers.
+[00:52:34] And so they prevent the insertion of aquaporin two channels
+[00:52:37] into the apical membrane.
+[00:52:39] They prevent Water reabsorption from the collecting duct.
+[00:52:47] Um, so, here you have this patient with their cell,
+[00:52:52] they're still maybe profoundly hyponatremic, but their, their brain cells
+[00:52:58] have shrunk back to their normal size.
+[00:53:00] And now, if you give them sodium chloride and raise
+[00:53:05] the extracellular fluid, sodium concentration, you will shrink these cells.
+[00:53:14] And if you shrink them too much, Before they can
+[00:53:17] adapt, you shrink them too much before they can adapt
+[00:53:20] by doing what shrunken cells do, taking sodium chloride, uh,
+[00:53:24] taking sodium, taking potassium, taking those idiogenic osmos, uh, uh.
+[00:53:32] The problem there is that that cell volume regulation is
+[00:53:36] delayed.
+[00:53:36] It takes days.
+[00:53:38] And so if you shrink their cells before they have
+[00:53:40] a chance to do that cell volume adaptation in reverse,
+[00:53:44] uh, you can get, uh, some serious complications.
+[00:53:47] And the complication that we, uh, that we are most
+[00:53:50] concerned about in those circumstances is something called the osmotic
+[00:53:53] demyelination syndrome, osmotic demyelination syndrome.
+[00:53:57] We think this comes from.
+[00:53:59] Excessive shrinking of the brain cells with excessively rapid treatment
+[00:54:05] of hyponatremia.
+[00:54:07] Excessively rapid treatment of hyponatremia.
+[00:54:12] And it can result in permanent neurologic impairment or even
+[00:54:16] death.
+[00:54:19] OK, so what have we covered?
+[00:54:22] Uh, we covered the importance of ECF osmolarity in regulating
+[00:54:26] cell volume.
+[00:54:28] Regulating cell volume, the role of water homeostasis in regulating
+[00:54:34] ECF osmolarity.
+[00:54:37] Mechanisms of water homeostasis.
+[00:54:40] Having to do with vasopressin and thirst.
+[00:54:45] Disorders of water homeostasis, mostly manifested by hyper and hyponatremia,
+[00:54:50] and some really important considerations in the treatment of disorders
+[00:54:54] of water homeostasis, mostly having to do with your appreciation
+[00:54:59] for cell volume regulation.
+[00:55:05] Happy to take any questions that you have.
+[00:55:18] OK, if you do have any questions, uh, you can
+[00:55:21] get me there or you can come up to my
+[00:55:24] office, uh, on the 4th floor.
+[00:55:27] Happy to see anybody anytime.

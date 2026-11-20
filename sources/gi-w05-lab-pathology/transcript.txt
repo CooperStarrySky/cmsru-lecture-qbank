@@ -1,0 +1,1754 @@
+[00:00:00] Hello, hello, can you hear me?
+[00:00:01] OK?
+[00:00:03] All right, um, my name is Upasana Janeja.
+[00:00:06] I am one of the pathologists at Cooper University Hospital,
+[00:00:10] and today we will be for the next 1.5 hour
+[00:00:13] or so, uh, discussing some GI pathology things.
+[00:00:16] I'm assigned certain organs, so we'll be focusing on the
+[00:00:19] esophagus, then we'll talk about some of the entities of
+[00:00:22] the liver, benign and malignant, then I'll talk about the
+[00:00:24] pancreas and we'll finish off with the gallbladder.
+[00:00:28] Um, so, um, amongst from the esophagus, let's begin, and
+[00:00:33] we'll discuss first the inflammatory non-neoplastic conditions, and these are
+[00:00:37] kind of the different categories we'll cover.
+[00:00:40] So let's start.
+[00:00:42] So the top left picture is the, um, endoscopic view
+[00:00:47] of, um, from an EGD, and your esophagus looks like
+[00:00:51] the pale pink stuff that you see up top, and
+[00:00:54] then the line that you see is where it transitions.
+[00:00:57] Into uh columnar type epithelium and that's why it has
+[00:01:01] that salmon pink color, um, so the top pale pink
+[00:01:04] stuff is your esophagus and it corresponds to squamous epithelium
+[00:01:08] hopefully by now and I know you guys have covered
+[00:01:10] it, squamous epithelium is basically the stratified epithelium with basally
+[00:01:14] blue cells that then matures to the surface and then
+[00:01:17] you can see that the nuclei get really tiny and
+[00:01:20] this is what normal squamous epithelium looks like and what
+[00:01:22] normal esophagus looks like on endoscopy.
+[00:01:26] So now let's discuss some pathologic conditions.
+[00:01:31] Um, so the first entity is eosinophilic esophagitis.
+[00:01:35] Um, it's basically a, uh, type 2 immune mediated inflammation
+[00:01:41] related to food antigens which brings, uh, eosinophils into the
+[00:01:45] epithelium.
+[00:01:46] The classic, uh, test question gives you a young patient
+[00:01:49] who has, uh, atopic, uh, considerations such as they have
+[00:01:54] asthma, they have had a history of eczema in childhood,
+[00:01:57] they have allergic rhinitis, and, um.
+[00:02:00] It's based on certain interleukins such as 45, and 13
+[00:02:05] that you do not need to know for any tests,
+[00:02:07] uh, but that's where it comes from, and then the
+[00:02:10] eosinophilic inflammation actually also causes remodeling in the deep tissue
+[00:02:16] and causes fibrosis and strictures which leads to symptoms of
+[00:02:19] dysphagia and then food impaction when the situation gets really
+[00:02:23] worse and is left untreated.
+[00:02:25] Um, the endoscopic image can show up on tests sometimes,
+[00:02:30] and it looks compared to the normal picture I showed
+[00:02:32] you in the last slide, it has these rings.
+[00:02:35] It almost mimics what trachea looks like, and sometimes, and
+[00:02:39] they call this trachealization, or sometimes you can see these
+[00:02:43] linear streaks.
+[00:02:44] Do you see them here?
+[00:02:45] Um, those are the linear furrows, so you can see
+[00:02:48] either or.
+[00:02:50] Um, classically you treat these with either steroids or certain
+[00:02:53] food elimination, or there are now biologics that you can
+[00:02:57] treat with as well.
+[00:02:58] Here's the histologic correlate.
+[00:03:00] This is your squamous epithelium.
+[00:03:01] You can see now compared to the normal, it looks
+[00:03:03] a lot bluer, but the most important part that if
+[00:03:06] you were ever tested on, you would.
+[00:03:08] Have to be able to identify these eosinophils with the
+[00:03:10] pink granules and the sunglasses type nuclei, and by definition
+[00:03:15] you have, you need to have more than 15 per
+[00:03:18] high power field which you do not need to know.
+[00:03:20] They'll just show you a picture with a lot of
+[00:03:21] eosinophils, and you have to be able to recognize it's
+[00:03:24] eosinophilic esophagitis.
+[00:03:27] Uh, now I wanted to just tell you these people
+[00:03:29] come with dysphagia, and the reason they come with food
+[00:03:32] impaction is because of this lamina propria fibrosis.
+[00:03:36] Not gonna be tested on, but just so that you
+[00:03:38] know, this is all the fibrosis in the lamina propria
+[00:03:41] which causes the stricturing in long-term disease.
+[00:03:46] Bye bye.
+[00:03:47] Next is infectious esophagitis.
+[00:03:49] I know you've looked at all these bugs classically in
+[00:03:51] different organ systems, uh, but I want to reinforce the
+[00:03:55] histology because it comes up on tests and you wanna
+[00:03:58] also remember the classic clinical and endoscopic presentation which can
+[00:04:02] come.
+[00:04:03] Up and, uh, question stems, so these patients who get
+[00:04:06] these infectious esophagitis tend to have, um, immunocompromised states whether
+[00:04:11] it be HIV or transplant or different settings.
+[00:04:14] Patients who have candida, they tend to have these white
+[00:04:17] plaques.
+[00:04:18] So you can see I showed you the norm, this
+[00:04:20] is endoscopic image of the esophagus and you can see
+[00:04:22] the white plaques, and the histologic correlate is that the
+[00:04:25] squamous epithelium has acute inflammatory cells, and in addition to
+[00:04:29] that they have these linear fungal hyphae with constrictions in
+[00:04:33] the middle.
+[00:04:34] And then you see these little oval balls, those are
+[00:04:36] the yeast forms.
+[00:04:38] So this is classic Canada esophagitis.
+[00:04:40] Um, you can see Canada from oral contamination.
+[00:04:43] So in order to call it esophagitis, you really need
+[00:04:46] to have the squamous epithelium have acute inflammation in addition,
+[00:04:49] and it needs to kind of be in the squamous
+[00:04:51] epithelium, not just on the surface, because then it could
+[00:04:54] just be colonization.
+[00:04:57] This is your herpes simplex virus, endoscopically, it has a
+[00:05:00] classic presentation of these small rounded ulcers that are multiple
+[00:05:07] in the esophagus, and it affects the squamous epithelium classically,
+[00:05:11] and it has the three M's of herpes simplex virus,
+[00:05:15] which is molding, margination and multinucleation.
+[00:05:18] So the multinucleation is the big one, which is how
+[00:05:20] you would recognize them.
+[00:05:22] So this is a multinucleated cell.
+[00:05:24] Normally it just has one nucleus.
+[00:05:25] Now you have like, I don't know, like 10.
+[00:05:27] Um, margination is talking about the chromatin where the viral
+[00:05:31] particles within the nucleus are so many that they move
+[00:05:34] the chromatin to the edge of the nucleus.
+[00:05:38] And finally molding.
+[00:05:39] Molding just means that the multi.
+[00:05:43] Nucleation those cells are like um taking the contours of
+[00:05:47] the nucleus next door so that's what molding means.
+[00:05:50] So molding refers to the nuclear um and like nuclear
+[00:05:54] connection to the next door nucleus I guess and you
+[00:05:57] can see now there's multiples of them.
+[00:05:59] So here's a herpes inclusion.
+[00:06:01] Here's another one.
+[00:06:02] Here's another one.
+[00:06:05] Um, the next is CMV.
+[00:06:07] So cytomegalovirus doesn't particularly like the squamous epithelium, it either
+[00:06:11] likes the endothelial cells or the stromal cells, or sometimes
+[00:06:15] the glandular cells.
+[00:06:16] So here's some glandular cells that I'm showing you classic
+[00:06:18] inclusions in.
+[00:06:19] As the name suggests, cytomegalovirus, the virus inclusions are much
+[00:06:24] larger.
+[00:06:24] They make the nucleus look much larger compared to the
+[00:06:27] normal.
+[00:06:27] So you can see that here's a normal sized nucleus,
+[00:06:29] and now the one that's infected is much larger.
+[00:06:32] And then you have inclusions that give it a glassy
+[00:06:35] look in the.
+[00:06:35] Nucleus and also you have these pinkish inclusions outside in
+[00:06:41] the cytoplasm.
+[00:06:42] They call it ally if you have multinucleation in this,
+[00:06:45] but these are what classic yummy inclusions look like.
+[00:06:48] Here's another one.
+[00:06:49] Here's another one.
+[00:06:50] Here's another one.
+[00:06:52] most of the time you don't need the stains, but
+[00:06:53] sometimes they can be sneaky, so we do have immuno
+[00:06:55] to chemical stain if we ever need it.
+[00:06:59] Um, next entity we'll cover is cholaia.
+[00:07:03] Aallasia is a little bit similar to Hirschsprung's in ways
+[00:07:06] because it has, it, uh, it, it implicates injury in
+[00:07:09] neurons that affects the motility of the esophagus in this
+[00:07:12] case.
+[00:07:13] So basically it's a motility disorder where your lower esophageal
+[00:07:17] sphincter relaxation is abnormal and doesn't happen, uh, and as
+[00:07:22] also you have an issue with peristalsis of the esophagus,
+[00:07:25] which is its main function to basically move the food
+[00:07:28] down.
+[00:07:28] Um, and the reason for that is, is degeneration of
+[00:07:32] inhibitory neurons in the myenteric plexus, that's between the two
+[00:07:36] muscle layers, the inner circular and the outer longitudinal muscle
+[00:07:39] layers, and, um, because your esophagus, lower esophageal sphincter doesn't
+[00:07:44] relax, uh, you get progressive dysphagia to solids and liquids,
+[00:07:48] and you get regurgitation, um, And the, the green stuff
+[00:07:54] as highlighted can be, can show up on tests.
+[00:07:58] So it has been highlighted in green for that reason.
+[00:08:01] The classic, uh, test question shows you a barium swallow,
+[00:08:03] which I have, which I have on the next slide,
+[00:08:05] which will show you a dilated esophagus with a distal
+[00:08:07] b b bird beak narrowing.
+[00:08:10] Um, you can use manometry as well for a diagnosis.
+[00:08:13] Um, histologically, uh, it's.
+[00:08:16] We don't usually see it histologically because those nerves are
+[00:08:19] deep down, but sometimes you do get patients who get
+[00:08:22] resections and then we can diagnose this, and I'll show
+[00:08:24] you an example of that, um.
+[00:08:27] The cause, usually it's idiopathic, it happens after a viral
+[00:08:30] infection, um, where there's some cross reactivity and those ganglion
+[00:08:33] cells in certain nerves get injured, um, but there are
+[00:08:37] secondary causes, and the one that's tested is Tryponohoma cruzi
+[00:08:41] that Chagas disease.
+[00:08:43] Um, something to remember, which you kind of just have
+[00:08:45] to memorize, is having long-term alasia can predispose you to
+[00:08:49] getting esophageal cancer, specifically squamous cell.
+[00:08:55] Uh, this is your bird beak, uh, barium swallow view
+[00:08:58] just because the inhibitory neurons are not working in that
+[00:09:01] LES region, um.
+[00:09:04] And this is the histologic correlate, so a normal nerve
+[00:09:07] has, uh, Schwann cells like this thing, and you have
+[00:09:11] these ganglion cells, and you can see this is between
+[00:09:14] the two muscle layers, and here is a nerve and
+[00:09:17] a nerve and a nerve, and these are too many
+[00:09:19] nerves that do not have ganglion cells, and you know
+[00:09:22] that's how we diagnose it on histologic sections, but these
+[00:09:28] are very rare specimens, we barely see them, uh, but
+[00:09:31] there are many patients who have equalasia.
+[00:09:35] Um, esophageal varices, so esophageal varices is highly tested, and
+[00:09:41] the classic clinical symptoms is a person who has cirrhosis
+[00:09:45] and then comes up with an acute GI bleed heavy
+[00:09:48] amounts, and then you have to think about oesophageal varices.
+[00:09:51] That's your classic clinical vignette, um, it's basically dilated submucosal
+[00:09:56] veins in the distal esopha.
+[00:09:57] Esophagus and it's caused in patients classically who have liver
+[00:09:59] cirrhosis or have portal hypertension from other reasons.
+[00:10:03] So these patients have so much back pressure in the
+[00:10:06] portal system that the connection to the zygous system of
+[00:10:10] the esophageal veins causes a back pressure.
+[00:10:13] So let me show you in this picture.
+[00:10:16] So here is your portal vein.
+[00:10:17] There is this left gas.
+[00:10:18] vein that connects your portal system to the esophageal veins
+[00:10:23] and once you have so much back pressure because your
+[00:10:26] liver is so stiff, those veins backflow into this and
+[00:10:30] dilate all these esophageal veins and um result in esophageal
+[00:10:34] varices.
+[00:10:35] They tend to be asymptomatic.
+[00:10:37] Patients don't know they have them until unfortunately they rupture.
+[00:10:41] You can do beta blockers or uh band ligate them
+[00:10:45] to prevent hemorrhage, um.
+[00:10:48] Here is an endoscopic view, they're easy to see and
+[00:10:51] spot.
+[00:10:52] You can see the bulky veins, um, that are submucosal,
+[00:10:56] and this is the histologic correlate, never gonna be tested,
+[00:10:58] but I'm just showing it to you for completion.
+[00:11:00] These are submucosal veins.
+[00:11:01] This is your squamous epithelium of the esophagus.
+[00:11:04] This is your submucosa, and there are these thin-walled, large
+[00:11:07] veins in the esophageal submucosa, esophageal varices.
+[00:11:14] So GERD, I know you've covered this often, so I'm
+[00:11:16] just gonna show you the histologic correlate of it in
+[00:11:19] the slide, so much of this is repetition from what
+[00:11:21] you already know, um, reflux is a quite common condition.
+[00:11:25] It happens as a result of dysfunction of either the
+[00:11:28] lower esophageal sphincter, Which causes the contents of the stomach
+[00:11:32] to go into the esophagus, and the problem there is
+[00:11:35] that your stomach is a very acidic environment, so when
+[00:11:38] you get that persistent reflux into the squamous epithelium, that
+[00:11:42] leads to changes in your esophageal epithelium and then predisposes
+[00:11:46] you to.
+[00:11:47] Metaplasia, dysplasia, and malignancy, um, risk factors, obesity, hiatal hernia,
+[00:11:54] and pregnancy are just a few of them, classically, patients,
+[00:11:57] they will have complaints of, you know, um, heartburn and
+[00:12:00] acid regurgitation and sometimes dysphagia, um.
+[00:12:05] Patients who have GERD uh can present with like, uh,
+[00:12:08] ulcers at the GE junction or, um, um, or or
+[00:12:15] superficial erosions.
+[00:12:16] Eventually these ulcers or erosions heal again and then get
+[00:12:20] injured again, and you get fibrosis from that.
+[00:12:23] The more worrisome complication is when you get Barrett's esophagus,
+[00:12:26] which I'll show you on the next slide, and find.
+[00:12:29] The most worrisome thing is adenocarcinoma that you can get.
+[00:12:32] A point to remember is that GERD predisposes you to
+[00:12:35] adenocarcinoma, whereas something like allasia predisposes you to squamous cell
+[00:12:40] carcinoma.
+[00:12:41] Um, PPIs are usually the mainstay of therapy here.
+[00:12:45] Um, so this is normal esophagus picture is on the
+[00:12:49] left, um, the right is what we see when we
+[00:12:52] see reflux.
+[00:12:53] These patients have, and you don't need to know this
+[00:12:56] for the test, but I'm just showing it to you
+[00:12:58] for completion.
+[00:13:00] You have.
+[00:13:01] Um, these basal, uh, papillae that go up much higher
+[00:13:05] than normal.
+[00:13:05] Here, normal it's so little, and then you have basal
+[00:13:08] zone hyperplasia, so they're thickened a lot.
+[00:13:11] Here it's like very like 2 cell layer thick.
+[00:13:13] Here's like 7 cell layer thick, and, um, and you
+[00:13:17] get inflammatory cells within the epithelium, and they can be
+[00:13:20] acute and like they can be neutrophils or lymphocytes.
+[00:13:29] Um, so having GERD and chronic mucosal injury can predispose
+[00:13:34] you to Barrett's, and Barrett's is nothing but having, um,
+[00:13:38] the squamous epithelium undergo metaplasia to columninar epithelium and then
+[00:13:43] get goblet cells.
+[00:13:44] The presence of goblet cells is what defines Barrett's in
+[00:13:46] the United States.
+[00:13:47] The definition is different in different countries.
+[00:13:50] Um, and the way you see that endoscopically is like
+[00:13:53] this, so you can see, uh, normal esophagus here, it's
+[00:13:56] the pale white stuff, and this is kind of your
+[00:13:58] transitional area and this is like where your glandular type
+[00:14:01] epithelium is, but you can see these tongues go up
+[00:14:04] into the esophagus now.
+[00:14:05] So this is where the metaplasia is happening.
+[00:14:07] So when the um.
+[00:14:09] Gastroenterologists see this in endoscopy.
+[00:14:11] They take pieces of tissue from right around here, and
+[00:14:16] these tongues need to be longer than 1 centimeter from
+[00:14:19] the gastroesophageal junction to be able to be diagnosed as
+[00:14:22] Barrett's.
+[00:14:23] So gastroesophageal junction is right here defined by where the
+[00:14:26] rugal folds of the stomach start.
+[00:14:29] If it's 1 centimeter above, then you take a biopsy
+[00:14:31] from there.
+[00:14:34] This is what you see in those areas or the
+[00:14:36] salmon colored tongues that go up into the esophagus.
+[00:14:39] You see squamous epithelium, but then in the esophagus, now
+[00:14:43] you're seeing glandular epithelium that has these nice mucin rich
+[00:14:48] goblet cells.
+[00:14:49] These are not normally present here, and the present of
+[00:14:52] this is what defines Barrett's esophagus.
+[00:14:54] So this is Barrett's esophagus.
+[00:15:02] So, um, like I said, so once you get metaplasia,
+[00:15:06] you now have a risk.
+[00:15:08] These people get screening endoscopies to make sure they don't,
+[00:15:13] um, progress to dysplasia and carcinoma.
+[00:15:16] Um, it sounds scary.
+[00:15:17] We teach you that, but the extent and the rate
+[00:15:20] at which that happens is very low, so not everybody
+[00:15:23] who has Barrett's, very few people who have Barrett's actually
+[00:15:25] go to cancer, but you still have to screen them,
+[00:15:28] um, and you know, every 3 years or so, um,
+[00:15:31] they get.
+[00:15:32] Endoscopies to make sure that it's not progressing.
+[00:15:35] So it's, uh, my job as a pathologist.
+[00:15:37] Once I see goblet cells, I tell you there's Barrett's,
+[00:15:40] but then I start looking for dysplasias.
+[00:15:43] Um, if there's epithelial atypia that meets criteria, then I
+[00:15:46] grade it.
+[00:15:46] I say it's low grade or.
+[00:15:48] High grade and that changes what they do.
+[00:15:51] Sometimes when you start getting dysplasia, they can do ablation
+[00:15:54] therapy and or sur or or endoscopic resections for different
+[00:15:59] types of dysplasias.
+[00:16:00] I'll leave the management much more for the clinical folks,
+[00:16:03] um.
+[00:16:05] Here is just an example on the left you see,
+[00:16:08] so here's, you don't have to know these, I don't
+[00:16:11] think you'll ever be shown a slide, but just to
+[00:16:12] show you here is normal epithelium and then you can
+[00:16:16] see this area looks much uglier.
+[00:16:18] The nuclei are uglier, bluer.
+[00:16:20] They look like the cells are overlapping each other, so
+[00:16:23] this is low grade dysplasia, and once the glands get
+[00:16:25] very complex and they lose all sort of direction and
+[00:16:29] make secondary lumens and things like that, that's when you
+[00:16:32] call high grade dysplasia, um, so.
+[00:16:35] This is where my job comes in, and the most
+[00:16:38] worrisome and the concerning complication is when you get cancer,
+[00:16:42] and this is specifically adenocarcinoma, so remember that GERD gives
+[00:16:46] you predisposition to getting Barrett's, which then gives you a
+[00:16:49] predisposition to getting adenocarcinoma, um, remember that, um.
+[00:16:54] And because a GERD is more a disease of the
+[00:16:57] distal esophagus and the GE junction, you will see these
+[00:17:00] cancer appear more in the distal esophagus just for completion,
+[00:17:04] this is your esophageal, this is a resection, this is
+[00:17:06] a uh esophagogastrectomy specimen.
+[00:17:09] This is your esophagus.
+[00:17:10] This is the cancer of the GE junction, and then
+[00:17:13] this is your stomach.
+[00:17:15] And this is just the histologic correlate we call cancer
+[00:17:18] when the glands are going every which direction, they look
+[00:17:21] dysplastic malignant, and then they infiltrate and you have this
+[00:17:25] gray pink stroma which we refer to as desmoplastic stroma,
+[00:17:29] um.
+[00:17:34] Uh, now we contrast that to esophageal squamous cell carcinoma,
+[00:17:38] which is this other type of carcinoma that affects the
+[00:17:40] esophagus.
+[00:17:41] The risk factors for squamous cell carcinoma are different, and
+[00:17:44] if it ever showed up on tests, the tumor would
+[00:17:48] be more proximal.
+[00:17:50] So in this case you can see this is the
+[00:17:51] esophagus, this is the area of the GE junction.
+[00:17:54] You can see the rugal folds start here.
+[00:17:56] This is your stomach.
+[00:17:59] And the cancer is right there and that is a
+[00:18:02] squamous cell cancer.
+[00:18:04] So how we diagnose squamous cell cancers, some of the
+[00:18:06] classic buzzwords that you wanna remember because I don't wanna
+[00:18:08] bore you with histology, is that they have um these
+[00:18:12] um nests of cells, uh, they have intercellular bridges, so
+[00:18:16] you can see kind of the walls of the cell
+[00:18:19] membranes, and then they have these classic keratin pearls.
+[00:18:23] So those are all the characteristic features of squamous cell
+[00:18:25] carcinoma, and the cell of origin in this case, of
+[00:18:28] course, is that squamous epithelium of the esophagus, as opposed
+[00:18:32] to the adenocarcinoma where the cell of origin was that
+[00:18:35] metaplastic epithelium that happened secondary to GERD.
+[00:18:42] Um, this is a nice high yield table, uh, with
+[00:18:45] a lot of green as you can see, so remember
+[00:18:47] some of these facts.
+[00:18:49] Squamous cell carcinoma in general is more common in the
+[00:18:53] world, um, and then as compared to esophageal adenocarcinoma, which
+[00:18:58] is actually more common in the US, so there's less
+[00:18:59] squamous cell carcinoma we see here, a lot more GERD
+[00:19:02] associated adenocarcinoma.
+[00:19:04] That we see here, I'm sorry for that alagia spelling,
+[00:19:07] um, so again, like I had mentioned in the gross
+[00:19:10] pictures, uh, squamous cell carcinoma is a disease more of
+[00:19:13] the middle upper esophagus, whereas adenocarcinoma is more a distal
+[00:19:16] esophageal GE junction disease.
+[00:19:18] Um, smoking and alcohol are much more important than squamous
+[00:19:21] cell carcinoma risk factors, whereas GEERD, obesity are more an
+[00:19:25] adenocarcinoma.
+[00:19:26] But smoking is still contributory to the adenocarcinoma.
+[00:19:30] Precursor lesion of a squamous cell carcinoma is a squamous
+[00:19:32] epithelium dysplasia, and in adenocarcinoma it's the Barrett's esophagus with
+[00:19:37] dysplasia.
+[00:19:38] We already talked about the histology.
+[00:19:40] squamous cell has keratin pearls, intercellular bridges, Bart's adenocarcinoma shows
+[00:19:45] malignant glands with lumens.
+[00:19:47] They produce a lot of mucin.
+[00:19:49] Um, and, um, yeah, we already talked about this.
+[00:19:56] All right, I've got a couple of questions just to
+[00:19:58] make sure you don't fall asleep.
+[00:20:00] Sorry.
+[00:20:01] Um, maybe we do it like via voting or something,
+[00:20:06] hand votes.
+[00:20:07] So a 26 year old male with a history of
+[00:20:09] asthma and seasonal allergies presents with recurrent episodes of solid
+[00:20:13] food dysphagia.
+[00:20:14] Upper endoscopy reveals concentric rings and longitudinal furrows, and the
+[00:20:19] finding of the esophagus is shown below.
+[00:20:22] Which of the following is most likely to develop as
+[00:20:25] the lesion progresses.
+[00:20:30] All right, show of hands for A.
+[00:20:34] OK.
+[00:20:34] What about B?
+[00:20:37] All right, we got some.
+[00:20:38] Uh, what about C?
+[00:20:40] OK, and D.
+[00:20:43] Alright, and E.
+[00:20:45] OK, good, yeah, majority got the right answer.
+[00:20:48] So, uh, esophageal, uh, this is EOE, eosinophilic esophagitis, it's
+[00:20:53] a long-term complication is subepithelial fibrosis and remodeling.
+[00:20:57] A is talking about Barrett's esophagus.
+[00:20:59] C is talking about either IBD, maybe Crohn's specifically, or
+[00:21:05] some other infectious etiology.
+[00:21:07] D was referring to cholesia, which is not here.
+[00:21:09] And finally he was just talking about viral cytopathic change.
+[00:21:13] I have Alright, uh, the next question is a 62
+[00:21:21] year old male who has progressive dysphagia, initially with solid
+[00:21:24] foods, then went to liquids with a 15 pound weight
+[00:21:27] loss, 20 year history of GERD.
+[00:21:30] An ulcerated mass in the distal esophagus, which of the
+[00:21:34] following likely preceded the development of this malignancy.
+[00:21:38] So the picture shows.
+[00:21:41] That, um, I'll give you a moment.
+[00:21:47] Anybody think the answer is A.
+[00:21:51] Uh, B Wow, really, OK.
+[00:21:54] See.
+[00:21:56] OK, D.
+[00:21:59] All right, and E.
+[00:22:01] Good, yep, this was referring to Barrett's esophagus, and the
+[00:22:05] picture you have is infiltrative lumen forming glands with a
+[00:22:09] desmoplastic stoma, so it was showing you an adocarcinoma, so
+[00:22:12] you had to know about Barrett's esophagus to be able
+[00:22:14] to say B.
+[00:22:15] A is referring to GEERRD, um.
+[00:22:20] C is referring to, which, you know, is a risk
+[00:22:23] factor, but you have to have Barrett's.
+[00:22:26] Barrett's is a much higher risk factor to getting to
+[00:22:29] adeno than is just having GERD.
+[00:22:31] Um, C was referring to EOE.
+[00:22:34] D was referring to, uh, more squamous cell carcinoma, which
+[00:22:38] is not the picture NE was talking about, um.
+[00:22:43] Ecolasia.
+[00:22:47] Alright, so the liver, um, liver is really hard to
+[00:22:51] teach, um, from a pathology standpoint just because it's a
+[00:22:54] very niche topic, but, uh, I will try to simplify
+[00:22:57] it as much as we can.
+[00:22:59] The way we think about liver and pathology is very
+[00:23:01] pattern based injury, so, um, we.
+[00:23:05] Categorize different types of liver injury and what compartment is
+[00:23:07] injured and then we're able to just give you a
+[00:23:09] differential diagnosis we can't usually be very specific.
+[00:23:13] It's usually a very um niche area that requires clinical
+[00:23:16] pathologic correlation so you know we talk to our hepatologists
+[00:23:19] all the time to be able to come to a
+[00:23:21] conclusion for a patient.
+[00:23:26] So you've seen this picture before because I know you
+[00:23:28] guys recently had the histology, so liver um structure and
+[00:23:32] histology is basically very repetitive units of this hexagonal thing
+[00:23:37] basically the, um, the tips of the hexagon comprise of
+[00:23:41] portal tracks, and you already know this, and I apologize
+[00:23:43] if it's like review because I don't know how much
+[00:23:46] the portal tracks then have your bile duct, your portal
+[00:23:48] vein, and your heparic arteries so you can see these
+[00:23:51] tips are all portal tracks and in the center of
+[00:23:54] this hexagon is.
+[00:23:56] Your central vein and then you have hepatocytes lining all
+[00:24:01] along.
+[00:24:01] Now the way the blood flow goes into the liver,
+[00:24:05] you, you have the highest concentration of oxygenated blood closer
+[00:24:09] to the portal tracts as you go towards the central
+[00:24:11] vein, the blood flow, the, the, it's, it's less and
+[00:24:14] less.
+[00:24:14] So these areas around zone 3, which is what we
+[00:24:17] refer to as, we call this area zone 1, we
+[00:24:19] call this area zone 3.
+[00:24:20] This area is much more prone to ischemic injury than
+[00:24:23] closer to the portal tracts.
+[00:24:26] And the bile flow actually flows the opposite way, so
+[00:24:29] bile flow is made from here and then goes out
+[00:24:32] towards the bile ducts and goes out into, um, and,
+[00:24:37] um, so this is kind of the single unit and
+[00:24:40] this repeats throughout the whole liver.
+[00:24:42] It's actually quite a beautiful structure if you think about
+[00:24:45] it, um.
+[00:24:47] Here is the histologic correlate of that, so, um, so
+[00:24:51] these are your portal tracks, which I'll show you on
+[00:24:53] the next slide in high power view.
+[00:24:56] Um, here's my oblong.
+[00:24:59] It's not as perfect as the image, of course.
+[00:25:01] Here is a central vein, and these pink cells are
+[00:25:04] all your hepatocytes.
+[00:25:06] See the whitish areas in between, those are your sinusoids
+[00:25:09] in between, um, and the structure and.
+[00:25:14] Some terminology things because it'll come up we call sometimes
+[00:25:19] I call these lobules because I call this lobule, uh,
+[00:25:23] where they're hepatocytes and then these are the portal tracts
+[00:25:26] and that's what I'll keep saying and you might hear
+[00:25:27] me say that again and again.
+[00:25:29] Here is an example of a perfect ideal portal tract.
+[00:25:32] You have an artery, you have about a bile duct
+[00:25:35] the same size in our artery, and then you have
+[00:25:37] a portal vein that's like double the size of the
+[00:25:39] two, You can see a nice bile duct is a
+[00:25:44] beautiful structure where the nuclei are lying next to each
+[00:25:46] other.
+[00:25:47] They don't overlap.
+[00:25:48] They don't have like vacuoles in them.
+[00:25:50] They don't have lymphocytes in them, so this is what
+[00:25:52] it looks like normally.
+[00:25:54] And the central vein in contrast is a structure that,
+[00:25:58] you know, that's in the center of that uh hexagonal
+[00:26:02] um repetitive structure and it is a very thin walled
+[00:26:05] vein.
+[00:26:06] Um, besides these structures, you don't see random arteries anywhere
+[00:26:09] else, so you can't just see unpaired arteries sitting in
+[00:26:12] the liver.
+[00:26:13] Um, it's a very organized, beautiful structure, um.
+[00:26:21] The oh, absolutely, please.
+[00:26:22] Sorry, sometimes I take for granted things that, um, so
+[00:26:27] hepatic artery, portal vein, and bile duct.
+[00:26:32] Yeah.
+[00:26:35] Um, so acute hepatitis, um, so as you might have
+[00:26:39] learned in histology so far, every time you see the
+[00:26:41] word acute, it means neutrophils, except in the liver.
+[00:26:44] Uh, so acute hepatitis, um, in the liver means, um,
+[00:26:50] First of all, by definition, it means hepatocellular injury characterized
+[00:26:54] by inflammation with associated hepatocyte damage, but there's no fibrosis.
+[00:26:59] So part of the definition is that you don't have
+[00:27:01] fibrosis in any type of acute hepatitis.
+[00:27:04] Etiologies, uh, you can get hep A.
+[00:27:07] B, C, and E cause acute hepatitis.
+[00:27:10] Drug induced injury can be acute, and early autoimmune can
+[00:27:14] be acute.
+[00:27:15] Autoimmune in general is a chronic hepatitis, but when it's
+[00:27:18] early, it can present as an acute hepatitis with liver
+[00:27:21] failure.
+[00:27:22] So um, In acute hepatitis, classically you will get upper
+[00:27:27] quadrant discomfort, pain, and fatigue and nausea, so you patients
+[00:27:32] usually have symptoms when you have acute hepatitis, and the
+[00:27:35] classic liver enzyme, uh, elevation pattern is transaminitis, so you
+[00:27:40] have elevated AST and ALTs, uh, which is the hepatocellular
+[00:27:44] pattern of injury.
+[00:27:45] You may or may not have hyperbilirubinemia.
+[00:27:48] So the classic histology in acute hepatitis is, you know,
+[00:27:52] the lobules I pointed out.
+[00:27:53] That's where the inflammation is, so that's something to remember.
+[00:27:56] That's where the inflammation is in acute hepatitis, and the
+[00:28:00] inflammation unfortunately is not neutrophils, it's more plasma cells and
+[00:28:04] lymphocytes and histiocytes.
+[00:28:06] Um, in association with that uh inflammation comes hepatocyte injury,
+[00:28:11] which I will show you, you get necrosis in those
+[00:28:14] hepatocytes, um, and things like that.
+[00:28:16] If it's really bad, you can get so much necrosis
+[00:28:18] in the liver that you can go into acute liver
+[00:28:20] failure, rare situations, but it can happen.
+[00:28:23] Most of the acute hepatitis injuries resolve, but rarely it
+[00:28:28] can go to ominous things.
+[00:28:29] The green stuff, remember those things.
+[00:28:32] Here is the histologic correlate.
+[00:28:34] The V stands for the central vein, and I want
+[00:28:36] to just show you that the injury is characterized by
+[00:28:40] inflammation.
+[00:28:42] See all those dots that you see?
+[00:28:44] Those dots are all like lymphocytes and plasma cells, and
+[00:28:48] then you see this pink, that's like a dying hepatocyte
+[00:28:51] right there, and then see these areas of pale pink.
+[00:28:55] So these are normal hepatocytes right here, but the pale
+[00:28:58] pink is where like the hepatocytes have dropped out, um,
+[00:29:02] so that's the area of necrosis in in acute hepatitis,
+[00:29:07] but um.
+[00:29:09] And that's all you need to know about it.
+[00:29:11] Chronic hepatitis is something that lasts longer than 6 months.
+[00:29:16] These patients have fibrosis in their liver, and um, and
+[00:29:21] the pattern here is different.
+[00:29:23] The pattern here is inflammation that's rich in the portal
+[00:29:26] tracts.
+[00:29:27] It can be in the lobules, but it needs to
+[00:29:29] be very heavy in the portal tracts.
+[00:29:32] It's a little funky, so the inflammation pattern and the
+[00:29:35] definitions of acute and chronic are very different than other
+[00:29:37] organs, um.
+[00:29:40] So you need to know that chronic hepatitis A doesn't
+[00:29:43] cause it, E doesn't cause it, but B and C
+[00:29:46] can.
+[00:29:47] Autoimmune hepatitis can cause it, and chronic drug induced liver
+[00:29:50] injury is rare, but it can happen, but is rare,
+[00:29:53] um, and like I said, the definitional thing histologically is
+[00:29:57] that you have portal inflammation.
+[00:29:59] In addition to that, that portal.
+[00:30:01] Inflammation spills out into the lobules, which I'll show you,
+[00:30:04] and that's referred to as interface hepatitis, and then you
+[00:30:08] can get the worse the hepatitis activity, the more spillage
+[00:30:12] you get into the lobules of the inflammation, and these
+[00:30:16] patients are prone to getting fibrosis, so you'll see different
+[00:30:19] patterns of fibrosis.
+[00:30:20] You have heard about richrome, that's the stain we use
+[00:30:22] to.
+[00:30:23] Assessed fibrosis and I'll show you an example, um, and
+[00:30:27] you know, anybody who has chronic hepatitis, uh, absolutely has
+[00:30:30] the risk of having progressive fibrosis, having cirrhosis, portal hypertension,
+[00:30:35] and chronic hepatitis, but not acute does lead you to
+[00:30:38] have the risk of getting HCC, low risk, but nonetheless,
+[00:30:42] once you go through that pathway, you are at risk
+[00:30:45] for hepatocellular carcinoma.
+[00:30:48] So here is an example of a chronic hepatitis.
+[00:30:52] You see these, you can see the lobule is less
+[00:30:54] infla inflamed, but the portal tracts have so much dense
+[00:30:57] inflammation.
+[00:30:58] This doesn't look like a normal portal tract that I
+[00:31:00] showed you, so it has so much inflammation.
+[00:31:02] It can be mixed, it can be acute and chronic,
+[00:31:04] but a lot of chronic inflammation, and then you get
+[00:31:08] spillage that goes out into the lobules.
+[00:31:10] You can see there's some increased cells here.
+[00:31:13] There's a lot of lymphocytes there in between.
+[00:31:15] And this is your, these are your lobules, right?
+[00:31:17] These are your hepatocytes.
+[00:31:22] I want to just show you what interface hepatitis is,
+[00:31:24] so this is a portal tract.
+[00:31:26] Uh, I want to point out, so you can see
+[00:31:28] there's a lot of inflammation.
+[00:31:29] Here's the bile duct.
+[00:31:31] Um, maybe the arteries here, um, and you can see
+[00:31:36] the spillage of the inflammation into the lobule.
+[00:31:38] See, it like spills into the hepatocytes, and that's what
+[00:31:41] it's referred to as interface hepatitis, and we grade that,
+[00:31:44] you know, how much inflammation is spilling to lobules is
+[00:31:47] how we grade the activity in chronic hepatitis.
+[00:31:50] You don't need to know it.
+[00:31:52] And finally, this is the staging we use in general
+[00:31:55] for fibrosis.
+[00:31:57] We use a trichrome stain to be able to assess
+[00:31:59] it because trichrome highlights collagen in blue.
+[00:32:02] Um, when your normal portal tract, it's just a little
+[00:32:06] fibrosis right around it.
+[00:32:08] When you have portal fibrosis, you see it became bigger
+[00:32:11] peri portal and fpta, you see these tongues come out,
+[00:32:15] septa without you see these, uh, septa without cirrhosis, you
+[00:32:18] start seeing bridging.
+[00:32:19] Um, there's different patterns depending on what type of.
+[00:32:22] Injury in um in chronic hepatitis you see portal to
+[00:32:25] portal connections, so you get portal to portal fibrosis and
+[00:32:30] then eventually when you start getting these thick bands and
+[00:32:34] nodules form these like round nodules of blue that is
+[00:32:38] referred to as cirrhosis.
+[00:32:40] So here's a portal track, one portal track, here's another
+[00:32:42] portal tract, and it's like connected by this thick nodular
+[00:32:45] band of fibrosis and this almost forms a nodule that
+[00:32:48] is referred to as cirrhosis, um, and you know it's
+[00:32:51] our job.
+[00:32:52] When we assess biopsies for whatever reason to assess fibrosis,
+[00:32:57] you don't need to know the staging, but you do
+[00:32:59] need to be able to recognize this picture histologically.
+[00:33:04] See how there's a green box around it, uh, that,
+[00:33:07] that is so that is cirrhosis.
+[00:33:09] So this is a, um, trichrome stain on a liver,
+[00:33:13] and you can see that all of the portal tracts
+[00:33:15] are connected by bands and they form nodules.
+[00:33:18] And this is a picture showing you cirrhosis.
+[00:33:21] So, and this is a gross image of what cirrhosis
+[00:33:25] can look like.
+[00:33:27] Sometimes they try to tell you differences between micronodular and
+[00:33:30] macronodular cirrhosis.
+[00:33:32] Um, I don't find it very useful in practice.
+[00:33:38] Um, another pattern of injury, um, steatotic liver injury is
+[00:33:43] something you need to know about just because we actually
+[00:33:45] see steatotic liver injury very commonly now, much more than
+[00:33:48] we saw before, um.
+[00:33:51] And there's usually two causes, even though there can be
+[00:33:54] more than 2, but for, for your purposes, the two
+[00:33:57] most common causes are alcohol alcohol related teatohepatitis and then
+[00:34:02] the metabolic dysfunction associated Seattle hepatitis.
+[00:34:06] I'm gonna refer to that as MASH.
+[00:34:08] It was previously called MASH, non-alcohol associated state hepatitis, but
+[00:34:12] now it's called metabolic dysfunction.
+[00:34:15] So MASH is associated with patients who have metabobolic dysfunction,
+[00:34:18] AKA they have.
+[00:34:20] Um, hyperlipidemia, a type 2 diabetes, obesity, a lot of
+[00:34:23] insulin resistance, um, and basically the pathogenesis is that cumulative
+[00:34:29] lipid accumulation in the liver causes damage and oxidative stress
+[00:34:34] to the hepatocytes, which then leads to inflammation even more
+[00:34:38] and fibrosis, um.
+[00:34:41] So let's look at the classic things of what we
+[00:34:44] see.
+[00:34:45] So both alcoholic and MASH histologically look exactly the same,
+[00:34:48] I can't tell you, so that's more a clinical thing
+[00:34:50] they decide, but I can show you what it shows.
+[00:34:52] So, normal liver has less than 5% fat.
+[00:34:57] So if I saw these fat globules but they were
+[00:34:59] less than 5%, I'd be like, oh that's normal.
+[00:35:02] But when you start getting these fat droplets within the
+[00:35:04] hepatocytes that are so many and replacing a lot of
+[00:35:07] the normal hepatocytes, that's when you start saying it's steatotic
+[00:35:11] liver injury in order to cause sat.
+[00:35:13] hepatitis, you need to be able to see injury from
+[00:35:17] the fat causing changes in the hepatocytes so you see
+[00:35:21] that so this hepatocyte, see that it's like ballooned up
+[00:35:26] we call that ballooning hepatocyte degeneration and that is now
+[00:35:31] this patient is now called to have stat or hepatitis,
+[00:35:34] um, and, uh, just.
+[00:35:38] Something to know that see these filaments, these are like
+[00:35:43] um proteins that degenerate in this and they're referred to
+[00:35:48] as Mallory dank bodies, and you see a lot of
+[00:35:50] Mallory dank bodies in patients who use uh who have
+[00:35:53] alcoholic associated Seattle hepatitis then um metabolic dysfunction associated.
+[00:35:59] So this is what you see.
+[00:36:02] So in contrast to chronic hepatitis, and where you see
+[00:36:06] fibrosis, it goes from a portal tract to a portal
+[00:36:09] tract because that's where the inflammation is.
+[00:36:12] Um, in tattle hepatitis, a lot of the lipid accumulation
+[00:36:15] starts in the near the central vein, so in the
+[00:36:18] zone 3 area.
+[00:36:19] That's why that's where the fibrosis starts in the liver
+[00:36:22] in this case.
+[00:36:24] So here is the fibrosis, so you can see this.
+[00:36:27] This is actually near a central vein.
+[00:36:29] I wanna just point out, which you probably can't tell,
+[00:36:31] but this is actually the tiny central vein, and you
+[00:36:35] can see, you see these little lines of blue, which
+[00:36:37] is early pericellular fibrosis, and that's how it starts in
+[00:36:41] Seattle hepatitis.
+[00:36:42] It can eventually progress when it's bad enough to cirrhosis,
+[00:36:46] but it's just a different pattern.
+[00:36:48] It's more central to portal.
+[00:36:50] You don't need to know the types.
+[00:36:51] I'm just showing you correlates.
+[00:36:56] All right, PSC, this is a bunch of grain, may
+[00:37:00] show up somewhere, um, so have you learned about PSC?
+[00:37:03] OK, perfect.
+[00:37:05] So, uh, I'll just show you the histologic correlate to
+[00:37:07] complete that picture.
+[00:37:08] So it's a chronic progressive inflammatory disease, uh, for test
+[00:37:12] purposes it mainly affects the extra hepatic ducts.
+[00:37:15] It can rarely affect the intrahepatic ducts, but most of
+[00:37:19] the time it's a disease of the large bile ducts
+[00:37:22] that are extra hepatic.
+[00:37:24] There's a strong association with.
+[00:37:25] IBD, specifically ulcerative colitis, it is a disease more common
+[00:37:29] in men, and because it's an injury to the bile
+[00:37:32] ducts, the pattern of liver enzyme elevation you'll see is
+[00:37:35] an elevated alkaline phosphatase, and I'm hoping you learned all
+[00:37:38] that already in, OK, other lectures.
+[00:37:41] Um, the classic question is an image that shows you
+[00:37:45] an MRCP with dilated duct segments because it does the
+[00:37:48] beating because there's random areas of extra hepatic bile duct
+[00:37:51] that has periductal fibrosis.
+[00:37:54] And we call that onion skinning fibrosis, which I'll show
+[00:37:57] you.
+[00:37:58] And, um.
+[00:38:00] As a result of getting a PSC you can get
+[00:38:05] secondary biliary type cirrhosis, and you can also get cholangiocarcinoma,
+[00:38:09] which again is the adenocarcinoma name for the liver cancer.
+[00:38:14] So there's hepatocellular carcinoma and there's cholangiocarcinoma, so the cholangiocarcinoma
+[00:38:18] is an adenocarcinoma, and hepatocellular carcinoma and that arises from
+[00:38:21] the bile ducts, whereas the hepatocellular carcinoma arises from the
+[00:38:25] hepatocytes.
+[00:38:26] Um, patients who have, um, PSC associated IBD also have
+[00:38:34] a higher risk of colon cancer, uh, and some gallbladder
+[00:38:37] neoplasia.
+[00:38:38] Um, there's no particular treatment for PSC besides.
+[00:38:42] Symptoms control.
+[00:38:44] Here's the classic MRCP showing the beaded extrahepatic duct.
+[00:38:48] You can see this is, so this is where your
+[00:38:51] liver tributaries are, and this is all your larger extrahepatic
+[00:38:54] ducts, and you can see the beating because there's fibrosis
+[00:38:57] in between.
+[00:38:57] So I put the normal uh portal tract here again.
+[00:39:00] And for reference you can see the normal bile duct
+[00:39:03] doesn't have that like spindly fibrosis, but here's a duct
+[00:39:06] of PSC and you can see that whirling fibrosis.
+[00:39:10] I hope you can appreciate that.
+[00:39:11] It can be a little subtle if you don't see
+[00:39:14] it a lot, but you can see it's really, it's
+[00:39:16] really not, you don't see any here.
+[00:39:21] All right, um, in contrast to that, the other, uh,
+[00:39:23] disease that we see that affects the bile ducts is
+[00:39:25] primary biliary cholangitis.
+[00:39:28] Um, and actually there was a lot of fighting to
+[00:39:29] try to change the name.
+[00:39:30] It was previously called primary biliary cirrhosis.
+[00:39:34] Um, it's an autoimmune condition, so it actually happens in
+[00:39:36] people who have other autoimmune conditions such as Sjogren's, etc.
+[00:39:40] Um, and it, this affects the small ducts, so I
+[00:39:44] am much more likely to be able to give you
+[00:39:46] a diagnosis of PBC on a liver biopsy than I
+[00:39:49] am of PSC on a liver biopsy just because the
+[00:39:52] outer ducts are affected, so it's much harder for me
+[00:39:55] to diagnose it on liver biopsies, but they expect us
+[00:39:57] to do it anyway.
+[00:39:59] Um, um, test question, really need to know that anti-mitochondrial
+[00:40:03] antibodies are positive in patients with PBC, more than 95%
+[00:40:06] of the cases.
+[00:40:07] The classic histologic correlate, which I'll show you in the
+[00:40:10] next slide, is that florid duct lesion, which is nothing
+[00:40:13] but lymphocytes injuring the bile duct and having a granuloma
+[00:40:18] associated with it.
+[00:40:19] So I'll show you that.
+[00:40:20] Eventually when you keep affecting these ducts and injuring them
+[00:40:24] again and again, they will disappear and they obliterate.
+[00:40:28] They are replaced by fibrosis, you no longer have bile
+[00:40:31] ducts.
+[00:40:31] So when I actually give PVC diagnosis on liver biopsies,
+[00:40:34] I actually have to count the bile ducts and tell
+[00:40:37] you if there's duct loss or ductopenia, which has definitions
+[00:40:41] and criteria which you don't need to know about, um.
+[00:40:46] And because again you're injuring the bile ducts, you will
+[00:40:48] see elevated alkaline phosphatase.
+[00:40:50] Um, some of the symptoms, uh, that you get in
+[00:40:54] patients who have PVC is pruritis.
+[00:40:56] So anytime you have bile duct injury, because there's a
+[00:40:58] lot of, um, it's a very complex pathway.
+[00:41:00] I tried to read about it last night to try
+[00:41:02] to explain it to you, you get a lot of
+[00:41:04] anytime you have biliary injury, you get a lot of
+[00:41:06] pruritis.
+[00:41:07] Um, that's a clinical symptom you need to remember, um.
+[00:41:10] These patients can present with jaundice, but because it's such
+[00:41:13] a slow process, sometimes you don't actually get jaundice, and
+[00:41:17] something that you wouldn't think of, um, is that these
+[00:41:20] patients have hypercholesterolemia, and the reason for that is, is
+[00:41:24] that your bile ducts carry out a lot of um.
+[00:41:27] The increased cholesterol that's made, so when you, you injure
+[00:41:31] those bile ducts, you have issues with liver being able
+[00:41:33] to clear out that extra cholesterol, and that gives you
+[00:41:37] hypercholesterolemia and then secondary to that you get a lot
+[00:41:40] of um complications of that.
+[00:41:42] So you could imagine them getting xantholamas, you know, which,
+[00:41:47] or getting xanthomas that are all like consequences of the
+[00:41:51] quality of hypercholesterolemia.
+[00:41:53] I read, which is interesting to me, that even though
+[00:41:56] you get hypercholesterolemia in these patients, it is not that
+[00:42:00] atherogenic.
+[00:42:03] It's not similar to having high LDL.
+[00:42:06] Um, OK, ursodeoxycholic acid is first line therapy and it
+[00:42:11] actually really helps these patients with um the pruritus as
+[00:42:15] well.
+[00:42:16] This is your classic histologic picture of PBC.
+[00:42:21] So, uh, I will break it down because I, oh,
+[00:42:24] sorry, I will break it down because I know it
+[00:42:26] looks very complex.
+[00:42:26] So here is a portal tract.
+[00:42:31] Here is the native bile duct.
+[00:42:33] Here's more piece of that bile duct.
+[00:42:34] It's just a cross section, cross section.
+[00:42:36] It kind of comes and goes, and then you can
+[00:42:39] see there's lymphocytes in there.
+[00:42:40] See that tiny dot?
+[00:42:41] See that tiny dot?
+[00:42:42] See that one right there.
+[00:42:44] Um, so that's referred to as lymphocytic cholangitis.
+[00:42:47] So there's lymphocytes because it's an autoimmune process.
+[00:42:49] The lymphocytes are injuring their own bile ducts, and then
+[00:42:52] see these areas of cells that have a lot of
+[00:42:54] cytoplasm.
+[00:42:56] This is the granuloma.
+[00:42:58] It's very vague.
+[00:42:59] It's not very book pretty, but this is what the
+[00:43:02] granulomas of PVC look like.
+[00:43:04] So this is referred to as the florid duct lesion.
+[00:43:07] It's pathenomonic for PBC.
+[00:43:11] Um, if I see this, I feel comforted that I
+[00:43:13] know what's going on.
+[00:43:15] Um, and I wanna show you this picture in contrast
+[00:43:18] because I wanna show you that this is kind of
+[00:43:20] the end stage.
+[00:43:22] There is no bile duct left in this portal tract,
+[00:43:24] and that should never be the case.
+[00:43:26] It's gone, fibrosed, obliterated after all the inflammatory injury that
+[00:43:31] it got.
+[00:43:33] Yeah, sure.
+[00:43:39] PS So bile, so this type of bile duct, and
+[00:43:48] that's a good question, this type of bile duct you
+[00:43:50] wouldn't see outside of, you wouldn't even see it, and
+[00:43:53] PSC for your purposes and test purposes is just affecting
+[00:43:57] the extra hepatic ducts.
+[00:43:58] So, uh, you, we usually don't take biopsies of the
+[00:44:02] bile ducts extra hepatically.
+[00:44:03] It's usually much more of an MRCP diagnosis, uh, but
+[00:44:06] that's a fair question and another reason you know it's
+[00:44:09] from the liver is, see these, these are hepatocytes.
+[00:44:13] You're in the liver.
+[00:44:14] And a fatty liver, must I say, see the fat.
+[00:44:18] I might even find a balloon cell.
+[00:44:20] That's how common fatty liver disease is getting actually.
+[00:44:22] I think I have a little too, I'm not gonna
+[00:44:24] lie.
+[00:44:26] Yeah, um, I appreciate all questions, um, alpha one antitrypsin
+[00:44:31] disease, um.
+[00:44:33] Um, alpha one antitrypsin disease is a mutation in the
+[00:44:37] serpina one gene.
+[00:44:39] It's an autosomal co-dominant mutation, so basically you get one
+[00:44:42] allele from, uh, dad and one from mom, and it's
+[00:44:45] a quantitative thing, and both of them actually express.
+[00:44:48] So it's, um.
+[00:44:50] There are different phenotypes, so M is the normal, S
+[00:44:53] is the partial, and Z is disease.
+[00:44:55] So if you get the ZZ, so you got Z
+[00:44:57] from mom and Z from dad, that's when you actually
+[00:45:00] show, um, symptoms.
+[00:45:02] Otherwise if you just are in the moderate category, you're
+[00:45:04] probably OK unless you unless you smoke or something like
+[00:45:08] that.
+[00:45:09] So what does this uh gene carry?
+[00:45:11] So it's actually a protease inhibitor.
+[00:45:13] Um, so normally when you have inflammation in organ systems.
+[00:45:17] Your um body releases neutrophilic elastase, which basically is released
+[00:45:22] at the site of inflammation to try to like injure
+[00:45:24] the pathogens, and then this protease inhibitor has the function
+[00:45:29] to actually stop that neutrophilic elastase from uh doing anything
+[00:45:33] too crazy.
+[00:45:34] So when it, this inhibitor is altered and it can't
+[00:45:37] do that, you actually get emphysema in the lung because
+[00:45:40] of it, because your neutrophil elastase goes rogue, um.
+[00:45:46] So in this um uh alteration in the liver, what
+[00:45:50] happens is you get misfolded proteins, so it ends up
+[00:45:53] accumulating a lot in the liver cells and it can
+[00:45:56] actually manage to get out and go to sites of
+[00:45:59] other injuries, so it can actually go to the lung,
+[00:46:01] and as a result of that you get emphysema in
+[00:46:03] the lung, panlobular emphysema, and in the liver you get
+[00:46:07] injury just because you have accumulation of so much of
+[00:46:10] alpha one antitrypsin because it's abnormal, it's mutated, um.
+[00:46:17] Let's see, um, this can show up on tests, this
+[00:46:21] picture, um, I wouldn't sweat so much on the different
+[00:46:24] pi phenotypes, the M and the Z, so much, but
+[00:46:28] kind of remember it's a co-dominant disease, so it, it's
+[00:46:30] the expression amounts matter, um, you know, you get it
+[00:46:34] from both mom and dad, so, um.
+[00:46:37] I'm showing you in this picture, basically this is an
+[00:46:40] area of the edge of the portal tract, OK?
+[00:46:43] This is the portal tract, this is your hepatocytes.
+[00:46:46] See these tiny vague globules that you can barely see,
+[00:46:50] um, those are the alpha misfolded alpha one antitrypsin protein
+[00:46:55] right there, right there, right there, right there, um.
+[00:47:01] You can't usually see them on H&E sometimes either, so
+[00:47:03] we use a stain.
+[00:47:05] It's called the PASD stain.
+[00:47:07] You've heard about the PAS stain before.
+[00:47:09] The diastase is added on to it.
+[00:47:11] What the diastase does is eats up all the glycogen
+[00:47:14] from the cells so you can see the alpha one
+[00:47:17] misfolded proteins better.
+[00:47:20] That's all, and it like picks up that blob, so
+[00:47:22] you can see them better, so now you can see
+[00:47:25] it's basically these eosinophilic very rounded globs right next to
+[00:47:29] the portal tracts in the liver cells.
+[00:47:32] This is all the misfolded protein from the patient who
+[00:47:34] has alpha one antitrypsin.
+[00:47:37] Um, Yeah, that was that.
+[00:47:41] Um, Wilson's disease, uh, Wilson's disease is basically an issue
+[00:47:46] where you have a gene mutation in the ATP7B gene
+[00:47:50] and what that does is It causes issues with biliary
+[00:47:55] copper excretion.
+[00:47:57] As a result of that, you get a lot of
+[00:47:59] copper accumulation in your liver, in your brain, and in
+[00:48:02] your eyes, in the cornea, to be specific.
+[00:48:05] I'm sure you've heard about the Kaiser Fleisch Schleischer rings,
+[00:48:09] um.
+[00:48:11] Wilson's disease and having copper accumulation in the liver can
+[00:48:15] lead you to get cirrhosis, actually, it can cause oxidative
+[00:48:19] stress and hepatocellular injury, and you can eventually get cirrhosis
+[00:48:22] and be at risk for hepatocellular carcinoma.
+[00:48:27] Um, you probably have already learned about how you diagnose
+[00:48:30] it, like serum testing.
+[00:48:33] Um, I won't repeat it, but, uh, copper usually binds
+[00:48:35] to seroloplasmin, so when you have too much copper, you
+[00:48:38] have lower seroloplasmin.
+[00:48:40] You can look for urinary copper, which will be elevated.
+[00:48:42] Copper chelation therapy is how you treat it.
+[00:48:45] Zinc therapy, uh, it works because zinc decreases the absorption
+[00:48:48] of copper from the small intestine, so you're just reducing
+[00:48:51] your copper intake.
+[00:48:52] That's how that works, um.
+[00:48:55] For us, Wilson's disease, you don't really have to know
+[00:48:58] anything about the histology because we don't know anything.
+[00:49:00] It can look like anything, but the key is if
+[00:49:03] you ever did a we have a couple of copper
+[00:49:05] stains like the rodinin and the oroin stain that, um,
+[00:49:09] that if you, uh, stain it, you will pick up
+[00:49:12] the copper.
+[00:49:12] We can't see copper on H&E stains, so you would
+[00:49:15] really have to just do the stain.
+[00:49:18] Um, and this is what it looks like.
+[00:49:20] I don't think you have to know this, um.
+[00:49:25] Another interesting part is that because copper is excreted and
+[00:49:30] excess copper from your body is excreted out from the
+[00:49:32] bile, anytime you have any injury that actually affects the
+[00:49:36] bile ducts, you'll get some copper staining.
+[00:49:39] It just won't be as bad as this, but you'll
+[00:49:41] get some copper staining anytime, let's say for somebody who
+[00:49:44] had PVC or something, you, and they had cirrhosis from
+[00:49:47] PVC, you probably could get some copper staining in those
+[00:49:50] patients just because they also have issues excreting out the
+[00:49:53] excess copper.
+[00:49:56] Dubin-Johnson syndrome, Dubin-Johnson syndrome, uh, you need to remember the
+[00:50:00] classic black liver that people see during surgery, it's actually
+[00:50:04] pretty benign, um, these patients have issues with, um.
+[00:50:09] Uh, transporter that removes conjugated bilirubin out, uh, from the
+[00:50:14] system into the bile, um, it's the gene is called
+[00:50:17] ABCC2 gene, it's autosomal recessive, so you need the bone,
+[00:50:21] you need both the genes to be, um, mutated to
+[00:50:25] be able to get to this.
+[00:50:27] Um, these patients have conjugated hyperbolic.
+[00:50:30] Rub anemia, um, but, um, only mild jaundice and only
+[00:50:34] when they have, uh, you know, uh, critical illness or
+[00:50:38] pregnancy and things like that, these patients do fine and
+[00:50:41] actually the, the collection of the material which is more
+[00:50:45] than just, um, conjugated bile, uh, is what gives you
+[00:50:49] this color.
+[00:50:53] So this is the color um this is not conjugated
+[00:50:56] bile by the way I think this is an oversimplification
+[00:50:59] there's a lot of stuff that that transporter exports out
+[00:51:02] into the bile um including like debris of catecholamines and
+[00:51:07] things that's what this material is and if you do
+[00:51:09] a certain stain called the Fontana Massan stain, it turns
+[00:51:12] out black.
+[00:51:13] If you ever see this picture of like black pigment.
+[00:51:17] And a black liver think Dubin Johnson, and remember they
+[00:51:21] do really well, no problems.
+[00:51:26] Um, but Chiari syndrome, um, so.
+[00:51:31] The two main, so the way the portal, um, I'm
+[00:51:35] sure you've learned about the vasculature of how it goes
+[00:51:37] from the liver, so the portal vein takes blood into
+[00:51:40] the liver which then goes through the sinus, so it's
+[00:51:42] that then gets out of the liver through hepatic veins.
+[00:51:46] So any time you have hepatic veins that clot that
+[00:51:49] gets clogged up, whether it be due to a thrombus
+[00:51:51] for example, you'll get a lot of.
+[00:51:53] Back flow pressure into the liver, which gives you nutmeg
+[00:51:57] liver.
+[00:51:57] Nutmeg liver, I'm gonna show you a gross picture.
+[00:52:00] You need to remember that nutmeg liver usually happens from
+[00:52:03] two causes.
+[00:52:04] It's either somebody hasbuchiari or they have right-sided cardiac failure,
+[00:52:09] heart failure.
+[00:52:09] It can be right-sided pericarditis, so just some right-sided bad
+[00:52:13] cardiac problem that causes a lot of backflow pressure.
+[00:52:17] So in the setting of Budchiari, it's usually a thrombus
+[00:52:20] in the hepatic vein, so you know it's associated with
+[00:52:23] any other situation where you have hypercoagulable states.
+[00:52:26] So like pregnancy, if you have a JAK-2 matrition, you
+[00:52:28] tend to be very hypercoagulable, that's when you would have
+[00:52:31] it, and patients who are on OCPs can also be
+[00:52:33] in hypercoagulable states.
+[00:52:35] So those are the.
+[00:52:36] Factors associated with it, these patients get hepatomegaly from all
+[00:52:40] like the dilatation from the back flow pressure, and I'll
+[00:52:43] show you the histology of that, and um they get
+[00:52:46] abdominal pain and you know, uh, usually a hepatic vein
+[00:52:50] thing, uh, thrombosis is an acute finding, which is why
+[00:52:53] they also tend to have pain associated with it.
+[00:52:57] So here's the histologic correlate, OK.
+[00:52:59] So um this is a liver core, this is a
+[00:53:04] portal tract, this is a central vein right there.
+[00:53:09] Which I know you can't tell, but I, this is
+[00:53:10] the central vein, and so, and the pattern I want
+[00:53:13] you to notice is that here the liver looks normal,
+[00:53:17] but see here the sinusoids are dilated, much more dilated,
+[00:53:21] so much more dilated than the central vein.
+[00:53:23] This is because all the back pressure from that clogged
+[00:53:26] hepatic vein is causing there to be push of the
+[00:53:30] blood into the zone 3 and the hepatocytes in the
+[00:53:33] sinusoids, so all the backflow is going into the sinusoids
+[00:53:37] in between.
+[00:53:39] Which is what's causing this dilatation, which is why you
+[00:53:41] get hepatomegaly because this happens throughout the liver, and then
+[00:53:45] you actually, as a result of that back pressure, get
+[00:53:48] atrophy because you get all these sinusoids that are dilated,
+[00:53:51] you get atrophy and like shrinking of the liver cells
+[00:53:53] that are right next to it, compared to like far
+[00:53:56] away right here, and then you eventually actually get necrosis
+[00:53:59] of these liver cells because you know you kind of
+[00:54:01] like, Suck life out of them.
+[00:54:04] Um, if you get this issue that persists long term,
+[00:54:08] then you get fibrosis and um that looks, you know,
+[00:54:11] here is a central vein.
+[00:54:13] Normally the fibrosis should just be like right around the
+[00:54:16] vein when it starts showing these tongues, you know there's
+[00:54:19] too much fibrosis going on.
+[00:54:24] And this is just telling you the same histologic findings
+[00:54:27] that I just showed you would be something you would
+[00:54:29] see in a patient who had um congestive hepatopathy, which
+[00:54:33] is a term more commonly used in patients who have
+[00:54:35] right-sided heart failure.
+[00:54:37] It can be heart failure.
+[00:54:39] It can be tricuspid regurg that's really, really bad, or
+[00:54:42] it can be constrictive pericarditis.
+[00:54:44] So the test question could ask you any of the
+[00:54:46] three, and this is the cut section and the growth.
+[00:54:51] See how that's ingrained important, um.
+[00:54:55] This is what it would look like.
+[00:54:56] So I wanna show you the red areas are the
+[00:54:59] areas where I showed you the sinus sinusoidal dilatation, and
+[00:55:02] that's where all the blood is backflowing in, and that's
+[00:55:05] why it looks red.
+[00:55:06] And then the paler areas that you see are are
+[00:55:09] much more the normal zone one perioral areas.
+[00:55:14] Does that make sense?
+[00:55:15] OK, good.
+[00:55:18] Oh, a question, which means we did kind of the
+[00:55:20] benign liver stuff.
+[00:55:22] Um, 38 year old male with a twelve-year history of
+[00:55:25] UC presents with progressive fatigue and pruritis.
+[00:55:29] Lab shows, uh, elevated alkaline phosphatase at 620.
+[00:55:33] AST, ALT are marginally elevated, and a total bilirubin that's
+[00:55:37] 2.1.
+[00:55:39] MRCP shows multifocal strictures, alternating with dilatation of the, for
+[00:55:44] the test purpose we'll just go with the extra hepatic
+[00:55:47] ducts, which is the following malignancies in this patient is
+[00:55:50] this patient at a risk for.
+[00:55:54] Let me just check.
+[00:55:55] Anybody for hepatic angiosarcoma?
+[00:55:58] All right.
+[00:56:00] What about hepatocellular adenoma?
+[00:56:03] No?
+[00:56:03] cholangio?
+[00:56:04] Oh, you guys are a smart bunch.
+[00:56:06] Hepatic hemangioma.
+[00:56:09] All right, and hepatoblastoma.
+[00:56:11] Exactly, so the question stem is referring to PSC and
+[00:56:15] these patients are at a higher risk for cholangiocarcinoma, which
+[00:56:18] is the hepatic adenocarcinoma equivalent.
+[00:56:25] All right, so now we cover some of the neoplastic
+[00:56:28] malignant lesions as well, uh, and then we'll go over
+[00:56:31] to the pancreas.
+[00:56:33] OK, hemangioma is the most common benign tumor of the
+[00:56:36] liver.
+[00:56:37] It's basically just dilated lymphovascular channels.
+[00:56:40] I told you, if you remember from the normal slide,
+[00:56:42] you don't have random isolated arteries and vessels in the
+[00:56:46] liver outside of those portal tracts and those central veins,
+[00:56:48] so that's very important to remember.
+[00:56:50] It also comes up in another lesion we'll talk about,
+[00:56:53] and so hemangioma is basically multiple dilated.
+[00:56:56] Vascular channels that form a mass, um, usually they don't
+[00:56:59] do anything.
+[00:57:00] You can watch them and monitor them.
+[00:57:02] Um, if they get really big, they do cause abdominal
+[00:57:05] discomfort, and that's when surgery can be considered.
+[00:57:07] We see them resected, uh, time to time.
+[00:57:10] Um, they have very characteristic imaging findings, so they don't
+[00:57:13] even get biopsied, and it's probably a bad bad idea
+[00:57:16] to biopsy a very vascular tumor.
+[00:57:20] This is what the histology looks like, so just for
+[00:57:23] reference, I'm gonna show you this is the background liver
+[00:57:25] right here.
+[00:57:27] This is the tumor and you can see there are
+[00:57:29] these last, they're like red vascular channels.
+[00:57:33] Um, they can have sclerotic fibrotic lesions, fibrosis in the
+[00:57:36] background.
+[00:57:37] This is what that is.
+[00:57:38] So, very vascular lesion, OK?
+[00:57:41] And this is the histologic correlate.
+[00:57:44] A bunch of vessels, thin-walled back to back, filled with
+[00:57:49] blood, which is what the red is, right?
+[00:57:51] And you can see random intervening hepatocytes here, here, here,
+[00:57:56] here.
+[00:57:57] Pretty straightforward.
+[00:58:01] Hepatic adenoma, these are more challenging to diagnose as pathologists,
+[00:58:04] but you don't need to know how to diagnose them,
+[00:58:06] but you really need to know the clinical scenarios because
+[00:58:09] these get tested a lot.
+[00:58:10] Um, the classic scenario is a young woman who takes
+[00:58:13] OCPs, uh, and gets a liver mass, and you really
+[00:58:17] need that as soon as that vignette comes, you just
+[00:58:19] have to think about a cellular adenoma, uh, which is
+[00:58:22] a benign lesion.
+[00:58:24] Uh, and actually, interestingly, they can regress once you stop
+[00:58:27] the OCPs.
+[00:58:28] Um, in men, they're associated with anabolic steroids.
+[00:58:31] Uh, they can also be associated with obesity and metabolic
+[00:58:34] syndrome.
+[00:58:35] The issue with adenomas, uh, and the reason that you
+[00:58:38] sometimes have to resect them, is that the, the larger
+[00:58:41] they get, especially greater than 5 centimeters, they have a
+[00:58:43] risk of rupture, um.
+[00:58:46] And hema peritoneum and also there's an issue that certain
+[00:58:50] adenomas, especially the ones in men and the ones that
+[00:58:53] have a beta-catenin mutation, can progress to cancer.
+[00:58:57] So it can be a ticking time bomb and sometimes
+[00:58:59] you have to take them out.
+[00:59:01] So sometimes in biopsy we do try to delineate which
+[00:59:04] type of adenoma it is so that we can guide
+[00:59:07] whether they should resect or not.
+[00:59:12] Um, they're really hard to diagnose, but what I wanna
+[00:59:15] show you from it is.
+[00:59:19] The hepatic adenomas don't have normal portal tracts or central
+[00:59:24] veins, but they look otherwise just like the hepatocytes, so
+[00:59:28] they can be hard to diagnose.
+[00:59:30] They can sometimes be distinctively fatty, which is what helps
+[00:59:33] us say, oh, there's a.
+[00:59:34] Lesion there look harder so here is actually the line
+[00:59:39] where the tumor is so the left is tumor, the
+[00:59:42] right is benign.
+[00:59:43] You can see that there's a normal portal tract here
+[00:59:46] with a vein and an artery and bile duct.
+[00:59:50] And this lesion then has these unpaired arteries that first
+[00:59:56] of all you shouldn't have because like I told you
+[00:59:59] they shouldn't be in benign liver so that tells you
+[01:00:02] it's a neoplastic lesion and uh you see this all
+[01:00:06] of this area does not actually have any portal tracks.
+[01:00:09] So another reason this is lesional tissue, so that's how
+[01:00:11] we diagnose them.
+[01:00:13] You do not have to worry about it.
+[01:00:14] This is just to show you for interest.
+[01:00:18] You should not be able to diagnose them, but you
+[01:00:19] should know all the clinical vignette stuff and all the
+[01:00:22] risks associated with them and things like that, um.
+[01:00:27] OK, hepatocellular carcinoma, it's the most common primary malignant tumor
+[01:00:31] of the liver.
+[01:00:32] It arises from the hepatocytes, uh, characteristically it's associated in
+[01:00:38] situations with chronic liver disease and cirrhosis, um, risk factors,
+[01:00:41] I think there's more than these even, and you have
+[01:00:44] to know them.
+[01:00:45] They do show up on tests where, you know, hepatitis
+[01:00:48] B and C can do it, alcohol can do it,
+[01:00:51] um, so can, uh, MS, um, and, um.
+[01:00:55] Haemochromatosis can do it.
+[01:00:57] Wilson's disease can do it.
+[01:00:58] Um, aflatoxin is, um, another thing that Does come up
+[01:01:04] on tests I've seen, but, uh, not to worry about
+[01:01:07] for this part, but, um, something to remember that Hep
+[01:01:10] B can patients can get, uh, HCC but without even
+[01:01:13] having cirrhosis, I guess it's just the nature of hepatitis
+[01:01:16] B, um, for test questions classically and.
+[01:01:19] Normally when you have HCC you get quite remarkable elevations
+[01:01:24] in alpha fetoprotein in the serum, but we don't use
+[01:01:27] IHC to diagnose those, so we don't use that immunohistochemistry.
+[01:01:31] These patients usually don't present with much symptoms, but they
+[01:01:35] can have weight loss and worsening liver functions, but they
+[01:01:39] don't have to.
+[01:01:41] Um, this is an example of an HCC grossly.
+[01:01:46] Here is unfixed liver, so it's like very fresh liver
+[01:01:49] tissue.
+[01:01:50] Here is the tumor.
+[01:01:51] Usually like, um, see the green, it's like very bile
+[01:01:55] rich, which is why it looks really green here, um,
+[01:01:57] that can give you a clue that it's a liver
+[01:02:00] primary tumor, and you know, that's a pretty classic appearance
+[01:02:02] for an HCC green and then orange red here, um.
+[01:02:08] So classically, HCCs, how we diagnose them is normal hepatocytes
+[01:02:16] are two plates thick, and what do I mean by
+[01:02:18] a plate?
+[01:02:19] So normally there's hepatocytes and then there's sinusoids in between.
+[01:02:22] The sinusoids are the spaces, right?
+[01:02:24] Sinusoid, sinusoid, sinusoid, sinusoid.
+[01:02:28] So in between the sinusoids, there's usually just one, like
+[01:02:32] there's one hepatocyte here, right?
+[01:02:34] Or 2.
+[01:02:35] This is called a plate.
+[01:02:37] So there's only 1 to 2 hepatocytes that are separated
+[01:02:40] by sinusoids in individual plates.
+[01:02:42] When that plate becomes thickened, that's when you worry about
+[01:02:46] HCC.
+[01:02:47] So, for example, the right-sided picture is mimics hepatocytes, right?
+[01:02:53] So, And I have markers I can do to kind
+[01:02:55] of say it's the same stuff, it's the same cell,
+[01:02:58] but you can see now you can't see any sinusoids,
+[01:03:01] you don't even see, and then it infiltrates adjacent, so
+[01:03:04] I don't even see any sinusoids, and it infiltrates into
+[01:03:07] the background all features that's a hepatocellular carcinoma.
+[01:03:13] All right, any questions?
+[01:03:16] OK.
+[01:03:17] Uh, cholangiocarcinoma, so cholangiocarcinoma is the adenocarcinoma of the bile
+[01:03:22] ducts.
+[01:03:23] Um, cholangiocarcinomas basically can occur anywhere in the biliary tree.
+[01:03:29] If they occur in the liver, then it presents as
+[01:03:31] a mass, so those patients can be asymptomatic.
+[01:03:34] If it presents in the extrahepatic biliary tree, it can
+[01:03:39] present with, um, painless jaundice, or elevated liver function tests
+[01:03:44] and things like that, um.
+[01:03:47] So it depends on where the carcinoma is arising.
+[01:03:50] The tumor, when it's perihilar, that happens at the confluence
+[01:03:53] of the common, uh, duct, common hepatic duct in the
+[01:03:56] right and the left ducts is referred to as the
+[01:03:58] cat skin tumor.
+[01:04:00] It's still the cholangiocarcinoma, that's just the name they give
+[01:04:03] to it at that site.
+[01:04:05] Um, you have to know the risk factors, primary sclerosing
+[01:04:08] cholangitis, you fluke infections, um.
+[01:04:12] Can give you a risk factor for cholangiocarcinoma if you
+[01:04:15] have cholidocal cysts or uh congenital biliary anomalies, and anything
+[01:04:20] that gives you um chronic inflammation in the bile ducts
+[01:04:24] can be at risk, put you at risk for cholangiocarcinoma.
+[01:04:28] Um.
+[01:04:31] This is what it looks like, um, so this is
+[01:04:33] an example on the top.
+[01:04:35] This liver looks very different because it's like it's been
+[01:04:37] fixed in formalin, but this is your background normal liver,
+[01:04:41] and then this is the mass.
+[01:04:43] It looks like a whitish mass.
+[01:04:44] You can see it looks very different than hepatocellular carcinoma.
+[01:04:47] It's much, much more strong and fibrous and.
+[01:04:52] Uh, white, and, uh, basically it's malignant glands.
+[01:04:56] You can see they have a lumen and these are
+[01:04:58] all the malignant glands.
+[01:05:00] Uh, cholangiocarcinoma loves nerves.
+[01:05:02] We see perineural invasion a lot in these patients.
+[01:05:09] Angiosarcoma, um, angiosarcoma of the liver is rare, but it's
+[01:05:13] the most common primary malignant mesenchymal tumor of the liver.
+[01:05:17] Classically, these patients are older, uh, male, and they present
+[01:05:21] with multiple lesions, and, um, they, They usually present um
+[01:05:29] at late stage and tend to have a poor prognosis
+[01:05:31] uh no particular symptoms that they present but they're very
+[01:05:35] non-specific symptoms um uh risk factors are, um, most of
+[01:05:41] the time we don't.
+[01:05:42] Know, but sometimes it can be arsenic exposure, uh, thora
+[01:05:45] trast from the radiographic contrast dye, or vinyl chloride exposure
+[01:05:52] is associated with it.
+[01:05:53] Um, we get our share of them.
+[01:05:56] We see them.
+[01:05:57] Um, on the top right it's a fresh liver, not
+[01:06:00] fixed in formalin, and you can see it has these
+[01:06:03] red hemorrhagic lesions, and they tend to be multiple.
+[01:06:07] Uh, and what I'm showing you here is just like
+[01:06:11] a spindle cell tumor that's ugly looking.
+[01:06:14] See all the red things in this, it's trying to
+[01:06:16] form vessels still because it is derived from endothelial cells,
+[01:06:21] so you can see all the blood in between.
+[01:06:23] See it, a red, and that's actually what gives us
+[01:06:26] the clue that it's an angiosarcoma, um, and then we
+[01:06:29] can do vascular markers to be able to delineate it.
+[01:06:32] Bad prognosis, don't do well.
+[01:06:36] Finally, metastasis to the liver, that's actually the most common
+[01:06:39] types of tumor that we see in the liver is
+[01:06:41] mets.
+[01:06:42] Um, the common sites actually are colon, pancreas, stomach, lung,
+[01:06:46] and breast.
+[01:06:48] Um, and the reason we see a lot of GI
+[01:06:50] malignancies is because of the poor.
+[01:06:51] Systemic connection, the blood flow, that's where it goes, so
+[01:06:54] it's easy to see a lot of like colon cancer
+[01:06:57] go to the liver classically, um, when we think of
+[01:07:00] metastasis, there tend to be multiple lesions in the liver
+[01:07:03] if you're talking about a primary tumor, they tend to
+[01:07:05] be unifocal, um.
+[01:07:08] And um Yeah, um, you know, we have progressed as
+[01:07:12] far as treatment is concerned.
+[01:07:14] People who have oligomets or just a few nodules in
+[01:07:17] the liver, are now actually, uh, treated with curative intent,
+[01:07:21] um, and so we have improved as far as treatment
+[01:07:24] goes, uh, in these patients, um.
+[01:07:28] But yeah, that's the only word.
+[01:07:29] Here's a gross picture.
+[01:07:31] This is just a histologic image of colorectal cancer going
+[01:07:35] to the liver, as you can see, multiple nodules is
+[01:07:37] what you would see.
+[01:07:38] And then when you see multiple nodules, except for in
+[01:07:41] the case of angiosarcoma, which looks very red and hemorrhagic
+[01:07:43] because it's a vascular oriented tumor, um, you think of
+[01:07:47] a met first, OK?
+[01:07:48] Think of a metastasis first.
+[01:07:51] Also, another note, um, metastases don't like to go to
+[01:07:56] cirrhotic livers, and the reason for that is cirrhotic livers
+[01:07:59] already have issues with portal hypertension and blood flow, and
+[01:08:03] it's a poor ischemic type situation in the liver, and
+[01:08:06] mets don't like that.
+[01:08:07] They want a blood flow rich lesion, so if somebody
+[01:08:11] has cirrhosis and they have liver lesions, the likelihood of
+[01:08:15] them having HCC or a cholangiocarcinoma is much higher than
+[01:08:19] a MET going to it.
+[01:08:24] A 32 year old woman presents to the ED with
+[01:08:26] sudden onset severe right upper quadrant pain.
+[01:08:29] She's been taking OCPs, uh, physical examination with abdominal tenderness,
+[01:08:34] 7.5 centimeter mass, no hemorrhage, and the background is non-cirrhotic.
+[01:08:39] What is the most likely diagnosis?
+[01:08:42] Anyone for AHCC?
+[01:08:47] What about focal nodular hyperplasia?
+[01:08:51] You guys learn about that?
+[01:08:54] You don't have to know the histology, which is why
+[01:08:55] it's not on here.
+[01:08:57] Um, hepatocell adenoma.
+[01:09:00] All right.
+[01:09:01] And cavernous hemangioma?
+[01:09:03] All right, and intrahepatic cholangio?
+[01:09:05] OK.
+[01:09:07] Yeah, you guys got it.
+[01:09:09] And it's a classic setup for a hepatocellular adenoma, young
+[01:09:12] woman, likely not cancer, OCPs and the mess.
+[01:09:20] All right, oh, we're moving pretty good.
+[01:09:24] OK.
+[01:09:25] So, now we go to the pancreas, uh, I, um.
+[01:09:29] And uh I will show you some histologic correlates of
+[01:09:32] acute pancreatitis.
+[01:09:34] I will not try to teach you the clinical because
+[01:09:36] I probably know less than you do.
+[01:09:38] Um, so acute pancreatitis is usually secondary to an acute
+[01:09:43] insult that causes the pancreas to release its enzymes and
+[01:09:47] auto auto digest basically, and the most common cause for
+[01:09:52] acute pancreatitis are gallstones and alcohol.
+[01:09:56] You need to know all the other causes.
+[01:09:58] They tend to show up on.
+[01:10:00] Um, USMLE type questions that's high yield.
+[01:10:03] There's mnemonics out there for it that I'm sure you
+[01:10:05] already know.
+[01:10:06] Um, basically what happens is because of whatever injury you
+[01:10:11] get trypsinogen that gets activated to trypsin which causes the
+[01:10:14] digestive enzyme activation and the liver and the pancreas ends
+[01:10:17] up hurting itself, um.
+[01:10:20] So histologically what you grossly you need to remember the
+[01:10:23] gross images of pancreatitis, which is why they've been put
+[01:10:26] on here.
+[01:10:27] So you need to know that when you get pancreatitis,
+[01:10:30] which is acute, you can get calcification, sure, but you
+[01:10:33] see that white stuff.
+[01:10:35] That's what you get in acute pancreatitis, and that's, this
+[01:10:38] is normal pancreas, by the way.
+[01:10:39] It looks like fatty globules.
+[01:10:41] That's what it looks like grossly normal pancreas right there.
+[01:10:44] These are some vessels in the pancreas.
+[01:10:46] See those yellow blobs right there, right there, those are
+[01:10:50] calcifications and see that white stuff right there?
+[01:10:53] That's saponification, and that's what you need to know that
+[01:10:56] saponification happens because of this auto digestion where.
+[01:11:01] The triglycerides get broken down and the calcium binds to
+[01:11:05] the free fatty acids, and causes saponification, which is what
+[01:11:08] looks like this chalky stuff right there.
+[01:11:12] Um, eventually if you get multiple rounds of acute pancreatitis,
+[01:11:15] you can get like necrotic material dense up and form
+[01:11:20] like a hole, uh, referred to as a pseudocyst, and
+[01:11:23] that's what a pseudocyst looks like.
+[01:11:25] This thing, if you submit it, is full of like
+[01:11:28] saponification, necrosis, and a cyst wall, but it has no
+[01:11:33] cyst lining, and that's why it's called a pseudocyst, um.
+[01:11:38] So you need to remember these gross pictures and um
+[01:11:42] you already know this, the classic presentation, the superior epigastric
+[01:11:47] pain radiating to the back, the nausea, vomiting, the elevated
+[01:11:50] liver enzymes, um, diagnosis I'll leave to the clinical, but
+[01:11:54] what you need to remember is the silka the silk
+[01:11:57] formation, the chalky white fat necrosis, that picture can be
+[01:12:00] shown to you and expect you to know that that's
+[01:12:01] acute pancreatitis.
+[01:12:11] Um, this is the histologic correlate, so I know you
+[01:12:14] guys already did normal histology.
+[01:12:16] So you know, normal pancreas is composed of ducts of
+[01:12:19] diff at different levels and of pancreatic asinine, and here's
+[01:12:23] what's left over of the pancreatic asinine, and the rest
+[01:12:25] is replaced by basically necrosis, inflammatory cells, and this is
+[01:12:29] the saponification and what it looks like histrologically.
+[01:12:34] And when I look at this, I can be like
+[01:12:35] acute pancreatitis too, so.
+[01:12:39] I don't think you need to know the histology, just
+[01:12:41] remember that gross.
+[01:12:43] Um, you can sometimes what happens is because of the
+[01:12:47] auto, um, auto activation of the enzymes within the pancreas
+[01:12:51] you can activate elastasis and that what hap and then
+[01:12:54] what happens is that you break down vessel walls and
+[01:12:58] if you have really bad acute pancreatitis that doesn't get
+[01:13:00] controlled, the vessel walls are broken down and as a
+[01:13:03] result of that you get um.
+[01:13:06] Hemorrhage and that hemorrhage can be dangerous.
+[01:13:09] These people, uh, um, and so you can, you know,
+[01:13:14] be expected to know that this image on the right
+[01:13:17] is an image of hemorrhagic pancreas, um, and basically all
+[01:13:22] you would see is just a bloody pancreas at this
+[01:13:24] point.
+[01:13:25] Um, this tends to have a bad prognosis, uh, and
+[01:13:28] you can go into shock and multi-organ failure and, um.
+[01:13:33] This is something you don't want to miss.
+[01:13:35] So most patients with acute pancreatitis do OK, but they
+[01:13:38] can have bad consequences if they don't go in the
+[01:13:41] right direction.
+[01:13:42] Finally, chronic pancreatitis is very different, uh, histologically looks different,
+[01:13:46] but grossly it looks different, and it's a chronic inflammation
+[01:13:52] which leads to irreversible pancreatic fibrosis and loss of exocrine
+[01:13:56] function.
+[01:13:57] So remember, pancreas has both endocrine and exocrine functions.
+[01:14:00] The exocrine function is, uh, Done by the, you know,
+[01:14:05] that's what the art is done by the asinine that
+[01:14:07] are releasing all the enzymes for digestion, um, and the
+[01:14:11] endocrine function is done by the eyelets, right, but the
+[01:14:15] eyelets tend to remain intact for a much longer period
+[01:14:18] of time in chronic pancreatitis than do the asinine.
+[01:14:21] Uh, classic association is long standing alcohol use, um, but
+[01:14:25] you know, having recurrent bouts of acute pancreatitis is another
+[01:14:28] risk factor, um.
+[01:14:31] So if you have exocrine insufficiency, you're unable to digest
+[01:14:35] that fat because your pancreas enzymes are not working well,
+[01:14:38] so you get stadorrhea, and as a result you also
+[01:14:42] get malabsorption and weight loss, um, really late in chronic
+[01:14:46] pancreatitis, your eyelets do get affected eventually, and that's when
+[01:14:49] you can develop diabetes because your eyelets don't work well
+[01:14:52] anymore.
+[01:14:53] Um, You get coarse calcifications on.
+[01:15:00] Uh, in chronic pancreatitis, and you get a lot of
+[01:15:02] fibrosis, so if you were to get a picture of
+[01:15:05] chronic pancreatitis, you, it would look something like this.
+[01:15:09] So here's pancreas, which honestly I wouldn't even recognize as
+[01:15:12] pancreas, and it's just, it looks fibrotic, just very fibrotic,
+[01:15:16] and, uh, I don't see coarse calcifications on this picture
+[01:15:20] unfortunately, but um, The white is what is fibrosis, and
+[01:15:25] I showed you normal pancreas looks like globulated fat.
+[01:15:28] Do you want me to remind you of that?
+[01:15:30] OK, let me, I, I know these pictures can all
+[01:15:32] look the same.
+[01:15:34] Sometimes they look the same to me, so, um, see
+[01:15:37] this part here?
+[01:15:39] See how there's like globulated rounded structures?
+[01:15:41] This is what normal cut section of pancreas looks like.
+[01:15:44] This is where you have some acute pancreatitis, and this
+[01:15:46] is what saponification looks like.
+[01:15:48] It's like this white chalky stuff.
+[01:15:50] You can also get some calcs, see that yellowy?
+[01:15:53] That might be fat necrosis and some calcs.
+[01:15:57] So this is normal.
+[01:15:59] Looks like fat, honestly, to me it always looks like
+[01:16:02] fat.
+[01:16:02] It looks like globulated fat.
+[01:16:04] Um, all right.
+[01:16:07] And you can see that's very different from this.
+[01:16:10] Your pancreas should be yellow, and this is like white
+[01:16:12] fibrous tissue, so this is chronic pancreatitis.
+[01:16:16] So again for histology you can see ducts and asina,
+[01:16:19] and the asinae are what are injured.
+[01:16:21] So when you have chronic pancreatitis.
+[01:16:24] This looks nothing normal, right?
+[01:16:25] Where did the asinine go?
+[01:16:27] There's some asinine left here, and then all you get
+[01:16:30] is some ducts.
+[01:16:31] The residual ducts proliferate, so you see more ducts.
+[01:16:35] There's a lot of pink collagen, which is fibrosis.
+[01:16:38] If I were to do trichrome, that would light up,
+[01:16:40] but I don't have to do trichrome on this.
+[01:16:42] And then what's left over until the end is the
+[01:16:46] eyelets.
+[01:16:47] So this is an eyelet.
+[01:16:48] This is another eyelet.
+[01:16:50] Until even those get roasted, uh, toasted, and then you
+[01:16:53] get diabetes as well.
+[01:16:55] So this is a picture of chronic pancreatitis.
+[01:16:56] It is not uncommon.
+[01:16:58] chronic pancreatitis is a pretty big risk factor for getting
+[01:17:00] pancreatic adenocarcinoma, and it's not uncommon.
+[01:17:03] We see sadly, a lot of pancreatic adenocarcinoma and not
+[01:17:07] uncommon for me to see chronic pancreatitis in the background.
+[01:17:15] Um, good segue now to chronic pancreatitis.
+[01:17:17] Uh, unfortunately, the most common primary pancreatic malignancy, uh, your
+[01:17:21] risk factors are chronic pancreatitis, smoking, obesity, and having a
+[01:17:25] family history of pancreatic cancer.
+[01:17:28] There are multiple risk factors for, um, Pancreatic adenocarcinoma, um,
+[01:17:34] I, while I put them in there as abbreviations, you're
+[01:17:37] not responsible to know them, but, um, they're pancreatic intraepithelial
+[01:17:41] neoplasias, which we grade.
+[01:17:43] There's introductal papillary mucinous neoplasms, we grade them, and then
+[01:17:47] the mucinous cystic neoplasms, all those are risk factors.
+[01:17:50] You don't need to know them.
+[01:17:52] Um, molecular alterations, the most common is KRAS, and as
+[01:17:55] a matter of fact, there's a new drug that just
+[01:17:57] came out that almost doubled survival rate in stage 4
+[01:17:59] cancers, um.
+[01:18:01] And that looks really good for patients who have very
+[01:18:04] dismal prognosis, uh, and it targets KRAS, um.
+[01:18:09] Histologically, what you need to remember is you can be
+[01:18:11] shown a picture of malignant glands again with a desmoplastic
+[01:18:15] stroma, uh, um, and you know it depends on where
+[01:18:19] your tumor is.
+[01:18:20] While most pancreatic cancers are commonly happen in the head,
+[01:18:23] uh, those people present with painless jaundice just because they
+[01:18:27] obstruct, uh, the amppillary region where the bile drains, um.
+[01:18:33] So you can present with painless jaundice, but if your
+[01:18:37] tumor is much more closer to the body or the
+[01:18:39] tail of the pancreas, you just may present with abdominal
+[01:18:42] and back pain.
+[01:18:43] Um, Trousseau syndrome is migratory thrombophlebitis associated with pancreatic adenocarcinomas.
+[01:18:50] Many cancers, specifically pancreatic adenocarcinoma, creates a hypercoagulable state.
+[01:18:55] They say that the mucin that is released by the
+[01:18:57] glands actually goes into the blood.
+[01:18:59] Stream and alters how it interacts with platelets and leukocytes
+[01:19:02] and causes you to become very hypercoagulable, which is why
+[01:19:06] these patients get a lot of like superficial thrombi and
+[01:19:09] it looks so it looks like red patches along a
+[01:19:12] vessel wall in a patient.
+[01:19:14] And that's referred to as Trousseau, uh, syndrome, and it's
+[01:19:18] migratory thrombophillipitis.
+[01:19:20] The reason they say it's migratory is like one week
+[01:19:22] it'll appear in your arm and the other week it'll
+[01:19:24] appear on your leg and things like that, um, and
+[01:19:27] for a test that makes a good test question, so
+[01:19:30] know that association.
+[01:19:31] Trousseau syndrome, pancreatic adenocarcinoma.
+[01:19:35] These patients not don't do great.
+[01:19:37] The prognosis is still not.
+[01:19:41] God.
+[01:19:42] Um, see all these glands.
+[01:19:45] So normal ducts, first of all, don't look this mucinous.
+[01:19:48] See all these glands here, they're all infiltrative tumor glands.
+[01:19:53] You're not responsible for the histology, and this is just
+[01:19:56] showing you here is a nerve, and you can see
+[01:20:00] glands.
+[01:20:00] This is a nice example of a gland.
+[01:20:03] This is perineural invasion.
+[01:20:08] This is a um image of migratory thrombophlebitis in pancreatic
+[01:20:14] cancer.
+[01:20:15] It just looks like red, like along like a vessel
+[01:20:18] track.
+[01:20:21] Oh yeah, that's all you need to know about the
+[01:20:23] pancreas histology from what I understand.
+[01:20:26] Um, so we have a question of 52 year old
+[01:20:28] male with a history of heavy alcohol presents with chronic
+[01:20:30] epigastric pain, foul smelling stools, so steatarrhea is what they
+[01:20:35] refer to it, uh, steatarrrrhea because that's what gives you
+[01:20:38] foul smelling stools as well.
+[01:20:39] CT CT scan reveals pancreatic calcifications, duct dilatation, and parenchymal
+[01:20:45] atrophy.
+[01:20:47] What histologic finding is characteristic?
+[01:20:51] Is it extensive hemorrhage and enzymatic fat necrosis?
+[01:20:56] Is it dense fibrosis with asinar atrophy and preserved eyelets?
+[01:21:02] Yeah, diffuse neutrophilic infiltration.
+[01:21:06] Sheets of malignant cells and non-casing granulomas.
+[01:21:09] Anybody for either of those?
+[01:21:11] Hey, less number of votes, we're losing steam guys, we're
+[01:21:14] losing steam.
+[01:21:15] All right, yeah, so this is basically talking and you
+[01:21:19] know your biggest clue was, first of all, the patient
+[01:21:21] has steadorrhea.
+[01:21:23] Usually you get those in chronic pancreatitis and not in
+[01:21:27] acute because you still have enough assinar function and then
+[01:21:30] other thing that the clue is the parenchymal atrophy right
+[01:21:34] that's more a Chronic pancreatitis thing.
+[01:21:38] So your correct answer in this case is D.
+[01:21:40] So you get a lot of asinar atrophy, and we're
+[01:21:42] basically referring to A is referring to uh hemorrhagic pancreatis
+[01:21:47] acute pancreatitis, C is referring to also acute, and D
+[01:21:54] is referring to pancreatic adeno and E is referring to
+[01:21:58] um some granulomatous disease that I don't even know what.
+[01:22:03] All right, um, the last, and the gallbladder is actually
+[01:22:07] very brief, so we'll be shortly done, um.
+[01:22:12] I just want to show you the differences between acute
+[01:22:15] and chronic cholecystitis, and uh you already know about the
+[01:22:20] different types of stones.
+[01:22:21] I know I saw it in one of your lectures,
+[01:22:23] so you um.
+[01:22:25] The, uh, uh, the different stones that we see, uh,
+[01:22:30] in pathology are, uh, pigmented stones versus cholesterol stones.
+[01:22:35] So the bottom yellow images what a cholesterol stone looks
+[01:22:38] like, uh, in histology, and the top is your black,
+[01:22:43] um, black stones so.
+[01:22:45] Cholesterol stones are the most common.
+[01:22:46] They're associated with obesity, estrogen exposure, anytime you have rapid
+[01:22:51] weight loss or and age, pigmented stones, if they're brown,
+[01:22:55] you need to know that they're associated with biliary infections
+[01:22:58] and statuses, whereas black ones are associated in patients who
+[01:23:01] have hemolysis and cirrhosis, um.
+[01:23:05] You know, um, I want to show you, so acute
+[01:23:09] versus chronic and how we differentiate them.
+[01:23:12] Usually acute cholecystitis is a result of a gallbladder being
+[01:23:15] obstructed at the cystic duct with a gallstone, chronic cholecystitis
+[01:23:20] is the stones causing chronic injury in the gallbladder wall
+[01:23:24] with intermittent clogging of the cystic duct, potentially, but it's
+[01:23:28] mostly not acute obstruction.
+[01:23:32] Um, acute cholecystitis patients usually present with a right upper
+[01:23:36] quadrant pain and fever, and, um, As the name suggests,
+[01:23:41] acute inflammation is what is predominant in these cases in
+[01:23:45] histology.
+[01:23:46] Sometimes acute pancreatitis can be, uh, acute, uh, cholecystitis can
+[01:23:50] be, um, can progress to gangrenous ulcerated inflammation and lead
+[01:23:56] to perforation of the gallbladder and can get you really.
+[01:23:59] Um, whereas chronic, because it's chronic, you just get a
+[01:24:02] lot of thickness and fibrotic gallbladder with a lot of
+[01:24:06] muscle hypertrophy, and you get glands that get pushed into
+[01:24:11] the deeper muscle layers, which is what forms the Roatansky-Ashkoff
+[01:24:15] sinuses.
+[01:24:16] You want to remember that, um.
+[01:24:19] And those patients don't present with like acute right upper
+[01:24:22] quadrant pain, but they complain about having gnawing pain that
+[01:24:25] happens like 30 minutes after eating and stuff, and you
+[01:24:28] guys already know that.
+[01:24:30] Um, so this is the histologic correlate.
+[01:24:32] So on the left bottom is the insert of a
+[01:24:36] normal gallbladder.
+[01:24:37] So normal gallbladder has nice, very bland epithelium.
+[01:24:42] It has this lamina appropriate and then has this one
+[01:24:44] muscle layer, um, and you can see that the epithelium
+[01:24:48] kind of ends way before the muscle, right?
+[01:24:51] So in acute, uh, cholecystitis, what you see is This
+[01:24:57] is an example of acute cholecystitis, and I've basically just
+[01:24:59] zoomed in on the epithelium, and it just tends to
+[01:25:02] have a lot of neutrophils, and that's about the only
+[01:25:04] change you see in very bad cases, we'll see ulcers,
+[01:25:07] we'll see full-on necrosis, and we will see perforation, um,
+[01:25:12] and this is different from chronic.
+[01:25:16] Here is a picture of chronic.
+[01:25:18] So in chronic what you see is compared to the
+[01:25:21] normal, the muscle is thickened, so see this muscle is
+[01:25:24] very thick.
+[01:25:25] You see that normal glands are usually just up above,
+[01:25:28] right?
+[01:25:29] Normal epithelium is just up above these the.
+[01:25:32] In chronic because they get a lot of pressure intraluminal
+[01:25:35] pressure, those glands get pushed in and they can go
+[01:25:38] quite deep, um, almost we started to consider this is
+[01:25:42] an adenocarcinoma, but we have histologic features and criteria that
+[01:25:45] we can tell them apart from and, um, so this
+[01:25:49] just happens from like increased intraluminal pressure from all the
+[01:25:52] stones, um.
+[01:25:54] And uh what else do you get?
+[01:25:56] Oh yeah, you get thickened and you get fibrosis of
+[01:25:58] the lamina propria and submucosa.
+[01:26:01] See how here there's a lot of just white space
+[01:26:05] with cells, and it's a very delicate network, but now
+[01:26:08] here you just see a bunch of pink, and the
+[01:26:11] reason from that is just fibrosis from all the chronic
+[01:26:13] injury.
+[01:26:17] And that's all you need to know about the gallbladder.
+[01:26:19] You can get gallbladder adenocarcinoma.
+[01:26:21] It looks like adenocarcinoma anywhere, um, and you know, uh,
+[01:26:26] chronic cholecystitis is one of the risk factors, but there's
+[01:26:30] nothing you need to know about the histology of it.
+[01:26:33] So let's, um, answer this question, and I think then
+[01:26:37] you're free to go, um.
+[01:26:40] A 48-year-old woman presents with recurrent episodes of right upper
+[01:26:43] quadrant pain after fatty meals for the past two years,
+[01:26:46] no fever, no jaundice, lots of gallstones in the ultrasound.
+[01:26:50] She undergoes laparoscopic cholecystectomy, histology shows, uh, chronic inflammatory cells,
+[01:26:57] fibrosis, muscular hypertrophy, and epithelial lined spaces extending to the
+[01:27:02] deep.
+[01:27:03] Which of the following best explains the epithelial line spaces
+[01:27:08] observed?
+[01:27:11] Is it invasion of malignant glands into the muscle wall?
+[01:27:15] OK, is it metaplastic transformation of the gallbladder epithelium into
+[01:27:19] intestinal type mucosa?
+[01:27:21] OK, by the way, you can get intestinal metaplasia of
+[01:27:25] the gallbladder, and that's a risk factor for it to
+[01:27:27] get dysplasia and carcinoma out of room for you guys.
+[01:27:32] Is it herniation of the gallbladder mucosa into the muscular
+[01:27:35] wall due to increased intraluminal pressure?
+[01:27:38] Yeah, OK, good.
+[01:27:39] And a proliferation of endothelial vascular channels within the gallbladder
+[01:27:43] wall.
+[01:27:44] All right, I'm not even gonna try the last one.
+[01:27:47] I think we've already made our decision.
+[01:27:49] Yep, the correct answer is that the Roatansky sinuses happen
+[01:27:52] and they described in the question some good chronic cholecystitis,
+[01:27:57] and then you described and see good Roatansky sinuses, uh,
+[01:28:01] Ashkoff sinuses.
+[01:28:06] Anything I can clarify?
+[01:28:08] Was this OK?
+[01:28:10] All right.
+[01:28:10] OK, good.
+[01:28:13] That's all I have.

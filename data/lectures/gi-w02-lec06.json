@@ -1,0 +1,312 @@
+{
+ "lecture_id": "gi-w02-lec06",
+ "block": "GI",
+ "week": 2,
+ "lecture": "06 Hepatobiliary secretions and GI peptides",
+ "contributor": "thirth",
+ "questions": [
+  {
+   "id": "gi-w02-lec06-q01",
+   "source": "slide",
+   "source_ref": "Slides 20, 18, 19",
+   "stem": "A 3-day-old newborn girl is brought to the clinic by her parents. She has yellowing of the skin and sclera. Blood tests confirm that she has hyperbilirubinemia. She was given phototherapy, which resolved her symptoms. Which one of the following explains this treatment?",
+   "choices": [
+    "Increased glucuronidation of bilirubin",
+    "Increased conversion of bilirubin to more soluble forms",
+    "Decreased destruction of red blood cells",
+    "Reduced degradation of heme"
+   ],
+   "answer": 1,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "The insoluble that is transbilirubin gets converted to water soluble cis form because bilirubin absorbs that light and then gets converted.",
+     "at": "00:08:22"
+    },
+    {
+     "type": "slide",
+     "slide": 20,
+     "image": "img/gi-w02-lec06/slide_20.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 18,
+     "image": "img/gi-w02-lec06/slide_18.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 19,
+     "image": "img/gi-w02-lec06/slide_19.jpg"
+    }
+   ],
+   "note": "Phototherapy converts bilirubin to more soluble forms. Bilirubin in the skin absorbs light at 425 to 475 nm and isomerizes from the trans form to the more water-soluble cis form, which can be excreted without conjugation.\nIncreased glucuronidation: that is the body's natural, enzymatic route (UDP-glucuronyltransferase). Light does not speed up an enzyme.\nDecreased destruction of red blood cells: phototherapy has nothing to do with RBC breakdown.\nReduced degradation of heme: same problem as the RBC option. Light does not change how much heme is broken down."
+  },
+  {
+   "id": "gi-w02-lec06-q02",
+   "source": "slide",
+   "source_ref": "Slides 38, 22, 25",
+   "stem": "Which one of the following statements is INCORRECT?",
+   "choices": [
+    "Conversion to bile acids is an effective mechanism by which the body removes cholesterol.",
+    "Increase in the activity of UDP-glucuronyltransferase helps to resolve neonatal jaundice a week after birth.",
+    "A patient being treated with fibrates is at risk of cholelithiasis.",
+    "A higher amount of bile salts, sodium, and chloride ions is present in liver bile compared to gallbladder bile."
+   ],
+   "answer": 3,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "So the last one has to be incorrect because the higher amount of bile salt, sodium chlorides, it is present in the gallbladder bile because that's where it is concentrated, not in the liver.",
+     "at": "00:27:40"
+    },
+    {
+     "type": "slide",
+     "slide": 38,
+     "image": "img/gi-w02-lec06/slide_38.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 22,
+     "image": "img/gi-w02-lec06/slide_22.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 25,
+     "image": "img/gi-w02-lec06/slide_25.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 18,
+     "image": "img/gi-w02-lec06/slide_18.jpg"
+    }
+   ],
+   "note": "Bile salts are far more concentrated in gallbladder bile than in liver bile. The gallbladder stores bile and concentrates it up to 15 times by absorbing water, so the bile salts it cannot absorb pile up. One nuance: the gallbladder actively absorbs Na+, and Cl- and water follow, so Cl- is actually lower in gallbladder bile (Lecture 06 eBook). The statement is still the incorrect one because of its bile-salt claim.\nBile acids remove cholesterol: true. The steroid nucleus cannot be broken down to CO2 and water, so converting cholesterol to bile acids is the main way the body gets rid of it.\nUDP-glucuronyltransferase: true. Neonatal jaundice clears as this immature conjugating enzyme ramps up over the first week.\nFibrates and gallstones: true. Fibrates inhibit cholesterol 7α-hydroxylase, so less cholesterol becomes bile acid and the excess can precipitate."
+  },
+  {
+   "id": "gi-w02-lec06-q03",
+   "source": "slide",
+   "source_ref": "Slides 39, 28, 36",
+   "stem": "A 45-year-old man reports to the clinic after recurrent upper abdominal pain. He reports that eating fatty foods exacerbates the pain. He is on calcium channel blockers for hypertension and a fibrate for dyslipidemia. Further examination shows the presence of gallstones. Which one of the following enzymes may be deficient in his case?",
+   "choices": [
+    "HMG-CoA reductase",
+    "β-glucuronidase",
+    "Cholesterol 7α-hydroxylase",
+    "Pyruvate kinase"
+   ],
+   "answer": 2,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "But most importantly for fibrate and the further examination shows presence of gallstone, so which of the enzymes was deficient, and the correct answer here was 7 alpha hydroxyase.",
+     "at": "00:28:49"
+    },
+    {
+     "type": "slide",
+     "slide": 39,
+     "image": "img/gi-w02-lec06/slide_39.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 28,
+     "image": "img/gi-w02-lec06/slide_28.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 36,
+     "image": "img/gi-w02-lec06/slide_36.jpg"
+    }
+   ],
+   "note": "Cholesterol 7α-hydroxylase. It is the enzyme that turns cholesterol into the primary bile acids. Fibrates inhibit it, so cholesterol is not converted to bile acids. With fewer bile salts to keep it dissolved, the extra cholesterol precipitates in the gallbladder as stones. The professor noted this exact fibrate-gallstone link shows up in several question banks.\nHMG-CoA reductase: the statin target in cholesterol synthesis. Fibrates do not inhibit it, and lower synthesis would not cause stones.\nβ-glucuronidase: deconjugates bilirubin. It is tied to pigment stones, not fibrate-induced cholesterol stones.\nPyruvate kinase: a glycolytic enzyme. Its deficiency causes hemolytic anemia and has no link to fibrates."
+  },
+  {
+   "id": "gi-w02-lec06-q04",
+   "source": "slide",
+   "source_ref": "Slides 54, 47, 51, 50",
+   "stem": "Which one of the following statements is INCORRECT?",
+   "choices": [
+    "Secretin neutralizes the duodenal pH for effective digestion of dietary fat and proteins.",
+    "CCK causes slowing down of gastric emptying in response to the presence of chyme containing long-chain fatty acids in the duodenum.",
+    "Trypsin acts as a positive regulator of CCK at all times as it digests proteins and creates a pool of amino acids.",
+    "GIP and GLP-1 have therapeutic value for patients with type 2 diabetes as they stimulate glucose-dependent insulin secretion."
+   ],
+   "answer": 2,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "Because no if there are no dietary proteins in the DRdenum, we don't need to produce CCK. Then trypsin will be a negative regulator. It will digest away CCK, monitor peptide, and all that.",
+     "at": "00:41:49"
+    },
+    {
+     "type": "slide",
+     "slide": 54,
+     "image": "img/gi-w02-lec06/slide_54.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 47,
+     "image": "img/gi-w02-lec06/slide_47.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 51,
+     "image": "img/gi-w02-lec06/slide_51.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 50,
+     "image": "img/gi-w02-lec06/slide_50.jpg"
+    }
+   ],
+   "note": "Trypsin is not a positive regulator at all times. When there is no dietary protein in the duodenum, trypsin digests CCK-releasing factor and monitor peptide, so it acts as a negative regulator and CCK release stops.\nSecretin: true. Its bicarbonate brings duodenal pH up into the range where pancreatic enzymes work.\nCCK slows gastric emptying: true. The professor called this the often-forgotten third job of CCK, alongside pancreatic enzyme release and gallbladder contraction. Slowing the stomach gives food time to mix with bile and enzymes.\nGIP and GLP-1: true. Both stimulate glucose-dependent insulin secretion, which is why they are useful in type 2 diabetes."
+  },
+  {
+   "id": "gi-w02-lec06-q05",
+   "source": "slide",
+   "source_ref": "Slides 55, 53, 32, 48",
+   "stem": "Which one of the following statements is INCORRECT?",
+   "choices": [
+    "Stimulation of somatostatin will lead to decreased gastrin and a concomitant decrease in acid secretion.",
+    "Conversion of bile salts to bile acids may be affected in a patient being treated with antibiotics for a prolonged time.",
+    "Decreased CCK production may lead to biliary stasis in patients receiving TPN.",
+    "Insulin, leptin, CCK, and PYY act to increase appetite, while ghrelin acts to decrease appetite."
+   ],
+   "answer": 3,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "So the last one has to be incorrect because insulin, peptin, CCKPYY, they decrease appetite and ghrelin increases appetite.",
+     "at": "00:43:34"
+    },
+    {
+     "type": "slide",
+     "slide": 55,
+     "image": "img/gi-w02-lec06/slide_55.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 53,
+     "image": "img/gi-w02-lec06/slide_53.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 32,
+     "image": "img/gi-w02-lec06/slide_32.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 48,
+     "image": "img/gi-w02-lec06/slide_48.jpg"
+    }
+   ],
+   "note": "The appetite statement is backwards. Insulin, leptin, CCK, and PYY all decrease appetite. Ghrelin, the \"hunger hormone,\" increases it.\nSomatostatin: true. It reduces gastrin release, and acid secretion falls with it.\nAntibiotics and bile acids: true. Gut bacteria such as lactobacilli and bifidobacteria strip glycine and taurine off bile salts to make bile acids. Prolonged antibiotics wipe out those bacteria. The professor used this as an example of a second-order question.\nTPN and biliary stasis: true. CCK is released when food reaches the duodenum. TPN bypasses the gut, so there is no CCK signal to squeeze the gallbladder and bile sits still."
+  },
+  {
+   "id": "gi-w02-lec06-q06",
+   "source": "slide",
+   "source_ref": "Slides 56, 47, 51",
+   "stem": "A 37-year-old man reports to the emergency department with severe epigastric pain that started after a heavy meal. Gallstones are suspected. His history shows similar recurrent episodes, each following consumption of meals containing fatty foods. Which one of the following hormones likely provoked the current episode in this patient?",
+   "choices": [
+    "Cholecystokinin",
+    "Somatostatin",
+    "Gastrin",
+    "Secretin"
+   ],
+   "answer": 0,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "Think about this gallbladder is a balloon, and you have stones in that, and CCK comes in, especially if you have fatty foods, right? CCK is stimulated, it comes in and squeezes on that balloon. It has to create pain, right?",
+     "at": "00:44:29"
+    },
+    {
+     "type": "slide",
+     "slide": 56,
+     "image": "img/gi-w02-lec06/slide_56.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 47,
+     "image": "img/gi-w02-lec06/slide_47.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 51,
+     "image": "img/gi-w02-lec06/slide_51.jpg"
+    }
+   ],
+   "note": "Cholecystokinin. Fat in the duodenum triggers CCK release from I cells, and CCK contracts the gallbladder. When the gallbladder is full of stones, that squeeze causes the pain, which is why his attacks follow fatty meals. The professor called this a really typical question-bank item, usually written about a woman (the 4 F's: female, forties, fertile, overweight).\nSomatostatin: inhibits hormone secretion. It does not contract the gallbladder.\nGastrin: stimulates gastric acid secretion, not gallbladder contraction.\nSecretin: responds to acid in the duodenum and stimulates bicarbonate secretion. It does not drive gallbladder contraction."
+  },
+  {
+   "id": "gi-w02-lec06-q07",
+   "source": "slide",
+   "source_ref": "Slides 57, 47, 51",
+   "stem": "A 29-year-old man is on a high-protein, low-carbohydrate diet in order to build muscle. Which one of the following hormones needs to be released to increase the secretion of pancreatic enzymes into the small intestine to help digest this type of meal?",
+   "choices": [
+    "Cholecystokinin",
+    "Somatostatin",
+    "Gastrin",
+    "Secretin"
+   ],
+   "answer": 0,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "So we know who tells pancreas to release all these enzymes. CCK again, and they already told you that CCK is stimulated by amino acids, peptides, fat, and stimulate pancreatic.",
+     "at": "00:45:31"
+    },
+    {
+     "type": "slide",
+     "slide": 57,
+     "image": "img/gi-w02-lec06/slide_57.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 47,
+     "image": "img/gi-w02-lec06/slide_47.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 51,
+     "image": "img/gi-w02-lec06/slide_51.jpg"
+    }
+   ],
+   "note": "Cholecystokinin. Amino acids, peptides, and fatty acids in the duodenum stimulate I cells to release CCK, and CCK tells the pancreatic acinar cells to secrete their digestive enzymes.\nSomatostatin: a powerful inhibitor of secretion. It would reduce output, not increase it.\nGastrin: stimulates gastric acid, not pancreatic enzyme secretion.\nSecretin: stimulates pancreatic bicarbonate, the watery fluid component, not the enzymes."
+  },
+  {
+   "id": "gi-w02-lec06-q08",
+   "source": "slide",
+   "source_ref": "Slides 58, 46, 51",
+   "stem": "A second-year medical student goes to a restaurant with his family to celebrate his grandmother's birthday. Being currently in the GI course, he tells his family about the physiological changes that occur in the GI tract due to the consumption of a large meal. He tells them that a certain hormone is stimulated by acid entering the duodenum. This hormone inhibits stomach motility and stimulates bicarbonate secretion from the pancreas. Which one of the following hormones is structurally related to the hormone in question?",
+   "choices": [
+    "Cholecystokinin",
+    "Somatostatin",
+    "Gastrin",
+    "Glucagon"
+   ],
+   "answer": 3,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "So when the acid enters the DR denum, stimulates the secretin by the S cells, and glucagon, secretin, VIP, they are all structurally related.",
+     "at": "00:47:18"
+    },
+    {
+     "type": "slide",
+     "slide": 58,
+     "image": "img/gi-w02-lec06/slide_58.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 46,
+     "image": "img/gi-w02-lec06/slide_46.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 51,
+     "image": "img/gi-w02-lec06/slide_51.jpg"
+    }
+   ],
+   "note": "Glucagon. The hormone described is secretin: released by S cells when acid enters the duodenum, it stimulates pancreatic bicarbonate and slows the stomach. Secretin belongs to the glucagon/GIP/secretin/VIP family of structurally similar peptides. This is a two-step question: first name the hormone, then name its structural relative.\nCholecystokinin: structurally related to gastrin (the gastrin-CCK family), not to secretin.\nSomatostatin: not part of either structural family taught in this lecture.\nGastrin: belongs to the gastrin-CCK family, not the secretin family."
+  }
+ ]
+}

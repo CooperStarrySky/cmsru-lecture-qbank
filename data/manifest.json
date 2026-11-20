@@ -1,6 +1,21 @@
 {
  "lectures": [
   {
+   "lecture_id": "gi-w01-lec00",
+   "block": "GI",
+   "week": 1,
+   "lecture": "00 Course Introduction",
+   "file": "data/lectures/gi-w01-lec00.json",
+   "n": 1,
+   "sources": {
+    "formative": 0,
+    "notes": 0,
+    "said": 0,
+    "slide": 1
+   },
+   "released": true
+  },
+  {
    "lecture_id": "gi-w01-lec01",
    "block": "GI",
    "week": 1,
@@ -72,6 +87,321 @@
     "notes": 0,
     "said": 0,
     "slide": 6
+   },
+   "released": true
+  },
+  {
+   "lecture_id": "gi-w02-lec06",
+   "block": "GI",
+   "week": 2,
+   "lecture": "06 Hepatobiliary secretions and GI peptides",
+   "file": "data/lectures/gi-w02-lec06.json",
+   "n": 8,
+   "sources": {
+    "formative": 0,
+    "notes": 0,
+    "said": 0,
+    "slide": 8
+   },
+   "released": true
+  },
+  {
+   "lecture_id": "gi-w02-lec07",
+   "block": "GI",
+   "week": 2,
+   "lecture": "07 Biliary Disease",
+   "file": "data/lectures/gi-w02-lec07.json",
+   "n": 2,
+   "sources": {
+    "formative": 0,
+    "notes": 0,
+    "said": 0,
+    "slide": 2
+   },
+   "released": true
+  },
+  {
+   "lecture_id": "gi-w02-lec08",
+   "block": "GI",
+   "week": 2,
+   "lecture": "08 Pancreatitis",
+   "file": "data/lectures/gi-w02-lec08.json",
+   "n": 2,
+   "sources": {
+    "formative": 0,
+    "notes": 0,
+    "said": 0,
+    "slide": 2
+   },
+   "released": true
+  },
+  {
+   "lecture_id": "gi-w03-lec14",
+   "block": "GI",
+   "week": 3,
+   "lecture": "14 Inflammatory Bowel Disease",
+   "file": "data/lectures/gi-w03-lec14.json",
+   "n": 2,
+   "sources": {
+    "formative": 0,
+    "notes": 0,
+    "said": 0,
+    "slide": 2
+   },
+   "released": true
+  },
+  {
+   "lecture_id": "gi-w03-lec15",
+   "block": "GI",
+   "week": 3,
+   "lecture": "15 GI Endocrine Tumors and Vascular Disorders",
+   "file": "data/lectures/gi-w03-lec15.json",
+   "n": 1,
+   "sources": {
+    "formative": 0,
+    "notes": 0,
+    "said": 0,
+    "slide": 1
+   },
+   "released": true
+  },
+  {
+   "lecture_id": "gi-w03-lec16",
+   "block": "GI",
+   "week": 3,
+   "lecture": "16 Vitamins",
+   "file": "data/lectures/gi-w03-lec16.json",
+   "n": 5,
+   "sources": {
+    "formative": 0,
+    "notes": 0,
+    "said": 0,
+    "slide": 5
+   },
+   "released": true
+  },
+  {
+   "lecture_id": "gi-w03-lec17",
+   "block": "GI",
+   "week": 3,
+   "lecture": "17 Essential Trace minerals",
+   "file": "data/lectures/gi-w03-lec17.json",
+   "n": 7,
+   "sources": {
+    "formative": 0,
+    "notes": 0,
+    "said": 0,
+    "slide": 7
+   },
+   "released": true
+  },
+  {
+   "lecture_id": "gi-w04-lec18",
+   "block": "GI",
+   "week": 4,
+   "lecture": "18 Malabsorption maldigestion",
+   "file": "data/lectures/gi-w04-lec18.json",
+   "n": 15,
+   "sources": {
+    "formative": 0,
+    "notes": 0,
+    "said": 0,
+    "slide": 15
+   },
+   "released": true
+  },
+  {
+   "lecture_id": "gi-w04-lec19",
+   "block": "GI",
+   "week": 4,
+   "lecture": "19 Functional GI Disorders",
+   "file": "data/lectures/gi-w04-lec19.json",
+   "n": 2,
+   "sources": {
+    "formative": 0,
+    "notes": 0,
+    "said": 0,
+    "slide": 2
+   },
+   "released": true
+  },
+  {
+   "lecture_id": "gi-w04-lec20",
+   "block": "GI",
+   "week": 4,
+   "lecture": "20 GI Cancers Upper",
+   "file": "data/lectures/gi-w04-lec20.json",
+   "n": 5,
+   "sources": {
+    "formative": 0,
+    "notes": 0,
+    "said": 0,
+    "slide": 5
+   },
+   "released": true
+  },
+  {
+   "lecture_id": "gi-w04-lec21",
+   "block": "GI",
+   "week": 4,
+   "lecture": "21 GI Cancer Colon",
+   "file": "data/lectures/gi-w04-lec21.json",
+   "n": 1,
+   "sources": {
+    "formative": 0,
+    "notes": 0,
+    "said": 0,
+    "slide": 1
+   },
+   "released": true
+  },
+  {
+   "lecture_id": "gi-w04-lec22",
+   "block": "GI",
+   "week": 4,
+   "lecture": "22 Pediatric GI",
+   "file": "data/lectures/gi-w04-lec22.json",
+   "n": 5,
+   "sources": {
+    "formative": 0,
+    "notes": 0,
+    "said": 0,
+    "slide": 5
+   },
+   "released": true
+  },
+  {
+   "lecture_id": "gi-w04-lec23",
+   "block": "GI",
+   "week": 4,
+   "lecture": "23 Gastrointestinal Manifestations of Rheumatological Diseases",
+   "file": "data/lectures/gi-w04-lec23.json",
+   "n": 4,
+   "sources": {
+    "formative": 0,
+    "notes": 0,
+    "said": 0,
+    "slide": 4
+   },
+   "released": true
+  },
+  {
+   "lecture_id": "gi-w04-lab-imaging",
+   "block": "GI",
+   "week": 4,
+   "lecture": "LAB Imaging of GI system",
+   "file": "data/lectures/gi-w04-lab-imaging.json",
+   "n": 13,
+   "sources": {
+    "formative": 0,
+    "notes": 0,
+    "said": 0,
+    "slide": 13
+   },
+   "released": true
+  },
+  {
+   "lecture_id": "gi-w05-lec24",
+   "block": "GI",
+   "week": 5,
+   "lecture": "24 Diarrhea",
+   "file": "data/lectures/gi-w05-lec24.json",
+   "n": 6,
+   "sources": {
+    "formative": 0,
+    "notes": 0,
+    "said": 0,
+    "slide": 6
+   },
+   "released": true
+  },
+  {
+   "lecture_id": "gi-w05-lab-pathology",
+   "block": "GI",
+   "week": 5,
+   "lecture": "LAB Pathology of the GI System II",
+   "file": "data/lectures/gi-w05-lab-pathology.json",
+   "n": 6,
+   "sources": {
+    "formative": 0,
+    "notes": 0,
+    "said": 0,
+    "slide": 6
+   },
+   "released": true
+  },
+  {
+   "lecture_id": "renal-w01-lec03",
+   "block": "RENAL",
+   "week": 1,
+   "lecture": "03 Glomerular Physiology",
+   "file": "data/lectures/renal-w01-lec03.json",
+   "n": 1,
+   "sources": {
+    "formative": 0,
+    "notes": 0,
+    "said": 1,
+    "slide": 0
+   },
+   "released": true
+  },
+  {
+   "lecture_id": "renal-w01-lec04",
+   "block": "RENAL",
+   "week": 1,
+   "lecture": "04 Tubular Physiology",
+   "file": "data/lectures/renal-w01-lec04.json",
+   "n": 2,
+   "sources": {
+    "formative": 0,
+    "notes": 0,
+    "said": 2,
+    "slide": 0
+   },
+   "released": true
+  },
+  {
+   "lecture_id": "renal-w01-lec06",
+   "block": "RENAL",
+   "week": 1,
+   "lecture": "06 Water Homeostasis and Disorders",
+   "file": "data/lectures/renal-w01-lec06.json",
+   "n": 1,
+   "sources": {
+    "formative": 0,
+    "notes": 0,
+    "said": 1,
+    "slide": 0
+   },
+   "released": true
+  },
+  {
+   "lecture_id": "renal-w01-lec08",
+   "block": "RENAL",
+   "week": 1,
+   "lecture": "08 Miscellaneous Ion Homeostasis and Disorders",
+   "file": "data/lectures/renal-w01-lec08.json",
+   "n": 1,
+   "sources": {
+    "formative": 0,
+    "notes": 0,
+    "said": 0,
+    "slide": 1
+   },
+   "released": true
+  },
+  {
+   "lecture_id": "renal-w01-lab-prelab-anatomy",
+   "block": "RENAL",
+   "week": 1,
+   "lecture": "LAB Pre-Lab Anatomy of the Kidney Ureter and Bladder",
+   "file": "data/lectures/renal-w01-lab-prelab-anatomy.json",
+   "n": 1,
+   "sources": {
+    "formative": 0,
+    "notes": 0,
+    "said": 0,
+    "slide": 1
    },
    "released": true
   }

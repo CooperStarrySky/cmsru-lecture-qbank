@@ -1,0 +1,46 @@
+{
+ "lecture_id": "renal-w01-lec03",
+ "block": "RENAL",
+ "week": 1,
+ "lecture": "03 Glomerular Physiology",
+ "contributor": "thirth",
+ "questions": [
+  {
+   "id": "renal-w01-lec03-q01",
+   "source": "said",
+   "source_ref": "00:32:46",
+   "stem": "You have a patient that has hypoalbuminemia. Assuming no other changes, what's the primary effect on glomerular filtration?",
+   "choices": [
+    "Decreased GFR",
+    "Increased GFR",
+    "Decreased glomerular hydrostatic pressure",
+    "Increased Bowman's hydrostatic pressure",
+    "Decreased Kf"
+   ],
+   "answer": 1,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "Yep, so it's increased GFR.",
+     "at": "00:33:47"
+    },
+    {
+     "type": "transcript",
+     "quote": "Um, so since there's less protein in the capillaries, there's going to be less of a pull back into the capillaries, which means that you're going to continue to have more filtered out.",
+     "at": "00:34:03"
+    },
+    {
+     "type": "slide",
+     "slide": 16,
+     "image": "img/renal-w01-lec03/slide_16.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 15,
+     "image": "img/renal-w01-lec03/slide_15.jpg"
+    }
+   ],
+   "note": "**Low albumin means low plasma oncotic pressure in the glomerular capillaries, so less fluid is pulled back and GFR goes up.** The lecturer posed this as an in-class poll (a cirrhosis patient with low albumin) and read the five choices aloud. The stem and choices are taken from the lecturer's spoken words, lightly tidied. The choice slide itself is not in the posted PDF.\n\nDecreased GFR: false. Lower capillary oncotic pressure removes a force that opposes filtration, so GFR rises.\n\nIncreased GFR: true. Slide 16: arterial plasma oncotic pressure sets glomerular capillary oncotic pressure, and higher oncotic pressure lowers GFR, so the reverse raises it.\n\nDecreased glomerular hydrostatic pressure: false. Albumin does not change the capillary hydrostatic pressure, which is set by arterial pressure and arteriolar resistance (slide 15).\n\nIncreased Bowman's hydrostatic pressure: false. That rises with urinary obstruction, not low albumin.\n\nDecreased Kf: false. Kf falls with fewer working capillaries or a thicker membrane, which this patient doesn't have."
+  }
+ ]
+}

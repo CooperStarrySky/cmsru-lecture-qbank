@@ -1,0 +1,189 @@
+{
+ "lecture_id": "gi-w04-lec20",
+ "block": "GI",
+ "week": 4,
+ "lecture": "20 GI Cancers Upper",
+ "contributor": "thirth",
+ "questions": [
+  {
+   "id": "gi-w04-lec20-q01",
+   "source": "slide",
+   "source_ref": "Slides 17, 11, 18",
+   "stem": "Which one of the following statements is INCORRECT?",
+   "choices": [
+    "Lichen planus, a precancerous lesion, occurs possibly due to an aberrant immune response to an intrinsic skin antigen.",
+    "Risk factors for oral cancer include alcohol use, tobacco use and betel nut chewing; however, age does not play a role.",
+    "HPV-positive oropharyngeal cancers have a favorable prognosis compared to non-HPV-related oropharyngeal cancers in the absence of alcohol or tobacco use.",
+    "Gain-of-function mutations in Ras genes disturb the normal outcome of signaling pathways that control cellular proliferation, differentiation or survival, leading to tumor development."
+   ],
+   "answer": 1,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "B is also gonna be incorrect, right? We know that the incidence of cancer increases with age. That is a risk factor for oropharyngeal cancer.",
+     "at": "00:11:21"
+    },
+    {
+     "type": "slide",
+     "slide": 17,
+     "image": "img/gi-w04-lec20/slide_17.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 11,
+     "image": "img/gi-w04-lec20/slide_11.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 18,
+     "image": "img/gi-w04-lec20/slide_18.jpg"
+    }
+   ],
+   "note": "B is the incorrect statement. Increasing age is a risk factor for oral cancer, because cancer incidence rises with age. The rest of the list is right: alcohol, tobacco and betel nut are risk factors, along with HPV, poor nutrition and a history of HIV.\nA is true: lichen planus is a premalignant oral lesion thought to come from an aberrant immune response to an intrinsic skin antigen.\nC is true: HPV-positive oropharyngeal cancers do better than HPV-negative ones, and the outlook is best when alcohol and tobacco aren't added on top.\nD is true: activating Ras mutations keep growth signaling switched on, which drives proliferation and survival."
+  },
+  {
+   "id": "gi-w04-lec20-q02",
+   "source": "slide",
+   "source_ref": "Slides 35, 23, 33",
+   "stem": "Which one of the following statements is INCORRECT?",
+   "choices": [
+    "An obese male who is a chain smoker has an increased risk of esophageal adenocarcinoma.",
+    "A missense mutation in rhomboid protease that alters the activity of EGFR can lead to hyperkeratosis of the palms and soles and an increased risk of esophageal SCC.",
+    "Biopsies from the distal third of the esophagus showing intestinal metaplasia are not considered precancerous.",
+    "Esophageal carcinoma in situ can be treated with endoscopic mucosal resection (EMR) alone."
+   ],
+   "answer": 2,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "So we're talking about esophageal biopsies in the distal third of the esophagus showing intestinal metaplasia. We do know that is a precancerous condition that is effectively the diagnostic criteria for, um, being able to tell a patient they have Barrett's esophagus, which again, precancerous lesion, the hallmark being intestinal metaplasia.",
+     "at": "00:23:41"
+    },
+    {
+     "type": "slide",
+     "slide": 35,
+     "image": "img/gi-w04-lec20/slide_35.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 23,
+     "image": "img/gi-w04-lec20/slide_23.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 33,
+     "image": "img/gi-w04-lec20/slide_33.jpg"
+    }
+   ],
+   "note": "C is the incorrect statement. Intestinal metaplasia with goblet cells in the distal esophagus is Barrett esophagus, which is precancerous and is the precursor of esophageal adenocarcinoma. The professor called intestinal metaplasia the diagnostic hallmark of Barrett esophagus.\nA is true: obesity, male sex and tobacco are all risk factors for esophageal adenocarcinoma, usually by way of GERD and Barrett esophagus.\nB is true: this describes tylosis, where a rhomboid protease mutation disturbs EGFR signaling and causes palm and sole hyperkeratosis plus a higher risk of squamous cell carcinoma.\nD is true: carcinoma in situ hasn't invaded past the superficial layers, so endoscopic mucosal resection alone can remove it."
+  },
+  {
+   "id": "gi-w04-lec20-q03",
+   "source": "slide",
+   "source_ref": "Slides 66, 62, 64",
+   "stem": "Which one of the following statements is INCORRECT?",
+   "choices": [
+    "Imatinib is a competitive inhibitor of the tyrosine kinase enzyme BCR-ABL that inhibits KIT/PDGFRA signaling.",
+    "An activating mutation in CD117, a transmembrane receptor tyrosine kinase, is associated with gastrointestinal stromal tumor development, most commonly in the colon.",
+    "Development of MALT lymphomas may be due to the clonal expansion of B cells that accompanies chronic gastritis in the presence of H. pylori.",
+    "Infection with H. pylori cagA-positive strains is associated with gastric adenocarcinoma."
+   ],
+   "answer": 1,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "B is incorrect, ultimately that everything was right until it said the most commonplace was the colon. Remember, just are gonna be most commonly found in the stomach and the small intestine.",
+     "at": "00:46:24"
+    },
+    {
+     "type": "slide",
+     "slide": 66,
+     "image": "img/gi-w04-lec20/slide_66.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 62,
+     "image": "img/gi-w04-lec20/slide_62.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 64,
+     "image": "img/gi-w04-lec20/slide_64.jpg"
+    }
+   ],
+   "note": "B is the incorrect statement. Everything is right except the site: GISTs are most common in the stomach (about 63%) and small intestine (about 23%), and only about 3% arise in the colon. The CD117 (c-KIT) gain-of-function mutation part is correct.\nA is true: imatinib competes with ATP at the kinase site, blocking BCR-ABL and also KIT and PDGFRA signaling, which is why it treats GIST.\nC is true: chronic H. pylori gastritis drives B-cell clonal expansion that can become MALT lymphoma, and early-stage disease may regress with H. pylori treatment.\nD is true: cagA-positive H. pylori strains inject CagA into gastric cells, deregulate growth signaling and raise the risk of gastric adenocarcinoma."
+  },
+  {
+   "id": "gi-w04-lec20-q04",
+   "source": "slide",
+   "source_ref": "Slides 67, 64, 65",
+   "stem": "A 45-year-old woman is undergoing endoscopy to evaluate persistent gastrointestinal reflux. In the stomach there is a solitary, well-circumscribed, fleshy mass covered with intact mucosa. Histologic evaluation of the biopsy specimen shows fascicles of spindle-shaped tumor cells. Which of the following is not an accurate description of this tumor?",
+   "choices": [
+    "The majority are associated with mutation of CDH1.",
+    "75-80% have a gain-of-function mutation in the gene that encodes the tyrosine kinase c-KIT.",
+    "8% of these tumors have a mutation that activates platelet-derived growth factor receptor alpha (PDGFRA).",
+    "There is an increased incidence in individuals with neurofibromatosis type 1."
+   ],
+   "answer": 0,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "Yeah, the answer is A, the majority are associated with a mutation of CDH1. Remember that is more so associated with gastric adenocarcinoma, specifically the hereditary diffuse form.",
+     "at": "00:47:15"
+    },
+    {
+     "type": "slide",
+     "slide": 67,
+     "image": "img/gi-w04-lec20/slide_67.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 64,
+     "image": "img/gi-w04-lec20/slide_64.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 65,
+     "image": "img/gi-w04-lec20/slide_65.jpg"
+    }
+   ],
+   "note": "A is the inaccurate statement. A submucosal, spindle-cell mass in the stomach is a gastrointestinal stromal tumor (GIST), and GISTs are not associated with CDH1. CDH1 (E-cadherin) mutations belong to diffuse gastric adenocarcinoma, including the hereditary diffuse form. The professor noted the statement would have been right if it had said CD117 (c-KIT).\nB is accurate: most GISTs carry an activating KIT mutation, and about 90% stain CD117-positive.\nC is accurate: a smaller share carry an activating PDGFRA mutation instead, and imatinib blocks both KIT and PDGFRA signaling.\nD is accurate: neurofibromatosis type 1 raises the risk of GIST, mostly the small-intestinal type."
+  },
+  {
+   "id": "gi-w04-lec20-q05",
+   "source": "slide",
+   "source_ref": "Slides 68, 44, 50",
+   "stem": "A 43-year-old woman presents with bilateral lower quadrant abdominal discomfort and abdominal distention. She undergoes an extensive evaluation, with imaging concerning for bilateral enlargement of the ovaries, free fluid in the pelvis and diffuse mesenteric lymphadenopathy. She undergoes exploratory surgery, and the pathology slide shows tumor cells whose nuclei are pushed to the edge of the cell by cytoplasmic mucin. Which mutation likely led to the development of this condition?",
+   "choices": [
+    "PDGFRA",
+    "CD117 (c-KIT)",
+    "cagA",
+    "E-cadherin (CDH1)"
+   ],
+   "answer": 3,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "Right, so these are the signet ring cells that we kind of saw from the diffuse, uh, uh, gastric adenocarcinoma slides. So ultimately then you have to think beyond that to the next order of ultimately what would be one of the, the mutations that you can see with that, and that would ultimately be ECAdherin for gastric adenocarcinoma.",
+     "at": "00:48:26"
+    },
+    {
+     "type": "slide",
+     "slide": 68,
+     "image": "img/gi-w04-lec20/slide_68.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 44,
+     "image": "img/gi-w04-lec20/slide_44.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 50,
+     "image": "img/gi-w04-lec20/slide_50.jpg"
+    }
+   ],
+   "note": "E-cadherin (CDH1). The slide shows signet ring cells, and bilateral ovarian masses mean a Krukenberg tumor, which is diffuse gastric adenocarcinoma that has spread to the ovaries. Diffuse gastric cancer is tied to loss of E-cadherin: germline CDH1 mutations cause hereditary diffuse gastric cancer, and CDH1 mutations are found in about half of diffuse gastric adenocarcinomas. The professor's reasoning: first name the cells (signet ring), then the tumor (diffuse gastric adenocarcinoma), then the mutation (E-cadherin).\nPDGFRA activating mutations are found in a minority of GISTs, which are spindle-cell tumors.\nCD117 (c-KIT) gain-of-function mutations cause most GISTs, not signet ring carcinoma.\ncagA is an H. pylori virulence gene, not a human tumor mutation. The lecture links it to MALT lymphoma and gastric cancer risk."
+  }
+ ]
+}

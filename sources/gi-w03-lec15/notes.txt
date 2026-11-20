@@ -1,0 +1,395 @@
+=== PAGE 1 ===
+GI Endocrine Tumors and Vascular Disorders (October 28, 2026; 11 am)
+Important note from Dr. DeSipio: Please note that this ebook is not intended to include all of the
+information presented in the lecture slides, but is created to provide foundation to the main concepts presented
+in the slides. Dr. DeSipio wrote this ebook using various sources including UpToDate.
+
+Neuroendocrine tumors of the GI tract (GNETs)
+Gastroenteropancreatic neuroendocrine tumors (GNET) arise from neuroendocrine cells present within
+the stomach, small intestine, and pancreas. GNETs are well-differentiated tumors which are frequently
+indolent and have variable biologic behavior. These include carcinoid tumors and pancreatic islet cell
+tumors (gastrinoma, somatostatinoma, insulinoma, glucagonoma, and VIPoma).
+GNETs are uncommon. In the United States, GNETs combined have a prevalence of 25 per 1,000,000
+population. Approximately half are carcinoids. GNETs may occur sporadically or as part of an autosomal
+dominant inherited multiple endocrine neoplasia (MEN) syndrome. All gastrointestinal endocrine tumors
+can be associated with MEN type 1 which is characterized by pituitary adenomas, parathyroid
+hyperplasia, and pancreatic tumors.
+Tumor
+Carcinoids
+
+Annual Incidence
+15/million
+
+Gastrinoma
+
+0.5-2/million
+
+Insulinoma
+
+0.5-2/million
+
+VIPoma
+Glucagonoma
+
+0.05-0.2/million
+0.01-0.1/million
+
+Somatostatinoma rare
+
+Symptoms
+Diarrhea,
+facial
+flushing,
+bronchospasm,
+right
+sided valvular heart
+disease,
+paroxysmal
+hypotension
+Abdominal pain,
+Ulcer, Dyspepsia,
+Diarrhea
+Hypoglycemia
+Neuropsychiatric
+Diarrhea
+Diarrhea
+Diabetes
+Diarrhea
+Weight Loss
+Diarrhea
+
+Rate of Malignancy
+< 2 cm – 2% mets
+1-2 cm – 50% mets
+> 2 cm – 85% mets
+
+> 60%
+< 10%
+>75%
+>75%
+>85%
+
+GNETs are of neuroendocrine origin; they may secrete various peptides and hormones. Most of these
+tumors produce several hormones, but very few are associated with a clinical syndrome. They also
+produce substances including chromogranins, which can be localized with immunochemical studies.
+Carcinoid tumors and carcinoid syndrome
+Carcinoid tumors are slow growing and can occur anywhere in the alimentary tract. The clinical
+presentation varies from an asymptomatic incidental finding to symptomatic tumors, including the classic
+carcinoid syndrome.
+1
+
+
+=== PAGE 2 ===
+Most carcinoid tumors are found incidentally. If symptoms are present, they often are nonspecific and
+associated with the location and extent of the tumor. Symptoms due to the direct effects of a tumor in the
+gastrointestinal tract may be abdominal pain, intestinal obstruction, nausea, weight loss, or intestinal
+bleeding. Carcinoid tumors are rare, and those that cause carcinoid syndrome are even rarer. Only 5% of
+patients with carcinoid tumors have carcinoid syndrome. Carcinoid syndrome is due to peptides released
+by the tumor into the systemic circulation including histamine, serotonin, prostaglandins, and tachykinins.
+The liver often inactivates these peptides; thus, patients have symptoms of carcinoid syndrome primarily
+in association with liver metastases: the bioactive products are secreted directly into the hepatic veins. The
+most common symptoms of carcinoid syndrome are facial flushing and diarrhea. Flushes can be
+associated with hypotension and tachycardia. Several inciting factors are known for the flushing
+associated with carcinoid syndrome: alcohol ingestion, increased emotional states, trauma or pressure on
+the liver. Anesthesia can provoke long episodes of flushing with life-threatening hypotension known as
+carcinoid crisis. Carcinoid crisis can be prevented by the administration of octreotide (a somatostatin
+analogue) before anesthesia. A secretory diarrhea occurs in 80% of patients with carcinoid syndrome and
+can be quite severe. Wheezing is a common component of carcinoid syndrome and is due to
+bronchospasm and right-sided valvular heart disease. Unlike diarrhea, wheezing and dyspnea are worse
+during flushing episodes. Of importance, wheezing associated with carcinoid syndrome should not be
+treated like bronchial asthma: treatment with β- agonists can incite prolonged vasodilation and severe
+hypotension.
+Gastric carcinoid tumors tend to occur in the body of the stomach. They occur more frequently in patients
+who have a disease that causes hypergastrinemia, such as pernicious anemia and atrophic gastritis with
+achlorhydria. They also appear to be more common in patients with Zollinger-Ellison syndrome. Most
+gastric carcinoids are small, indolent, and have low malignant potential. Rarely, sporadic carcinoid tumors
+arise in the absence of hypergastrinemia. These behave in an aggressive fashion including liver metastases
+and carcinoid syndrome due to 5-hydroxytryptophan production.
+Small intestinal carcinoid tumors are the most important clinically because patients are more likely to
+present with intestinal symptoms and carcinoid syndrome. Abdominal pain or bowel obstruction can be
+caused by the direct mechanical effect of the tumor or mesenteric ischemia due to tumor-associated
+fibrosis. Most small intestinal carcinoids occur in the distal ileum. Because small intestinal carcinoids,
+regardless of size, have the potential to metastasize, they should be removed surgically.
+Up to half of carcinoids are appendiceal tumors, and carcinoid tumors are the most common neoplasms of
+the appendix. Incidental carcinoids are found in 0.5% of appendectomy specimens. They usually are
+small, solitary, and benign.
+Most carcinoid tumors are found incidentally on endoscopy or imaging studies performed for other
+indications. If symptoms are present and are due to local effects of the tumor, they usually are found on
+CT. If symptoms of carcinoid syndrome are strongly suspected, the best initial evaluation is with urinary
+5-hydroxyindoleacetic acid (5-HIAA) and/or a serum serotonin. Octreotide scintigraphy identifies the site
+of primary tumors and metastatic disease in more than 80% of patients with carcinoid syndrome.
+Gastrinoma
+Gastrinomas produce the classic triad of symptoms called Zollinger-Ellison syndrome. This syndrome
+consists of peptic ulcer disease, gastric acid hypersecretion, and a gastrin-producing tumor. Gastrinomas
+are rare and occur in less than 1% of patients who have peptic ulcer disease. Gastrinomas are frequently
+associated with MEN 1 syndrome.
+2
+
+
+=== PAGE 3 ===
+More than 90% of gastrinomas occur in an anatomical area called the gastrinoma triangle (bounded by
+the proximal duodenum and pancreatic neck). Gastrinomas are slow growing, and it can be difficult to
+differentiate benign tumors from malignant ones. Approximately two-thirds of gastrinomas are malignant.
+The best indicator of malignancy is the presence of metastases, which most often affect the regional
+lymph nodes or the liver.
+Peptic ulcer disease is the most common sign of gastrinoma and occurs in more than 90% of patients. The
+ulcer disease is characterized by multiple post-bulbar duodenal ulcers and severe refractory esophagitis.
+Also, 50% of the patients have diarrhea due to the effect of acid hypersecretion on the small bowel.
+Increased acid exposure to the small bowel causes morphologic and inflammatory changes that can result
+in malabsorption. In addition, the low pH may inactivate pancreatic lipase and cause bile salts to
+precipitate, resulting in malabsorption of fat and steatorrhea. If a patient has duodenal ulcers that are not
+caused by either H. pylori infection or NSAIDs and chronic diarrhea, gastrinoma should be considered.
+For patients with suspected of gastrinoma, the first screening test is determining the serum level of gastrin
+(which must be performed off acid suppressing medications). A serum gastrin level greater than 1,000
+pg/mL suggests the presence of gastrinoma. A level exceeding 110 pg/mL but less than1,000 pg/mL may
+be consistent with several conditions that cause hypergastrinemia. The most common cause of
+hypergastrinemia is achlorhydria due to atrophic gastritis. Other causes of achlorhydria include gastric
+carcinoma, vagotomy, or current proton pump inhibitor therapy. Some disorders cause hypergastrinemia
+with normal or increased acid secretion. These are gastric outlet obstruction, retained gastric antrum in
+patients with previous gastric surgery, and a rare hereditary condition called antral G-cell hyperplasia.
+If the gastrin level is increased, then it must be determined whether there is concomitant gastric acid
+hypersecretion. This is done by measuring basal acid output (BAO). A nasogastric tube is placed into the
+antrum, and samples of gastric fluid are collected; a BAO greater than 15 mEq/hour is diagnostic of
+Zollinger-Ellison syndrome. If a patient has pronounced hypergastrinemia and acid hypersecretion but the
+serum gastrin level is below 1,000 pg/mL, an intravenous secretin test is indicated. In patients with
+Zollinger- Ellison syndrome, the serum level of gastrin increases at least 200 pg/mL over the basal gastrin
+level. Patients with other causes of hypergastrinemic hyperchlorhydria have only a slight or no increase in
+the serum level of gastrin.
+Once there is biochemical evidence of gastrinoma, the tumor should be localized. Because most
+gastrinomas occur in the gastrinoma triangle, EUS is very sensitive in localizing the primary tumor but is
+less helpful in evaluating metastatic disease. Most gastrinomas have somatostatin receptors. Octreotide
+scintigraphy can localize 85% of gastrinomas.
+Surgical resection is the treatment of choice for patients with resectable disease. Patients with MEN 1
+syndrome may not be candidates for surgical treatment because they often have multiple tumors. If
+resection is not possible, the objective in treating Zollinger-Ellison syndrome is to control gastric acid
+hypersecretion. Medical treatment to decrease gastric acid hypersecretion usually consists of proton pump
+inhibitors and octreotide.
+Insulinoma
+Insulinomas are insulin-secreting islet cell tumors that originate in the pancreas and cause symptoms of
+hypoglycemia. They are usually solitary but, rarely, may be multiple. Most patients present with clinical
+manifestations of hypoglycemia. Symptoms may also result from catecholamine release caused by
+3
+
+
+=== PAGE 4 ===
+hypoglycemia. These symptoms are anxiety, weakness, fatigue, headache, palpitations, tremor, and
+sweating. Typically, symptoms occur with fasting, when a meal is delayed, or during exercise. Patients
+learn to avoid symptoms by eating frequently; as a result, 40% of patients have a history of weight gain.
+The presence of an insulinoma is determined by the combination of a low fasting blood glucose level and
+an inappropriately increased plasma insulin level. This combination is identified in 65% of patients with
+insulinoma. For a definitive diagnosis, a 72-hour fast is required, with serum glucose and insulin levels
+determined at regular intervals and with the onset of symptoms. With this fasting test, symptoms develop
+in virtually 100% within 72 hours. Localization of the tumor can be difficult because most tumors are
+small. Because it is less common for insulinomas to have somatostatin receptors, octreotide scintigraphy
+can localize only 50% of the tumors and therefore is not commonly used. These tumors are almost
+exclusively in the pancreas, so EUS can detect nearly 90% of them.
+Definitive treatment of insulinoma is surgical removal of the tumor. Patients with metastatic disease and
+those with insulinomas that have not been removed can be managed with hyperglycemic agents such as
+diazoxide and octreotide.
+VIPoma
+VIPoma syndrome is caused by a neuroendocrine tumor that is usually in the pancreas and produces
+vasoactive intestinal polypeptide (VIP). This syndrome is characterized by severe watery diarrhea,
+hypokalemia, and achlorhydria and is also known as the WDHA syndrome (watery diarrhea, hypokalemia,
+and achlorhydria), also known as Verner-Morrison Syndrome.
+A VIPoma usually is a solitary pancreatic islet cell tumor, and more than 75% of them occur in the body
+or tail of the pancreas. Although these tumors are slow growing, they frequently reach a large size before
+diagnosis. Seventy-five percent of VIPomas are malignant, and 50% have metastasized at the time of
+diagnosis. VIPomas cannot be differentiated from other pancreatic endocrine tumors with conventional
+histologic examination. Demonstration of immunoreactive VIP in the tumor and plasma establishes the
+diagnosis. VIP induces intestinal water and chloride secretion and inhibits gastric acid secretion.
+VIPomas cause secretory diarrhea, which results in hypokalemia and dehydration. Stool volume may
+exceed 5 L/day. The watery diarrhea resembles that of cholera (“pancreatic cholera”). Flushing of the
+head and trunk may occur in some patients. Also, some patients develop hyperglycemia because of VIPand hypokalemia-induced glycogenolysis in the liver.
+VIPoma syndrome should be suspected if patients present with high-volume watery diarrhea that persists
+despite fasting and is associated with hypokalemia and dehydration. The diagnosis is confirmed by the
+finding of an increased plasma concentration of VIP. Because these tumors are large, frequently
+malignant, and metastatic, CT or MRI is effective for localizing the tumor and demonstrating metastatic
+disease.
+The first priority of treatment is to correct the dehydration and electrolyte abnormalities. Patients may
+require 5 L or more of fluid per day, with aggressive potassium replacement. Long-acting octreotide
+controls the diarrhea in most patients with VIPoma. Surgery should be considered for all patients without
+evidence of metastatic disease. Surgical resection of a pancreatic VIPoma relieves all symptoms and is
+curative in approximately 30% of patients.
+
+4
+
+
+=== PAGE 5 ===
+Glucogonomas
+Glucagonomas are solitary, large tumors which produce a rare syndrome of dermatitis, glucose
+intolerance, weight loss, and anemia associated with a pancreatic islet cell tumor. Sixty-five percent of the
+tumors are located in the head of the pancreas, and the other 35% occur equally in the body and tail. Most
+tumors are metastatic at the time of diagnosis.
+The characteristic presentation is that of a distinct dermatitis called necrolytic migratory erythema. This
+rash starts as an erythematous area which spreads laterally and then become raised, with superficial
+central blistering or bullous formation. When the bullae rupture, crusting occurs and the lesions begin to
+heal from the center with subsequent hyperpigmented skin. The entire sequence usually takes 1 to 2
+weeks and consists of a mixed pattern of erythema, bullous formation, epidermal separation, crusting, and
+hyperpigmentation, which wax and wane. Glossitis, angular stomatitis, dystrophic nails, and hair thinning
+are other clinical findings. The majority of patients with glucagonoma also have hypoaminoacidemia,
+which may be responsible for the rash. Glucagon stimulates glycogenolysis, gluconeogenesis, lipolysis,
+and ketogenesis. Most patients have glucose intolerance, and some may have frank diabetes mellitus.
+Most patients with glucagonoma also have noticeable weight loss, even if the tumor is found incidentally
+and is small.
+If the clinical features of glucagonoma are present, the diagnosis can be confirmed by the finding of an
+increased plasma glucagon level greater than 1,000 pg/mL. Because glucagonomas occur in the pancreas
+and tend to be large and metastatic at the time of clinical presentation, CT of the abdomen usually
+localizes the tumor.
+The initial objective of treatment is to control the symptoms and hyperglycemia and to restore nutritional
+status. Patients should receive nutritional support, and the hyperglycemia should be corrected. The rash
+may improve with correction of the hypoaminoacidemia. Octreotide is useful for controlling symptoms,
+and it improves the dermatitis, weight loss, diarrhea, and abdominal pain but not diabetes mellitus.
+Surgery is curative in only 20% of patients but these tumors are slow growing and survival is good even
+for those who do not receive chemotherapy.
+Somatostatinoma
+Somatostatinomas are neuroendocrine tumors that occur in the pancreas and intestine. Somatostatinomas
+are the least common of the GNETs. They are usually solitary and large, and the most have metastasized
+at the time of diagnosis. Somatostatin inhibits insulin release, gallbladder motility, and the secretion of
+pancreatic enzymes and bicarbonate. They produce a distinct syndrome of diabetes mellitus, gallbladder
+disease, and steatorrhea.
+Most somatostatinomas are found incidentally when laparotomy is performed for gallbladder disease. The
+diagnosis is established by the finding of somatostatin-containing D cells in the resected tumor and an
+increased plasma concentration of somatostatin-like immunoreactive material.
+Diabetes mellitus usually is mild and responds to oral hypoglycemic agents or low doses of insulin.
+Surgical excision is the treatment of choice, but most patients present with metastatic disease.
+Multiple endocrine neoplasia type 1 (MEN1)
+MEN1 syndrome has been classically characterized by the presence of neoplasms in the pituitary,
+parathyroid, and pancreas although patients with MEN1 syndrome have been reported with a varying
+combination of more than 20 endocrine and nonendocrine tumors. MEN1 syndrome occurs both as a
+5
+
+
+=== PAGE 6 ===
+familial (90%) and sporadic form. While some neuroendocrine tumors (mainly gastrinomas) and foregut
+carcinoids are often malignant, the majority of tumors in MEN1 are benign.
+Primary hyperparathyroidism (PHPT) is the main MEN1-associated endocrinopathy occurring in 90% of
+individuals and manifests as hypercalcemia in 100% of affected individuals by age 50 years. MEN1
+parathyroid disease is a multiglandular disorder with enlargement of all the parathyroid glands.
+Most pituitary tumors in MEN1 syndrome are represented by macroadenomas. Pituitary tumors may
+occur as the first clinical manifestation of MEN1 syndrome. Pituitary tumors are usually functioning
+tumors and prolactinoma is the most common among them, manifesting as oligomenorrhea/amenorrhea
+and galactorrhea in women and sexual dysfunction and gynecomastia in men.
+Neuroendocrine tumors of the GI tract and pancreas include gastrinoma, insulinoma, glucagonoma, or
+VIPoma. MEN1-gastrinomas usually include a malignant component and in approximately 50% of
+subjects with MEN1 syndrome has metastasized before diagnosis. MEN1-insulinomas are almost always
+benign. Nonsecreting GNETs are frequent based on endoscopic ultrasonographic evaluation of patients
+with MEN1. Gastric carcinoids occur approximately in 10% of individuals with MEN1 syndrome and are
+often found incidentally.
+MEN1 syndrome is an autosomal disorder resulting from mutations of the MEN1 gene which encodes a
+novel 610-amino acid protein, referred to as menin. More than 1000 different germline MEN1 mutations
+have been identified. Most mutations in the MEN1 gene predict truncation or absence of encoded menin.
+The ultimate pathways of menin action in normal tissues or in tumors remain unknown. Menin is mainly
+located in the nucleus and contains nuclear localization domains essential for the regulation of gene
+expression. Menin is widely expressed and may play different roles in different tissues. Based on
+chromosomal localization studies and its ability to interact with various nuclear proteins such as p21 and
+p53, it is likely involved in the physiological regulation of several cell functions, including DNA
+replication and repair.
+MEN1 syndrome is inherited in an autosomal dominant manner. Although approximately 90% of
+individuals diagnosed with MEN1 syndrome have an affected parent, the family history may seem to be
+negative because of failure to recognize the disorder in family members or late onset of the disease in the
+affected parent. The penetrance of this syndrome approaches 100% with increasing age. Variable
+expression is frequently observed among members from different MEN1 families sharing a common
+MEN1 mutation. The great diversity of MEN1 mutations and a lack of genotype–phenotype correlation,
+make mutational screening difficult and expensive. Clinical assessment and biochemical testing may be
+used for surveillance of patients known to have MEN1 on genetic and/or clinical basis and for individuals
+at 50% risk of having MEN1 syndrome whose genetic status is unknown.
+As early diagnosis of MEN1 syndrome-associated tumors, and treatment of metabolic complications of
+MEN1 has eliminated ZES and/or complicated PHPT as causes of death, management of diabetes and
+screening for MEN1 syndrome-associated malignancies have assumed greater importance. Mutation
+positive individuals should undergo a focused surveillance for early identification of potentially malignant
+neuroendocrine tumors.
+
+6
+
+
+=== PAGE 7 ===
+Vascular disorders of the GI tract
+Mesenteric ischemia
+Mesenteric ischemia can occur from any of the myriad of conditions that decrease intestinal blood flow.
+Vascular disease of the esophagus is extremely rare. The stomach, duodenum, and rectum have numerous
+arterial inputs with rich collateralization. Vascular disorders affecting the stomach, duodenum, or rectum
+are extremely rare. The principal arterial supply to the gut distal to the esophagus is from the celiac,
+superior mesenteric, and inferior mesenteric arteries. There are extensive collaterals between these
+vessels. They enlarge rapidly in response to localized mesenteric ischemia. The inferior mesenteric vein
+joins the splenic vein, which in turn joins the superior mesenteric vein to form the portal vein.
+Ischemic colitis
+Ischemic colitis represents nearly one-half of all cases of mesenteric ischemia. Atherosclerotic or
+thrombotic occlusion of the inferior mesenteric artery or its branches and nonocclusive low-flow states are
+usual causes of ischemic colitis. Less common causes include embolus, vasculitis, hypercoagulable states,
+and colonic obstruction. Unusual associations include long-distance running, use of birth control pills,
+cocaine, or sumatriptan. Some gastrointestinal infections and chronic inflammatory bowel disease can
+mimic ischemic colitis. Ischemic colitis due to low-flow states often affects watershed areas such as the
+splenic flexure, descending colon, and the right colon. The rectum is often spared in ischemic colitis. The
+clinical symptoms of ischemic colitis include acute abdominal pain, urgency, diarrhea, and GI bleeding.
+Physical findings often include abdominal tenderness over the affected bowel, distention, fever, and
+tachycardia. Radiographs of the abdomen may show submucosal edema and hemorrhage
+(“thumbprinting”). Colonoscopy findings consistent with ischemic colitis include segmental ulceration,
+edema, and submucosal hemorrhage. CT scan may exclude other disorders. Typically, angiography is not
+required, but should be used for patients with right-sided colonic ischemia as they may also have small
+bowel ischemia. Treatment depends on the cause and includes supportive treatment, broad-spectrum
+antibiotics, and, in selected cases, surgery if there are signs and symptoms of transmural necrosis. In most
+patients, ischemic colitis resolves promptly with supportive therapy alone. Patients with idiopathic
+ischemic colitis should be evaluated for thrombophilic states.
+
+Acute mesenteric ischemia
+Patients with acute mesenteric ischemia involving the small bowel often present with abdominal pain that
+is severe, persistent, and poorly localized. The pain typically is more severe than the findings on
+abdominal palpation (pain out of proportion to the exam). Prompt evaluation is critical.
+Superior Mesenteric Artery (SMA) Embolus
+Superior mesenteric artery emboli are common, accounting for 5% of peripheral emboli and 50% of cases
+of primary mesenteric ischemia of the small bowel. The emboli are usually from the heart. Arrhythmias,
+myocardial infarction, congestive heart failure, and age older than 50 years are major risk factors.
+Embolectomy is the treatment of choice. Patients with acute occlusion of a distal branch of the superior
+mesenteric artery may be treated with thrombolytic therapy, intra-arterial papaverine, or anticoagulation.
+Vasoconstriction of the superior mesenteric artery often occurs after occlusion and persists after
+embolectomy. Intra-arterial papaverine 24 hours after embolectomy improves arterial flow.
+Anticoagulation reduces the risk of further embolization.
+
+7
+
+
+=== PAGE 8 ===
+Superior Mesenteric Artery (SMA) Thrombus
+Superior mesenteric artery thrombus accounts for about 15% of cases of primary mesenteric small bowel
+ischemia. Risk factors for superior mesenteric artery thrombus include old age, low-flow states
+(arrhythmia, hypotension, sepsis, myocardial infarction, and congestive heart failure), atherosclerosis,
+vasculitis, hypercoagulable states, and abdominal aortic aneurysm. Therapy usually involves surgical
+thrombectomy or surgical bypass grafting, and resection of necrotic bowel.
+Nonocclusive Mesenteric Ischemia
+Nonocclusive mesenteric ischemia accounts for 20% of cases of acute mesenteric ischemia of the small
+bowel. Low-flow states, vasospasm (cocaine), and preexisting atherosclerotic disease are risk factors.
+Diagnosis is made by angiography. Treatment involves optimization of cardiac output, avoidance of
+vasospastic medications, and prolonged selective intra-arterial infusion of vasodilators. Anticoagulation
+generally is not necessary but broad-spectrum antibiotics should be administered.
+Mesenteric Venous Thrombosis
+Mesenteric venous thrombosis, usually superior mesenteric vein thrombosis (up to 95% of cases),
+accounts for about 5% to 10% of cases of acute mesenteric ischemia. Risk factors include a history of
+deep venous thrombosis, hypercoagulable states, intra-abdominal inflammation, malignant obstruction,
+portal hypertension, and trauma. Symptoms may be acute or chronic and include abdominal pain,
+anorexia, altered bowel habits, abdominal distention, and gastrointestinal tract bleeding. Because the
+differential diagnosis is broad and includes other causes of acute abdominal pain, the initial evaluation
+usually involves contrast-enhanced CT which is frequently diagnostic of mesenteric venous thrombosis.
+Therapy involves fluid resuscitation, broad-spectrum antibiotics, and anticoagulation. Mesenteric venous
+thrombosis may be an incidental CT finding in patients with portal hypertension, chronic pancreatitis, or
+malignancy. Long-term anticoagulation should be considered unless there is a contraindication.
+Chronic mesenteric ischemia
+Patients with chronic mesenteric ischemia present with episodic ischemic abdominal pain that typically is
+postprandial and becomes worse with time. Patients lose weight because of fear of eating (sitophobia).
+Arteriography of these patients usually shows atherosclerotic stenosis of the origin of at least two of the
+three major visceral arteries. A history of previous vascular disease, diabetes mellitus, hypertension, renal
+insufficiency, and smoking is common. Some patients may have malabsorption, unexplained
+gastroduodenal ulcerations, and small-bowel villous atrophy. A bruit on abdominal examination is
+common. CT angiography and magnetic resonance imaging may be useful in the identification of
+proximal large vessel arterial lesions. Surgical reconstruction or angioplasty with or without stents can be
+therapeutic.
+Note: In accordance with the ACCME Essentials and Standards, everyone involved in planning and
+presenting this CMSRU educational lecture has no relevant commercial relationships or conflicts of
+interest. There is no commercial support for this program. Instructional materials contained in this
+document may include copyrighted material. The copyright law of the U.S. (Title 17, United States Code)
+governs the making of photocopies or other reproductions of copyrighted material. Please do not
+reproduce, or transmit, any portion of this content. This is strictly for use within CMSRU class. This is
+posted only on the Blackboard which is protected by password. This is in compliance with fair use
+regulations.
+
+8
+

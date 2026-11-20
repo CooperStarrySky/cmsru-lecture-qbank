@@ -1,0 +1,45 @@
+{
+ "lecture_id": "gi-w04-lec21",
+ "block": "GI",
+ "week": 4,
+ "lecture": "21 GI Cancer Colon",
+ "contributor": "thirth",
+ "questions": [
+  {
+   "id": "gi-w04-lec21-q01",
+   "source": "slide",
+   "source_ref": "Slides 53, 33, 50",
+   "stem": "Which of the following statements is incorrect?",
+   "choices": [
+    "Hamartomatous polyps are always benign.",
+    "APC is the site of the earliest known mutation in the chromosomal pathway to colon cancer.",
+    "Deletion of the p53 and DCC genes can lead to distant metastasis.",
+    "Villous adenomatous polyps are the most dangerous polyps."
+   ],
+   "answer": 0,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "Hematomaous polyps, we already talked about, they are not um always benign, and they're the syndromes, juvenile polyposis syndrome, Putz-Jeger's syndrome, and the P10 hematomatous tumor syndrome.",
+     "at": "00:31:15"
+    },
+    {
+     "type": "slide",
+     "slide": 53,
+     "image": "img/gi-w04-lec21/slide_53.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 33,
+     "image": "img/gi-w04-lec21/slide_33.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 50,
+     "image": "img/gi-w04-lec21/slide_50.jpg"
+    }
+   ],
+   "note": "A is the incorrect statement. Hamartomatous polyps are mostly benign, but not always. Juvenile polyposis syndrome, Peutz-Jeghers syndrome and PTEN hamartoma tumor syndrome all carry a real cancer risk. The professor said the word \"always\" is what makes it wrong.\nB is true: loss of APC (5q21) is the first step in the chromosomal instability pathway, turning normal mucosa into an early adenoma.\nC is true: p53 and DCC are tumor suppressors whose loss comes late in the adenoma-carcinoma sequence, as the tumor moves toward invasion and metastasis.\nD is true: among adenomas, villous histology carries the highest malignant potential."
+  }
+ ]
+}

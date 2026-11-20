@@ -1,0 +1,248 @@
+=== PAGE 1 ===
+Maldigestion and malabsorption (Monday, November 2, 2026; 10 am)
+Note from Dr. Phadtare: Please note that this ebook is not intended to replica the information presented in
+the lecture slides, but is created to provide foundation to the main concepts presented in the slides. This
+ebook was created using NEJM 2012 367:2419-26, Robbins and Cotran and various other resources.
+Cystic fibrosis (CF)
+Cystic fibrosis (abbreviated as CF) is a genetic disorder that affects the lungs, pancreas, liver, and intestine.
+CF is caused by a mutation in the gene encoding the protein Cystic Fibrosis Transmembrane conductance
+Regulator (CFTR). This protein is involved in the regulation of the components of sweat, digestive fluids,
+and mucus. CFTR regulates the movement of chloride and sodium ions across epithelial membranes, such as
+those in the lungs. High levels of salt in the sweat of patients with cystic fibrosis suggested an abnormality in
+fluid and electrolyte transport in the sweat gland, and it was established that sweat ducts in such patients are
+impermeable to chloride. In the airway, cystic fibrosis patients have decreased Cl- secretion and increased
+Na+ and water re-absorption leading to dehydration of the mucus layer, which finally leads to mucus
+plugging of airways. The abnormally viscous secretions that obstruct organ passages result in most of the
+clinical features of this disorder, such as chronic lung disease secondary to recurrent infections, pancreatic
+insufficiency, steatorrhea, malnutrition, hepatic cirrhosis, intestinal obstruction, and male infertility. These
+manifestations may appear at any point in life from before birth to much later in childhood or even in
+adolescence.
+Pancreatic disease: During normal digestion stomach acid is neutralized by pancreatic bicarbonate, leading
+to the optimal pH for pancreatic enzyme action. Reduced bicarbonate secretion has been demonstrated in CF
+patients regardless of pancreatic function. Reduced bicarbonate secretion inhibits proper digestion because
+pancreatic enzymes are optimally active at basic pH and mutated CFTR affects bicarbonate transport in the
+gut directly. In addition, reduced water content of secretions, precipitation of proteins, and plugging of
+ductules and acini, prevent the pancreatic enzymes from reaching the gut. Packaging proteases for secretion
+is potentially dangerous for a cell and many proteases are made in an inactive form, only to be activated
+when secreted to the right environment. In CF, pancreatic proteases begin to accumulate in the organ because
+of blockages. Eventually the proteases are released inside the pancreatic cells and become activated leading
+to autodigestion of the pancreas and pancreatitis. Most patients with cystic fibrosis (90-95%) have pancreatic
+enzyme insufficiency and present with digestive symptoms and/or failure to thrive early in life. Onset of
+pancreatic insufficiency varies, however, and may occur in patients older than 6 months.
+Patients with pancreatic insufficiency typically present with poor weight gain in association with frequent
+stools that are bulky, malodorous, greasy, and associated with flatulence and colicky pain after
+feeding. The combination of increased energy intake demand at baseline, the added energy intake demand of
+chronic disease, difficulty sustaining energy uptake because of malabsorption, and anorexia associated with
+ongoing lung inflammation leads to poor weight gain. Pancreatic insufficiency predisposes patients to poor
+absorption of fat-soluble vitamins A, D, E, and K. Symptomatic deficiency of any of these vitamins can
+occur before diagnosis or as a later complication of the disease.
+Liver disease: Absence of functional CFTR in epithelial cells lining the biliary ductules leads to reduced
+secretion of chloride and reduction in passive transport of water and chloride, resulting in increased viscosity
+of bile. The biliary ductules may be plugged with secretions. If this process is extensive, obstructive cirrhosis
+complicated by esophageal varices, splenomegaly, and hypersplenism may occur.
+
+1
+
+
+=== PAGE 2 ===
+Gallbladder: Gallstones are more prevalent in patients with cystic fibrosis and as many as 15% of young
+adults with cystic fibrosis have gallstones, irrespective of the status of their pancreatic function. Abnormal
+mucin in the gallbladder and malabsorption of bile acids in patients with CF result in a higher frequency of
+gallstones.
+Celiac disease (CD)
+Celiac disease is an autoimmune disorder, previously called celiac sprue. Celiac disease is precipitated, in
+genetically predisposed persons, by the ingestion of gluten, the major storage protein of wheat and similar
+grains. Originally considered a rare malabsorption syndrome of childhood, celiac disease is now recognized
+as a common condition that may be diagnosed at any age and that affects many organ systems.
+Pathogenesis
+Celiac disease results from the interaction between gluten and immune, genetic, and environmental factors
+The role of gluten
+Celiac disease is induced by the ingestion of gluten, which is derived from wheat, barley, and rye. The gluten
+protein is enriched in glutamine and proline and is poorly digested in the human upper gastrointestinal tract.
+The term “gluten” refers to the entire protein component of wheat; gliadin is the alcohol-soluble fraction of
+gluten that contains the bulk of the toxic components. Undigested molecules of gliadin are resistant to
+degradation by gastric, pancreatic, and intestinal brush-border membrane proteases in the human intestine
+and thus remain in the intestinal lumen after gluten ingestion. These peptides pass through the epithelial
+barrier of the intestine, possibly during intestinal infections or when there is an increase in intestinal
+permeability, and interact with antigen-presenting cells in the lamina propria.
+Mucosal immune responses
+In patients with celiac disease, immune responses to gliadin fractions promote an inflammatory reaction,
+primarily in the upper small intestine, characterized by infiltration of the lamina propria and the epithelium
+with chronic inflammatory cells and villous atrophy. This response is mediated by both the innate and the
+adaptive immune systems. The adaptive response is mediated by gliadin-reactive CD4+ T cells in the lamina
+propria that recognize gliadin peptides, which are bound to HLA class II molecules DQ2 or DQ8 on antigenpresenting cells; the T cells subsequently produce proinflammatory cytokines, particularly interferonγ. Tissue transglutaminase is an enzyme in the intestine that deamidates gliadin peptides, increasing their
+immunogenicity. The ensuing inflammatory cascade releases metalloproteinases and other tissue-damaging
+mediators that induce crypt hyperplasia and villous injury. Gliadin peptides also activate an innate immune
+response in the intestinal epithelium that is characterized by increased expression of interleukin-15 by
+enterocytes, resulting in the activation of intraepithelial lymphocytes expressing the activating receptor NKG2D, a natural-killer-cell marker. These activated cells become cytotoxic and kill enterocytes with surface
+expression of major-histocompatibility-complex class I chain-related A (MIC-A), a cell-surface antigen
+induced by stress, such as an infection. The mechanism of the interaction between the processes in the
+epithelium and lamina propria has not been elucidated.
+Genetic Factors
+Celiac disease does not develop unless a person has alleles that encode for HLA-DQ2 or HLA-DQ8 proteins,
+products of two of the HLA genes. However, many people, most of whom do not have celiac disease, carry
+these alleles; thus, their presence is necessary but not sufficient for the development of the disease.
+Environmental Factors
+Environmental factors include a protective effect of breast-feeding and the introduction of gluten in relation
+to weaning. The initial administration of gluten before 4 months of age is associated with an increased risk of
+2
+
+
+=== PAGE 3 ===
+disease development, and the introduction of gluten after 7 months is associated with a marginal risk.
+However, the overlap of gluten introduction with breast-feeding may be a more important protective factor in
+minimizing the risk of celiac disease. The occurrence of certain gastrointestinal infections, such as rotaviral
+infection, also increases the risk of celiac disease in infancy.
+Epidemiology
+Celiac disease occurs in adults and children at rates approaching 1% of the population. The disease is
+recognized not only throughout Europe and in countries populated by persons of European ancestry but also
+in the Middle East, Asia, South America and North Africa. In most affected people, celiac disease remains
+undiagnosed, although the rate of diagnosis is increasing.
+Clinical manifestations
+Clinical manifestations of celiac disease vary greatly according to age group. Infants and young children
+generally present with diarrhea, abdominal distention, and failure to thrive. However, vomiting, irritability,
+anorexia, and even constipation are also common. Older children and adolescents often present with
+extraintestinal manifestations, such as short stature, neurologic symptoms, or anemia. Among adults, two
+to three times as many women have the disease as men, for unknown reasons. The classic presentation in
+adults is diarrhea, which may be accompanied by abdominal pain or discomfort. Other presentations in adults
+include iron-deficiency anemia, osteoporosis, and incidental recognition at endoscopy performed for other
+reasons, such as symptoms of gastroesophageal reflux. Abdominal pain, constipation, weight loss, neurologic
+symptoms, dermatitis herpetiformis, hypoproteinemia, hypocalcemia, and elevated liver enzyme levels are
+also seen. Some cases are diagnosed because of increased surveillance for celiac disease among people who
+have a family history of the disease and among those with Down syndrome, Turner's syndrome, or type
+1diabetes, all of which are associated with celiac disease. Persons with celiac disease have an increased risk
+of autoimmune disorders as compared with the general population.
+Diagnosis
+The diagnosis of celiac disease requires both a duodenal biopsy that shows the characteristic findings of
+intraepithelial lymphocytosis, crypt hyperplasia, and villous atrophy and a positive response to a gluten-free
+diet. Villous atrophy may persist despite a clinical response to the diet. In most patients, the diagnosis is
+easily established. However, roughly 10% of cases are difficult to diagnose because of a lack of concordance
+among serologic, clinical, and histologic findings.
+Serological testing
+Typical indications for serologic testing include unexplained bloating or abdominal distress; chronic
+diarrhea, with or without malabsorption or the irritable bowel syndrome; abnormalities on laboratory tests
+that might be caused by malabsorption (e.g., folate deficiency and iron-deficiency anemia); first-degree
+relatives with CD; and autoimmune diseases and other conditions known to be associated with CD.
+The most sensitive antibody tests for the diagnosis of CD are of the IgA class. The most used test is for
+antibodies directed against tissue transglutaminase, the enzyme responsible for the deamidation of gliadin
+in the lamina propria. The endomysial IgA antibodies are highly specific markers for celiac disease,
+approaching 100% accuracy. Overall, the sensitivity of the tests for both endomysial antibodies and anti–
+tissue transglutaminase antibodies is greater than 90%, and a test for either marker is considered the best
+means of screening for CD.
+HLA-DQ2 and HLA-DQ8
+HLA-DQ2 allele is identified in 90 to 95% of patients with celiac disease, and HLA-DQ8 is identified in most
+of the remaining patients. Because these alleles occur in 30 to 40% of the general population (with HLA3
+
+
+=== PAGE 4 ===
+DQ2 more common than HLA-DQ8), the absence of these alleles is important for its high negative predictive
+value. Thus, the presence or absence of HLA-DQ2 andHLA-DQ8 is important for determining which family
+members should be screened with serologic testing and is useful for ruling out the disease in patients already
+on a gluten-free diet or for patients in whom the diagnosis is unclear.
+Histological assessment
+Biopsy of the small intestine remains the standard for diagnosing celiac disease. The spectrum of pathologic
+changes in celiac disease ranges from near-normal villous architecture with a prominent intraepithelial
+lymphocytosis to total villous atrophy.
+Nutritional therapy
+Nutritional therapy involves the lifelong elimination of wheat, rye, and barley from the diet. Meats, dairy
+products, and fruits and vegetables are naturally gluten-free and help to make for a more nutritious and
+varied diet. After the diagnosis of celiac disease has been established, the patient should be assessed for
+deficiencies of vitamins and minerals, including folic acid, B12, fat-soluble vitamins, iron, and calcium, and
+any such deficiencies should be treated. All patients with celiac disease should undergo screening for
+osteoporosis, which has a high prevalence in this population. The health care team should include a skilled
+dietitian who monitors the patient's nutritional status and dietary adherence on a regular basis. In children,
+ongoing evaluation includes monitoring of growth and development.
+Complications of celiac disease
+Although the majority of patients who have recurrent or new symptoms when on a supposedly gluten-free
+diet are in fact ingesting gluten, either intentionally or unintentionally, a substantial proportion may have a
+serious complication of celiac disease: intestinal adenocarcinoma, enteropathy-associated T-cell lymphoma,
+or refractory sprue (persistent symptoms and villous atrophy despite scrupulous adherence to a gluten-free
+diet; diarrhea, weight loss, recurrence of malabsorption, abdominal pain, bleeding, and anemia).
+Short bowel syndrome
+In adults Crohn’s disease, malignancy, radiation and acute vascular insult with bowel necrosis may require
+massive resection of the small intestine. Removal of such large portion of the small bowel leads to a
+malabsorptive state called as the short bowel syndrome. In children necrotizing enterocolitis is the most
+common cause for major bowel resection. These surgical resections are usually the result of some emergent
+catastrophic event for the patient. Jejunal resection leads to temporary loss of absorption. However the ileum
+will adapt to this loss over time and help to compensate for the malabsorptive process. However, with a
+major portion of the ileum resected, the osmotic load from above may overwhelm its absorptive capacity.
+The ileum will adapt with growth both in length and diameter as well as lengthening of the villae themselves.
+The colon will also increase its absorptive capacity as well in order to accommodate to the situation.
+Resection of 60 cm of ileum results in vitamin B-12 deficiency because of malabsorption. Loss of 100 cm or
+more of ileum results in bile salt malabsorption and bile salt diarrhea. Loss of the terminal ileum is also a
+loss of regulation and control of the passage of contents into the colon. Without the terminal ileum the
+enterohepatic recycling of bile salts is lost. The liver acts to replace these bile salts but a net deficiency of
+bile salts will result over time nonetheless. In addition, deconjugation of these bile salts by gut bacteria
+causes a return of these salts to the original bile acid state. These bile acids are ineffective in fat absorption
+(micellization) and therefore steatorrhea results. Moreover, the non-absorbed bile salts cause a secretory
+diarrhea in the colon. Finally, gastrin levels increase in many patients with short bowel syndrome. The loss
+of the negative feedback mechanism and increased acid production of gastrin disrupts digestion not unlike
+that seen in Zollinger Ellison syndrome.
+4
+
+
+=== PAGE 5 ===
+Small Intestinal Bacterial Overgrowth (SIBO)
+The consequence of SIBO is nutrient malabsorption. Symptoms may not be apparent or may include
+bloating, abdominal discomfort, diarrhea, weight loss and dyspepsia thereby simulating symptoms of
+functional bowel disease. In the healthy neonate, normal enteric bacteria colonize the GI tract shortly after
+birth. The composition of this flora remains constant throughout life. The GI tract has 10 times more
+organisms than there are cells in the human body. As many as 500 different organisms can colonize with diet
+influencing this. The stomach and small bowel has few organisms (1000/ml). In the terminal ileum the
+aerobic organisms are replaced by enterobacter and coliforms in a concentration approaching 100 million/ml.
+Enteric bacteria help physiologic function by a) further digesting dietary sugars so they may be absorbed b)
+produce vitamin K and folate c) protect the host from pathological bacteria d) metabolize drugs so as they
+can be pharmacologically active (e.g. sulfasalizine is metabolized to 5‐aminsalicylic acid in treating IBD).
+Gastric acid and bile destroy bacteria in the stomach, while digestive enzymes destroy bacteria in the small
+intestine. The ileocecal valve blocks retrograde migration of bacteria into the small intestine. Secretory IGA
+is the largest fraction of immunoglobulins secreted in the body to prevent bacterial proliferation. Gut flora is
+influenced by several factors such as diet, medication, stress, lifestyle, geography and alcohol. A number of
+seemingly diverse conditions lead to SIBO. The majority are caused by intestinal dysmotility. A complex
+and often intertwined series of events lead to malabsorption and diarrhea.
+(i) In type I diabetics with autonomic neuropathy, intestinal motility is slowed resulting in stasis. The
+inflammatory response in the small bowel may lead to mucosal damage with development of mild lactose
+intolerance. Bacteria can also deconjugate bile salts and metabolize carbohydrates into free fatty acids. Both
+the bile acids and the free fatty acids promote diarrhea by stimulation of water and electrolyte secretion
+especially in the colon. The result of this fatty acid production creates an excess CO2, hydrogen, and
+methane causing abdominal distension and flatulence. Fat malabsorption results in steatorrhea. Vitamin B12
+absorption is disrupted.
+(ii) Fistula from the colon into the small bowel due to Crohn’s disease or colonic malignancy creates a
+pathway for bacterial entry from the colon into the small bowel and SIBO.
+(iii) Immunodeficiency syndromes, chronic pancreatitis and cystic fibrosis create an environment in the
+small bowel conducive to the development of SIBO.
+(iv) Scleroderma and its associated formation of multiple wide mouthed diverticulae as a reservoir for
+bacterial overgrowth and concomitant dysmotility, become a source of SIBO.
+(v) Numerous studies demonstrating the periodic use of antibiotics in various clinical scenarios described
+above often improve or temporarily eradicate symptoms of distension, pain and diarrhea.
+Fat maldigestion and malabsorption may occur because of deconjugation of bile acids by intraluminal
+bacteria, allowing their absorption by the jejunum and leading to insufficient concentrations for micelle
+formation and fat absorption. Bacterial deconjugation may also result in the production of substances, such
+as lithocholic acid, which may exert toxic effects on the intestinal epithelium and result in impaired
+absorption of not only fat, but also carbohydrate and protein. Because of the fat maldigestion and
+malabsorption that occurs in the setting of SIBO, deficiencies of the fat‐soluble vitamins A, D and E can
+occur. Vitamin K deficiency is rarely seen in SIBO. Carbohydrate malabsorption may also result from the
+intraluminal degradation of sugars by enteric bacteria and from bacteria‐related decreases in enterocyte
+disaccharidase and brush‐border hydrolase activity, and impaired monosaccharide absorption. Although
+5
+
+
+=== PAGE 6 ===
+overt protein malnutrition is rare in SIBO, a reversible form of protein‐losing enteropathy has been
+described. The absorptive dysfunction and mucosal injury seen in SIBO, along with decreased levels of
+enterokinases that have been described in SIBO, contributes to decreased amino acid and protein precursor
+uptake. Vitamin B12 deficiency is caused by bacterial consumption involving predominantly anaerobic
+organisms within the intestinal lumen before it can be absorbed. Deficiencies of thiamine and nicotinamide
+have also been reported. In contrast, folate levels maybe elevated in SIBO as a result of bacterial synthesis
+and its subsequent absorption.
+Note: For the description of Whipple’s disease and Dumping syndrome, please refer to the slides. Further
+details are not required for these.
+Note: In accordance with the ACCME Essentials and Standards, everyone involved in planning and
+presenting this CMSRU educational lecture has no relevant commercial relationships or conflicts of interest.
+There is no commercial support for this program. Instructional materials contained in this document may
+include copyrighted material. The copyright law of the U.S. (Title 17, United States Code) governs the
+making of photocopies or other reproductions of copyrighted material. Please do not reproduce, or transmit,
+any portion of this content. This is strictly for use within CMSRU class. This is posted only on the
+Blackboard which is protected by password. This is in compliance with fair use regulations.
+
+6
+

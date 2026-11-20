@@ -1,0 +1,1039 @@
+[00:00:01] So I should have mentioned this earlier and I forgot.
+[00:00:04] Um, you also should have the slides with the white
+[00:00:08] backgrounds posted as well.
+[00:00:10] Um, With the Outlook issues last week.
+[00:00:16] I don't think they got posted until this morning, um,
+[00:00:18] but you should have.
+[00:00:21] The same slides, but just with like a white background.
+[00:00:24] So most of it's more just like black and white.
+[00:00:26] So if it's easier for you to like take notes
+[00:00:28] on that, um, So I know it's a little harder
+[00:00:31] with a black background, but you do have like a
+[00:00:34] white background version.
+[00:00:36] I don't know if someone can confirm that it was
+[00:00:37] uploaded.
+[00:00:38] Hopefully it was.
+[00:00:39] OK.
+[00:00:51] OK.
+[00:00:52] You guys still hear me?
+[00:00:53] All right.
+[00:00:58] So we'll move on to the tubular physiology.
+[00:01:04] Um, kind of broke this up into two sections.
+[00:01:06] The first part, probably would fit better with the first
+[00:01:09] lecture, but then it'd be like way too long, so
+[00:01:10] I kind of moved into this part.
+[00:01:12] Um, so just the concept of renal clearance, um, and
+[00:01:16] how it relates to GFR, um, how you would assess
+[00:01:19] GFR or your estimated GFR, um, Kind of measuring the
+[00:01:24] function of the kidney using some of these concepts.
+[00:01:27] Um, then we're gonna move into the reabsorption and secretion
+[00:01:30] in the tubules.
+[00:01:35] So just to review the renal tubules, um, the glomerular
+[00:01:40] filtrate as it passes through the capillaries will then enter
+[00:01:43] the renal tubule.
+[00:01:44] Um, this filtrate, um, goes from the proximal tubule through
+[00:01:48] the loop of Henley, distal tubule collecting tubules duct to
+[00:01:52] go out.
+[00:01:53] So that's just the normal flow.
+[00:01:55] Um, substance, some substances are reabsorbed from the tubules into
+[00:01:59] the blood.
+[00:02:00] Some are secreted from the blood into the tubules.
+[00:02:03] Um, I find that these two terms reabsorbed and secreted
+[00:02:07] can sometimes be confusing because you think if you're talking
+[00:02:09] about the kidneys, things get reabsorbed into the kidneys or
+[00:02:12] secreted from the kidneys, but everything is in the context
+[00:02:15] of the systemic blood.
+[00:02:17] So things are reabsorbed into the blood, things are secreted
+[00:02:22] from the blood.
+[00:02:23] Um, I don't know, I, I feel like some of
+[00:02:25] these kinds of terms seem like they can go either
+[00:02:26] way, but think of it, everything in terms of what's
+[00:02:30] happening.
+[00:02:31] At the blood level, so reabsorbed into the blood, secreted
+[00:02:35] from the blood to the tubules.
+[00:02:38] Um, so, eventually what passes through the entire kidney or
+[00:02:41] your urinary excretion is the glomerular filtrate, it's whatever comes,
+[00:02:47] passes through the glomerulus.
+[00:02:49] Minus whatever gets reabsorbed into the blood, right?
+[00:02:53] It's getting pulled out, so you'd subtract that.
+[00:02:55] And then plus the tubular secretion, so whatever is secreted
+[00:02:59] from the blood into the tubules.
+[00:03:01] And so if you have all these values, you can
+[00:03:03] figure out what the urinary excretion is.
+[00:03:08] There's a couple of different ways that your kidneys are
+[00:03:10] going to handle different substances.
+[00:03:12] Um, so these are Four of the main ones.
+[00:03:16] Um, so in A, um, the substance is freely filtered,
+[00:03:20] so it makes through the glomerulus, and is neither reabsorbed
+[00:03:24] or secreted.
+[00:03:25] So whatever gets filtered goes straight through the tubule and
+[00:03:28] it gets excreted as urine.
+[00:03:29] So you can say that your filtration and excretion are
+[00:03:33] equal.
+[00:03:33] So whatever gets filtered ends up getting excreted.
+[00:03:36] Um, Examples of this is inulin and Creatinine with little
+[00:03:42] asterisk, meaning it's mostly happens this way.
+[00:03:45] Um, it's not fully.
+[00:03:48] freely filtered and excreted.
+[00:03:50] But we'll put a little asterisk there because that's what
+[00:03:52] it's When looking at it, that's what you're kind of
+[00:03:55] gonna, you're gonna assume that.
+[00:03:57] So in B, you can have something that's freely filtered.
+[00:04:01] And then partly reabsorbed.
+[00:04:03] So whatever gets filtered, some of that then moves into
+[00:04:05] the blood.
+[00:04:06] So then what you're excreting is less than what was
+[00:04:09] filtered.
+[00:04:11] Right, because you filter some, some of that goes into
+[00:04:12] the blood, and so it's less than what you originally
+[00:04:14] filtered out.
+[00:04:16] In C, things are freely filtered and then fully reabsorbed.
+[00:04:21] So everything that gets filtered gets reabsorbed back into the
+[00:04:24] blood, so your excretion would equal zero.
+[00:04:28] and you see this with amino acids and glucose.
+[00:04:31] You really shouldn't see any of this in your urine.
+[00:04:34] Um, and then D, you to have something that's freely
+[00:04:36] filtered, um, but then the blood additionally secretes something into
+[00:04:41] the filtrate.
+[00:04:42] Um, so your excretion is actually more than what was
+[00:04:45] originally filtered.
+[00:04:46] Um, an example of this is your organic acids and
+[00:04:48] bases.
+[00:04:50] Um, and so these are the kind of the four
+[00:04:51] ways of thinking about how substances pass through the kidney,
+[00:04:56] um, which makes it difficult to assess the glomerular filtration
+[00:04:59] rate because you need to know what all of these.
+[00:05:02] Um, substances are doing, whether they're being reabsorbed or secreted
+[00:05:06] or passed freely through the glomerulus.
+[00:05:12] So, one of the ways to assess renal function um
+[00:05:17] is to look at renal clearance, which is basically the
+[00:05:21] volume of plasma that is completely cleared of that substance
+[00:05:26] per unit of time.
+[00:05:28] Um, so there's a lot of equations here, um.
+[00:05:32] The clearance, um, times the plasma concentration of your substance
+[00:05:36] is equal to the urine concentration of that substance times
+[00:05:39] its flow rate.
+[00:05:40] OK, so, we are only really concerned at this point
+[00:05:43] with the clearance, so we can rearrange this um equation,
+[00:05:47] so you can remember C equals UV over P.
+[00:05:52] So, UV, um, that's your urine concentration plus your flow
+[00:05:56] rate, or you can think about it as your urinary
+[00:05:58] excretion rate.
+[00:06:00] So, how much are you excreting per unit of time?
+[00:06:04] And then over how much was in your plasma.
+[00:06:07] And so this equation, um, is very often used, um,
+[00:06:11] nephrologists use this a lot, um, to be able to
+[00:06:13] figure out what the renal clearance is.
+[00:06:17] I would keep this equation, at least in this form,
+[00:06:20] um.
+[00:06:21] It's kind of the forefront of your mind.
+[00:06:24] So Unfortunately, there's not a lot of substances that once
+[00:06:28] it gets filtered, go straight through and gets excreted.
+[00:06:31] Um, however, inulin is one of these substances.
+[00:06:35] Um, so we mentioned before, if something is freely filtered
+[00:06:39] and it's neither reabsorbed or secreted, then your filtration and
+[00:06:43] excretion are going to be equal.
+[00:06:45] So that would be a good way of estimating what
+[00:06:46] your GFR is, if you know what's in the plasma
+[00:06:49] and you know how much is being excreted.
+[00:06:51] So you could say that the clearance is equivalent to
+[00:06:55] the glomerular filtration rate if that substance is Filtered and
+[00:07:01] then not reabsorbed or secreted.
+[00:07:03] OK, so only in that one criteria, that A image,
+[00:07:07] a couple of slides back.
+[00:07:09] So if we take our equation here, which is just
+[00:07:12] our um clearance is equal to our excretion rate over
+[00:07:15] the plasma, we can say that it's equivalent to the
+[00:07:18] GFR.
+[00:07:19] OK.
+[00:07:19] So now we can just kind of substitute some of
+[00:07:21] these terms around.
+[00:07:22] So inulin is a plant polysaccharide that's not produced in
+[00:07:26] the body.
+[00:07:27] Um, I can pretty much guarantee everyone has eaten inulin
+[00:07:31] in the last week.
+[00:07:32] Um, it's added to so many foods for fiber.
+[00:07:34] So any food you've eaten that says like high fiber
+[00:07:37] inulin was probably that fiber.
+[00:07:38] It's like added everywhere.
+[00:07:40] Um, so, obviously, it doesn't, doesn't work that way where
+[00:07:43] you can just eat something with inulin, um, because it's
+[00:07:46] a foreign substance and you want to have it a
+[00:07:47] little bit more, um, Uh, precise.
+[00:07:51] Typically, it's administered, administered intravenously.
+[00:07:55] Um, so it's a process of having to try to
+[00:07:56] administer it.
+[00:07:57] Um, plus, if someone already has some kind of pre-existing
+[00:08:00] renal disease, it can make it worse.
+[00:08:02] Um, but ideally, if you were able to introduce this,
+[00:08:06] um, into the system, you can measure what it is
+[00:08:09] in the plasma.
+[00:08:10] Um, you know that all of it gets filtered and
+[00:08:13] then whatever gets filtered also gets excreted.
+[00:08:15] Um, so then you can just kind of put these
+[00:08:18] numbers into that equation.
+[00:08:20] Um, so that you're The um numerator would be 125
+[00:08:25] times 1, is 125 is your urinary excretion rate.
+[00:08:29] So 125 over what was in the plasma as a
+[00:08:32] 1 was 1.
+[00:08:34] So then you can estimate that your GFR is 125
+[00:08:36] mL per minute.
+[00:08:38] Um, however, this is almost never used clinically.
+[00:08:42] Um, I think it is still occasionally done in research,
+[00:08:46] um, but it's not the easiest thing to be able
+[00:08:48] to inject someone with inulin and then wait and then
+[00:08:51] figure all this stuff out.
+[00:08:53] So there are some markers that can be used to
+[00:08:56] assess GFR even if it's not as accurate.
+[00:09:00] Um, one of those that I know you guys talked
+[00:09:01] about this morning was creatinine.
+[00:09:04] Um, creatinine is a byproduct of muscle metabolism, and it's
+[00:09:08] cleared almost entirely by filtration.
+[00:09:11] So for this example, we're just going to assume that
+[00:09:14] whatever gets filtered also gets excreted.
+[00:09:16] Um, and we can use this to see a relationship
+[00:09:19] between creatinine and GFR.
+[00:09:21] It's not going to give us a number.
+[00:09:22] Um, you guys learned that calculator, you can put in
+[00:09:24] your creatinine plus all those other values and it'll actually
+[00:09:27] give you a number.
+[00:09:28] Um, in this case, it's just going to give you
+[00:09:30] like a relationship or um how the GFR is changing.
+[00:09:35] So if um you look at this curve and we'll
+[00:09:38] start with the normal.
+[00:09:40] So your glomerular filtration rate, we'll assume that's normal.
+[00:09:43] Um, your creatinine level in your blood should be about
+[00:09:46] 1.
+[00:09:47] Normal is like 0.8 to, I don't know, 1.4.
+[00:09:51] Um, and I know you learned that like the more
+[00:09:52] muscle mass you have, the higher your creatinine might be
+[00:09:55] if you're older and frail, less muscle mass, your normal
+[00:09:59] might be lower.
+[00:10:00] Which is why when they do creatinine measurements, they usually
+[00:10:04] do more than one measurement.
+[00:10:06] So maybe one when you're first being seen and then
+[00:10:09] if you're in the hospital, like again, a day later,
+[00:10:11] um, so that you can see how your creatinine is
+[00:10:13] changing over time.
+[00:10:15] Um, and what they found is that, um, If your
+[00:10:20] creatinine being measured goes from 1 to 2.
+[00:10:23] So if you double it, it's an inverse relationship and
+[00:10:26] that your GFR has probably gone down by half, OK?
+[00:10:30] Because if your GFR is not working as properly, you're
+[00:10:33] gonna let a lot more pass through, so your creatinine
+[00:10:35] level is going to go up.
+[00:10:37] So it's this inverse relationship and you can see when
+[00:10:39] your GFR goes from 125 to Uh, 61-ish, you can
+[00:10:45] see it's going from like 1 to 2.
+[00:10:46] And then when you do cut that in half, it
+[00:10:48] goes up to 4, cut that in half, 8, etc.
+[00:10:52] Um, so this is an approximate estimate of how your
+[00:10:55] GFR is changing.
+[00:10:57] So it's not giving you a number unless you put
+[00:10:58] into that, you know, online calculator, but it's giving you
+[00:11:02] an estimate of how it is changing.
+[00:11:07] Um, so that's for GFR.
+[00:11:09] If you want to estimate the renal plasma flow, um,
+[00:11:15] You can look at certain molecules and um to assess
+[00:11:19] a renal plasma flow, you're basically looking at if a
+[00:11:23] substance is completely cleared from the plasma.
+[00:11:27] Um, and so in this case, you can use this
+[00:11:29] substance paraaminohypuric acid, PAH, uh, to assess renal plasma flow.
+[00:11:36] So if a substance is fully cleared from the plasma,
+[00:11:40] so whatever's in your plasma, if the kidneys fully clear
+[00:11:43] that and it gets excreted, then you can say your
+[00:11:45] clearance rate is equal to your renal plasma flow because
+[00:11:49] whatever's going into the kidney gets fully cleared.
+[00:11:51] So that's assuming that it gets fully cleared from the
+[00:11:54] plasma.
+[00:11:56] Unfortunately, there's no substance that this happens.
+[00:11:59] Um, however, paraminohypuric acid is the closest thing to that,
+[00:12:04] um, and it's cleared 90%.
+[00:12:07] Um, so Again, we're using the very similar equation that
+[00:12:11] we just used for the GFR.
+[00:12:13] It's still, instead of GFR equals, it's the renal plasma
+[00:12:17] flow, UV over P.
+[00:12:20] So, your excretion rate over what's in the plasma.
+[00:12:23] So again, we're just kind of swapping out some of
+[00:12:25] these terms, assuming we have some of these criteria.
+[00:12:30] So, since pH is only cleared about 90%, um, so
+[00:12:34] it's called the extraction rate is 90%.
+[00:12:36] So, 90% will be cleared.
+[00:12:38] We can still use that substance to Again, estimate the
+[00:12:42] renal plasma flow.
+[00:12:44] Um, and so if we know how much, and again,
+[00:12:47] this has to be injected, so again, not the most
+[00:12:49] straightforward way.
+[00:12:50] Um, it does have to be injected.
+[00:12:52] Um, so if we can measure how much of it
+[00:12:54] is in our plasma, And then measure how much is
+[00:12:57] in the urine times the flow rate, and we can
+[00:13:00] just put those numbers into our equation.
+[00:13:02] So, 585, I didn't put the units in, just too
+[00:13:05] much.
+[00:13:06] So, 585 divided by 0.01, which is what we measured
+[00:13:10] in the plasma.
+[00:13:11] So, if we calculate that out, we're going to get,
+[00:13:14] um, The renal plasma flow of 585.
+[00:13:18] But remember, that's only 90% of what is actually cleared.
+[00:13:21] So we need to adjust for that extra 10%.
+[00:13:24] Um, so we just take that number divided by 0.9
+[00:13:26] to estimate what it would be if that substance was
+[00:13:29] fully cleared from the plasma.
+[00:13:31] So, your renal plasma flow using this would be 650,
+[00:13:34] which is about normal.
+[00:13:36] Um, so this is just one way to, um, assess
+[00:13:39] renal plasma flow again.
+[00:13:42] Not used all that often just because it does have
+[00:13:44] to be, um.
+[00:13:46] Intravenously infused.
+[00:13:52] So those are all I have for like assessment of
+[00:13:54] renal function, the creatinine, um, is probably the most used
+[00:14:00] because it's a very easy thing, um, to assess rather
+[00:14:03] than injecting someone intravenously.
+[00:14:05] Though it is possible if you need to get an
+[00:14:06] exact number, you can do these other methods.
+[00:14:10] OK.
+[00:14:11] So now we're going to move into what's happening in
+[00:14:13] the tubules.
+[00:14:14] Um, I just wanna let you know that I focused
+[00:14:17] more on what happens in the proximal convoluted tubule because
+[00:14:21] that's where a lot of things are, that's where most
+[00:14:23] of the things are reabsorbed.
+[00:14:24] So I kind of focused it more on that.
+[00:14:26] Um, the physiology maintains as you go through the whole
+[00:14:30] entire nephron.
+[00:14:31] Um, so we're focusing more on that, um, and also
+[00:14:34] focusing a little bit more on reabsorption because you have
+[00:14:37] a lot more reabsorption than you do secretion.
+[00:14:39] Um, reabsorption is a much bigger component.
+[00:14:43] Um, so some of the principles of tubular reabsorption.
+[00:14:47] Um, as you can see in this table, looking at
+[00:14:50] a bunch of different substances, uh, glucose, for example, um,
+[00:14:54] 180 g per day is filtered, 180 g per day
+[00:14:58] is reabsorbed, and so zero again, should be excreted.
+[00:15:03] So you can say 100% of the filtered load is
+[00:15:06] reabsorbed.
+[00:15:07] Um, you can see that changes.
+[00:15:08] A lot of them get mostly fully reabsorbed.
+[00:15:12] Um, but if you look at like urea, Only about
+[00:15:15] 50% of it gets reabsorbed.
+[00:15:17] Creatinine, again, this is, you know, a little asterisk, about
+[00:15:21] zero.
+[00:15:21] It's not quite zero, but, um, for all intents and
+[00:15:25] purposes, um, none of it gets reabsorbed.
+[00:15:28] It all gets excreted.
+[00:15:30] Um, so any small change in glomerular filtration or tubular
+[00:15:34] reabsorption can cause a large change in what gets excreted
+[00:15:38] in your urine.
+[00:15:40] Um, and even though the glomerular filtration is non-selective, um,
+[00:15:45] and I, I'm put in parentheses, it's non-selective in terms
+[00:15:47] of like small solutes.
+[00:15:49] It's still a selective with like the larger, um, negatively
+[00:15:52] charged things, but overall, anything that can pass through will
+[00:15:56] get passed through.
+[00:15:57] So it's non-selective in allowing the things that can get
+[00:16:00] through to get through.
+[00:16:01] Um, but the tubular reabsorption is highly selective.
+[00:16:05] So, in certain areas, only sodium will be reabsorbed or
+[00:16:09] only potassium will be reabsorbed.
+[00:16:11] So it's very selective of what gets filtered, when and
+[00:16:14] how much.
+[00:16:19] OK.
+[00:16:20] So, Um, so if we're looking at what is in
+[00:16:25] the lumen of the tubule as it's going through the
+[00:16:27] nephron, um, it needs to go through a few different
+[00:16:30] processes.
+[00:16:31] So, it has to, one, get out of the, the
+[00:16:33] lumen of the tubule.
+[00:16:35] So one has to be able to pass through the
+[00:16:38] membrane to get into the cell, and then also has
+[00:16:40] to be able to pass through into the interstitium to
+[00:16:43] then be transported into the blood.
+[00:16:45] So there's a lot of transporters that are involved in
+[00:16:48] order to get the substance from the lumen, from the
+[00:16:51] filtrate into the blood.
+[00:16:53] Um, and again, I'm putting this in context of the
+[00:16:55] reabsorption, but the opposite would just be with with secretion.
+[00:16:59] So This is done through both active and passive transport.
+[00:17:04] So we are going to go all the way back
+[00:17:06] to MBM.
+[00:17:07] We learned all about those transporters and the membrane structure
+[00:17:10] because all of that's coming back right now.
+[00:17:12] Um, so the ways these solid, solids can move through
+[00:17:15] is either paracellularly, meaning it goes right through or right
+[00:17:19] in between the cells, um, transcellularly where it goes through
+[00:17:24] the cell, um, or bulk flow, which is just kind
+[00:17:27] of mostly through osmosis just gets pulled, um.
+[00:17:31] Through the cells.
+[00:17:34] So, as a um Little reminder of active transport.
+[00:17:39] You have two different types of active transport, primary active
+[00:17:42] transport and secondary active transport.
+[00:17:44] Um, this chart may not make any sense to you
+[00:17:46] right now, but by the end of, you know, I
+[00:17:50] guess your 2nd or 3rd week, you'll be able to
+[00:17:52] look back at this and know where all these things
+[00:17:54] are being moved.
+[00:17:55] I only use this because it just shows a lot
+[00:17:56] of the transporters and I can highlight the ones we're
+[00:17:59] going to focus on.
+[00:18:01] So, remember, primary active transport directly uses ATP.
+[00:18:05] So you can see ATPAs, which is usually are the
+[00:18:08] most abundant primary active transporter.
+[00:18:11] So our sodium potassium active transporter uses ATP um to
+[00:18:15] pump 3 sodiums out, 2 potassiums into the cell.
+[00:18:19] Um, because of the transporter, our concentration in the cell
+[00:18:23] for sodium gets really low.
+[00:18:25] So, we're pumping out the sodium, allowing the intracellular concentration
+[00:18:29] to stay low.
+[00:18:30] Because it's low, our secondary active transporters can start to
+[00:18:34] work.
+[00:18:35] So, our sodium is gonna naturally go down its concentration
+[00:18:39] gradient from high to low, and with it, it's going
+[00:18:42] to bring either glucose, amino acids, um, pretty much any
+[00:18:46] other ion with it.
+[00:18:47] If it brings it with it, it's the co-transporter.
+[00:18:51] Um, in this case with the hydrogen, since it's going
+[00:18:52] the opposite direction, it's an anti-transporter.
+[00:18:55] So because of the active transporter creating that gradient, the
+[00:18:59] secondary active transporter is able to use that gradient to
+[00:19:02] move something into the cell.
+[00:19:05] This is all coming back.
+[00:19:07] I know you guys did a lot of this in
+[00:19:08] GI too, so.
+[00:19:10] OK.
+[00:19:10] And then again, just a little quick reminder of the
+[00:19:13] active and passive transporters, um, all the way on the
+[00:19:15] left side, you can see all the different types from
+[00:19:18] simple diffusion where things can just, if they're able to
+[00:19:21] diffuse through a membrane, they just move from high to
+[00:19:23] low concentration.
+[00:19:25] Passive transport moves from high to low concentration.
+[00:19:28] Um, though with passive diffusion, it is channel mediated, meaning
+[00:19:32] you have to have a channel that allows it to
+[00:19:33] pass through.
+[00:19:35] With facilitated diffusion, that's your carrier, mediated.
+[00:19:39] So you have to be able to To carry that
+[00:19:41] solute through.
+[00:19:42] And then, of course, you have our active and secondary
+[00:19:44] primary transporters.
+[00:19:46] Most of what happens in the kidney starts off with
+[00:19:50] the primary active transporter setting up that gradient so that
+[00:19:53] the secondary active transporter can move certain things into the
+[00:19:58] cell, um, and then facilitated diffusion usually happens on Generally,
+[00:20:04] it usually happens on moving into the interstitial.
+[00:20:07] So Pretty much from facilitated diffusion down are the ones
+[00:20:11] that are most used in the nephron.
+[00:20:19] So, Again, I just want to emphasize that these up
+[00:20:23] here, um, from facilitated diffusion and all the secondary active
+[00:20:27] transport, those are all considered carrier-mediated, uh, meaning they have
+[00:20:32] to have a carrier channel, kind of grab onto the
+[00:20:36] solute, do conformational change, and bring it over to the
+[00:20:38] other side.
+[00:20:40] Um, because of that property, um, and again, you might
+[00:20:42] remember this, um, transport is limited by how many Carriers
+[00:20:47] you have in the enzymatic activity.
+[00:20:49] So simple diffusion, when it's just going down high to
+[00:20:51] low concentration, it's going to be closer.
+[00:20:54] It's not on here, but it would be closer to
+[00:20:55] this red line.
+[00:20:56] Where as you go up in concentration, more and more
+[00:20:58] just diffuses out.
+[00:21:00] So it's a very linear relationship.
+[00:21:02] With the, anything that's carrier related.
+[00:21:06] It's limited.
+[00:21:07] So, for a certain point, as you increase, in this
+[00:21:11] example, it's glucose, um, as you increase glucose, all your
+[00:21:14] carrier transporters are able to grab the glucose, bring it
+[00:21:17] over on the other side, and it's able to do
+[00:21:19] this in a linear fashion, um, up until it gets
+[00:21:22] to a certain point called the transport maximum.
+[00:21:25] Um, and this is where all the carrier proteins are
+[00:21:28] already busy.
+[00:21:29] Taking, you know, the glucose and transporting it, that all
+[00:21:33] the glucose can now just pass through cause there's not
+[00:21:35] enough carriers to be able to transport it across.
+[00:21:38] So a bunch of it just gets, you know, overwhelms
+[00:21:40] the transporters, just keeps passing through.
+[00:21:42] And that's why in uncontrolled diabetes mellitus, you will see
+[00:21:46] glucose in the urine.
+[00:21:47] It's because you've overwhelmed how many carriers you have available
+[00:21:51] to move the glucose.
+[00:21:53] Um.
+[00:21:54] So a lot of substances have transport maximums.
+[00:21:57] Um, so you can see glucose here, the other ones
+[00:22:00] have much lower ones.
+[00:22:02] If everything is working fine, you should never come close
+[00:22:04] to your transport maximum.
+[00:22:06] Um, but glucose is kind of the one that you
+[00:22:10] probably see more often because you can see glucose in
+[00:22:12] the urine, um, when it's not supposed to be there.
+[00:22:15] Um, and then you can see in this chart as
+[00:22:17] you get to a certain level, um, the reabsorption kind
+[00:22:20] of, uh, levels out and the amount that's getting excreted
+[00:22:24] increases.
+[00:22:25] Um, so if you have a blood glucose of 500,
+[00:22:28] you're going to have your normal amount reabsorbed, but you're
+[00:22:32] going to have a lot of it being excreted, which
+[00:22:34] is why you can look at how much glucose is
+[00:22:35] in the urine to kind of assess, um, what's happening
+[00:22:39] in the kidneys and also what's happening with the glucose
+[00:22:42] in the blood.
+[00:22:45] OK.
+[00:22:45] Is everyone OK with that?
+[00:22:52] Um, so, Which transport mechanism moves glucose from the tubular
+[00:23:01] lumen, so what's in the lumen, to the epithelial cell.
+[00:23:07] So, primary active transport, secondary active transport, facilitated diffusion, simple
+[00:23:10] diffusion, or osmosis.
+[00:23:12] Um, and actually, I'm going to We're gonna skip that
+[00:23:18] one for now.
+[00:23:20] Because I didn't show you the transporters.
+[00:23:22] Um, We're gonna skip to the next one.
+[00:23:26] So you have a proximal tubule exposed to an inhibitor
+[00:23:29] of sodium, uh, potassium ATPAs.
+[00:23:33] Before epithelial injury occurs, um, what happens is sodium-coupled glucose
+[00:23:38] uptake across the apical membrane?
+[00:23:41] So if your ATPAs isn't working.
+[00:23:44] What's the next step that would be impaired?
+[00:24:09] Who says A E.
+[00:24:14] See.
+[00:24:15] D.
+[00:24:16] OK.
+[00:24:17] Does anyone want to explain your answer?
+[00:24:20] Everyone that answered ended up getting it correct, but.
+[00:24:23] If we have ATPAs not working, and that's why I
+[00:24:26] put before epithelial injury occurs, because if you don't have
+[00:24:29] ATP working, pretty much everything's gonna, you know, go kaput.
+[00:24:33] So if your ATPA isn't working, what's happening to the
+[00:24:36] concentration gradient?
+[00:24:39] You're not creating that concentration gradient.
+[00:24:41] So you're not pumping the three sodiums out, concentration inside
+[00:24:45] the cell stays high, and so then your secondary active
+[00:24:49] transporters can't work.
+[00:24:50] So then you will not have any way of getting
+[00:24:52] the glucose into the cell.
+[00:24:59] OK.
+[00:25:00] So another one, a little bit more clinical.
+[00:25:02] Um, 56-year-old woman with type 2 diabetes mellis comes to
+[00:25:06] the office for follow-up.
+[00:25:08] Her hemoglobin A1C is 8.2 despite adherence to metformin.
+[00:25:12] An additional oral medication is prescribed.
+[00:25:15] Four weeks later, her fasting plasma glucose has decreased from
+[00:25:19] 182 to 132, but urinalysis shows marked glucosurea.
+[00:25:24] Serum creatinine is unchanged.
+[00:25:31] So if we're only looking at this part, what information
+[00:25:34] do you have from this vignette?
+[00:25:45] Yeah, so, yeah, she has diabetes.
+[00:25:48] What's her kidney function like?
+[00:25:52] Yeah, kidney's probably working fine.
+[00:25:53] OK, so, you know, her clinical state, you know, her
+[00:25:57] kidneys are working fine, so things should be working fine.
+[00:25:59] It's not like a kidney dysfunction that you're worried about.
+[00:26:03] So if her plasma glucose has decreased, but she still
+[00:26:07] has glucose in her urine.
+[00:26:12] What are you getting out of those two statements?
+[00:26:29] Mhm, yup, so you're not being, so you're not moving
+[00:26:33] glucose from the tubule lumen into the blood.
+[00:26:37] OK, so this drug that she's been getting is inhibiting
+[00:26:40] that.
+[00:26:41] OK.
+[00:26:41] So just sometimes when you get this, you have to
+[00:26:42] be like, OK, what is actually being asked here?
+[00:26:45] OK, so which of these medications, so we said it's
+[00:26:47] inhibiting something.
+[00:26:50] Um Which process is it inhibiting?
+[00:26:54] And I'll let you read these because they're kind of
+[00:26:56] long.
+[00:27:35] Are there any that you can eliminate right off the
+[00:27:37] bat?
+[00:27:40] Or put him down as less likely.
+[00:27:46] D.
+[00:27:47] So, Sorry, I didn't, I just heard someone saying something.
+[00:27:52] OK, so.
+[00:27:54] What about A?
+[00:27:56] Does anyone think that can be eliminated or is that
+[00:27:58] still possible?
+[00:28:02] Yes.
+[00:28:02] So, it can be eliminated because we are talking about
+[00:28:04] the kidneys and it's probably not muscle-related, but I mean,
+[00:28:07] the muscles can pull glucose into the muscles in order
+[00:28:10] to lower glucose in the blood.
+[00:28:12] But if we're inhibiting that, that means we're gonna get
+[00:28:14] higher glucose in the blood.
+[00:28:16] So even if we're not Even if you see this
+[00:28:18] on step and you aren't like focused on renal, that
+[00:28:20] it has to be something related to the kidney, it's
+[00:28:22] still going to be eliminated because it's going to kind
+[00:28:24] of do the opposite of what you'd want.
+[00:28:26] In that same vein, you have intestinal epithelial cells.
+[00:28:30] I know you guys just got out of GI, but
+[00:28:32] again, we're going to focus on the kidneys, um.
+[00:28:35] This is usually not any kind of mechanism, um, but
+[00:28:38] you can.
+[00:28:40] You know, at least on the exam here, uh, you
+[00:28:42] will learn more about these, uh, different transporters in the
+[00:28:45] next couple of slides, but you can at least eliminate
+[00:28:47] the epithelial cells in the intestines.
+[00:28:49] Um.
+[00:28:51] Facilitated diffusion of glucose across the basolateral membrane of proximal
+[00:28:55] tubule cells.
+[00:28:58] Why does that one work or not work?
+[00:29:07] So what is it preventing?
+[00:29:19] OK.
+[00:29:21] What was that?
+[00:29:26] So Um, well, it's not really going to cross through
+[00:29:30] passive diffusion, um, so, So if you have the facilitated
+[00:29:38] diffusion or you're blocking glute 2, which is on the
+[00:29:41] baso basolateral membrane, where is that located?
+[00:29:57] I'll give you.
+[00:29:58] OK.
+[00:29:59] So in this case, it's going to, if you're preventing
+[00:30:02] it from leaving the cells into the interstitium, that I
+[00:30:07] suppose could work, right?
+[00:30:08] You're still not getting it into the blood if you're
+[00:30:12] preventing it at the vasilateral membrane, but you're still getting
+[00:30:15] glucose into the cell.
+[00:30:17] And I'm sure, I don't know the pathophysiology, but I'm
+[00:30:20] sure if you have an overly loaded amount of glucose
+[00:30:23] in a cell, it's probably not gonna be great.
+[00:30:26] And so you're still getting it out of the tubules,
+[00:30:27] but now it's kind of like stuck in the cell.
+[00:30:29] So this is just probably not gonna work.
+[00:30:31] Um, it's probably not gonna be a great target.
+[00:30:34] Um, sodium-dependent glucose uptake across the apical membrane, oh wait,
+[00:30:38] we said that, intestinal, um, we're not talking about that
+[00:30:40] one.
+[00:30:41] and then facilitated diffusion of sodium.
+[00:30:44] Um, again, facilitated diffusion of sodium, typically when you're talking
+[00:30:48] about sodium, um, at least its role in glucose, it's
+[00:30:52] going to be the ATP dependent sodium, not a facilitated
+[00:30:55] glucose, uh, sodium.
+[00:30:57] So the answer is sodium-dependent glucose uptake across the apical
+[00:31:00] membrane.
+[00:31:01] So that first step where you're having it leave the
+[00:31:03] tubule to go into the cell interstitium into the blood,
+[00:31:06] you're blocking it at that first step.
+[00:31:09] OK, so it's not even able to leave the lumen.
+[00:31:11] So it's staying right in the lumen.
+[00:31:13] Um, and I kind of put this early on, um,
+[00:31:16] because I think you can still answer it even if
+[00:31:18] you don't know what glue and SGLTs are just by
+[00:31:21] knowing where Um, that things are moving from the tubule
+[00:31:27] into the cell and then out of the cell.
+[00:31:29] So knowing what's on the apical membrane versus the basilateral
+[00:31:32] membrane.
+[00:31:34] OK.
+[00:31:34] So now we're gonna talk about the glucose transporters, um,
+[00:31:37] because If I wanted to be tricky, and I'm not,
+[00:31:41] I swear, um.
+[00:31:43] On an exam, I could just have all these same
+[00:31:45] things and have them all be glute 2 or have
+[00:31:48] ones that are just like not possible.
+[00:31:50] So this you could have answered without knowing what glute
+[00:31:53] 2, glute 1, SGLTs are just by knowing where those
+[00:31:56] transporters are either on the apical membrane or the basilateral
+[00:32:00] membrane.
+[00:32:02] OK Um, so this will kind of help to answer
+[00:32:06] that question.
+[00:32:07] Um, I purposely put it in front just to see
+[00:32:10] where you guys were with what you knew.
+[00:32:12] Um, so the tubular lumen, this is where we have
+[00:32:15] all, in that example, all of our glucose is coming
+[00:32:17] in here, and we don't want to block this glue
+[00:32:20] on this side.
+[00:32:23] Because we're still gonna get our glucose inside and then
+[00:32:25] we're just gonna get that big accumulation of glucose inside
+[00:32:28] the cell.
+[00:32:29] And even though it's preventing it from going into the
+[00:32:31] blood, it's still not in a great location.
+[00:32:33] So we want to start thinking about how can we
+[00:32:35] block the stuff on this side of the cell from
+[00:32:39] even going into the cell, which is where a lot
+[00:32:41] of the targets are, is blocking it before it even
+[00:32:43] goes into the cell.
+[00:32:45] So there's 2 different types of glucose transporters, um, Sodium-dependent
+[00:32:51] glucose transporters and then just glucose transporters.
+[00:32:55] So, the sodium-glucose transporters, SGLT2 and SGLT1, um, those are
+[00:33:00] located on the brush borders of the proximal tubule cells.
+[00:33:04] Um, and again, they're, they're secondary active transporters.
+[00:33:07] So they're relying on the primary active transporter of our
+[00:33:11] Sodium potassium pump on the side.
+[00:33:13] So we pump out the sodium, or sodium inside is
+[00:33:16] going to be low, which means that sodium's going to
+[00:33:18] move down its concentration gradient and with it bring glucose.
+[00:33:21] Um, 90% of the glucose is reabsorbed using the SGLT2,
+[00:33:26] which is in the very early part of the proximal
+[00:33:28] convoluted tubule.
+[00:33:30] They kind of break up that proximal convoluted tubule into
+[00:33:32] like different sections or segments.
+[00:33:34] So, in that very first segment, about 90% of the
+[00:33:36] glucose is going to be reabsorbed using SGLT2.
+[00:33:40] Um, in the latter parts of the proximal convoluted tubule,
+[00:33:43] um, more like segment three.
+[00:33:46] The remaining will be reabsorbed by SGLT1.
+[00:33:50] So most, so if you were to see a question
+[00:33:54] about Anything having to do with glucose, changing the amount
+[00:33:58] of glucose that either gets reabsorbed or secreted, um, which
+[00:34:02] one do you think is going to have a bigger
+[00:34:03] effect, inhibiting SGLT2 or SGLT-1?
+[00:34:08] SGLT 2.
+[00:34:09] OK.
+[00:34:09] So if you ever see a question where some are
+[00:34:11] saying like buy SGLT2, some buy SGLT1, um, you can
+[00:34:15] easily eliminate SGLT1.
+[00:34:17] Um, as far as I know, there's nothing.
+[00:34:20] No useful drug that inhibits SGLT-1 because it doesn't do
+[00:34:25] much.
+[00:34:26] Um, so, if in this question, the last question you
+[00:34:29] saw, anything with SGLT one, you can almost eliminate that
+[00:34:32] exactly.
+[00:34:33] Uh, for glucose transporters, um, glute 1 and 2, and
+[00:34:38] these are on the basilateral side.
+[00:34:40] Um, so these are your facilitated diffusion.
+[00:34:44] So you have a high concentration of glucose because of
+[00:34:47] your secondary active transporter, because you have high levels of
+[00:34:50] glucose, it can go down its own transporter into the
+[00:34:53] interstitium which eventually get into the blood.
+[00:34:56] Um, so, glute 2 is in segment S1.
+[00:35:00] Uh, glute 1 is in segment S3.
+[00:35:03] So at least they kept the numbers the same.
+[00:35:05] So in the early parts of the proximal convoluted tubule,
+[00:35:08] it's SGLT 2 and glute 2.
+[00:35:11] And then in those latter portions, it's SGLT 1 and
+[00:35:15] glute 1.
+[00:35:16] OK, so remember 2 comes first and then 1.
+[00:35:19] Um, and most of the export is going to be
+[00:35:21] in that proximal segment, the very early proximal segment using
+[00:35:24] SGLT2 and glute 2.
+[00:35:30] Is everyone OK with that?
+[00:35:34] Um, so, another thing that very often gets reabsorbed, um,
+[00:35:37] pretty much throughout the nephron, but especially in the proximal
+[00:35:40] convoluted tubule is water.
+[00:35:42] Um, and because we have solutes that are going to
+[00:35:46] be passed through through its own transporters or through active
+[00:35:49] or secondary transporters, we have all those solutes that are
+[00:35:51] actively or passively being passed through to the interstitium.
+[00:35:56] Because we have a lot of solutes moving towards interstitium,
+[00:35:59] we're creating a concentration.
+[00:36:01] Uh, difference.
+[00:36:02] So, of course, we've all learned about osmosis.
+[00:36:05] So if you have a lot of solutes in the
+[00:36:06] interstitium, it's going to pull water in that direction.
+[00:36:10] So water can move either through the tight junctions, the
+[00:36:13] paracellular path.
+[00:36:15] Um, these tight junctions are not actually tight.
+[00:36:18] Um, Things can very easily pass through them, um, even
+[00:36:21] though they're so-called tight junctions.
+[00:36:22] Uh, Water and other things can easily pass through.
+[00:36:25] Um, it can also go directly through the epithelial cells.
+[00:36:30] Um, and as water is being passed either through the
+[00:36:34] cells or in between the cells, um, so much of
+[00:36:37] that water can flow through that often it can carry
+[00:36:42] some additional solutes with it.
+[00:36:44] So it's like a big wave of water gets moved
+[00:36:46] because of osmosis, and with it will bring even more
+[00:36:49] solutes.
+[00:36:49] So it's called a solvent drag, um, which is very
+[00:36:52] similar to bulk flow.
+[00:36:54] Um, somehow they're different, but to me, It's basically the
+[00:36:58] same thing.
+[00:36:58] You're getting like a bulk of water carrying solutes.
+[00:37:01] Um, so solvent drag and bulk flow, you can think
+[00:37:03] of those as being the same.
+[00:37:05] Um, so because water's moving through, it's going to equal
+[00:37:08] out thesmolarity, um, and that's how you're going to get
+[00:37:11] more water being reabsorbed into the blood.
+[00:37:15] And I'm sure you've heard water follows sodium.
+[00:37:18] So in the case where you have a lot of
+[00:37:20] sodium reabsorption, you're going to influence the amount of water
+[00:37:23] that's being reabsorbed.
+[00:37:24] If you increase sodium reabsorption, you're going to increase water
+[00:37:26] reabsorption.
+[00:37:28] Um, in the proximal convoluted tubules, water can pretty easily
+[00:37:32] move through.
+[00:37:33] So that's where a majority of the water is being
+[00:37:35] reabsorbed.
+[00:37:36] But as you get to the loop of Henley in
+[00:37:38] the distal parts, it's a lot less permeable.
+[00:37:41] So, in the descending limb, um, that part is still
+[00:37:45] water permeable, but as you come up to the thick
+[00:37:47] ascending limb, it's pretty much water impermeable from that point
+[00:37:51] on.
+[00:37:52] Um.
+[00:37:53] So water can move in different areas, much more likely
+[00:37:56] to be reabsorbed early in the nephron, a lot less
+[00:37:58] likely later in the nephron.
+[00:38:05] So, a lot of the control of all the electrolytes
+[00:38:08] and water and everything in your body has to do
+[00:38:10] with what hap with what is happening with sodium.
+[00:38:13] Sodium pretty much controls all other ions.
+[00:38:16] So, if we have a lot of sodium reabsorption, so
+[00:38:20] sodium is leaving the cell.
+[00:38:23] Um, we're leaving a lot of, we're taking out a
+[00:38:25] lot of the positive ions, so you're leaving an area
+[00:38:28] more negative, so you're creating a negative electrical potential.
+[00:38:31] Certain things like chloride don't want to be with all
+[00:38:34] the other negative electrons, plus, it likes to be paired
+[00:38:37] up with sodium.
+[00:38:38] So if you have a lot of sodium that's being
+[00:38:40] reabsorbed, you're creating a much larger negative electrochemical potential or
+[00:38:45] difference, and so chloride is going to almost follow sodium.
+[00:38:49] Not the same way as water with osmosis, but because
+[00:38:52] of the electrical potential difference.
+[00:38:54] Um, so it's one way that you're going to get
+[00:38:56] chloride through.
+[00:38:57] Um, the other way is because when sodium leaves, we
+[00:39:00] just said that water follows it.
+[00:39:01] As water follows sodium, you're, um, concentrating the fluid, and
+[00:39:08] so because chloride becomes concentrated, it will go down its
+[00:39:11] concentration and kind of follow sodium and water along wherever
+[00:39:15] it's going.
+[00:39:16] Um, so those are two ways that you're going to
+[00:39:18] get chloride to follow, right?
+[00:39:20] Sodium's 1 L, then water follows, and then chloride will
+[00:39:23] follow along with that.
+[00:39:24] Um, It also has an effect on urea.
+[00:39:28] Um, so again, as water is being reabsorbed, you're changing
+[00:39:32] the concentration of that area and so you can, if
+[00:39:34] you have more water being reabsorbed, the area, the concentration
+[00:39:38] of urea is going to go up.
+[00:39:39] Um, in the early parts of the nephron, urea cannot
+[00:39:43] pass through, um, but that concentration difference kind of stays.
+[00:39:48] And so as it passes through, especially to Um, the
+[00:39:51] inner medullary collecting ducts where there are transporters, that concentration,
+[00:39:57] um, difference stays and then when it gets to where
+[00:40:00] there is a transporter, it gets transported out of that
+[00:40:03] location.
+[00:40:04] Um, so, um, I showed you a couple of slides
+[00:40:06] ago, what gets reabsorbed and excreted.
+[00:40:08] Um, only about half of urea is reabsorbed from the
+[00:40:11] tubules.
+[00:40:12] Um, so you can see with sodium reabsorption, it has
+[00:40:15] an effect on chloride reabsorption.
+[00:40:17] Urea reabsorption, water movement, so really everything just kind of
+[00:40:21] follows sodium.
+[00:40:25] Um, so that was kind of like the, the general
+[00:40:28] overview of like what is being moved where.
+[00:40:31] Um, so now we're gonna talk about like in these
+[00:40:34] segments, what the majority is being secreted or reabsorbed.
+[00:40:39] Um, And again, I didn't go into a ton of
+[00:40:43] detail on each one of these segments cause when you
+[00:40:44] get to your sodium water homeostasis lectures on Wednesday, Doctor
+[00:40:48] Weissberg is gonna go over every single part of this
+[00:40:51] where every single A piece of salt gets moved in
+[00:40:55] your tubule, so I'm only kind of doing this in
+[00:40:56] a general sense.
+[00:40:58] Uh, but if we look at what happens in the
+[00:41:00] proximal tubule, as I said before, 65% of sodium, water,
+[00:41:04] chloride are reabsorbed.
+[00:41:06] 100% of glucose and amino acids are reabsorbed, so nothing
+[00:41:10] should ever get past the proximal convoluted tubule.
+[00:41:13] Um, Most of the things get reabsorbed in this area
+[00:41:17] because the epithelial cells are very highly metabolic, meaning there's
+[00:41:20] a large number of mitochondria, um, which means more ATP
+[00:41:24] for all those ATPAs.
+[00:41:26] Uh, it also has an extensive brush border, so all
+[00:41:28] those little like curves increase the surface area, so there's
+[00:41:31] more room to move the sodium chloride and water.
+[00:41:35] Um I really wish I liked this image on the
+[00:41:39] right more.
+[00:41:40] It is extremely useful.
+[00:41:42] It just doesn't, it doesn't work for my brain cause
+[00:41:45] I like to look at an image and know what
+[00:41:46] it wants and not have to think through it so
+[00:41:48] clearly, but it actually is a very good image.
+[00:41:51] Um, so if we, what this is pretty much telling
+[00:41:55] us is everything is being compared to this one value
+[00:41:58] of sodium and water.
+[00:42:00] Um, so what's listed as one is the amount of
+[00:42:05] a substance in the tubule.
+[00:42:07] Compared to what is in the plasma.
+[00:42:10] So, if you have a certain amount of pla like
+[00:42:13] sodium in the plasma, usually that same concentration makes it
+[00:42:16] through to the filtrate.
+[00:42:18] So because that's pretty equal, sodium is a one.
+[00:42:22] because water follows sodium, you can also say the osmolarity
+[00:42:25] is a one.
+[00:42:27] Whatever your plasma osmolarity is, it's the same osmolarity when
+[00:42:31] it first gets into the tubule.
+[00:42:32] So these are all compared against this 1 to 1
+[00:42:35] ratio, essentially.
+[00:42:38] Um, and so anything that is below that one, which
+[00:42:41] is called TF over P.
+[00:42:43] So, um, the tubule filtrate over plasma.
+[00:42:49] Um, anything less than 1 means that it's being reabsorbed
+[00:42:54] more avidly than water.
+[00:42:56] OK?
+[00:42:56] And so it kind of makes sense because you said
+[00:42:58] 65% of your water is getting reabsorbed in this area
+[00:43:01] and all of your glucose and amino acids are.
+[00:43:03] So you can see that it's It's being reabsorbed much
+[00:43:07] higher than water is, so you're kind of comparing everything
+[00:43:09] to the salt and water line.
+[00:43:11] Um, and so then other things are just reabsorbed a
+[00:43:16] little bit less than water.
+[00:43:18] Um I don't love it because it makes me think
+[00:43:21] that like, you know, glucose is going down, so you
+[00:43:23] think it's being reabsorbed less than and then creatinine is
+[00:43:27] being reabsorbed or secreted even.
+[00:43:29] Um, so you kind of have to think through it
+[00:43:31] cause it's all being pretty much compared to the water,
+[00:43:35] osmolarity and the sodium.
+[00:43:37] Um, but it also makes sense that we said glucose,
+[00:43:39] where does most of the glucose get reabsorbed?
+[00:43:43] Where, where in the proximal convoluted tubule?
+[00:43:46] Yeah, the S1.
+[00:43:47] And so you can see as you move down the
+[00:43:49] proximal tubule length, um, most of your glucose and amino
+[00:43:53] acids is being reabsorbed in that initial part and then
+[00:43:56] it kind of, um, Somewhat goes down near the end.
+[00:44:03] OK.
+[00:44:04] So dirt in the loop of Henley, um, there's a
+[00:44:06] lot of different areas for reabsorption.
+[00:44:08] Um, in the descending limb.
+[00:44:11] Coming down here, um, it's still permeable to water, but
+[00:44:15] a lot less permeable to other solutes.
+[00:44:18] So in this segment, you're going to see a lot
+[00:44:19] of water leaving, but you're not going to see a
+[00:44:22] lot of solutes leaving.
+[00:44:24] Um, as you go up to the thick segment of
+[00:44:27] the ascending limb, um, this is where the remaining 25%
+[00:44:31] of sodium chloride and potassium are reabsorbed.
+[00:44:35] In this section, it's completely impermeable to water, so all
+[00:44:38] you're doing is reabsorbing those solutes without disturbing the water
+[00:44:42] that's in the tubule.
+[00:44:44] Um, movement across this membrane, um, is mediated by the
+[00:44:48] sodium chloride potassium co-transporter.
+[00:44:51] Um, it's NKCC2.
+[00:44:54] Um, it's basically sodium, potassium, and then 2 chlorides.
+[00:44:59] Um, and so you can see down here that because
+[00:45:02] of this, you're going to get a good amount of
+[00:45:04] sodium chloride and potassium being reabsorbed through this specific channel.
+[00:45:12] As we move through to the convoluted, or sorry, the
+[00:45:14] distal convoluted tubule and the collecting duct or collecting tubules
+[00:45:18] and duct, um, these are also Uh Unintuitively, unintuitively, unintuitively,
+[00:45:26] not intuitively, um, categorized.
+[00:45:29] So it splits the early distal convoluted tubule as one
+[00:45:33] part and then the late distal convoluted tubule and the
+[00:45:37] collecting tubule as another because histologically, they're much closer related,
+[00:45:43] um.
+[00:45:45] Why it's not all part of the collecting tubule, I
+[00:45:47] don't know.
+[00:45:47] But, so the distal condylar tubule is separated into the
+[00:45:52] first part, which does its own thing, and then the
+[00:45:54] second part, which does the same thing as the collecting
+[00:45:55] tubules.
+[00:45:56] So in the early part of the distal uh conbular
+[00:45:59] tubule, it reabsorbs most ions and again, no water.
+[00:46:03] So this is part of the diluting segment.
+[00:46:06] Um, so since you're getting rid of a lot of
+[00:46:07] the ions and not the water, you're leaving more water
+[00:46:10] in there, so you're helping to dilute what's eventually going
+[00:46:12] to be your urine.
+[00:46:13] Um, and then that little bit of chloride, sodium and
+[00:46:16] chloride that's left, the 5%, it's going to be reabsorbed
+[00:46:19] via the sodium chloride co-transporters.
+[00:46:24] Um, you can just see in this image, like where
+[00:46:26] in the segment they're talking about.
+[00:46:28] So this part, sodium chloride, calcium, magnesium, most of the
+[00:46:31] other ions, no water.
+[00:46:33] The late distal convoluted tubule and the collecting tubule, um,
+[00:46:36] there's different cells that kind of do different things.
+[00:46:39] Um, the principal cells reabsorb.
+[00:46:42] Uh, sodium, water only if ADH, you know, allows it
+[00:46:48] to.
+[00:46:48] Um, ADH is what puts all those aquaporins in.
+[00:46:51] And so if ADH decides, says, you know, it's increased
+[00:46:54] and it needs more aquaporins, they'll add the aquaporins which
+[00:46:57] allows water to go through.
+[00:46:58] Normally, water won't go through until ADH puts those aquaporins.
+[00:47:03] Um, there's also intercalated discs.
+[00:47:06] Um, a lot of this you're gonna be, you're gonna
+[00:47:07] learn about in your asset and base lectures, um, because
+[00:47:11] this is where a lot of that asset-based stuff, you
+[00:47:13] have like, I think 2 separate lectures, maybe like 3
+[00:47:17] hours' worth, um.
+[00:47:19] Of acid-based stuff.
+[00:47:20] So you're going to learn all about that in a
+[00:47:22] lot more detail, but the intercalated cells are the major
+[00:47:25] role in acid-based regulation.
+[00:47:28] The type A intercalated cells reabsorb potassium and secrete hydrogen,
+[00:47:34] whereas a type B secrete bicarb and reabsorb hydrogen.
+[00:47:38] Um, so this is where you're going to balance out
+[00:47:40] basically that bicarb pathway, whether you need to get rid
+[00:47:43] of the hydrogens in your urine or if you need
+[00:47:46] to, um, You know, move right or left on that
+[00:47:48] pathway to either create more carbon dioxide or more bicarb.
+[00:47:52] And again, you get a lot of detail on all
+[00:47:54] that stuff.
+[00:47:57] OK.
+[00:47:57] And so this kind of puts it all together.
+[00:47:59] Um, I know I didn't cover a lot of this,
+[00:48:01] but I do like this image because it kind of
+[00:48:04] summarizes all of these things, especially as you go through
+[00:48:06] your Wednesday and Friday lectures.
+[00:48:09] Um, I think it's a nice picture to kind of
+[00:48:10] go back and be like, OK, what were they talking
+[00:48:11] about on Wednesday with the sodium and water?
+[00:48:14] What were they talking about on Friday with the potassium?
+[00:48:16] Um, so you can see in the proximal convoluted tubule,
+[00:48:19] um, a lot of water, sodium chloride reabsorption as you
+[00:48:23] go down the distal.
+[00:48:24] It's a lot of water reabsorption.
+[00:48:26] As you start to come up the ascending, it's a,
+[00:48:28] there's no water essentially in a lot of the solutes
+[00:48:31] that are being reabsorbed.
+[00:48:32] And as you get into the distal convolut tubule.
+[00:48:35] And the collecting tubule, um, you can get some water
+[00:48:39] leaving only through ADH, ADH signals for it to be
+[00:48:43] reabsorbed, and then the distal convoluted tubules and all your
+[00:48:47] different cells will help with the regulation of your hydrogens,
+[00:48:51] um, your acid balance or acid-base balance.
+[00:48:54] Um, and again, this chart on the right, again, it
+[00:48:58] is very useful.
+[00:48:59] It's not my preference.
+[00:49:01] Um, but you can see in the proximal tubule, you
+[00:49:03] can see your glucose, amino acids are all being reabsorbed
+[00:49:05] there, um, where you can see your initially sodium chloride
+[00:49:10] water, um.
+[00:49:13] In this segment, um, That's why it's useful, but it's
+[00:49:17] not initially good for my brain.
+[00:49:20] Um, when I first looked at this, I was like,
+[00:49:22] why is sodium and chloride going up and then down?
+[00:49:25] And I was very confused about why there's this bump.
+[00:49:28] But you have to remember that everything is based off
+[00:49:31] pretty much the osmolarity.
+[00:49:33] So in the initial part of the loop of Henley,
+[00:49:37] so in like the descending part, what is mostly being
+[00:49:39] reabsorbed?
+[00:49:42] Water.
+[00:49:43] So even though sodium chloride and potassium aren't changing because
+[00:49:48] you're reabsorbing a lot of that water.
+[00:49:51] It looks like it's going up.
+[00:49:52] And then as you're going on the ascending part, less
+[00:49:55] water leaves, and more solutes, so then that's why it
+[00:49:58] goes back down again.
+[00:49:59] So it is very useful, but you really have to
+[00:50:01] think about it.
+[00:50:03] So if you're that kind of person that really likes
+[00:50:04] to be able to figure out like relationships between water
+[00:50:07] and these solutes, this is probably a great chart.
+[00:50:10] If you're like me that needs to just be able
+[00:50:11] to look at stuff and be like, what is happening
+[00:50:13] where?
+[00:50:15] The one on the left is probably better.
+[00:50:17] Um, But again, that's just, that's just me.
+[00:50:20] OK.
+[00:50:21] So that's all I have for you for this lecture.
+[00:50:24] Um, I know I briefly went over the reabsorption and
+[00:50:27] secretion locations, but I watched all the lectures from last
+[00:50:31] year and Doctor Weissberg and Doctor Klein cover all of
+[00:50:35] that stuff in so much detail.
+[00:50:37] Um, so this is more about like which transporters and
+[00:50:39] how the transporters work.
+[00:50:41] Um, so if you have any questions, I can hang
+[00:50:43] out here for a little bit or again, feel free
+[00:50:44] to email me, stop by my office.
+[00:50:47] Um, Take more candy on your way out.
+[00:50:50] Think about where that glucose is going and whether it's
+[00:50:52] going to be excreted or not.

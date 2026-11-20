@@ -1,0 +1,1032 @@
+[00:00:02] All right.
+[00:00:03] Let's get started.
+[00:00:07] So I started the GI course with the first lecture
+[00:00:10] on digestion and absorption, and now I'm ending that with
+[00:00:14] the last lecture on diarrhea.
+[00:00:18] Uh, so these are your disclosures and Just to give
+[00:00:23] you just one couple of notes, uh, is that what
+[00:00:27] we did was we tried to frontload the course as
+[00:00:29] much as possible.
+[00:00:31] So some aspects from this lecture, we already put that
+[00:00:34] in your third ALG where it kind of fitted some
+[00:00:38] classification.
+[00:00:39] Also, you are hearing about diarrhea in various contexts.
+[00:00:42] I also put in some of the toxin in the
+[00:00:44] pop session, so I'm just going to consolidate that and
+[00:00:47] there's very few new aspects that, that we will cover
+[00:00:51] in this lecture, so it becomes a little more study-friendly
+[00:00:53] for you.
+[00:00:55] So first of all, we went to the entire GI
+[00:00:57] course and we never really defined gastroenterology, did we?
+[00:01:02] We didn't.
+[00:01:04] So in, in my opinion, gastroenterology is a branch of
+[00:01:06] medicine that likes to classify diarrhea in 100 different ways.
+[00:01:11] I'm joking, of course.
+[00:01:13] So, as you will see in today's lecture, there are
+[00:01:16] various ways that we have classified diarrhea.
+[00:01:19] It is based on etiology, based on presentation, why that
+[00:01:22] is important.
+[00:01:24] Not that, not only that it will be useful to
+[00:01:26] you for exam purposes, but you are going to be
+[00:01:28] physicians and in clinic, this is very useful.
+[00:01:31] If you Know what is the cause if you know
+[00:01:34] how it is presented, that will help with the treatment
+[00:01:37] and management.
+[00:01:38] That's why diarrhea is classified in so many different ways.
+[00:01:41] So these are your different objectives, but not each and
+[00:01:45] everything is going to get equal attention from us.
+[00:01:47] Some of these we are going to spend more time
+[00:01:49] than others.
+[00:01:50] So the first one is to understand definition of diarrhea.
+[00:01:54] Now this one figure I gave you in the very
+[00:01:57] first lecture just to illustrate that about.
+[00:02:00] 9 L of fluid passes through the GI system every
+[00:02:04] day, and then we actually excrete only about 100 mL
+[00:02:08] of that, right?
+[00:02:09] That's about approximately.
+[00:02:11] So what happens is as stool is passing through our
+[00:02:13] system, water is getting reabsorbed out of our body.
+[00:02:17] But what if the stool has too much water for
+[00:02:19] us to reabsorb, then that will result in diarrhea.
+[00:02:23] So instead of this 100 mL, now you may have
+[00:02:26] 1000 mL or some other number.
+[00:02:29] And it's not just about volume, it is also about
+[00:02:32] consistency.
+[00:02:33] So Bristol's stool chart, or I call it the chart
+[00:02:37] that gastroenterologists live by, you have seen that in various
+[00:02:41] lectures.
+[00:02:42] So what you are going to do is, you are
+[00:02:44] going to see what is the deviation from the knob,
+[00:02:47] because the definition of diarrhea is very subjective.
+[00:02:50] Suppose if somebody has bowel movement one time per day,
+[00:02:54] that is their knob.
+[00:02:55] Norm, then 3 times per day could be diarrhea.
+[00:02:58] But suppose their norm is 3 times per day, then
+[00:03:01] 5 times 6 times could be diarrhea.
+[00:03:03] Similarly, what is their norm in case of this, uh,
+[00:03:07] chart, and then what is the deviation that will help
+[00:03:10] you to determine if they have diarrhea or not.
+[00:03:13] So that's a little bit different.
+[00:03:15] So in that pop session, I did give you the
+[00:03:17] definition that comes from the Greek derivative to flow through.
+[00:03:22] So the technical definition includes increased stool weight, so it's
+[00:03:25] more than 200 g per day.
+[00:03:27] It could be as high as 1400 g per day.
+[00:03:30] It could be associated with pain, um, but also increased
+[00:03:34] stool frequency.
+[00:03:35] But you have to also make sure that it is
+[00:03:37] subjective, so it could be more than 3 times per
+[00:03:40] day.
+[00:03:41] So the generally accepted definition includes decreased stool consistency, increased
+[00:03:46] stool liquidity.
+[00:03:47] So overall can be defined as increase in the stool
+[00:03:51] mass, frequency, or fluidity.
+[00:03:54] So that brings us to the first classification acute, persistent,
+[00:03:58] and chronic.
+[00:03:59] So acute is when the duration is less than less
+[00:04:03] than 2 weeks, and chronic is more than or equal
+[00:04:06] to 4 weeks, and anything in between 2 to 4
+[00:04:09] weeks we call that persistent diarrhea.
+[00:04:12] So this is based on duration.
+[00:04:14] You can also kind of classify that based on cost.
+[00:04:19] For example, if you know what is the underlying biochemistry,
+[00:04:23] what is the underlying physiology, or if there is any
+[00:04:26] structural change that leads to diarrhea, we call it.
+[00:04:30] Organic and you learn this in the functional GI disorders.
+[00:04:35] It is called functional when there is no established underlying
+[00:04:38] cause that we know of, but that leads to diarrhea,
+[00:04:41] for example, IBS, right?
+[00:04:44] So this is, there are two types of classification.
+[00:04:47] You can also classify that based on etiology.
+[00:04:51] For example, in that pop session, it was infectious diarrhea,
+[00:04:54] so you discussed 3 bacterial cases and 1 parasite.
+[00:04:58] In this lecture, we are going to talk about 2
+[00:05:01] more viral and 1 more parasite.
+[00:05:05] And of course one more bacterial which is SRES, but
+[00:05:08] also throughout the course you are learning about the non-infectious
+[00:05:12] etiology, for example, celiac, cystic fibrosis, IBD, IBS, ischemic bowel
+[00:05:18] disease, or if somebody has some kind of obstruction and
+[00:05:22] they had carried out resection or carcinoid syndrome, fecal impaction,
+[00:05:27] uh, we didn't really talk about food allergies in this
+[00:05:30] course, but we did go over that in the MIID
+[00:05:32] course and So, if somebody has lactase uh deficiency or
+[00:05:37] somebody has, uh, for diagnostic purposes swallowed a solution of
+[00:05:41] lactulose, which we can't really, uh, utilize, uh, that can
+[00:05:46] lead to diarrhea or somebody has acute alcohol ingestion or
+[00:05:50] VIPoma.
+[00:05:51] So these are non-infectious etiologies that can lead to diarrhea.
+[00:05:56] So again, uh, diarrhea has such a celebrity status that
+[00:06:00] there are mimickers of diarrhea.
+[00:06:03] And so we'll just talk about that first.
+[00:06:06] So these are called copycat diarrhea.
+[00:06:08] There are 3 of them.
+[00:06:10] One is pseudo diarrhea.
+[00:06:11] So what happens is that you have increased frequency of
+[00:06:14] stool, but the stool weight doesn't really increase.
+[00:06:17] Consistency doesn't.
+[00:06:19] Really change, this can usually happen because of proctitis.
+[00:06:23] Proctitis is the inflammation of the lining of the rectum.
+[00:06:27] And why that can happen?
+[00:06:28] It can happen because if somebody has hemorrhoids or if
+[00:06:32] they have any kind of anorectal disorders.
+[00:06:35] It can also occur, this mimicker or copyright diarrhea can
+[00:06:38] also occur because of fecal incontinence.
+[00:06:41] So stool is involuntary passed, that that could be neuromuscular
+[00:06:46] diseases or anorectal disorders.
+[00:06:49] And the third one is overflow.
+[00:06:51] So there could be a solid dry mass of stool
+[00:06:54] that gets stuck in the colon or rectum, and the
+[00:06:57] liquid stool flows around that.
+[00:06:59] So all of these are not real diarrhea, they are
+[00:07:02] the mimical diarrhea.
+[00:07:04] So coming back to the real diarrhea, let us talk
+[00:07:07] about osmotic secretory, inflammatory, and motility diarrhea.
+[00:07:12] So again, keep one thing in mind that these categories
+[00:07:16] are intended to be guides for diagnosis.
+[00:07:20] Sometimes diseases can overlap into different categories.
+[00:07:23] For example, today you learned that the vibrio cholera, right,
+[00:07:27] the diarrhea caused by that.
+[00:07:28] Actually it falls under acute and infectious, but it can
+[00:07:33] also be categorized as secretory.
+[00:07:35] There are not too many overlaps, but overall, this particular
+[00:07:39] flow chart can work.
+[00:07:42] So let us talk about the chronic diarrhea first.
+[00:07:46] So, I wanted to uh show you, and I put
+[00:07:49] Doctor Gable's picture there, not because I want you to
+[00:07:52] associate him with diarrhea, but one day when I was
+[00:07:57] making this flow chart, he happened to stop by and
+[00:08:00] he said, what are you doing?
+[00:08:00] And I'm like, I'm making a flow chart.
+[00:08:02] And as you know, if you must have heard from
+[00:08:04] M3s and M4s, he's famous for 4 chart.
+[00:08:07] They call it gable tables.
+[00:08:09] So he said, Oh, yeah, I have a diarrhea table
+[00:08:11] I can give you.
+[00:08:12] So I wanted to give him credit for this slide.
+[00:08:15] I just made some modifications to suit this particular lecture.
+[00:08:19] So, we are going to take this apart and go
+[00:08:21] over one by one.
+[00:08:23] So, one is osmotic diarrhea.
+[00:08:25] So as all of you are aware that we learned
+[00:08:28] that in the very first lecture, if somebody ingests lactose
+[00:08:31] and they have lactase deficiency, right?
+[00:08:34] Just to refresh our memory, lactose is digested by lactase
+[00:08:38] to glucose and galactose, everything is fine, but if somebody
+[00:08:41] has lactase deficiency, lactose just stays in our intestine.
+[00:08:45] Anything undigested stays in.
+[00:08:47] Our intestine that is osmotically active, so that will bring
+[00:08:51] water with that and that will lead to bloating, diarrhea,
+[00:08:54] and eventually dehydration.
+[00:08:56] Bacteria can also act on that.
+[00:08:58] They will ferment that, lead to hydrogen and methane gas.
+[00:09:02] So we talked about that.
+[00:09:04] Also, if somebody's chewing gum that is artificially sweetened with
+[00:09:07] sorbitol, we can't really digest that.
+[00:09:10] That will lead to osmotic diarrhea.
+[00:09:12] Do make a note of milk of magnesia that comes.
+[00:09:15] In various lectures that can also cause osmotic diarrhea.
+[00:09:19] So basic principle is that poorly absorbed solutes that remain
+[00:09:23] in the gut lumenin and that will lead to flow
+[00:09:26] of water into the gut lumenin.
+[00:09:29] And the important part is this, and again, you can
+[00:09:31] even extrapolate without looking at the slide that the diarrhea
+[00:09:35] will stop.
+[00:09:36] This is self-limiting if you stop eating or drinking that
+[00:09:40] particular food item.
+[00:09:41] So this is osmotic diarrhea.
+[00:09:43] The secretory diarrhea, we talked about that in case of
+[00:09:46] vibrio colony, which is infectious etiology, but not infectious, for
+[00:09:51] example, Zollinger Ellison, carcinoid, VIPoma.
+[00:09:54] What happens here?
+[00:09:56] So much fluid is secreted that it overwhelms our absorptive
+[00:10:00] capacity.
+[00:10:01] So here, the difference is that even if you stop
+[00:10:04] drinking or eating, it will still continue, and that's the
+[00:10:08] difference from the first one.
+[00:10:10] So that's why it is called as secretory diarrhea.
+[00:10:14] The third one is inflammatory, and as the name suggests,
+[00:10:17] inflammatory, it occurs in IBD, C, UC, or in case
+[00:10:22] of some pathogens such as E.
+[00:10:23] coli, C.
+[00:10:24] diff.
+[00:10:25] There is mucosal damage.
+[00:10:27] Sometimes you may get fever, pain, sometimes you may have.
+[00:10:30] In the stool, so that all of these things can
+[00:10:33] occur.
+[00:10:33] Now, as the name suggests, there are release of chemical
+[00:10:36] mediators, immunologies involved, and inflammation can take place, and that
+[00:10:41] stimulates the secretion of those fluids.
+[00:10:44] So this is inflammatory diarrhea.
+[00:10:47] The fourth one is motility diarrhea.
+[00:10:50] The classic example is IBS.
+[00:10:53] So here it is exceedingly rapid transit, minutes rather than
+[00:10:57] hours, and today Dr.
+[00:10:59] Williams talked about it, right?
+[00:11:00] She said that she has to be prepared for this
+[00:11:03] because the onset can be really, really rapid.
+[00:11:06] That's why the name is very apt, motility diarrhea.
+[00:11:10] And so that brings us, so those were the main
+[00:11:13] categories that we would like you to be aware of.
+[00:11:15] So let us solve this one study checkpoint question, which
+[00:11:18] one is incorrect?
+[00:11:20] A patient trying to quit smoking by using a nicotine
+[00:11:23] patch may experience osmotic diarrhea.
+[00:11:27] Now I purposefully put this because there's a little bit
+[00:11:29] of controversy about it, but I have seen this.
+[00:11:32] In question banks and students do tell me that they
+[00:11:35] get asked about it.
+[00:11:36] So we talked about sorbitol, right?
+[00:11:39] You eat that goes in the GI system, can cause
+[00:11:41] diarrhea.
+[00:11:42] This is nicotine patch, so derm is involved.
+[00:11:46] So we are going to take this at face value
+[00:11:48] that this is a true statement because they have shown
+[00:11:51] this that it can go through your bloodstream.
+[00:11:54] Stream can go into the GI and then it can
+[00:11:57] cause uh diarrhea or osmotic diarrhea to be precise.
+[00:12:01] So again, I just wanted you to be aware of
+[00:12:03] that, so I put that in a question form.
+[00:12:05] Now, we can solve the remaining three.
+[00:12:08] Curtailing the oral intake in case of VIP Oma patient
+[00:12:12] will help reduce the diarrhea.
+[00:12:14] What are your thoughts?
+[00:12:15] Do we agree?
+[00:12:17] No, right?
+[00:12:19] Why?
+[00:12:20] Because VIPoma, in case of that, it's, it's by tumor.
+[00:12:25] There is unregulated excessive um secretion of VIB and that
+[00:12:30] leads to diarrhea.
+[00:12:32] So you can't really, even if you curtail oral intake,
+[00:12:35] that's not going to help us.
+[00:12:37] And the other two are just uh facts that inflammatory
+[00:12:40] diarrhea is characterized by mucosal damage and exceedingly rapid transit
+[00:12:44] may be seen in motility diarrhea, for example, IBS.
+[00:12:49] Are we good with these definitions?
+[00:12:52] All right.
+[00:12:53] So let us talk a little bit about VIPOma.
+[00:12:55] Again, you have learned this, but I just wanted to
+[00:12:57] emphasize again, this is kind of high-ended book uh kind
+[00:13:01] of stuff.
+[00:13:02] So this is, I put that in the form of
+[00:13:03] note slide that VIPOma syndrome is caused by excessive unregulated
+[00:13:09] secretion of vasoactive intestinal polyp.
+[00:13:12] Peptide or VIP because it is from a tumor, it
+[00:13:15] is not regulated.
+[00:13:16] It's a 28 amino acid polypeptide and it binds to
+[00:13:20] high affinity receptors on our intestinal epithelial cells.
+[00:13:24] And what happens because of that, it will lead to
+[00:13:27] activation of our adenylate cyclase and cyclic AMP production.
+[00:13:32] And that will now lead to net fluid and electrolyte
+[00:13:36] secretion into our lumen, and that will lead to secretory
+[00:13:39] diarrhea.
+[00:13:40] So they really, your assembly really wants you to understand
+[00:13:43] that mechanism, so I made sure that we are addressing
+[00:13:46] that again.
+[00:13:48] So that brings us to um acute diarrhea with respect
+[00:13:51] to infectious diarrhea.
+[00:13:54] So again, what I'm talking about is this, but first
+[00:13:57] of all, we are not really going to go over
+[00:13:59] too much about persistent diarrhea.
+[00:14:01] It usually occurs if there's a protracted case of acute
+[00:14:05] diarrhea.
+[00:14:06] or it could be the beginning of chronic etiologies.
+[00:14:09] Now, in case of acute diarrhea, with respect to medication,
+[00:14:13] one is antibiotics, and you have learned about this throughout
+[00:14:17] the course.
+[00:14:17] So again, I'm not going to repeat that.
+[00:14:19] We are going to mainly talk about the infectious etiology.
+[00:14:23] So what is the, what are the indicators for evaluation?
+[00:14:27] So they may have blood in their stool, they may
+[00:14:30] have fever over 101.3.
+[00:14:33] They may have significant pain associated.
+[00:14:36] Volume depletion is very common, especially if the patients are
+[00:14:40] not hydrated.
+[00:14:41] So why this can occur if people have taken recent.
+[00:14:45] Antibiotics, elderly patients, hospitalized patients, pregnant women, or if somebody
+[00:14:51] has immunity compromised, and also food handlers, you learned about
+[00:14:55] that in MIID course that if food handlers, they are
+[00:14:58] infected and if they are not handling food appropriately, they
+[00:15:02] can really spread these infections on a broad scale very
+[00:15:05] quickly.
+[00:15:07] So infectious diarrhea can be categorized as bloody diarrhea and
+[00:15:10] watery diarrhea, and this is what we went over in
+[00:15:13] ALG 3.
+[00:15:15] So, some of the E.
+[00:15:16] coli, ETEC, EAEC, vibrio cholera, Yasinia, C.
+[00:15:21] diff and all of the, most of the parasites except
+[00:15:25] Entaeba histolytica, they are known to cause watery diarrhea, while
+[00:15:30] salmonella, Shigela, EHEC, EIEC, and Entaeba histolica, we're going to
+[00:15:35] talk about that today, that causes bloody diarrhea.
+[00:15:39] Now, in case of Esinia, even though it is category.
+[00:15:43] Under watery diarrhea, there are reports that it can cause
+[00:15:47] bloody diarrhea.
+[00:15:48] Now, again, in the exam, we are not going to
+[00:15:50] trick you for your senia, whether it is watery versus
+[00:15:54] bloody, but you are going to be a physician, so
+[00:15:56] I just wanted you to be aware it can cause
+[00:16:00] bloody diarrhea, although usually classically it is put under watery
+[00:16:04] diarrhea.
+[00:16:05] So let us go over what we are actually going
+[00:16:08] to learn newly here.
+[00:16:10] So the traveller's diarrhea, Vibrio, Giardia, C diff, the one
+[00:16:15] that I had put these green check marks, you had
+[00:16:18] that in today's pop session.
+[00:16:20] I'm just going to quickly consolidate those and just maybe
+[00:16:23] add one point or so.
+[00:16:25] So we are going to talk about norovirus and nora
+[00:16:28] virus.
+[00:16:28] There's literally one slide about that, one slide about Etamiba
+[00:16:32] histolytica, and then I'm going to spend a little bit
+[00:16:35] of time about for Staphylococcus aureus because that's another board
+[00:16:40] favorite, um, toxin producing bacteria to talk about.
+[00:16:44] So first, let us talk about norovirus, rotavirus, Giardia, and
+[00:16:49] Etamiba hysterritica.
+[00:16:51] So both norovirus and rotavirus, they are RNA viruses.
+[00:16:55] So from an exam point of view, what would you
+[00:16:58] expect?
+[00:16:58] What they can ask you is this, that inhibition of
+[00:17:03] viral RNA polymerase could be important for these two viruses.
+[00:17:08] Now, norovirus is highly contagious.
+[00:17:11] It can affect anybody.
+[00:17:13] It can infect anybody, not just immunocompromised patients, and Also,
+[00:17:17] just because you get infection one time doesn't mean that
+[00:17:21] it will protect you, because there are several forms of
+[00:17:23] norovirus.
+[00:17:24] It doesn't offer cross protection, so you can get norovirus
+[00:17:28] multiple times.
+[00:17:30] Also, norovirus is detected in the stool sample of the
+[00:17:33] patient even before they start feeling sick, and 2 to
+[00:17:37] 3 weeks even after they start feeling better.
+[00:17:40] So that's why it is really contagious.
+[00:17:43] Very, very commonly spread in spaces that are closely confined
+[00:17:47] like daycare centers, schools, or nursing homes or cruise ships.
+[00:17:52] Um, the outbreaks are very common now, starting from now,
+[00:17:56] November to April, especially in the United States.
+[00:18:00] So a few years ago we got this advisory from
+[00:18:03] our Rowan University that they had an outbreak of norovirus
+[00:18:07] around this time.
+[00:18:09] And they have to do a lot of majors to
+[00:18:12] control that.
+[00:18:13] We are physically separated from there, so it didn't really
+[00:18:16] come here.
+[00:18:17] But I know that when my daughter was in elementary
+[00:18:20] school, her school had a norovirus breakout and 100 students
+[00:18:25] got sick, and all of them had similar symptoms.
+[00:18:28] The school really had to bleach down the entire school.
+[00:18:31] The doorknobs and everything in order to contain that, so
+[00:18:34] highly, highly contagious virus, and this is one of the
+[00:18:38] actually main reason why these outbreaks occur in the food
+[00:18:41] industry, especially the food handlers, they are infected and they
+[00:18:45] are handling raw fruits or vegetables, oysters, meat, dairy products,
+[00:18:50] or even cooked products.
+[00:18:51] They can get contaminated after.
+[00:18:53] They cool down, if they're handling without gloves, without proper
+[00:18:57] hand washing, then that can spread pretty rapidly.
+[00:19:00] So in case of norovirus, it is fecal to oral
+[00:19:04] route.
+[00:19:04] Onset is very rapid, 12 to 24 hours.
+[00:19:07] It can last up to 3 days, and it's contagious,
+[00:19:11] as I mentioned, for about 3 weeks.
+[00:19:13] There's unfortunately no vaccine.
+[00:19:15] Rotavirus is more common in pediatric population.
+[00:19:19] Fortunately, there are 2 vaccinations available which decrease mortality in
+[00:19:24] pediatric population.
+[00:19:26] So as far as these viruses are concerned from GI
+[00:19:29] point of view, that's all we need to know.
+[00:19:32] Are we good with this?
+[00:19:34] All right.
+[00:19:36] So moving on to GRDM, so this is the cycle
+[00:19:39] that I gave you in the pop session.
+[00:19:41] Basically, what it meant was that the infections, uh, this
+[00:19:44] cycle starts when you ingest the dormant cyst, and once
+[00:19:49] inside, excitation takes place, tropocytes, they emerge to the active
+[00:19:53] state, and then they undergo asexual replication.
+[00:19:57] And again, not everyone is going to exhibit symptoms.
+[00:20:01] So just because, suppose if somebody is ingesting one or
+[00:20:04] two Giardia, they're not going to have this.
+[00:20:07] It depends on how much the dosage is, how much
+[00:20:09] their immunity level is, but if they do develop that,
+[00:20:13] Then this progresses and then the incestation occurs during transit
+[00:20:18] towards the colon and then both the cyst and tropozy,
+[00:20:21] they are expelled in the feces.
+[00:20:23] Why that is important to us?
+[00:20:25] For diagnostic purposes.
+[00:20:28] That means you can stain and demonstrate.
+[00:20:31] Both cyst as well as topozite in the fresh stools
+[00:20:34] of these patients, but only cyst can survive once it
+[00:20:38] is outside of the host.
+[00:20:40] Again, it can survive for weeks to months in cold
+[00:20:43] water, and then it can again contaminate and this cycle
+[00:20:47] can continue.
+[00:20:49] So in the pop session, we went over this just
+[00:20:52] to consolidate that this epidemiology is fecal to oral contamination.
+[00:20:56] So you have both waterborne and foodborne outbreaks, and again
+[00:21:00] in closed spaces like daycare center, people if they're hospitalized,
+[00:21:05] that's very could could occur there.
+[00:21:07] And people with malnutrition, immunodeficiencies, cystic fibrosis, these are more
+[00:21:12] commonly noted.
+[00:21:14] Symptoms can be varied.
+[00:21:16] Diarrhea is usually common.
+[00:21:17] But sometimes you can get nausea, fever, sometimes neurological symptoms.
+[00:21:23] Diagnosis, as I mentioned, you can actually detect both tropocytes
+[00:21:27] as well as cysts in the stool of the infected
+[00:21:30] patients.
+[00:21:31] How do you do that?
+[00:21:32] Cysts can be detected via wet mount.
+[00:21:34] You can either see that unstained or stained with iodine.
+[00:21:38] Do get familiar with pictures of how GRDL looks like.
+[00:21:43] If you had looked at EMOS, you were, Kepler.
+[00:21:46] All these question banks, they show pictures like this.
+[00:21:49] So if you know how it looks like, it kind
+[00:21:51] of becomes easier.
+[00:21:52] Propocytes are stained with trichrome, and there are Eliza also
+[00:21:56] are available which utilize two antigen enzymes.
+[00:22:00] And the treatment is easy to remember.
+[00:22:02] Most of these faculty anaerobic, anaerobic parasites, bacteria, you use
+[00:22:07] metronidazole, that is the drug of choice.
+[00:22:09] It's kind of easier to remember.
+[00:22:12] So in the pop session, we went over this.
+[00:22:14] But there is one more thing I just wanted you
+[00:22:17] to be aware.
+[00:22:17] Again, I don't want you to really go crazy and
+[00:22:19] try to memorize the entire slide, but I have seen
+[00:22:22] this popping up here and there, so I just wanted
+[00:22:25] you to be aware that the mechanism of injury by
+[00:22:29] Giardia, they are multifactorial.
+[00:22:32] The mechanism by which it causes malabsorption and diarrhea, we,
+[00:22:37] sometimes we don't even know what the exact mechanism is.
+[00:22:40] So these are just some of the mechanisms that we
+[00:22:42] know.
+[00:22:43] That the tropocytes, they adhere to the epithelium, that causes
+[00:22:48] increased epithelial permeability.
+[00:22:50] There are both types of proteases, thyroid dependent and independent,
+[00:22:54] that can, they can cause epithelial damage, and the topocytes
+[00:22:58] basically, they induce cell apoptosis, and that could be because
+[00:23:03] of various uh intrinsic or extrinsic apoptotic pathways.
+[00:23:07] So again, Some of the things you should be just
+[00:23:09] make a note of but don't have to memorize everything.
+[00:23:12] This last mechanism is really, really interesting about how GRDR
+[00:23:18] understands how we have the uh immune mechanism and it
+[00:23:22] acts against it.
+[00:23:24] So I wrote down the description for you, but just
+[00:23:26] I made a very simple animation I wanted to show
+[00:23:30] you.
+[00:23:30] It says the same thing.
+[00:23:31] So these are your enterocytes, and this is our enemy,
+[00:23:35] GRDM.
+[00:23:36] So what enterocytes do is they produce nitric oxide.
+[00:23:41] And in for doing so, they need arginine.
+[00:23:43] So they use arginine, protenox nitric oxide, and that is
+[00:23:48] detrimental to GRDL.
+[00:23:49] This is our immune mechanism.
+[00:23:52] What GRDR does is that it uses up that arginine.
+[00:23:56] So, arginine is now Depleted and as a result of
+[00:24:00] that, now nitric oxide is depleted, so you can't really
+[00:24:03] kill it, but at the same time, these enterocytes, they
+[00:24:07] need that arginine for their growth, and that is not
+[00:24:11] available, so now they undergo apoptosis.
+[00:24:14] It's kind of double whammy.
+[00:24:15] So again, we have defense mechanism and GRDR learns that
+[00:24:20] and launches something different.
+[00:24:22] And again, I wrote down that description.
+[00:24:24] So that brings us to Entaiba histolytica, and this is
+[00:24:28] 2 for the price of 1.
+[00:24:30] If you learned about Giardia, you can exactly apply that
+[00:24:34] for tamoeba histolytica.
+[00:24:36] It's an anaerobic parasite.
+[00:24:38] Life cycle is very similar to GID.
+[00:24:42] Tropocyte stage exists only in the host and fresh loose
+[00:24:45] feces.
+[00:24:46] Cysts can survive in water, soil, foods, so nothing new
+[00:24:50] there.
+[00:24:50] After injection, cysts undergo excessation, release tropocytes.
+[00:24:54] Again, very similar.
+[00:24:56] Symptoms are fever, abdominal pain, mucus, and make a note.
+[00:25:01] Blood in stool.
+[00:25:02] Again, that will be your helping point when you swallow
+[00:25:05] exam questions because entameba histolytica causes bloody diarrhea.
+[00:25:09] And treatment is again same as Giiardia, metronidazole.
+[00:25:13] And sometimes you will see pictures like this in your
+[00:25:16] question bank that will help you identify that.
+[00:25:20] So that was about Etamiba histologica.
+[00:25:23] Are we doing OK so far with acute, excellent.
+[00:25:27] Now, I'm going to switch gears a little bit.
+[00:25:30] I'm going to talk about bacterial toxins.
+[00:25:33] So, again, there are two types of toxins.
+[00:25:37] One is endotoxin type and exotoxin.
+[00:25:40] In GI we don't worry about endotoxins at all.
+[00:25:44] We only focus on exotoxin.
+[00:25:46] And based on the site of action, we can classify
+[00:25:50] them as enterotoxin, cytotoxin, neurotoxin, but this is really easy
+[00:25:55] to remember.
+[00:25:56] Enterotoxin, they are basically acting on enterocytes, that is, lining
+[00:26:02] of our GI tract.
+[00:26:03] Cytotoxin, they are damaging the cytoplasm, so functioning of our
+[00:26:08] host cell, and neuro.
+[00:26:09] Toxin, as the name suggests, function of the neurons.
+[00:26:13] So that is kind of the overall classification, and all
+[00:26:16] of the toxins that you have come across so far,
+[00:26:19] except C.
+[00:26:20] diff toxin B, all of them are enterotoxins.
+[00:26:23] So C.
+[00:26:24] diff toxin A, Vibrio cholera, SRDS, the E.
+[00:26:27] coli one, they're all enterotoxin.
+[00:26:30] Toxin B is uh.
+[00:26:32] Cytotoxin, but again, we don't have to go crazy over
+[00:26:36] which is which, as long as you have a general
+[00:26:38] idea that will suffice.
+[00:26:40] So this slide also I put only for your information
+[00:26:43] because this understanding is important.
+[00:26:45] You do not need to sit and memorize this slide.
+[00:26:48] Basically, what does this slide tell you?
+[00:26:51] That there are different mechanisms that cause, this is a
+[00:26:54] physiology, right?
+[00:26:55] That caused.
+[00:26:55] Diarrhea.
+[00:26:56] But what is the principle that you have increased secretion
+[00:27:02] or reduced absorption of fluids and electrolytes.
+[00:27:06] So whatever leads to that will lead to diarrhea.
+[00:27:10] For example, if something goes wrong with CFTR, CLCA, that
+[00:27:14] these are chloride channels, you are going to have increased
+[00:27:17] chloride secretion.
+[00:27:19] Or if something goes wrong with NHE3, you are going
+[00:27:22] to have reduced sodium absorption.
+[00:27:24] So in most of the cases, you will see variations
+[00:27:27] of these, or you could have alterations in the tight
+[00:27:30] junction, and that will create an important pathway for both
+[00:27:34] ions and water, or something goes wrong with DRA, then
+[00:27:38] chloride absorption will be affected, so there could be some
+[00:27:41] genetic defect.
+[00:27:43] Or something goes wrong with aquaporins, so then you will
+[00:27:46] have reduced water absorption.
+[00:27:48] Do make a note of SGLT1 because again we are
+[00:27:52] going to talk about it, and they do ask exam
+[00:27:55] questions on this based on this, that SGLT-1 transports sodium
+[00:28:00] and glucose, and that is tightly coupled with water movement.
+[00:28:04] Why that is important to us?
+[00:28:06] Because if you force glucose in.
+[00:28:09] Sodium goes in, water goes in.
+[00:28:11] So this is actually the basis for oral hydration.
+[00:28:15] When they have these very wide breakouts for, say, cholera
+[00:28:18] outbreaks, that's what they use.
+[00:28:20] This is the principle they use, and USMLE really wants
+[00:28:24] to ask about that.
+[00:28:25] So do make a note of SGLT1, but other than
+[00:28:28] that, just know the general principle.
+[00:28:30] You don't have to memorize the entire slide.
+[00:28:34] So that brings us to a study checkpoint question, which
+[00:28:37] one is incorrect?
+[00:28:38] Both norovirus and rotavirus, they lead to acute diarrhea.
+[00:28:42] Vaccine against rotavirus is available.
+[00:28:45] Do we agree?
+[00:28:46] OK.
+[00:28:47] Life cycles of Giardia and Tamiba histolytica consist of tropozides,
+[00:28:51] cyst form, and they respond to antibiotics.
+[00:28:54] Do we agree?
+[00:28:55] The antibiotic being metro.
+[00:28:57] Toxins of vibriocalorie, ETEC SRES, they are all endotoxins.
+[00:29:04] Do we agree?
+[00:29:06] This is incorrect, right?
+[00:29:08] Why?
+[00:29:09] Because these are all exotoxins.
+[00:29:12] We are not even talking about endotoxins in GI codes.
+[00:29:16] These are all exotoxins.
+[00:29:18] Specifically, these are all enterotoxins.
+[00:29:21] And the last one was the principle that I told
+[00:29:23] you, SGLT1 transports sodium glucose tightly coupled with water.
+[00:29:28] So you force glucose, sodium follows, water follows.
+[00:29:33] You can use that for oral rehydration.
+[00:29:36] Are we good so far?
+[00:29:38] All right.
+[00:29:40] Moving on to pathophysiology of uh infections that are caused
+[00:29:44] by SRES, enterotoxigenic E.
+[00:29:47] coli, Vibrio chori, C.
+[00:29:48] diff.
+[00:29:49] So these three we already covered in Pops.
+[00:29:51] I'm just going to consolidate that, but I'm going to
+[00:29:54] spend a little bit time on SRES.
+[00:29:57] So, Again, you have met SRES many times in MIID
+[00:30:02] course.
+[00:30:02] We are looking at it only from a toxin point
+[00:30:05] of view.
+[00:30:06] So this produces a wide variety of exotoxins, including staphylococcal
+[00:30:11] enterotoxins, which are called SEs, and they have really strong
+[00:30:16] emetic activity.
+[00:30:18] They really cause strong vomiting.
+[00:30:20] There are some that, that are not, um, they're not
+[00:30:22] emetic, but we are not really focused on those.
+[00:30:25] Do make a note of that.
+[00:30:26] This is really important that these exotoxins are formed prior
+[00:30:31] to the ingestion.
+[00:30:32] So these are pre-formed toxins.
+[00:30:34] Do you think there's any significance to that, that these
+[00:30:37] are pre-formed?
+[00:30:39] Any thoughts on that?
+[00:30:41] You don't need the life Absolutely, that's correct.
+[00:30:45] So he said you don't need live bacteria, these are
+[00:30:47] already farm, right?
+[00:30:49] So, what will that help you with that exam questions?
+[00:30:53] Right?
+[00:30:54] So think about any other bacteria.
+[00:30:56] They have to be in your food.
+[00:30:58] You have to get, you have to ingest that, bacteria
+[00:31:00] have to grow, then they have to produce toxin, so
+[00:31:03] the incubation time will be longer.
+[00:31:05] But here, they're already pre-formed, so the exam questions will
+[00:31:10] start with 30 minutes, 2 hours, or something like that.
+[00:31:14] Um.
+[00:31:15] So that would be your cue to follow that it
+[00:31:19] could be because of these toxins.
+[00:31:21] So these are major causes of food poisoning, which typically
+[00:31:25] occurs after ingestion of different foods, and it could be
+[00:31:29] um vegetables or raw salad or something, meat, dairy products,
+[00:31:33] basically because of improper handling.
+[00:31:36] If the person is infected.
+[00:31:37] Not handling it well, and suppose if they introduce those
+[00:31:41] bacteria, store them at elevated temperatures, bacteria are gonna grow,
+[00:31:44] they are going to produce toxins, so by the time
+[00:31:46] you eat that, you will have those pre-formed toxins.
+[00:31:49] And as we mentioned, rapid onset, and it will include
+[00:31:53] nausea, violent vomiting, and literature says with or without diarrhea,
+[00:31:58] but diarrhea is really common.
+[00:32:00] Now, unfortunately, suppo the bacteria, right, they are killed by
+[00:32:04] our low pH, the acidity, proteases, and all that, but
+[00:32:08] these toxins are resistant to heat treatment, low pH, and
+[00:32:12] all these different proteolytic enzymes, and so that could be
+[00:32:15] also a concern.
+[00:32:17] Now, they are, how they act, mechanism of action is
+[00:32:20] also important to know that they stimulate the vagus nerve
+[00:32:24] in the abdominal viscera.
+[00:32:27] That will transmit signal to the vomiting center in the
+[00:32:30] brain.
+[00:32:31] They're also able to penetrate the gut lining, and they
+[00:32:34] can also activate our local and systemic immune responses.
+[00:32:38] And again, because there is immune response involved, all of
+[00:32:42] these, like for example, Histamine, leukotrienes, all of those, uh,
+[00:32:46] different pathways, we are not going to go into those,
+[00:32:48] but that can lead to vomiting.
+[00:32:51] There could be also some damages associated, for example, some
+[00:32:55] severe lesions can also appear in the stomach, upper part
+[00:32:58] of the small intestine.
+[00:33:00] And the diarrhea could be because of inhibition of water
+[00:33:04] and electrolyte reabsorption in the small intestine.
+[00:33:08] So again, as far as SODS toxins are concerned, these
+[00:33:11] are some of the buzzwords that you should definitely keep
+[00:33:14] in mind, and physiology, what happens.
+[00:33:17] With respect to vagus nerves, are we OK with SRES?
+[00:33:21] And I will give you a couple of board style
+[00:33:24] questions to solve at the end because I could not
+[00:33:26] include this in the pop session because we had 4
+[00:33:29] cases, but we'll make sure that you have, uh, you
+[00:33:32] will see how they ask questions about it.
+[00:33:35] So this was the flow chart that I gave you
+[00:33:36] in the pop session, and this was basically talking about
+[00:33:40] the E.
+[00:33:40] coli, right?
+[00:33:42] Now, this I gave you as a, a note slide
+[00:33:44] because this was also included in the pop that the
+[00:33:47] LT is a complex family of proteins, and these are
+[00:33:51] called as cholera-like.
+[00:33:53] Why?
+[00:33:54] Because very similar to the cholera.
+[00:33:56] Toxin produced by vibrio cholera.
+[00:33:58] It is very similar in how its structure looks like,
+[00:34:01] how it functions, and also its mechanism of action.
+[00:34:05] Now, LT acts by stimulating adenylate cyclase, and that's why
+[00:34:09] our cyclic AMP now increases, and that results in secretion
+[00:34:13] of chloride and inhibition of absorption of sodium chloride.
+[00:34:18] Now, ST activates cyclic GMP and that can lead to
+[00:34:22] stimulation against same chloride secretion, inhibition of sodium chloride absorption.
+[00:34:28] And both of these can lead to secretion of free
+[00:34:31] water into the intestinal lumen, and that can lead to
+[00:34:34] watery diarrhea.
+[00:34:36] Now, in one of your textbook, I saw this really
+[00:34:38] nice anagram to remember this labile like the air, stable
+[00:34:44] like the.
+[00:34:44] Ground.
+[00:34:45] So L is the heat label and A is the
+[00:34:48] adrenal cyclase, and S is the heat stable, G is
+[00:34:53] the grenoline cyclase.
+[00:34:54] So do make a note of that because they really
+[00:34:56] like to ask that.
+[00:34:58] I really like that, that they, they were pretty creative
+[00:35:00] about it.
+[00:35:02] So, again, we went over this, but I just wanted
+[00:35:04] to focus on a couple of points.
+[00:35:06] What is the mechanism of action, which is the same
+[00:35:09] for cholera toxin and E.
+[00:35:10] coli heat label toxin.
+[00:35:12] So, CT or LT, they bind to the GM1 receptor
+[00:35:15] at the mucosal surface, and that triggers the endocytosis of
+[00:35:20] the holotoxin.
+[00:35:21] So, holotoxin has all these different components, and when you
+[00:35:24] endocytosis, they get separated.
+[00:35:27] And now we, you already followed that, that the A1
+[00:35:29] domain is transported through Golgi and what is more important
+[00:35:33] that we learned about that adrenal cyclase get activated and
+[00:35:37] then that will also increase the cyclic AMP and so,
+[00:35:40] and that will also have the final effect on the
+[00:35:43] chloride and sodium that we talked about.
+[00:35:46] So that was the major principle that again I just
+[00:35:48] wanted to consolidate in case.
+[00:35:50] Of the heat stable again, the enterotoxin, they bind to
+[00:35:54] the domain of GCC.
+[00:35:56] GCC is guanidyl cyclase, and that is present on the
+[00:35:59] brush borders of the intestinal epithelial.
+[00:36:01] And again, the rest of the stuff that you know
+[00:36:04] that there's an activation of the cyclic GMP, the dependent
+[00:36:08] protein kinase, and finally, the effect is same on chloride
+[00:36:13] and uh sodium.
+[00:36:15] So again, just wanted to uh let you know that
+[00:36:19] they, at least those couple of buzzwords you should know.
+[00:36:22] So that brings us to a very important concept that
+[00:36:25] just because, suppose if I ingest one or two E.
+[00:36:28] coli, I'm not going to get the infection, right?
+[00:36:30] You have to ingest really large number, 10 to 8
+[00:36:33] to 10 to 10, and also it depends on your
+[00:36:37] immunity, so that is important.
+[00:36:39] And this is, this has a very short incubation period.
+[00:36:43] You know why?
+[00:36:44] Because E.
+[00:36:44] coli doubles very fast.
+[00:36:46] In 20 minutes, you have their their doubling time is
+[00:36:49] very, very fast, right?
+[00:36:50] But it's still not going to be as fast as
+[00:36:53] the pre-formed toxin.
+[00:36:55] So even though they say rapid onset of symptoms, it
+[00:36:58] is still not going to be as fast as uh
+[00:37:01] the pre-formed toxins, OK?
+[00:37:03] So keep that in mind.
+[00:37:04] It can last for 1 to 5 days.
+[00:37:07] And the treatment is loperamide.
+[00:37:08] You have metloperamide several times during GI course, so it
+[00:37:12] is used for the treatment of diarrhea.
+[00:37:15] You know that it is opioid receptor agonist, acts on
+[00:37:18] the New opioid receptor in the myric plexus.
+[00:37:22] Now this is a really cleverly designed drug.
+[00:37:24] You know why?
+[00:37:25] It doesn't really interact directly with the CNS system.
+[00:37:29] What it does is that it decreases the myric plexus,
+[00:37:33] and as a result of that, it decreases the tone
+[00:37:37] of the longitudinal circular muscles of our intestine.
+[00:37:41] What will happen because of that, the transit time of
+[00:37:44] the fecal matter is now slowed down.
+[00:37:46] So now, You have more time to absorb water from
+[00:37:50] that fecal, fecal matter.
+[00:37:52] That's how diarrhea is now reduced.
+[00:37:54] So it's really cleverly designed drug, understanding how the pathophysiology
+[00:37:59] works.
+[00:38:00] But again, loperamide you have made many, many times during
+[00:38:03] the GI course.
+[00:38:04] So that brings me to vibrio cholera, and again, we
+[00:38:07] have gone over that in detail.
+[00:38:10] Just a couple of points I wanted to mention that
+[00:38:13] the cholera toxin is not produced by.
+[00:38:15] Vibrio cholony itself, but it is produced by the bacteriophage
+[00:38:20] that resides within the bacteria.
+[00:38:22] And the interesting thing about it is this, that that
+[00:38:25] toxin attaches to your mucosal cells.
+[00:38:28] The intestinal mucosal cells have a very high turnover, so
+[00:38:32] they are shed off.
+[00:38:33] When they are shed off, the toxin is shed off.
+[00:38:36] So this is kind of self-limiting, and this is what
+[00:38:39] actually we use for treatment.
+[00:38:41] For example, if somebody's healthy, they are well.
+[00:38:44] Hydrated, they don't have to take antibiotic for vibrio.
+[00:38:48] So you must have heard that a few years ago
+[00:38:50] there was an outbreak in Haiti when some of our
+[00:38:52] doctors actually went there under Doctors Without Borders program.
+[00:38:57] It was on a very large scale, so giving antibiotic
+[00:39:00] was not the best choice, so they gave oral rehydration,
+[00:39:05] and that was actually self-limiting because the intestinal cells are
+[00:39:09] shed off, so the toxin is shed off.
+[00:39:12] Now, a couple of years ago when I was doing
+[00:39:15] this pop session, one group asked me a riddle and
+[00:39:18] I thought that would be useful to you to remember
+[00:39:20] this by.
+[00:39:21] So they said, why Vibrio loves summer.
+[00:39:26] Anybody can answer that?
+[00:39:30] So they said Vibrio color really like summer.
+[00:39:33] You know why?
+[00:39:35] Because that group said that because it likes to camp.
+[00:39:40] Good way to remember that, right?
+[00:39:42] I thought that was very creative of them, so I
+[00:39:44] thought I should share that with you.
+[00:39:47] All right, so that brings us to C.
+[00:39:49] diff, another, um, very popular GI organism from a toxin
+[00:39:55] point of view.
+[00:39:56] You already know that antibiotic use is the most widely
+[00:40:00] recognized and modifiable risk factor, especially clindamycin.
+[00:40:04] Why?
+[00:40:05] Because when you take clindamycin, C.
+[00:40:07] diff doesn't really get killed, but a lot of our
+[00:40:09] gut flora gets killed, so C.
+[00:40:11] diff gets that competitive advantage and it can grow.
+[00:40:15] Now, there are two exotoxins that mediate colitis, diarrhea.
+[00:40:19] We talked.
+[00:40:20] About A and B, and we also talked about that
+[00:40:23] they inactivate regulatory pathways mediated by raw family proteins.
+[00:40:28] You can't really forget about that.
+[00:40:30] These are involved in the cytoskeleton structure and signal transduction
+[00:40:34] via guanos in triphasate, and this disruption can lead to
+[00:40:38] cell retraction, apoptosis.
+[00:40:41] So again, you should definitely make a note.
+[00:40:43] of what actually happens.
+[00:40:45] So el apoptosis takes place.
+[00:40:47] So this is a disruption of intracellular tight junction, one
+[00:40:50] of the mechanisms that I showed you that can lead
+[00:40:53] to diarrhea.
+[00:40:55] So what basically happens is that toxin A attracts neutrophils,
+[00:41:00] and as a result of that, now there is inflammation,
+[00:41:03] and that leads to this loss of um.
+[00:41:06] Water or loss of fluid in your gut lumen.
+[00:41:10] Toxin B, on the other hand, it causes actin depolymerization,
+[00:41:15] and actin depolymerization can affect the overall integrity of your
+[00:41:20] cytoskeletal structure.
+[00:41:22] So that's why it is really important for virulence of
+[00:41:25] C.
+[00:41:25] diff, and toxin is important for inflammation and fluid secretion.
+[00:41:31] So again, as far as C.
+[00:41:32] diff was concerned, um, that was all we needed to
+[00:41:35] talk about.
+[00:41:36] So that takes care of all of the infections.
+[00:41:39] Now, the last one is a very simple um objective.
+[00:41:42] I'll go over that and we'll solve some questions.
+[00:41:45] So this is treatment options for diarrhea.
+[00:41:48] Again, throughout the course, you learn that you can replace
+[00:41:52] fluid and electrolyte.
+[00:41:53] You give the IV hydration if needed.
+[00:41:56] You learned about several anti-motility, anti-secretory agents, antibiotics.
+[00:42:00] I'm not going to go over those again, but you
+[00:42:03] already learned about that.
+[00:42:04] But I do want to talk about the oral rehydration
+[00:42:07] therapy.
+[00:42:08] So, What they basically do is, for example, when they
+[00:42:12] went to Haiti, they boil water.
+[00:42:15] Why boil water?
+[00:42:16] Because you don't want to introduce additional infections, and then
+[00:42:19] you let it cool and you add salt and sugar
+[00:42:22] to that.
+[00:42:22] And the principle is this, this SGLT1 transporter, when glucose
+[00:42:28] goes inside, sodium follows.
+[00:42:30] When sodium follows, then water follows.
+[00:42:34] So glucose.
+[00:42:34] is the driver of rehydration.
+[00:42:37] So make a note of that because for some reason,
+[00:42:40] your USMLA really wants you to uh know that.
+[00:42:43] So, this was the basis of oral rehydration therapy.
+[00:42:47] So now, let us solve a couple of questions and
+[00:42:49] we'll be done.
+[00:42:50] So study checkpoint question, which one is incorrect?
+[00:42:53] Symptoms of nausea, violent vomiting due to staph aureus, they
+[00:42:57] develop slowly.
+[00:42:58] Do we agree?
+[00:43:01] We do not agree with that, right?
+[00:43:04] Because SRES has that pre-formed toxin, so it is really
+[00:43:09] rapid.
+[00:43:10] The symptoms do not develop very slowly.
+[00:43:13] So, ETC heat label toxin stimulates ademunno cyclase, increases cyclic
+[00:43:18] MP, increases chloride secretion and water reflux.
+[00:43:22] It is each stable toxin stimulates granulatesicase, increases cyclic GMP,
+[00:43:28] and decreases resumption of sodium chloride and water.
+[00:43:31] So those were major principles.
+[00:43:33] And the pathophysiology of C.
+[00:43:35] diff infection involves disruption of intracellular tight junctions.
+[00:43:39] Again, uh, really important to know.
+[00:43:41] So let us see how they ask you in boats.
+[00:43:45] So a 2.
+[00:43:45] Four year old woman presents to urgent care setting with
+[00:43:48] nausea, vomiting, abdominal cramps.
+[00:43:51] By now you know that nausea, diarrhea, vomiting is not
+[00:43:54] going to help you identify anything during GI, right?
+[00:43:57] Because most of the cases are going to present.
+[00:43:59] So let us see what else is happening.
+[00:44:02] She felt, uh, well earlier in the day.
+[00:44:05] What does that tell you?
+[00:44:06] It's not chronic, and she played in a soft belly.
+[00:44:09] Tournament followed by a potluck lunch with other players.
+[00:44:12] Her symptoms began after being home for 2 hours.
+[00:44:16] So now you know it is very, very quick, right?
+[00:44:19] And she denies fever, has no diarrhea.
+[00:44:22] Sometimes there she could have diarrhea.
+[00:44:23] Exam is notable for mild diffused abdominal tenderness, and which
+[00:44:27] of the following is responsible for this patient's illness.
+[00:44:31] So let us solve it together.
+[00:44:33] First of all, do you think endodoxin is at all
+[00:44:36] possible here?
+[00:44:38] No, we can get rid of that.
+[00:44:40] Do you think 2 hours is enough time for bacterial
+[00:44:43] invasion of intestinal mucosa?
+[00:44:47] No?
+[00:44:48] So now, it is between exotoxin form prior to injection
+[00:44:52] and after injection.
+[00:44:53] So what are you leaning towards?
+[00:44:57] See, right?
+[00:44:58] So, again, I just wanted to bring this that it
+[00:45:00] was not chronic, only 2 hours.
+[00:45:03] Endotoxin was not a good option.
+[00:45:05] This was not a good option.
+[00:45:06] So it was exotoxin uh prior to injection.
+[00:45:10] So this was SRS.
+[00:45:11] Now, this was actually, um, I actually uh check out
+[00:45:15] a lot of these discussion boards.
+[00:45:17] To see which questions are being um discussed more or
+[00:45:21] they are very much in fashion at that particular year.
+[00:45:25] So this was one of the questions that 22, again,
+[00:45:28] with GI exam, this question is really easy, but when
+[00:45:32] you take boards, when all different disciplines are mixed, this
+[00:45:35] can become a little bit difficult.
+[00:45:37] So 22 year old woman comes to the urgent care
+[00:45:40] clinic with sudden onset of severe vomiting.
+[00:45:43] She was at a picnic with her boyfriend a few
+[00:45:45] hours earlier, enjoying barbecue, potato salad.
+[00:45:49] Your family really doesn't like potato salad.
+[00:45:51] They, a lot of time you will see in New
+[00:45:53] world also they have potato salad and cake.
+[00:45:56] Shortly thereafter they began, she began vomiting.
+[00:45:59] She has vomited.
+[00:46:00] Admitted 5 times in the last 3 hours, no prior
+[00:46:03] history of symptoms, and a few hours of observation, her
+[00:46:05] symptoms abate, she's safely, so it was self-limiting, so which
+[00:46:09] is most likely cause, right?
+[00:46:12] So let us solve, actually, I can make a case
+[00:46:15] for each of them, and then we can discard why
+[00:46:18] that was not the perfect choice.
+[00:46:20] So viral infection.
+[00:46:22] Do you think viral infection can cause this?
+[00:46:25] Right?
+[00:46:26] So for the interest of time, let us go over
+[00:46:28] this.
+[00:46:29] Viral infection may cause gastroenteritis, including vomiting, diarrhea, but her
+[00:46:35] presentation and recent food infection is highly suggestive that she
+[00:46:40] had food poisoning and she didn't have a viral infection
+[00:46:43] that was going on.
+[00:46:44] Is everybody OK with that?
+[00:46:46] That's how I would discard it.
+[00:46:48] Hepatitis.
+[00:46:50] You learned this from Dr.
+[00:46:51] Deis.
+[00:46:51] There is one hepatitis virus that can cause symptoms like
+[00:46:55] this.
+[00:46:57] Any thoughts?
+[00:47:00] Which was that, that could be foodborne, it can cause
+[00:47:03] something like this.
+[00:47:05] Hep A, absolutely.
+[00:47:07] So, I can make a case for hep A.
+[00:47:11] It can cause nausea, vomiting, it can be self-limited, but
+[00:47:16] usually it lasts for weeks and not hours.
+[00:47:19] She was feeling fine, so I would discard it based
+[00:47:22] off of that.
+[00:47:23] Third one was gallstones.
+[00:47:26] Again, a little bit out there, but I can make
+[00:47:29] a little bit of a case for that, that they,
+[00:47:32] the symptoms can present with colicky pain, but her history
+[00:47:35] of recent potato salad consumption, rapid onset and vomiting is
+[00:47:40] more consistent with food poisoning.
+[00:47:42] So that's why I would discard gallstones.
+[00:47:46] So now it is between toxin ingestion.
+[00:47:48] spore forming versus non-spore forming.
+[00:47:52] And again, if they give you a boiled chicken broth
+[00:47:55] or something, I can make a case for spore forming
+[00:47:59] like bacillus, right?
+[00:48:01] But they have given you potato salad, meaning it was
+[00:48:03] not cooked, so then I would go with SRES that
+[00:48:08] it was because it doesn't, it's not really heat resistant
+[00:48:11] in that way where bacillus would be.
+[00:48:14] So again, um, as I, I thought that discussion that
+[00:48:17] they were having on that board was really interesting.
+[00:48:19] Is everybody OK with this?
+[00:48:21] All right.
+[00:48:22] And the last question I put in mainly because we
+[00:48:25] just quickly wanted to review all different mechanisms.
+[00:48:28] So, 55 year old male is hospitalized with symptoms of
+[00:48:30] necrotizing enterocolitis, nausea, vomiting, diarrhea, fever, radiologic findings showed bowel
+[00:48:36] thickening.
+[00:48:36] They already told you that he has staph, and which
+[00:48:39] of the following explains the underlying mechanism of pathogenesis.
+[00:48:44] So, Among these four, activation of enterosycyclic GMP, inactivate regulatory
+[00:48:50] pathways mediated by row family, activation of GSA, stimulation of
+[00:48:55] vagus nerves.
+[00:48:56] So first, let us see which is the mechanism of
+[00:48:59] staff.
+[00:49:01] Shout it out.
+[00:49:03] D, right?
+[00:49:04] The stimulation of the vagus nerve in the abdominal viscera,
+[00:49:07] that's the mechanism.
+[00:49:08] But let's see what, what, uh, what do we understand
+[00:49:12] with this Activation of enterocyte cyclic GMP, that is the
+[00:49:17] ETEC stable toxin.
+[00:49:20] The inactivate regulatory pathway is mediated by Rowe family.
+[00:49:23] Who does that remind you of?
+[00:49:25] C.
+[00:49:26] diff, and activation of GSA through an ADP, um, ribosylation
+[00:49:31] reaction.
+[00:49:34] Cholera-like toxin, right?
+[00:49:35] So I just wanted to review all those, and I
+[00:49:38] think that was the last question, and we are done
+[00:49:41] exactly in 150 minutes.
+[00:49:42] So these are your digital flashcards.
+[00:49:45] So that was all, folks.
+[00:49:46] So we will take a 10-minute break and then we
+[00:49:48] will start with the review session.
+[00:49:51] Thank you.

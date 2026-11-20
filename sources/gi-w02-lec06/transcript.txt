@@ -1,0 +1,1028 @@
+[00:00:00] Um.
+[00:00:01] This is the liver weak, and we are going to
+[00:00:04] kick it off with hepatobiliary secretions and GI peptides.
+[00:00:10] These are your disclosures and these are your objectives, and
+[00:00:14] before I start, um, as the liver physiology is more
+[00:00:18] descriptive, I have added a number of note slides to
+[00:00:22] this particular lecture and hopefully that should be helpful to
+[00:00:25] you.
+[00:00:26] So the first objective is to describe the functions of
+[00:00:30] the liver, and actually if you look at this slide,
+[00:00:33] you already know most of the stuff on this slide.
+[00:00:36] Why?
+[00:00:36] Because you have learned about this in various ALGs and
+[00:00:39] lectures, but it kind of brings it together.
+[00:00:43] So first of all, as we have been talking about,
+[00:00:46] the bile production is one of the most important functions
+[00:00:49] of the liver from.
+[00:00:50] AI point of view and we are going to talk
+[00:00:52] about that today.
+[00:00:53] The other function is storage, and again we'll talk about
+[00:00:57] that, but before I go into all of that, this
+[00:01:00] is something that you learned in the MBM course last
+[00:01:03] year.
+[00:01:03] We are just going to take a quick review of
+[00:01:05] that from GI point of view.
+[00:01:07] So liver is kind of front and center of our
+[00:01:10] metabolism.
+[00:01:12] So for carbohydrate, we know that it is involved.
+[00:01:15] In storage of large amount of glycogen, conversion of galactose
+[00:01:19] and fructose to glucose, gluconogenesis, where we make glucose from
+[00:01:23] non-carbon sources, also interconversion of various forms of carbohydrate.
+[00:01:29] In the fat metabolism, we know that liver does beta
+[00:01:32] oxidation of fatty acids, so we can get energy, for
+[00:01:36] example, for gluconeogenesis.
+[00:01:38] So it synthesizes cholesterol and other compounds, and it can
+[00:01:42] synthesize fat from proteins and carbohydrate.
+[00:01:46] You learn that that is called VDL.
+[00:01:49] Then in case of protein, I taught you that when
+[00:01:51] we, for example, degrade the dietary proteins, we degrade them
+[00:01:55] to their amino acid level.
+[00:01:57] Then we remove the amino groups, so then ammonia is
+[00:02:00] created, which is very toxic.
+[00:02:03] Liver converts it to urea.
+[00:02:05] That's a very important function.
+[00:02:06] But in addition to that, it can also do some
+[00:02:09] interconvergence of amino acid, formation of plasma proteins, and all
+[00:02:14] that.
+[00:02:15] So storage and all the different metabolic pathways for carbohydrate,
+[00:02:20] protein, fat, that's an important function of the liver.
+[00:02:22] In addition to glycogen, it can also store fat, copper,
+[00:02:27] iron, blood, but also fat soluble vitamins, for example, vitamin
+[00:02:32] A, D, they can.
+[00:02:33] stored for months.
+[00:02:35] Um, vitamin B12 is the only water soluble vitamin that
+[00:02:38] can be stored for months in liver, and it's also
+[00:02:42] like we talked about removal of ammonia, which is detoxification,
+[00:02:46] but also for various drugs, alcohol that we talked about
+[00:02:49] in the MBM course, it can synthesize various compounds like
+[00:02:53] albumin, clotting factors, or phagocytosis.
+[00:02:56] So again, as I said, it's a front and center
+[00:02:59] of all different metabolic pathways.
+[00:03:02] Now.
+[00:03:03] The liver has a very unique dual blood supply that
+[00:03:06] helps all of these functions, and you are going to
+[00:03:09] talk about this in your anatomy labs.
+[00:03:11] Also, Dr.
+[00:03:12] Deutsch is going to talk about it today.
+[00:03:14] I'm just introducing this to you from a liver function
+[00:03:18] point of view.
+[00:03:19] So I gave you a note slide.
+[00:03:20] Let us start with that.
+[00:03:22] That liver receives blood from two distinct sources the hepatic
+[00:03:26] artery and the portal vein, and you will talk about
+[00:03:29] portal vein a lot this time.
+[00:03:32] So the hepatic Artery, so this is your liver, and
+[00:03:34] hepatic artery brings oxygen rich blood from the heart, while
+[00:03:39] the portal vein, it brings nutrient rich blood from your
+[00:03:44] digestive system, basically from your pancreas, your intestines and stomach
+[00:03:48] and all that.
+[00:03:49] So now you can imagine that liver is ideally located
+[00:03:53] to receive all these absorbed nutrients, and it can detoxify
+[00:03:58] whatever it needs to detoxify, for example, drugs or toxins.
+[00:04:03] So again, as far as the liver and anatomy is
+[00:04:06] concerned, that's kind of setting up for the next step.
+[00:04:09] So that brings us to the next objective, metabolism of
+[00:04:13] bilirubin.
+[00:04:14] Again, this is something that I taught you in the
+[00:04:16] MBM course, but now we are going to review that
+[00:04:19] from a GI point of view.
+[00:04:20] I gave you a note slide for this, but let
+[00:04:23] us just break this down.
+[00:04:24] So first of all, all of you know that RBCs,
+[00:04:27] they come with some kind of shelf life, right?
+[00:04:30] 120 days.
+[00:04:31] So after that they lice and heme is generated.
+[00:04:35] That's a waste product from him we convert that to
+[00:04:38] bilirubin that we convert to bilirubin, which is very insoluble,
+[00:04:44] and then we put it on some kind of universal
+[00:04:47] transporter like albumin, and then we take it to the
+[00:04:51] liver, and that's where now we conjugate it.
+[00:04:55] We conjugate it with 2 uric glucuronic acid, which adds
+[00:04:59] two negative charges.
+[00:05:01] And then, this is a conjugated bilirubin.
+[00:05:04] It is soluble, and the enzyme responsible, do make a
+[00:05:07] note of the enzyme bilirubin glucuronyl transferase.
+[00:05:11] So now you have conjugated bilirubin.
+[00:05:14] You can take that and put it in bile.
+[00:05:16] So basically what did you do here?
+[00:05:19] You took a waste product of RBCs after their life
+[00:05:22] was done, and then you created biliverdine, bilirubin, which is
+[00:05:26] very insoluble.
+[00:05:27] You took that and now you created something useful from
+[00:05:31] that that is by by conjugating bilirubin with UDP glucuronic
+[00:05:36] acid.
+[00:05:37] So that is your overall mechanism of bilirubin formation and
+[00:05:41] solubilization and the same thing I wrote down in the
+[00:05:44] notes slide.
+[00:05:44] So you have that to follow up.
+[00:05:47] Now we are going to now go to the next
+[00:05:50] step.
+[00:05:50] Now remember whenever I say bile that Various components to
+[00:05:54] that.
+[00:05:55] So it has bile acid, bile salt, and I will
+[00:05:57] repeat that several times in this lecture.
+[00:06:00] Bilirrubin is only one component of that.
+[00:06:03] Now bile salts in the bile, they will be recycled,
+[00:06:07] but bilirubin is the passenger of the bile that gets
+[00:06:11] degraded.
+[00:06:11] You don't really recycle that, right?
+[00:06:14] So let us again break down this picture.
+[00:06:16] There's not much in here, but I will focus on
+[00:06:18] what is important.
+[00:06:19] So in the previous picture, we learned about conjugated bilirubin.
+[00:06:23] We are liberating that into the small intestine, and we
+[00:06:27] know that there are gut bacteria and our inside of
+[00:06:29] the intestine is not sterile.
+[00:06:31] So what happens with this gut bacteria?
+[00:06:34] They hydrolyze that to create urobilinogen, which is colorless, and
+[00:06:40] then that gets oxidized to compounds like sarcobilin, which gives
+[00:06:45] feces the characteristic brown color, and also it gives urine
+[00:06:50] the yellow color, so there's not much.
+[00:06:52] Here, but basically the conjugated bilirubin is acted upon by
+[00:06:56] the bacteria.
+[00:06:57] You create urobilinogen, and that gets oxidized to stercobilin that
+[00:07:02] goes into feces and as well as urine, gives the
+[00:07:05] brown and yellow color.
+[00:07:06] So this is how the bilirubin gets processed.
+[00:07:11] So now moving forward, do make a note of this
+[00:07:13] slide.
+[00:07:13] This is a really important slide.
+[00:07:15] Questions do get asked on this.
+[00:07:17] This is neonatal jaundice.
+[00:07:19] And again, you have another lecture coming up in the
+[00:07:22] pediatric GI lecture where you will learn about several different
+[00:07:25] types of jaundicees, but we start with neonatal jaundice here.
+[00:07:29] So about 60% of full-term newborns, they develop jaundice.
+[00:07:34] This is called neonatal.
+[00:07:35] Now why does this happen?
+[00:07:37] Because their liver is not fully developed.
+[00:07:40] So they have low levels of hepatic enzyme glucuronyl transfer
+[00:07:44] is, the enzyme that I told you about.
+[00:07:46] So because the bilirubin is not conjugated, it is less
+[00:07:50] soluble, and now what will happen, it is deposited in
+[00:07:53] the hydrophobic, that is fat environments like skin slare of
+[00:07:58] the eye, so these babies, they look jaundiced.
+[00:08:00] So what do you do to help them?
+[00:08:02] No, actually, within a week or so, their liver develops,
+[00:08:06] they have enough amount of enzymes, they will be.
+[00:08:08] Fine, but before that, to resolve this jaundice, they are
+[00:08:13] placed under phototherapy, that is under light 425 to 475
+[00:08:19] nanometers.
+[00:08:20] Now what happens in the phototherapy?
+[00:08:22] The insoluble that is transbilirubin gets converted to water soluble
+[00:08:27] cis form because bilirubin absorbs that light and then gets
+[00:08:31] converted.
+[00:08:32] This conversion takes place.
+[00:08:34] Now I have given you one paper if anybody's interested,
+[00:08:37] you can.
+[00:08:37] A look at that, but there are several of these
+[00:08:40] papers that natural sunlight is actually more effective than this
+[00:08:43] kind of phototherapy.
+[00:08:45] However, you can't really take babies out in the natural
+[00:08:48] sunlight because cold could be a problem, right?
+[00:08:51] Babies don't have a lot of fat, so they may
+[00:08:53] may not be able to withstand cold.
+[00:08:56] So that's why phototherapy is given.
+[00:08:58] Now I have two stories to tell about this, and
+[00:09:00] I don't know the absolute historical accuracy, but how this
+[00:09:04] came about was that.
+[00:09:07] There was this pediatric GI nurse in Sussex County, and
+[00:09:11] she always claimed that the babies under her care, they
+[00:09:15] did not develop neonatal jaundice because she used to take
+[00:09:18] them out in the sunlight every day for a few
+[00:09:21] minutes.
+[00:09:22] And there was another report where in a hospital they
+[00:09:25] kept patient samples one day by mistake at a windowsill.
+[00:09:29] So what happened was the natural sunlight hid there.
+[00:09:32] And then the trans bilirubin got converted to cis bilirubin.
+[00:09:36] Now those patients from uh where the samples came from,
+[00:09:39] they were really sick, but the labs didn't show that,
+[00:09:42] so they dug deeper, and then that's how they, um,
+[00:09:45] found out.
+[00:09:46] So again, as I said, this is a really important
+[00:09:49] concept.
+[00:09:49] So I also put in a summary slide.
+[00:09:51] This is your moneymaking slide, as I would say.
+[00:09:54] There are two mechanisms for solubilizing bilirubin.
+[00:09:58] One is the natural way where we conjugate it with
+[00:10:01] glucuronic acid.
+[00:10:02] Make a note of that enzyme, so bilirubin is conjugated,
+[00:10:06] becomes solubilized, but in case of those babies who have
+[00:10:09] that neonatal jaundice, it is phototherapy, the isomerization from tra
+[00:10:16] toys.
+[00:10:16] So there are two different mechanisms, and I will also
+[00:10:19] show you how board can ask you questions on that.
+[00:10:22] But are we good with this?
+[00:10:24] All right, so now let us see how they can
+[00:10:27] ask you an NBME type of exam question.
+[00:10:30] So 3 day old newborn baby girl is brought to
+[00:10:33] the clinic by her parents.
+[00:10:35] She has yellowing of the skin and sclera, so that's
+[00:10:38] your indication.
+[00:10:39] Blood tests confirms she has hyperbilirubinemia, so they already tell
+[00:10:43] you that, and she's given phototherapy that resolved her symptoms,
+[00:10:49] and they are asking you what explains this treatment.
+[00:10:52] So basically, Mechanism of phototherapy.
+[00:10:56] Now, as I told you, as soon as you look
+[00:10:58] at the distractors, two distractors kind of should start disappearing.
+[00:11:02] So increase gluconidation of bilirubin, increase conversion of bilirubin to
+[00:11:07] more soluble forms, decrease destruction of RBCs, and reduce.
+[00:11:12] Degradation of him.
+[00:11:14] So they're asking you what is the mechanism of phototherapy
+[00:11:18] that will resolve her hyperbilinemia, right?
+[00:11:21] So look at the distractor scene.
+[00:11:24] Does phototherapy have anything to do with destruction of RBCs?
+[00:11:29] No, can I cut that out?
+[00:11:31] Right?
+[00:11:32] So when I'm solving this question as a student, that's
+[00:11:34] the first thing I will get rid of.
+[00:11:36] Look at the choice D.
+[00:11:38] Does it sound something similar to C to you?
+[00:11:41] Right?
+[00:11:42] So again, nothing to do with degradation of him, so
+[00:11:45] I would get rid of that.
+[00:11:47] And then the first choice is asking you about the
+[00:11:50] enzymatic process, right?
+[00:11:52] And this is phototherapy.
+[00:11:54] It's not doing that.
+[00:11:55] Is everybody with me so far?
+[00:11:57] So I'm going to get rid of that.
+[00:11:59] So the correct answer here was B.
+[00:12:02] During phototherapy, the trans bilirubin, it gets converted to more
+[00:12:07] water soluble cyst form.
+[00:12:09] Are we OK with this?
+[00:12:11] All right.
+[00:12:13] Moving on, so what is the physiological anatomy of biliary
+[00:12:16] secretion and composition of bile?
+[00:12:19] So again, I kind of put this orientation overview slide
+[00:12:22] for us just so that this met the entire metabolism
+[00:12:26] is right um at our mind.
+[00:12:29] So first of all, conjugated bilirubin, we know that it
+[00:12:32] is secreted by the liver.
+[00:12:34] We have been talking about that.
+[00:12:35] That is only one component of bile.
+[00:12:38] There are several other components, as we are going to
+[00:12:41] talk about.
+[00:12:42] So this yellow circle, right?
+[00:12:44] This is your bile.
+[00:12:45] It has, as we talked about, bilirubin, it has bile
+[00:12:49] acids, bile salts, phosphatidylcholine, cholesterol, water, and ions, etc.
+[00:12:55] Now bile is secreted by the liver and it is
+[00:12:58] stored and concentrated up to 15 times in the gallbladder,
+[00:13:02] OK?
+[00:13:02] So every time we are digesting fat or something, we
+[00:13:05] are not really going to create bile, we just take
+[00:13:08] it from gallbladder.
+[00:13:10] So bile is a watery mixture of all of these
+[00:13:12] different compounds, and these ions and water, they're secreted into
+[00:13:17] the bile by epithelial cells lining the bile ducts.
+[00:13:20] So this is kind of our basic information.
+[00:13:22] We are going to build on that.
+[00:13:24] Now, cholesterol will gets converted to bile acids that get
+[00:13:28] converted to bile salts, and I'm going to tease that
+[00:13:31] out a little more.
+[00:13:32] And what did we learn that these bile salts and
+[00:13:35] bile acid, they're very useful for fat digestion, so that
+[00:13:39] gets puts in the bile, right?
+[00:13:41] And we just now talked about that heme degradation gives
+[00:13:44] rise to conjugated bilirubin that gets also put in the
+[00:13:48] bile, and this is a very useful pathway for excretion
+[00:13:52] of something that is a waste product.
+[00:13:54] Is everybody OK so far?
+[00:13:56] So now we are going to build on that, and
+[00:13:59] that's what this slide tells you.
+[00:14:01] So there are two functions of bile for fat digestion
+[00:14:04] and absorption, emulsification of fat.
+[00:14:06] We talked about that last week, but also today we
+[00:14:09] talked about excretion of waste products.
+[00:14:12] One was that bilirubin, and the second one is cholesterol.
+[00:14:15] If we think about it, cholesterol has a steroid nucleus.
+[00:14:19] You can't really degrade it to carbon dioxide and water.
+[00:14:22] So what do you do?
+[00:14:24] You can convert cholesterol to vitamin D or steroid hormones,
+[00:14:28] or you can make bilases from that.
+[00:14:31] So that's how you metabolize cholesterol, and these are the
+[00:14:35] two main functions of bile.
+[00:14:36] Now, let us talk about how we actually uh secrete
+[00:14:41] this, all this bile.
+[00:14:42] What is the physiology?
+[00:14:43] So before we come back to this picture, let us
+[00:14:46] go over the note slide for a couple of points.
+[00:14:49] So first of all, liver secretes bile in two stages.
+[00:14:54] So you will get more and more familiar with hepatocytes.
+[00:14:58] These are the principal functional cells of the liver.
+[00:15:01] So they secrete the initial portion, and that has bile
+[00:15:04] acid, cholesterol, and all that.
+[00:15:06] Now remember this is really concentrated, so what do you
+[00:15:09] need to do now?
+[00:15:11] You need to dilute that.
+[00:15:13] So that dilution comes from this watery solution of sodium
+[00:15:17] bicarbonate that is secreted by.
+[00:15:19] The epithelial cells that line the ducts and ducts, which
+[00:15:23] we again talked about the slide before, right?
+[00:15:26] So that's how this is a two part secretion that
+[00:15:29] makes up the bile.
+[00:15:31] Now whenever I talk about water and bicarbonate, you know
+[00:15:35] that that will be stimulated by secreting.
+[00:15:37] We talked about that in the first week, so that's
+[00:15:40] what happens.
+[00:15:41] So as the bile is produced by the liver, it
+[00:15:44] flows through.
+[00:15:45] bile ducts into the gallbladder where now we store it
+[00:15:48] and then this is in between the digestive processes and
+[00:15:52] again it's going to concentrate that.
+[00:15:54] Now imagine gallbladder like a balloon and it's going to
+[00:15:57] just keep that bile in that and it will not
+[00:16:01] empty that in the duodenum because the sphincter of Ori
+[00:16:04] is closed.
+[00:16:05] What is the sphincter of chri?
+[00:16:08] This is basically there is a thick and.
+[00:16:10] Booth muscle of the bile duct, which is at the
+[00:16:13] entrance to the duodenum.
+[00:16:14] So this is how it looks like, right?
+[00:16:16] This is your liver.
+[00:16:17] This is the gallbladder, and look at this.
+[00:16:20] This is emptying into the duodenum.
+[00:16:22] So your chime, which is partially digested food, is coming
+[00:16:25] from top.
+[00:16:26] It is coming from stomach, emptying into the duodenum, but
+[00:16:30] now your bile is coming from here and it's going
+[00:16:33] to mix with that.
+[00:16:34] But the sphincter.
+[00:16:35] Of a eye is closed, so bile is not going
+[00:16:38] to get mixed unless you give a signal to the
+[00:16:41] gallbladder.
+[00:16:42] Release the bile.
+[00:16:43] Where does the signal come from?
+[00:16:45] CCK.
+[00:16:46] So about 30 minutes after you had your meal, CCK
+[00:16:50] will do these two things.
+[00:16:52] It will come via bloodstream and it causes contraction of
+[00:16:56] the gallbladder, and I will show you some board style
+[00:16:59] questions why that.
+[00:17:00] Matters, so CCK will squeeze on that balloon, which is
+[00:17:04] gallbladder, and because of that, now bile is released and
+[00:17:08] then relaxation of the sphincter of Odi.
+[00:17:10] So then now bile is released, comes with and mixes
+[00:17:14] with this kind which is partially digested food.
+[00:17:17] So that is basically the physiology that occurs for biliary
+[00:17:20] secretion and again, the notes have written that in detail.
+[00:17:24] Are we OK with this concept?
+[00:17:27] All right.
+[00:17:28] Moving on.
+[00:17:29] So now we are going to review very briefly the
+[00:17:33] lipid metabolism that you learned in the MBM course, as
+[00:17:37] well as synthesis of bile from cholesterol.
+[00:17:39] Again, absolutely nothing new in there, but very briefly and
+[00:17:43] from GI point of view.
+[00:17:45] So first of all, I made this animation to again
+[00:17:48] remind you of those three pathways you learned from Dr.
+[00:17:51] De Silva, right?
+[00:17:52] So the first one, these are all cholesterol metabolism pathways.
+[00:17:56] One is exogenous, and as the name suggests, something is
+[00:18:00] coming from outside.
+[00:18:02] So the cholesterol is coming from diet.
+[00:18:04] It is getting packed in the form of chylomicron in
+[00:18:07] the intestine, so the small intestine.
+[00:18:10] So the chimolomicron is passing through blood and cholesterol gets
+[00:18:14] delivered to the peripheral tissues.
+[00:18:16] That's your exogenous pathway.
+[00:18:19] The endogenous pathway, as the name suggests, something is getting
+[00:18:23] synthesized inside.
+[00:18:25] So your VDL particle is getting synthesized in the liver
+[00:18:29] using your proteins and carbohydrate.
+[00:18:32] That cholesterol passes through blood, goes and gets delivered.
+[00:18:36] To the peripheral tissues.
+[00:18:37] OK, so you used up all that cholesterol.
+[00:18:40] Now you need liver's cholesterol transport.
+[00:18:43] So HDU will take all that used cholesterol and take
+[00:18:47] it back to the liver where now you can utilize
+[00:18:50] it for various purposes, including making bile acid from that.
+[00:18:55] So you already learned these pathways from Dr.
+[00:18:58] De Silva last year.
+[00:18:59] I just wanted you to remind about that.
+[00:19:02] So you also talked about cholesterol getting converted to cholic
+[00:19:06] acid.
+[00:19:06] So cholic acid and quinodeoxycholic acid are primary body acids,
+[00:19:12] and the enzyme was cholesterol 7 alpha hydroxylase.
+[00:19:15] Again, we are not going to worry about all the
+[00:19:17] what are the chemical modifications and all that, but the
+[00:19:20] beauty here.
+[00:19:21] Is this cholesterol is extremely insoluble, and the bile acid,
+[00:19:26] folic acid is really soluble and again we will see
+[00:19:30] why clinically we can see diseases because of that.
+[00:19:33] So this enzyme is really important because it is taking
+[00:19:36] something insoluble and converting it into something soluble.
+[00:19:41] So, moving on, now, we are going to add something
+[00:19:45] that is new to you from GI point of view,
+[00:19:48] enter hepatic circulation of bile acids and bile salts.
+[00:19:52] So I gave you these two figures, but I put
+[00:19:54] also a description in the notes slide, but I really
+[00:19:57] like this.
+[00:19:58] Figures because they're really easy to follow.
+[00:20:00] So let us follow that.
+[00:20:02] So what are we doing in the liver?
+[00:20:03] We have primary bile acid, for example, cholic acid.
+[00:20:07] If we minus 10 group, we make secondary bile acid.
+[00:20:11] So all we are doing is primary bile acid, secondary
+[00:20:14] bile acid.
+[00:20:15] If we add glycine or taurine to that, we create
+[00:20:19] respective bile salts.
+[00:20:21] Why do we add glycine or taurine?
+[00:20:23] Because that will lower the PKA value, and bile salts
+[00:20:27] are excellent emulsifying agents, and you want emulsification, right, because
+[00:20:32] these are the ones who are going to do fat
+[00:20:35] emulsification, fat digestion, biliases, and all that.
+[00:20:38] So basically you are taking primary and secondary.
+[00:20:41] Bile acids adding glycine and taurine and creating bile salts
+[00:20:46] which are excellent emulsification.
+[00:20:49] That's all we need to know from here.
+[00:20:51] So we take all that from liver, we carry out
+[00:20:54] all this digestion in the duodenum, but now we need
+[00:20:58] to take it back and put it into the gallbladder
+[00:21:01] so that we recycle the bile.
+[00:21:03] Every time you do digestion, you don't need to do
+[00:21:07] cholesterol to bile.
+[00:21:08] We just take it from gallbladder, right?
+[00:21:10] So now what is the problem?
+[00:21:12] We have to remove glycin and taurine in order to
+[00:21:15] regenerate the bile acids, right?
+[00:21:18] But the problem is that we can add glycine and
+[00:21:21] taurine, but we don't have the enzymatic machinery to remove
+[00:21:25] that.
+[00:21:26] So what happens?
+[00:21:27] There are certain bacteria in our gut like lactobacilli, bifidobacteria.
+[00:21:32] They have this enzyme you don't need to.
+[00:21:34] Memorize the name of the enzyme for the GI course.
+[00:21:37] It is bile salt hydrolyse.
+[00:21:39] Just know that there are certain gut bacteria.
+[00:21:42] They can they can remove that glycin and taurine for
+[00:21:45] us.
+[00:21:46] So then we regenerate these bile acids.
+[00:21:49] We take it to the gallbladder and we store it
+[00:21:51] there.
+[00:21:52] Now why do these bacteria, they remove glycine and taurine
+[00:21:56] for us and help us?
+[00:21:57] Do you think that they do this for the goodness
+[00:22:00] of their heart?
+[00:22:02] Bacteria don't bacteria don't have hearts, right?
+[00:22:05] So they do that.
+[00:22:07] I mean, at least I don't know of any, um,
+[00:22:10] but they do that because it's a symbiotic relationship.
+[00:22:13] So not all gut bacteria have this enzyme, so they
+[00:22:18] can use glycin and taurine as their carbon and.
+[00:22:21] Nitrogen source, so this gives them a selective advantage over
+[00:22:25] other gut bacteria for growth.
+[00:22:28] So we get benefited we can, we can regenerate our
+[00:22:31] bila salts to bile acids, and they can get glycin
+[00:22:35] and tarring.
+[00:22:36] And again, I will show you how they can ask
+[00:22:38] you questions on this.
+[00:22:39] But are we doing OK with this?
+[00:22:42] All right, so now I summarized, um, again this in
+[00:22:45] the note slide, but I also put this in a
+[00:22:47] picture form.
+[00:22:49] And again to explain this picture, I put another note
+[00:22:52] slide just to reinforce so that when you read it,
+[00:22:55] it comes a couple of times.
+[00:22:57] So let us just go over this picture again.
+[00:22:59] So basically what we talked about that we start with
+[00:23:02] the liver, we take cholesterol, make bile acids, bile salt,
+[00:23:07] then we take it to gallbladder, and they showed that
+[00:23:09] iron and water is going out because it's really concentrate.
+[00:23:12] Concentrated there, then when we have food digestion going on,
+[00:23:15] CCK will squeeze on gallbladder.
+[00:23:18] It will get released into the duodenum.
+[00:23:20] Your digestion will take place, and they don't show all
+[00:23:23] the details in the picture, but we learn bile salts
+[00:23:26] get converted to bile acid and then it will get
+[00:23:29] stored in the gallbladder.
+[00:23:30] So that was basically what the enterohepatic circulation is all
+[00:23:35] about.
+[00:23:35] Are we OK with this?
+[00:23:37] All right.
+[00:23:39] So again, it's written step 1, step 2, I wrote
+[00:23:41] down all of the description.
+[00:23:43] So now we can understand how bile salt deficiency or
+[00:23:48] polithiasis can develop.
+[00:23:50] So again, what are we doing here?
+[00:23:51] We are taking cholesterol, which is really insoluble and converting
+[00:23:55] it to bile acid, bile salt, which is soluble, right?
+[00:23:59] Now bile acid and bile salt, they are the product
+[00:24:01] of the reaction, but what they also do is they
+[00:24:05] solubilize cholesterol.
+[00:24:07] So cholesterol is coming into the picture and the product
+[00:24:10] is also keeps on.
+[00:24:11] Solubilizing it.
+[00:24:12] So now imagine if you can't really do that conversion
+[00:24:16] cholesterol to bile acid very effectively, what will happen?
+[00:24:20] Cholesterol will start precipitating out and you will have stones.
+[00:24:24] That's called these gallstones or cholelithiasis.
+[00:24:28] And again, in this lecture I'm only introducing you to
+[00:24:31] the concept from physiology.
+[00:24:32] Point of view in the next lecture, Dr.
+[00:24:35] Dicipio is going to really go over that in detail
+[00:24:37] from a disease point of view.
+[00:24:39] So why can this occur?
+[00:24:41] And this actually happens in about 20% of the population.
+[00:24:44] So first of all, severe ileal disease.
+[00:24:48] Now I talked about this a lot.
+[00:24:50] First day.
+[00:24:50] Anybody remembers why ileal disease can lead to this?
+[00:24:54] What does ileum do?
+[00:24:56] What do we do in ileum?
+[00:24:59] Absolutely, we absorb bile acid and bile salt there, right?
+[00:25:02] So since we do reabsorption of bile there, if there
+[00:25:06] is some problem with ileum, we can't do that effectively,
+[00:25:10] and then it can lead to cholelithiasis.
+[00:25:12] Also, obstruction of bile duct, or there is a severe
+[00:25:15] hepatic dysfunction, so you're not really making bile, all of
+[00:25:19] that can lead to cholelithiasis.
+[00:25:21] Excessive suppression.
+[00:25:22] Of bilacid synthesis, it could be because of some medication
+[00:25:25] like fibrates.
+[00:25:26] I will talk about that, and there could be a
+[00:25:28] genetic problem.
+[00:25:30] So what do you do?
+[00:25:31] So this is a textbook picture of these stones.
+[00:25:33] So sometimes they can disintegrate this by shock waves or
+[00:25:37] by surgery, or there could be oral administration of quinodeoxycholic
+[00:25:42] acid, which is a primary bile acid.
+[00:25:46] So, I gave you this link.
+[00:25:47] This is a link from University of Michigan.
+[00:25:50] When you have time, you can go and look at
+[00:25:52] there, they have active CT scans of several cadavers for
+[00:25:57] several diseases, not just GI, so you kind of get
+[00:26:01] an idea about.
+[00:26:02] Espatially everything, where everything is located.
+[00:26:05] So they had this one CT scan where this huge
+[00:26:09] gallstone was located.
+[00:26:10] So I screen cap for, for that for you, but
+[00:26:14] I also wanted to show you how actually that looked
+[00:26:17] like.
+[00:26:18] Um, the scan.
+[00:26:19] So I'm going to fast forward that.
+[00:26:20] So when you start the scan, you can actually watch
+[00:26:23] all of these different scan and different organs in there.
+[00:26:26] It gives you a pretty good idea about how these
+[00:26:28] organs look like.
+[00:26:30] So I'm going to forward, fast forward this to where
+[00:26:33] it will come.
+[00:26:39] OK.
+[00:26:39] So it will come somewhere around here.
+[00:26:41] That's where I capture, so keep an eye on there.
+[00:26:44] It just comes and goes pretty quickly, pretty large gallstone.
+[00:26:49] It should come somewhere here.
+[00:26:52] Yeah, that's where it came and went.
+[00:26:55] All right.
+[00:26:56] So again, if you're interested, go to that website and
+[00:26:58] look at all of those different scans.
+[00:27:01] Uh, which of the following statements is incorrect?
+[00:27:03] Conversion to bile acid is an effective mechanism by which
+[00:27:07] the body removes cholesterol.
+[00:27:08] Do we agree?
+[00:27:10] Right?
+[00:27:10] Because cholesterol does not have, um, it has a steroid
+[00:27:14] nucleus, so we can't really digest it to, um, carbon
+[00:27:18] dioxide and water, so that's the correct one.
+[00:27:21] Increase in the activity of UDP glucuronyl transferri helps to
+[00:27:24] resolve the neonatal jaundice within a week after birth.
+[00:27:29] Do we agree with that?
+[00:27:31] All right.
+[00:27:32] A patient being treated with fibrates are at risk for
+[00:27:34] cholelithiasis, and I'm going to expand on that, but I
+[00:27:37] just alluded to that, so that is also correct.
+[00:27:40] So the last one has to be incorrect because the
+[00:27:44] higher amount of bile salt, sodium chlorides, it is present
+[00:27:47] in the gallbladder bile because that's where it is concentrated,
+[00:27:50] not in the liver.
+[00:27:52] So, talking about the fibrates, so fibrates are given as
+[00:27:56] an adjuvant therapy and.
+[00:27:57] Cholesterol therapy, but it has a side effect that it
+[00:28:01] can inhibit that enzyme 7 alpha hydroxylates.
+[00:28:05] OK?
+[00:28:06] So what happens, this is the enzyme that I was
+[00:28:08] talking, talking about cholesterol 7 alpha hydroxylase.
+[00:28:12] If somebody is on fibrates, that can get inhibited.
+[00:28:16] So now you can predict what will happen.
+[00:28:18] Cholesterol will not effectively get converted to cholic acid, and
+[00:28:22] if cholic acid is.
+[00:28:23] Not there, cholesterol can start getting precipitated, and that's how
+[00:28:28] you can get cholithiasis.
+[00:28:30] And I wanted to show you a board style question
+[00:28:33] where they may ask you.
+[00:28:34] This is a really good question that addresses fibroids and
+[00:28:37] cholelithiasis.
+[00:28:38] A 45 year old male patient reports to the clinic
+[00:28:41] with recurrent abdominal pain, and he says that after eating
+[00:28:45] fatty food, the pain is worse, and he's on calcium
+[00:28:48] channel blockers.
+[00:28:49] But most importantly for fibrate and the further examination shows
+[00:28:53] presence of gallstone, so which of the enzymes was deficient,
+[00:28:57] and the correct answer here was 7 alpha hydroxyase.
+[00:29:00] So this is because of the decreased biosynthesis because of
+[00:29:04] fibrates, OK?
+[00:29:06] So I have seen some UL questions, some emboss question,
+[00:29:09] and some also in some other question banks based off
+[00:29:12] of that.
+[00:29:12] It's just application of what you have learned.
+[00:29:16] So that brings us to a very short objective, intestinal
+[00:29:19] secretions, including secretion of mucus by Brunner's gland.
+[00:29:24] So first of all, as you can predict, all these
+[00:29:26] intestinal secretions, they will be in water and electrolyte, and
+[00:29:30] one of the most important is alkaline mucus.
+[00:29:33] So there is a bicarbonate-rich mucus that coats and lubricates
+[00:29:37] the intestinal surface because again, acidic stuff is coming in
+[00:29:40] there.
+[00:29:41] You want to protect your intestine, and also you want
+[00:29:44] to adjust the pH to make it more suitable for
+[00:29:46] enzymes.
+[00:29:47] And the digestive enzymes working will be lipase, protease.
+[00:29:51] You already talked about that last week.
+[00:29:54] And don't forget about our disaccharasis friends, sucrase, maltase, isomaltase,
+[00:29:59] lactase.
+[00:29:59] We talked a lot about those last week.
+[00:30:02] So, again, there's not much here, but I do want
+[00:30:05] you to note one point that Bruno's glands are located
+[00:30:09] in the duodenum, um, and they are located in the
+[00:30:11] duodenal submucosa.
+[00:30:13] So I don't know why, but I saw a couple
+[00:30:15] of your questions on this specifically asked where these cells
+[00:30:19] were located.
+[00:30:20] So, just make a note of that, duodenal submucosa, and
+[00:30:24] these glands, as I mentioned, they secrete large amount of
+[00:30:27] alkaline mucus.
+[00:30:28] And mainly the function is to protect our duodenal wall
+[00:30:33] from digestion by the highly, highly acidic gastric juice that
+[00:30:37] is emptying from the stomach.
+[00:30:38] So as far as we are concerned, that's mainly what
+[00:30:41] we wanted to talk about.
+[00:30:43] Now the next objective is GI peptides in its function,
+[00:30:47] and this is one of the simplest learning objectives, but
+[00:30:50] one of the most high-ended objectives, OK?
+[00:30:53] If you I've looked at you, there's so many questions
+[00:30:56] on GI peptides and their function, but it's really straightforward
+[00:30:59] and simple objective.
+[00:31:02] So, and I gave you a lot of review materials
+[00:31:04] so you can really study it in a very time
+[00:31:06] efficient manner.
+[00:31:08] So before we even go on to their function, there
+[00:31:11] are 4 types of them.
+[00:31:13] So endocrines are hormones that are produced by a gland.
+[00:31:16] They travel through blood, and then they have.
+[00:31:19] Target organ, for example, gastrin, CCK, secretin, GIP, motiline.
+[00:31:26] paracrines are also similar, but they usually act on the
+[00:31:28] neighboring.
+[00:31:29] The target is very nearby, for example, stomatostatin and histamine.
+[00:31:34] Now all of these were peptides, but histamine is a
+[00:31:37] non-peptide, and neurocrines, as the name suggests, it is produced
+[00:31:41] by the neurons, travels through the synapse and.
+[00:31:44] Then acts on the target cell VIP and GR GRP.
+[00:31:48] You're going to hear a lot about VIP in the
+[00:31:51] next week.
+[00:31:52] And then the immune ones, they are produced by the
+[00:31:54] epithelial cells of the intestine and as the name suggests,
+[00:31:58] they have epithelial functions.
+[00:32:00] So again, these are major categories.
+[00:32:02] Where are they produced?
+[00:32:03] We again started talking about that last week.
+[00:32:06] You know that gastrin is majorly produced in the antrum,
+[00:32:09] but also to.
+[00:32:10] To a certain extent in the DRNumjegenum, CCK secretin, GIP
+[00:32:14] motiline, they are majorly produced in DRNM and Ginum.
+[00:32:18] CCK secretin, they are also to a certain extent produced
+[00:32:22] in the ileum.
+[00:32:23] Now again we talked about why we need to know
+[00:32:25] that because if there is an injury to a particular
+[00:32:28] region, that hormone will be low and then there will
+[00:32:32] be a cascade downstream effect of that.
+[00:32:36] So that brings me to one slide which I just
+[00:32:39] wanted you to make a note of this, that there
+[00:32:41] are families of structurally similar hormones.
+[00:32:45] One is gastrin and CCK family.
+[00:32:48] What it means is that gastrin and CCK, they are
+[00:32:52] structurally similar to each other.
+[00:32:53] They have a similar primary sequence at the C terminal
+[00:32:57] end.
+[00:32:57] The difference is that gastrin doesn't really care whether it
+[00:33:02] has a surface, it's tyrosine residue at position 6 or
+[00:33:06] 7 from the C terminal N, but that is absolutely
+[00:33:09] required for CCK.
+[00:33:11] Another family is glucagon, GIP, secretin, and VIP.
+[00:33:16] Now, to tell you the truth, even though I love
+[00:33:17] biochemistry, I really didn't think that this was such a
+[00:33:20] high-ended point, but I have seen questions on this and
+[00:33:24] all of the question banks.
+[00:33:25] So do make a note, and again, there's not a
+[00:33:28] lot to remember here, but gastrin and CCK are structurally
+[00:33:32] related, and glucagon, GIP secret and VIP, and I will
+[00:33:36] show you a case-based question, how they will ask you
+[00:33:39] about this.
+[00:33:40] So that brings me to a really interesting concept of
+[00:33:43] how CCK is produced.
+[00:33:45] Now think about it.
+[00:33:46] What does CCK do?
+[00:33:47] It tells pancreas to produce pancreatic enzymes.
+[00:33:51] It tells the gallbladder to release the bile.
+[00:33:53] But do you want to do that when there is
+[00:33:55] no food in the duodenum?
+[00:33:57] You don't want to do that, right?
+[00:33:58] So everything has to be nicely controlled.
+[00:34:01] So how does that occur?
+[00:34:02] So first of all, CCK, which is a peptide, is
+[00:34:06] produced by the eye cells, and there is a CCK
+[00:34:10] releasing factor that promotes that pancreas produces.
+[00:34:14] monitor peptide that also promotes that, but the most important
+[00:34:19] promotion comes from fatty acids and amino acids, and this
+[00:34:23] is interesting.
+[00:34:24] Do you think that when the food reaches duodenum, the
+[00:34:27] fat is completely intact or it's partially digested?
+[00:34:32] It would be some digestion would take place, right?
+[00:34:35] So that's what it says there, fatty acid.
+[00:34:37] Proteins also will not be completely intact.
+[00:34:40] There will be some amino acid.
+[00:34:42] So that's why amino acids and fatty acid, they trigger
+[00:34:47] the synthesis of CCK.
+[00:34:49] So this is where they say that trypsin has positive
+[00:34:52] regulation because it will digest away those proteins, create those
+[00:34:56] amino acids, which will lead to the formation of CCK.
+[00:35:00] But now imagine all the food is gone from DRNM.
+[00:35:04] It's digested.
+[00:35:05] You want to shut off CCK.
+[00:35:07] Then what happens?
+[00:35:09] CC now trypsin has a dual role.
+[00:35:11] It now negatively regulates CCK.
+[00:35:14] So remember, CCK is a peptide, right?
+[00:35:16] It will digest away CCK.
+[00:35:18] It will digest away monitor peptide, it will digest away
+[00:35:21] this releasing factor, and there are no more fatty acid,
+[00:35:25] amino acids, so you can't really produce anymore.
+[00:35:28] CCK.
+[00:35:28] So in the beginning it is promoting production of CCK
+[00:35:33] because it is digesting dietary protein, but later on it
+[00:35:37] will negatively regulate production of CCK.
+[00:35:40] So trypsin has this dual role of production of CCK
+[00:35:44] because again we will keep on emphasizing that when you
+[00:35:47] come to endocrine that no hormone in the body can
+[00:35:50] run amok.
+[00:35:51] Everything has to be controlled really in a fairly finite
+[00:35:55] manner.
+[00:35:56] Now another interesting concept is this Patients who receive TPN,
+[00:36:00] total parental nutrition, they are at risk for developing gallstones.
+[00:36:04] Why?
+[00:36:05] Because of biliary stasis.
+[00:36:07] And this could be caused because they have decreased CCK
+[00:36:11] production as there is lack of internal stimulation.
+[00:36:15] Internal stimulation means internal is your digestive system, your esophagus,
+[00:36:19] stomach, intestine, so that stimulation is not there.
+[00:36:23] Now what do I mean by that?
+[00:36:25] So again, I created this simple animation.
+[00:36:27] Let us follow this.
+[00:36:29] So first of all, if you are eating food, you
+[00:36:31] are not on TPN, you have food in the duodenum,
+[00:36:35] CCK will be stimulated.
+[00:36:36] Is everybody agree with that, right?
+[00:36:39] So if CCK is stimulated, that is going to constrict
+[00:36:42] that gallbladder, bile is going to be released, so there
+[00:36:45] is no biliary stasis, so there's no problem.
+[00:36:48] But patients who are on TPN, where the nutrition is
+[00:36:51] intravenous, so do you think there is food in the
+[00:36:53] diodenum?
+[00:36:55] No?
+[00:36:56] So there is no food in the duodenum.
+[00:36:58] Do you think CCK will be stimulated?
+[00:37:01] No CCK stimulated, and that's why no constriction of the
+[00:37:05] gallbladder to release the bile.
+[00:37:07] And that's why now there will be biliary stasis.
+[00:37:11] Is everybody OK with this concept?
+[00:37:14] All right, so these patients, they're sometimes they are given
+[00:37:17] CCK so they can contract their gallbladder and they, you
+[00:37:20] can actually release some, some type of bile from there.
+[00:37:24] However, it is not strong enough to prevent gallstone production,
+[00:37:28] and I gave one paper here, but there are several
+[00:37:31] papers based on uh cases like that.
+[00:37:34] So that brings me to one slide where Um, we
+[00:37:37] are going to talk a lot about glucagon-like peptide, gastric
+[00:37:41] inhibitory polypeptide, GIP and GLP in endocrine.
+[00:37:45] However, these are GI peptides, so I cannot not introduce
+[00:37:49] them.
+[00:37:50] I have to introduce them.
+[00:37:51] So these are secreted from the intestine upon when you
+[00:37:54] ingest glucose or other nutrients.
+[00:37:57] What do they do?
+[00:37:58] They stimulate insulin secretion for pancreatic beta cell, but also
+[00:38:03] they have some really attractive active activities.
+[00:38:06] For example, they preserve pancreatic beta cell mass, they inhibit
+[00:38:10] apoptosis of beta cells, enhance their proliferation.
+[00:38:14] But what makes them the most attractive target.
+[00:38:17] For treatment of type 2 diabetes is that they will
+[00:38:21] stimulate insulin secretion, but in a glucose dependent manner.
+[00:38:25] Think about it.
+[00:38:26] If your glucose level is low, you don't want to
+[00:38:28] secrete insulin, otherwise the patient will go into hypoglycemia.
+[00:38:32] So you want to do that only when the glucose
+[00:38:34] concentration is high.
+[00:38:36] So that's why this property, glucose dependent insulin secretion, is
+[00:38:41] really attractive.
+[00:38:44] Now, I gave you this one digital flashcard at the
+[00:38:48] end, and I just wanted to show you that if
+[00:38:50] you master this, you should be able to actually remember
+[00:38:53] most of the information about GI hormones, and I did
+[00:38:56] add one aspect there.
+[00:38:58] Remember, stomatostatin does not like anybody, so it is a
+[00:39:02] powerful inhibitor of hormone secretion and cell proliferation.
+[00:39:06] So now you can extrapolate that analogs of stromatostatin can
+[00:39:10] be used for anti-tumor therapy.
+[00:39:13] And you will see that popping up here and there
+[00:39:15] in your question bank.
+[00:39:17] So do make a note of that.
+[00:39:19] But this one card will actually give you gist of
+[00:39:22] everything, most of the things you need to know about
+[00:39:24] that.
+[00:39:25] So that brings me to the last objective, which again
+[00:39:28] I'm not going to ask you exam question on, but
+[00:39:31] because we are going to talk a lot about hunger
+[00:39:34] hormones and endocrine, but again, these are GI peptides, so
+[00:39:37] I just wanted to um talk about them in one
+[00:39:39] slide, and then we will solve some questions.
+[00:39:43] So first of all, ghrelin is called a hunger hormone
+[00:39:46] because it increases appetite.
+[00:39:49] Insulin, peptin, PYY, CCK, they decrease appetite.
+[00:39:53] So there's kind of a balance.
+[00:39:55] But diseases like pradervili, for example, they have high level
+[00:39:59] of ghrelin.
+[00:39:59] That's why they have uncontrolled hunger, and then that's why
+[00:40:03] they, they would eat a lot, and that can lead
+[00:40:05] to obesity.
+[00:40:06] So pharmaceutical industry, they are focused on ghrelin as one
+[00:40:09] of their targets.
+[00:40:11] So for GI codes.
+[00:40:12] I just wanted you to be aware that these are
+[00:40:15] hunger hormones, but we are not really focusing on those.
+[00:40:19] We, I have an entire pop session on these because
+[00:40:22] these are really important from, um, endocrine point of view.
+[00:40:25] So let us solve some questions, and as I told
+[00:40:27] you, a couple of questions could get tricky.
+[00:40:29] So let us just um dive into those.
+[00:40:32] So before that, which one is incorrect?
+[00:40:34] This is a study checkpoint question.
+[00:40:36] Secretin neutralizes the diodinal pH for effective digestion of dietary
+[00:40:40] fats and proteins.
+[00:40:41] Do you agree?
+[00:40:43] All right, CCK causes slowing down of gastric emptying in
+[00:40:48] response to the presence of thyme containing long chain fatty
+[00:40:51] acids in the diodenum.
+[00:40:53] Now I purposefully put this in the question.
+[00:40:55] I just wanted to make it a little more memorable.
+[00:40:57] I didn't tell you about this property of CCK.
+[00:41:00] I told you about two functions.
+[00:41:02] One is release the enzymes from the pancreas.
+[00:41:05] The other one was release the bile from gallbladder.
+[00:41:09] But think about it.
+[00:41:10] You're eating food.
+[00:41:11] Do you want this food to go boom, boom, boom
+[00:41:13] down the GI tract?
+[00:41:15] No, right?
+[00:41:16] You want it to slow down.
+[00:41:18] You want it to mix with bile.
+[00:41:20] You want it to mix with pancreatic enzymes and all
+[00:41:22] that.
+[00:41:24] That's where CCK comes into the picture.
+[00:41:26] It causes slowing down of gastric emptying.
+[00:41:29] That is the third important function of CCK, and it
+[00:41:33] often gets forgotten.
+[00:41:34] That's why I put it in the form of question.
+[00:41:37] So we agree with that.
+[00:41:38] Trypsin acts as a positive regulator of CC at all
+[00:41:42] times, and it digests proteins and all that.
+[00:41:45] Do we agree with that?
+[00:41:47] No, I see some nos.
+[00:41:48] Why?
+[00:41:49] Because no if there are no dietary proteins in the
+[00:41:53] DRdenum, we don't need to produce CCK.
+[00:41:55] Then trypsin will be a negative regulator.
+[00:41:57] It will digest away CCK, monitor peptide, and all that.
+[00:42:01] And the last one we know is correct, GIP and
+[00:42:04] GLP-1, they are excellent for type 2 diabetes because they
+[00:42:08] stimulate glucose dependent insulin secretion.
+[00:42:11] Another study checkpoint question, which one is incorrect?
+[00:42:15] Stimulation of stomatostatin will lead to decreased gastrin and concomitant
+[00:42:19] decrease in acid secretion.
+[00:42:21] This connects also to the first week.
+[00:42:23] Do we agree?
+[00:42:25] All right, conversion of bile salts to bile acids may
+[00:42:29] be affected in a patient being treated with antibiotics for
+[00:42:33] a prolonged time, and this is something that I wanted
+[00:42:35] to tell you how they can ask you an application
+[00:42:38] or second order question.
+[00:42:40] So what did we learn?
+[00:42:41] That we have bile salts, these gut bacteria like lactobacillus.
+[00:42:45] Byobacteria, they remove glycin and taurine for us and give
+[00:42:49] us these bile acids.
+[00:42:51] Now remember, if somebody's on a prolonged antibiotics, it's going
+[00:42:55] to kill all of our gut flora, including these beneficial
+[00:42:59] bacteria.
+[00:43:00] So that could be affected in this patient.
+[00:43:03] That's what it means.
+[00:43:04] So we agree with that, right?
+[00:43:07] So gut bacteria convert bile salts to bile acid, and
+[00:43:10] if you're taking prolonged antibiotics, that will kill bacteria.
+[00:43:14] Decreased CCK production may lead to biliary stasis in patients
+[00:43:18] receiving TPN.
+[00:43:19] We just talked about that.
+[00:43:22] So the last one has to be, and then again
+[00:43:23] I put that in case somebody wanted to review, CCK
+[00:43:27] is produced when we eat food.
+[00:43:29] TPN does not go through our digestive system.
+[00:43:31] It is intravenous, so there is no CCK production.
+[00:43:34] So the last one has to be incorrect because insulin,
+[00:43:37] peptin, CCKPYY, they decrease appetite and ghrelin increases appetite.
+[00:43:44] All right.
+[00:43:45] Are we doing OK so far?
+[00:43:47] So let us solve a couple of exam type questions.
+[00:43:51] This is, cannot emphasize enough.
+[00:43:53] This is a really, really typical question.
+[00:43:55] You will see this in all question banks.
+[00:43:57] A 3 seven-year-old man reports to the emergency department with
+[00:44:00] severe epigastric pain that started after a heavy meal.
+[00:44:05] Gallstones are suspected, and his history shows similar recurrent episodes,
+[00:44:09] each following consumption of meals containing fatty foods, which of
+[00:44:13] the following hormones likely provoke the current episode in this
+[00:44:18] patient CCK, somatostatin, gastrin, secretin.
+[00:44:22] What do you think?
+[00:44:25] CCK.
+[00:44:26] So again, let us talk about that.
+[00:44:28] Why CCK?
+[00:44:29] Think about this gallbladder is a balloon, and you have
+[00:44:34] stones in that, and CCK comes in, especially if you
+[00:44:37] have fatty foods, right?
+[00:44:39] CCK is stimulated, it comes in and squeezes on that
+[00:44:42] balloon.
+[00:44:43] It has to create pain, right?
+[00:44:45] So that's what they say, that there are these pain
+[00:44:49] episodes, especially after.
+[00:44:50] Consumption of meals containing fatty foods.
+[00:44:53] Now here I put in man because I wanted you
+[00:44:56] to know that this can happen for both genders, but
+[00:44:59] in question banks typically they follow this with females.
+[00:45:03] So they say 4 F's females in their 40s, in
+[00:45:07] fertile years, and also most of the time they are
+[00:45:10] overweight.
+[00:45:11] So that's what the 4 F's they would like to
+[00:45:13] follow with respect to gallstones.
+[00:45:16] Second question, a 29-year-old man is on a high protein,
+[00:45:20] low carbohydrate diet in order to build muscles.
+[00:45:25] Which one of the hormones needs to be released to
+[00:45:27] increase the secretion of pancreatic enzymes into the small intestines?
+[00:45:31] So we know who tells pancreas to release all these
+[00:45:34] enzymes.
+[00:45:36] CCK again, and they already told you that CCK is
+[00:45:40] stimulated by amino acids, peptides, fat, and stimulate pancreatic.
+[00:45:45] So the, the two roles of uh CCK that I
+[00:45:47] wanted to focus on.
+[00:45:50] So that brings me to the last question.
+[00:45:53] Um, so this is the one that I was telling
+[00:45:55] you how they can ask about the second order question.
+[00:45:58] A 2nd year medical student goes to the restaurant with
+[00:46:01] his family to celebrate his grandmother's birthday.
+[00:46:05] Being currently in the GI course, he tells his family
+[00:46:08] about the physiological changes that occur in the GI tract
+[00:46:12] due to the consumption of a large meal.
+[00:46:14] He tells them that a certain hormone is stimulated by
+[00:46:17] Acid entering duodenum.
+[00:46:20] This hormone inhibits stomach motility and stimulates bicarbonate secretion from
+[00:46:25] the pancreas, which of the hormone is structurally related to
+[00:46:29] the hormone in question.
+[00:46:31] So first of all, the last part of that question
+[00:46:34] was similar to what you see in the ques in
+[00:46:36] the question that, the first one I made up.
+[00:46:38] I mean, who goes to a dinner and talks about
+[00:46:40] GI codes, right?
+[00:46:42] Um, I would, so I just put that in there.
+[00:46:45] So first of all, what were the key points here?
+[00:46:48] Bicarbonate secretion, and what did I tell you?
+[00:46:51] If you hear about bicarbonate secretion, who are you going
+[00:46:54] to think about?
+[00:46:56] Secreting, right?
+[00:46:57] Absolutely.
+[00:46:59] But they are asking you what is structurally related to
+[00:47:02] the hormone in question.
+[00:47:04] So that was the twist that they can put in.
+[00:47:06] So do pay attention to what they are asking you,
+[00:47:09] OK?
+[00:47:10] So, who is structurally related to secreting?
+[00:47:13] Glucagon, so secretin is.
+[00:47:17] Related to glucagon.
+[00:47:18] So when the acid enters the DR denum, stimulates the
+[00:47:21] secretin by the S cells, and glucagon, secretin, VIP, they
+[00:47:25] are all structurally related.
+[00:47:28] So that's how they can ask you.
+[00:47:30] And I think that was the last question, and then
+[00:47:32] you have your digital flashcards.
+[00:47:35] So again, any questions on liver aspects, I guess GI
+[00:47:40] peptides is probably one of the easiest thing, but that
+[00:47:42] is the high-ended stuff, OK?
+[00:47:45] All right, so we'll take a short break and then
+[00:47:47] Doctor Decipio will go on the pathophysiology of all this.
+[00:47:51] Thank you.

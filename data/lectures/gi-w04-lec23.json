@@ -1,0 +1,184 @@
+{
+ "lecture_id": "gi-w04-lec23",
+ "block": "GI",
+ "week": 4,
+ "lecture": "23 Gastrointestinal Manifestations of Rheumatological Diseases",
+ "contributor": "thirth",
+ "questions": [
+  {
+   "id": "gi-w04-lec23-q01",
+   "source": "slide",
+   "source_ref": "Slides 5, 6, 23, 15",
+   "stem": "A 43-year-old woman is evaluated for heartburn, frequent nocturnal regurgitation and progressive dysphagia to both solids and liquids over the past 18 months. Her only medication is omeprazole. On physical examination, vital signs are normal. Dilated capillary vessels are noted on the face and the palmar surfaces of the hands, and the distal fingers appear thick and inflamed. Esophagram shows poor motility with loss of the primary peristaltic wave, a patulous gastroesophageal junction and reflux up to the level of the clavicles. Endoscopy shows a mildly dilated esophagus with a patulous lower esophageal sphincter; the stomach and duodenum appear normal. What is the most likely diagnosis?",
+   "choices": [
+    "Systemic lupus erythematosus",
+    "Sjögren syndrome",
+    "Rheumatoid arthritis",
+    "Systemic sclerosis"
+   ],
+   "answer": 3,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "So there's skin thickening. Esophageal dysmotility along with GERD, good.",
+     "at": "00:03:35"
+    },
+    {
+     "type": "transcript",
+     "quote": "Uh yeah, so we're seeing on the esophagram, on the endoscopy, definitely consistent with that, right? And so this is in fact systemic sclerosis.",
+     "at": "00:03:50"
+    },
+    {
+     "type": "slide",
+     "slide": 5,
+     "image": "img/gi-w04-lec23/slide_05.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 6,
+     "image": "img/gi-w04-lec23/slide_06.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 23,
+     "image": "img/gi-w04-lec23/slide_23.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 15,
+     "image": "img/gi-w04-lec23/slide_15.jpg"
+    }
+   ],
+   "note": "Systemic sclerosis. Fibrosis and atrophy of the esophageal smooth muscle give the \"lead pipe\" esophagus: no peristalsis in the distal esophagus and a weak, wide-open LES. The result is severe reflux and dysphagia to both solids and liquids. The telangiectasias on the face and palms and the thickened, swollen fingers (sclerodactyly) make it scleroderma.\nSystemic lupus erythematosus can affect the GI tract, but it doesn't cause sclerodactyly or this aperistaltic, patulous esophagus.\nSjögren syndrome causes dry mouth, so swallowing can be hard from poor saliva, but it doesn't wipe out esophageal peristalsis or cause telangiectasias and skin thickening.\nRheumatoid arthritis inflames the small joints of the hands but does not thicken the skin or destroy esophageal motility."
+  },
+  {
+   "id": "gi-w04-lec23-q02",
+   "source": "slide",
+   "source_ref": "Slides 37, 38, 46, 48",
+   "stem": "A 53-year-old man is evaluated in the emergency department for abdominal pain. Four weeks ago he developed fatigue and malaise, followed 1 week later by a rash. Two weeks ago he began tripping over his left foot. Three days ago he developed abdominal pain after a meal, and the pain is now constant. Temperature is 100.4 °F and blood pressure is 154/96 mm Hg; other vital signs are normal. The abdomen is soft and nontender. Strength of left ankle dorsiflexion is 3/5, and a petechial rash is present on both lower extremities. Labs: hemoglobin 8.7 g/dL, C-reactive protein 13.8 mg/dL, creatinine 1.7 mg/dL, normal urinalysis, negative hepatitis C serology and negative HIV testing. Chest radiograph is normal. Which of the following is most likely to establish the diagnosis?",
+   "choices": [
+    "ANCA panel",
+    "Hepatitis A virus serology",
+    "Kidney biopsy",
+    "Magnetic resonance angiography of the abdomen"
+   ],
+   "answer": 3,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "But oftentimes, if there's renal or mesenteric involvement, probably the easiest way to make a diagnosis is to do an angiogram, either a CTA or MRA.",
+     "at": "00:40:36"
+    },
+    {
+     "type": "transcript",
+     "quote": "As we'll see in a moment, this is probably more of a medium vessel vasculitis, and one way of diagnosing that is actually angiography, right, look at the vasculature in the abdomen, around the gut, and the kidneys, and that may give you the correct answer.",
+     "at": "00:35:31"
+    },
+    {
+     "type": "slide",
+     "slide": 37,
+     "image": "img/gi-w04-lec23/slide_37.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 38,
+     "image": "img/gi-w04-lec23/slide_38.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 46,
+     "image": "img/gi-w04-lec23/slide_46.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 48,
+     "image": "img/gi-w04-lec23/slide_48.jpg"
+    }
+   ],
+   "note": "Magnetic resonance angiography of the abdomen. This is polyarteritis nodosa: a necrotizing vasculitis of medium-sized arteries causing fever and malaise, a rash, foot drop from mononeuritis multiplex, new hypertension and renal impairment, and postprandial pain from mesenteric ischemia. Imaging the renal and mesenteric arteries for aneurysms, stenoses and blocked segments establishes the diagnosis. Note that the lecture says catheter angiography is preferred because CTA and MRA can miss small aneurysms, but of these four choices only MRA images the vessels.\nANCA panel: PAN is ANCA-negative, so a negative panel wouldn't prove anything, and ANCA is for small-vessel vasculitides like granulomatosis with polyangiitis.\nHepatitis A serology: the infection classically tied to PAN is hepatitis B, not hepatitis A, and serology alone would not establish the vasculitis.\nKidney biopsy: the urinalysis is normal, so there is no glomerulonephritis to find. PAN damages the renal arteries, not the glomeruli, and biopsying a kidney full of microaneurysms risks bleeding. A biopsy proves PAN when taken from a clearly involved site such as skin nodules or the sural nerve."
+  },
+  {
+   "id": "gi-w04-lec23-q03",
+   "source": "slide",
+   "source_ref": "Slides 50, 51, 54, 53",
+   "stem": "A 6-year-old boy is evaluated for fatigue, arthralgias and petechial/purpuric skin lesions on the lower extremities that began 10 days after an upper respiratory tract infection. He also reports crampy abdominal pain over the past week, with bright red blood in his stool for the past two days. On exam there is mild periumbilical tenderness. Labs: albumin 3.1 g/dL; creatinine 1.8 mg/dL; urinalysis with 3+ blood, 2+ protein, 50-100 RBCs/hpf and a few RBC casts; urine protein-to-creatinine ratio 2.2; HBsAg negative; hepatitis B surface antibody positive; ANA negative; ANCA negative; anti-GBM antibodies negative; complement levels normal; antistreptolysin O antibodies negative. Which of the following is the most likely diagnosis?",
+   "choices": [
+    "Polyarteritis nodosa",
+    "Behcet syndrome",
+    "IgA vasculitis",
+    "Systemic lupus erythematosus",
+    "Granulomatosis with polyangiitis"
+   ],
+   "answer": 2,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "Also host, right, this is uh this IGA vasculitis, what we used to call Hennockcholine purpura. We can see it in adults, right, but you're gonna be tested most commonly in kids, right?",
+     "at": "00:44:36"
+    },
+    {
+     "type": "slide",
+     "slide": 50,
+     "image": "img/gi-w04-lec23/slide_50.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 51,
+     "image": "img/gi-w04-lec23/slide_51.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 54,
+     "image": "img/gi-w04-lec23/slide_54.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 53,
+     "image": "img/gi-w04-lec23/slide_53.jpg"
+    }
+   ],
+   "note": "IgA vasculitis (Henoch-Schönlein purpura). It is a small-vessel IgA immune-complex vasculitis that typically follows an upper respiratory infection in a child, giving the classic set of lower-leg purpura, arthralgia, colicky abdominal pain with hematochezia, and an IgA nephritis with normal complement. GI involvement shows up in about 70% of children.\nPolyarteritis nodosa is a medium-vessel vasculitis. It spares the glomeruli, so it wouldn't cause RBC casts, and hepatitis B (the classic trigger) is ruled out here by a negative HBsAg with positive surface antibody.\nBehcet syndrome is defined by recurrent oral and genital ulcers and uveitis, none of which he has.\nSystemic lupus erythematosus would usually show a positive ANA and low complement with nephritis.\nGranulomatosis with polyangiitis is ANCA-positive and involves the airways and kidneys; his ANCA is negative."
+  },
+  {
+   "id": "gi-w04-lec23-q04",
+   "source": "slide",
+   "source_ref": "Slides 60, 61, 72, 64",
+   "stem": "A 29-year-old man presents with a two-week history of colicky abdominal pain and bloody diarrhea, plus pain and photophobia in the left eye that began 3 days ago. He reports a 6-month history of recurrent painful oral and genital ulcers that last 1 to 2 weeks and then resolve, along with waxing and waning knee, ankle and wrist pain during this time. His medical history was unremarkable until these symptoms began, and he takes no medications. Temperature is 100.7 °F, blood pressure is 134/82 mm Hg and pulse is 90/min. The left eye is diffusely red, with a small amount of white fluid layered at the bottom of the anterior chamber. There is an ulcer on the right side of the tongue and there are multiple deep genital ulcers. There is mild diffuse abdominal tenderness, and multiple tender red nodules are present over both anterior shins. ESR is 76 mm/h. Which of the following is the most likely diagnosis?",
+   "choices": [
+    "Crohn disease",
+    "Behcet syndrome",
+    "HSV infection",
+    "Secondary syphilis"
+   ],
+   "answer": 1,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "But what does Crohn's not typically cause? The recurrent oral and genital ulcerations, right? So this is more likely. Bachette syndrome, right?",
+     "at": "00:55:04"
+    },
+    {
+     "type": "slide",
+     "slide": 60,
+     "image": "img/gi-w04-lec23/slide_60.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 61,
+     "image": "img/gi-w04-lec23/slide_61.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 72,
+     "image": "img/gi-w04-lec23/slide_72.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 64,
+     "image": "img/gi-w04-lec23/slide_64.jpg"
+    }
+   ],
+   "note": "Behcet syndrome. It is a vasculitis that can hit vessels of any size, and he meets the diagnostic criteria: recurrent painful oral ulcers plus recurrent genital ulcers, eye involvement (uveitis with a hypopyon, the white fluid in the anterior chamber) and skin lesions (erythema nodosum on the shins). The arthritis and the GI ulcers causing bloody diarrhea are also Behcet features.\nCrohn disease can cause oral ulcers, erythema nodosum, uveitis and arthritis, but recurrent deep genital ulcers point to Behcet.\nHSV causes painful recurrent genital and oral ulcers, but it doesn't explain hypopyon uveitis, erythema nodosum, arthritis and bloody diarrhea all together.\nSecondary syphilis brings a rash (often on the palms and soles), mucous patches and condylomata lata, not recurrent deep painful ulcers with hypopyon."
+  }
+ ]
+}

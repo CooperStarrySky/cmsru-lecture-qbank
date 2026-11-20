@@ -1,0 +1,191 @@
+Tubular Physiology Lecture Notes
+Slides 2–10
+
+Renal handling and clearance
+A substance’s urinary excretion depends on how much enters the tubule by filtration, how much returns to
+blood by reabsorption and how much enters the lumen by secretion. Clearance expresses the resulting excretion
+rate relative to its plasma concentration.
+
+Excretion rate = filtered load − reabsorption rate + secretion rate
+For a freely filtered solute, filtered load = GFR × plasma concentration. Excretion rate = urine concentration ×
+urine flow rate.
+Tubular handling after free filtration
+
+Effect on excretion
+
+Example
+
+Neither reabsorbed nor secreted
+
+Excretion equals filtered load
+
+Inulin
+
+Net reabsorption
+
+Excretion is below filtered load
+
+Sodium
+
+Near-complete reabsorption at usual
+plasma levels
+
+Excretion is near zero
+
+Glucose and amino acids
+
+Net secretion
+
+Excretion exceeds filtered load
+
+Organic acids and bases
+
+Clearance measures
+CS = (US × V) ÷ PS
+US is urine concentration, PS is plasma concentration, and V is urine flow rate. When the concentration units
+match and V is in mL/min, clearance is in mL/min.
+Inulin measures GFR. Inulin is freely filtered and undergoes essentially no tubular reabsorption or secretion.
+With U = 125 mg/mL, P = 1 mg/mL and V = 1 mL/min, GFR is 125 mL/min. An infusion and timed sampling make
+the measurement impractical for routine use.
+Creatinine approximates GFR. Creatinine is produced by muscle metabolism, freely filtered, and also secreted in
+small amounts. Timed urine creatinine clearance therefore tends to overestimate GFR. If GFR falls abruptly,
+creatinine excretion initially falls and plasma creatinine rises. With stable production and predominantly renal
+elimination, excretion returns approximately to production at the new steady state. Serum creatinine-based
+eGFR is calculated from a prediction equation. Muscle mass and rapidly changing kidney function affect
+interpretation. In chronic kidney disease assessment, eGFR and urine albumin provide complementary
+information.
+PAH estimates effective renal plasma flow. At low plasma concentrations, filtration and proximal secretion
+together remove about 90% of PAH in one pass. U = 5.85 mg/mL, P = 0.01 mg/mL and V = 1 mL/min yield CPAH =
+585 mL/min, the effective RPF. Correcting for 0.90 extraction gives estimated total RPF of 650 mL/min.
+
+Transport mechanisms and glucose handling
+Slides 11–19
+
+How solutes and water cross the tubule
+Transcellular movement crosses both the apical membrane facing the lumen and the basolateral membrane
+facing the interstitium. Paracellular movement occurs through junctions between epithelial cells. After crossing
+the epithelium, reabsorbed fluid and solutes can enter peritubular capillaries by bulk flow.
+Mechanism
+
+Driving force
+
+Renal example
+
+Primary active transport
+
+Direct ATP hydrolysis
+
+Basolateral Na⁺/K⁺-ATPase; 3 Na⁺ out and 2 K⁺ in
+per ATP.
+
+Secondary active transport
+
+Energy stored in an ion
+gradient
+
+Apical SGLT and NKCC2 are symporters. Na⁺/H⁺
+exchange is an antiport.
+
+Facilitated diffusion
+
+Down the solute’s gradient
+through a protein
+
+Basolateral GLUT allows glucose to leave proximal
+cells.
+
+Osmosis and solvent drag
+
+Water moves down an
+osmotic gradient and can carry
+solute
+
+Water follows solute reabsorption in the proximal
+tubule. Some solutes move with water through
+junctions.
+
+Proximal glucose reabsorption and transport maximum
+Apical SGLT2 in the early proximal tubule reabsorbs most filtered glucose. Apical SGLT1 in the late proximal
+tubule recovers the remainder. SGLT1 can reclaim more glucose when SGLT2 is inhibited and more glucose
+reaches the late proximal tubule. Basolateral glucose exit uses facilitated diffusion through GLUT transporters,
+classically GLUT2 early and GLUT1 later.
+Filtered glucose load and Tm. At GFR 125 mL/min and plasma glucose 100 mg/dL (1 mg/mL), filtered load is 125
+mg/min. Reabsorption rises with the filtered load until the transporters reach their aggregate capacity. Glucose
+begins to appear in urine before the aggregate Tm is reached.
+Clinical question on hidden slide 15. The best answer is direct inhibition of apical SGLT2 in the early proximal
+tubule. Marked glucosuria despite lower fasting glucose is consistent with a lower renal threshold for glucose.
+Basolateral Na⁺/K⁺-ATPase establishes the Na⁺ gradient that powers SGLT transport. Its inhibition could also
+impair glucose uptake indirectly.
+
+Proximal tubule reabsorption
+A tubular fluid-to-plasma concentration ratio (TF/P) near 1 for sodium means water and sodium are removed in
+roughly similar proportions. The amount of sodium left in the lumen still falls substantially. Glucose has TF/P
+below 1 because it is reabsorbed faster than water. Chloride can transiently concentrate as bicarbonate and
+water are preferentially reabsorbed. TF/P above 1 can reflect water removal outpacing solute removal,
+secretion, or both.
+
+Transport along the nephron
+Slides 17–22
+
+Segment
+
+Key transport and water permeability
+
+Effect on tubular fluid
+
+Proximal tubule
+
+Reabsorbs about 65% of filtered Na⁺ and water,
+much of the Cl⁻ and HCO₃⁻, and nearly all glucose
+and amino acids under usual conditions.
+
+Volume falls. Osmolality stays close
+to plasma.
+
+Thin descending limb
+
+Relatively water permeable in much of the
+segment. Properties vary with depth and loop
+type.
+
+Water leaves into the hyperosmotic
+medulla, concentrating tubular
+fluid.
+
+Ascending limb
+
+The thin ascending limb allows passive NaCl exit
+in long loops. The thick limb reabsorbs Na⁺, K⁺ ,
+and Cl⁻ through apical NKCC2. Both ascending
+segments have low water permeability.
+
+NaCl leaves without water, diluting
+tubular fluid. Thick-limb transport
+helps establish the medullary
+gradient.
+
+Early distal convoluted
+tubule
+
+Apical NCC reabsorbs about 5% of filtered NaCl.
+Water permeability is low.
+
+Further dilution.
+
+Late distal nephron and
+collecting duct
+
+Principal cells reabsorb Na⁺ through ENaC and
+secrete K⁺ through apical channels such as
+ROMK. Vasopressin regulates water permeability
+through AQP2.
+
+Final Na⁺, K⁺ , and water handling
+depends on hormonal and
+physiological state.
+
+Water and urea
+In the proximal tubule, water reabsorption concentrates solutes left behind. Urea is partially reabsorbed and can
+recycle between the inner medullary collecting duct and thin limbs.
+
+

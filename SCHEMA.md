@@ -38,7 +38,7 @@ One file per lecture: `data/lectures/<lecture_id>.json`. The file name must equa
 | `stem_image` | Optional. An image that is part of the question itself (ECG, histology, CT), e.g. `img/<lecture_id>/slide_50.jpg`. No HTML in `stem` or `choices`: plain text only. |
 | `answer` | 0-based index into `choices`. |
 | `evidence` | At least one block. Quotes must be **word for word** from `sources/<lecture_id>/transcript.txt` or `notes.txt`. The validator ignores case, whitespace, curly quotes and timestamps, nothing else. Keep quotes to the sentences that answer the question. |
-| `lecture` (on an evidence block) | Optional. Only when the quote or slide comes from a *different* lecture than the question, e.g. `"07 Biliary Disease"`. The site shows the lecture name on every quote either way. |
+| `from` + `lecture` (on an evidence block) | Only when the quote comes from a *different* lecture's recording or notes (e.g. answers read out at the start of the next lecture). `from` is that lecture's `lecture_id` (the validator checks the quote against `sources/<from>/`), and `lecture` is its display name, e.g. `"17 Essential Trace minerals"`. |
 | `note` | Optional paraphrase shown collapsed. Light Markdown: `**bold**`, `*italic*`, blank line between paragraphs, `- ` list items. Start with the one-sentence takeaway in bold, then one paragraph per answer choice (`Choice text: true. why`). |
 | `image` | PNG/JPG under `img/<lecture_id>/`, max ~1600 px wide. |
 

@@ -1,0 +1,258 @@
+{
+ "lecture_id": "gi-w03-lec17",
+ "block": "GI",
+ "week": 3,
+ "lecture": "17 Essential Trace minerals",
+ "contributor": "thirth",
+ "questions": [
+  {
+   "id": "gi-w03-lec17-q01",
+   "source": "slide",
+   "source_ref": "Slides 129, 106, 116",
+   "stem": "Sam, a second-year medical student, has a visit from his uncle. His uncle loves nuts, which are an important part of his everyday diet, and he recently switched to eating Brazil nuts because they were cheaper than others. He tells Sam that he has recently had GI distress such as nausea and diarrhea and has been feeling tired. Sam suspects that his uncle may be suffering from which of the following?",
+   "choices": [
+    "Zinc toxicity",
+    "Copper deficiency",
+    "Iron deficiency",
+    "Selenium toxicity",
+    "Iodine deficiency"
+   ],
+   "answer": 3,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "Now there is a warning against Brazil nut because that has a really high amount of selenium. If somebody is eating Brazil nuts on a high quantity every day, that could be problematic because they could be at risk for selenium toxicity.",
+     "at": "00:22:56"
+    },
+    {
+     "type": "notes",
+     "quote": "Selenium toxicity symptoms in humans include nausea, diarrhea, fatigue, irritability and nervous system disorders, hair loss, brittleness of nails, skin rashes and garlic breath odor.",
+     "page": 17
+    },
+    {
+     "type": "slide",
+     "slide": 129,
+     "image": "img/gi-w03-lec17/slide_129.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 106,
+     "image": "img/gi-w03-lec17/slide_106.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 116,
+     "image": "img/gi-w03-lec17/slide_116.jpg"
+    }
+   ],
+   "note": "Selenium toxicity. Brazil nuts are very high in selenium, and the lecture warns they should not be eaten too regularly. Selenium toxicity causes nausea, diarrhea, fatigue and irritability, along with hair loss, brittle nails, skin rash and garlic breath.\nZinc toxicity would need high-dose zinc supplements or something like denture cream; it is not linked to Brazil nuts.\nCopper deficiency shows up as microcytic anemia, low ceruloplasmin and neuropathy, usually after bariatric surgery, malabsorption or excess zinc.\nIron deficiency gives microcytic anemia and fatigue, but a diet change to Brazil nuts doesn't explain new nausea and diarrhea.\nIodine deficiency causes goiter and impaired growth and development, not acute GI upset."
+  },
+  {
+   "id": "gi-w03-lec17-q02",
+   "source": "slide",
+   "source_ref": "Slides 130, 97, 99",
+   "stem": "A 55-year-old woman presents to the clinic with fatigue and headache. Her lab data show microcytic anemia with low levels of ceruloplasmin. Her history shows that she had bariatric surgery a few years ago and has been managing her weight ever since. She is not fully compliant with her daily supplements. What is the most likely cause of her condition?",
+   "choices": [
+    "Selenium toxicity",
+    "Zinc toxicity",
+    "Iron deficiency",
+    "Copper deficiency",
+    "Iodine deficiency"
+   ],
+   "answer": 3,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "She had bariatric surgery a few years ago. She's not compliant. Shout it out. Copper deficiency.",
+     "at": "00:38:47"
+    },
+    {
+     "type": "transcript",
+     "quote": "So why, why would people get copper deficiency? They could have bariatric or peptic ulcer surgery, malabsorption diseases.",
+     "at": "00:15:25"
+    },
+    {
+     "type": "slide",
+     "slide": 130,
+     "image": "img/gi-w03-lec17/slide_130.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 97,
+     "image": "img/gi-w03-lec17/slide_97.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 99,
+     "image": "img/gi-w03-lec17/slide_99.jpg"
+    }
+   ],
+   "note": "Copper deficiency. Ceruloplasmin is a copper enzyme that moves iron out of storage, so low copper means less hemoglobin is made and a microcytic anemia develops. Bariatric surgery is a listed cause, and she isn't taking her supplements. Labs show low serum copper and ceruloplasmin, and severe cases add myelopathy and peripheral neuropathy.\nSelenium toxicity causes GI upset, hair loss and garlic breath, not low ceruloplasmin.\nZinc toxicity can cause copper deficiency, but nothing here suggests she is taking extra zinc. She is skipping supplements, and the bariatric surgery explains a deficiency.\nIron deficiency also causes microcytic anemia, but it would not lower ceruloplasmin.\nIodine deficiency causes goiter, not microcytic anemia."
+  },
+  {
+   "id": "gi-w03-lec17-q03",
+   "source": "slide",
+   "source_ref": "Slides 131, 81",
+   "stem": "Which of the following is a good source of zinc?",
+   "choices": [
+    "Oysters",
+    "Blueberries",
+    "Low-fat yogurt",
+    "Chocolate"
+   ],
+   "answer": 0,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "Anything grain-based like bread, pasta, all of that has zinc, as well as seafoods are an excellent source of zinc, especially oysters.",
+     "at": "00:05:27"
+    },
+    {
+     "type": "slide",
+     "slide": 131,
+     "image": "img/gi-w03-lec17/slide_131.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 81,
+     "image": "img/gi-w03-lec17/slide_81.jpg"
+    }
+   ],
+   "note": "Oysters. The professor said grain-based foods carry zinc, and seafood is an excellent source, especially oysters.\nBlueberries are fruit, valued for antioxidants, and are not a meaningful zinc source.\nLow-fat yogurt has some zinc but is nowhere near shellfish, and it wasn't the source named in lecture.\nChocolate has small amounts of minerals but is not a zinc source to rely on."
+  },
+  {
+   "id": "gi-w03-lec17-q04",
+   "source": "slide",
+   "source_ref": "Slides 132, 81, 84",
+   "stem": "Which of the following is a symptom of zinc deficiency?",
+   "choices": [
+    "Microcytic anemia",
+    "Poor growth",
+    "Goiter",
+    "Cardiomyopathy"
+   ],
+   "answer": 1,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "Which of the following is symptoms of zinc deficiency? Microcytic anemia, poor growth, goiter, cardiomyopathy? Poor growth.",
+     "at": "00:39:02"
+    },
+    {
+     "type": "slide",
+     "slide": 132,
+     "image": "img/gi-w03-lec17/slide_132.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 81,
+     "image": "img/gi-w03-lec17/slide_81.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 84,
+     "image": "img/gi-w03-lec17/slide_84.jpg"
+    }
+   ],
+   "note": "Poor growth. Zinc is needed for growth and development in pregnancy, childhood and adolescence, and growth impairment is a feature of zinc deficiency (for example, acrodermatitis enteropathica). Other zinc deficiency signs from the lecture are skin lesions, diarrhea, hair loss, delayed sexual maturation and poor immunity.\nMicrocytic anemia points to iron or copper deficiency.\nGoiter points to iodine deficiency.\nCardiomyopathy points to selenium deficiency (Keshan disease)."
+  },
+  {
+   "id": "gi-w03-lec17-q05",
+   "source": "slide",
+   "source_ref": "Slides 133, 97",
+   "stem": "Which of the following proteins or enzymes contains copper?",
+   "choices": [
+    "Glutathione peroxidase",
+    "Deiodinase",
+    "Thyroxine",
+    "Lysyl oxidase"
+   ],
+   "answer": 3,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "I have seen a couple of questions um on lysyl oxidase, which is, which has a role in collagen. So if you see lysyl oxidase, copper is part of that",
+     "at": "00:14:35"
+    },
+    {
+     "type": "slide",
+     "slide": 133,
+     "image": "img/gi-w03-lec17/slide_133.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 97,
+     "image": "img/gi-w03-lec17/slide_97.jpg"
+    }
+   ],
+   "note": "Lysyl oxidase. It is a copper enzyme that cross-links collagen and elastin, which is copper's role in connective tissue. The professor flagged this as the one to remember. Other copper enzymes from the lecture are ceruloplasmin, superoxide dismutase and cytochrome c oxidase.\nGlutathione peroxidase is a selenium enzyme.\nDeiodinase, which activates thyroid hormone, is also a selenium enzyme.\nThyroxine is a hormone built on iodine, not copper."
+  },
+  {
+   "id": "gi-w03-lec17-q06",
+   "source": "slide",
+   "source_ref": "Slides 134, 121",
+   "stem": "Which of the following is associated with the development of cretinism?",
+   "choices": [
+    "Iron deficiency",
+    "Zinc deficiency",
+    "Iodine deficiency",
+    "Selenium deficiency"
+   ],
+   "answer": 2,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "And if mother is ioiodine deficient, fetus is very much at risk because now fetus can develop the disease called as or disorder called as cretinism, which has star stature, intellectual disability.",
+     "at": "00:34:38"
+    },
+    {
+     "type": "slide",
+     "slide": 134,
+     "image": "img/gi-w03-lec17/slide_134.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 121,
+     "image": "img/gi-w03-lec17/slide_121.jpg"
+    }
+   ],
+   "note": "Iodine deficiency. Without iodine the fetus can't make enough thyroid hormone, and brain development and growth are held back. That is cretinism: short stature and severe intellectual disability.\nIron deficiency causes microcytic anemia and fatigue.\nZinc deficiency causes poor growth, skin lesions and diarrhea, but not cretinism.\nSelenium deficiency is linked to Keshan cardiomyopathy. Selenium helps thyroid function, but the lecture ties cretinism to iodine."
+  },
+  {
+   "id": "gi-w03-lec17-q07",
+   "source": "slide",
+   "source_ref": "Slides 135, 104, 105",
+   "stem": "Which of the following minerals is most important for combating oxidative stress?",
+   "choices": [
+    "Iron",
+    "Zinc",
+    "Selenium",
+    "Iodine"
+   ],
+   "answer": 2,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "Right, it is actually not, but what selenium does is that it's an excellent antioxidant, so it protects the cell from damage, especially oxidative damage.",
+     "at": "00:20:31"
+    },
+    {
+     "type": "slide",
+     "slide": 135,
+     "image": "img/gi-w03-lec17/slide_135.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 104,
+     "image": "img/gi-w03-lec17/slide_104.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 105,
+     "image": "img/gi-w03-lec17/slide_105.jpg"
+    }
+   ],
+   "note": "Selenium. It is part of glutathione peroxidase, which works with vitamin E to break down peroxides and quench free radicals before they damage cell membranes.\nIron is needed for hemoglobin and cytochromes, and free iron can actually drive oxidative damage.\nZinc is a cofactor in many enzymes, but the lecture presents selenium as the antioxidant mineral.\nIodine is used to make thyroid hormone and is not an antioxidant."
+  }
+ ]
+}

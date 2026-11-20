@@ -1,0 +1,199 @@
+{
+ "lecture_id": "gi-w04-lec22",
+ "block": "GI",
+ "week": 4,
+ "lecture": "22 Pediatric GI",
+ "contributor": "thirth",
+ "questions": [
+  {
+   "id": "gi-w04-lec22-q01",
+   "source": "slide",
+   "source_ref": "Slides 22, 17, 14",
+   "stem": "Which of the following statements is incorrect?",
+   "choices": [
+    "Tracheoesophageal fistula results in excess air in the stomach.",
+    "Duodenal atresia is characterized by the double bubble sign.",
+    "Annular pancreas originates from incomplete rotation of the posterior pancreatic bud.",
+    "Malrotation of the midgut typically presents as bilious vomiting.",
+    "Incomplete obliteration of the vitelline duct is observed in Meckel diverticulum.",
+    "Failed migration of neural crest cells leads to the development of Hirschsprung disease.",
+    "VACTERL is associated with anal agenesis."
+   ],
+   "answer": 2,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "That's the right answer, yes. So it's the ventral pancreatic, but, uh, not the posterior.",
+     "at": "00:17:45"
+    },
+    {
+     "type": "slide",
+     "slide": 22,
+     "image": "img/gi-w04-lec22/slide_22.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 17,
+     "image": "img/gi-w04-lec22/slide_17.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 14,
+     "image": "img/gi-w04-lec22/slide_14.jpg"
+    }
+   ],
+   "note": "C is the incorrect statement. Annular pancreas comes from incomplete rotation of the ventral pancreatic bud, not the posterior one. The ventral bud wraps around the duodenum and leaves a ring of pancreatic tissue that can block it, causing bilious vomiting.\nA is true: in the most common TEF type (esophageal atresia with a distal fistula), air passes from the trachea into the stomach, so the stomach fills with excess air.\nB is true: duodenal atresia (failed recanalization) shows the \"double bubble\" of a gas-filled stomach and proximal duodenum, and it is strongly linked to trisomy 21.\nD is true: malrotation presents with bilious vomiting and is a surgical emergency (Ladd procedure).\nE is true: a Meckel diverticulum is a leftover piece of the vitelline duct and follows the rule of 2's.\nF is true: in Hirschsprung disease, neural crest cells fail to migrate, so the distal colon has no ganglion cells and the baby fails to pass meconium.\nG is true: anal agenesis is the \"A\" in VACTERL (vertebral, anal, cardiac, tracheoesophageal, renal, limb)."
+  },
+  {
+   "id": "gi-w04-lec22-q02",
+   "source": "slide",
+   "source_ref": "Slides 23, 15",
+   "stem": "A 5-week-old infant is brought to the emergency room after two days of non-bilious, non-bloody vomiting that, according to his mother, projects across the entire room. He is otherwise well, although he appears mildly dehydrated. What is the definitive treatment for this illness?",
+   "choices": [
+    "IV fluids and antibiotics",
+    "Changing to a hydrolyzed formula",
+    "Starting a proton pump inhibitor",
+    "Pyloromyotomy",
+    "Nothing, this is physiologic reflux"
+   ],
+   "answer": 3,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "Hypertrophic pyellaric stenosis, right? Projectile vomiting. So, none of these other things really help, really, it's surgical.",
+     "at": "00:18:42"
+    },
+    {
+     "type": "slide",
+     "slide": 23,
+     "image": "img/gi-w04-lec22/slide_23.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 15,
+     "image": "img/gi-w04-lec22/slide_15.jpg"
+    }
+   ],
+   "note": "Pyloromyotomy. Projectile, non-bilious vomiting at 4-8 weeks of age is hypertrophic pyloric stenosis: the thickened pyloric muscle blocks gastric outflow above the ampulla, so the vomit has no bile. Diagnosis is by ultrasound (sometimes an olive-like mass is felt), and the fix is surgically splitting the muscle. It is more common in first-born males.\nIV fluids correct his dehydration and electrolytes before surgery, but they don't relieve the obstruction, and antibiotics have no role.\nA hydrolyzed formula treats cow's milk protein allergy, not a mechanical outlet obstruction.\nA PPI treats acid reflux and does nothing for a hypertrophied pylorus.\nPhysiologic reflux in an infant is effortless spitting up in a thriving baby, not forceful projectile vomiting with dehydration."
+  },
+  {
+   "id": "gi-w04-lec22-q03",
+   "source": "slide",
+   "source_ref": "Slides 35, 26, 34",
+   "stem": "Which of the following statements is incorrect?",
+   "choices": [
+    "Up to five eosinophils are seen in an esophageal biopsy of a patient diagnosed with eosinophilic esophagitis.",
+    "Functional megacolon is associated with childhood encopresis.",
+    "Patients with pediatric celiac disease may exhibit short stature and delayed puberty.",
+    "Pediatric inflammatory bowel disease tends to be more extensive at the time of diagnosis."
+   ],
+   "answer": 0,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "See They Yeah, the number is 15 And you will see that number So, 515 or more eosinophils is diagnostic of eosinophilic esophagitis.",
+     "at": "00:34:11"
+    },
+    {
+     "type": "slide",
+     "slide": 35,
+     "image": "img/gi-w04-lec22/slide_35.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 26,
+     "image": "img/gi-w04-lec22/slide_26.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 34,
+     "image": "img/gi-w04-lec22/slide_34.jpg"
+    }
+   ],
+   "note": "A is the incorrect statement. Eosinophilic esophagitis requires at least 15 eosinophils per high-power field, a high number. A handful of eosinophils is not enough for the diagnosis. EoE also does not respond to acid blockade, and it can lead to stricturing.\nB is true: childhood encopresis is linked to functional megacolon, where chronic stool withholding stretches the colon.\nC is true: short stature and delayed puberty are among the atypical presentations of celiac disease in children.\nD is true: compared with adults, pediatric IBD is more likely to be extensive at diagnosis, progressive, atypical and familial."
+  },
+  {
+   "id": "gi-w04-lec22-q04",
+   "source": "slide",
+   "source_ref": "Slides 36, 32, 31",
+   "stem": "A healthy 6-year-old boy who just started first grade has a recent onset of daily soiling accidents. On physical exam he is growing and gaining weight well but has mild abdominal distention and dullness to percussion up to the splenic flexure. What is most true of this disease process?",
+   "choices": [
+    "Diagnosis within the first week after birth",
+    "Affects 25% of children",
+    "Involuntary passage of stool",
+    "Mechanical obstruction causing megacolon"
+   ],
+   "answer": 2,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "So, this is ankopparesis or constipation, right? They're kind of in the same continuum, but, um, the soil soiling accidents, when you start to see that, that's the overflow diarrhea that they get, even though they're constipated.",
+     "at": "00:35:33"
+    },
+    {
+     "type": "transcript",
+     "quote": "It's a functional megacolon, meaning there's not an obstruction, like there is for something like Hirschsprung's or stricture",
+     "at": "00:30:57"
+    },
+    {
+     "type": "slide",
+     "slide": 36,
+     "image": "img/gi-w04-lec22/slide_36.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 32,
+     "image": "img/gi-w04-lec22/slide_32.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 31,
+     "image": "img/gi-w04-lec22/slide_31.jpg"
+    }
+   ],
+   "note": "Involuntary passage of stool. This is childhood encopresis: he withholds stool, the colon fills with retained stool (the dullness up to the splenic flexure) and stretches into a functional megacolon, and loose stool leaks around it without his control. He is growing well, which points away from an organic cause.\nDiagnosis in the first week of life fits Hirschsprung disease (failure to pass meconium), not new soiling in a school-age child. Encopresis actually has an average diagnostic lag of about 5 years.\nEncopresis affects about 1.4% of 10-year-old boys, not 25% of children. The 25% figure in this lecture is the share of IBD diagnosed in childhood.\nThe megacolon is functional, from withholding, not a mechanical obstruction."
+  },
+  {
+   "id": "gi-w04-lec22-q05",
+   "source": "slide",
+   "source_ref": "Slides 49, 48, 40",
+   "stem": "A 3-week-old boy is brought to his pediatrician because his mother has noticed that he \"looks yellow.\" On questioning, she says the jaundice began several days after birth and has come with dark urine and acholic stools. Laboratory studies show a direct bilirubin level of 5.0 mg/dL and a total bilirubin level of 5.5 mg/dL. Which of the following is the most likely diagnosis?",
+   "choices": [
+    "Congenital extrahepatic biliary atresia",
+    "Crigler-Najjar syndrome",
+    "Gilbert syndrome",
+    "Physiological jaundice",
+    "Dubin-Johnson syndrome"
+   ],
+   "answer": 0,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "Early age. Direct hyperbilirubinemia. Right, so remember, Gilbert's physiologic jaundice, right, these are unconjugated,",
+     "at": "00:47:29"
+    },
+    {
+     "type": "transcript",
+     "quote": "the bile ducts don't recanulize during development, so there's no way to kind of get that out into the small bowel. So, um, it's post-hepatic. Meaning that it's after conjugation.",
+     "at": "00:40:15"
+    },
+    {
+     "type": "slide",
+     "slide": 49,
+     "image": "img/gi-w04-lec22/slide_49.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 48,
+     "image": "img/gi-w04-lec22/slide_48.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 40,
+     "image": "img/gi-w04-lec22/slide_40.jpg"
+    }
+   ],
+   "note": "Congenital extrahepatic biliary atresia. The bile ducts outside the liver are obliterated, so conjugated bilirubin can't reach the gut. That gives a direct (conjugated) hyperbilirubinemia, here almost all of the total, plus acholic stools and dark urine in the first weeks of life. It needs a high index of suspicion because surgery should happen within about two months.\nCrigler-Najjar syndrome is a UGT1A1 conjugation defect, so the bilirubin is unconjugated and the stools are not pale.\nGilbert syndrome is a mild, benign unconjugated hyperbilirubinemia that shows up with stress or fasting, usually later in life.\nPhysiological jaundice is unconjugated, peaks in the first days of life and doesn't cause acholic stools or dark urine.\nDubin-Johnson syndrome is a conjugated hyperbilirubinemia (MRP2 defect), but it is benign with mild icterus and no acholic stools, because bile still drains."
+  }
+ ]
+}

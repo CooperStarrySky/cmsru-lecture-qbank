@@ -1,0 +1,80 @@
+{
+ "lecture_id": "renal-w01-lec04",
+ "block": "RENAL",
+ "week": 1,
+ "lecture": "04 Tubular Physiology",
+ "contributor": "thirth",
+ "questions": [
+  {
+   "id": "renal-w01-lec04-q01",
+   "source": "said",
+   "source_ref": "00:22:52",
+   "stem": "Which transport mechanism moves glucose from the tubular lumen to the epithelial cell?",
+   "choices": [
+    "Primary active transport",
+    "Secondary active transport",
+    "Facilitated diffusion",
+    "Simple diffusion",
+    "Osmosis"
+   ],
+   "answer": 1,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "So, the sodium-glucose transporters, SGLT2 and SGLT1, um, those are located on the brush borders of the proximal tubule cells. Um, and again, they're, they're secondary active transporters.",
+     "at": "00:32:55"
+    },
+    {
+     "type": "notes",
+     "quote": "Apical SGLT and NKCC2 are symporters.",
+     "page": 2
+    },
+    {
+     "type": "slide",
+     "slide": 15,
+     "image": "img/renal-w01-lec04/slide_15.jpg"
+    }
+   ],
+   "note": "**Glucose crosses the apical (luminal) membrane on SGLT2 and SGLT1, which are secondary active transporters riding the Na+ gradient made by the basolateral Na+/K+-ATPase.** The lecturer read this poll question and its five choices aloud at 00:22:52, then skipped it because the transporters hadn't been shown yet. The answer comes from slide 15 and the explanation about ten minutes later (00:32:55).\n\nPrimary active transport: false. That is the Na+/K+-ATPase itself, which spends ATP directly. It builds the gradient but doesn't carry glucose.\n\nSecondary active transport: true. SGLTs on the brush border move glucose uphill using energy stored in the Na+ gradient.\n\nFacilitated diffusion: false. That is how glucose leaves the cell across the basolateral membrane, through GLUT2 and GLUT1.\n\nSimple diffusion: false. Glucose needs a carrier protein to cross either membrane.\n\nOsmosis: false. Osmosis is water movement, not glucose."
+  },
+  {
+   "id": "renal-w01-lec04-q02",
+   "source": "said",
+   "source_ref": "00:33:50",
+   "stem": "If you were to see a question about anything having to do with glucose, changing the amount of glucose that either gets reabsorbed or secreted, which one do you think is going to have a bigger effect, inhibiting SGLT2 or SGLT-1?",
+   "choices": [
+    "Inhibiting SGLT2",
+    "Inhibiting SGLT1"
+   ],
+   "answer": 0,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "SGLT 2. OK. So if you ever see a question where some are saying like buy SGLT2, some buy SGLT1, um, you can easily eliminate SGLT1.",
+     "at": "00:34:08"
+    },
+    {
+     "type": "transcript",
+     "quote": "Um, 90% of the glucose is reabsorbed using the SGLT2, which is in the very early part of the proximal convoluted tubule.",
+     "at": "00:33:21"
+    },
+    {
+     "type": "transcript",
+     "quote": "No useful drug that inhibits SGLT-1 because it doesn't do much.",
+     "at": "00:34:20"
+    },
+    {
+     "type": "notes",
+     "quote": "Apical SGLT2 in the early proximal tubule reabsorbs most filtered glucose.",
+     "page": 2
+    },
+    {
+     "type": "slide",
+     "slide": 15,
+     "image": "img/renal-w01-lec04/slide_15.jpg"
+    }
+   ],
+   "note": "**SGLT2 does about 90% of glucose reabsorption in the early proximal tubule (S1), so blocking it matters far more.** The lecturer asked this aloud with the two options built into the question and gave the answer right after. Turned into a two-choice item from that passage.\n\nInhibiting SGLT2: true. It carries most of the filtered glucose, which is why SGLT2 inhibitors cause glucosuria.\n\nInhibiting SGLT1: false. SGLT1 in the late proximal tubule (S3) only picks up the remaining ~10%. The lecturer's tip: on a question, an SGLT1 answer can almost always be eliminated."
+  }
+ ]
+}

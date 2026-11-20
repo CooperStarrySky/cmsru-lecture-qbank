@@ -1,0 +1,462 @@
+{
+ "lecture_id": "gi-w04-lab-imaging",
+ "block": "GI",
+ "week": 4,
+ "lecture": "LAB Imaging of GI system",
+ "contributor": "thirth",
+ "questions": [
+  {
+   "id": "gi-w04-lab-imaging-q01",
+   "source": "slide",
+   "source_ref": "Slides 33, 17, 19",
+   "stem": "Which of the following statements about the hepatic vasculature is true?",
+   "choices": [
+    "The hepatic artery flows into the liver and the portal vein flows out.",
+    "The hepatic artery and hepatic vein course together.",
+    "The hepatic vein and portal vein both flow toward the patient's head.",
+    "The portal veins empty into the IVC."
+   ],
+   "answer": 2,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "What's the right answer? See, good.",
+     "at": "00:13:10"
+    },
+    {
+     "type": "transcript",
+     "quote": "and we have the portal veins coming up. Into from the trunk and into the branches and the Hepatic veins converging together in the roots and into the trunk and then out. So notice that everything's flowing in one direction.",
+     "at": "00:09:43"
+    },
+    {
+     "type": "slide",
+     "slide": 33,
+     "image": "img/gi-w04-lab-imaging/slide_33.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 17,
+     "image": "img/gi-w04-lab-imaging/slide_17.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 19,
+     "image": "img/gi-w04-lab-imaging/slide_19.jpg"
+    }
+   ],
+   "note": "The hepatic vein and portal vein both flow toward the patient's head. The main portal vein enters at the porta hepatis and runs up and to the right into the liver. The left, middle and right hepatic veins drain upward into the IVC just below the diaphragm. So on imaging both run cephalad, one bringing blood into the liver and the other carrying it out.\nA is wrong: both the hepatic artery and the portal vein bring blood into the liver. The hepatic veins carry it out.\nB is wrong: the hepatic artery travels with the portal vein and bile duct in the portal triad. The hepatic veins run separately between segments.\nD is wrong: the hepatic veins empty into the IVC. The portal veins branch inside the liver and feed the sinusoids."
+  },
+  {
+   "id": "gi-w04-lab-imaging-q02",
+   "source": "slide",
+   "source_ref": "Slides 80, 71",
+   "stem": "Why should patients fast before a right upper quadrant ultrasound?",
+   "choices": [
+    "Pushing with the probe can cause vomiting.",
+    "Food may cause the gallbladder to contract and be less visible.",
+    "The gallbladder will be more compressible with fasting.",
+    "Food in the stomach causes too much shadowing."
+   ],
+   "answer": 1,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "So the purpose of the gallbladder, as you know, is to hold the bile, and then when you eat, it contracts. And pushes the bile out into the common bile duct. So if the patient's just eaten. And they can track their gallbladder, then we won't be able to see it on ultrasound.",
+     "at": "00:33:02"
+    },
+    {
+     "type": "slide",
+     "slide": 80,
+     "image": "img/gi-w04-lab-imaging/slide_80.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 71,
+     "image": "img/gi-w04-lab-imaging/slide_71.jpg"
+    }
+   ],
+   "note": "Food may cause the gallbladder to contract and be less visible. The gallbladder stores bile and squeezes it into the common bile duct after a meal. A fasting gallbladder stays full of fluid, so you can see the wall stretched out and any stones inside. That's why patients are kept NPO.\nProbe pressure making the patient vomit is not the reason for fasting.\nCompressibility of the gallbladder has nothing to do with fasting. The point is keeping it distended with bile.\nShadowing from stomach contents is not why we fast. The shadowing that matters on this study comes from gallstones."
+  },
+  {
+   "id": "gi-w04-lab-imaging-q03",
+   "source": "slide",
+   "source_ref": "Slides 98, 93",
+   "stem": "What is the initial evaluation for suspected bowel perforation?",
+   "choices": [
+    "Frontal supine abdomen x-ray",
+    "Upright chest x-ray",
+    "Stat CT of the abdomen and pelvis",
+    "Left lateral decubitus chest x-ray"
+   ],
+   "answer": 1,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "Initial is the is the uh operative word here, right? So you're probably going to end up getting a CT on this patient anyway, but the initial evaluation when you're standing next to them in the emergency room, you can get the portable tech X-ray X-ray tech to come over and take an upright chest X-ray right then and there, and then you'll have your answer.",
+     "at": "00:38:56"
+    },
+    {
+     "type": "slide",
+     "slide": 98,
+     "image": "img/gi-w04-lab-imaging/slide_98.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 93,
+     "image": "img/gi-w04-lab-imaging/slide_93.jpg"
+    }
+   ],
+   "note": "Upright chest x-ray. A portable upright film can be taken right at the bedside in the ED, and free air rises under the diaphragm, so it answers \"did they perforate?\" right away. The professor stressed that \"initial\" is the key word. Most of these patients will end up getting a CT anyway, but the chest film comes first.\nA frontal supine abdominal film can show free air only through subtle signs like Rigler sign, because the air spreads across the front of the abdomen instead of collecting under the diaphragm.\nA stat CT is more sensitive and usually follows, but it is not the quickest first step at the bedside.\nA left lateral decubitus film is an option for patients who can't sit up, but it is not the standard first test."
+  },
+  {
+   "id": "gi-w04-lab-imaging-q04",
+   "source": "slide",
+   "source_ref": "Slides 115, 4, 99",
+   "stem": "Which study do you order first for increasing abdominal distension shortly after a recent surgery?",
+   "choices": [
+    "Abdominal x-ray",
+    "Right upper quadrant ultrasound",
+    "CT of the abdomen and pelvis",
+    "MRI of the abdomen"
+   ],
+   "answer": 0,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "What study would you want to order? Just an X-ray, right? We don't need a whole CT for that.",
+     "at": "00:49:37"
+    },
+    {
+     "type": "slide",
+     "slide": 115,
+     "image": "img/gi-w04-lab-imaging/slide_115.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 4,
+     "image": "img/gi-w04-lab-imaging/slide_04.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 99,
+     "image": "img/gi-w04-lab-imaging/slide_99.jpg"
+    }
+   ],
+   "note": "Abdominal x-ray. Soon after surgery the main worry is ileus versus an early obstruction, and a plain film shows the bowel gas pattern well enough to tell them apart. If it looks like ileus, there's nothing to do but wait. As the professor said, you don't need a whole CT for that.\nRUQ ultrasound is for the gallbladder and liver, not bowel gas.\nCT gives more detail, but it is more than you need for a first look at the gas pattern.\nMRI is expensive and slow and isn't used to sort out postoperative distension."
+  },
+  {
+   "id": "gi-w04-lab-imaging-q05",
+   "source": "slide",
+   "source_ref": "Slides 115, 4",
+   "stem": "Which study do you order to assess constipation?",
+   "choices": [
+    "Abdominal x-ray",
+    "Right upper quadrant ultrasound",
+    "CT of the abdomen and pelvis",
+    "MRI of the abdomen"
+   ],
+   "answer": 0,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "We can, we can see if there's a lot of stool in the colon on X-ray. We don't need a full CT. We can just do an X-ray.",
+     "at": "00:51:08"
+    },
+    {
+     "type": "slide",
+     "slide": 115,
+     "image": "img/gi-w04-lab-imaging/slide_115.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 4,
+     "image": "img/gi-w04-lab-imaging/slide_04.jpg"
+    }
+   ],
+   "note": "Abdominal x-ray. A plain film shows how much stool is in the colon along with the bowel gas pattern, which is all you need to check a constipated patient. The professor's example was a patient who still says they're constipated after lots of laxatives. Just get an x-ray, no CT needed.\nRUQ ultrasound looks at the gallbladder and liver, not stool burden.\nCT would show the stool too, but it costs more and gives far more radiation than this question needs.\nMRI has no role in routine assessment of constipation."
+  },
+  {
+   "id": "gi-w04-lab-imaging-q06",
+   "source": "slide",
+   "source_ref": "Slides 115, 4, 71",
+   "stem": "Which study do you order first for intermittent right upper quadrant pain?",
+   "choices": [
+    "Abdominal x-ray",
+    "Right upper quadrant ultrasound",
+    "CT of the abdomen and pelvis",
+    "MRI of the abdomen"
+   ],
+   "answer": 1,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "We're thinking, oh, it might be biliary colic or acute cholecystitis, something of that nature. Let's start with the right upper quadrant ultrasound.",
+     "at": "00:51:24"
+    },
+    {
+     "type": "slide",
+     "slide": 115,
+     "image": "img/gi-w04-lab-imaging/slide_115.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 4,
+     "image": "img/gi-w04-lab-imaging/slide_04.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 71,
+     "image": "img/gi-w04-lab-imaging/slide_71.jpg"
+    }
+   ],
+   "note": "Right upper quadrant ultrasound. Pain that localizes to the RUQ raises biliary colic or cholecystitis, and ultrasound is the best first test for the gallbladder and liver. It is cheap, uses no radiation, and shows stones, wall thickening and duct dilation.\nAn abdominal x-ray misses most gallstones, since many aren't calcified.\nCT is useful when pain doesn't localize, but it is less sensitive than ultrasound for gallstones.\nMRI/MRCP is a follow-up test for the bile ducts, not the first study."
+  },
+  {
+   "id": "gi-w04-lab-imaging-q07",
+   "source": "slide",
+   "source_ref": "Slides 116, 4, 5",
+   "stem": "A 58-year-old woman presents with belching and fullness. Which imaging is used to assess these symptoms?",
+   "choices": [
+    "Neck CT",
+    "Chest CT without contrast",
+    "MRI of the abdomen",
+    "Barium esophagram"
+   ],
+   "answer": 3,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "Um, bar esophagram, it does use radiation, but not a lot of it, um, and it's going to be more specific to the upper GI system. So I think a barium esophagram is probably the right answer there.",
+     "at": "00:52:08"
+    },
+    {
+     "type": "slide",
+     "slide": 116,
+     "image": "img/gi-w04-lab-imaging/slide_116.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 4,
+     "image": "img/gi-w04-lab-imaging/slide_04.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 5,
+     "image": "img/gi-w04-lab-imaging/slide_05.jpg"
+    }
+   ],
+   "note": "Barium esophagram. Fluoroscopy is the best tool for the upper GI tract: it shows the esophagus and stomach in motion with only a little radiation, and it is aimed right at these symptoms. The professor noted he's seen all four ordered, but this is the best answer.\nA neck CT might catch something if the symptoms are high, but it misses most of the esophagus and stomach.\nA chest CT without contrast might give the diagnosis, but it is more expensive, uses more radiation and doesn't show function.\nMRI of the abdomen uses no radiation, but it is very expensive and not the right test for the upper GI tract."
+  },
+  {
+   "id": "gi-w04-lab-imaging-q08",
+   "source": "slide",
+   "source_ref": "Slides 117, 32, 31",
+   "stem": "Which segment of the left lobe of the liver is the arrow pointing to?",
+   "stem_image": "img/gi-w04-lab-imaging/slide_117.jpg",
+   "choices": [
+    "Posterior",
+    "Lateral",
+    "Anterior",
+    "Caudate"
+   ],
+   "answer": 1,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "So this is separating our left lobe from our right lobe, and then the left hepatic vein separates our two segments which are medial and lateral. So this one is Later, lateral to the liver, not to the patient.",
+     "at": "00:52:44"
+    },
+    {
+     "type": "slide",
+     "slide": 117,
+     "image": "img/gi-w04-lab-imaging/slide_117.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 32,
+     "image": "img/gi-w04-lab-imaging/slide_32.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 31,
+     "image": "img/gi-w04-lab-imaging/slide_31.jpg"
+    }
+   ],
+   "note": "Lateral. Liver segments are defined by the hepatic veins. The middle hepatic vein splits the left lobe from the right, and the left hepatic vein splits the left lobe into its medial and lateral segments. The arrow is on the part of the left lobe beyond the left hepatic vein, which is the lateral segment (lateral to the liver, not to the patient).\nPosterior is a segment of the right lobe, behind the right hepatic vein.\nAnterior is also a right-lobe segment, between the middle and right hepatic veins.\nThe caudate lobe sits back by the IVC, not out in the left lobe where the arrow points."
+  },
+  {
+   "id": "gi-w04-lab-imaging-q09",
+   "source": "slide",
+   "source_ref": "Slides 118, 15",
+   "stem": "Which structures are the arrows pointing to?",
+   "stem_image": "img/gi-w04-lab-imaging/slide_118.jpg",
+   "choices": [
+    "Stomach and jejunum",
+    "Pancreas and stomach",
+    "Transverse colon and pancreas",
+    "Transverse colon and splenic vein"
+   ],
+   "answer": 2,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "Transverse colon and pancreas. Exactly.",
+     "at": "00:53:15"
+    },
+    {
+     "type": "slide",
+     "slide": 118,
+     "image": "img/gi-w04-lab-imaging/slide_118.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 15,
+     "image": "img/gi-w04-lab-imaging/slide_15.jpg"
+    }
+   ],
+   "note": "Transverse colon and pancreas. The upper arrow is on a front, gas- and stool-filled loop running across the left upper abdomen, which is the transverse colon. The lower arrow is on soft tissue lying in front of the splenic vein, which is the body and tail of the pancreas. The professor's point is that board images are usually basic, so knowing the normal structures gets you halfway.\nThe stomach sits higher and further forward under the left liver lobe, and the jejunum has a feathery mucosal pattern without colonic stool.\nThe lower arrow is on the pancreas, but the upper one is colon, not stomach.\nThe splenic vein is the thin bright vessel running just behind the pancreas, not the soft tissue the lower arrow marks."
+  },
+  {
+   "id": "gi-w04-lab-imaging-q10",
+   "source": "slide",
+   "source_ref": "Slides 119, 4",
+   "stem": "What is the most cost-effective initial imaging for upper abdominal pain?",
+   "choices": [
+    "MRI/MRCP",
+    "X-ray",
+    "Ultrasound",
+    "CT"
+   ],
+   "answer": 2,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "A CT for sure will give you the diagnosis, but an ultrasound is actually more cost effective if you have upper abdominal pain as an initial study.",
+     "at": "00:54:03"
+    },
+    {
+     "type": "slide",
+     "slide": 119,
+     "image": "img/gi-w04-lab-imaging/slide_119.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 4,
+     "image": "img/gi-w04-lab-imaging/slide_04.jpg"
+    }
+   ],
+   "note": "Ultrasound. It is cheap, needs no radiation and is the best first look at the liver and biliary tree, where much upper abdominal pain comes from. \"Most cost-effective\" is the key phrase in the question.\nMRI/MRCP is very good for the liver, pancreas and bile ducts, but it is the most expensive option and is not a first-line test.\nAn x-ray can only show a few things (bowel gas, free air) and usually won't give a specific diagnosis.\nCT will almost always give a diagnosis, but it costs more and uses radiation, so as a first study it is less cost-effective than ultrasound."
+  },
+  {
+   "id": "gi-w04-lab-imaging-q11",
+   "source": "slide",
+   "source_ref": "Slides 120, 121, 103",
+   "stem": "A 70-year-old woman presents with 2 days of diffuse abdominal pain and vomiting. Her medical history includes a colonic perforation 5 years ago treated with sigmoid resection. She is currently afebrile. A CT is ordered and the image is shown. What is the likely diagnosis?",
+   "stem_image": "img/gi-w04-lab-imaging/slide_120.jpg",
+   "choices": [
+    "Colonic obstruction from anastomotic stricture",
+    "Acute appendicitis",
+    "Distal small bowel obstruction from adhesions",
+    "Colitis"
+   ],
+   "answer": 2,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "And then colitis, well, the colon looks perfectly fine here. So I'm going to go with distal small bowel obstruction from adhesions.",
+     "at": "00:56:39"
+    },
+    {
+     "type": "slide",
+     "slide": 120,
+     "image": "img/gi-w04-lab-imaging/slide_120.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 121,
+     "image": "img/gi-w04-lab-imaging/slide_121.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 103,
+     "image": "img/gi-w04-lab-imaging/slide_103.jpg"
+    }
+   ],
+   "note": "Distal small bowel obstruction from adhesions. The CT shows dilated, fluid- and contrast-filled small bowel loops, while the colon (the most lateral and posterior loops) is decompressed. Her past abdominal surgery is the clue to adhesions, the most common cause of SBO. The professor's approach: name the structures first (decompressed colon, dilated small bowel), then use the history to choose the cause.\nColonic obstruction from an anastomotic stricture would dilate the colon above the stricture, but here the colon is collapsed.\nAcute appendicitis can cause an obstruction, but nothing on the image shows an inflamed appendix, so it's not the best answer.\nColitis would show a thick-walled, inflamed colon, and her colon looks normal. She is also afebrile."
+  },
+  {
+   "id": "gi-w04-lab-imaging-q12",
+   "source": "slide",
+   "source_ref": "Slides 123, 122, 124, 69",
+   "stem": "A 58-year-old man presents to his primary care doctor with vague abdominal pain and weight loss. The CT images are shown. What is the likely diagnosis, and what is the next diagnostic step?",
+   "stem_image": "img/gi-w04-lab-imaging/slide_122.jpg",
+   "choices": [
+    "Metastatic rectal cancer; colonoscopy with biopsy",
+    "Colitis and hepatic abscess; liver aspiration and culture",
+    "Suspicious liver and colon mass; liver biopsy",
+    "Hepatocellular carcinoma; liver MRI"
+   ],
+   "answer": 0,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "Do you go straight and stick a harpoon in the liver or do you do a colonoscopy? Yeah. Do a colonoscopy. So that's the right answer there.",
+     "at": "00:59:11"
+    },
+    {
+     "type": "slide",
+     "slide": 123,
+     "image": "img/gi-w04-lab-imaging/slide_123.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 122,
+     "image": "img/gi-w04-lab-imaging/slide_122.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 124,
+     "image": "img/gi-w04-lab-imaging/slide_124.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 69,
+     "image": "img/gi-w04-lab-imaging/slide_69.jpg"
+    }
+   ],
+   "note": "Metastatic rectal cancer; colonoscopy with biopsy. The pelvic image shows circumferential rectal wall thickening (the \"doughnut\"), and the liver image shows low-density masses. With weeks of weight loss that adds up to rectal cancer with liver metastases. The next step is to biopsy the primary tumor at colonoscopy, which is easier and safer than going after the liver. The professor put it as: you don't go straight in and stick a harpoon in the liver.\nColitis with a hepatic abscess would be more acute, with fever, and wouldn't fit a chronic course with weight loss.\nSuspicious liver and colon masses is a fair description, but a liver biopsy is not the best next step when the primary tumor can be reached by colonoscopy.\nCalling this hepatocellular carcinoma ignores the abnormal rectum on the pelvic image."
+  },
+  {
+   "id": "gi-w04-lab-imaging-q13",
+   "source": "slide",
+   "source_ref": "Slides 125, 126",
+   "stem": "A 41-year-old man is admitted to the hospital because of bloody bowel movements. His pulse is 125/min and blood pressure is 90/60 mm Hg. Exam shows jaundice and periumbilical varices. A CT through the liver is shown. To help stop the bleeding, a shunt is placed between the portal vein and which vessel?",
+   "stem_image": "img/gi-w04-lab-imaging/slide_125.jpg",
+   "choices": [
+    "Splenic vein",
+    "Hepatic artery",
+    "Hepatic vein",
+    "Mesenteric vein"
+   ],
+   "answer": 2,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "Yeah, hepatic veins. So they're asking you where does the tips shunt go? Or a tips because S is the shunt. Um, so the answer is hepatic vein.",
+     "at": "01:01:02"
+    },
+    {
+     "type": "slide",
+     "slide": 125,
+     "image": "img/gi-w04-lab-imaging/slide_125.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 126,
+     "image": "img/gi-w04-lab-imaging/slide_126.jpg"
+    }
+   ],
+   "note": "Hepatic vein. This is a TIPS (transjugular intrahepatic portosystemic shunt). It connects a portal vein branch to a hepatic vein inside the liver, so portal blood skips the cirrhotic liver and drains straight to the IVC. That lowers portal pressure and the variceal bleeding. The CT backs up the picture: a nodular liver and enlarged, twisting splenic varices mean cirrhosis with portal hypertension. As the professor said, you can answer this without the image.\nThe splenic vein is part of the portal system itself, so joining it to the portal vein does nothing for portal pressure.\nThe hepatic artery is a high-pressure inflow vessel. Shunting portal blood into it makes no sense.\nThe mesenteric veins drain into the portal vein, so linking them would not let blood get around the liver."
+  }
+ ]
+}

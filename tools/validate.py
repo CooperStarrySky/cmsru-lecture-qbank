@@ -29,6 +29,17 @@ def norm(s):
     return re.sub(r"\s+", " ", s).strip().lower()
 
 
+_src_cache = {}
+
+
+def source_texts(lecture_id):
+    if lecture_id not in _src_cache:
+        d = ROOT / "sources" / lecture_id
+        _src_cache[lecture_id] = {k: norm((d / f"{k}.txt").read_text(errors="ignore"))
+                                  for k in ("transcript", "notes") if (d / f"{k}.txt").exists()}
+    return _src_cache[lecture_id]
+
+
 def main():
     check_only = "--check" in sys.argv
     errs, seen, lectures = [], {}, []
@@ -86,11 +97,16 @@ def main():
                         errs.append(f"{w}: slide evidence needs a slide number")
                 else:
                     quote = e.get("quote", "")
+                    # a quote may come from another lecture's recording/notes: "from": "<lecture_id>"
+                    src_id = e.get("from") or lid
+                    if src_id != lid and not e.get("lecture"):
+                        errs.append(f"{w}: cross-lecture quote needs a \"lecture\" name to display")
+                    qtexts = texts if src_id == lid else source_texts(src_id)
                     if len(quote.split()) < 4:
                         errs.append(f"{w}: {t} quote too short to verify")
-                    elif t not in texts:
-                        errs.append(f"{w}: no sources/{lid}/{t}.txt to check the quote against")
-                    elif norm(quote).rstrip(".") not in texts[t]:
+                    elif t not in qtexts:
+                        errs.append(f"{w}: no sources/{src_id}/{t}.txt to check the quote against")
+                    elif norm(quote).rstrip(".") not in qtexts[t]:
                         errs.append(f"{w}: {t} quote not found word for word: \"{quote[:70]}...\"")
         key = f"{d.get('block')}/{d.get('week')}"
         lectures.append({

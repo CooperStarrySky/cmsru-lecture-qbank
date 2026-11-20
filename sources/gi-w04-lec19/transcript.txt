@@ -1,0 +1,1094 @@
+[00:00:00] All right, folks, you wanna get started?
+[00:00:06] All right.
+[00:00:08] So You're getting close to being done.
+[00:00:12] This is the last full week, right?
+[00:00:15] It's pretty cool.
+[00:00:17] It's crazy, it goes by fast, um.
+[00:00:20] So, this is a lecture lecture on, on functional disorders
+[00:00:23] of the GI tract.
+[00:00:24] Um, This is a, you know, this is something that
+[00:00:27] is, is super, super common.
+[00:00:31] You know, when we talk about what we're gonna put
+[00:00:33] in lectures and we think about it.
+[00:00:35] This is one of these, you know, you, you, of
+[00:00:38] course, you're gonna be tested on awards and stuff, but
+[00:00:40] this is one of these that's really, really common.
+[00:00:41] You will not go through your, throughout your career without
+[00:00:44] seeing this.
+[00:00:44] You're guaranteed you'll see this.
+[00:00:45] In fact, there's probably people in the room that have
+[00:00:48] it.
+[00:00:49] Super common, right?
+[00:00:50] So, Um, we're talking about functional disorders of the GI
+[00:00:54] tract.
+[00:00:54] Notice I did changed the, changed the title, uh, Disorders
+[00:00:58] of Gut-Brain Interaction.
+[00:01:01] And the reason why is just in 2026, they came
+[00:01:03] up with the updated classification of this.
+[00:01:06] So, pretty recently, so this is pretty hot off the
+[00:01:09] press.
+[00:01:10] And we're gonna talk about what that means in terms
+[00:01:12] of how we think about this disease process.
+[00:01:16] So, when we look at our objectives, notice that I
+[00:01:20] highlighted, uh, gut-brain interaction, because that is the buzzword now.
+[00:01:25] We still use the term functional disorders, but we'll talk
+[00:01:27] about that in a little bit.
+[00:01:29] Uh, we're talking about the specific, uh, DGBIs in particular,
+[00:01:33] because for each of these categories, there is a functional
+[00:01:37] component of it.
+[00:01:37] Heartburn, dyspepsia, irritable bowel syndrome, which is the flagship.
+[00:01:40] Abdominal pain, look at the Rome criteria.
+[00:01:44] These are the diagnostic criteria, discuss some of the psychologic
+[00:01:47] implications of this, review treatment options at the end, we're
+[00:01:50] gonna talk a lot about the treatment options and review
+[00:01:52] a lot of the pharmacology, which is um kind of
+[00:01:55] reinforcement from Doctor Ferreira's lectures and lectures that we've had
+[00:01:59] earlier on in the course.
+[00:02:02] So, um, disorders of gut-brain interaction.
+[00:02:06] We'll talk about the definition of epidemiology.
+[00:02:09] And if you notice, there's, I'm still using the word
+[00:02:12] functional, I'll get into that in a minute, but there's
+[00:02:13] functional abdominal pain, functional dyspepsia, functional heartburn, irritable bowel syndrome,
+[00:02:17] functional constipation.
+[00:02:18] I mean, the list goes on and on and on
+[00:02:20] and on.
+[00:02:21] Rumination syndrome, these, these are all The, the problem with
+[00:02:26] these is that, besides them being exceedingly common and incredibly
+[00:02:31] uh distressful for patients, it's the diagnostics that are, that
+[00:02:35] are hard.
+[00:02:35] And it's mostly a clinic, uh, a clinical diagnosis.
+[00:02:38] However, I will make the argument that there's definitely something
+[00:02:42] more going on than in your head, which, by the
+[00:02:45] way, 50 years ago, that's what these patients got.
+[00:02:47] Oh, it's in your head.
+[00:02:48] Have you seen a psychiatrist?
+[00:02:50] And we do know that there's some real physiologic changes
+[00:02:54] in this, and we'll also talk about some of the
+[00:02:56] treatments.
+[00:02:56] So, This is the flagship one.
+[00:02:58] We'll talk about IBS primarily, but we're gonna go through
+[00:03:02] a bunch of the functional disorders.
+[00:03:03] So, 1 in 4 people in the United States have
+[00:03:05] it.
+[00:03:05] That's an incredibly huge number, and about 40% of, of
+[00:03:09] office visits are for it.
+[00:03:10] And The word functional is a term which is, has,
+[00:03:17] you know, we say it's applied to disorders where the
+[00:03:20] body's activities are, are, um, they're normal, meaning you do
+[00:03:25] testing and it's normal.
+[00:03:26] So, therefore, it's functional.
+[00:03:28] But really, when you look at the nitty-gritty, you're, what
+[00:03:31] you're really talking about is alterations in motility, hypersensitivity.
+[00:03:36] That the brain controls functions.
+[00:03:38] And look, so this is from 2006.
+[00:03:40] So, there's a, a group of, of GI people that
+[00:03:43] meet every 10 years in Rome.
+[00:03:45] And this was Rome 3, this was back in 2006,
+[00:03:47] that's 10 years before that, and 10 years before that
+[00:03:50] is when they first started it.
+[00:03:51] But prominent in that, in that definition was no structural
+[00:03:55] abnormalities, right?
+[00:03:56] That was a word.
+[00:03:58] So, in 2016, they introduced this term of disorders of
+[00:04:03] gut-brain interaction because What they're really starting to tease out
+[00:04:07] through a bunch of studies is you're actually, yes, you're,
+[00:04:10] you're, you're talking about functional, and you're talking about a,
+[00:04:13] a, a disease process that doesn't have any macroscopic macroscopically
+[00:04:19] uh definable features.
+[00:04:21] But what you're really starting to see is they start
+[00:04:23] honing in on that there's dysmotility, there's visceral hypersensitivity, there's
+[00:04:29] ultra mucosal and immune function.
+[00:04:32] There's altered gut microbiota, and there's altered, altered CNS processing
+[00:04:36] of all of this information.
+[00:04:38] Now, fast forward to most recently in 2026, where they're
+[00:04:42] getting away from the word functional.
+[00:04:44] It's still included, but in the next iteration, functional will
+[00:04:47] likely be removed because what they're trying to impress upon
+[00:04:50] physicians, who then impress upon their patients is, it's a
+[00:04:54] real disease.
+[00:04:55] This is not something that's in your head, which is
+[00:04:58] historically how we've, how we've dealt with this, dealt with
+[00:05:01] this problem, mostly because we didn't know.
+[00:05:03] And now, as our testing and our studies have become
+[00:05:07] more advanced and more granular, we're starting to see a
+[00:05:09] lot of differences.
+[00:05:11] And all this stuff goes into how we end up.
+[00:05:13] Talking to patients, I mean, these are people where I
+[00:05:17] will spend, particularly on the first visit, I will spend
+[00:05:18] a tremendous amount of time talking to them about it.
+[00:05:21] Because this is one of those disease processes where you
+[00:05:23] need to develop a good relationship with their patients.
+[00:05:27] They have to trust you or else everything you say
+[00:05:29] is out the window.
+[00:05:31] All right, so, quickly, we're just gonna go through these.
+[00:05:33] Functional abdominal pain, right?
+[00:05:35] Super, super common, 25% of all, all, uh, children, uh,
+[00:05:39] child GI visits, recurrent abdominal pain, dyspepsia, irritable bowel syndrome
+[00:05:43] kind of alter filter also filters into this.
+[00:05:46] Um, the, the cause once again is not known, but
+[00:05:50] gut-brain interaction.
+[00:05:52] Then we move on to functional dyspepsia, right?
+[00:05:55] Discomfort in the upper abdomen, bloating, uh, early satiety, uh,
+[00:05:59] postprandial heaviness, uh, it's, and it's primarily focused in the
+[00:06:03] upper abdomen.
+[00:06:05] Uh, so you might do something like, they can have
+[00:06:07] other stuff like nausea, belching, bloating, um, and you can
+[00:06:11] do stuff like an AGD and you don't see any
+[00:06:14] abnormalities.
+[00:06:15] Uh, one of these things you'll start to see as
+[00:06:18] theme is there often is coexistent issues with, with, um,
+[00:06:24] some psychological disorder, whether it's depression or anxiety, but you
+[00:06:28] see these running hand in hand, which, by the way,
+[00:06:31] suggests that we're we're, what we're dealing with is an
+[00:06:33] issue with the central nervous system and the way that
+[00:06:36] it processes data, and, and the way its receptors are,
+[00:06:40] because it appears as though there's some, some exaggeration of
+[00:06:44] it to some extent.
+[00:06:46] But we don't understand why.
+[00:06:48] Functional heartburn, the same thing.
+[00:06:49] So, I do an upper, somebody's like, I have heartburn,
+[00:06:52] I do an upper endoscopy, everything looks normal.
+[00:06:53] I do biopsies, everything looks normal.
+[00:06:55] In fact, I even do pH testing and it's normal,
+[00:06:57] but the symptoms are still really classic.
+[00:07:00] And oftentimes these people do not respond to pro to
+[00:07:04] any anti-secretory therapy.
+[00:07:06] Once again, I do question these people, depression, anxiety, traumatization,
+[00:07:10] whatever it might be, and, and see if there's anything
+[00:07:13] else that can be contributing.
+[00:07:16] So, the Rome criteria in 16, you don't need to
+[00:07:20] know these in specific, but they've changed it a little
+[00:07:23] bit.
+[00:07:23] Now, it's 3 days.
+[00:07:25] So, this is a clinical diagnosis, meaning, they will get
+[00:07:28] for Rome criteria for IBS, this is Rome 5, the
+[00:07:32] most recent.
+[00:07:33] You get recurrent abdominal pain or discomfort, which is a
+[00:07:36] new word that they put in there.
+[00:07:37] And on 3 or more days per month associated with
+[00:07:42] Change in defecation, uh, stool frequency or stool form.
+[00:07:47] And, uh, and that, that difference, although it might be
+[00:07:51] subtle, clinically is important.
+[00:07:54] Um, but once again, this is a clinical diagnosis.
+[00:07:57] So, Imagine you walk in the office and you have
+[00:07:59] all these symptoms, and you're saying all this stuff, and
+[00:08:02] I, well, we do a colonoscopy, we do tests, and
+[00:08:04] there's nothing there, right?
+[00:08:06] So, how do you convey that to a person?
+[00:08:09] Cause it's hard, they they come to you and they're
+[00:08:11] gonna want you to say, this is what you have.
+[00:08:13] This is a durable diagnosis.
+[00:08:15] Yes, there are some exclusionary things you do, but this
+[00:08:18] is a durable diagnosis.
+[00:08:19] If somebody has IBS they have IBS, they don't have
+[00:08:22] Crohn's, and it's a very different scenario.
+[00:08:26] And you have to convey the concept that this is
+[00:08:28] a real disease process.
+[00:08:31] OK, so, which of the following statements is incorrect regarding
+[00:08:35] uh disorders of gut-brain interaction?
+[00:08:36] The abdominal pain is generalized abdominal pain without objective findings
+[00:08:39] on testing.
+[00:08:41] Dyspepsia is upper abdominal discomfort often associated with meals including
+[00:08:45] feelings of fullness, bloating, or burning.
+[00:08:47] Heartburn is chest discomfort usually related to cardiomyopathy or irritable
+[00:08:51] bowel syndrome is abdominal pain slash discomfort accompanied by changes
+[00:08:55] in bowel habits like diarrhea, constipation, or both.
+[00:08:58] Easy one, right?
+[00:09:00] Of course, it's not cardiomyopathy, but all the other ones
+[00:09:03] are true.
+[00:09:06] And the reason for this is it's altered perception.
+[00:09:09] It's a it's an altered arrangement between the, the GI
+[00:09:13] tract and the brain, which is causing uh these symptoms.
+[00:09:17] So once again, we're gonna start talking about IBS now.
+[00:09:19] We've talked all about the different functional disorders of which
+[00:09:23] there are many, many, many, many, but we're gonna concentrate
+[00:09:27] on the flagship, which is irritable bowel syndrome.
+[00:09:31] So, this is the Bristol stool chart.
+[00:09:33] I actually have a coffee mug with this.
+[00:09:34] I love it.
+[00:09:35] Um, but I actually use this.
+[00:09:37] This is, they basically did this, uh, they, they questioned
+[00:09:41] like 2000 people and asked them to tell them what
+[00:09:43] their stool looked like.
+[00:09:45] And this was the range they got.
+[00:09:47] And it's actually super useful in the office.
+[00:09:50] I, I will have this, and I'll say, what does
+[00:09:52] your stool look like?
+[00:09:53] Cause picture's worth 1000 words, right?
+[00:09:55] So, one is basically like pellets.
+[00:09:58] And 7 is watery, entirely liquid.
+[00:10:01] Of course, we all wanna be a 4, but that's
+[00:10:03] not always the case.
+[00:10:04] So, you will see people, and it is very helpful
+[00:10:08] for them to kind of tell you what they have.
+[00:10:09] I use this a lot.
+[00:10:12] So And the reason why it's important is because there's
+[00:10:16] subtypes of irritable bowel syndrome, right?
+[00:10:17] There's irritable bowel syndrome that is constipation predominant, and those
+[00:10:21] people are normally a 1 or 2 on the Bristol
+[00:10:24] stool.
+[00:10:25] And then there's diarrhea, those people are 6 and 7.
+[00:10:27] And then there's people that are mixed.
+[00:10:29] They will have diarrhea, and then they will have constipation.
+[00:10:32] They can go years of diarrhea and then switch to
+[00:10:34] constipation, or they can have alternating diarrhea and constipation.
+[00:10:38] They're hard to, to treat, and there's even an unclassified,
+[00:10:42] believe it or not.
+[00:10:43] So, there's several different types.
+[00:10:45] This is just a chart kind of showing you a
+[00:10:48] similar idea of just the percentage of time somebody's bowels
+[00:10:52] changed, what type of bowel function it is, whether it's
+[00:10:54] loose and watery, or it's hard and lumpy, and, uh,
+[00:10:58] and it kind of gives you an idea, a visual
+[00:11:00] conception of what you're dealing with.
+[00:11:04] When you look at the epide epidemiology of IBS, like
+[00:11:07] I said, it's incredibly common.
+[00:11:09] Uh, it typically is a disease process that starts in
+[00:11:14] younger years.
+[00:11:14] These people will oftentimes say, I've had problems with my
+[00:11:17] bowels my entire life, but not always.
+[00:11:19] Sometimes it can develop later.
+[00:11:21] When we see it in people that are in, develop
+[00:11:24] in their 60s, that's a little bit of a red
+[00:11:26] flag because typically, it's a disease process that's been going
+[00:11:29] on for a long time.
+[00:11:30] Not, that's not possible.
+[00:11:32] But what you see is there's a female predominance, a
+[00:11:35] 2 to 1, and you can see the, the distribution
+[00:11:38] pretty much is consistent throughout the years.
+[00:11:42] If you look at it by subtypes, groups, IBS constipation
+[00:11:46] more common in women, but diarrhea tends to be more
+[00:11:49] equal, as does alternating pattern of both diarrhea and constipation.
+[00:11:56] And when we think about, remember I said in the
+[00:11:59] beginning, this is a disease process you will encounter.
+[00:12:02] Um, for primary care physicians, about 12% of office visits.
+[00:12:05] For me, about 28%.
+[00:12:08] That's a, a, a lot of people.
+[00:12:10] I have clinic tomorrow.
+[00:12:11] A quarter of the people will be IBS.
+[00:12:14] And you really have to learn how to talk to
+[00:12:16] people about, about this disease process and, and get them
+[00:12:19] to understand that you think that it's a real, real
+[00:12:22] disease process, because it is.
+[00:12:26] Incredibly costful, right?
+[00:12:28] Estimated $21 billion a year, direct cost a billion dollars
+[00:12:32] from testing, office visits, emergencies, people go to the emergency
+[00:12:36] department a lot, hospitalizations, medications, indirect costs like missing work,
+[00:12:41] um, uh, and then intangible costs, how do you put
+[00:12:45] a dollar value on, on pain and suffering, but these
+[00:12:48] people actually suffer a lot.
+[00:12:50] When you talk to these people, Particularly people with diarrhea,
+[00:12:54] they will tell you that they don't go anywhere without
+[00:12:57] knowing where a bathroom is.
+[00:12:58] Like they don't go to a restaurant without that.
+[00:13:00] The first thing they do is they walk in the
+[00:13:01] restaurant, they find out where the bathroom is.
+[00:13:03] Getting on a flight for them can be really, really
+[00:13:05] hard, you know, and obviously there are degrees, some people
+[00:13:08] are pretty well controlled, and other people are not well
+[00:13:11] controlled at all.
+[00:13:12] And these are the people that really suffer quite a,
+[00:13:14] quite a bit.
+[00:13:17] Of course, there are red flags, and you always have
+[00:13:19] to think about it, you know, when we're going around
+[00:13:21] in ALG today, you know, people say, well, when do
+[00:13:23] you do a colonoscopy, right?
+[00:13:24] You don't necessarily need to do a colonoscopy to diagnose
+[00:13:27] this disease process.
+[00:13:28] But anemia, fever, persistent diarrhea, or constipation, that's really severe,
+[00:13:34] um, weight loss is always a big one.
+[00:13:37] Typically, these patients do not wake up in the middle
+[00:13:40] of the night to have a bowel movement.
+[00:13:42] But sometimes they do, but that's not typical.
+[00:13:44] Obviously, obviously family history, and I mentioned before, new onset
+[00:13:48] of symptoms when people start to get older.
+[00:13:51] Typically is an IBS but can be.
+[00:13:56] In terms of the diagnostic workup, um, this is, this
+[00:14:01] is like the holy grail.
+[00:14:02] This is what everybody's looking for.
+[00:14:03] In fact, Doctor Fatari and I are studying this now
+[00:14:06] and trying to come up with ways that are, um,
+[00:14:10] that are clear-cut diag uh, a clear-cut diagnosis, because as
+[00:14:14] of right now, I mentioned, it's a clinical diagnosis, and
+[00:14:17] there aren't Ways that are completely possible.
+[00:14:21] I mean, there's, there's IB check.
+[00:14:23] There's all, all different commercially available that insurance won't pay
+[00:14:27] for tests that you can do that are primarily uh
+[00:14:32] looking at antibodies, much in the same way that they
+[00:14:34] did for Crohn's and ulcerative colitis or any disease process
+[00:14:37] for that matter.
+[00:14:39] Um, they cost a lot.
+[00:14:41] The, the sensitivity and specificity is not great.
+[00:14:44] The GI associations do not recommend them.
+[00:14:47] They're out there, and sometimes people will come to the
+[00:14:49] office with this panel of work and you say, It's
+[00:14:52] interesting.
+[00:14:52] It's a piece of the puzzle, but I'm not sure
+[00:14:54] you can rely on it completely.
+[00:14:56] There are certain things that we were, we're gonna check
+[00:14:59] for.
+[00:14:59] I oftentimes, whether or not it's diarrhea, mixed, or constipation,
+[00:15:05] I usually check an inflammatory marker.
+[00:15:07] That gives me a good idea.
+[00:15:08] You do a CRP or a fecal calprotectin, that can
+[00:15:13] help.
+[00:15:13] Um, I oftentimes, I mean, I always will do a
+[00:15:17] celiac panel.
+[00:15:19] Celiac is common enough.
+[00:15:21] Um, but it tends to be, uh, it's common enough
+[00:15:24] in, in, in, you know, in, in people that it
+[00:15:27] makes sense financially and, and for your patient to do
+[00:15:30] a celiac test.
+[00:15:31] And by the way, people with celiac disease, although they
+[00:15:34] typically present with diarrhea, can present with constipation.
+[00:15:37] So when somebody has constipation, you should be checking, uh,
+[00:15:40] you should be checking celiac testing.
+[00:15:43] And you consider imaging, you consider stool studies, you consider
+[00:15:46] doing a colonoscopy.
+[00:15:48] You know, a really young person, alternating diarrhea and constipation,
+[00:15:53] uh, super healthy, no other medical problems.
+[00:15:56] I'm not jumping to a colonoscopy, right?
+[00:15:59] Colonoscopies are easy and they're safe, but there's still disease
+[00:16:04] processes that you have to weigh the information you get
+[00:16:07] versus the risk that you're, you're putting somebody through.
+[00:16:11] And And it's not worth it.
+[00:16:13] And our our professional societies will say, you don't need
+[00:16:17] to do a colonoscopy, and you shouldn't unless you're encountering
+[00:16:19] a red flag symptom or something that's kind of getting
+[00:16:22] your spidey senses going like, I need to do more.
+[00:16:25] People will oftentimes want the colonoscopy to say, I don't
+[00:16:28] have something.
+[00:16:29] And that's the conversation So, what about pathophysiology?
+[00:16:35] This is, this is Rome 2026.
+[00:16:38] These are all the different things that we think about
+[00:16:41] motility, visceral hypersensitivity, a central central uh pain processing issue,
+[00:16:47] um, intestinal inflammation activation, post-infectious changes, which we're gonna talk
+[00:16:52] about.
+[00:16:53] Got microbiota, that's, uh, that's a, a hot topic that
+[00:16:56] we always talk about.
+[00:16:57] Food sensitivities, I always ask people.
+[00:17:00] What do you eat that makes your symptoms worse?
+[00:17:02] Cause usually these people will have triggers.
+[00:17:05] The problem is sometimes the same trigger doesn't trigger it
+[00:17:09] every time, but usually they can, you can figure some
+[00:17:12] things out.
+[00:17:13] Um, but the list is long, is the point.
+[00:17:18] So That's not that funny, actually.
+[00:17:23] So, the path path pathophysiology of IBS, right?
+[00:17:28] We keep talking about enhanced perception, uh, visceral hypersensitivity, altered
+[00:17:32] motility, uh, and the thing that we have in common,
+[00:17:36] how many times have I mentioned serotonin, 5-HT, right?
+[00:17:39] In the beginning of the course, and now, of course
+[00:17:41] is right through.
+[00:17:42] And that's a big one, and that's still probably the
+[00:17:45] most prominent one, but we'll talk about that a little
+[00:17:49] bit more.
+[00:17:50] When you do testing that we don't do on everybody,
+[00:17:53] but when you're doing um small bowel and colonic motility,
+[00:17:57] what you see in people with IBS is that they
+[00:18:01] have higher contractions, stronger propagating contractions that last shorter and
+[00:18:06] longer than normal.
+[00:18:07] So, there's clearly a difference in the motility and what
+[00:18:10] people are sensing, and you, and you can see it,
+[00:18:13] you can see it on testing.
+[00:18:16] You know, and GI docs are a little bit nutty.
+[00:18:18] They do strange things to people like put a balloon
+[00:18:20] in your butt and blow it up, and then say,
+[00:18:22] tell me when it hurts, right?
+[00:18:24] So that's what this test is, right?
+[00:18:26] That, that, that what you see is the people with
+[00:18:29] IBS sense it earlier and more intensely than people without
+[00:18:33] IBS.
+[00:18:34] So it's clearly a perception issue.
+[00:18:36] If you've looked and everything's normal, and you do a
+[00:18:39] crazy test like this.
+[00:18:42] In fact, when you do functional MRI's, you see in
+[00:18:46] response to, in response to stimuli, people with IBS, their
+[00:18:49] patterns light up differently, right?
+[00:18:51] So there's definitely something going on with the signaling.
+[00:18:55] Now, we don't do these tests on, on patients with
+[00:18:58] IBS.
+[00:18:58] These are mostly studies, but the studies really indicate that
+[00:19:02] there's something else that's going on that we haven't completely
+[00:19:05] figured out.
+[00:19:07] So, 5-HT once again, it mediates uh reflexes controlling motility
+[00:19:12] and secretion, and it also mediates perception of visceral pain.
+[00:19:20] Inflammation in IBS is a very curious one.
+[00:19:23] This is, I mentioned that there's tests out there.
+[00:19:25] One of them is Prometheus, IB checked.
+[00:19:27] There's a bunch of them out there.
+[00:19:29] And look at all the different things that they look
+[00:19:31] at.
+[00:19:32] So, first of all, they know that there's increased mast
+[00:19:34] cells in the colon and the ileum.
+[00:19:36] There's increased epi uh intraepithelial lymphocytes, uh, CD3 and CD25.
+[00:19:42] They know IL-6 and IL8, inflammatory markers are up.
+[00:19:45] There's also a bunch of different Things, right?
+[00:19:49] And some of these are things that we've seen that
+[00:19:51] we looked at in, in, in, in, uh, inflammatory bowel
+[00:19:55] disease.
+[00:19:56] But I mentioned cost out of pocket, sensitivity and specificity
+[00:20:00] not great, positive and negative predictive value is not great,
+[00:20:04] not really enough some something that you can hang, hang
+[00:20:07] your hat on.
+[00:20:08] But we're working towards figuring that out a little bit
+[00:20:11] more.
+[00:20:13] And There's a question as to whether or not an
+[00:20:16] infectious infectious disease plays a role in irritable bowel syndrome,
+[00:20:20] so.
+[00:20:21] IBS develops in post-gastroenteritis in, in some patients.
+[00:20:24] I'm gonna show you a study, and, um, that antibiotics
+[00:20:29] sometimes have improved it for unclear reasons.
+[00:20:32] So, when you look at some of these antibodies, so
+[00:20:35] there's these two in particular in a post-infectious, the cytolethal
+[00:20:39] distending uh toxin B and uh antibodies to uh viniculin.
+[00:20:45] These are things that have been studied and appear to
+[00:20:47] be elevated.
+[00:20:48] So we think maybe there's a component of that.
+[00:20:52] This was a study where there was an outbreak in
+[00:20:55] 2000.
+[00:20:56] And what they did is they gave this notice, this
+[00:21:00] is Rome criteria one, so this is, this is going
+[00:21:02] way back, but the data still holds, which is they,
+[00:21:06] they followed people along after that outbreak just to see
+[00:21:09] what was going on with them.
+[00:21:11] And about after 2 to 3 years after infection, about
+[00:21:14] 28% of them reported IBS symptoms.
+[00:21:17] And then that, that was pretty durable, even 8 years
+[00:21:20] out where 15% of them had uh uh had from
+[00:21:24] their initial infection had IBS.
+[00:21:26] And it remains statistically significant.
+[00:21:28] What they found is that there were some sub-patterns that,
+[00:21:31] that tended to be more prominent female, younger age, prior
+[00:21:35] anxiety or depression, or the severity of the, of the
+[00:21:38] disease like fever or weight loss or um or a
+[00:21:42] hemorrhagic enteritis, something like that, that all predisposed these people.
+[00:21:46] So something kind of triggered the, the, the dysmotility and
+[00:21:51] the hypersensitivity.
+[00:21:55] And what they also found is, after uh a post-infectious
+[00:22:00] IBS, and that's, by the way, one of the questions
+[00:22:02] I asked, like, any inciting event?
+[00:22:03] Did you have really big health changes recently?
+[00:22:06] Did you get a, you get travel and have a
+[00:22:08] really bad gastroenteritis?
+[00:22:11] It tends to tick up after that, but they've done
+[00:22:13] stuff like biopsies, and they see that there's an increase
+[00:22:15] in patients with diarrhea, there's an increased amount of circulating
+[00:22:18] 5-HT and in constipation, there's a decreased number of uh
+[00:22:23] EC cells with 5-HT.
+[00:22:26] So something's happened.
+[00:22:30] Altered gut microbiota, um, is, uh, another hot topic.
+[00:22:35] So, We have an interaction with what's in our system.
+[00:22:39] So, we interact with what we eat and what our
+[00:22:42] body produces.
+[00:22:43] And when you study the, the microbiota of patients with
+[00:22:48] irritable bowel syndrome, it's different than patients without.
+[00:22:52] And the question is, why?
+[00:22:53] Is it things that we're eating?
+[00:22:54] Maybe, I did mention food triggers, so that's a possibility.
+[00:22:57] But it also tends seems to be something more than
+[00:23:00] that.
+[00:23:01] For one reason or another, there's an altered amount of
+[00:23:03] microbiota, and that causes Activation of mucosal immunity to inflammation,
+[00:23:10] permeability.
+[00:23:11] And sensory motor changes, which there's all an interaction and
+[00:23:16] so this is, this is a, a, a big and
+[00:23:19] hot topic.
+[00:23:19] In fact, if you look at studies that go through
+[00:23:22] that, I mean look at all these studies, and this
+[00:23:24] isn't, this is a 10th of them.
+[00:23:26] There's a ton of different studies.
+[00:23:27] I mentioned that Doctor Fattar and I are studying this
+[00:23:29] right now.
+[00:23:31] What does the microbiota look like and what are some
+[00:23:34] of the products of the microbiota that might help us
+[00:23:37] kind of figure out, categorize, and maybe even diagnose these
+[00:23:42] patients a little bit better than we have now.
+[00:23:44] Because we all want the test that says you have
+[00:23:47] this, right?
+[00:23:48] So, that is, once again, the holy grail of what
+[00:23:51] you're looking at.
+[00:23:55] So, what about some of the psychologic aspects of, of
+[00:23:58] IBS?
+[00:23:59] Um, up to about 60% will have something, anxiety, depression,
+[00:24:03] somatiform disorders, life stressors, uh, chronic pain behavior.
+[00:24:08] It's a question that we think about and ask.
+[00:24:10] And by the way, it's one of the things that
+[00:24:12] I'm also treating.
+[00:24:14] There's actually a subspecialty in GI which is, uh, uh,
+[00:24:18] GI and psychiatry that goes together.
+[00:24:20] A guy named Doug Grossman, who's, who's one of the
+[00:24:22] uh originators of this whole gut-brain interaction.
+[00:24:26] Um, and they have, you know, he's double boarded and
+[00:24:29] he treats both.
+[00:24:30] And in fact, I would say any general gastroenterologist treats
+[00:24:34] both to, to some extent.
+[00:24:35] You'll see when we start talking about the medications that
+[00:24:37] we prescribe.
+[00:24:40] OK.
+[00:24:42] 32 year old female presents with a one day, a
+[00:24:45] one-year history of intermittent lower abdominal pain, bloating, altered bowel
+[00:24:48] habits.
+[00:24:49] She reports episodes of diarrhea, alternate alternating with constipation.
+[00:24:53] The pain is relieved after defecation.
+[00:24:55] She has no weight loss, fever, rectal bleeding, family history
+[00:24:58] of gastrointestinal disease, Laboratory tests including CBC, CRP, and a
+[00:25:03] celiac serologies are normal.
+[00:25:04] Which of the following is an appropriate management strategy for
+[00:25:08] this patient's condition?
+[00:25:10] So we haven't talked about some of these, but we
+[00:25:11] will.
+[00:25:13] Vodmap diet.
+[00:25:16] Soluble fiber.
+[00:25:17] A trial of a tricyclic antidepressant, recommend cognitive behavioral therapy
+[00:25:22] or all of the above.
+[00:25:28] See, consider a tricyclic antidepressant.
+[00:25:30] That's a good guess.
+[00:25:31] Any other ones?
+[00:25:34] B, soluble fiber, that's a good one.
+[00:25:39] Yeah, all of them.
+[00:25:40] I love it.
+[00:25:41] Um, one of the things that I put in the
+[00:25:43] stem, by the way, was, was no weight loss, right?
+[00:25:48] That's a sign that you're not dealing with anything significant.
+[00:25:50] The other thing I put is, is oftentimes these patients
+[00:25:54] will say, will have abdominal pain, and then they have
+[00:25:57] a bowel movement, and then the pain generally gets better.
+[00:26:01] That's one of the things that you hear, uh, none,
+[00:26:03] none of these are pathodaemonic, but we're gonna go through
+[00:26:06] what we're talking about here.
+[00:26:07] So, When we're treating, when we're managing irritable bowel syndrome,
+[00:26:12] since we don't have the magic test with the magic
+[00:26:15] bullet of treatment, you're, what you're really doing is trying
+[00:26:18] to address their symptoms.
+[00:26:20] So, symptom relief?
+[00:26:24] If it's constipation, if it's diarrhea, if it's pain, if
+[00:26:27] it's psychological comorbidities, how are you treating that?
+[00:26:31] Identifying, uh, identification of avoiding stressors.
+[00:26:35] So, sometimes we'll do elimination diets, sometimes we'll do lifestyle
+[00:26:38] changes.
+[00:26:39] What the body likes, particularly in this circumstance where you
+[00:26:42] have visceral hypersensitivity and dysmotility, is it likes consistency.
+[00:26:46] So, these people, when they go out and, on Super
+[00:26:50] Bowl weekend and eat chicken wings, they just don't do
+[00:26:52] well.
+[00:26:53] Your body likes you to eat pretty much the same
+[00:26:55] thing that you can tolerate every day.
+[00:26:56] So I really talk to people about consistency, and avoiding
+[00:27:00] stressors.
+[00:27:00] So, Like if we think of a stressor, you know,
+[00:27:04] some major illness, a car accident.
+[00:27:06] True, but your body, once again, likes consistency.
+[00:27:11] So, if you get on an airplane, your body perceives
+[00:27:13] that as a stress, and your body will react differently.
+[00:27:16] You might be excited, but you have, you have different
+[00:27:19] circulating hormones, your body is perceiving that as a stress.
+[00:27:22] So, really identifying those things.
+[00:27:24] But some people know they can't travel because their bowels
+[00:27:27] go haywire.
+[00:27:28] Um, so, diet, and then whatever the stressors are, and
+[00:27:32] then restoring that balance, whether or not we're talking about
+[00:27:34] gut microbiome.
+[00:27:36] Uh, probiotics, antibiotics sometimes, but really your goal.
+[00:27:43] I mentioned these people come in and they want tests,
+[00:27:45] right?
+[00:27:45] They want to know that they have a disease process,
+[00:27:47] because in general, that's what we do.
+[00:27:49] This isn't one of those, but you really have to
+[00:27:53] convey to people that at some point, you say, OK,
+[00:27:56] we're done with testing, right?
+[00:27:57] The testing isn't gonna help us anymore, it's just gonna
+[00:27:59] expose you to risk.
+[00:28:01] Our goal here, and you don't have anything dangerous, you
+[00:28:03] don't have cancer, uh, whatever it is, you don't have
+[00:28:07] that, you have irritable bowel syndrome, and that's a durable
+[00:28:09] diagnosis.
+[00:28:10] Let's focus on really figuring out how to fix your
+[00:28:12] symptoms.
+[00:28:16] So, we've seen this slide before.
+[00:28:18] These are all the different ways that you can do
+[00:28:20] it.
+[00:28:21] Uh, there's a lot of them, and there's a lot
+[00:28:23] of studies, some proven more than others, um, but.
+[00:28:28] There are a lot of different ways that we can
+[00:28:31] try to assess this.
+[00:28:32] And to be honest with you, I don't care what
+[00:28:34] it is, as long as it's safe.
+[00:28:38] It's worth a shot Problem is a lot of these
+[00:28:41] don't have the data behind them, so people will come
+[00:28:44] to you and say, well, what do you think about
+[00:28:46] whatever it is?
+[00:28:48] And you say, we just don't have the data on
+[00:28:49] it, you know, but if it's not harmful, like probiotics
+[00:28:53] typically aren't harmful, OK, it's worth a shot.
+[00:28:57] So, let's get into serotonin a little bit.
+[00:28:59] Um, both enteric nervous system and 5-HT serotonin are thought
+[00:29:04] to represent key elements in both IBS, whether or not
+[00:29:08] it's constipation or, or IBS, constipation, diarrhea, it doesn't matter.
+[00:29:14] And we always talk about serotonin, you know, the SSRIs,
+[00:29:17] right?
+[00:29:18] And we use them to treat depression.
+[00:29:20] Well, 95% of the serotonin is located in the GI
+[00:29:23] tract, which is an incredible amount.
+[00:29:25] And these enter enterochromasin cells really are kind of the
+[00:29:30] neurotransmitters of the GI tract.
+[00:29:33] And I mentioned 4 motility, visceral hypersensitivity, and secretion.
+[00:29:37] It does all of these things.
+[00:29:38] So this is a prime target for investigation as to
+[00:29:42] how we can treat.
+[00:29:45] These functional disorders in patients.
+[00:29:49] So It can get really bad for people.
+[00:29:53] I mean, really bad.
+[00:29:54] I have people that are in incredible pain, go to
+[00:29:57] the emergency department, you know, 5 times over a period
+[00:30:00] of 3 months because they're just in a lot of
+[00:30:02] pain.
+[00:30:03] And you really have to try to figure out Who
+[00:30:06] these patients are, make sure you've, you've.
+[00:30:09] Investigated if there's red flags, and then you are uh
+[00:30:14] consoling and reassuring that that this is not a dangerous
+[00:30:18] process, however, the symptoms can be pretty bad.
+[00:30:21] So, we're gonna get into a little bit of, of
+[00:30:24] the treatment for both IBS constipation, and then diarrhea, and
+[00:30:28] there's some pharmacology in here, among other things.
+[00:30:31] But, first of all, you always have to think about,
+[00:30:34] is, is this functional?
+[00:30:37] Um, is it something they're doing?
+[00:30:39] Uh, a lot of people don't really have good, uh,
+[00:30:42] stooling patterns because they just rush to use the bathroom,
+[00:30:45] they sit on the toilet for too long, they're getting
+[00:30:47] enough fiber and fluids, 64 ounces of water, at least
+[00:30:50] 30 g of fiber a day.
+[00:30:52] So they go to the bathroom when they're supposed to
+[00:30:53] go to the bathroom, and then you have to think
+[00:30:55] about other things.
+[00:30:56] You have to make sure when somebody presents, you're not
+[00:30:58] dealing with something like a cancer, or uh anal rectal
+[00:31:01] disorders, inflammatory processes, prolapse, rectocele fissure, stricture, etc.
+[00:31:08] There's a lot of things that can cause constipation, right?
+[00:31:12] I mean, just look at the list, hypokalemia, hypercalcemia, hypothyroidism,
+[00:31:15] diabetes.
+[00:31:16] Anytime any of these people are coming in the office,
+[00:31:19] in your mind, you're like a computer running through.
+[00:31:21] Do you have a TSH and you're looking for different
+[00:31:24] things that could be alternate diagnosis.
+[00:31:26] You can't skip them, you can't miss them.
+[00:31:28] There's a ton of neurologic problems, there's, there's sacral problems,
+[00:31:31] automatic neuropathy.
+[00:31:33] Right?
+[00:31:33] So, constipation is not one of those that it's clear-cut,
+[00:31:37] like I got a cough, even though that's not clear-cut
+[00:31:39] either, but, you know, this is, this is deals with
+[00:31:43] a lot of different symptoms.
+[00:31:45] And you have to think about it Medications.
+[00:31:48] Medications are endless in terms of causing constipation.
+[00:31:52] Opiates, we'll talk about, we've already talked about antidepressants, anti-hypersensitives,
+[00:31:56] a touch of them, calcium channel blockers, super common.
+[00:31:59] Some of the antacids, remember the stuff with aluminum containing
+[00:32:02] in Doctor Ferrara's lecture, right?
+[00:32:04] Um, cholestyramine we use to treat bile salt diarrhea can
+[00:32:09] really constipate people.
+[00:32:10] Anticonvulsants, anything that crosses the blood-brain barrier, particularly with anticholinergic
+[00:32:14] properties, can do it.
+[00:32:16] And there are tons of medications, and these people oftentimes
+[00:32:19] have polypharmacy, so you gotta really look through and see
+[00:32:22] what you can eliminate and see what could be causing
+[00:32:24] it.
+[00:32:26] Um, fiber is something that's very interesting.
+[00:32:29] When we think about fiber, we think about both soluble
+[00:32:32] and insoluble fibers.
+[00:32:34] And the difference is that a soluble fiber you can
+[00:32:38] mix in a glass of water and it will solubilize.
+[00:32:41] Insoluble fiber is like, imagine taking a piece of celery
+[00:32:44] and mixing that in water, it just doesn't solubilize, right?
+[00:32:47] And they're the difference of them.
+[00:32:48] In general, soluble fibers kind of bulk up the stool,
+[00:32:53] maybe slow you down a little bit, but in general
+[00:32:56] not, um, and insoluble fibers generally make your bowels move
+[00:33:00] a little bit more.
+[00:33:01] Uh, the byproduct of digestion of fibers oftentimes is gas
+[00:33:05] and bloating, so you have to be, you know, you
+[00:33:08] have to talk to your patients about that.
+[00:33:09] But anybody with either diarrhea or constipation, predominant IBS, I
+[00:33:14] put on fiber.
+[00:33:15] Sounds crazy, oftentimes works really well.
+[00:33:20] Plus, if they have constipation, I'm choosing, sometimes they don't,
+[00:33:23] they can't or they don't like to eat fruit and
+[00:33:25] vegetables, or they can't get enough dietary-wise, so you choose
+[00:33:29] different agents, psyllium, uh, uh, polycarbo fiber, uh, methyl cellulose.
+[00:33:35] These are super common.
+[00:33:37] Stool softeners like docusate sodium, even sometimes, uh, uh, mineral
+[00:33:42] oil can kind of help lubricate.
+[00:33:45] Um, then there's other ones, there's stimulant laxatives.
+[00:33:49] Uh, common ones are docusate, which is, uh, docusate sodium,
+[00:33:53] which is Dulcolax, or Senokot, which is, uh, senno, which
+[00:33:58] is another stimulant laxatives.
+[00:34:00] There are different kinds.
+[00:34:01] Oftentimes you'll see this little pattern called melanosis coli that
+[00:34:05] they get when they're on these, uh, anthroquinones, and you
+[00:34:08] see this kind of, uh, melanosis disease.
+[00:34:10] When you, when I'm doing a colonoscopy on somebody, I,
+[00:34:12] when they wake up, I say, you take a lot
+[00:34:13] of laxatives?
+[00:34:14] They say, yeah, and that's why it's a benign condition,
+[00:34:16] but something that you'd see.
+[00:34:18] The most common agents, safest for sure, is the osmotic
+[00:34:22] agents.
+[00:34:24] Magnesium, phosphate, lactulose, you know, for a patient with, with
+[00:34:28] cirrhosis that gets hepatic encephalopathy, we use lactulose.
+[00:34:32] This is an osmotic agent.
+[00:34:33] Sorbitol, which is in a ton of different foods that
+[00:34:36] you eat, if you look at the packaging, sorbitol oftentimes
+[00:34:39] is on there.
+[00:34:40] When I talk to patients that come in with a
+[00:34:41] lot of diarrhea, I ask them, I say, you know,
+[00:34:44] do you, do you, do you use a lot of
+[00:34:47] like the artificial sweeteners or have a lot of candies
+[00:34:49] and stuff like that?
+[00:34:52] That's one of them, glycerin sup suppositories, polyethylene glycol, MiraLaxX
+[00:34:56] brand name.
+[00:34:59] These are the agents that we oftentimes use for bowel
+[00:35:03] preps.
+[00:35:05] And these are 22 super, super common ones that you'll
+[00:35:07] see, and I do use these.
+[00:35:09] They're stimulants, so it's a different mechanism than osmotic.
+[00:35:13] But I use, I use all of the agents in
+[00:35:16] combination and sometimes alone, depending on what will work.
+[00:35:21] This is an interesting one, Tegasero.
+[00:35:23] So, um, Tegasero was the first 5-HT, uh, drug on
+[00:35:27] the market, and it was for irritable bowel syndrome with
+[00:35:30] constipation.
+[00:35:31] I was a fellow when this medication came out.
+[00:35:33] Um, and it was indicated for short-term, but these patients
+[00:35:37] were on long-term IBS with constipation or chronic idiopathic constipation.
+[00:35:42] And what did I say about 5-HT when you have
+[00:35:45] When you're stimulating 5-HT or excessive 5-HT, it moves the
+[00:35:48] GI tract.
+[00:35:49] When you're inhibiting it or less, it'll slow you down.
+[00:35:53] So, this is a partial 5-HT uh agonist.
+[00:35:58] And yes, it stimulates movement, but what it also does
+[00:36:02] is it inhibits visceral hypersensitivity.
+[00:36:04] Remember, it's a 5-HG.
+[00:36:06] Problem is that in 2007, it was yanked from the
+[00:36:09] market, and it was yanked from the market because there
+[00:36:12] was a, a tenfold increase in cardiovascular events.
+[00:36:15] It's a tiny number, right?
+[00:36:17] 13 out of 11,000 as compared to a placebo of
+[00:36:21] 0.01.
+[00:36:22] Enough for the FDA to, to yank it from the
+[00:36:24] market.
+[00:36:25] And I had patients that were furious about this cause
+[00:36:27] it worked.
+[00:36:28] It worked really well.
+[00:36:32] Fast forward, new one developed in 2018, same idea, same,
+[00:36:36] same idea, so far without the same side effect profile
+[00:36:41] uh as Tegaserod, but it's the same thing.
+[00:36:43] It's a 5-HT4 receptor agonist, and it's indicated for chronic
+[00:36:48] idiopathic constipation.
+[00:36:49] As you can imagine, we use it for a bunch
+[00:36:50] of different things with constipation, but same idea.
+[00:36:55] Another one, different class, lubiprostone, chronic idiopathic constipation and also
+[00:37:01] IBS constipation.
+[00:37:03] Um, The, you know, it's, it's one of the first
+[00:37:08] treatments for, and, and still a primary treatment for opioid-induced,
+[00:37:11] although it doesn't work in the same mechanism that some
+[00:37:14] of the others might, but this can be very helpful.
+[00:37:17] The way that it works, it's a type 2 chloride
+[00:37:20] channel, and basically what it does is open up those
+[00:37:22] channels and uh sodium and chloride goes through, sodium follows,
+[00:37:28] and then so does water.
+[00:37:29] So, it basically floods the lumen of the colon with
+[00:37:33] an osmotic agent.
+[00:37:35] And it helps you go to the bathroom.
+[00:37:37] These patients can get about a third of them get
+[00:37:39] some pretty significant nausea in the beginning, and you gotta
+[00:37:42] kind of counsel them through.
+[00:37:43] There's 22 levels of treatment that you can use.
+[00:37:47] Uh, typically, the lower levels don't cause it, but you
+[00:37:50] can.
+[00:37:50] But it's one of the things when I'm prepping somebody,
+[00:37:52] I'm gonna, you can get nausea for this, usually lasts
+[00:37:54] for the 1st 2 weeks and you get them through.
+[00:37:57] A different agent, same idea, is, uh, is liniclotide, Linzess
+[00:38:03] brand name.
+[00:38:04] But, uh, but this has different doses, right?
+[00:38:07] For, I don't care that you know the doses, but
+[00:38:09] both for irritable bowel syndrome and chronic idiopathic constipation.
+[00:38:13] Both for men and women.
+[00:38:14] Um, it's a slightly different, it's, uh, an agonist of
+[00:38:18] a guanolate cyclase receptors, um, and basically, it does the
+[00:38:22] same thing.
+[00:38:23] Basically, it stimulates production of, uh, cyclic GMP, and basically,
+[00:38:27] what you end up having is increased flow of bicarbon
+[00:38:31] chloride and water and sodium follows.
+[00:38:34] Same idea works a little bit differently.
+[00:38:36] Also, Reduction of visceral visceral pain.
+[00:38:40] So very helpful both with motility and with with how
+[00:38:44] people sense stuff.
+[00:38:46] Black, black box warning on this one, not for use
+[00:38:49] in, in children.
+[00:38:49] I'm not, uh, uh, I don't typically see, I do
+[00:38:52] see kids, but not typically 6 years old, but you
+[00:38:56] gotta be a little bit careful with that and just
+[00:38:57] something that you have a conversation about patients with.
+[00:39:00] This is a supplementary slide, meaning that this is not
+[00:39:03] on your test.
+[00:39:04] However, you should know that these exist.
+[00:39:07] These are I don't want to say emerging because they're
+[00:39:09] here, but these really were introduced for opioid-induced constipation and
+[00:39:15] post-op ileus.
+[00:39:16] A lot of times you, you do surgery on the
+[00:39:19] bowel, stuns the bowel, doesn't want to move, and you
+[00:39:21] need to get it going.
+[00:39:22] This is how these were developed, but there's a whole
+[00:39:24] Whole group of people that are just constipated, that are
+[00:39:27] on narcotics chronically that are never getting off of them,
+[00:39:30] and this can help with that, and they're peri peripherally
+[00:39:33] selected opioid antagonists, which means they just work in the
+[00:39:37] periphery.
+[00:39:38] And some of these, um, like Movantik is a pill,
+[00:39:41] uh, so we, I use these, I use these a
+[00:39:44] lot in people with IBS even though they're opioid-induced constipation,
+[00:39:48] but they work.
+[00:39:49] And the idea is that typical opioids both affect the
+[00:39:53] CNS and the periphery.
+[00:39:54] These really just affect the periphery, so they can, uh,
+[00:39:58] you know, basically what they, they're an antagonist, so they,
+[00:40:01] they, at the opioid receptor, the new opioid receptor, they
+[00:40:05] can inhibit that, and then increase your bowel movements.
+[00:40:11] So that's constipation.
+[00:40:13] Right, let's switch to diarrhea.
+[00:40:16] And we're gonna be talking a lot about diarrhea and
+[00:40:18] Doctor Fatari's lecture coming up.
+[00:40:20] So, first of all, any acute diarrhea is not IBS,
+[00:40:25] right?
+[00:40:25] When somebody comes in and says, I have IBS, I've
+[00:40:27] had diarrhea for, for 3 weeks.
+[00:40:30] Probably not.
+[00:40:31] But chronic diarrhea, you have to think, IBS, IBD, medications,
+[00:40:35] microscopic colitis, malabsorption symptoms, uh, or syndromes, cholecystectomy, some chronic
+[00:40:42] infections, these are things that should be filtering through your
+[00:40:44] mind.
+[00:40:47] Medications, once again, I'm not gonna go through all these,
+[00:40:50] but tons of medications.
+[00:40:52] Get used to looking at medications.
+[00:40:55] We do incredible things to patients with our medications, and
+[00:40:58] sometimes not good.
+[00:40:59] So, always look at your medications, always really go through
+[00:41:02] them, and I talk with people about what they can
+[00:41:04] possibly eliminate, and in conjunction with the other physicians.
+[00:41:10] And when you're treating people with IBS with diarrhea, Anti-diarrheal,
+[00:41:15] so you're trying to increase the firmness of the stool,
+[00:41:18] and you're, you're trying to decrease the stool frequency.
+[00:41:22] So loperamide or diphenoxylate atropine, and basically, these bind to
+[00:41:28] the gut wall, and once again, the mu opioid receptors
+[00:41:31] in the myoteric plexus, so they inhibit peristalsis.
+[00:41:35] These work very well.
+[00:41:37] Um, they don't help with some of the other, uh,
+[00:41:41] sensitivities like the bloating and the, and the visceral hypersensitivity,
+[00:41:45] but they can work pretty well, and we use them.
+[00:41:49] Another one, here we go now, Alosatron, brand name Lotronox
+[00:41:55] 5HT3 antagonist, right?
+[00:41:59] So what's that supposed to do?
+[00:41:59] It's supposed to slow you down.
+[00:42:03] And it's indicated for severe IBS.
+[00:42:06] You have to go through a bunch of uh different
+[00:42:08] hoops to get this medication approved.
+[00:42:11] It's kind of hard.
+[00:42:11] It used to be on the market and then got,
+[00:42:13] uh, pulled back with some black box warning, but it
+[00:42:16] decreases pain, urgency, stool frequency.
+[00:42:19] Patients love this medication when it worked.
+[00:42:21] Um, but, you know, you have to, these patients that,
+[00:42:26] that you're choosing this medication, they have to have really
+[00:42:28] severe diarrhea that you're not controlling with other things.
+[00:42:32] Um, so Just know that this is one of them
+[00:42:35] on the market.
+[00:42:36] So, we just talked about two different agents, one for
+[00:42:39] diarrhea inhibits 5-HD, right?
+[00:42:42] And one for constipation, which increases 5-HD.
+[00:42:46] So remember that concept.
+[00:42:48] 5-HT more of it increases, 5-HD less of it, decreases
+[00:42:52] motility.
+[00:42:56] So, I mentioned that it's hard to get a loscitron,
+[00:42:59] increased risk of ischemic colitis.
+[00:43:01] Like I said, uh, you can still get this one.
+[00:43:04] It wasn't completely removed on the mark off the market.
+[00:43:07] Um, it's hard to get these patients.
+[00:43:09] You have to do a whole bunch of other things
+[00:43:11] because of the ischemic colitis.
+[00:43:13] You have to do cardiac workup, you have to do
+[00:43:14] a whole bunch of stuff.
+[00:43:16] But the concept exists that it's there.
+[00:43:19] Uh, fast forward.
+[00:43:21] And now we have a new medication, a different class.
+[00:43:24] These are mixed opioid.
+[00:43:27] Uh, effects, uh, and basically what it works is, is
+[00:43:32] improved stool frequency and decrease pain.
+[00:43:34] Right, so this slows people up.
+[00:43:38] Um, because remember, these are mute agonists.
+[00:43:41] And basically it can cause nausea, it can cause constipation
+[00:43:44] if you give too much.
+[00:43:46] Or abdominal pain and rarely some pancreatitis.
+[00:43:48] This is a very effective medication.
+[00:43:50] I use it in the right circumstance.
+[00:43:55] What about other agents?
+[00:43:56] There's a ton of other agents that have been studied.
+[00:43:59] Um, anti-spasmodics, peppermint oil can actually work pretty well on
+[00:44:02] these people.
+[00:44:03] It's an anti-spasmodic, it kind of relaxes the smooth muscle.
+[00:44:08] We talked about ondansetron previously for, for nausea.
+[00:44:12] Uh, this is a 5-HT3 antagonist, so it can slow
+[00:44:16] you down.
+[00:44:17] It can slow down your bowels.
+[00:44:19] So it can work for nausea, and it does cause
+[00:44:22] some mild constipation.
+[00:44:24] Tricyclic antidepressants, SSSRIs, SSRIs, probiotics, antibiotics, bio acid sequestrans.
+[00:44:33] These are all different ways of addressing different mechanisms of
+[00:44:36] diarrhea.
+[00:44:37] Diarrhea has a lot of different mechanisms.
+[00:44:39] We talked about bile salt diarrhea, there's dysmotility diarrhea, there's
+[00:44:43] also microbiota diarrhea.
+[00:44:45] So, there are a bunch of different ways where we
+[00:44:48] will try to use these medications to kind of slow
+[00:44:50] people down.
+[00:44:54] Treatment of pain.
+[00:44:55] So we've mentioned stool frequency, consistency.
+[00:44:59] Treatment of pain is a different, is something else that
+[00:45:03] you try to deal with.
+[00:45:04] So, You treat the diarrhea, the constipation, but then sometimes
+[00:45:07] we will use anti-spasmodics or anticholinergics or antidepressants.
+[00:45:14] These oftentimes will cross the blood-brain barrier and can alter
+[00:45:17] the, so you're treating the pain, but they might also
+[00:45:20] cause worsening constipation in general.
+[00:45:23] So you have to be wary of that.
+[00:45:27] Some of the anti-spasmodics, the two that we use primarily
+[00:45:30] are dicyclamine and hyoscyamine.
+[00:45:32] The other ones are a little bit older, but methscopolamine,
+[00:45:36] uh, glycopyrrolate, belladonna, and phenobarbital, uh, clonidine and chloridoxabide.
+[00:45:41] We use all those.
+[00:45:43] The two main ones are the dicyclamine and the, and
+[00:45:46] the hyoscyamine.
+[00:45:47] These are smooth muscle relaxers, but they're, they're oftentimes anticholinergic,
+[00:45:52] which can cause some problems.
+[00:45:55] Right, so Basically, it can, you know, because of its
+[00:46:01] anticholinergic properties, it can, it can cause problems with, uh,
+[00:46:06] blood-brain barrier issues, so neurologic symptoms like psychosis, delirium, hallucinations
+[00:46:10] in elderly patients, xerostomia, blurred vision, nausea, constipation.
+[00:46:14] So, when I prescribe these things in an elderly patient,
+[00:46:17] I lower dose, I very much talk about the side
+[00:46:21] effect profile.
+[00:46:22] I see that mixes with their other medications, and if
+[00:46:24] that makes sense.
+[00:46:27] Similarly, antidepressants, we talk about uh motility, and they can,
+[00:46:33] they tend to constipate people, not always, but they tend
+[00:46:36] to constipate people.
+[00:46:37] So, in people with diarrhea, predominant IBS, these work really
+[00:46:42] well because they also can control the pain.
+[00:46:45] The ones that are studied the most are the tricyclic
+[00:46:47] antidepressants.
+[00:46:48] I use nortriptyline a ton.
+[00:46:49] I use it a lot.
+[00:46:52] And it works, it really works.
+[00:46:53] But the reality, it's the one that's studied the most,
+[00:46:56] but the reality is that any of them can work.
+[00:46:59] The SSRIs, the SNRIs, the NDRI's.
+[00:47:03] I use a bunch of these different agents and usually
+[00:47:05] put them on the medication for like 6 weeks, maybe
+[00:47:08] alter it, go up.
+[00:47:10] We use them at doses lower than, than you're using
+[00:47:13] for psychic disturbance, but, but there's clearly an overlap, and
+[00:47:17] these people oftentimes get better, they feel better.
+[00:47:21] And one of the other things it does is it
+[00:47:22] helps people sleep better, and for one reason or another,
+[00:47:25] sleep helps regulate your neurologic system really well.
+[00:47:30] But these alter the sensation of pain.
+[00:47:33] All right, let's do some mix and matching.
+[00:47:36] Alositron.
+[00:47:41] Mm 5HT3 antagonists.
+[00:47:44] I like it.
+[00:47:45] The gasser ride Oh.
+[00:47:50] Mm 5HT4 agonists.
+[00:47:58] Remember different things.
+[00:47:59] One's for diarrhea, one's for constipation.
+[00:48:01] Dicyclomine.
+[00:48:06] Remember anticholinergic, so acetylcholine in the muscarinic receptor.
+[00:48:10] And then Aloxadolin by Berzy, it's the other name, that's
+[00:48:14] the mixed opioid receptor one.
+[00:48:22] OK.
+[00:48:23] Probiotics, there's a ton of probiotics.
+[00:48:26] Walk down any supermarket aisle and look at how many
+[00:48:28] there are.
+[00:48:30] It's really hard to do study on probiotics because there's
+[00:48:32] mixed formulations.
+[00:48:34] It's been studied over and over and over again.
+[00:48:37] It's equivocal.
+[00:48:39] Insurance doesn't pay for it.
+[00:48:40] Some people say it absolutely works for me.
+[00:48:44] I use them in that case.
+[00:48:45] It doesn't hurt anybody.
+[00:48:46] And there's certain ones like bifidobacteria, which tend to be
+[00:48:49] uh more common or, or, or, or one of the
+[00:48:52] good bacteria.
+[00:48:54] We like them typically when they're in the billions, instead
+[00:48:57] of the millions.
+[00:48:58] So, whenever I'm counseling somebody, I'm like, get one that's
+[00:49:00] in the billions.
+[00:49:01] And I have my favorites that I go to, but
+[00:49:03] with no real evidence behind it, some people really like
+[00:49:06] it.
+[00:49:07] Some people don't get any benefit, I say, don't take
+[00:49:08] it, but it's not gonna hurt you.
+[00:49:10] They're generally not live, which is good.
+[00:49:14] Um, so, it's something to, to do, particularly for IBS
+[00:49:18] diarrhea, although you can use it in IBS constipation too.
+[00:49:22] What about treatment of the bloating?
+[00:49:25] Remember I mentioned a FODMAP diet.
+[00:49:27] We'll talk about that in a second, but these are
+[00:49:29] elimination diets.
+[00:49:31] I mean, everybody is lactose intolerant as, as they get
+[00:49:34] older.
+[00:49:35] We lose the enzymes, so I put them on a
+[00:49:36] lactose-free diet.
+[00:49:37] I'll talk to you about a FODMAP diet and a
+[00:49:40] gluten-free diet.
+[00:49:40] There's overlap in all of these diets, so it doesn't
+[00:49:43] really matter which, and I don't care if you don't
+[00:49:45] have celiac disease.
+[00:49:46] A gluten-free diet can help with this.
+[00:49:48] So it kind of depends, but I talk a lot
+[00:49:50] about a FODMAP diet, which is a fermentable oligosaccharides, disaccharides,
+[00:49:55] monosaccharides, and polyoles.
+[00:49:57] And if you ever, we're not going to go into
+[00:49:59] it now, but you can look certain.
+[00:50:01] Um, certain foods have higher FOD maps, and those, those
+[00:50:07] polyoles, oligosecords, etc.
+[00:50:09] they make more gas.
+[00:50:11] So, if you eliminate those, and you eat one with
+[00:50:13] less, the bloating goes down.
+[00:50:15] It works.
+[00:50:16] It actually, it definitely works.
+[00:50:18] It actually works as good as any medication.
+[00:50:21] And then a bunch of lifestyle modifications, elimination diets, sometimes
+[00:50:25] allergy testing, exercise tends to have help a lot, cognitive
+[00:50:29] therapy, alternative therapies.
+[00:50:31] I've sent people for acupuncture.
+[00:50:33] I, I mean, I'll do whatever it is.
+[00:50:35] And, and if it works, and if it helps kind
+[00:50:37] of modify the way your, your CNS interacts with your
+[00:50:41] GI tract, it can help.
+[00:50:46] And that's it.
+[00:50:47] So, I just want to say, you know, this is
+[00:50:49] a really It's a really important disease process, and you're
+[00:50:53] gonna see it, and you really have to learn how
+[00:50:55] to communicate with patients about IBS.
+[00:50:58] It's a real disease, and how can you make their
+[00:51:00] symptoms better.
+[00:51:02] Uh, questions.
+[00:51:08] Yes.
+[00:51:13] Tegaserod is pulled from the market.
+[00:51:15] You can't get it anymore.
+[00:51:16] But they have a new, they have newer agents now,
+[00:51:19] but yes.
+[00:51:23] All right, great.
+[00:51:23] Thank you very much.

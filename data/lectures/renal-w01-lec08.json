@@ -1,0 +1,40 @@
+{
+ "lecture_id": "renal-w01-lec08",
+ "block": "RENAL",
+ "week": 1,
+ "lecture": "08 Miscellaneous Ion Homeostasis and Disorders",
+ "contributor": "thirth",
+ "questions": [
+  {
+   "id": "renal-w01-lec08-q01",
+   "source": "slide",
+   "source_ref": "Slides 50, 51, 46",
+   "stem": "A 7-year-old is diagnosed with a genetic mutation leading to impaired cleavage of the FGF-23 protein. Which of the following clinical findings would be expected:",
+   "choices": [
+    "hyperphosphatemia",
+    "impaired bone mineralization",
+    "hypercalcemia",
+    "hypermagnesemia"
+   ],
+   "answer": 1,
+   "evidence": [
+    {
+     "type": "slide",
+     "slide": 51,
+     "image": "img/renal-w01-lec08/slide_51.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 50,
+     "image": "img/renal-w01-lec08/slide_50.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 46,
+     "image": "img/renal-w01-lec08/slide_46.jpg"
+    }
+   ],
+   "note": "**FGF-23 that can't be cleaved builds up, and the answer slide says it blocks calcitriol synthesis, leading to vitamin D deficiency and rickets in a child.** Slide 51 marks B in red. This lecture has slides only, no recording.\n\nHyperphosphatemia: false. Slide 46 lists hypophosphatemia with hyperphosphaturia as the result of high FGF-23, so phosphate goes down, not up.\n\nImpaired bone mineralization: true. Less calcitriol plus phosphate wasting means bone can't mineralize properly, which is rickets in a child. Slide 46 names autosomal dominant hypophosphatemic rickets among the genetic causes.\n\nHypercalcemia: false. Calcitriol drives intestinal and renal calcium absorption (slide 41), so losing it does not raise calcium.\n\nHypermagnesemia: false. Magnesium doesn't appear anywhere in the FGF-23 slides (41, 46)."
+  }
+ ]
+}

@@ -1,0 +1,1259 @@
+[00:00:01] At the whips.
+[00:00:06] Hello.
+[00:00:08] Is it working?
+[00:00:09] OK, perfect.
+[00:00:17] All good.
+[00:00:17] OK.
+[00:00:19] Hi, hi, guys.
+[00:00:20] Um, Good morning.
+[00:00:23] I met some of you guys not too long ago.
+[00:00:25] Um, my name's Nick.
+[00:00:26] I'm one of the GI fellows.
+[00:00:27] I work with Doctor Decipio.
+[00:00:29] Um, you know, I'm very lucky to, you know, have
+[00:00:32] him as a mentor and you guys are too, but
+[00:00:34] you get to deal with me for the next hour.
+[00:00:35] I'll give you a little bit of a break from
+[00:00:36] him, all right?
+[00:00:38] Um, but today we're gonna talk about upper GI cancers.
+[00:00:41] Um, special thanks to Doctor Judge.
+[00:00:42] I think he's done some of your lectures before or
+[00:00:44] maybe has some coming up, but this was originally his
+[00:00:47] lecture.
+[00:00:48] Um, I did this last year for you guys, but
+[00:00:51] was able to make a few changes and, you know,
+[00:00:54] um, I wasn't in, I was in your shoes not
+[00:00:57] that long ago.
+[00:00:57] I know that like step and all that thing is
+[00:00:59] like incredibly important, so I tried to like highlight some
+[00:01:02] things that, um, I saw in review courses and books
+[00:01:06] and also things that I remembered, honestly, there's still some
+[00:01:08] stuff in here that I remember having questions on on
+[00:01:10] my step exam.
+[00:01:11] So, um, like I said, there'll be some stuff, we'll
+[00:01:14] skip over all these.
+[00:01:15] I'm sure you guys have seen that a lot, but.
+[00:01:17] Um, so today we're gonna kind of talk about a
+[00:01:19] few different things in terms of upper GI cancers.
+[00:01:20] We'll talk about, um, cancers of the oropharynx, the esophagus,
+[00:01:24] and then also the stomach.
+[00:01:25] We'll review the risk factors, histopath, and some of the
+[00:01:27] pathophysiology, and then talk about some treatments, um, diagnostic modalities,
+[00:01:32] and then kind of review some like buzzwords that, um,
+[00:01:35] like I said, I, I remember being very pertinent for
+[00:01:37] my boards and different types of exams.
+[00:01:41] Um, and just to confirm, GI is on your boards,
+[00:01:43] right?
+[00:01:44] This was from, I think, last year, but it is
+[00:01:45] a part, it's like 6 to 10%, and then of
+[00:01:47] course some stuff can also come in the multi-system processes
+[00:01:50] and disorders as well.
+[00:01:51] Um, but if you guys have any questions at any
+[00:01:53] point, you can just yell out, you know, any questions
+[00:01:56] or anything like that, more than happy to stop and
+[00:01:58] like chat about things, but.
+[00:02:00] So this is the overview for our upper GI cancers.
+[00:02:02] Um, in the United States, esophageal and gastric cancers, they're
+[00:02:05] relatively infrequent, but worldwide gastric cancer and esophageal cancer are
+[00:02:09] actually a pretty significant, uh, cause of morbidity and mortality.
+[00:02:13] Um, unfortunately, a lot of these tumors, as we'll see
+[00:02:16] are gonna actually present very advanced at their diagnosis.
+[00:02:18] They don't tend to cause a lot of symptoms until
+[00:02:21] they've really reached that stage.
+[00:02:23] Um, and from what we'll see, a lot of the
+[00:02:24] cancers, they're just gonna be, um, they're gonna be derived
+[00:02:27] from the different type of mucosa that in the spot
+[00:02:29] that we're looking at in the, in the GI tract.
+[00:02:32] So, I don't know if you guys have done your
+[00:02:33] oncology section yet or anything, but this is like very
+[00:02:36] just like quick review.
+[00:02:38] I honestly still think about this all the time whenever
+[00:02:40] I'm reviewing my pathology and stuff like that.
+[00:02:43] This is kind of our general carcinoma pathway, right, where
+[00:02:46] we have normal mucosa, we're nice and happy, that's what
+[00:02:48] we want.
+[00:02:49] And then we have some environmental factors, a predisposing conditions,
+[00:02:52] spontaneous mutations, a number of different things can kind of
+[00:02:55] lead us down this stepwise progression where we get metaplasia
+[00:02:58] and precancerous change.
+[00:03:01] Those are generally where we want to intervene on people
+[00:03:02] or at least try and catch them early, um, and
+[00:03:05] then we move to dysplasia where we're gonna start to
+[00:03:07] have early cancerous change that we're worried about and that
+[00:03:09] can be, you know, really high or low risk, um,
+[00:03:12] and then ultimately get to, you know, full blown cancer
+[00:03:15] itself and then we have to think about, you know,
+[00:03:17] how advances the disease and then how do we go
+[00:03:19] about treating it.
+[00:03:21] Um, so we'll start with cancers though oropharynx.
+[00:03:23] Um, there's a few things in here that are important,
+[00:03:25] but we'll kind of move a little bit quicker through
+[00:03:27] this.
+[00:03:28] Um, most commonly it's gonna be squamous cell carcinoma that
+[00:03:30] we're gonna see because the oral, uh, the oropharynx is
+[00:03:33] gonna be made up of stratified, um, squamous, uh, epithelium.
+[00:03:37] It's a pretty variable presentation, and there's a lot of
+[00:03:39] very subtle lesions that can happen.
+[00:03:41] So it could be anything from a non-healing ulcer, a
+[00:03:43] painful papule or kind of just nodule that you see,
+[00:03:46] a discolored patch, you might have just increased bleeding, which
+[00:03:50] could be from brushing your teeth, from anything.
+[00:03:52] Um, and then one of the other big ones that
+[00:03:54] we can see is submandibular or submental lymphadenopathy that could
+[00:03:57] just be picked up on a very basic or routine
+[00:04:00] exam from a patient that you're seeing in your clinic.
+[00:04:03] And these are just some pictures that you can see,
+[00:04:05] um, the upper right there you see kind of what
+[00:04:07] would be a non-healing ulcer.
+[00:04:09] Um, we'll talk about the one, on the bottom left,
+[00:04:11] and then some of the other ones are kind of
+[00:04:13] the one on the bottom right there is just a
+[00:04:14] little, or I guess bottom left for you guys, sorry,
+[00:04:17] um, it's gonna just be a kind of nodule that's
+[00:04:19] ulcerating and that would be non-healing long term, but some,
+[00:04:22] you know, people might think that's, oh, this is just
+[00:04:23] an infection and treat it, and if it's not going
+[00:04:25] away, then you have to start to think about what
+[00:04:27] it, what else it could be.
+[00:04:29] Um, but some of the risk factors you're gonna see
+[00:04:30] for oral cancer, um, alcohol use, tobacco use, um, we
+[00:04:34] don't see this as much in the US, but, um,
+[00:04:36] as far as I'm aware, it's pronounced betel nut.
+[00:04:39] Um, it's actually a nut that they see and it's,
+[00:04:41] it's common in South Southeast Asia as well as the
+[00:04:45] different parts of the Pacific islands.
+[00:04:46] Um, it's a stimulant and so it's used by a
+[00:04:48] lot of different kind of workers throughout those regions.
+[00:04:51] You actually end up wrapping it in almost like a
+[00:04:53] palm leaf and then kind of sucking on it, almost
+[00:04:55] like if you're like dipping tobacco in a sense, and
+[00:04:58] some people do actually also like wrap tobacco in it
+[00:05:00] as well.
+[00:05:01] So we do know that it is a risk factor
+[00:05:03] in, in those areas for or uh oral cancer of
+[00:05:06] the oropharynx.
+[00:05:07] A big one that you guys have probably heard about
+[00:05:09] is HPV infections.
+[00:05:11] Um, really, you know, increasing, uh, incidence of, uh, both
+[00:05:16] or uh oropharyngeal and also pharyngeal cancers as well as
+[00:05:19] rectal cancers in this country.
+[00:05:21] Um, you know, so many people have been exposed worldwide
+[00:05:23] and, you know, there's been a lot of publicity out
+[00:05:25] there, probably more so when I was a kid, I
+[00:05:27] think like Sean Penn was a big one that came
+[00:05:28] out, the actor and producer that had, uh, HPV related
+[00:05:32] pharyngeal cancer.
+[00:05:33] Um, other risk factors, poor nutrition, history of HIV, and
+[00:05:36] then increasing age are also going to be, um, different
+[00:05:39] risk factors.
+[00:05:40] Uh, but HPV again is a big one.
+[00:05:42] I don't know.
+[00:05:42] Do you guys even use Sketchy anymore?
+[00:05:44] Is that still a thing?
+[00:05:45] I didn't know if it survived in the 10 years
+[00:05:47] since I've, you know, since I used it, but so
+[00:05:49] I don't, they maybe they even updated this image, but,
+[00:05:52] you know, the high risk strains that we know about
+[00:05:54] when I, when I was young, Gardasil, I think we
+[00:05:56] were Gardasil 4.
+[00:05:57] Now I think Gardasil 9 might even be actually out
+[00:06:00] of date.
+[00:06:00] There might be one, there might be a new vaccine
+[00:06:02] that even has more of the high risk strains associated
+[00:06:04] with it.
+[00:06:05] But this is important to know because it's one of
+[00:06:07] those things as you can see.
+[00:06:09] We wanna know whether or not these, uh, any sort
+[00:06:12] of, uh, oropharyngeal cancers are related because it actually really
+[00:06:15] does tailor what type of treatments that we offer for
+[00:06:17] patients.
+[00:06:18] So you can see on this graph here your overall
+[00:06:20] survival and then the time that you have with that,
+[00:06:23] we're looking at the HPV related, um, oropharyngeal cancers and
+[00:06:27] so your blue one is gonna be the one where
+[00:06:29] patients actually have HPV related cancers and the red one
+[00:06:32] we don't, and you see that that basically having HPV
+[00:06:35] in terms of a uh.
+[00:06:37] An etiology of your oral oropharyngeal cancer can actually be
+[00:06:40] a survival benefit in terms of the types of treatments
+[00:06:42] that we have these days.
+[00:06:44] Um, so an important factor to know that, you know,
+[00:06:46] whenever we're trying teasing out, it's important to get, you
+[00:06:48] know, tissue diagnosis and ultimately determine what the etiology is
+[00:06:52] of this because it can really change the course of
+[00:06:54] your survival and, um, when we do this.
+[00:06:57] And another thing that we talked about this is the
+[00:06:59] biochemistry, right?
+[00:07:00] And every time I see these slides, still, I still
+[00:07:02] shudder a little bit.
+[00:07:03] Um, but this is also one of the pathways that
+[00:07:06] we think about, you know, a lot of oropharyngeal cancers
+[00:07:08] have RAS mutations.
+[00:07:10] Um, I don't know if you guys have ever come
+[00:07:12] across RAS so far.
+[00:07:12] I don't know what you guys have done so far
+[00:07:14] in terms of like biochemistry and all that stuff, um,
+[00:07:17] but RAS is basically another intra intracellular, uh, protein, uh,
+[00:07:21] GTPAse that helps, um, signal cellular proliferation.
+[00:07:25] And so it's a very common pathway, we actually also
+[00:07:28] see it in different types in colon cancer, it can
+[00:07:30] be seen in ovarian cancers as well, where mutations or
+[00:07:32] gain of function mutations keep this um protease in in
+[00:07:36] an on position and just allow for constant signaling of
+[00:07:39] cells to just go, um, basically uninterrupted cellular differentiation and
+[00:07:43] leading to cancer long term.
+[00:07:45] So we do know that is also a risk factor.
+[00:07:48] Another risk factor that we know of is a condition
+[00:07:50] called lichen planus.
+[00:07:52] Um, we don't actually fully know what sets off this
+[00:07:55] autoimmune condition.
+[00:07:56] We know it's a T cell mediated condition.
+[00:07:59] It's thought that maybe there's some caustic ingestions or exposures
+[00:08:02] that might kind of set this off, um, but it
+[00:08:05] comes in a bunch of different forms.
+[00:08:06] You can kind of see this erosive form.
+[00:08:09] I don't, oop, oops, sorry, wrong one.
+[00:08:12] Uh, there we go.
+[00:08:13] This is erosive one where you basically will just have
+[00:08:15] like what might look like gingivitis, where you might have
+[00:08:17] some bleeding from your gums.
+[00:08:19] You can have plaques form on your tongue.
+[00:08:22] You can also have ulcers form.
+[00:08:24] But I think the big thing that I remember from
+[00:08:26] my boards and studying time is, uh, the top one,
+[00:08:28] this particular pattern.
+[00:08:30] I don't know how this works, sorry.
+[00:08:32] Um, where you see kind of these white lacy lesions,
+[00:08:35] um, that they call wickham stria, which is a like,
+[00:08:38] from what I remember again a very common buzzword for
+[00:08:41] lichen planus, and you can see this in other areas
+[00:08:43] other than the, the oral cavity.
+[00:08:46] Um, I don't know if you guys have come across
+[00:08:48] this yet, but there's like a, I think it's like
+[00:08:50] the six P's of lichen planus.
+[00:08:51] We don't see that as much in the oral cavity.
+[00:08:53] We're more so looking for these Wickham stride, but that
+[00:08:55] is, um, something that you can encounter.
+[00:08:58] It is a risk factor for developing oral, uh, oral
+[00:09:01] oral cavity cancer if you have it.
+[00:09:05] Uh, this is just some pathology showing, you know, what
+[00:09:07] it can look like, um, in terms of when you
+[00:09:09] have squamous cell carcinoma of the oral cavity.
+[00:09:12] So at the bottom there you can kind of see
+[00:09:13] it looks nice and organized, um, you have a bunch
+[00:09:16] of cells kind of coming to the surface.
+[00:09:19] There we go, um.
+[00:09:22] And it's a little bit out, so you don't really
+[00:09:24] get to see the nuclei, see that they're in a
+[00:09:26] nice organized pattern, but if you look beyond it, you
+[00:09:28] can kind of see things look very disorganized.
+[00:09:30] You have these different kind of layers and, and you
+[00:09:32] can see with these blood vessels here, but there's a
+[00:09:34] lot of cells surrounding them.
+[00:09:35] It's a little bit darker hue, which tends to tell
+[00:09:37] us that the nuclei are a little bit abnormal and
+[00:09:40] you have some inflammatory infiltrate in there as well.
+[00:09:44] In terms of treatment, there's a number of different things
+[00:09:47] you can do.
+[00:09:47] Surgery alone is an option.
+[00:09:49] Of course, with that, you can do some amount of
+[00:09:51] oral reconstruction as well as pros uh prosthesis placement, which
+[00:09:54] as you see in the, your upper right.
+[00:09:57] Um, radiation therapy is another one, and you can do
+[00:09:59] combinations of these, right?
+[00:10:01] Surgery, radiation, chemotherapy are all things that can, that can,
+[00:10:04] you can do here.
+[00:10:06] Of course, when we were talking about HPV there's been,
+[00:10:08] you know, when we say chemotherapy, we use it as
+[00:10:10] a very broad term, but one of the things that
+[00:10:13] we kind of are using now are different types of
+[00:10:15] immunotherapy, then that's what has allowed us to ultimately see
+[00:10:18] better survival in those patients that have HPV related cancers.
+[00:10:24] All right, so we have some questions throughout.
+[00:10:25] If anyone wants to participate at any point and kind
+[00:10:28] of yell out what they think is the answer, great.
+[00:10:32] If not, then we'll keep moving through them.
+[00:10:34] But, um, ultimately from the stuff that we just talked
+[00:10:36] about, the question is which of the following statements is
+[00:10:38] incorrect?
+[00:10:39] A, lichen planus is a pre-cancerous lesion occurs possibly due
+[00:10:42] to an inherent immune response, due to an intrinsic skin
+[00:10:45] antigen.
+[00:10:46] Risk factors for oral cancer include alcohol use, tobacco use,
+[00:10:49] and betel nut chewing.
+[00:10:50] However, age does not play a role.
+[00:10:52] HPV associated or pharyngeal cancers have a favorable prognosis compared
+[00:10:56] to the non-HPV related orpharyngeal cancers in the absence of
+[00:10:59] alcohol and tobacco use.
+[00:11:01] And then lastly, gain of function mutations and rash genes
+[00:11:04] um disturb the normal outcome of signaling signaling pathways that
+[00:11:07] control cellular proliferation, differentiation, survival.
+[00:11:11] Anyone have any thoughts of which one is incorrect?
+[00:11:16] Nice.
+[00:11:16] So, first one, it is an aberrant immune response.
+[00:11:19] That's what, that's what we know causes it.
+[00:11:21] B is also gonna be incorrect, right?
+[00:11:22] We know that the incidence of cancer increases with age.
+[00:11:25] That is a risk factor for oropharyngeal cancer.
+[00:11:28] HPV we know has a favorable outcome.
+[00:11:30] It's improved, of course, when you also don't compound alcohol
+[00:11:33] and tobacco use on top of that.
+[00:11:34] And then we talked about RAS and why it is
+[00:11:36] ultimately an oncogenic, um, protein or gene.
+[00:11:39] So this is our summary, we kind of talked about
+[00:11:40] presentation, all that stuff.
+[00:11:42] We're gonna move to the good stuff now.
+[00:11:44] Um, so oesophageal cancers.
+[00:11:47] Um, there are two different flavors that we really see.
+[00:11:49] It's gonna be squamous cell carcinoma, which is more common
+[00:11:52] worldwide, um, and then adenocarcinoma, which we're more is more
+[00:11:55] common in the Western civilization.
+[00:11:57] We tend to see it in male sex, uh, over
+[00:12:00] female sex, and most commonly we, we're diagnosing patients that
+[00:12:03] are greater than 50 years old, um, and the presentation
+[00:12:06] is really, you know, when you hear it, it makes
+[00:12:08] you concerned, um, but the way we describe it is
+[00:12:11] typically something called progressive dysphagia.
+[00:12:13] So you're gonna be talking to your patients, they're gonna
+[00:12:15] say like, hey, I'm, you know, I started to get
+[00:12:17] things stuck.
+[00:12:18] Sometimes I have to chase with a lot of water
+[00:12:19] or whatever I'm drinking to get it to go down,
+[00:12:21] and eventually that might move to, hey, my pills are
+[00:12:24] now getting stuck, I'm bringing food back up, and now
+[00:12:26] even like water, I'm kind of feel like I'm bringing
+[00:12:28] it back up cause it's not going down.
+[00:12:30] Um, you might also see some weight loss in there,
+[00:12:32] um, but I don't know if you guys have, did
+[00:12:35] you guys do?
+[00:12:36] Acolasia and stuff yet, Doctor Decipio, you guys did?
+[00:12:38] Awesome.
+[00:12:39] So we actually call it pseudoacalasia at times, it's something
+[00:12:42] that you, I, I remember vividly having on my step
+[00:12:45] one, that there was a patient that they were like,
+[00:12:47] hey, you have this barium swallow and it looks like
+[00:12:49] allasia.
+[00:12:49] What's your next step?
+[00:12:51] And so you always want to make sure that there's
+[00:12:52] no cancerous lesion that's ultimately leading to that one imaging
+[00:12:55] study, but also those symptoms, and that's again what we
+[00:12:58] call pseudoacalasia.
+[00:13:00] It's just a map kind of looking at the incidents
+[00:13:02] and like we spoke about, it's really in, in um
+[00:13:05] other parts of the world that we're seeing oesophageal cancers,
+[00:13:07] but the US of course being a melting pot, we
+[00:13:09] see a lot of it as well, and we'll go
+[00:13:10] over why we see more of it in our country,
+[00:13:13] um, in terms of adenocarcinoma.
+[00:13:15] Um, but the esophagus, really the two flavors that we
+[00:13:18] see are gonna be split geographically, so the upper 2/3
+[00:13:21] is where we're gonna see a lot of squamous cell
+[00:13:23] carcinoma.
+[00:13:24] We'll talk more about risk factors, but big things that
+[00:13:26] we're gonna see smoking, um, and alcohol, smoking tobacco products
+[00:13:29] and alcohol use are gonna be big contributors, um, different
+[00:13:33] types of caustic ingestions, but the two big ones again,
+[00:13:35] smoking and alcohol use.
+[00:13:37] And then the bottom third is gonna be more so
+[00:13:39] where we get concerned about adenocarcinoma and the development of
+[00:13:42] a pre-cancerous condition called Barrett's esophagus.
+[00:13:46] So again, precancerous lesion, it is not cancerous, but it's
+[00:13:48] something that ultimately is a leading cause to the development
+[00:13:51] of of esophageal adenocarcinoma.
+[00:13:55] So these are just some pictures that go along with
+[00:13:57] the development of esophageal adenocarcinoma.
+[00:14:00] The one on your top left, you can, this is
+[00:14:02] basically the base of the esophagus, so right where we
+[00:14:04] enter into the stomach, and you can see that there's
+[00:14:06] a change in the color of the mucosa, where you
+[00:14:09] kind of have this pale whitish area and then more
+[00:14:11] of a salmon colored area underneath it.
+[00:14:14] So that's when we, when we see things like this,
+[00:14:15] we start to get worried, does this patient have, have
+[00:14:17] they developed Barrett's esophagus?
+[00:14:19] So again, not full blown cancer, but do they now
+[00:14:21] have a pre-cancerous lesion that we need to keep track
+[00:14:24] of.
+[00:14:25] Normally that area should be nice and circumscribed, it should
+[00:14:27] be a nice circle, kind of where it meets, nice
+[00:14:29] and even, but when we start to see changes like
+[00:14:31] this, we get a little bit concerned.
+[00:14:33] The bottom there is actually just seeing a full, like
+[00:14:36] a full blown cancer in the base of the esophagus,
+[00:14:38] and again, this might be what you see or what
+[00:14:41] they'll like what might ultimately lead to a question of
+[00:14:43] someone saying like, oh, there's a barium swallow, it looks
+[00:14:45] like allasia.
+[00:14:46] You do an endoscopy, you see that they have a
+[00:14:48] mass or something like this that ultimately led to their
+[00:14:50] pseudoalasia, if you will.
+[00:14:52] But the important thing, especially here when you're thinking about
+[00:14:55] Barrett's esophagus and the progression to adenocarcinoma, is looking at
+[00:14:59] the histology and if you get this histology, the buzzwords
+[00:15:02] that you're gonna look for are intestinal metaplasia with goblet
+[00:15:04] cells.
+[00:15:05] So that is ultimately diagnostic for Barrett's esophagus.
+[00:15:09] Now again, there is a progression like we spoke about
+[00:15:11] very early on to having dysplasia, whether it's low or
+[00:15:14] high grade, sometimes there's some other nuances of that that
+[00:15:16] we won't get into, but that's a concern that we
+[00:15:19] need to keep out for.
+[00:15:19] And if you see this, then ultimately.
+[00:15:22] You know, they might ask you kind of about, you
+[00:15:23] know, what's, you know, what might be this patient's prognosis
+[00:15:26] long term, what are you worried about, um, what might
+[00:15:29] be a risk factor for this development.
+[00:15:31] So intestinal metaplasia with goblet cells always correlate that with
+[00:15:34] Barrett's esophagus when you're talking about esophageal biopsies.
+[00:15:38] And then secondly is gonna be this, the upper portion,
+[00:15:41] the upper 2/3 where we see, uh, squamous cell carcinoma,
+[00:15:44] and I'm honestly pretty sure I have this picture on
+[00:15:46] my boards and I did not know what it was,
+[00:15:47] and when I took step one, but ultimately what they
+[00:15:50] might do is they might, they could give you this
+[00:15:52] pathology slide and say, you know, what, what type of,
+[00:15:55] you know, cancerous, uh, you know, growth are you worried
+[00:15:59] about?
+[00:15:59] And the main thing here that you're worried about it
+[00:16:01] or they're gonna be looking for what they call these
+[00:16:03] nests and pearls or, and that might have keratin-like cells
+[00:16:06] with intercellular bridges.
+[00:16:08] So the kind of dark pink part is gonna be
+[00:16:11] your keratin that's building up there, and then the worlds
+[00:16:13] around it of cells are gonna be what the nest
+[00:16:15] that they refer to.
+[00:16:17] So really this is a tends to be a hallmark
+[00:16:19] of squamous cell carcinoma wherever it shows up, but especially
+[00:16:23] in the esophagus, you know, they could give you this
+[00:16:25] picture and ask what you're concerned for, ask you like
+[00:16:27] what part of the esophagus it's from or what a
+[00:16:29] risk factor is for, so knowing those two different buzzwords
+[00:16:33] in terms of their their pathology is very important for
+[00:16:35] determining what type of malignancy you're concerned for.
+[00:16:39] And these are the big risk factors for both types.
+[00:16:42] In terms of squamous cell carcinoma, we talked about tobacco
+[00:16:44] and alcohol use.
+[00:16:46] HPV is also one of those that we like we
+[00:16:48] kind of briefly touched on in terms of the oral,
+[00:16:50] we talked about it in the oral cavity, but it
+[00:16:51] is also a risk factor for pharyngeal uh squamous cell
+[00:16:54] carcinoma.
+[00:16:56] A lot of the other ones that are on there
+[00:16:57] too are options like are things that are doing it,
+[00:16:59] but those are the big three that I would really
+[00:17:01] focus on.
+[00:17:01] But of course chilasia is a risk factor, different types
+[00:17:04] of caustic ingestions, um, you hear a lot about nitrosamine
+[00:17:07] rich foods which are gonna be like.
+[00:17:09] Really cured meats, spicy foods, pickled things that can ultimately
+[00:17:13] um predispose to also developing um esophageal uh squamous cell
+[00:17:18] carcinoma.
+[00:17:19] And then on the other side, and this is the
+[00:17:21] one that we talked about being more prevalent in our
+[00:17:23] Western civilization, is going to be adenocarcinoma, so risk factors
+[00:17:26] being obesity, long-standing acid reflux, the development of Barrett's esophagus,
+[00:17:32] and then also tobacco use is gonna be associated with
+[00:17:34] that as well.
+[00:17:35] Um, but you can see a lot of these risk
+[00:17:37] factors and obesity is gonna be the main one might
+[00:17:39] also be a key as to why we're seeing much
+[00:17:41] more of this within our country as well, just because
+[00:17:43] of, uh, our increasing rates of, um, increased BMI throughout
+[00:17:47] the US.
+[00:17:49] These are just looking at the relative risks of some
+[00:17:51] of the things we spoke about, so you can see
+[00:17:53] that the smoking status between squamous cell carcinoma and adenocarcinoma,
+[00:17:57] you can see that current smokers have a much more
+[00:17:59] increased risk for squamous cell carcinoma as opposed to adenocarcinoma.
+[00:18:04] This one is looking at alcohol intake and same thing,
+[00:18:07] you see that those who are significantly drinking have a
+[00:18:09] significant risk of developing a squamous cell carcinoma versus adenocarcinoma.
+[00:18:15] Both have a risk, but that one's gonna be much
+[00:18:16] more prevalent.
+[00:18:18] And then switching things up, looking at BMI, we see
+[00:18:20] that those with a really high BMI have a much
+[00:18:23] higher risk of developing adenocarcinoma versus squamous cell carcinoma.
+[00:18:27] So kind of thinking about these risk factors when you're
+[00:18:29] seeing these patients and seeing who you're gonna screen for
+[00:18:31] these conditions, these are things that, you know, I keep
+[00:18:33] in mind every single time I speak to, you know,
+[00:18:35] patients about what their risk factors for these conditions might
+[00:18:38] be.
+[00:18:40] Now when it comes to staging these, a lot of
+[00:18:42] the times what we'll do, you know, with other cancers
+[00:18:44] we'll do CT imaging or different PET scans and stuff
+[00:18:47] like that.
+[00:18:47] With the esophagus, we tend to do a lot of
+[00:18:49] endoscopic ultrasound to try to see what is the depth
+[00:18:52] of invasion.
+[00:18:53] Is it just confined to the mucosa itself?
+[00:18:55] Has it started to invade the submucosa?
+[00:18:57] And when we're getting beyond that, we're getting worried about,
+[00:19:00] you know, more advanced disease.
+[00:19:02] The interesting thing about the esophagus is unlike the rest
+[00:19:05] other parts of the GI tract, there's no cirrhosa that
+[00:19:07] confides it.
+[00:19:08] So once you start to get into the muscle layers,
+[00:19:11] really at that point we're treating patients as significantly advanced
+[00:19:14] disease, and this, um, if you guys haven't gone over
+[00:19:16] it, the way I always think about the cirrhosa that's
+[00:19:18] like around the bowel and stuff, I almost think it's
+[00:19:20] like the casing on a sausage that almost like holds
+[00:19:22] things in.
+[00:19:23] So you can imagine if you don't have that here
+[00:19:25] and you start to get a little bit closer towards
+[00:19:27] the muscle layers, you're now dealing with an advanced condition.
+[00:19:31] Um, when you don't have that extra layer of protection,
+[00:19:33] if you will.
+[00:19:36] But these are just some of the survivals by stage,
+[00:19:38] you can see that a lot of the cases will
+[00:19:40] present either with distant or regional disease as opposed to
+[00:19:44] localized disease, which makes up more of a minority of
+[00:19:46] it, and then ultimately your five year survival looking at
+[00:19:49] localized regional disease are going to be, um, obviously much
+[00:19:52] better compared to distant disease, which is unfortunately, again is
+[00:19:55] where we're seeing a lot of these patients are capturing
+[00:19:58] them.
+[00:20:00] Um, this is looking at a couple of the different
+[00:20:02] treatment options, very similar to what we talked about in
+[00:20:05] the oral, uh, cancer section, you know, it's going to
+[00:20:08] probably be some combination of, um, whether it's radiation therapy,
+[00:20:12] chemotherapy, um, surgery, um, and there are some other techniques
+[00:20:17] that we can do too, but we can see that
+[00:20:19] ultimately, you know, those patients that have early cancer that
+[00:20:22] under that have very, I'm sorry, localized cancer undergoing those
+[00:20:25] treatments, their survival is actually very good.
+[00:20:27] It can be up to 90% at 5 years.
+[00:20:29] But of course, the further you go down, the options
+[00:20:32] that you have in the survival are going to be
+[00:20:33] much less.
+[00:20:36] Uh, this is a the treatment we can actually do.
+[00:20:38] This is something that Doctor Decipio does.
+[00:20:40] So if you guys don't think he's that cool, like,
+[00:20:42] watch him do this stuff, and it's honestly really cool
+[00:20:44] to see.
+[00:20:44] He can basically find these nodules in the esophagus, and
+[00:20:47] if we biopsy them or are concerned that they're cancerous,
+[00:20:51] we can effectively move them then and there, just like
+[00:20:53] we do during colonoscopy and reduce someone's risk of cancer,
+[00:20:57] or at least further progression of what was a pre-cancerous
+[00:20:59] or even possibly cancerous lesion.
+[00:21:03] Um, I personally, honestly don't remember this when I was
+[00:21:06] a student.
+[00:21:07] Maybe this has been like more of a teaching point
+[00:21:09] recently, but this is a, a, basically, um, genetic syndrome
+[00:21:13] called telosis that puts people at risk of developing esophageal
+[00:21:16] squamous cell carcinoma.
+[00:21:18] So it's a pretty rare disease and it has an
+[00:21:20] interesting hallmark where you can see that there are people
+[00:21:23] develop hyperkeratosis of the palms and soles of their feet.
+[00:21:26] You know, so you might look at it and be
+[00:21:27] like, oh, this person just has like a lot of
+[00:21:28] calluses because maybe they work with their hands, but this
+[00:21:30] is pretty significant.
+[00:21:31] It's not just like your common like right at the
+[00:21:33] base of the digits and things like that or on
+[00:21:35] the on the um calcaneus.
+[00:21:37] Um, it ultimately happens from a misinmutation in a rhomboid
+[00:21:40] proteus that um leads to basically just permanent.
+[00:21:44] Activation of one of the epidermal growth factor receptors, um,
+[00:21:47] and it's just similar to what we were kind of
+[00:21:50] seeing in the RAS mutations that it's just a constant
+[00:21:52] signal to the cell then to keep dividing and keep
+[00:21:54] replicating even more, and of course whenever that happens, you're
+[00:21:57] gonna put yourself at risk of getting new mutations and
+[00:22:00] ultimately progressing um to any sort of, to a new
+[00:22:03] cancerous, um, you know, cell.
+[00:22:06] This is the biochemistry of it, we talked about it,
+[00:22:10] um, it's just the very fancy form of kind of
+[00:22:12] looking at it and seeing how things go, but again,
+[00:22:14] this is, I think the important thing to know is
+[00:22:16] that this this is a, a protease that ultimately is
+[00:22:18] just leading to constant activation and signaling to the cell
+[00:22:22] within the nucleus to keep proliferating over and over.
+[00:22:27] Uh, so we have another question here.
+[00:22:29] Um, which one of the following statements is incorrect?
+[00:22:32] An obese male who is a chain smoker has increased
+[00:22:35] risk of esophageal adenocarcinoma.
+[00:22:37] A missance mutation in rhomboid protease that alters activity of
+[00:22:40] EGFER can lead to hyperkeratosis of the palms and soles
+[00:22:44] of the feet are at increased risk of oesophageal squamous
+[00:22:46] cell carcinoma.
+[00:22:48] Biopsies from the distal third of the esophagus showing intestinal
+[00:22:50] plasia are not considered precancerous.
+[00:22:52] And then esophageal carcinoma in situ, meaning just confined to
+[00:22:56] basically the, the early layers, can be treated with endoscopic
+[00:22:59] mucosal resection alone.
+[00:23:03] Anyone have any thoughts, which one is incorrect?
+[00:23:14] I can go through, so we do know that all
+[00:23:16] three of those risk factors, a male who is obese
+[00:23:18] and a chain smoker, are going to put him at
+[00:23:20] risk of esophageal adenocarcinoma, with of course that precursor being
+[00:23:23] Barrett's esophagus.
+[00:23:26] This, the kind of hallmark of the mutation we know
+[00:23:28] is again the hallmark of tylosis that we just spoke
+[00:23:30] about, the thrhomboid protease being activated, having hyperkeratosis and being
+[00:23:34] at risk of developing esophageal squamous cell carcinoma.
+[00:23:39] Um, so this is the one that's gonna be incorrect.
+[00:23:41] So we're talking about esophageal biopsies in the distal third
+[00:23:44] of the esophagus showing intestinal metaplasia.
+[00:23:46] We do know that is a precancerous condition that is
+[00:23:49] effectively the diagnostic criteria for, um, being able to tell
+[00:23:52] a patient they have Barrett's esophagus, which again, precancerous lesion,
+[00:23:56] the hallmark being intestinal metaplasia.
+[00:23:59] And then lastly, we can remove lycosomnia, but Doctor Discipio
+[00:24:02] being all cool, being able to remove his nodules in
+[00:24:04] the esophagus and things like that.
+[00:24:08] All right, we're moving through.
+[00:24:09] Any questions?
+[00:24:10] Anything seem unclear at any, at this point?
+[00:24:15] All right, so lastly we're gonna do gastric cancer.
+[00:24:18] It's probably the most involved point, uh, part of this
+[00:24:21] talk.
+[00:24:21] I know, uh, from what I was told you guys
+[00:24:23] had a little bit of this from a different lecture
+[00:24:25] of Doctor Judge, so we'll kind of like glance over
+[00:24:28] one of them, but there are some important things that
+[00:24:30] we'll see here, and I think this is probably part
+[00:24:33] of it that will have a lot of like very
+[00:24:35] board related, um.
+[00:24:37] Buzzwords and like clinical scenarios um that you might run
+[00:24:40] into.
+[00:24:41] So, ultimately looking at gastric cancer prevalence, it's very similar,
+[00:24:44] it almost mirrors esophageal cancer that we see, so very
+[00:24:47] heavy in parts of Europe and Asia as well as
+[00:24:50] South America.
+[00:24:51] And then same thing incidence of new diagnoses as compared
+[00:24:54] to, you know, known diagnoses that we have.
+[00:24:57] So again, symptoms are usually pretty non-specific.
+[00:24:59] It's a lot of the same that we've heard about
+[00:25:01] so far, so you can have dyspepsia just being general
+[00:25:03] abdominal discomfort that's, you know, basically hasn't shown any diagnosis
+[00:25:06] on further imaging on any other testing.
+[00:25:09] Again, abdominal pain, you can have bleeding, we can see
+[00:25:11] that patients are anemic on exam, they can have early
+[00:25:14] satiety, and generally the way I'll tease that out is
+[00:25:16] if I tell people like, hey, if you have a
+[00:25:17] plate of food and you used to be able to
+[00:25:19] eat 100%, what can you do now before you're full?
+[00:25:21] And they might be like, I can only do 25%
+[00:25:23] or I can't even do 10%.
+[00:25:26] Um, they might have nausea or vomiting, which could make
+[00:25:28] you concerned that there's an outlet obstruction, meaning there's a
+[00:25:30] tumor that's blocking the exit of the stomach and weight
+[00:25:33] loss, and then we came back to pseudoakalasia, of course,
+[00:25:36] so that we'll see on a picture if you have
+[00:25:38] a tumor of the cardia, it can also, it can
+[00:25:40] almost mimiccolaia or of course even an esophageal cancer in
+[00:25:44] terms of what its presentation is, is sounding like.
+[00:25:48] Um, but most patients again similar to esophageal cancer will
+[00:25:51] have very advanced disease when we find them.
+[00:25:53] There are screening programs in countries that have very high
+[00:25:56] incidences of this and prevalence.
+[00:25:57] It's not actually in the US we do some, but
+[00:26:00] mainly in a lot of our kind of, uh, Southeast
+[00:26:02] Asian countries, um, is where we see a lot of
+[00:26:05] the actual formal screening programs and where we get a
+[00:26:07] lot of our information from.
+[00:26:09] So these are the different types of gastric cancers that
+[00:26:11] we'll see, um, gastric adenocarcinoma, gastric lymphoma, neuroendocrine tumors, which
+[00:26:16] I think is the one that Doctor Judge went over
+[00:26:18] with you guys a bit, and then gastric stromal tumors.
+[00:26:20] So we'll kind of, you know, spend probably the most
+[00:26:22] time on adenocarcinoma, do lymphoma and stromal tumors too, and
+[00:26:26] then like kind of quickly just glance over the, the
+[00:26:28] neuroendocrine tumors.
+[00:26:31] So gastric adenocarcinoma, when we diagnose it, we're kind of,
+[00:26:34] we're very interested in where it is, whether it's in
+[00:26:36] the proximal stomach or the cardia, like I was mentioning,
+[00:26:38] if the cardia is up here kind of really at
+[00:26:41] the base of the esophagus, so there are times where
+[00:26:43] you don't always, you can't always visualize where this tumor
+[00:26:46] is coming from.
+[00:26:47] Is it actually gastric in nature?
+[00:26:48] Is it esophageal?
+[00:26:50] And you could imagine just based on that location it
+[00:26:52] could present very similar, similarly to, to accolasia or even
+[00:26:55] an esophageal cancer.
+[00:26:57] And then we kind of think about the rest of
+[00:26:58] the stomach, the distal stomach, as all the other tumors
+[00:27:01] that we'll see.
+[00:27:02] In terms of adenocarcinoma, there's gonna be two main flavors
+[00:27:05] that I want you guys to remember.
+[00:27:06] There's gonna be intestinal, and then there's also gonna be
+[00:27:09] diffuse.
+[00:27:10] So intestinal, very commonly we're gonna see like a localized
+[00:27:13] and exophytic mass of something that's protruding out.
+[00:27:16] It might also begin as just a simple ulcer, and
+[00:27:19] so this is a reason why we, if we see
+[00:27:21] gastric ulcers, we get concerned and we bring those patients
+[00:27:24] back for checkups after we give them any sort of
+[00:27:27] acid suppressive therapy to make sure that area heals.
+[00:27:30] The other one is gonna be what we call diffuse
+[00:27:33] gastric adenocarcinoma.
+[00:27:34] These tend to be more multifocal, so you're thinking more
+[00:27:37] tumors that are widespread throughout the stomach.
+[00:27:39] They can lead to what we call like what we,
+[00:27:42] what we see is stiffening of the stomach of the
+[00:27:44] gastric mucosa, and it can almost lead to this leather-like
+[00:27:47] appearance, which is a, a very kind of, it's not
+[00:27:51] entirely rare, but it's a little more uncommon, but it's
+[00:27:54] called lenitis plastica, again, I think something, a word that
+[00:27:56] I would, or at least a name that I would
+[00:27:58] remember, and we'll go over that a little bit more.
+[00:28:01] But in terms of the subtypes and their risk factors,
+[00:28:03] the intestinal portion that we talked about first, H.
+[00:28:06] pylori is gonna be the big one that we think
+[00:28:08] about, of course, that's also gonna be, um, for gastric
+[00:28:10] lymphomas which we'll get to, um, but otherwise we can
+[00:28:13] also think about different environmental factors, so the things we,
+[00:28:16] we kind of spoke about this in the esophageal cancers
+[00:28:18] as well, nitrosamine rich foods, smoking, things like that.
+[00:28:22] Um, we're gonna see those tending, they tend to pop
+[00:28:24] up more in, uh, elderly men.
+[00:28:26] Um, and then in the diffuse form, really I think
+[00:28:28] the big thing to remember, um, especially for your exams
+[00:28:30] and stuff is it's very associated with this, um, mutation
+[00:28:33] in what we call Ecadherin, which we'll go over in
+[00:28:36] a second.
+[00:28:37] But in contrast to we tend to see this more
+[00:28:39] in young women, um, than elderly men, which was we
+[00:28:42] saw in the intestinal type.
+[00:28:44] Um, we kind of went over this.
+[00:28:46] I'm gonna just read through the slide for the sake
+[00:28:48] of our time too, um, but it, this is part
+[00:28:51] of that, um, diffuse cancer syndrome, the, the when I
+[00:28:54] was talking about lanitis plastica that I wanted to touch
+[00:28:57] on.
+[00:28:57] So there is a hereditary form of this, and it's
+[00:29:00] interesting.
+[00:29:00] I actually, one of my classmates, when I was in
+[00:29:02] my GI section in med school, her mom was diagnosed
+[00:29:05] this while we like literally the week we learned about
+[00:29:07] this, and she passed, and she was a young woman.
+[00:29:10] So it is rare, it's less than 1% actually have
+[00:29:12] the hereditary form of of diffuse gastric cancer, but you
+[00:29:16] can see its average age of onsets like 40 years
+[00:29:18] old.
+[00:29:18] I mean, these are incredibly young individuals.
+[00:29:20] It is autosomal dominant, so when you have a family
+[00:29:23] member that has this, their loved one should enter a
+[00:29:26] screening or a surveillance program for this.
+[00:29:28] Um, the diffuse form, there's a hallmark of the pathology
+[00:29:31] which we'll go over, which is, um, basically what we
+[00:29:33] call cygnet ring cells.
+[00:29:34] I don't know if you guys have come across that
+[00:29:36] in anything else that you've chatted about yet in your
+[00:29:37] lectures, but we'll get to that.
+[00:29:40] Um, and again, women are also increased at an increased
+[00:29:42] risk of breast cancer when they have this hereditary condition
+[00:29:44] as well.
+[00:29:45] But again, the lifetime risk of cancer, 80%.
+[00:29:48] I mean it is profoundly high that, you know, someone
+[00:29:51] that has this, especially younger women, are, are at like
+[00:29:54] incredible risk of developing gastric cancer, which can be pretty
+[00:29:57] catastrophic.
+[00:29:58] But ultimately I think the important thing to remember from
+[00:30:01] this is that there, this ultimately the hereditary form is
+[00:30:04] gonna come from a germline mutation in ECATherin.
+[00:30:07] Um, which is ultimate, which is also known as CDH
+[00:30:09] one.
+[00:30:11] So this gene, basically what it does is it binds
+[00:30:13] a certain intracellular protein called betacatenin which translates translocates to
+[00:30:18] the nucleus and doesn't allow for cellular proliferation.
+[00:30:21] But in this mutation it doesn't allow for that binding
+[00:30:24] anymore and so it again can lead to just basically
+[00:30:27] perpetual replication of these cells, and so I think that
+[00:30:29] is something important to remember in terms of diff uh
+[00:30:32] hereditary diffuse gastric cancer.
+[00:30:35] We'll come back to that side, um, in a little
+[00:30:36] bit.
+[00:30:37] This is kind of just again the more so like
+[00:30:39] pictographic, um, form of it where you can see ECA
+[00:30:42] here and here connected to the cell membrane, and when
+[00:30:44] you have it, it's gonna bind betacatenin and not allow
+[00:30:47] it to do its job.
+[00:30:48] But when we don't have it or have a mutation,
+[00:30:50] um, ultimately that's gonna be able to translocate to the
+[00:30:52] nucleus and lead to cellular proliferation and growth.
+[00:30:58] Uh, this is that specific form that we were talking
+[00:31:00] about, and again I do remember having this question on
+[00:31:03] my boards when I, uh, for at least for step
+[00:31:05] one.
+[00:31:06] so this is a rare variant of diffuse gastric cancer
+[00:31:09] that leads to this extensive thickening of the gastric wall.
+[00:31:13] On image on a uh barium esophagram or X-ray imaging,
+[00:31:16] you might see this that they call like a leather
+[00:31:18] boot stomach, cause, I mean, I'm sorry, leather bottle stomach
+[00:31:20] cause it looks like those like old school things that
+[00:31:22] you might see like in western movies.
+[00:31:24] Um, but this is a very characteristic picture, and I
+[00:31:27] think this is exactly how they, they basically asked me
+[00:31:29] what would be the, they gave me this, and then
+[00:31:31] asked me what would the pathologic find, what would I
+[00:31:33] expect to see on pathology.
+[00:31:35] Um, this is just a, uh, basically gross sample of
+[00:31:37] it, and you can see that like they have all
+[00:31:39] this tuber growing around the side of it, cause remember
+[00:31:41] this tends to be multifocal, and it literally looks like
+[00:31:44] almost a leather purse that someone just like cut open.
+[00:31:47] And this is sometimes just kind of an endoscopic picture
+[00:31:49] of what we can see.
+[00:31:49] You, we really lose a lot of the gastric folds,
+[00:31:52] it looks kind of edematous, it doesn't open up well,
+[00:31:54] it's very stiff, um, cause normally it should open up
+[00:31:57] nicely when we're in there as we insufflate with air.
+[00:32:00] This is another portion that I would also commit to
+[00:32:03] memory.
+[00:32:03] These are like, you know, your boards love to ask
+[00:32:05] these questions about kind of odd physical exam findings that
+[00:32:08] might clue you into that 2nd, 3rd order of, if
+[00:32:11] you find this, what are you worried about or what
+[00:32:13] might you see on path, um, or what should be
+[00:32:16] your next test.
+[00:32:16] So these are all findings, oops, sorry.
+[00:32:19] That are findings that you can see in gastric cancer,
+[00:32:21] specifically if you're having um gastric adenocarcinoma and you get
+[00:32:25] concerned for advanced disease, you might see any of these.
+[00:32:27] So acanthosis nigricans, which of course we can see in
+[00:32:30] a number of other conditions which they commonly teach in
+[00:32:33] like in like when patients have a new diagnosis of
+[00:32:36] diabetes or anything like that, so it's not as specific,
+[00:32:38] but it is a possibility.
+[00:32:40] If you're coupling with that, and I've actually seen all
+[00:32:42] of these once, it's not the most common thing, but
+[00:32:44] so far, so you have a few things here, so
+[00:32:47] we'll start kind of below that, the Sister Mary Joseph
+[00:32:50] nodule, which is an inflamed or very hard nodule that
+[00:32:53] you find at the umbilicus.
+[00:32:55] Again, all these are things that they could be like,
+[00:32:57] you find this, what are you concerned about or what
+[00:32:59] should be your next step in evaluation?
+[00:33:02] At the top, your top right, you see what's called
+[00:33:04] a chowcaw nodule.
+[00:33:07] So this is a left supraclavicular lymph node that is
+[00:33:09] swollen and can be pretty tender as well.
+[00:33:13] And then the last one, the lesser relas sign, is
+[00:33:15] just a sudden development of seborrheic keratosis.
+[00:33:18] I don't know if you guys have done derm yet,
+[00:33:20] kind of these stuck on lesions.
+[00:33:22] So it can be two things.
+[00:33:22] It can be a sudden explosion of them, or it
+[00:33:25] could just be a sudden like worsening of them, like
+[00:33:27] you had some before, but now you have a bunch
+[00:33:29] more, they're getting bigger.
+[00:33:30] All of these things can be, um, just tip-offs of
+[00:33:33] whether or not like make you think about the next
+[00:33:35] steps, yeah.
+[00:33:39] So this can be with any of them, but you
+[00:33:41] tend to actually think of these more so with gastric
+[00:33:43] adenocarcinoma, and I don't think that honestly if you got
+[00:33:46] asked a question on this, they're gonna ask you what
+[00:33:48] type of cancer you're worried about in terms of like
+[00:33:50] the subtypes.
+[00:33:51] I think they're just gonna ask like what should be
+[00:33:52] your next step in evaluation, um, or like what could
+[00:33:55] be the origin of, you know, the type of neoplastic
+[00:33:58] process you're worried about.
+[00:34:03] Another one is, I think it's called a bloomer shelf
+[00:34:06] nodule.
+[00:34:06] I've never heard anyone say anything different, I guess it
+[00:34:08] could be blummer, but ultimately this is a, a nodule
+[00:34:11] or a basically firm lymph node that you can feel
+[00:34:13] in the rectal uterine pouch in women.
+[00:34:16] So basically in that in that um area behind the
+[00:34:18] uterus, if you're doing.
+[00:34:20] Um, a digital rectal exam, you feel this hard nodule,
+[00:34:23] it might be something that tips you off that this
+[00:34:25] patient could have metastatic gastric cancer.
+[00:34:27] You can see this in other, in other conditions as
+[00:34:29] well.
+[00:34:29] Breast cancer can be one, ovarian cancer, but, um, it
+[00:34:32] is something that is, it can be a hallmark in
+[00:34:34] terms of, or at least like a tip-off in terms
+[00:34:36] of it could be metastatic gastric cancer as well, which
+[00:34:38] we'll talk about in a second.
+[00:34:39] I think the more common one you'll see in terms
+[00:34:41] of questions is this one called a Crackenberg tumor.
+[00:34:44] So what this is, is it's basically bilateral enlargement of
+[00:34:47] the ovaries.
+[00:34:49] And the thing that you really want to think about
+[00:34:51] or they might ask you again is like what is
+[00:34:52] the origin of the condition you're worried about, and if
+[00:34:55] they show you this, you really want to think that
+[00:34:56] this patient could have metastatic gastric cancer.
+[00:35:00] I do remember I had a, uh, basically a gross,
+[00:35:03] uh, picture of this on one of my board exams
+[00:35:06] saying like, and then it was that same thing like
+[00:35:08] what, what, what are you concerned about or what could
+[00:35:09] be the origin of this malignancy, um, and they generally
+[00:35:12] want you to look at and see that this could
+[00:35:14] be gastric, a certain type of gastric cancer.
+[00:35:17] Now this tends to be more so the diffuse form,
+[00:35:20] and what they could also do is give you this
+[00:35:22] picture up here in terms of your histology where you
+[00:35:24] see that there are these big evacuated cells, they're clear,
+[00:35:28] the nuclei are pushed off to the, the periphery.
+[00:35:30] We call these cygnet ring cells.
+[00:35:32] I don't know if you guys have come across this
+[00:35:34] in any other lecture or um any of your like
+[00:35:36] patho or your histology lectures.
+[00:35:39] But the reason they look like an old cygnet ring,
+[00:35:40] I mean like I don't think many people these days,
+[00:35:42] at least from my time, wear these anymore.
+[00:35:45] It was like a little bit of an older thing
+[00:35:46] or like college rings with like symbols, but ultimately that's
+[00:35:49] kind of what they, they think it looks like in
+[00:35:51] terms of that nucleus being pushed off to the side
+[00:35:53] of the cell.
+[00:35:54] But the big thing is you're seeing that kind of
+[00:35:56] evacuated almost like mucus-like substance in the inside of it.
+[00:35:59] And so if you get this picture and say they
+[00:36:01] show you the path to, they want you to really
+[00:36:03] think about um diffuse gastric cancer because that is ultimately
+[00:36:07] the hallmark that you'll see on pathology from that type
+[00:36:09] of gastric cancer.
+[00:36:12] Makes sense?
+[00:36:15] Again, this is just another picture looking at it, so
+[00:36:17] these are the signet ring cells, so it's, there's a
+[00:36:19] bunch of them here, but the one it's pointing to,
+[00:36:21] you can kind of see that there's almost this area
+[00:36:22] that's evacuated with the nucleus pushed all the way to
+[00:36:25] the periphery of the cell, um, and then this is
+[00:36:28] just another, uh.
+[00:36:29] Uh, slide that you get more so from that kind
+[00:36:31] of rare variant of, of linnitis plastica where you still
+[00:36:35] have some of those cyet ring cells.
+[00:36:37] There's some in here like there's one right underneath my
+[00:36:39] pointer right there.
+[00:36:39] I'll move it now, um, but then you have this
+[00:36:42] extensive, basically fibrosis of the mucosa and that's ultimately leads
+[00:36:45] to the stiffening.
+[00:36:46] So I still think the big thing to remember is
+[00:36:49] kind of the cygne ring hallmark of this type of
+[00:36:51] gastric cancer though.
+[00:36:54] All right, made it through, that's kind of the biggest
+[00:36:56] one, the one that's most in depth here.
+[00:36:58] The other ones we'll go over some very quick, like,
+[00:37:00] you know, again, I think important topics and buzzwords to
+[00:37:03] look out for.
+[00:37:04] So gastric lymphoma, other than like actual lymph nodes and
+[00:37:08] things like that, the the GI tract is the second
+[00:37:11] most common spot that you're actually going to encounter lymphoma.
+[00:37:14] It really has a very wide range, anywhere from 25
+[00:37:17] to 80, and it tends to be more so like
+[00:37:19] the mean you're gonna see is like in 60 year
+[00:37:20] olds, so it's kind of like in.
+[00:37:22] Beginning like their second half of life, um, we see
+[00:37:25] it more in male sex than female sex.
+[00:37:27] Symptoms again are very non-specific, dyspepsia, nausea, vomiting, weight loss,
+[00:37:32] um, and ultimately the hallmark that we can see here
+[00:37:34] are the things that we get worried about is an
+[00:37:36] infection with H.
+[00:37:37] pylori that's not treated, and we'll talk more about that
+[00:37:39] in a second, but it can follow this pathway basically
+[00:37:42] where you have inflammation in the stomach, whether it's from
+[00:37:45] H.
+[00:37:45] pylori or some other condition, and you can develop these
+[00:37:48] early changes that can be cancerous and what we call
+[00:37:50] a maltoma.
+[00:37:51] Um, which then can transition to a marginal B cell
+[00:37:54] lymphoma.
+[00:37:55] This is all happening basically as a result of your
+[00:37:57] immune system responding to the, the H.
+[00:37:59] pylori that's there.
+[00:38:00] Ultimately it's gonna lead to some of the B cell,
+[00:38:02] um, expansion within the folliccules, and that's what why you
+[00:38:05] can ultimately get a marginal cell lymphoma.
+[00:38:07] But I think the big thing to remember here is
+[00:38:10] the association of H.
+[00:38:11] pylori and gastric lymphoma.
+[00:38:13] So ultimately, I think we're not gonna have a picture
+[00:38:15] on it, um, you're gonna hear the buzzword of a
+[00:38:18] maltoma where they'll talk about, you know, a bacteria being
+[00:38:20] in the stomach and ask what this patient might be
+[00:38:22] at risk for without being treated.
+[00:38:25] So again, associated with H.
+[00:38:26] pylori, and the interesting thing about this too is we
+[00:38:29] actually see this very commonly, especially here in our area
+[00:38:32] where we serve, you know, we see a lot of
+[00:38:34] H.
+[00:38:34] pylori in South, Southeast Asian populations, Pacific Islanders, but then
+[00:38:38] in a lot of our Latin American community as well.
+[00:38:40] Well, and here at Camden because we have a very
+[00:38:43] large Latin population, it's not uncommon.
+[00:38:45] I mean, Doctor Giusecipio does a lot of research on
+[00:38:47] this.
+[00:38:47] I mean, in our Camden clinic, probably talk about this
+[00:38:50] with at least one patient every clinic, uh, session where
+[00:38:53] we see that they have H.
+[00:38:54] pylori, we talk about treatment, and the very interesting thing
+[00:38:57] is if someone does develop a mylatoma or gastric lymphoma.
+[00:39:01] Treating the bacteria and actually eradicating it can lead to
+[00:39:05] reversal of the development of that mytoma, so it's a
+[00:39:07] very interesting, um, disease process where getting rid of the
+[00:39:10] bacteria can actually be your effectively cure for that development
+[00:39:14] of, of gastric lymphoma.
+[00:39:18] Again, my good old sketchy days, um, H.
+[00:39:21] pylori, you know, I don't know if you guys have
+[00:39:23] gone over this already, but, um, it's just a bacteria
+[00:39:25] that we commonly see within the gastric, um, the gastric
+[00:39:28] mucosa, more so in the antrum produces urea, can lead
+[00:39:31] to ultimately long-standing inflammation that can lead to cellular proliferation.
+[00:39:36] We don't need to go through a ton of that
+[00:39:37] right now.
+[00:39:37] I think the big thing to remember is just its
+[00:39:39] association with gastric, uh, lymphoma, and then ultimately treating the
+[00:39:43] bacteria is the most important, uh, factor there.
+[00:39:47] The other thing to remember is there are certain strains
+[00:39:49] of H.
+[00:39:49] pylori that have specific mutations or carry a specific gene,
+[00:39:53] um, in a gene called CAGA, and this specifically puts
+[00:39:56] you at a much higher risk of gastric, uh, the
+[00:39:59] development of gastric cancer.
+[00:40:00] So not having H.
+[00:40:02] pylori alone, not everyone is guaranteed that they're gonna get
+[00:40:04] cancer, but of course if you don't treat it, you,
+[00:40:06] they're still at risk.
+[00:40:07] But also having this specific strain of H.
+[00:40:09] pylori is very important to know because these are much
+[00:40:12] more aggressive and can lead to the development of gastric
+[00:40:15] cancer much more, uh, much more rapidly than, than not
+[00:40:18] having this specific strain.
+[00:40:20] So KJ is something to always kind of think about,
+[00:40:22] might be a question that they could ask on your
+[00:40:24] boards in terms of what could be a risk factor
+[00:40:26] for the development of gastric, uh, lymphoma.
+[00:40:31] Um, another slide on the biochemistry of it, we talked
+[00:40:34] about again, I think the important thing to know just
+[00:40:36] that that KJ is gonna be an increased risk factor
+[00:40:38] associated with H.
+[00:40:39] pylori for the development of gastric cancer.
+[00:40:43] All right, neuroendocrine tumors we're not gonna spend a lot
+[00:40:45] of time on cause you guys went over it with
+[00:40:46] Doctor Judge already.
+[00:40:47] I think buzzwords, the MEN syndromes, of course, having the
+[00:40:50] pancreatic endocrine tumors, having some of the gastronomas, things like
+[00:40:53] that.
+[00:40:54] Carcinoid syndrome that can come along with it, of course,
+[00:40:57] you know, I would, I don't know how much you
+[00:40:59] guys went into that, but Doctor Judge is incredibly thorough.
+[00:41:01] I'm sure he gave you guys a very good overview
+[00:41:03] of it.
+[00:41:03] I just, it's here for completeness sake ultimately if you
+[00:41:06] guys wanna refer back to it.
+[00:41:07] And of course if any other questions come up, but
+[00:41:09] for kind of the sake of time and getting to
+[00:41:11] the gist, which I think are a little bit more
+[00:41:12] high yield here, um, we're gonna keep moving, but it's
+[00:41:15] there if you guys have questions and just let me
+[00:41:17] know, we can always chat afterwards.
+[00:41:19] So the last one we're gonna go over are gonna
+[00:41:21] be what we call gastrointestinal stromal tumors.
+[00:41:23] We refer to them as gists to be much just
+[00:41:26] for the sake of, you know, having ridiculously long names
+[00:41:28] of medicine.
+[00:41:29] Um, a lot of the times these are asymptomatic.
+[00:41:32] They don't have a lot of abdominal symptoms.
+[00:41:34] Some people can have bleeding from it, they could just
+[00:41:36] feel like there's a mass.
+[00:41:37] Those tend to be our most common presentations, but some
+[00:41:40] people can have pain as well.
+[00:41:42] Most common sites that can be found anywhere throughout the
+[00:41:44] GI tract, but most commonly we're gonna see the stomach
+[00:41:46] and the small intestine.
+[00:41:48] And these are thought to arrive from what we call
+[00:41:50] the interstitial cells of jal, which are basically colloquially what
+[00:41:53] we call the pacemaker cells of the, of the colon
+[00:41:56] or basically the GI tract in general.
+[00:41:58] So these are connected to our autonomic nervous system and
+[00:42:00] tell our stomach, you know, either during our flight or
+[00:42:03] flight response to stop, you know, digesting and moving things
+[00:42:05] through or kind of speed that process up, um, but
+[00:42:08] ultimately these are coming from that mesenchymal origin because they're
+[00:42:11] coming from the nerves itself.
+[00:42:13] This is what they can look like.
+[00:42:14] On the top left, you can kind of see it's
+[00:42:16] just this like little lump that's protruding, but the overlying
+[00:42:18] mucosa actually looks normal.
+[00:42:20] A lot of the time what we'll do with this
+[00:42:22] is we'll take biopsies of it, um, little bites basically
+[00:42:25] from it, but what we'll get back is it's saying
+[00:42:27] like, hey, normal, you know, gastric or small intestinal mucosa,
+[00:42:31] and we'll send these patients for an endoscopic ultrasound where
+[00:42:33] we take a camera down with a little ultrasound probe
+[00:42:35] and look at it and see what it looks like.
+[00:42:38] I don't think you guys need to know the features
+[00:42:39] of it.
+[00:42:40] That's more so for like me or Doctor Scipio when
+[00:42:42] we get tested, but they kind of just look like
+[00:42:45] these very well circumscribed hypoechoic lesions.
+[00:42:47] There's not all that much that's impressive to them.
+[00:42:50] And what we end up doing as long as there's
+[00:42:51] no blood vessels in the way or anything like that,
+[00:42:53] is we biopsy them, stick a little needle through while
+[00:42:56] we're doing this, and this is the big thing that
+[00:42:58] I think you guys should remember from the gist, well,
+[00:43:00] two things, but this is the one is when you
+[00:43:01] get your pathology, it's they're gonna say that there's fascicle
+[00:43:04] of spindle-shaped tumor cells.
+[00:43:07] So I've always thought of this as like almost like
+[00:43:08] a blizzard of kind of cells just flowing through here.
+[00:43:12] That is going to be your hallmark and I think
+[00:43:13] the things that at least one of the two things
+[00:43:15] that you might get asked if you ultimately see a
+[00:43:18] gist on your exams.
+[00:43:21] The other big thing here in red is what their
+[00:43:23] association is with.
+[00:43:25] So they are associated with an activation mutation and, and
+[00:43:28] a gene called CKT or CD117.
+[00:43:31] These are actually almost 90% of these tumors.
+[00:43:34] Now there's some other ones.
+[00:43:35] There is also platelet derived growth factor which makes up
+[00:43:38] a smaller subset, and there's some other mutations as well,
+[00:43:41] but these are gonna be the ones that I think
+[00:43:42] for you guys are gonna be the, are gonna be
+[00:43:44] the most important to remember is the C kit in
+[00:43:46] CD17 having um an association with GI.
+[00:43:51] So again, 90% of them are gonna have this uh
+[00:43:54] CD 117 mutation.
+[00:43:56] There is an association of these with neurofibromatosis type one,
+[00:44:00] and of course the boards love to ask you about
+[00:44:01] these cancer syndromes where you might see things, what different,
+[00:44:04] like, if they tell you they have this, where might
+[00:44:06] you expect to find tumors or where should you look,
+[00:44:10] um, and it's important to remember because I think, you
+[00:44:12] know, it's, we get all these like little abbreviations and
+[00:44:16] letters and numbers and stuff and we talked about EADherin.
+[00:44:19] And CDH1 being a risk factor for gastric adenocarcinoma, I
+[00:44:24] just want you to keep those two straight that just
+[00:44:25] are gonna be CD 117 and then gastric adenoma gastric
+[00:44:29] adenocarcinoma CD um H1.
+[00:44:31] So just in your mind, try and like keep those
+[00:44:33] separate because it's not uncommon that you might see questions
+[00:44:36] whether it's here or on your boards that are asking
+[00:44:38] you which um of these genes you're gonna be more
+[00:44:40] so worried about.
+[00:44:42] Um, but because of where they come from, uh, I'm
+[00:44:44] sorry, the mutations that you have, the mutation leads to,
+[00:44:47] um, basically an aberrant response in a tyrote and a
+[00:44:50] membrane tyrasine kinase receptor, and so we actually see this
+[00:44:53] in like more so like in lymphomas and like CML
+[00:44:57] that we use in matin for the treatment, and so
+[00:44:58] that's actually the first line for these, um, other than,
+[00:45:01] you know, a surgical resection if it's meeting a certain
+[00:45:03] criteria in terms of size is treatment withatinib.
+[00:45:07] I don't know if they're gonna ask you as much
+[00:45:09] on the treatment of it.
+[00:45:09] It's a possibility, but I think, I think more so
+[00:45:11] the genes are gonna be the big thing that they,
+[00:45:13] they want you to know.
+[00:45:14] Again, this is just another side, it has a lot
+[00:45:16] of the things that we just spoke about, um, and
+[00:45:19] so that's it.
+[00:45:20] I think I have a few questions that we can
+[00:45:21] go over, but then hopefully we can have a few
+[00:45:22] minutes for any questions or anything like that.
+[00:45:25] Um, if anyone wants to try to answer which one
+[00:45:29] of them, which of the following is incorrect, imatin is
+[00:45:31] a competitive inhibitor of the tyrosine kinase enzyme BCR-ABL, that
+[00:45:35] inhibits, um, kit as well as platelet derived, uh, platelet
+[00:45:39] derived growth factor signaling.
+[00:45:41] An activation mutation in CD117, a transma receptor, blah blah
+[00:45:45] blah, is just, uh, associated with GI tumors and most
+[00:45:48] commonly in the colon.
+[00:45:50] Development of MALT lymphomas may be due to clonal expansion
+[00:45:52] of B cells through chronic gastritis and the presence of
+[00:45:55] H.
+[00:45:55] pylori, and then infection with H.
+[00:45:57] pylori KJ is associated with gastric adenocarcinoma.
+[00:46:02] Anyone think they have an idea which one is incorrect?
+[00:46:11] Yeah, so, of course, the first one like we were
+[00:46:13] talking about, MANib is used to treat GI because it's
+[00:46:15] ultimately working against those tyrazine, uh, receptor kinases and the
+[00:46:19] mutations that we see with kit and, and basically the
+[00:46:22] platelet derived growth factors.
+[00:46:24] B is incorrect, ultimately that everything was right until it
+[00:46:27] said the most commonplace was the colon.
+[00:46:28] Remember, just are gonna be most commonly found in the
+[00:46:30] stomach and the small intestine.
+[00:46:34] Of course, malt lymphomas we know are often associated with
+[00:46:37] H.
+[00:46:38] pylori and can regress with treatment of the H.
+[00:46:40] pylori infection.
+[00:46:42] And then the last one again, KJ strains of H.
+[00:46:45] pylori are associated with gastric adenocarcinoma, can develop much more
+[00:46:48] quickly than other ones.
+[00:46:49] I think I have 2.
+[00:46:51] I want to say dope.
+[00:46:53] All right, well, I ruined that one, sorry guys.
+[00:46:55] Um, this one was just a, a patient, a 45
+[00:46:57] year old female undergoing endoscopy to evaluate persistent reflux in
+[00:47:01] the stomach.
+[00:47:01] There's a solitary, well well circumscribed fleshy mass covered with
+[00:47:05] intact mucosa.
+[00:47:07] The biopsies ultimately show fascicle of spindle-shaped tumor cells, which
+[00:47:10] the following is not an accurate description of this tumor.
+[00:47:13] And sadly I ruined it for you guys.
+[00:47:15] Yeah, the answer is A, the majority are associated with
+[00:47:17] a mutation of CDH1.
+[00:47:19] Remember that is more so associated with gastric adenocarcinoma, specifically
+[00:47:23] the hereditary diffuse form.
+[00:47:25] What would have made this question right is if they
+[00:47:27] said it was CD117 or C kit instead.
+[00:47:30] Um, but just they have, most of them have gain
+[00:47:33] of function mutations and C kit, um, smaller percent have
+[00:47:37] the mutations and platelet derived growth factors, and there is
+[00:47:40] an incidence, an increased incidence in those that have neurofibromatosis
+[00:47:43] type one.
+[00:47:45] All right, and I think this is my last 1.
+[00:47:48] Um, 43 year old presents with bilateral lower quadrant abdominal,
+[00:47:51] uh, discomfort as well as abdominal distension, undergoes extensive, uh,
+[00:47:56] an extensive evaluation, um, with imaging concerning for bilateral enlargement
+[00:47:59] of the ovaries, free fluid in the pelvis, and diffuse
+[00:48:01] mesenteric lymphadenopathy.
+[00:48:03] She undergoes an X slap trying to figure out they
+[00:48:06] so they basically got a tissue diagnosis and sent and
+[00:48:09] they give you this.
+[00:48:10] Um, slide, and they ultimately want to know which mutation
+[00:48:13] likely led to the development of this condition.
+[00:48:15] So first question, of course, always thinking is what is,
+[00:48:17] what are we looking at here?
+[00:48:19] And then based off of that, what would be your
+[00:48:20] diagnosis?
+[00:48:23] Does anyone remember kind of what this would be concerning
+[00:48:26] for Right, so these are the signet ring cells that
+[00:48:33] we kind of saw from the diffuse, uh, uh, gastric
+[00:48:37] adenocarcinoma slides.
+[00:48:38] So ultimately then you have to think beyond that to
+[00:48:40] the next order of ultimately what would be one of
+[00:48:42] the, the mutations that you can see with that, and
+[00:48:44] that would ultimately be ECAdherin for gastric adenocarcinoma.
+[00:48:49] So some of those other ones you can see are
+[00:48:50] the ones that are associated with all of them, but
+[00:48:52] that's all I have.
+[00:48:53] Um, if you guys have any questions, great.
+[00:48:56] I don't have any like kids or anything, so I
+[00:48:58] can't put pictures up here, but this is 000 I
+[00:49:01] can't go back, but ultimately, um.
+[00:49:04] I was just gonna say, you know, I was in
+[00:49:05] your shoes not that long ago, especially as you go
+[00:49:08] into these winter months, it gets a little bit hard
+[00:49:10] and, you know, dreary coming and studying it every day,
+[00:49:12] but it's absolutely worth it.
+[00:49:13] I mean, looking back, that's literally me on my white
+[00:49:16] coat ceremony as a first year and then matching and
+[00:49:18] then, you know, even throughout residency and fellowship, you're gonna
+[00:49:21] have a great time, you're gonna meet so many friends,
+[00:49:23] go through different life events, you know, it's absolutely worth
+[00:49:26] it, um, you know, just kind of stay positive during
+[00:49:29] these tough months and keep studying hard and before you
+[00:49:32] know it.
+[00:49:32] Um, you know, you guys will be where you wanna
+[00:49:34] be and even teaching some of your, you know, friends
+[00:49:37] that you met along the way.
+[00:49:38] So, if you guys have any questions, feel, feel free
+[00:49:41] to ask.
+[00:49:42] If not, this is my email, you can always email
+[00:49:43] me questions or if you need clarification about anything.
+[00:49:46] All right, thanks guys.

@@ -1,0 +1,233 @@
+{
+ "lecture_id": "gi-w05-lab-pathology",
+ "block": "GI",
+ "week": 5,
+ "lecture": "LAB Pathology of the GI System II",
+ "contributor": "thirth",
+ "questions": [
+  {
+   "id": "gi-w05-lab-pathology-q01",
+   "source": "slide",
+   "source_ref": "Slides 28, 6",
+   "stem": "A 26-year-old man with a history of asthma and seasonal allergies presents with recurrent episodes of solid-food dysphagia. Upper endoscopy reveals concentric esophageal rings and longitudinal furrows. An esophageal biopsy shows the findings pictured. Which of the following histopathologic changes is most likely to develop as the disease progresses?",
+   "stem_image": "img/gi-w05-lab-pathology/slide_28.jpg",
+   "choices": [
+    "Intestinal metaplasia with goblet cells",
+    "Subepithelial fibrosis and remodeling",
+    "Granulomatous inflammation of the muscularis propria",
+    "Loss of ganglion cells in the myenteric plexus",
+    "Intranuclear viral inclusions in squamous epithelial cells"
+   ],
+   "answer": 1,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "So, uh, esophageal, uh, this is EOE, eosinophilic esophagitis, it's a long-term complication is subepithelial fibrosis and remodeling.",
+     "at": "00:20:48"
+    },
+    {
+     "type": "slide",
+     "slide": 28,
+     "image": "img/gi-w05-lab-pathology/slide_28.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 6,
+     "image": "img/gi-w05-lab-pathology/slide_06.jpg"
+    }
+   ],
+   "note": "Subepithelial fibrosis and remodeling. This is eosinophilic esophagitis: a young atopic man with food dysphagia, rings and furrows, and a biopsy packed with eosinophils (15 or more per high-power field). Ongoing Th2 inflammation (IL-4, IL-5, IL-13) remodels the wall and lays down subepithelial fibrosis, which leads to strictures and repeated food impaction.\nIntestinal metaplasia with goblet cells is Barrett esophagus, the result of chronic acid reflux, not EoE.\nGranulomatous inflammation of the muscle wall is not part of EoE. Granulomas point to something like Crohn disease.\nLoss of myenteric ganglion cells is achalasia, which causes dysphagia to both solids and liquids with a tight LES.\nIntranuclear viral inclusions in squamous cells are HSV esophagitis, seen mostly in immunocompromised patients."
+  },
+  {
+   "id": "gi-w05-lab-pathology-q02",
+   "source": "slide",
+   "source_ref": "Slides 29, 22, 24",
+   "stem": "A 62-year-old man presents with progressive dysphagia, first to solid foods and then to liquids, with a 15-pound unintentional weight loss. He has a 20-year history of gastroesophageal reflux disease and obesity. Upper endoscopy reveals an ulcerated mass in the distal esophagus. Biopsy shows infiltrative, irregular malignant glands surrounded by desmoplastic stroma, as pictured. Which of the following histologic changes most likely preceded the development of this patient's malignancy?",
+   "stem_image": "img/gi-w05-lab-pathology/slide_29.jpg",
+   "choices": [
+    "Squamous epithelial hyperplasia with basal cell expansion",
+    "Intestinal metaplasia followed by epithelial dysplasia",
+    "Eosinophilic inflammation with subepithelial fibrosis",
+    "Squamous dysplasia associated with chronic tobacco exposure",
+    "Loss of ganglion cells in the esophageal myenteric plexus"
+   ],
+   "answer": 1,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "Good, yep, this was referring to Barrett's esophagus, and the picture you have is infiltrative lumen forming glands with a desmoplastic stoma, so it was showing you an adocarcinoma, so you had to know about Barrett's esophagus to be able to say B.",
+     "at": "00:22:01"
+    },
+    {
+     "type": "slide",
+     "slide": 29,
+     "image": "img/gi-w05-lab-pathology/slide_29.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 22,
+     "image": "img/gi-w05-lab-pathology/slide_22.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 24,
+     "image": "img/gi-w05-lab-pathology/slide_24.jpg"
+    }
+   ],
+   "note": "Intestinal metaplasia followed by epithelial dysplasia. Long-standing GERD and obesity plus a gland-forming tumor in the distal esophagus means esophageal adenocarcinoma, which comes out of Barrett esophagus. The sequence runs from intestinal metaplasia with goblet cells to low-grade dysplasia to high-grade dysplasia to adenocarcinoma.\nSquamous hyperplasia with basal cell expansion is a reactive change of reflux esophagitis, not the precursor to a glandular cancer.\nEosinophilic inflammation with subepithelial fibrosis is eosinophilic esophagitis, which leads to strictures, not adenocarcinoma.\nSquamous dysplasia from tobacco leads to squamous cell carcinoma, which usually sits higher in the esophagus and forms keratinizing nests, not glands.\nLoss of ganglion cells is achalasia. It modestly raises the risk of squamous cell carcinoma, but it doesn't fit this GERD-driven glandular tumor."
+  },
+  {
+   "id": "gi-w05-lab-pathology-q03",
+   "source": "slide",
+   "source_ref": "Slides 59, 44, 67",
+   "stem": "A 38-year-old man with a 12-year history of ulcerative colitis presents with progressive fatigue and pruritus. Laboratory studies show alkaline phosphatase 620 U/L, AST 75 U/L, ALT 82 U/L and total bilirubin 2.1 mg/dL. Antimitochondrial antibodies are negative. MRCP shows multifocal strictures alternating with dilatations in the intrahepatic and extrahepatic bile ducts. Which of the following malignancies is this patient at risk for?",
+   "choices": [
+    "Hepatic angiosarcoma",
+    "Hepatocellular adenoma",
+    "Cholangiocarcinoma",
+    "Hepatic hemangioma",
+    "Hepatoblastoma"
+   ],
+   "answer": 2,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "As a result of getting a PSC you can get secondary biliary type cirrhosis, and you can also get cholangiocarcinoma, which again is the adenocarcinoma name for the liver cancer.",
+     "at": "00:38:00"
+    },
+    {
+     "type": "transcript",
+     "quote": "There's a strong association with. IBD, specifically ulcerative colitis, it is a disease more common in men, and because it's an injury to the bile ducts, the pattern of liver enzyme elevation you'll see is an elevated alkaline phosphatase",
+     "at": "00:37:24"
+    },
+    {
+     "type": "slide",
+     "slide": 59,
+     "image": "img/gi-w05-lab-pathology/slide_59.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 44,
+     "image": "img/gi-w05-lab-pathology/slide_44.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 67,
+     "image": "img/gi-w05-lab-pathology/slide_67.jpg"
+    }
+   ],
+   "note": "Cholangiocarcinoma. This is primary sclerosing cholangitis: a man with ulcerative colitis, a cholestatic enzyme pattern, negative AMA and a beaded biliary tree on MRCP. Chronic inflammation and onion-skin fibrosis of the bile ducts make cholangiocarcinoma its major malignant complication. PSC also raises the risk of colorectal cancer when it comes with IBD, and of gallbladder neoplasia.\nHepatic angiosarcoma is tied to vinyl chloride, arsenic and Thorotrast, not PSC.\nHepatocellular adenoma is a benign tumor linked to oral contraceptives and anabolic steroids.\nHepatic hemangioma is the most common benign liver tumor and has nothing to do with bile duct disease.\nHepatoblastoma is a liver cancer of young children."
+  },
+  {
+   "id": "gi-w05-lab-pathology-q04",
+   "source": "slide",
+   "source_ref": "Slides 73, 63",
+   "stem": "A 32-year-old woman presents to the emergency department with sudden-onset, severe right upper quadrant abdominal pain. She has taken oral contraceptive pills for the past 10 years. Physical examination shows abdominal tenderness and hypotension. CT shows a 7.5-cm, well-circumscribed hepatic mass with intratumoral hemorrhage and hemoperitoneum. The background liver is noncirrhotic. Which of the following is the most likely diagnosis?",
+   "choices": [
+    "Hepatocellular carcinoma",
+    "Focal nodular hyperplasia",
+    "Hepatocellular adenoma",
+    "Cavernous hemangioma",
+    "Intrahepatic cholangiocarcinoma"
+   ],
+   "answer": 2,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "Yeah, you guys got it. And it's a classic setup for a hepatocellular adenoma, young woman, likely not cancer, OCPs and the mess.",
+     "at": "01:09:07"
+    },
+    {
+     "type": "slide",
+     "slide": 73,
+     "image": "img/gi-w05-lab-pathology/slide_73.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 63,
+     "image": "img/gi-w05-lab-pathology/slide_63.jpg"
+    }
+   ],
+   "note": "Hepatocellular adenoma. It is a benign hepatocellular tumor classically found in young women on oral contraceptives, and its feared complication is bleeding or rupture, especially once it is 5 cm or larger. A 7.5-cm mass that bled into itself and the peritoneum fits exactly. Management includes stopping the hormones, and lesions this large are usually removed.\nHepatocellular carcinoma usually arises in a cirrhotic liver (hepatitis B or C, alcohol, MASLD), and this liver is not cirrhotic.\nFocal nodular hyperplasia is a benign lesion with a central scar that rarely bleeds and is not driven by oral contraceptives the way adenoma is.\nCavernous hemangioma is the most common benign liver tumor, but spontaneous rupture is rare and it is not tied to oral contraceptive use.\nIntrahepatic cholangiocarcinoma is a bile duct cancer of older patients with risk factors such as PSC or liver flukes, and it presents with cholestasis and weight loss, not acute hemorrhage."
+  },
+  {
+   "id": "gi-w05-lab-pathology-q05",
+   "source": "slide",
+   "source_ref": "Slides 84, 79",
+   "stem": "A 52-year-old man with a history of heavy alcohol use presents with chronic epigastric pain, weight loss and bulky, foul-smelling stools. CT shows pancreatic calcifications, ductal dilation and parenchymal atrophy. Which histologic finding is most characteristic of the underlying disease?",
+   "choices": [
+    "Extensive hemorrhage and enzymatic fat necrosis",
+    "Dense fibrosis with acinar atrophy and relatively preserved islets",
+    "Diffuse neutrophilic infiltration without fibrosis",
+    "Sheets of malignant gland-forming epithelial cells",
+    "Noncaseating granulomas replacing pancreatic parenchyma"
+   ],
+   "answer": 1,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "The exocrine function is, uh, Done by the, you know, that's what the art is done by the asinine that are releasing all the enzymes for digestion, um, and the endocrine function is done by the eyelets, right, but the eyelets tend to remain intact for a much longer period of time in chronic pancreatitis than do the asinine.",
+     "at": "01:14:00"
+    },
+    {
+     "type": "transcript",
+     "quote": "Usually you get those in chronic pancreatitis and not in acute because you still have enough assinar function and then other thing that the clue is the parenchymal atrophy right that's more a Chronic pancreatitis thing.",
+     "at": "01:21:23"
+    },
+    {
+     "type": "slide",
+     "slide": 84,
+     "image": "img/gi-w05-lab-pathology/slide_84.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 79,
+     "image": "img/gi-w05-lab-pathology/slide_79.jpg"
+    }
+   ],
+   "note": "Dense fibrosis with acinar atrophy and relatively preserved islets. This is alcohol-related chronic pancreatitis: repeated injury replaces the exocrine tissue with scar, so the patient develops steatorrhea and weight loss. The islets hold on until late disease, when diabetes appears. Calcifications and dilated, distorted ducts complete the picture.\nExtensive hemorrhage and enzymatic fat necrosis describe acute hemorrhagic pancreatitis, a sudden severe illness, not a chronic one.\nDiffuse neutrophils without fibrosis is acute pancreatitis. Chronic disease is defined by fibrosis.\nMalignant gland-forming cells would be pancreatic adenocarcinoma. Chronic pancreatitis raises that risk, but the findings here are classic chronic pancreatitis.\nNoncaseating granulomas are not a feature of alcohol-related pancreatic disease."
+  },
+  {
+   "id": "gi-w05-lab-pathology-q06",
+   "source": "slide",
+   "source_ref": "Slides 89, 86, 88",
+   "stem": "A 48-year-old woman presents with recurrent episodes of right upper quadrant abdominal pain, particularly after fatty meals, over the past 2 years. She has no fever or jaundice. Ultrasonography shows multiple gallstones and a thickened gallbladder wall, and she undergoes elective laparoscopic cholecystectomy. Histologic examination shows chronic inflammatory cells, fibrosis, muscular hypertrophy and epithelial-lined spaces extending deep into the gallbladder wall. Which of the following best explains the epithelial-lined spaces observed in this specimen?",
+   "choices": [
+    "Invasion of malignant glandular epithelium into the muscular wall",
+    "Metaplastic transformation of gallbladder epithelium into intestinal-type mucosa",
+    "Herniation of gallbladder mucosa into the muscular wall due to increased intraluminal pressure and chronic injury",
+    "Proliferation of endothelial-lined vascular channels within the gallbladder wall",
+    "Accumulation of cholesterol-laden macrophages within the lamina propria"
+   ],
+   "answer": 2,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "Yep, the correct answer is that the Roatansky sinuses happen and they described in the question some good chronic cholecystitis, and then you described and see good Roatansky sinuses, uh, Ashkoff sinuses.",
+     "at": "01:27:49"
+    },
+    {
+     "type": "transcript",
+     "quote": "Um, whereas chronic, because it's chronic, you just get a lot of thickness and fibrotic gallbladder with a lot of muscle hypertrophy, and you get glands that get pushed into the deeper muscle layers, which is what forms the Roatansky-Ashkoff sinuses.",
+     "at": "01:23:59"
+    },
+    {
+     "type": "slide",
+     "slide": 89,
+     "image": "img/gi-w05-lab-pathology/slide_89.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 86,
+     "image": "img/gi-w05-lab-pathology/slide_86.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 88,
+     "image": "img/gi-w05-lab-pathology/slide_88.jpg"
+    }
+   ],
+   "note": "Herniation of gallbladder mucosa into the muscular wall due to increased intraluminal pressure and chronic injury. These outpouchings are Rokitansky-Aschoff sinuses, the hallmark of chronic cholecystitis. Repeated gallstone obstruction raises pressure inside the gallbladder and pushes the mucosa down into the thickened muscle layer. Fibrosis and muscular hypertrophy alongside them complete the picture.\nMalignant glands invading the wall would be gallbladder adenocarcinoma. Rokitansky-Aschoff sinuses can look similar, but they are lined by bland epithelium in a benign clinical setting.\nIntestinal metaplasia can happen in a chronically inflamed gallbladder, but it changes the surface lining. It doesn't create spaces deep in the wall.\nEndothelial-lined vascular channels would be a vascular lesion such as a hemangioma, not epithelial-lined spaces.\nCholesterol-laden macrophages in the lamina propria are cholesterolosis (the \"strawberry gallbladder\"), which affects the mucosa and does not form deep epithelial spaces."
+  }
+ ]
+}

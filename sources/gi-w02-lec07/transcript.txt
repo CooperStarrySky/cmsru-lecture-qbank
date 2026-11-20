@@ -1,0 +1,1030 @@
+[00:00:00] All right, folks, you wanna get started?
+[00:00:03] The lecture.
+[00:00:05] Um, so, uh, just a little bit about the ALGs.
+[00:00:09] This is a big ALG this week, I know.
+[00:00:11] I go through the rooms.
+[00:00:12] Um, I made it to almost every room, but because
+[00:00:15] there's a lot of questions, and that's good.
+[00:00:16] But if I don't, for one reason or another, make
+[00:00:19] it to your room, write down the questions.
+[00:00:20] I promise I'll be there, um, to answer those questions.
+[00:00:25] This lecture really um tacks on nicely to what Doctor
+[00:00:29] Fatari had just lectured about because she gave you a
+[00:00:31] lot of the physiology, and now we're gonna talk about
+[00:00:33] how that makes sense clinically, you know, we are always
+[00:00:35] talking about what the physiology is, what goes wrong, and
+[00:00:39] then some of the medications and how, how we can,
+[00:00:42] what we can do to treat the, the problem that's
+[00:00:44] gone, that's going on.
+[00:00:46] So, We are gonna be talking about biliary disease, and
+[00:00:51] these are our objectives, so we're gonna understand the pathophysiology
+[00:00:55] of gallstones.
+[00:00:56] You did a lot of that in the last lecture.
+[00:00:58] We're gonna discuss gallstone disease in the biliary system, pancreas,
+[00:01:01] and GI tract and what problems it can cause overall.
+[00:01:04] We're gonna be talking about some major disease processes like
+[00:01:07] cholecystitis.
+[00:01:09] Um, and there are acute and chronic versions, and then
+[00:01:12] there's a calculus and a calculus version of cholecystitis.
+[00:01:16] We're also gonna be talking about tumors of the gallbladder
+[00:01:19] that are benign and malignant, and some tumors of the
+[00:01:21] biliary system also benign and and malignant.
+[00:01:25] This is just a general overlide, uh, uh, an overview
+[00:01:28] slide of what we're gonna be talking about.
+[00:01:29] What's checked is the stuff that you're tested on.
+[00:01:33] This, that doesn't mean what you're tested on in this
+[00:01:35] in this class, but it doesn't mean the boards aren't
+[00:01:37] gonna hit on on any part of these, but we
+[00:01:40] go over all of them, but the other one, the
+[00:01:42] ones that are checked are the ones that we're gonna
+[00:01:43] be kind of honing in on a little bit more.
+[00:01:47] So, in general, whenever you're thinking about a disease process,
+[00:01:51] it's always good to think about the physical exam, it
+[00:01:53] can direct you.
+[00:01:54] So, if you have left lower quadrant pain, you're not
+[00:01:57] really thinking of biliary disease, right?
+[00:01:59] That's right upper quadrant pain.
+[00:02:01] Sometimes it can be the, the pain that somebody senses
+[00:02:05] can be referred, and it might not exactly localize, but
+[00:02:08] in general, this is a good way to kind of
+[00:02:10] figure out what area you're gonna target when you start
+[00:02:13] trying to investigate what disease process is going on.
+[00:02:17] So, you will see when you get Doctor Deutsch that
+[00:02:20] lectures on Wednesday and Friday that he goes nuts over
+[00:02:22] liver function tests, that's inappropriately named, it really should be
+[00:02:26] liver enzymes or liver tests, because the function is very
+[00:02:31] different than what, than what it's telling you in the
+[00:02:34] liver panel that you get.
+[00:02:36] The liver that panel that you get gives you, gives
+[00:02:38] you transaminases, AST ALT.
+[00:02:41] It also gives you an alkaline phosphatase, it gives you
+[00:02:43] an albumin.
+[00:02:45] But it doesn't give you, and it gives you a
+[00:02:46] bilirubin, but it doesn't give you the prothrombin time.
+[00:02:48] The function of the liver is more governed with albumin,
+[00:02:52] bilirubin, and prothrombin time.
+[00:02:54] And you see that when we, when, particularly when you're
+[00:02:57] dealing with this ALG which is placed in this week
+[00:03:00] for a purpose.
+[00:03:02] That sometimes the liver enzymes might be kind of normal,
+[00:03:05] but like you might see that the function is not,
+[00:03:07] not normal, and you can see that sometimes in cirrhosis,
+[00:03:09] but when we think about it, the ALT is more
+[00:03:12] liver specific than an AST and AST has can be
+[00:03:17] produced in cardiac muscle, other skeletal muscles, um, kidney and
+[00:03:21] brain.
+[00:03:22] The alkaline phosphatase also is, it has the same sort
+[00:03:26] of concept where it could be liver, bone, placenta.
+[00:03:30] Sometimes when an alkaline phosphatase is elevated, we'll check something
+[00:03:33] that's called a 5 or a 5 prime nucleotitase or
+[00:03:36] a GGT.
+[00:03:38] GGT is the more common of them, but but that
+[00:03:40] that suggests that that the alkaline phosphatase is really liver
+[00:03:44] specific if they're both elevated.
+[00:03:46] If you just have an elevated isolated alkaline phosphatase, it
+[00:03:50] might be from a different source.
+[00:03:52] Common is bone.
+[00:03:54] So, AST ALT are hepatic injury, right?
+[00:03:58] That means the hepatocytes are inflamed, that's where you primarily
+[00:04:01] get, get that inflammation.
+[00:04:03] And a alk phos is more of a cholestatic cholestatic
+[00:04:07] obstructive picture, and that could be cholestatic, or that could
+[00:04:11] be obstructive both at the cellular level or on a
+[00:04:14] more macroscopic level like a stone.
+[00:04:16] So a lot of times medications will cause a cholestatic
+[00:04:19] picture, even though there's no clear obstruction, it's more of
+[00:04:22] an enzymatic obstruction that you can't see, as compared to
+[00:04:26] a stone, which you can see when you do imaging.
+[00:04:30] These are the patterns of liver injury.
+[00:04:32] This will, Doctor Deutsch will talk about this in more
+[00:04:34] detail, but when we're looking at it, if we think
+[00:04:37] a primarily hepatocellular problem, that means the transaminases, the AST
+[00:04:42] and ALT are elevated.
+[00:04:44] That's inflammation of hepatocytes as compared to something like when
+[00:04:48] the alk phos and also bilirubin, but when the alkaline
+[00:04:51] phosphatase is elevated, that suggests a more obstructive picture either
+[00:04:55] at the microscopic level or on the macroscopic level.
+[00:04:58] But you will see these patterns, and these patterns really
+[00:05:02] suggest to you what's going on, meaning if I see
+[00:05:04] elevated AST and ALT well beyond the alkaline phosphatase, I'm
+[00:05:09] much more likely thinking apatocellular injury.
+[00:05:12] As conversely, if I see the alk phos is really
+[00:05:15] high, I'm thinking more of an obstructive pattern.
+[00:05:17] So it tells you maybe what kind of test you
+[00:05:19] might order.
+[00:05:22] So, if we're thinking about the disease process, This is
+[00:05:27] the picture of the liver, right, and the right intrahepaticx,
+[00:05:30] left intrahepatic draining down to the common hepatic duct, and
+[00:05:34] the common bile duct, and this is where the two
+[00:05:37] ducts join, that's the, the, uh, the ampula, and then
+[00:05:42] this is the cystic duct which leads to the gallbladder.
+[00:05:44] So, if I give you a liver pattern, you might
+[00:05:48] be able to tell me, particularly if it's an obstructive
+[00:05:51] process, where the stone is obstructed.
+[00:05:53] And it has to go with some of the physiology
+[00:05:56] of, of bioproduction, what a lot of what uh Doctor
+[00:06:00] Fatari was talking about last lecture.
+[00:06:02] In terms of is it conjugated or unconjugated?
+[00:06:06] Or is it, um, is, is the alkaline phosphatase really
+[00:06:12] elevated along with the bilirubin, or not?
+[00:06:14] Or if you see urine breakdown products, because remember, a
+[00:06:17] conjugated bilirubin will be is solubilized, right?
+[00:06:21] So it gets absorbed into the bloodstream, and it gets
+[00:06:24] partially excreted by the urine, right, cause the urine, it's
+[00:06:27] yellowish color, and also within the stool that the the
+[00:06:29] brown color.
+[00:06:31] But sometimes you might see where you, you have a
+[00:06:33] paucity, meaning the urine looks looks, uh, really, really dark,
+[00:06:39] or the stool looks really light, right, because, because the
+[00:06:43] bile is not going to the stool, but it's being
+[00:06:45] processed through the kidneys, right?
+[00:06:48] More of an obstructive process.
+[00:06:49] So kind of keep that in mind when we're talking
+[00:06:51] about bile, conjugated, unconjugated, and when we start talking about
+[00:06:56] obstructive processes.
+[00:07:00] So, you know these terms, cholithiasis is stones where?
+[00:07:05] In the gallbladder.
+[00:07:06] Thank you.
+[00:07:07] Billy Eric Kli So it's basically gallbladder pain.
+[00:07:11] Well, what is it?
+[00:07:12] What's its definition?
+[00:07:13] When do people get it, or how long does it
+[00:07:15] last, or?
+[00:07:18] So, it's a term we haven't, we haven't come to
+[00:07:21] yet, but Billy or colic is intermittent.
+[00:07:23] And it usually happens after eating, particularly a fatty meal
+[00:07:28] is one of the things that you might might see,
+[00:07:29] but it can be any meal, and it's usually anywhere
+[00:07:32] from a few minutes to up to about 6 hours.
+[00:07:34] When it's progressing beyond 6 hours, you start to think
+[00:07:37] of a more obstructive pattern.
+[00:07:39] You typically will see biliary colic in people that have
+[00:07:41] stones or sludge.
+[00:07:42] After they eat, CCK squeak, you know, tells the gallbladder
+[00:07:46] to squeeze, but might be a squeezing against an obstruction
+[00:07:49] like a stone.
+[00:07:50] What is acute cholecystitis?
+[00:07:56] Inflammation of the gallbladder and ultimately infection.
+[00:08:01] How about cholidocholithiasis?
+[00:08:04] Stones in the dock.
+[00:08:05] Thank you.
+[00:08:06] And what about acute cholangitis?
+[00:08:10] Inflammation and ultimately infection, where?
+[00:08:16] Um, well, that's acute cholecystitis, so cholangitis is really of
+[00:08:21] the biliary system, right?
+[00:08:23] And that's, uh, that's, that's a, a problem, but usually
+[00:08:28] gallblocks, gallbladder ducts, and then gallstone pancreatitis.
+[00:08:34] So that's inflammation of the pancreas from a gallstone.
+[00:08:38] And think about that for a second.
+[00:08:42] I'm gonna go back.
+[00:08:43] That is a stone obstructed where?
+[00:08:47] If you have a gallstone stone pancreatitis, what are the
+[00:08:49] liver, what do the liver enzymes look like?
+[00:08:54] They're elevated.
+[00:08:56] Because you're obstructed here.
+[00:08:59] So a stone would be here, it's obstructing both the
+[00:09:01] pancreatic duct and the bile duct.
+[00:09:03] So those people will get elevated liver enzymes in more
+[00:09:06] obstructive pattern, and also an elevated, we'll talk about it
+[00:09:10] the next time when we talk about pancreatitis, also some
+[00:09:12] of the pancreatic enzymes like a like a lipase.
+[00:09:14] So when whenever somebody comes in the hospital and I
+[00:09:16] see an elevated lipase, and I don't see gallstones, but
+[00:09:19] I see elevated liver enzymes, I'm thinking a stone came
+[00:09:23] down and caused pancreatitis, and maybe it passed.
+[00:09:27] So once again, that's where the anatomy.
+[00:09:30] And the labs really make you start to think, what
+[00:09:33] tests am I gonna order in that in that regard.
+[00:09:36] OK, so gallstones are exceedingly common.
+[00:09:39] 10% of the population, they're more common in women than
+[00:09:41] men.
+[00:09:42] They're more common in Pima Indian females.
+[00:09:45] This is just, uh, something that we see.
+[00:09:47] 2/3 of them are asymptomatic.
+[00:09:49] The yearly risk of biliary pain, biliary colic, anywhere from
+[00:09:52] 1 to 4%.
+[00:09:54] There's actually a risk of developing a gallbladder cancer with
+[00:09:58] gallstones, because those gallstones will cause some chronic inflammation in
+[00:10:01] the gallbladder, and therefore, inflammation anywhere in the body can,
+[00:10:05] not always, but can lead to something like cancers.
+[00:10:08] But we don't take out everybody's gallbladder that has gallstones,
+[00:10:12] and the reason for that is that the risk of
+[00:10:14] surgery is actually higher than the risk of developing a
+[00:10:16] cancer.
+[00:10:18] We do a lot of cholecystectomies, about 500,000 per year
+[00:10:21] in the US.
+[00:10:23] And when we're thinking about gallstones in particular, it's really
+[00:10:27] these factors, right?
+[00:10:28] So it's, it's elevated cholesterol, or, or bilirubin uh supersaturation.
+[00:10:35] So one of those, or it's gallbladder motility, is the
+[00:10:39] gallbladder contracting, or do you have a lot of stasis
+[00:10:41] that, you know, when, when you mix stuff around, it's
+[00:10:44] more likely to solubilize?
+[00:10:45] Well, if the gallbladder is not moving a whole lot,
+[00:10:47] then, then stuff starts to precipitate out.
+[00:10:50] And then there's these pro-nucleating factors, um, whether or not
+[00:10:53] you have that extra calcium or or leheins or whatever
+[00:10:56] is in the in the in the bile that is
+[00:11:00] more likely to cause precipitation.
+[00:11:02] Calcium is a big one.
+[00:11:04] And when we think about stones, it's like a continuum,
+[00:11:07] right?
+[00:11:07] It's anywhere from where you just have normal bile, where
+[00:11:11] you have the mice cells, these uh vesicles, but then
+[00:11:15] as stuff just starts to precipitate out, we think you
+[00:11:18] get the biliary sludge and then down to to gallstones.
+[00:11:22] And uh so it's on a continuum.
+[00:11:25] Somebody can have sludge.
+[00:11:26] If you really sit around for a long period of
+[00:11:28] time, you're likely gonna develop sludge.
+[00:11:30] If you're laying in a hospital bed for a long
+[00:11:31] time, oftentimes patients will develop sludge, and it's kind of
+[00:11:35] a precursor, and sludge, by the way, can do what
+[00:11:37] stones do.
+[00:11:37] It's not as significant, but there are are crystals, there's
+[00:11:41] some there's some solid uh material in that, which can,
+[00:11:44] which can cause obstruction.
+[00:11:48] There are several different types of gallstones, which is the
+[00:11:51] most common in the United States?
+[00:11:54] Cholesterol.
+[00:11:55] Brown, uh, pigment stones and black pigment stones do occur,
+[00:11:59] they occur for different reasons.
+[00:12:00] We're gonna talk about some of the disease process where
+[00:12:02] they might occur, but, um, they, they're named basically on
+[00:12:06] what their, what their color is, and this has elevated
+[00:12:09] cholesterol as compared to this, which has an increasing amount
+[00:12:12] of of of bilirubin.
+[00:12:15] And then this has the most bilirubin, right?
+[00:12:17] So, when we think of brownstones, um, and, and black
+[00:12:21] stones, it really, it has to do with where you're
+[00:12:24] getting excess loads of, of bilirubin, which is, uh, precipitating
+[00:12:29] out, oftentimes from calcium, um, where we'll make these, there's
+[00:12:33] certain disease processes like, um, This typically comes from uh
+[00:12:39] brown pigmented stones and uh black pigmented stones with infection,
+[00:12:44] but also where you have an excess of bilirubin load,
+[00:12:47] like in somebody like that has a lot of hemolysis,
+[00:12:49] so there's a lot of of bilirubin breakdown products, and
+[00:12:52] cirrhotic patients can get this.
+[00:12:55] Let's talk about these two.
+[00:12:57] Well, this is a slide that kind of says the,
+[00:12:59] the similar, a similar concept of the previous slide, but
+[00:13:03] if you notice that the cholesterol is higher in this,
+[00:13:07] but then bilirubin starts to take over, and that's why
+[00:13:09] the stone darkens.
+[00:13:11] Uh, and once again, these two are really excess bilirubin,
+[00:13:16] this is excess cholesterol for different reasons.
+[00:13:18] Uh, oftentimes with infections, there are these, uh, these, um.
+[00:13:24] Bacteria like Doctor Fattari mentioned mentioned the last, last lecture,
+[00:13:28] which can deconjugate, so make an unconjugated bilirubin again, which
+[00:13:31] once again is not as soluble, cause it's not a
+[00:13:34] bile acid, right, so it will precipitate out more likely.
+[00:13:40] So, these occur more in the east, more in rural
+[00:13:44] areas.
+[00:13:45] I mentioned contamination of the biliary tract, where the bacteria
+[00:13:49] will break it down from a conjugated to a deconjugated,
+[00:13:52] also unconjugated, you think about it the same way.
+[00:13:55] Hemolytic syn uh syndromes, right?
+[00:13:57] What do hemolytic syndromes do?
+[00:14:02] You're right, it's breaking, so red cells aren't surviving as
+[00:14:04] well, so there's more bilirubin in the blood, uh, that,
+[00:14:08] that has to be dealt with, and cirrhotic patients, so
+[00:14:10] we'll talk about, talk about them a little bit, but
+[00:14:13] they're in a kind of a constant state of homolysis,
+[00:14:15] that's one of the mechanisms, so they have excess bilirubin.
+[00:14:20] So, once again, infection of the biliary tree and the
+[00:14:22] release of uh of microbial beta glucuronidase, which causes the
+[00:14:26] hydrolysis of the conjugated to make an unconjugated.
+[00:14:29] I, I use the word deconjugated in there, deconjugated and
+[00:14:33] unconjugated, they're both unconjugated bilirubins.
+[00:14:35] The deconjugated just suggests that it was once conjugated before,
+[00:14:38] and now it's deconjugated, but it's unconjugated, right?
+[00:14:41] And there's different infections, E.
+[00:14:43] coli, lumbroides.
+[00:14:45] Of storks, these are things that sometimes you'll see, not
+[00:14:48] super common here.
+[00:14:50] Moving down to black stones, really intravascular hemolysis, you have
+[00:14:55] an increased amount of of bilirubin, particularly conjugated bilirubin, and
+[00:15:00] then you have this deconjugation that occurs in the biliary
+[00:15:03] tree from the same from from the uh the beta
+[00:15:06] glucuronidase, which will deconjugate it.
+[00:15:09] So these have an increased amount of unconjugated or deconjugated
+[00:15:12] bilirubin.
+[00:15:16] Switch to cholesterol zones, very common in the United States
+[00:15:20] and industrialized countries with advancing age.
+[00:15:23] Uh, uh, women tend to get it more because of,
+[00:15:26] because of, uh, hyper hypercholesterol, hypercholesterolemia or cholesterol hypersecretion.
+[00:15:32] Gallbladder stasis, right?
+[00:15:34] You don't have CCK for one reason, you're not eating,
+[00:15:37] CCK is not, not contracting the gallbladder, so you're just
+[00:15:39] kind of sitting there.
+[00:15:41] Uh, obesity or rapid weight loss, increased biliary, uh, cholesterol
+[00:15:46] secretion, and then there's also some of these inborn errors
+[00:15:50] of metabolism with impaired bowel salt secretion and synthesis or
+[00:15:53] hyperlipidemia syndrome.
+[00:15:55] So all of these things really portend in excess cholesterol.
+[00:16:00] Additionally, pregnancy.
+[00:16:02] So estrogen does estrogen and progesterone both do a lot
+[00:16:04] of stuff.
+[00:16:05] Progesterone has to do with decreased motility of the gallbladder.
+[00:16:09] Estrogen where you have increased expression of uh hepatic lip
+[00:16:12] lipoprotein receptors, so you have more cholesterol in the blood
+[00:16:17] and cholesterol that's being secreted into bile.
+[00:16:21] So you, so basically cause your your body's trying to
+[00:16:23] get rid of it, and that's what a primary component
+[00:16:25] of bile ends up being, and that hypercholesterol.
+[00:16:29] Or that that cholesterol, excess cholesterol is kind of a
+[00:16:31] nitis where where things will start to crystallize and form
+[00:16:34] into stones.
+[00:16:37] And in fact, when you look at some of the
+[00:16:39] studies for pregnancy, you see that the formation of biliary
+[00:16:41] sludge is very common in pregnant patients, higher than patients
+[00:16:44] that are just walking the street.
+[00:16:47] Um, and occurs in about 2 to 32 to 3%
+[00:16:51] of pregnant females will develop de novo gallstones.
+[00:16:55] Um, and if you also tack on, uh, obesity or,
+[00:17:01] or hyperglycemia, you're talking about different metabolism of cholesterol, so
+[00:17:07] it's a kind of a double hit.
+[00:17:09] They get a lot of biliary pain, so they'll get
+[00:17:11] a lot of biliary colic.
+[00:17:12] It's often incumbent on us when we get the consult
+[00:17:15] of we have a pregnant patient with gallstones and biliary
+[00:17:18] pain, what do we do?
+[00:17:19] Right?
+[00:17:20] Do we go in and try to get it out,
+[00:17:21] meaning, do we do surgery and take the gallbladder out,
+[00:17:23] or do we just try to ride them through pregnancy?
+[00:17:27] You obviously don't want to be doing you don't wanna
+[00:17:29] be doing surgery, or if there's a stone stuck in
+[00:17:32] the duct, a procedure where we go in the ERCP
+[00:17:34] and pull out that stone.
+[00:17:36] Um, and a lot of after pregnancy, a lot of
+[00:17:39] the de novo sludge and stones will resolve, as you
+[00:17:42] can see.
+[00:17:46] So once again, cholesterol supersaturation in the bile, that's problematic,
+[00:17:51] too much cholesterol, not enough bile salt or lepsin.
+[00:17:54] Excess cholesterol is kept in vesicles, and the vesicles aggregate
+[00:17:58] to make crystals, and, you know, the gallbladder absorbs a
+[00:18:02] lot of water, and that will enhance the the decrease
+[00:18:05] the solubility, so enhanced crystal formulation.
+[00:18:10] I mentioned that there are some genetic differences.
+[00:18:12] There's a whole set that I only had one about
+[00:18:15] these ABC cassette proteins.
+[00:18:17] They have to do with cholesterol metabolism and how we
+[00:18:21] excrete it into bile.
+[00:18:23] Uh, there's a bunch of genomic studies.
+[00:18:24] These aren't tests that we do on, on general run
+[00:18:27] of the mill patients, they have stones or not, but,
+[00:18:29] but we do notice a certain population that is a
+[00:18:31] genetic risk of of developing gallstones, and it has to
+[00:18:35] do with these ABC cassette transporter systems.
+[00:18:38] This one deals with cholesterol, uh, is a cholesterol transporter.
+[00:18:41] This one has to do with bile transportation, and this
+[00:18:44] one has to do with phosphodytylcholine.
+[00:18:46] So, any of these dysregulation of them increases the risk
+[00:18:49] of you having gallstones.
+[00:18:53] In general, when we think about it, these are the
+[00:18:55] main risk factors, age, female, number of times you've you've
+[00:18:59] been pregnant, obesity, rapid weight loss, and medications, you always
+[00:19:03] have to think about these, uh, in terms of, in
+[00:19:05] terms of why the stone is being formed.
+[00:19:08] So, What, what other risk factors are there and why?
+[00:19:15] So let's go through them, hyperlipidemia, that's an easy one.
+[00:19:19] Excess cholesterol, circulated cholesterol.
+[00:19:21] Diabetes.
+[00:19:25] What's the mechanism?
+[00:19:32] Don't look at the, don't look at me.
+[00:19:35] Higher cholesterol, you have cholesterol, uh, this metabolism, or you,
+[00:19:39] you, you don't metabolize right.
+[00:19:41] Oftentimes diabetes and hypercholesterolemia go together.
+[00:19:44] One of the other things that diabetes does is it's
+[00:19:46] is that it can slow your motility.
+[00:19:48] We learned about gastroparesis, it can slow everything down in
+[00:19:51] the GI tract, including gallbladder contractility.
+[00:19:54] Chronic liver disease, I mentioned this one, and when I
+[00:19:57] say chronic liver disease, I should put slash cirrhosis.
+[00:20:01] Why do these patients Not do well.
+[00:20:05] Or why do they why do they form more, more
+[00:20:08] stones?
+[00:20:13] Come on, just throw it out there.
+[00:20:14] You can't be wrong, it doesn't matter.
+[00:20:16] Just say cholesterol.
+[00:20:18] Cholesterol, that's a good one.
+[00:20:19] Yes.
+[00:20:20] Cholesterol, that's a good one.
+[00:20:23] what else?
+[00:20:24] They, they have a, they, they don't metabolize cholesterol the
+[00:20:27] same way.
+[00:20:27] What else in cirrhotic patients?
+[00:20:30] I mentioned that they're in a chronic state of homolysis.
+[00:20:33] They basically have an increased risk of, of um a
+[00:20:37] breakdown of red cells, so they have an excessive uh
+[00:20:41] uh bilirubin load, right?
+[00:20:43] So these patients, and you see that oftentimes when you
+[00:20:46] look at the labs that they have, they have oftentimes
+[00:20:48] a slightly elevated unconjugated or um unconjugated bilirubin, right?
+[00:20:55] They still can get elevations in all, uh, particularly when
+[00:20:58] the liver is not working, but that's another reason.
+[00:21:00] And I mentioned cholesterol metabolism, it has to do with
+[00:21:03] estrogen production.
+[00:21:05] Um, there's like a peripheral conversion of, of estrogen in
+[00:21:09] patients with cirrhotic, one of the reasons why they get
+[00:21:11] gynecomastia, and telangiectasia, this is brought up in one of
+[00:21:14] the ALGs, um, but, but this is, this is another
+[00:21:18] reason we just talked about how estrogen can do it.
+[00:21:21] Um, they also don't, they don't contract well, like cirrhotic
+[00:21:24] patients have everything.
+[00:21:25] So all three of the mechanisms cirrhotic patients have, and
+[00:21:28] cholesterol or they can get, uh, brownstones or, or pigmented
+[00:21:32] or, or brownstones.
+[00:21:34] Uh, what about TPN, total parental nutrition?
+[00:21:37] Basically what that is, is IV feeding you.
+[00:21:41] So why do those patients get, get, um, stones?
+[00:21:45] What's that?
+[00:21:47] We're not releasing the bile, right?
+[00:21:48] There's nothing to tell the body to, to, to tell
+[00:21:51] CCK to contract the gallbladder, so it's just sitting in
+[00:21:53] there.
+[00:21:54] Rapid weight loss has to do with Elevated cholesterol, you
+[00:22:01] have, you all of a sudden have an an increased
+[00:22:03] amount of circulating cholesterol that the liver has to process.
+[00:22:06] How about ileal Crohn's disease?
+[00:22:11] Reabsorption of bile acids, right?
+[00:22:12] So you're not reabsorbing some of the bile acids, so,
+[00:22:16] um, you know, the, the liver basically can't keep up
+[00:22:19] with that.
+[00:22:20] There's also another mechanism too, EL Crohn's disease, we oftentimes,
+[00:22:24] once again, we talked about those, uh, those bacterial, that
+[00:22:28] bacterial deconjugation.
+[00:22:31] Right, so bacterial deconjugation, there tends to be some dysbiosis
+[00:22:34] in patients with, with Crohn's, Crohn's ileitis in particular, so
+[00:22:38] they get that dysbiosis, then you're creating more of the
+[00:22:41] deconjugated, which is the, the insolubilized form, uh, that can
+[00:22:47] get absorbed in the colon, and then they have an
+[00:22:48] excess load of, of bilirubin once again, so they, they
+[00:22:52] can get both cholesterol stones as well as, um, as
+[00:22:56] pigmented stones.
+[00:22:57] And there's also different medications like ceftriaxone has to do
+[00:23:00] with these, these medications in particular will cause an elevated
+[00:23:04] or, or more likely to develop stones, but ceftriaxone causes
+[00:23:08] a calcium excretion in the bile, calcium sanitis for formulation
+[00:23:12] of, of stones.
+[00:23:13] Octreotide, octreotide is, what is the what is the generic
+[00:23:18] name of octreotide?
+[00:23:20] It's somatostatin basically.
+[00:23:23] So somatostatin, no CCK, uh, fibrates, not a common, but
+[00:23:29] a used, uh, medication for hypercholesterolemia creates excess calcium, I'm
+[00:23:34] sorry, uh, cholesterol excretion into the bile.
+[00:23:37] Right?
+[00:23:37] So there's all different mechan mechanisms of that.
+[00:23:39] This question is the exact same thing, which is, Uh,
+[00:23:43] patient presents with cholithiasis.
+[00:23:44] She gets right upper quadrant after she eats her favorite
+[00:23:46] food.
+[00:23:46] French fries, love french fries.
+[00:23:49] Particularly McDonald's french fries, which I don't eat very often,
+[00:23:52] but they're really good.
+[00:23:54] But french fries, so what's a risk or a risk
+[00:23:57] factor for developing gallstones and why we went over most
+[00:23:59] of these.
+[00:24:00] Crohn's ileitis, we just talked about, ruin why gastric bypass
+[00:24:03] surgery, they lose weight rapidly, excess circulating cholesterol, pregnancy, we
+[00:24:09] talked about both estrogen and progesterone, a hemolytic anemia.
+[00:24:13] Right, hemolytic anemia is where you have extra uh bilirubin
+[00:24:17] circulating around, obesity from cholesterol, somatostatin analogs, right, you don't
+[00:24:22] get motility, so really all of the above.
+[00:24:28] Uh, most of the patients with stones are asymptomatic, but
+[00:24:32] they can present with kind of a biliary pain, um,
+[00:24:35] which can be excruciating and it can be constant, or
+[00:24:38] it can be colicky, and that's usually what happens.
+[00:24:40] So biliary colic, you get this intermittent pain usually lasting
+[00:24:43] less than 6 hours, more than 6 hours, you start
+[00:24:46] thinking of cholecystitis.
+[00:24:48] So, cholecystitis, so inflammation of the gallbladder, cholangitis, inflammation of
+[00:24:55] Of the biliary tree, inflammation and infection, inflammation and infection,
+[00:24:59] and pancreatitis, where you basically have a stone that's stuck
+[00:25:03] right at the, the confluence of the common bile duct
+[00:25:07] and the pancreatic duct, causing elevations both of pancreatic enzymes
+[00:25:10] like an amylase lipase and liver enzymes like AST ALT
+[00:25:14] and an alkaline phosphatase.
+[00:25:16] You can also get stuff, you could have, it can
+[00:25:18] form a fistula, you can get emyema, which is basically
+[00:25:21] a collection of infection.
+[00:25:23] Uh, you can get an obstructive cholestasis, you can get
+[00:25:25] a perforation, you can get this, this kind of, oh,
+[00:25:29] I'll go back there, this unique area where something where
+[00:25:33] a stone will erode through the biliary tree into the
+[00:25:37] small bowel and go all the way down to the
+[00:25:40] ileocecal valve, the next major area of obstruction, and obstructed,
+[00:25:43] that's called a gallstone ileus, not super common.
+[00:25:47] Uh, increased risk of cancer, we already mentioned that from,
+[00:25:50] from chronic inflammation from gallstones.
+[00:25:53] You can diagnose it with an X-ray.
+[00:25:55] X-rays are not great for it.
+[00:25:58] For gallstones, you really, this is a rare scenario where
+[00:26:01] you have, you see them here in the gallbladder and
+[00:26:04] here in the kidney, and uh so it's rare to
+[00:26:07] see them both, but the common scenario with both of
+[00:26:09] them is that there's increased amount of calcium, which this
+[00:26:11] X-ray will pick up.
+[00:26:13] So an abdominal X-ray doesn't pick them up too much,
+[00:26:15] why?
+[00:26:16] Because most of them are cholesterol, but it's there's still
+[00:26:18] some calcium and it could pick them up, but not
+[00:26:20] the test that you would order to look for gallstones.
+[00:26:24] One of the best tests is an ultrasound, because an
+[00:26:27] ultrasound is really good at looking at internal luminal disease.
+[00:26:31] So, This is the gallbladder here.
+[00:26:34] This is a stone, and you get the shadowing effect.
+[00:26:38] So you can detect gallstones, about 95% of the time,
+[00:26:41] you can detect stones in the ducts of the gallbladder,
+[00:26:45] pretty good.
+[00:26:47] So stones in the duct of the gallbladder are better
+[00:26:49] with an ultrasound than they are with a CT.
+[00:26:51] CT is better looking at the at the actual organ.
+[00:26:55] But uh, but an ultrasound kind of looks at the
+[00:26:57] lumen of that organ much better.
+[00:26:59] It can also detect other things like if the gallbladder
+[00:27:01] is distended, or there's, uh, there's, uh, the gallbladder wall
+[00:27:06] thick, so anything above 3 millimeters, you don't have to
+[00:27:08] know that.
+[00:27:08] But if the gallbladder walls thick, and a Murphy's sign,
+[00:27:10] an endoscopy, I mean an ultrasonic Murphy's sign is where
+[00:27:13] they push down with the with the probe, and they
+[00:27:16] tell somebody to breathe, and they have, they have pain
+[00:27:18] when somebody breathes in because the diaphragm pushes down and
+[00:27:20] pushes the gallbladder into the probe, or your fingertips, whichever
+[00:27:23] one you're using.
+[00:27:25] And there's a whole other stuff, EUS is endoscopic ultrasound,
+[00:27:29] so it depends on who's doing it and how well
+[00:27:31] they do it, but it's pretty good for CBD stones.
+[00:27:35] You can do a CCK HIDA scan, right?
+[00:27:38] So basically HIDA is like, it mimics bile, so you
+[00:27:41] inject HIDA into the patient, and it gets traced down,
+[00:27:46] it follows what bile would do, and it gets traced
+[00:27:48] down into the into the gallbladder, into the liver processed,
+[00:27:51] and then the liver would excrete it into the gallbladder.
+[00:27:55] Um, the CCK would then give you the contraction component
+[00:27:59] of the gallbladder.
+[00:28:00] Yes, question.
+[00:28:02] It's not bile, it's ya, it's a nuclear, it's a
+[00:28:05] nuclear medicine that kind of mimics what bile does.
+[00:28:08] So that's, that's all it is.
+[00:28:09] It's not actual bile that you, you put into a
+[00:28:10] patient.
+[00:28:11] I.
+[00:28:13] Mhm.
+[00:28:13] It's IV injection into a patient, and that's what you
+[00:28:16] can see, so this is, it's good for, for kind
+[00:28:18] of detecting if there's an obstruction.
+[00:28:20] We use this, we use a Hyo skin, particularly when
+[00:28:23] we're looking to diagnose acute cholecystitis, because if the liver
+[00:28:27] excretes it, but the gallbladder doesn't take it up, you
+[00:28:31] make the assumption that the gallbladder is obstructed with a
+[00:28:33] stone, or edema or inflammation, so that's a positive HIDA
+[00:28:38] scan and would suggest somebody has an acute cholecystitis.
+[00:28:41] CT scan, like I said, it's good for complications, but
+[00:28:45] it's not good for stones in the duct.
+[00:28:46] You saw the one that Doctor Fatari showed, but, you
+[00:28:49] know, you, you saw a stone that was a big
+[00:28:52] stone, but a CT scan is not great for smaller
+[00:28:54] stones.
+[00:28:55] An MRCCP is like uh is like an MRI.
+[00:28:59] But the way they look at the images, that it's
+[00:29:01] really good, it's like an ultrasound, but it's even better
+[00:29:04] at sensing whether or not there's stones in the duct,
+[00:29:06] or how dilated that duct is, or an ERCP, an
+[00:29:10] endoscopic retrograde changiopancreatography, where we go in with a camera
+[00:29:14] and then we go up.
+[00:29:15] The bile duct with the camera, and you can inject
+[00:29:17] dye, you can go in and remove stones.
+[00:29:19] So these are all different ways you could do it.
+[00:29:21] And if you see here, down here, these are, these
+[00:29:23] are stones in here.
+[00:29:24] This is the camera going down, you can't see it.
+[00:29:26] There's a wire coming back up, and they basically will
+[00:29:28] put that wire up and pluck the stones up.
+[00:29:34] So Most of them are asymptomatic.
+[00:29:37] We don't do prophylactic cholecystectomy in cer except in certain
+[00:29:40] populations which are at very high risk.
+[00:29:42] What about dissolution therapy?
+[00:29:44] So, ursodeoxycholic acid is, is something, um, it's basically bile.
+[00:29:49] It's a medication that's like bile, and basically what it
+[00:29:52] does is it helps reabsorb that extra cholesterol, and it
+[00:29:56] helps shrink stones.
+[00:29:57] It's not perfect.
+[00:29:59] You can go in, like I said, with an ERCP
+[00:30:01] and take them out, or you can do you can
+[00:30:03] you can go in and do an ERCP and put
+[00:30:05] lithotripsy in there to break up the stones and have
+[00:30:08] them come out easier.
+[00:30:09] So there's different ways that we can do that.
+[00:30:12] So all of that is gallbladder, um, stones, biliary disease
+[00:30:18] in that regard.
+[00:30:19] Um, questions on that part.
+[00:30:24] All right, let's move to uh cholecystitis, so acute, and
+[00:30:29] we'll get to chronic too.
+[00:30:31] But acute cholecystitis, there's two types.
+[00:30:33] There's calculus and acalculus, so calculus has a stone, and
+[00:30:38] acalculus does not.
+[00:30:40] Calculus typically is a sudden onset, and acalculus is kind
+[00:30:42] of uh more insidious, but the findings are all the
+[00:30:47] same, are kind of similar, right?
+[00:30:48] Right upper quadrant, sometimes some epigastric pain located in the
+[00:30:51] upper abdomen, usually up to the right.
+[00:30:53] Mild fever, anorexia, tachycardia, sweating, nausea, vomiting, Murphy's sign.
+[00:30:57] When you have somebody that looks pretty acutely ill, your
+[00:31:01] physical exam points you that way, cholecystitis is a good
+[00:31:04] thing to think about.
+[00:31:07] So, calculous cholecystitis, it's the primary complication of having gallstones,
+[00:31:12] and it's the most, most common reason for an emerging
+[00:31:14] cholecystectomy.
+[00:31:16] And basically what could happen is this gallstone basically gets
+[00:31:19] caught here in the neck or in the cystic duct,
+[00:31:23] and basically it causes an obstruction.
+[00:31:27] When you look at it, when you go in and
+[00:31:29] do surgery, you get to that point, the gallbladder is
+[00:31:31] enlarged, tense, it also has these necrotic features, right?
+[00:31:35] It just doesn't look pink and healthy.
+[00:31:37] Um, sometimes you can open a patient up and see
+[00:31:41] Frank Puss in there and Payima.
+[00:31:43] These people are pretty sick, the gallbladder needs to come
+[00:31:45] out or they don't do well.
+[00:31:46] People can die if you don't take it out.
+[00:31:48] Fortunately, you have a little time, I mean, they don't
+[00:31:50] die in in minutes, but Um, but you do have
+[00:31:53] to go and take the gallbladder out.
+[00:31:54] Sometimes they can actually do a percutaneous procedure where if
+[00:31:57] somebody's too sick to undergo surgery, they can go in
+[00:32:00] and transcutaneously place a tube right into the gallbladder to
+[00:32:03] help it drain, along with antibiotics, but ultimately that gallbladder
+[00:32:07] needs to come out.
+[00:32:09] What about acalculus?
+[00:32:11] So there's no stone.
+[00:32:12] Well why do you get uh a cholecystitis without stone?
+[00:32:16] These patients are usually really sick and have other stuff
+[00:32:19] going on.
+[00:32:20] A lot of times they're either post-operative or severe trauma,
+[00:32:23] or burns, multi-organ failure, sepsis.
+[00:32:26] These are patients that are oftentimes in the intensive care
+[00:32:28] unit, where they have prolonged Hyper alimentation, which is IVTPN,
+[00:32:34] you know, you're feeding somebody through, through the, your, your
+[00:32:37] vasculature, so they don't have the stimulation to have the
+[00:32:40] gallbladder contract.
+[00:32:42] So, These patients, they, they're typically severely ill.
+[00:32:46] They oftentimes can't talk to you, but sometimes you'll just
+[00:32:49] see elevating liver enzyme, you're not, you're not quite sure.
+[00:32:52] Maybe you check a HIDA scan, and you see.
+[00:32:54] The difference is that they don't have stones, and the
+[00:32:57] pathophysiology is a little bit different, but basically, it's resulting
+[00:33:02] primarily from ischemia.
+[00:33:04] And also their immune system is a little compromised because
+[00:33:06] they're already sick.
+[00:33:07] Otherwise, their body is spending a ton of energy fighting
+[00:33:10] off whatever else that might have brought them into the
+[00:33:12] intensive care unit, but they get dehydrated, you get blood
+[00:33:15] transfusions, you'll get increased pigment load of bilirubin, hyperallimentation, so
+[00:33:20] they get stasis because their gallbladder is not contracting, nothing
+[00:33:23] to tell it to contract.
+[00:33:25] And then they're laying around, which is also stasis, so
+[00:33:28] these, these crystals start to, to, um, desolubilize, so they,
+[00:33:33] they start to precipitate, and then you get inflammation, compromised
+[00:33:36] blood flow, and then ultimately bacteria get in there.
+[00:33:38] So, you have to take the gallbladder and and on
+[00:33:40] these patients.
+[00:33:41] It's a little bit more of a challenging diagnosis.
+[00:33:42] The key is, there's no stone in here to cause
+[00:33:44] it, it's more ischemic and infectious.
+[00:33:48] When you get acute cholecystitis.
+[00:33:50] Well, you're really looking at antibiotics that are gonna come
+[00:33:53] gram-negative and anaerobes, there can be some gram-posits, but primarily
+[00:33:58] uh gram-negatives and anaerobes.
+[00:34:01] So that's what you, that's what we typically will think
+[00:34:03] about, that's what our antibiotics will, will generally cover.
+[00:34:09] We know that you have to take the gallbla bladder
+[00:34:11] out sooner.
+[00:34:12] So, if I have somebody with acute cholecystitis, or somebody
+[00:34:16] with, let's say like a gallstone pancreatitis, you want them
+[00:34:20] to take the gallbladder out soon.
+[00:34:22] You don't, you don't, particularly with something like cholecystitis, cause
+[00:34:24] these people don't do well, they're sick, and because their
+[00:34:27] gallbladder is infected and ischemic, and it's just gonna get
+[00:34:31] worse.
+[00:34:31] So we really want them to, to take it out
+[00:34:33] during that hospital admission.
+[00:34:35] We do laparoscopic, much more than open cholecystectomy.
+[00:34:39] Sometimes you have to do a big incision, but it's
+[00:34:41] less pain, shorter hospital stays, and like I said, you
+[00:34:44] can sometimes do a, a, a percutaneous cholecystostomy, that's the
+[00:34:48] tube that goes through the skin that goes into the
+[00:34:50] gallbladder to help drain it if they're really, really sick
+[00:34:53] and you're just trying to bridge them to, to improving
+[00:34:56] in care before you take the gallbladder out.
+[00:35:00] So this is different than chronic cholecystitis, and once again
+[00:35:04] in chronic, there's calculus and acalculus.
+[00:35:07] So, the, the difference between acute and chronic is primarily
+[00:35:10] the timing and the severity of illness, but almost always
+[00:35:13] it's associated with, with cholithiasis, like I said, calculus and
+[00:35:18] acalculus, gram-negatives, some gram-posits, but primarily gram-negatives and anaerobes, uh.
+[00:35:24] They're similar to the acute form, but because it's more
+[00:35:27] chronic, they'll get some more chronic changes in the gallbladder,
+[00:35:31] like subserosal fibrosis and a thickened wall.
+[00:35:35] They will get these um uh Rootansky Ashkov sinuses.
+[00:35:39] Basically what these are, are protrusions into the muscular wall.
+[00:35:43] There's a lot of hyperplasia and hypertrophy of the muscular
+[00:35:46] wall.
+[00:35:47] Um, there's uh uh something that you'll address later, which
+[00:35:50] is uh adenomyomatosis, or, uh, and basically what that is,
+[00:35:55] is, is.
+[00:35:56] Uh, these sinuses are part of that, but it basically
+[00:36:00] suggests that there's something going on.
+[00:36:02] It's not pathologic in and of itself, but it is,
+[00:36:05] um, it is kind of a precursor.
+[00:36:09] This is a rare complication, but from chronic cholecystitis, where
+[00:36:13] these people will develop a porcelain gallbladder.
+[00:36:16] And you can see it here, this is an X-ray,
+[00:36:17] and that's picking up a nice outline.
+[00:36:19] It's allotted calcium deposition in the gallbladder, and that's associated
+[00:36:23] with a gallbladder cancer, so when you see it, you
+[00:36:25] have to take the gallbladder out.
+[00:36:30] I mentioned that there's other chronic changes.
+[00:36:32] These are things that you might see.
+[00:36:33] I'm not super interested in testing you on this stuff,
+[00:36:36] but you might see xanthogranulomatous cholecystitis is where there's basically
+[00:36:41] a lot of um of inflammation, and they kind of
+[00:36:44] get a granulomatous um.
+[00:36:47] A deposition in there.
+[00:36:50] Hydrops of the gallbladder, that's when the gallbladder is really
+[00:36:53] distended and really can't contract anymore, and it looks really
+[00:36:56] big.
+[00:36:57] It looks much, much larger.
+[00:36:59] It's atrophic, there's no motility going on.
+[00:37:04] So chronic cholecystitis, recurrent attacks of steady or colicky right
+[00:37:07] upper quadrant pain, they can get nausea, vomiting, they get
+[00:37:10] fatty food intolerance, the same ones as, as acute cholecystitis,
+[00:37:12] it's just over a more prolonged period.
+[00:37:18] All right, moving on to uh the last few topics,
+[00:37:22] tumors of the gallbladder.
+[00:37:26] So They're adenomas, they're usually benign, and they're basically neoplastic
+[00:37:32] growth.
+[00:37:32] When we think of adenomas, we oftentimes think of, of
+[00:37:36] a colon adenoma, which is pre-cancerous.
+[00:37:38] These, these are usually benign, when their size gets bigger,
+[00:37:41] we start to worry, and so we will, there is
+[00:37:44] a size that where you see an adenoma, particularly if
+[00:37:47] it's growing, that you're gonna wanna take the gallbladder out,
+[00:37:49] but generally, these are benign.
+[00:37:51] There is inflammatory polyps, right, just from some chronic inflammation,
+[00:37:56] oftentimes from, from gallstones or not, where they get these
+[00:38:00] kind of lipid-laden macrophages in there.
+[00:38:03] And I already mentioned those uh Rokotansky-Ashkov sinuses, that's what
+[00:38:07] this is is over here, and that is kind of
+[00:38:11] one of the findings you will see in adenomyomatosis or
+[00:38:15] adenomyomyosis.
+[00:38:18] The they're they're similar terms, adeno I didn't put adenomyomatosis,
+[00:38:21] that's kind of more specific to the gallbladder because you
+[00:38:23] can develop adenomyosis in the uterus also, but it's the
+[00:38:27] same concept.
+[00:38:28] So these are benign tumors of the gallbladder.
+[00:38:32] Uh, it, it occurs, gallbladder cancers occur much more commonly
+[00:38:36] in women than men.
+[00:38:38] Most of them are related to gallstones, and the vast
+[00:38:42] majority are adenocarcinomas, but you can get squamous cell carcinomas
+[00:38:45] in there, which is a much poorer prognosis.
+[00:38:48] Uh, these gallblad these tumors seed pretty quickly, and sometimes
+[00:38:53] they're hard to find, so this is a bad one.fortunately,
+[00:38:56] it's not super common.
+[00:39:01] Moving on to cholangitis, we already talked about that cholangitis
+[00:39:05] is really infection and inflammation of the of the biliary
+[00:39:10] tree, not necessarily the gallbladder, because that would be an
+[00:39:13] acute cholecystitis, but a cholangitis is inflammation and infection in
+[00:39:18] the biliary tract.
+[00:39:19] So it's really bacterial infection of the biliary tracts, sometimes
+[00:39:22] it's secondary to obstruction, so meaning you can get a
+[00:39:26] stone in there, or a tumor, or we put a
+[00:39:30] catheter in.
+[00:39:31] And basically, you're seeding the biliary tract, and then it's
+[00:39:35] obstructed, so that that uh bacteria will then just replicate.
+[00:39:40] Um, cholangitis, um, like sometimes you'll see it called acute
+[00:39:44] cholangitis or ascending cholangitis, it all refers to the same
+[00:39:48] stuff.
+[00:39:48] This is, um, this is, uh, you can see from
+[00:39:51] the list here, it's most always because there's some sort
+[00:39:54] of obstruction, meaning an acute pancreatitis can cause a lot
+[00:39:58] of inflammation, whether it's a stone or not.
+[00:40:01] And that can obstruct the duct, or you can have
+[00:40:03] benign strictures in the biliary tree, like I said, tumors
+[00:40:06] or catheters.
+[00:40:08] Yes, infection is a big, a big part of it.
+[00:40:10] These are not so common viruses, fungi, and parasites, but
+[00:40:13] in the critically ill, you can see that.
+[00:40:15] And acute cholangitis is an emergency.
+[00:40:18] You really have to relieve that obstruction, and then treat
+[00:40:22] the infection.
+[00:40:24] So, bacterial infection.
+[00:40:27] You will hear of this.
+[00:40:27] This is called Charcot's triad, right?
+[00:40:30] I use this all the time.
+[00:40:32] When somebody comes in and they have fever, you could
+[00:40:35] substitute an elevated white count in there.
+[00:40:37] They have jaundice and right upper quadrant pain.
+[00:40:41] That's pretty sensitive and specific.
+[00:40:44] I mean, it's not as specific as, as maybe an
+[00:40:47] MRCP might show you, but it's pretty, it's a pretty
+[00:40:50] good screening when somebody has that, this is called Charcot's
+[00:40:53] triad.
+[00:40:54] And basically what that suggests is cholangitis.
+[00:40:57] This is really, you want to decompress them within 24
+[00:40:59] hours.
+[00:41:00] You wanna give them antibiotics, and then you wanna take
+[00:41:03] them into the endoscopy suite, and this is an ERCP.
+[00:41:07] What you're seeing here is a catheter going into the
+[00:41:10] ampulovator, and they're basically they've made a little cut, and
+[00:41:13] this is pus that's coming out.
+[00:41:15] So you wanna drain the pus out of that, they
+[00:41:18] will sweep the duct for anything that's left in there,
+[00:41:20] like stones, and then you're gonna give them antibiotics.
+[00:41:23] You can also do this percutaneously, meaning you can go
+[00:41:27] down to interventional radiology, and they can do a transhepatic
+[00:41:31] uh or a transcutaneeous through the through the liver and
+[00:41:35] into the bile ducts to drain it that way too.
+[00:41:37] So, both at work, that's a little bit, um, you
+[00:41:41] know, a little bit more invasive in certain ways.
+[00:41:43] But yeah, the key is, you have to drain the
+[00:41:46] obstruction and then treat the instruction treat treat the the
+[00:41:49] infection.
+[00:41:51] Secondary to obstruction from milestones cholodocolithiasis, we already mentioned that.
+[00:41:57] So, stones in the biliary tree, this one here is
+[00:42:00] gonna give you a gallstone pancreatitis, elevated liver enzymes, and
+[00:42:03] elevated pancreatic enzymes.
+[00:42:07] And the last topic we're gonna talk about is cholioco
+[00:42:11] cysts.
+[00:42:13] Um, these are not super common.
+[00:42:15] You see them, uh, you may see them on boards,
+[00:42:18] that's a possibility.
+[00:42:20] Um.
+[00:42:22] There's one here that's called Karoli's disease, which is something
+[00:42:25] that you might see on the boards, but cystic dilation
+[00:42:27] of the intrapatic biliary tree, that's a high risk of,
+[00:42:30] higher risk of cancer, which is why you might see
+[00:42:32] it.
+[00:42:33] But basically, what they are, are congenital dilations of the
+[00:42:36] common bile duct in various forms.
+[00:42:38] There's, there's type, type 1 through 5, not important, but
+[00:42:42] they can cause biliary colic and jaundice.
+[00:42:45] Uh, they can predispose to stone formation because there's a
+[00:42:47] lot of, um, uh, stasis, or they can create a
+[00:42:51] stenosis, and, uh, if people live with them long enough,
+[00:42:55] they're more predisposed to develop biliary cancers, like a bile
+[00:42:58] duct cancer.
+[00:43:01] And this is just a representation of what it looks
+[00:43:03] like.
+[00:43:03] It's not a nice smooth bile duct.
+[00:43:05] There's a dial like a fusiform dilation.
+[00:43:08] This is a type one cyst, most common.
+[00:43:13] And then the very last topic we're gonna talk about
+[00:43:15] is, uh, is cholangiocarcinomas.
+[00:43:18] Clangiocarcinomas are carcinomas of the of the biliary ductal system.
+[00:43:24] These are very difficult, very bad.
+[00:43:28] langiocarcinoma is a really, really tough disease.
+[00:43:30] It's very insidious.
+[00:43:32] They can get uh painless jaundice.
+[00:43:34] Whenever you hear painless jaundice, we never like that term.
+[00:43:37] Painless jaundice, I'm thinking cholangiocarcinoma or a pancreatic carcinoma, because
+[00:43:42] it occurs over a prolonged period of time.
+[00:43:44] People don't, don't typically feel it.
+[00:43:45] The body kind of gets used to it.
+[00:43:47] You see it in elderly patients, more common in men.
+[00:43:50] If you have some inflammatory process, sclerosing cholangitis, you're gonna
+[00:43:54] learn about this in Doctor Deutsch's lectures, or ulcerative colitis,
+[00:43:58] which predisposes patients to sclerosing cholangitis, that's problematic.
+[00:44:03] You have cystic liver disease like Karoli's disease, right, a
+[00:44:06] choloidocal cyst.
+[00:44:08] Or you have infections, chronic infections, like Clinorcus can do
+[00:44:11] this.
+[00:44:12] These are the people that are more at risk, sometimes
+[00:44:13] you can get it without any of these.
+[00:44:17] This is the almo this is the last learning slide,
+[00:44:21] but basically these are Klatzkin's tumors, you don't need to
+[00:44:23] know it, just understand this is one of the ways
+[00:44:25] that we prognosticate patients, these different types, they're either just
+[00:44:30] in the bile duct or the bile duct at the
+[00:44:31] bifurcation, they go into the rapatics either left, right, or
+[00:44:35] both.
+[00:44:36] And basically, um, we use these to kind of figure
+[00:44:39] out how to treat people.
+[00:44:41] If you can imagine, these are tough to deal with,
+[00:44:43] particularly if they're intrahepatic, cause what you're talking about is
+[00:44:46] really resecting portions of the liver or the gallbladder, which
+[00:44:50] is tough cause then you have to anastoize whatever biliary
+[00:44:52] tree is left back to the small bowel, and you
+[00:44:55] lose all the anatomy.
+[00:44:56] But these are tough tumors to deal with.
+[00:44:59] All right.
+[00:45:01] 45-year-old male presents with right upper quadrant pain and jaundice
+[00:45:04] for two days.
+[00:45:05] Physical exam revealscleral icterus.
+[00:45:08] A urinalysis demonstrates bile breakdown products, and a right upper
+[00:45:12] quadrant reveals a stone impacted where.
+[00:45:18] So this goes back to that slide that I told
+[00:45:20] you.
+[00:45:20] So, I think every line in the, in the stem
+[00:45:23] is important.
+[00:45:24] So, first of all, the timing 2 days.
+[00:45:26] So, 2 days is not chronic, so it's acute, it's
+[00:45:31] acute something.
+[00:45:33] Um, And then I tell you that there's scleral icterus,
+[00:45:39] so that means the bilirubin is elevated.
+[00:45:42] And then I tell you that a urinalysis demonstrates bile
+[00:45:45] breakdown products.
+[00:45:46] So, in a urinalysis, normally, you can see some bile,
+[00:45:51] right, but there's a level which is higher, right?
+[00:45:54] So that's what gives the urine its yellow color, but
+[00:45:58] if you have bile breakdown products, it's suggesting to you
+[00:46:00] that there's more bile there.
+[00:46:03] Than normal.
+[00:46:03] That means the urine is darker.
+[00:46:07] So where do you think a stone is impacted?
+[00:46:11] What if I told you, well, where do you think
+[00:46:12] the sun's impacted, and then we'll we'll go from there.
+[00:46:15] In the cystic duct In the ileum, in the pancreatic
+[00:46:20] duct, or in the common bile duct.
+[00:46:27] So, let's think about what happens with biolysis is Doctor
+[00:46:30] Fatari's lecture and how it's broken down.
+[00:46:33] Right, so, when we think about obstruction, The bile has
+[00:46:39] to be obstructed.
+[00:46:40] So, we think about, if you have bile which shows
+[00:46:45] a predominantly conjugated bilirubin.
+[00:46:50] The, the bilirubin is conjugated where?
+[00:46:54] In the liver.
+[00:46:56] So if it's conjugated in the liver, and you're seeing
+[00:47:00] an elevated conjugated bilirubin, that means it's post hepatic, that
+[00:47:03] means it's postcellular level through the through the bile ducts,
+[00:47:07] through the rest of the body.
+[00:47:09] So those people have elevated conjugated bilirubin.
+[00:47:12] If it's unconjugated bilirubin, then that means that it's either
+[00:47:17] deconjugated or the liver can't conjugate it.
+[00:47:20] Or there's an excess amount of bilirubin coming from somewhere
+[00:47:23] else.
+[00:47:25] Right?
+[00:47:26] So, which one of them is soluble?
+[00:47:30] Conjugated is soluble, right?
+[00:47:33] That's why when you're, because you want it that way,
+[00:47:36] so when it's in your bloodstream, it doesn't precipitate, right?
+[00:47:38] And that's why, that's why the kidneys can absorb that
+[00:47:43] and pass it out, that's why your urine is yellow.
+[00:47:45] But if your urine is extra yellow, that means that
+[00:47:49] for one reason or another, there's more bilirubin that the
+[00:47:51] that the the kidney has to process.
+[00:47:54] So, if you have So, in this patient, we're telling
+[00:48:00] you that they're jaundiced, and basically that they have an
+[00:48:02] increased amount of conjugated bilirubin.
+[00:48:06] So I'm telling you that that you have an obstruction
+[00:48:08] post hepadock.
+[00:48:09] Cause it's conjugated.
+[00:48:11] And I'm saying, where is that possible then?
+[00:48:16] What's this bile move when the cystic duct is obstructed?
+[00:48:23] Yeah, it does.
+[00:48:24] It just doesn't come from the gallbladder, but the liver
+[00:48:26] is still processing it, right?
+[00:48:28] So you don't typically get that.
+[00:48:29] What about in the ileum?
+[00:48:30] Does that have anything to do with jaundice?
+[00:48:32] No, I've mentioned that that's like a gallstone ileus.
+[00:48:34] What about if I told you the stone was in
+[00:48:36] the pancreatic duct?
+[00:48:37] Is, is, is bilirubin moving?
+[00:48:42] Right, it's just obstructing the pancreatic duct, so it's in
+[00:48:44] the common bile duct.
+[00:48:45] We will go over this concept again, right?
+[00:48:48] Cause it's a little bit hard to think about, but
+[00:48:50] think about it this way.
+[00:48:51] If a stone is obstructed here, Bilirubin is still moving
+[00:48:56] on in the, it's not pointing, but it's still moving
+[00:48:58] in the left intrahepatic and through the bile duct.
+[00:49:01] If the stone is impacted.
+[00:49:04] Here, that's gonna cause an elevated hyperbilirubin, you conjugated bilirubin.
+[00:49:09] Same thing with here or here.
+[00:49:11] If the stone is obstructed in the cystic duct, there's
+[00:49:13] still bile flowing here.
+[00:49:14] And if the stone is obstructed, obstructed only in the
+[00:49:17] pancreatic duct, bile can still flow out, out that way.
+[00:49:21] So, start to think about, go over the lecture again
+[00:49:23] and look at the, you know, Doctor Fatari's lecture where
+[00:49:26] she talks about uh bilirubin and, and conjugated and unconjugated.
+[00:49:31] And just to kind of understand the process.
+[00:49:33] Once again, the anatomy tells you what the labs or
+[00:49:36] the labs tell you what the anatomy is telling you.
+[00:49:39] OK, questions.
+[00:49:43] Yes.
+[00:49:44] After you removed the gallbladder, what problems?
+[00:49:47] Question is, after you remove the gallbladder, what what problems
+[00:49:50] do patients have?
+[00:49:50] They get, uh, about 5% of them will get a
+[00:49:54] chronic diarrhea, uh, just because they're not, they don't have,
+[00:49:58] uh, bile to absorb, to, to reabsorb a lot of
+[00:50:01] the fat, so particularly with fatty foods.
+[00:50:03] Very rarely, they can have some chronic pain.
+[00:50:05] Most of the time they do just fine.
+[00:50:08] You certainly can live without your gallbladder.
+[00:50:10] Anything else?
+[00:50:12] All right, thank you all.

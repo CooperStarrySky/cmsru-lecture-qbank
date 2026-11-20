@@ -1,0 +1,545 @@
+{
+ "lecture_id": "gi-w04-lec18",
+ "block": "GI",
+ "week": 4,
+ "lecture": "18 Malabsorption maldigestion",
+ "contributor": "thirth",
+ "questions": [
+  {
+   "id": "gi-w04-lec18-q01",
+   "source": "slide",
+   "source_ref": "Slides 35, 29, 32",
+   "stem": "Children with severe celiac disease who remain untreated are at risk for which of the following?",
+   "choices": [
+    "Short stature",
+    "Folate deficiency",
+    "Rickets",
+    "All of the above"
+   ],
+   "answer": 3,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "Short stature, shout it out, yes or no. Yes, folate deficiency. Ricketts. Everybody agrees? So it is all of the above.",
+     "at": "00:25:30"
+    },
+    {
+     "type": "notes",
+     "quote": "Older children and adolescents often present with extraintestinal manifestations, such as short stature, neurologic symptoms, or anemia.",
+     "page": 3
+    },
+    {
+     "type": "slide",
+     "slide": 35,
+     "image": "img/gi-w04-lec18/slide_35.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 29,
+     "image": "img/gi-w04-lec18/slide_29.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 32,
+     "image": "img/gi-w04-lec18/slide_32.jpg"
+    }
+   ],
+   "note": "All of the above. Untreated celiac disease flattens the villi of the proximal small bowel, so nutrients aren't absorbed and a growing child pays for it in several ways. The professor went through each option in lecture (yes, yes, yes) and confirmed \"all of the above.\"\nShort stature is correct on its own: chronic malabsorption and failure to thrive stunt growth, and the lecture lists short stature as an extraintestinal sign in older children.\nFolate deficiency is correct on its own: folate is absorbed in the proximal small bowel, the area celiac disease hits hardest, so folate and iron deficiency are common.\nRickets is correct on its own: fat malabsorption cuts vitamin D and calcium uptake, which leaves soft, poorly mineralized bone in children."
+  },
+  {
+   "id": "gi-w04-lec18-q02",
+   "source": "slide",
+   "source_ref": "Slides 35, 31, 21",
+   "stem": "You suspect a patient has celiac sprue and perform a biopsy of the distal duodenum. Which of the following would you expect to see in the biopsy of a patient who indeed has celiac disease?",
+   "choices": [
+    "Decreased intraepithelial lymphocytes",
+    "Increased plasma cells in the lamina propria",
+    "Increased number of absorptive villi",
+    "Increased number of red blood cells in the lamina propria"
+   ],
+   "answer": 1,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "Decrease in trapithelial lymphocytes, increased plasma cells in the lamina propria, increased number of absorptive villi, increased number of RBCs in laminna propria. What do you think? B. Very good.",
+     "at": "00:25:58"
+    },
+    {
+     "type": "slide",
+     "slide": 35,
+     "image": "img/gi-w04-lec18/slide_35.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 31,
+     "image": "img/gi-w04-lec18/slide_31.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 21,
+     "image": "img/gi-w04-lec18/slide_21.jpg"
+    }
+   ],
+   "note": "Increased plasma cells in the lamina propria. Gliadin drives a T-cell and B-cell immune response in the mucosa, so the lamina propria fills with chronic inflammatory cells, including plasma cells that make the anti-tTG and antiendomysial antibodies. The classic biopsy shows intraepithelial lymphocytosis, crypt hyperplasia and villous atrophy.\nDecreased intraepithelial lymphocytes is backwards: celiac disease increases them.\nIncreased absorptive villi is also backwards: the villi are blunted and flattened, which is why absorption fails.\nExtra red blood cells in the lamina propria would mean hemorrhage, which is not part of the celiac picture."
+  },
+  {
+   "id": "gi-w04-lec18-q03",
+   "source": "slide",
+   "source_ref": "Slides 35, 29, 30",
+   "stem": "Which of the following symptoms is consistent with the classic presentation of a patient with celiac disease?",
+   "choices": [
+    "Infertility",
+    "Hepatitis",
+    "Osteoporosis",
+    "Chronic diarrhea"
+   ],
+   "answer": 3,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "So, infertility hepatitis is not common, so it could be between C and D. So I can tell you diarrhea is more common. That's a classic presentation.",
+     "at": "00:26:23"
+    },
+    {
+     "type": "notes",
+     "quote": "The classic presentation in adults is diarrhea, which may be accompanied by abdominal pain or discomfort.",
+     "page": 3
+    },
+    {
+     "type": "slide",
+     "slide": 35,
+     "image": "img/gi-w04-lec18/slide_35.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 29,
+     "image": "img/gi-w04-lec18/slide_29.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 30,
+     "image": "img/gi-w04-lec18/slide_30.jpg"
+    }
+   ],
+   "note": "Chronic diarrhea. Flattened villi mean less surface for absorption, so the classic presentation is diarrhea or steatorrhea with weight loss, and failure to thrive in children. The professor narrowed it to osteoporosis versus diarrhea and picked diarrhea as the classic one.\nInfertility is not a common celiac presentation.\nHepatitis is not typical. Mildly raised liver enzymes are listed only as a less common finding.\nOsteoporosis does happen, from poor absorption of calcium and vitamin D, but it is a secondary presentation in adults, not the classic one."
+  },
+  {
+   "id": "gi-w04-lec18-q04",
+   "source": "slide",
+   "source_ref": "Slides 36, 23, 21",
+   "stem": "Which best describes the direct role of HLA-DQ8 in celiac disease?",
+   "choices": [
+    "It is a signal molecule for pain in the spinothalamic tract.",
+    "It facilitates an immune response.",
+    "It increases GI motility, leading to diarrhea.",
+    "It decreases GI motility, leading to constipation."
+   ],
+   "answer": 1,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "It facilitates immune response, do we agree? Right? And it has nothing to do with GI motility, neither increases nor decreases, so we can get rid of those.",
+     "at": "00:26:44"
+    },
+    {
+     "type": "transcript",
+     "quote": "So it is deaminated by this, and that allows interaction with HLADQ2 and DQ8. Again, do make a note of that. These are present on surface of antigen presenting cells.",
+     "at": "00:14:42"
+    },
+    {
+     "type": "slide",
+     "slide": 36,
+     "image": "img/gi-w04-lec18/slide_36.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 23,
+     "image": "img/gi-w04-lec18/slide_23.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 21,
+     "image": "img/gi-w04-lec18/slide_21.jpg"
+    }
+   ],
+   "note": "It facilitates an immune response. HLA-DQ2 and HLA-DQ8 are MHC class II molecules on antigen-presenting cells that present deamidated gliadin peptides to gliadin-reactive CD4+ T cells, which sets off the mucosal inflammation. Carrying one of them is needed for celiac disease, but most carriers never develop it.\nHLA molecules have nothing to do with pain signaling in the spinothalamic tract.\nHLA-DQ8 does not act on GI motility in either direction. The diarrhea comes from villous damage and malabsorption."
+  },
+  {
+   "id": "gi-w04-lec18-q05",
+   "source": "slide",
+   "source_ref": "Slides 36, 30",
+   "stem": "Which of the following is a cutaneous manifestation of celiac disease?",
+   "choices": [
+    "Dermatitis herpetiformis",
+    "Dyshidrotic eczema",
+    "Hives",
+    "Erythema nodosum"
+   ],
+   "answer": 0,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "So this is often on your elbows and knees and buttocks, and this actually has 100% association with celiac disease.",
+     "at": "00:22:39"
+    },
+    {
+     "type": "slide",
+     "slide": 36,
+     "image": "img/gi-w04-lec18/slide_36.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 30,
+     "image": "img/gi-w04-lec18/slide_30.jpg"
+    }
+   ],
+   "note": "Dermatitis herpetiformis. It is an immune-mediated, itchy papulovesicular rash on the extensor surfaces of the elbows and knees and on the buttocks, and it has a 100% association with celiac disease, even when there are no GI symptoms.\nDyshidrotic eczema causes itchy blisters on the palms and soles and is not linked to celiac disease.\nHives are a general allergic or urticarial reaction, not a celiac sign.\nErythema nodosum is the skin lesion of inflammatory bowel disease (Crohn disease and UC), not celiac disease."
+  },
+  {
+   "id": "gi-w04-lec18-q06",
+   "source": "slide",
+   "source_ref": "Slides 36, 34",
+   "stem": "The primary management for patients with celiac disease is removal of gluten from the diet. A small percentage of patients may need which of the following pharmacological interventions to combat their autoimmune state?",
+   "choices": [
+    "Chemotherapeutic agents",
+    "Corticosteroid agents",
+    "Antiviral therapy",
+    "Antibiotics"
+   ],
+   "answer": 1,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "So, what do you think it is? B, right? Corticosteroid agents. So, usually, the diet should help them, but sometimes this is needed.",
+     "at": "00:27:36"
+    },
+    {
+     "type": "slide",
+     "slide": 36,
+     "image": "img/gi-w04-lec18/slide_36.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 34,
+     "image": "img/gi-w04-lec18/slide_34.jpg"
+    }
+   ],
+   "note": "Corticosteroid agents. Celiac disease is autoimmune, so when a gluten-free diet alone doesn't control the inflammation, an immunosuppressant such as a corticosteroid is used. The professor noted the diet usually works but steroids are sometimes needed.\nChemotherapy is for cancer. Long-standing celiac disease does raise the risk of lymphoma and adenocarcinoma, but chemotherapy is not used to treat the autoimmune disease itself.\nAntiviral therapy and antibiotics can be ruled out right away because celiac disease is not an infection. Antibiotics are the treatment for Whipple disease, which is."
+  },
+  {
+   "id": "gi-w04-lec18-q07",
+   "source": "slide",
+   "source_ref": "Slides 56, 49",
+   "stem": "Which one of the following statements is INCORRECT?",
+   "choices": [
+    "In Whipple disease, macrophage formation causes obstruction of the lymphatic system, leading to decreased reabsorption of chylomicrons and maldigestion of fats.",
+    "In SIBO, vitamin B12, thiamine, nicotinamide and folate deficiencies are common.",
+    "In dumping syndrome, accelerated movement of chyme into the duodenum leads to a hyperosmolar state of the partially undigested contents, causing osmotic diarrhea.",
+    "Removal of a large portion of the small bowel leads to a malabsorptive state called short bowel syndrome."
+   ],
+   "answer": 1,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "In cyber, B12, thymine, nicotinamide, folate deficiencies are common. Do we agree? No, what is wrong with that? Folate, because bacteria can make folate. We don't really see that deficiency, and the remaining two are correct.",
+     "at": "00:46:57"
+    },
+    {
+     "type": "slide",
+     "slide": 56,
+     "image": "img/gi-w04-lec18/slide_56.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 49,
+     "image": "img/gi-w04-lec18/slide_49.jpg"
+    }
+   ],
+   "note": "B is the incorrect statement, because of folate. In SIBO the overgrowing bacteria make folate, which then gets absorbed, so folate levels are normal or even high. The rest of B is right: bacteria eat B12 before it can be absorbed, and thiamine and nicotinamide deficiencies are common. The professor pointed to folate as the error.\nA is true: Tropheryma whipplei fills the mucosa with foamy macrophages that block lymphatics, so chylomicrons can't leave the gut and fat is malabsorbed.\nC is true: after gastrectomy, hypertonic chyme rushes into the duodenum and pulls water into the lumen, giving early cramping and osmotic diarrhea.\nD is true: short bowel syndrome is malabsorption after resection of a large part of the small intestine, from Crohn disease, injury, cancer, or necrotizing enterocolitis in infants."
+  },
+  {
+   "id": "gi-w04-lec18-q08",
+   "source": "slide",
+   "source_ref": "Slides 57, 27, 30",
+   "stem": "From the lecture's matching exercise: which condition is characterized by flattening/atrophy of villi, diarrhea and dermatitis herpetiformis?",
+   "choices": [
+    "Cystic fibrosis",
+    "Whipple disease",
+    "SIBO",
+    "Celiac disease",
+    "Short bowel syndrome"
+   ],
+   "answer": 3,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "flattening atrophy of villi, diarrhea, dermatitis, herpetiformis, which one is that? Celiac",
+     "at": "00:47:34"
+    },
+    {
+     "type": "slide",
+     "slide": 57,
+     "image": "img/gi-w04-lec18/slide_57.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 27,
+     "image": "img/gi-w04-lec18/slide_27.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 30,
+     "image": "img/gi-w04-lec18/slide_30.jpg"
+    }
+   ],
+   "note": "Celiac disease. Gluten triggers mucosal inflammation that flattens the villi, which causes malabsorption and diarrhea, and dermatitis herpetiformis is its skin sign.\nCystic fibrosis causes malabsorption through pancreatic insufficiency, not villous atrophy, and it does not cause dermatitis herpetiformis.\nWhipple disease can blunt villi, but its hallmark is foamy macrophages blocking the lymphatics, and it has no skin rash like this.\nSIBO causes fat malabsorption and B12 deficiency from bacterial overgrowth, usually because of slowed motility.\nShort bowel syndrome is malabsorption from losing intestinal length to surgery."
+  },
+  {
+   "id": "gi-w04-lec18-q09",
+   "source": "slide",
+   "source_ref": "Slides 57, 52",
+   "stem": "From the lecture's matching exercise: which condition results from massive resection of the small intestine?",
+   "choices": [
+    "Cystic fibrosis",
+    "Whipple disease",
+    "SIBO",
+    "Celiac disease",
+    "Short bowel syndrome"
+   ],
+   "answer": 4,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "Celiac, massive resection of small intestine. Short bowel syndrome",
+     "at": "00:47:42"
+    },
+    {
+     "type": "notes",
+     "quote": "Removal of such large portion of the small bowel leads to a malabsorptive state called as the short bowel syndrome.",
+     "page": 4
+    },
+    {
+     "type": "slide",
+     "slide": 57,
+     "image": "img/gi-w04-lec18/slide_57.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 52,
+     "image": "img/gi-w04-lec18/slide_52.jpg"
+    }
+   ],
+   "note": "Short bowel syndrome. Removing a large part of the small intestine leaves too little absorptive surface, so the patient becomes malabsorptive and often needs nutritional support. Common causes are Crohn disease, bowel injury and cancer in adults, and necrotizing enterocolitis or atresia in infants.\nCystic fibrosis is a CFTR mutation causing pancreatic insufficiency, not a surgical loss of bowel.\nWhipple disease is an infection with Tropheryma whipplei.\nSIBO is bacterial overgrowth from stasis or dysmotility. Resection can set it up, but it is not the name for the malabsorption that resection causes.\nCeliac disease is gluten-triggered villous atrophy with the bowel still in place."
+  },
+  {
+   "id": "gi-w04-lec18-q10",
+   "source": "slide",
+   "source_ref": "Slides 57, 38",
+   "stem": "From the lecture's matching exercise: which condition is characterized by foamy macrophage formation, obstruction of the lymphatic system and decreased chylomicron uptake?",
+   "choices": [
+    "Cystic fibrosis",
+    "Whipple disease",
+    "SIBO",
+    "Celiac disease",
+    "Short bowel syndrome"
+   ],
+   "answer": 1,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "If somebody has this whipper disease, there is a macrophage, foamy macrophages are formed. And this entire system, now, lymphatic system gets obstructed, and that will lead to decreased absorption of chylomicron and mild digestion of fat.",
+     "at": "00:29:14"
+    },
+    {
+     "type": "slide",
+     "slide": 57,
+     "image": "img/gi-w04-lec18/slide_57.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 38,
+     "image": "img/gi-w04-lec18/slide_38.jpg"
+    }
+   ],
+   "note": "Whipple disease. Tropheryma whipplei infiltrates the small bowel and draws in foamy macrophages (strongly PAS-positive), which block the lymphatics so chylomicrons can't be taken up and fat is malabsorbed. It is most common in middle-aged men and is treated with antibiotics.\nCystic fibrosis blocks the pancreatic ducts with thick secretions, not the intestinal lymphatics.\nSIBO causes fat maldigestion because bacteria deconjugate bile acids, not through macrophages.\nCeliac disease shows intraepithelial lymphocytes and flat villi, not foamy macrophages.\nShort bowel syndrome is loss of absorptive length after resection."
+  },
+  {
+   "id": "gi-w04-lec18-q11",
+   "source": "slide",
+   "source_ref": "Slides 57, 48",
+   "stem": "From the lecture's matching exercise: which condition is linked to intestinal dysmotility?",
+   "choices": [
+    "Cystic fibrosis",
+    "Whipple disease",
+    "SIBO",
+    "Celiac disease",
+    "Short bowel syndrome"
+   ],
+   "answer": 2,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "And so there are a number of diverse conditions that can lead to cybo, and majority of these are caused by intestinal dysmotility.",
+     "at": "00:38:22"
+    },
+    {
+     "type": "notes",
+     "quote": "A number of seemingly diverse conditions lead to SIBO. The majority are caused by intestinal dysmotility.",
+     "page": 5
+    },
+    {
+     "type": "slide",
+     "slide": 57,
+     "image": "img/gi-w04-lec18/slide_57.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 48,
+     "image": "img/gi-w04-lec18/slide_48.jpg"
+    }
+   ],
+   "note": "SIBO. Normal motility sweeps bacteria out of the small bowel, so when motility slows (for example, autonomic neuropathy in type 1 diabetes) contents stagnate and bacteria overgrow. The result is fat maldigestion, B12 deficiency and carbohydrate malabsorption.\nCystic fibrosis is defined by CFTR dysfunction and pancreatic insufficiency, not dysmotility.\nWhipple disease is an infection marked by foamy macrophages in the mucosa.\nCeliac disease is an immune reaction to gluten that flattens the villi.\nShort bowel syndrome is defined by surgical loss of bowel length."
+  },
+  {
+   "id": "gi-w04-lec18-q12",
+   "source": "slide",
+   "source_ref": "Slides 57, 11, 12",
+   "stem": "From the lecture's matching exercise: which condition presents with cough, diarrhea, recurrent respiratory tract infections and bulky, foul-smelling stools?",
+   "choices": [
+    "Cystic fibrosis",
+    "Whipple disease",
+    "SIBO",
+    "Celiac disease",
+    "Short bowel syndrome"
+   ],
+   "answer": 0,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "Cybo, and cough, diarrhea, recurrent respiratory tract infections, bulk bulky, foul smelling stools, that is cystic fibrosis.",
+     "at": "00:48:05"
+    },
+    {
+     "type": "slide",
+     "slide": 57,
+     "image": "img/gi-w04-lec18/slide_57.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 11,
+     "image": "img/gi-w04-lec18/slide_11.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 12,
+     "image": "img/gi-w04-lec18/slide_12.jpg"
+    }
+   ],
+   "note": "Cystic fibrosis. A CFTR mutation makes thick secretions in both the airways and the pancreas, so the patient has recurrent lung infections plus pancreatic insufficiency with bulky, greasy, foul-smelling stools. The lung involvement is what sets it apart from the others.\nWhipple disease causes malabsorption, fever and joint pain, but not recurrent respiratory infections from childhood.\nSIBO causes malabsorption but no lung disease.\nCeliac disease causes steatorrhea and diarrhea, but not cough and repeated chest infections.\nShort bowel syndrome follows bowel resection and has no respiratory component."
+  },
+  {
+   "id": "gi-w04-lec18-q13",
+   "source": "slide",
+   "source_ref": "Slides 58, 25, 29",
+   "stem": "An 18-month-old boy comes to your office with a 3-month history of chronic diarrhea. His parents tried a milk-free diet without benefit. He seems increasingly clingy and cranky with his mother. His stools are light in color, bulky and foul smelling, and occur 3 times daily. Family history is negative for GI disease. Both parents are of short stature, his mother has hypothyroidism, and his older sister has type 1 diabetes mellitus. On exam, his height is at the 25th percentile and his weight is below the 3rd percentile for age, and he is very irritable. Mild anemia is seen, with iron and folate deficiency and a low vitamin E level. IgA tissue transglutaminase is >100, antiendomysial antibody is positive, and stool studies are positive for fecal fat. What is the most likely diagnosis?",
+   "choices": [
+    "Dumping syndrome",
+    "SIBO",
+    "Celiac disease",
+    "Whipple disease"
+   ],
+   "answer": 2,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "Vitamin E level is decreased, and most importantly, transglutaminase they had given you. So, and again, they also showed you that stool studies, they have fecal fat. So what is the most likely diagnosis? Celiac, right?",
+     "at": "00:49:17"
+    },
+    {
+     "type": "slide",
+     "slide": 58,
+     "image": "img/gi-w04-lec18/slide_58.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 25,
+     "image": "img/gi-w04-lec18/slide_25.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 29,
+     "image": "img/gi-w04-lec18/slide_29.jpg"
+    }
+   ],
+   "note": "Celiac disease. The positive IgA anti-tTG (>100) and antiendomysial antibody clinch it, and everything else fits. He has steatorrhea, failure to thrive, iron and folate deficiency from proximal small-bowel damage, and a low fat-soluble vitamin. The family history of autoimmune disease (hypothyroidism, type 1 diabetes) matters because these conditions share HLA-DQ2/DQ8. A failed milk-free diet rules out simple lactose intolerance.\nDumping syndrome happens after gastric surgery, which this toddler has not had.\nSIBO causes steatorrhea, but folate tends to be high, not low, and it doesn't make celiac antibodies.\nWhipple disease is an infection mostly of middle-aged men and would not give positive tTG or endomysial antibodies."
+  },
+  {
+   "id": "gi-w04-lec18-q14",
+   "source": "slide",
+   "source_ref": "Slides 59, 12",
+   "stem": "A 16-year-old girl dies of a respiratory infection with respiratory failure. She had had recurrent pulmonary infections since the age of 1 year. Her history showed steatorrhea, and she was taking nutritional supplements. Which of the following is most likely to be observed in the pancreas at autopsy?",
+   "choices": [
+    "Significant enlargement of the pancreatic acini",
+    "Fibrosis of the islets of Langerhans",
+    "Mucous plugging of the pancreatic ducts",
+    "Macrophage infiltration of the islets"
+   ],
+   "answer": 2,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "What do you think? Mucous plugging, right? That was our buzzword.",
+     "at": "00:50:03"
+    },
+    {
+     "type": "notes",
+     "quote": "In addition, reduced water content of secretions, precipitation of proteins, and plugging of ductules and acini, prevent the pancreatic enzymes from reaching the gut.",
+     "page": 1
+    },
+    {
+     "type": "slide",
+     "slide": 59,
+     "image": "img/gi-w04-lec18/slide_59.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 12,
+     "image": "img/gi-w04-lec18/slide_12.jpg"
+    }
+   ],
+   "note": "Mucous plugging of the pancreatic ducts. This is cystic fibrosis: defective CFTR lowers the water and bicarbonate in pancreatic secretions, so proteins precipitate and plug the ductules and acini, and enzymes can't reach the gut, which causes the steatorrhea. The professor called mucous plugging the buzzword.\nThe acini are not enlarged. Blocked ducts make the exocrine pancreas atrophy and scar.\nFibrosis in CF hits the exocrine pancreas first. The islets are spared until late, and that is not the classic finding.\nMacrophage infiltration of the islets is not a feature of CF."
+  },
+  {
+   "id": "gi-w04-lec18-q15",
+   "source": "slide",
+   "source_ref": "Slides 60, 30",
+   "stem": "An 18-year-old woman presents with a 2-week history of this rash, which is also located on her buttocks. She admits to occasional crampy abdominal pain and bloating. What is the most likely diagnosis?",
+   "stem_image": "img/gi-w04-lec18/slide_60.jpg",
+   "choices": [
+    "Crohn disease",
+    "Whipple disease",
+    "Celiac disease",
+    "Lactose intolerance"
+   ],
+   "answer": 2,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "What is the most likely diagnosis? What does she have? Celiac? And what is this rash called? Hepatitis der dermatitis herpetiformis, so that's how it looks like.",
+     "at": "00:50:23"
+    },
+    {
+     "type": "slide",
+     "slide": 60,
+     "image": "img/gi-w04-lec18/slide_60.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 30,
+     "image": "img/gi-w04-lec18/slide_30.jpg"
+    }
+   ],
+   "note": "Celiac disease. The itchy papulovesicular rash on the extensor elbows and buttocks is dermatitis herpetiformis, which is 100% associated with celiac disease. The crampy pain and bloating are its GI side.\nCrohn disease has skin lesions too, but they are erythema nodosum (tender red nodules on the shins) and pyoderma gangrenosum, not grouped vesicles on the elbows.\nWhipple disease causes malabsorption, fever and arthralgia, not dermatitis herpetiformis.\nLactose intolerance causes bloating and diarrhea after dairy but has no skin findings."
+  }
+ ]
+}

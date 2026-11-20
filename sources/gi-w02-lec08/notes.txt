@@ -1,0 +1,325 @@
+=== PAGE 1 ===
+Pancreatitis (Wednesday, October 21, 2026; 10 am)
+Important note from course directors: Please note that this ebook is not intended to include all of the
+information presented in the lecture slides, but is created to provide foundation to the main concepts
+presented in the slides. Dr. Phadtare created the ebook using mainly Robbins and Cotran (along with some
+other sources) and Dr. DeSipio added etiology of acute pancreatitis and diagnosis and treatment of chronic
+pancreatitis from UpToDate.
+Acute Pancreatitis
+Etiology
+Acute pancreatitis is relatively common and is characterized by reversible pancreatic parenchymal injury
+associated with inflammation and has diverse etiologies, including toxic exposures (e.g., alcohol), pancreatic
+duct obstruction (e.g., biliary calculi), inherited genetic defects, vascular injury, and infections. Etiologic
+factors can be broadly classified as metabolic (alcoholism, hyperlipoproteinemia, hypertriglyceridemia
+hypercalcemic states, such as hyperparathyroidism, drugs such as azathioprine), genetic (mutations in genes
+encoding trypsin, trypsin regulators or proteins that regulate calcium metabolism), mechanical (gallstones,
+traumatic injury of acinar cells, either by blunt abdominal trauma or during surgery,), ischemic injury of
+acinar cells, caused by shock, vascular thrombosis, embolism, and vasculitis, infections (e.g.
+mumps).Cigarette smoking is an independent risk factor for acute and chronic pancreatitis by mechanisms
+that are unclear. Acute pancreatitis occurs in about 3 percent of patients undergoing diagnostic ERCP
+(endoscopic retrograde cholangiopancreatography).
+As mentioned above, several genetic mutations have been associated with pancreatitis. Inherited forms of
+pancreatitis may present as recurrent acute pancreatitis but eventually progress to chronic pancreatitis.Gainof-function mutations in the serine protease 1 gene (PRSS1) on chromosome 7q35, which encodes cationic
+trypsinogen, results in an autosomal dominantly inherited form of hereditary pancreatitis. Mutations in the
+cystic fibrosis gene (CFTR) have been associated with an autosomal recessively inherited pancreatitis.
+Pancreatitis has also been associated with low penetrance mutations in the serine protease inhibitor Kazal
+type 1 (SPINK1), which may act as a disease modifier and lower the threshold for developing pancreatitis
+from other genetic or environmental factors. Mutations in chymotrypsin C (CTRC) have also been identified
+in pancreatitis.
+Pancreatitis due to medications is rare, although limited data suggest that the incidence may be increasing.
+Drug-induced pancreatitis is classified based on the number of cases reported, demonstration of a consistent
+latency period (time from initiation of drug to development of pancreatitis), and reaction with re-challenge.
+Several medications have been associated with drug induced pancreatitis and a number of different
+mechanisms of drug-induced pancreatitis have been proposed. These mechanisms include immunologic
+reactions (e.g. 6-mercaptopurine, aminosalicylates, sulfonamides), direct toxic effect (e.g. diuretics,
+sulfonamides), accumulation of a toxic metabolite (valproic acid, didanosine, pentamidine, tetracycline),
+ischemia (diuretics, azathioprine), intravascular thrombosis (estrogen), and an increased viscosity of
+pancreatic juice (diuretics and steroids).
+Pancreatitis has been associated with the following infections, although the frequency with which these
+infections lead to pancreatitis is unknown:
+ Viruses – Mumps, coxsackievirus, hepatitis B, cytomegalovirus, varicella-zoster, herpes simplex, HIV
+ Bacteria – Mycoplasma, Legionella, Leptospira, Salmonella
+ Fungi – Aspergillus
+ Parasites – Toxoplasma, Cryptosporidium, Ascaris
+1
+
+
+=== PAGE 2 ===
+Additionally, conditions causing obstruction of the ampulla that have been associated with pancreatitis
+include biliary ascariasis, periampullary diverticula, and pancreatic and periampullary tumors. Intraductal
+papillary mucinous neoplasms (IPMN) of the pancreas are being recognized increasingly and may
+occasionally present as acute pancreatitis, especially in elderly nonalcoholic males.
+Pathogenesis
+Acute pancreatitis results from inappropriate release and activation of pancreatic enzymes, which destroy
+pancreatic tissue and elicit an acute inflammatory reaction. Pancreatic enzymes, including trypsin, are
+synthesized in an inactive proenzyme form. Inappropriate intrapancreatic activation of trypsin can in turn
+cause the activation of other proenzymes such as prophospholipase and proelastase, which then degrade fat
+cells and damage the elastic fibers of blood vessels, respectively. Trypsin also converts prekallikrein to its
+activated form, thus bringing into play the kinin system and, by activation of coagulation factor XII, the
+clotting and complement systems as well. The resulting inflammation and small-vessel thromboses (which
+may lead to congestion and rupture of already weakened vessels) damage acinar cells, further amplifying
+intrapancreatic activation of digestive enzymes.
+How inappropriate activation of pancreatic enzymes occurs in sporadic forms of acute pancreatitis is not
+entirely clear, but there is evidence for at least three major initiating events:
+(i) Pancreatic duct obstruction. Obstruction is most commonly caused by gallstones and biliary sludge, but
+can also stem from periampullary neoplasms (e.g., pancreatic cancer), choledochoceles (congenital cystic
+dilatation of the common bile duct), parasites (particularly the Ascarislumbricoides and
+Clonorchissinensisorganisms), and possibly pancreas divisum*. Whatever the cause, obstruction raises
+intrapancreatic ductal pressure and leads to the accumulation of enzyme-rich fluid in the interstitium.
+Although most pancreatic enzymes are secreted as inactive zymogens, lipase is produced in an active form
+and has the potential to cause local fat necrosis. The death of adipocytes is hypothesized to produce “danger”
+signals locally that stimulate periacinar myofibroblasts and leukocytes to release proinflammatory cytokines
+and other inflammatory mediators that initiate local inflammation and promote the development of interstitial
+edema through a leaky microvasculature. Edema may further compromise local blood flow, causing vascular
+insufficiency and ischemic injury to acinar cells.
+(*Pancreas divisum is a common anatomic variant, occurring in approximately 7 percent of autopsy series. It
+results from failure of the embryologically derived dorsal and ventral pancreas to fuse, resulting in separate
+pancreatic ductal systems. Whether pancreas divisum causes pancreatitis or is an incidental finding is
+controversial.)
+Biliary tract disease and alcoholism account for approximately 80% of cases of acute pancreatitis in Western
+countries. Gallstones are present in 35% to 60% of cases, and pancreatitis develops in about 5% of patients
+with gallstones.The mechanism by which the passage of gallstones induces pancreatitis is unknown. Two
+factors have been suggested as the possible initiating event in gallstone pancreatitis: reflux of bile into the
+pancreatic duct due to transient obstruction of the ampulla during passage of gallstones; or obstruction at the
+ampulla secondary to stone(s) or edema resulting from the passage of a stone. Cholecystectomy and clearing
+the common bile duct of stones prevents recurrence, confirming the cause-and-effect relationship. Gender
+and stone size may be risk factors for gallstone pancreatitis. The risk of developing acute pancreatitis in
+patients with gallstones is greater in men; however, the incidence of gallstone pancreatitis is higher in
+women due to a higher prevalence of gallstones. Small gallstones are associated with an increased risk of
+pancreatitis.
+2
+
+
+=== PAGE 3 ===
+Most patients with biliary sludge are asymptomatic. However, biliary sludge is commonly found in 20 to 40
+percent of patients with acute pancreatitis with no obvious cause. In the absence of any other etiology, biliary
+sludge should be suspected in patients with acute pancreatitis with a transient elevation in liver tests. Sludge
+is typically found in patients with functional or mechanical bile stasis, such as those undergoing a prolonged
+fast, with distal bile duct obstruction, or on total parenteral nutrition. In addition, ceftriaxone can complex
+with bile to form sludge within the biliary system when its solubility in bile is exceeded; stone formation can
+rarely occur. Biliary disease disappears after stopping the drug.
+On ultrasound, sludge appears as a mobile, low-amplitude echo that layers in the most dependent part of the
+gallbladder and is not associated with shadowing.
+(ii) Primary acinar cell injury.
+
+Primary acinar cell injury leads
+to release of digestive enzymes,
+inflammation, and autodigestion
+of pancreatic tissues. Acinar cells
+can be damaged by a variety of
+endogenous, exogenous, and
+iatrogenic insults. Oxidative
+stress may generate free radicals
+in acinar cells, leading to
+membrane lipid oxidation and
+the activation of transcription
+factors, including AP1 and NFκB, which in turn induce the
+expression of chemokines that
+attract
+mononuclear
+cells.
+Increased calcium flux appears to
+be another important trigger for
+inappropriate
+activation
+of
+digestive enzymes. Calcium has
+a key role in regulating trypsin
+activation. When calcium levels
+are low, trypsin tends to cleave and inactivate itself, but when calcium levels are high, auto-inhibition is
+abrogated and activation of trypsinogen by trypsin is favored. It is suspected that any factor that causes
+calcium levels to rise in acinar cells may trigger excessive activation of trypsin, including certain inherited
+abnormalities that affect calcium levels.
+(iii) Defective intracellular transport of proenzymes within acinar cells. In normal acinar cells, digestive
+enzymes and lysosomal hydrolases are transported in separate pathways. In animal models of acinar injury,
+the pancreatic proenzymes are inappropriately delivered to the intracellular compartment containing
+lysosomal hydrolases. Proenzymes are then activated, the lysosomes are disrupted, and the activated
+enzymes are released. The role of this mechanism in human acute pancreatitis is not clear.
+Alcohol consumption may cause pancreatitis through all of these mechanisms. Alcohol consumption
+transiently increases contraction of the sphincter of Oddi, and chronic alcohol ingestion results in the
+secretion of protein-rich pancreatic fluid that leads to the deposition of inspissated protein plugs and
+obstruction of small pancreatic ducts. Alcohol also has direct toxic effects on acinar cells. Alcohol-induced
+oxidative stress may generate free radicals in acinar cells, leading to membrane lipid oxidation and free
+3
+
+
+=== PAGE 4 ===
+radical production, which as already mentioned has been linked to activation of the pro-inflammatory
+transcription factors AP1 and NF-κB. Oxidative stress also may promote the fusion of lysosomes and
+zymogen granules and alter intracellular calcium levels, possibly through mitochondrial damage, promoting
+the intraacinar activation of trypsin and other digestive enzymes.
+Morphology
+The morphology of acute pancreatitis ranges from trivial inflammation and edema to severe extensive
+necrosis and hemorrhage. The two main types of pancreatitis are interstitial (aka edematous) pancreatitis and
+necrotizing pancreatitis. Interstitial pancreatitis account for 85% of pancreatitis and does not result in
+clinically significant acini death. Necrotizing pancreatitis occurs in 15% of patients presenting with
+pancreatitis and results in significant pancreatic parenchyma destruction and organ dysfunction.
+The basic alterations are (1) microvascular leak and edema, (2) fat necrosis, (3) acute inflammation, (4)
+destruction of pancreatic parenchyma, and (5) destruction of blood vessels and interstitial hemorrhage. The
+extent of each of these alterations depends on the duration and severity of the process. In the milder form,
+acute interstitial pancreatitis, histologic alterations are limited to mild inflammation, interstitial edema, and
+focal areas of fat necrosis in the pancreas and the peripancreatic fat. Fat necrosis results due to lipase. The
+released fatty acids combine with calcium to form insoluble salts that impart a granular blue microscopic
+appearance to the fat cells.
+In the more severe form, acute necrotizing pancreatitis, there is necrosis of acinar and ductal tissues as well
+as islets of Langerhans. Vascular injury can lead to hemorrhage into the pancreatic parenchyma.
+Macroscopically, the pancreatic substance is red-black from hemorrhage and contains interspersed foci of
+yellow-white, chalky fat necrosis. In its most severe form, hemorrhagic pancreatitis, extensive parenchymal
+necrosis is accompanied by dramatic hemorrhage within the substance of the gland.
+Clinical Features
+Abdominal pain is the cardinal manifestation of acute pancreatitis. Characteristically, the pain is constant and
+intense and is referred to the upper back and occasionally to the left shoulder. Its severity varies from mild
+and uncomfortable to severe and incapacitating. Anorexia, nausea, and vomiting frequently accompany the
+pain. Elevated plasma levels of amylase and lipase support the diagnosis of acute pancreatitis, as does the
+exclusion of other causes of abdominal pain.
+Full-blown acute pancreatitis is a medical emergency. Patients usually have the sudden calamitous onset
+of an “acute abdomen.” Many of the systemic features of severe acute pancreatitis can be attributed to
+release of toxic enzymes, cytokines, and other mediators into the circulation and explosive activation of a
+systemic inflammatory response, resulting in leukocytosis, disseminated intravascular coagulation, edema,
+and acute respiratory distress syndrome. Shock, due to the systemic inflammatory response syndrome, and
+acute renal tubular necrosis may occur. Laboratory findings include marked elevation of serum amylase
+levels during the first 24 hours, followed by a rising serum lipase level by 72 to 96 hours after the beginning
+of the attack. Glycosuria occurs in 10% of cases. Hypocalcemia may result from precipitation of calcium
+soaps in necrotic fat. Direct visualization of the enlarged inflamed pancreas by CT scanning is useful in the
+diagnosis of pancreatitis.
+The key to the management of acute pancreatitis is “resting” the pancreas by total restriction of oral intake
+and by supportive therapy with intravenous fluids and analgesia. Although most individuals with acute
+pancreatitis recover fully, about 5% with severe acute pancreatitis die in the first week of illness. Acute
+respiratory distress syndrome and acute renal failure are ominous complications. In 40% to 60% of patients
+with acute necrotizing pancreatitis the necrotic debris becomes infected, usually by gram-negative organisms
+4
+
+
+=== PAGE 5 ===
+from the alimentary tract, further complicating the clinical course. Systemic organ failure and necrosis in the
+pancreas are both poor prognostic findings.
+Chronic Pancreatitis
+Chronic pancreatitis is defined as prolonged inflammation of the pancreas associated with irreversible
+destruction of exocrine parenchyma, fibrosis, and, in the late stages, the destruction of endocrine
+parenchyma. The most common cause of chronic pancreatitis by far is long-term alcohol abuse. In addition
+to alcohol, chronic pancreatitis has been associatedwith long-standing obstruction of the pancreatic duct by
+calculi or neoplasms, autoimmune injury to the gland, hereditary pancreatitis, as discussed under acute
+pancreatitis; up to 25% of chronic pancreatitis has a genetic basis.
+Pathogenesis
+Chronic pancreatitis most often follows repeated episodes of acute pancreatitis. It has been proposed that
+acute pancreatitis initiates a sequence of
+perilobular fibrosis, duct distortion, and
+altered pancreatic secretions. Over time
+and with multiple episodes, this can lead to
+loss of pancreatic parenchyma and fibrosis.
+Chronic pancreatic injury leads to local
+production of inflammatory mediators that
+promote fibrosis and acinar cell loss.
+While the cytokines produced during
+chronic and acute pancreatitis are similar,
+fibrogenic factors tend to predominate in
+chronic pancreatitis. These fibrogenic
+cytokines include transforming growth
+factor β (TGF-β) and platelet-derived
+growth factor, which induce the activation
+and
+proliferation
+of
+periacinar
+myofibroblasts (pancreatic stellate cells),
+resulting in the deposition of collagen and
+fibrosis.
+Comparison of the mediators in acute and chronic pancreatitis
+In acute pancreatitis acinar injury results in release of proteolytic enzymes, leading to a cascade of events
+including activation of the clotting cascade, acute and chronic inflammation, vascular injury, and edema. In
+most patients, complete resolution of the acute injury occurs with restoration of acinar cell mass. In chronic
+pancreatitis, repeated episodes of acinar cell injury lead to the production of profibrogenic cytokines such as
+transforming growth factor β (TGF-β) and platelet-derived growth factor (PDGF), resulting in the
+proliferation of myofibroblasts, the secretion of collagen, and remodeling of the extracellular matrix (ECM).
+Repeated injury produces irreversible loss of acinar cell mass, fibrosis, and pancreatic insufficiency.
+Autoimmune pancreatitis is a pathogenically distinct form of chronic pancreatitis that is associated with the
+presence of IgG4-secreting plasma cells in the pancreas. Autoimmune pancreatitis is one manifestation of
+IgG-related disease, which may involve multiple tissues. Autoimmune pancreatitis may mimic the signs and
+symptoms of pancreatic carcinoma. It is important to recognize because it responds to steroid therapy.
+
+5
+
+
+=== PAGE 6 ===
+Morphology
+Chronic pancreatitis is characterized by fibrosis, atrophy and dropout of acini, and variable dilation of
+pancreatic ducts. Grossly, the gland is hard, sometimes with visibly dilated ducts containing calcified
+concretions. These changes are typically accompanied by a chronic inflammatory infiltrate around lobules
+and ducts. The ductal epithelium may be atrophied or hyperplastic or may show squamous metaplasia.
+Acinar loss is a constant feature. There is usually relative sparing of the islets of Langerhans, which become
+embedded in the sclerotic tissue and may fuse and appear enlarged, but in advanced disease the islets also are
+lost. Chronic pancreatitis caused by alcohol abuse is characterized by ductal dilatation and intraluminal
+protein plugs and calcifications. Autoimmune pancreatitisis characterized by a duct-centric mixed
+inflammatory cell infiltrate, venulitis, and increased numbers of IgG4-secreting plasma cells.
+Clinical Features
+Chronic pancreatitis may present in many different ways. It may follow repeated bouts of acute pancreatitis.
+There may be repeated attacks of mild to moderately severe abdominal pain, or persistent abdominal and
+back pain. Attacks may be precipitated by alcohol abuse, overeating (which increases demand on the
+pancreas), or the use of opiates and other drugs that increase the tone of the sphincter of Oddi. In other
+patients the disease may be entirely silent until pancreatic insufficiency and diabetes mellitus develop due to
+destruction of the exocrine and endocrine pancreas.
+The diagnosis of chronic pancreatitis requires a high degree of suspicion. During an attack of abdominal pain
+there may be mild fever and mild-to-moderate elevations of serum amylase. When the disease has been
+present for a long time, however, the dropout of acinar cells may be so great as to eliminate these diagnostic
+clues. Gallstone-induced obstruction may be evident as jaundice or elevations in serum levels of alkaline
+phosphatase. A very helpful finding is visualization of calcifications within the pancreas by computed
+tomography and ultrasonography. Weight loss and edema due to low albumin from malabsorption caused by
+pancreatic exocrine insufficiency also support the diagnosis.
+Diagnosis
+The diagnosis of chronic pancreatitis can be challenging since laboratory studies and imaging procedures
+may be normal. In addition, patients may have symptoms suggestive of chronic pancreatitis but in fact have
+pancreatic carcinoma. On the other hand, the classic triad of pancreatic calcifications, steatorrhea, and
+diabetes mellitus strongly suggests the diagnosis, but are usually seen together only in late, very advanced
+disease. The diagnosis is confirmed if there are calcifications within the pancreas on abdominal plain films or
+computed tomography (CT) scan, an abnormal pancreatogram (ERCP) revealing beading of the main
+pancreatic duct or ectatic side branches, or an abnormal secretin pancreatic function test.
+Serum concentrations of amylase and lipase may be slightly elevated in patients with chronic pancreatitis,
+but are more commonly normal for the following reasons: 1. Chronic pancreatitis is a patchy, focal disease,
+leading to a minimal increase in pancreatic enzymes within the blood. 2. There is frequently significant
+fibrosis, resulting in decreased abundance of these enzymes within the pancreas. Thus, serum measurements
+of amylase or lipase should be reserved only for the diagnosis of acute pancreatitis and not chronic
+pancreatitis where they are neither diagnostic nor prognostic. It is not unusual that a patient with elevated
+amylase or lipase values <3 times the upper limit of normal is labeled as having chronic pancreatitis when, in
+fact, these are non-diagnostic.
+Pancreatic structure tests: Imaging studies that may be useful in chronic pancreatitis include abdominal plain
+films, transabdominal ultrasound, CT scan, magnetic resonance imaging (MRI/MRCP), endoscopic
+retrograde cholangiopancreatography (ERCP), and endoscopic ultrasound.
+6
+
+
+=== PAGE 7 ===
+Pancreatic function tests: Several invasive and noninvasive tests are available for the diagnosis of pancreatic
+insufficiency, which can be classified as direct or indirect.
+ Direct tests involve the stimulation of the pancreas through the administration of a meal or hormonal
+secretagogues, after which duodenal fluid is collected and analyzed to quantify normal pancreatic
+secretory content (i.e., enzymes, and bicarbonate). Only a few specialized centers perform these tests.
+Their main role is in the diagnosis of early chronic pancreatitis in patients with compatible clinical
+features but without characteristic radiographic findings. The estimated sensitivity and specificity of
+secretin pancreatic function testing in diagnosing chronic pancreatitis are 82 and 86 percent, respectively.
+ Indirect tests measure the consequences of pancreatic insufficiency and are more widely available.
+However, they depend upon the consequences of pancreatic maldigestion, which are generally not
+apparent until normal enzyme secretory output has declined by more than 90 percent. Thus, they are
+insensitive to early pancreatic insufficiency.
+Treatment and Prognosis
+The main tenets of treating chronic pancreatitis involve treating the long term complications of pancreatitis:
+pain, malnutrition and Diabetes Mellitus. The treatment of pain can involve narcotic use, nerve block therapy
+and surgical intervention. Malnutrition focuses on pancreatic enzyme replacement therapy to prevent
+complications resulting in soluble fat vitamin deficiency. Diabetes treatment usually results in treatment with
+oral medications or insulin to control pancreatic endocrine function.
+Although chronic pancreatitis is usually not an immediately life-threatening condition, the long-term outlook
+for individuals with chronic pancreatitis is poor, with a 20- to 25-year mortality rate of 50%. Pancreatic
+exocrine insufficiency, chronic malabsorption, and diabetes mellitus can all lead to significant morbidity and
+contribute to mortality. In other patients severe chronic pain is a dominant problem. Pancreatic pseudocysts
+develop in about 10% of patients. Patients with hereditary pancreatitis have a 40% lifetime risk of
+developing pancreatic cancer; whether this increased cancer risk extends to other forms of chronic
+pancreatitis is unclear.
+Note: In accordance with the ACCME Essentials and Standards, everyone involved in planning and
+presenting this CMSRU educational lecture has no relevant commercial relationships or conflicts of interest.
+There is no commercial support for this program. Instructional materials contained in this document may
+include copyrighted material. The copyright law of the U.S. (Title 17, United States Code) governs the
+making of photocopies or other reproductions of copyrighted material. Please do not reproduce, or transmit,
+any portion of this content. This is strictly for use within CMSRU class. This is posted only on the
+Blackboard which is protected by password. This is in compliance with fair use regulations.
+
+7
+

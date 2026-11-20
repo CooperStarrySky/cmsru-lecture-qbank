@@ -1,0 +1,197 @@
+Glomerular Physiology Lecture Notes
+Slides 2–12
+
+Renal circulation and the filtration barrier
+The glomerulus filters plasma into Bowman’s space. These notes trace the flow of blood and filtrate, explain
+what sets glomerular filtration rate (GFR), and show how arteriolar resistance and feedback stabilize filtration.
+
+Two capillary beds in series
+The kidneys receive about 20–25% of resting cardiac output (roughly 1.0–1.1 L/min of blood).
+Afferent arteriole → glomerular capillaries → efferent arteriole → peritubular capillaries or vasa recta.
+Relatively high glomerular capillary hydrostatic pressure favors filtration. Lower downstream capillary
+hydrostatic pressure and the rise in plasma oncotic pressure after filtration favor uptake of reabsorbed fluid.
+A GFR of 125 mL/min yields approximately 180 L of filtrate per day. The tubules reclaim most of that volume,
+and urine volume varies with water intake and losses. Filtration and tubular transport support waste excretion,
+fluid and electrolyte balance, acid–base regulation, and blood pressure control. The kidneys also produce
+erythropoietin and renin and contribute to hormone metabolism and gluconeogenesis.
+
+Nephron anatomy
+Filtrate travels from Bowman’s space through the proximal tubule, loop of Henle, distal convoluted tubule, and
+connecting tubule into the collecting system. Cortical nephrons have superficial glomeruli and shorter loops.
+Juxtamedullary nephrons have deep cortical glomeruli, long loops, and associated vasa recta. Long loops help
+establish the medullary osmotic gradient. The vasa recta help preserve it through countercurrent exchange.
+
+Three layers of the filtration barrier
+The renal corpuscle includes the glomerular capillary tuft and Bowman’s capsule. The parietal epithelium lines
+the capsule, and visceral podocytes cover the capillaries. Mesangial cells support the tuft and can influence the
+surface area available for filtration.
+Layer
+
+Structure and function
+
+Fenestrated
+endothelium
+
+The endothelial surface and glycocalyx contribute to selectivity. The capillary barrier
+retains blood cells.
+
+Glomerular basement
+membrane
+
+A matrix of type IV collagen, laminin, nidogen, and heparan sulfate proteoglycans
+provides structural support and contributes to macromolecule restriction.
+
+Podocyte slit diaphragm
+
+Nephrin spans the spaces between adjacent foot processes. Podocin supports the slit
+diaphragm complex, and CD2AP links it to intracellular scaffolding.
+
+Small unbound solutes such as glucose and electrolytes filter readily. Albumin has very low filterability across the
+intact barrier. Type IV collagen defects disrupt the basement membrane in Alport syndrome. Minimal change
+disease typically shows diffuse foot process effacement on electron microscopy and presents with nephrotic
+proteinuria.
+
+What determines glomerular filtration rate
+Slides 13–18
+
+Starling forces
+GFR = Kf × [(PGC − PBS) − (πGC − πBS)]
+Kf is the filtration coefficient, the product of hydraulic permeability and available surface area. P denotes
+hydrostatic pressure and π denotes oncotic pressure. GC refers to glomerular capillary and BS to Bowman’s
+space.
+Variable
+increased
+
+Effect on GFR if other variables
+are fixed
+
+Example or mechanism
+
+Kf
+
+Increases
+
+More available filtration surface or greater hydraulic
+permeability
+
+PGC
+
+Increases
+
+Greater force pushing fluid into Bowman’s space
+
+PBS
+
+Decreases
+
+Urinary tract obstruction can transmit pressure upstream
+
+πGC
+
+Decreases
+
+Plasma proteins exert an opposing osmotic force
+
+With PGC = 60 mm Hg, PBS = 18 mm Hg, mean πGC = 32 mm Hg and πBS ≈ 0, net filtration pressure is 10 mm Hg.
+Multiplying by Kf = 12.5 mL/min/mm Hg gives a GFR of 125 mL/min.
+
+Renal plasma flow and filtration fraction
+RPF = RBF × (1 − hematocrit)
+
+•
+
+FF = GFR ÷ RPF
+
+At GFR = 125 mL/min and renal plasma flow (RPF) = 650 mL/min, filtration fraction (FF) is about 19%. As fluid
+leaves the capillary, retained plasma proteins become more concentrated and πGC rises. At the same hydrostatic
+pressure and incoming protein concentration, lower RPF tends to produce a steeper rise in capillary oncotic
+pressure and reduce GFR.
+
+Afferent and efferent arteriolar resistance
+Change from baseline
+
+Renal blood flow
+
+PGC
+
+GFR
+
+Afferent constriction
+
+↓
+
+↓
+
+↓
+
+Afferent dilation
+
+↑
+
+↑
+
+↑
+
+Moderate efferent constriction
+
+↓
+
+↑
+
+Maintained or ↑
+
+Marked efferent constriction
+
+↓↓
+
+↑ if isolated
+
+Can ↓
+
+Efferent dilation
+
+↑
+
+↓
+
+Usually ↓
+
+With marked efferent constriction, the drop in plasma flow and the resulting rise in capillary oncotic pressure
+can outweigh the increase in PGC. These directions describe isolated changes. In vivo, both arterioles and
+systemic pressure can change together.
+
+Regulation of renal blood flow and GFR
+Slides 19–25
+
+Myogenic autoregulation
+Increased perfusion pressure stretches afferent arteriolar smooth muscle. Stretch-induced depolarization
+promotes Ca²⁺ entry through voltage-gated Ca²⁺ channels, which increases tone and limits the rise in glomerular
+pressure and flow. A fall in pressure reduces stretch and favors dilation. Autoregulation buffers changes over a
+range of perfusion pressures, with limits that depend on physiological and clinical context.
+
+Tubuloglomerular feedback
+The juxtaglomerular apparatus brings the macula densa at the thick ascending limb/distal tubule junction into
+contact with the vascular pole (area near afferent and efferent arterioles). It includes renin-producing granular
+cells, predominantly in the afferent arteriole, and extraglomerular mesangial cells.
+High NaCl delivery. Increased NaCl uptake through apical NKCC2 at the macula densa leads to ATP and
+adenosine signaling. Adenosine acting on A₁ receptors increases afferent tone and helps lower GFR and distal
+NaCl delivery.
+Low NaCl delivery. Reduced macula densa NaCl uptake reduces the afferent constrictor signal and favors
+afferent dilation. Prostaglandin E₂ promotes renin release. NaCl delivery also depends on upstream tubular
+reabsorption, so it can change independently of GFR.
+
+Sympathetic/RAAS and hormonal control
+Strong renal sympathetic activation constricts renal arterioles through α₁ signaling, reducing RBF and potentially
+GFR. Renal sympathetic β₁ signaling, reduced afferent perfusion pressure and low macula densa NaCl delivery
+stimulate renin release.
+Renin cleaves angiotensinogen to angiotensin I. ACE converts angiotensin I to angiotensin II. At modest levels,
+angiotensin II preferentially increases efferent tone and supports glomerular pressure during reduced perfusion.
+Higher levels can constrict both arterioles and lower RBF and GFR. Angiotensin II also stimulates proximal
+sodium reabsorption, aldosterone secretion, thirst and vasopressin release. Aldosterone promotes distal sodium
+retention, while vasopressin increases collecting duct water permeability.
+Renal vasodilator prostaglandins buffer vasoconstriction, particularly during reduced effective circulating
+volume. Natriuretic peptides promote natriuresis and can increase GFR. The classic ANP response combines
+afferent dilation with increased efferent tone. Intrarenal dopamine can promote natriuresis and renal
+vasodilation.
+
+

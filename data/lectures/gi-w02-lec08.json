@@ -1,0 +1,102 @@
+{
+ "lecture_id": "gi-w02-lec08",
+ "block": "GI",
+ "week": 2,
+ "lecture": "08 Pancreatitis",
+ "contributor": "thirth",
+ "questions": [
+  {
+   "id": "gi-w02-lec08-q01",
+   "source": "slide",
+   "source_ref": "Slides 39, 26, 16, 18",
+   "stem": "A 38-year-old man presents to your office in follow-up from a single episode of acute interstitial pancreatitis. The cause of his pancreatitis has been labeled as “idiopathic.” What is true of his disease process?",
+   "choices": [
+    "The pathogenesis is related to ductal plugging, acinar cell injury, and activation of stellate cells causing fibrosis.",
+    "The risk of death within the 1st week is most associated with multi-organ failure.",
+    "Imaging is required for the diagnosis.",
+    "A CT scan has the highest sensitivity in diagnosing acute pancreatitis."
+   ],
+   "answer": 1,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "So, death within the 1st 2 weeks is multi-organ failure, that's MOF. After the first two weeks tends to be infection",
+     "at": "00:19:18"
+    },
+    {
+     "type": "slide",
+     "slide": 39,
+     "image": "img/gi-w02-lec08/slide_39.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 26,
+     "image": "img/gi-w02-lec08/slide_26.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 16,
+     "image": "img/gi-w02-lec08/slide_16.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 18,
+     "image": "img/gi-w02-lec08/slide_18.jpg"
+    }
+   ],
+   "note": "Early deaths in acute pancreatitis come from multi-organ failure. In the first two weeks, multi-organ failure is the main cause of death; after two weeks, infection takes over. Overall mortality is low, around 2 to 3%, and about 3% for interstitial disease.\nDuctal plugging and stellate cell fibrosis: this describes chronic pancreatitis. A single acute episode does not cause real fibrosis.\nImaging required: diagnosis needs only 2 of 3 criteria (typical pain, amylase or lipase over 3 times normal, imaging), so pain plus enzymes is enough without a scan.\nCT has the highest sensitivity: CT sensitivity is only moderate. Serum enzymes such as lipase are the highly sensitive test."
+  },
+  {
+   "id": "gi-w02-lec08-q02",
+   "source": "slide",
+   "source_ref": "Slides 66, 41, 60, 50, 48, 63",
+   "stem": "A 50-year-old man with alcohol use disorder presents to your office with chronic pancreatitis for the last 10 years. He has chronic pain that is relatively controlled with periodic use of narcotics; however, he has learned to “deal” with the pain. His weight is chronically low and he has intermittent loose stool. He wants to know about his disease. Which statement regarding his disease process is true?",
+   "choices": [
+    "His risk of pancreatic cancer levels off 10 years after the diagnosis.",
+    "The most common to least common malabsorption pattern is steatorrhea > amylorrhea > azotorrhea.",
+    "The pathogenesis is related to ductal obstruction, toxic metabolic injury, necrosis-fibrosis, and immune dysregulation.",
+    "The most sensitive test to diagnose chronic pancreatitis is a combination of blood glucose levels and an abdominal x-ray.",
+    "The proposed mechanism for chronic hereditary pancreatitis is inadequate degradation of chymotrypsin."
+   ],
+   "answer": 2,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "So, the different pathogenesis, there can be overlapping, it could be one, it could be multiple, but uh intraductal ductal plugging and obstruction, direct toxins and toxic metabolites, uh, necrosis, fibrosis, or immune regulation, we'll go through these.",
+     "at": "00:29:47"
+    },
+    {
+     "type": "slide",
+     "slide": 66,
+     "image": "img/gi-w02-lec08/slide_66.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 41,
+     "image": "img/gi-w02-lec08/slide_41.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 60,
+     "image": "img/gi-w02-lec08/slide_60.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 50,
+     "image": "img/gi-w02-lec08/slide_50.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 48,
+     "image": "img/gi-w02-lec08/slide_48.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 63,
+     "image": "img/gi-w02-lec08/slide_63.jpg"
+    }
+   ],
+   "note": "Chronic pancreatitis has four overlapping proposed mechanisms: intraductal plugging and obstruction, direct toxins and toxic metabolites, necrosis-fibrosis, and immune dysregulation. One or several can be at work in the same patient.\nCancer risk levels off at 10 years: the cumulative cancer risk keeps climbing with years since diagnosis (about 4% at 20 years). It does not plateau.\nSteatorrhea > amylorrhea > azotorrhea: the real order is steatorrhea (common) > azotorrhea (uncommon) > amylorrhea (rare). Lipase is the first enzyme function to fail.\nBlood glucose plus abdominal x-ray: these are the least sensitive tests in their categories. Blood glucose ranks last among function tests and plain film last among structure tests.\nInadequate degradation of chymotrypsin: in hereditary pancreatitis the problem is trypsin that is not degraded, which then sets off the zymogen cascade."
+  }
+ ]
+}

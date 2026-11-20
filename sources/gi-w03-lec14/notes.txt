@@ -1,0 +1,463 @@
+=== PAGE 1 ===
+Inflammatory Bowel Disease (Wednesday, October 28, 2026; 10 am)
+Important note from course directors: Please note that this ebook is created to provide foundation to the
+main concepts presented in the lecture slides and is not intended to include all of the information presented
+in the slides. Dr. Phadtare created the summary of IBD using Robbins and Cotran.
+Inflammatory bowel disease (IBD) is a chronic condition resulting from inappropriate mucosal immune
+activation. The two main disorders that comprise IBD are ulcerative colitis and Crohn disease. The overt
+distinction between ulcerative colitis and Crohn disease is based, in large part, on the distribution of affected
+sites (Figure) and the morphologic expression of disease (Table) at those sites. Ulcerative colitis is limited to
+the colon and rectum and extends only into the mucosa and submucosa. In contrast, Crohn disease, which
+has also been referred to as regional enteritis (because of frequent ileal involvement) may involve any area of
+the GI tract and is typically transmural.
+Comparison of Crohn Disease and Ulcerative Colitis
+Feature
+
+Crohn Disease
+
+Ulcerative Colitis
+
+Bowel region
+
+Ileum ± colon
+
+Colon only
+
+Distribution
+
+Skip lesions
+
+Diffuse
+
+Stricture
+
+Yes
+
+Rare
+
+Wall appearance
+
+Thick
+
+Thin
+
+Inflammation
+
+Transmural
+
+Limited to mucosa
+
+Pseudopolyps
+
+Moderate
+
+Marked
+
+Ulcers
+
+Deep, knife-like
+
+Superficial, broad-based
+
+Lymphoid reaction
+
+Marked
+
+Moderate
+
+Fibrosis
+
+Marked
+
+Mild to none
+
+Serositis
+
+Marked
+
+Mild to none
+
+Granulomas
+
+Yes (~35%)
+
+No
+
+Fistulae/sinuses
+
+Yes
+
+No
+
+Perianal fistula
+
+Yes (in colonic disease)
+
+No
+
+Fat/vitamin
+malabsorption
+
+Yes
+
+No
+
+Malignant potential
+
+With
+involvement
+
+Macroscopic
+
+Microscopic
+
+Clinical
+
+Recurrence
+surgery
+Toxic megacolon
+
+colonic Yes
+
+after Common
+
+No
+
+No
+
+Yes
+
+Note: All features may not be present in a single case.
+
+1
+
+
+=== PAGE 2 ===
+Epidemiology
+Ulcerative colitis and Crohn disease frequently present in the teens and early 20s, with the latter being more
+common in females. IBD is most common among Caucasians and, in the United States, occurs 3 to 5 times
+more often among eastern European (Ashkenazi) Jews than the general population. This is at least partly due
+to genetic factors. The geographic distribution of IBD is highly variable, but it is most common in North
+America, northern Europe, and Australia. However, IBD incidence worldwide is on the rise, and it is
+becoming more common in regions such as Africa, South America, and Asia where its prevalence was
+historically low. The hygiene hypothesis suggests that this increasing incidence is related to improved food
+storage conditions, decreased food contamination, and changes in gut microbiome composition. Apparently
+this results in inadequate development of regulatory processes that limit mucosal immune responses. This in
+turn allows some mucosa-associated microbial organisms to trigger persistent and chronic inflammation in
+susceptible hosts. Although many details to support this hypothesis are lacking, the observation that helminth
+infections, which are endemic in regions where IBD incidence is low, can prevent IBD development in
+animal models and even reduce disease in some patients, lends support to this idea.
+Pathogenesis
+Although precise causes are not yet defined most investigators believe that IBD results from the combined
+effects of alterations in host interactions with intestinal microbiota, intestinal epithelial dysfunction, aberrant
+mucosal immune responses, and altered composition of the gut microbiome. This view is supported by
+epidemiologic, genetic, and clinical studies as well as data from laboratory models of IBD.
+Genetics
+There is compelling evidence that genetic factors contribute to IBD. Risk of disease is increased when there
+is an affected family member and, in Crohn disease, the concordance rate for monozygotic twins approaches
+50%. Genetic factors may also contribute to phenotypic expression of the disease, because twins affected by
+Crohn disease tend to present within a few years of each other and develop disease in similar regions of the
+GI tract. Genetic factors are less dominant in ulcerative colitis than in Crohn disease.
+Population based genome wide association studies have identified over 160 IBD-associated genes. Most of
+these are shared between Crohn disease and ulcerative colitis, as well as other complex immune-mediated
+diseases. Interestingly, several IBD associated genes overlap with genes involved in responses to
+mycobacteria, including Mycobacterium tuberculosis and Mycobacterium leprae. This supports the idea that
+host-microbial interactions are critical to the pathogenesis of IBD and may explain some overlap in the
+histopathology of Crohn disease and mycobacterial infection. One of genes most strongly associated with
+Crohn disease is NOD2 (nucleotide oligomerization binding domain 2), which encodes an intracellular
+protein that binds to bacterial peptidoglycans and activates signaling events, including the NF-κB pathway.
+Despite the increase in risk attributable to NOD2 polymorphisms, it should be remembered that fewer than
+10% of individuals carrying risk associated NOD2 variants develop disease. Thus, as is the case with all
+IBD-associated genes, any one gene confers only a small increase in the risk of developing these diseases.
+In addition to NOD2, two Crohn disease–related genes of particular interest are ATG16L1(autophagy-related
+16-like), and IRGM (immunity-related GTPase M). Both are part of the autophagy pathways that are critical
+for cellular responses to intracellular bacteria; ATG16L1 may also regulate epithelial homeostasis. NOD2,
+ATG16L1, and IRGM are expressed in multiple cell types, and their precise roles in the pathogenesis of
+Crohn disease have yet to be defined. However, all three are involved in recognition and response to
+intracellular pathogens, supporting the hypothesis that inappropriate immune reactions to luminal bacteria
+are an important component of IBD pathogenesis.
+
+2
+
+
+=== PAGE 3 ===
+Mucosal immune responses
+Several observations support a role for mucosal immune responses in the pathogenesis of IBD. Some of
+these are: T helper cells are activated in Crohn disease and the response is polarized to the T H 1 type. T H 17
+T cells most likely contribute to disease pathogenesis. Consistent with this, certain polymorphisms of the IL23 receptor, which is involved in the development and maintenance of T H 17 cells, confer marked reductions
+in the risk of both Crohn disease and ulcerative colitis. Many other pro-inflammatory cytokines, including
+TNF, interferon-γ and IL-13, as well as immunoregulatory molecules such as IL-10 and TGF-β, appear to be
+play a role the pathogenesis of IBD. The role of IL-10 is supported by the observations that autosomal
+recessive mutations of the IL-10 and IL-10 receptor genes are linked to severe, early onset IBD. Overall,
+while details remain to be defined, it is clear that deranged mucosal immune activation and defective
+immunoregulation contribute to the development of ulcerative colitis and Crohn disease. Immunosuppresive
+agents remain the mainstay of treatment for these conditions.
+Epithelial defects
+A variety of epithelial defects have been described in both Crohn disease and ulcerative colitis. Some
+examples: (Defects in intestinal epithelial tight junction barrier function are present in Crohn disease patients
+and a subset of their healthy first-degree relatives. In patients with Crohn disease and their relatives, this
+barrier dysfunction is associated with specific disease-associated NOD2polymorphisms; experimental
+models demonstrate that barrier dysfunction can activate innate and adaptive mucosal immunity and sensitize
+subjects to disease. Some polymorphisms, such as those involving ECM1 (extracellular matrix protein 1),
+which inhibits matrix metalloproteinase 9, are linked to ulcerative colitis but not Crohn disease. In this
+context it is notable that inhibition of matrix metalloproteinase 9 reduces the severity of colitis in
+experimental models. Certain polymorphisms in the transcription factor HNFA are associated with ulcerative
+colitis but not Crohn disease. These HNFA polymorphisms are also strongly associated with maturity onset
+diabetes of the young (MODY), which like IBD, is associated with reduced intestinal barrier function. Thus,
+derangements in epithelial function is an important component are critical to IBD pathogenesis.
+Microbiota
+The abundance of microbiota in the GI lumen
+amounts to as much as 10 12 organisms per milliliter
+in the colon and 50% of fecal mass. Microbiota play
+a role in the evolution of IBD. As mentioned earlier,
+linkage to NOD2, points to the involvement of
+microbes in the causation of Crohn disease. The
+presence of antibodies against the bacterial protein
+flagellin are most common in Crohn disease patients
+who have disease associated NOD2 variants, stricture
+formation, perforation, and small-bowel involvement.
+In contrast, anti-flagellin antibodies are uncommon in
+ulcerative colitis patients. Clinical trials suggest that
+probiotic (or beneficial) bacteria or even fecal
+microbial transplants from healthy individuals may
+benefit IBD patients.
+One model that unifies the roles of intestinal
+microbiota, epithelial function, and mucosal
+immunity suggests a cycle by which transepithelial
+flux of luminal bacterial components activates innate
+and adaptive immune responses. In a genetically
+
+One model of IBD pathogenesis for both Crohn
+disease and ulcerative colitis
+3
+
+
+=== PAGE 4 ===
+susceptible host, the subsequent release of TNF and other immune-mediated signals direct epithelia to
+increase tight junction permeability, which causes further increases in the in flux of luminal material. These
+events may establish a self-amplifying cycle that gives rise to maladaptative and injurious immune
+responses.
+Crohn Disease
+Morphology
+Crohn disease may occur in any area of the GI tract, but the
+most common sites involved at presentation are the terminal
+ileum, ileocecal valve, and cecum. The presence of multiple,
+separate, sharply delineated areas of disease, resulting in skip
+lesions, is characteristic of Crohn disease and may help in the
+differentiation from ulcerative colitis (UC). Strictures are
+common in Crohn disease, but do not generally develop in UC.
+The earliest lesion, the aphthous ulcer, may progress, and
+multiple lesions often coalesce into elongated, serpentine ulcers
+oriented along the axis of the bowel (B). Edema and loss of the
+normal mucosal texture are common. Sparing of interspersed
+mucosa, a result of the patchy distribution of Crohn disease,
+results in a coarsely textured, cobblestone appearance in which
+diseased tissue is depressed below the level of normal mucosa
+(B). Fissures frequently develop between mucosal folds and
+may extend deeply to become fistula tracts or sites of
+perforation (C). The intestinal wall is thickened and rubbery as
+a consequence of transmural edema, inflammation,
+Gross pathology of Crohn disease. A. Smallsubmucosal fibrosis, and hypertrophy of the muscularis intestinal stricture. B. Linear mucosal ulcers,
+propria, all of which contribute to stricture formation (A). In which impart a cobblestone appearance to the
+cases
+with mucosa,
+intestinal
+and
+thickened
+extensive
+wall. C. Perforation and associated serotransmural
+sitis. D. Creeping fat.
+disease,
+mesenteric fat frequently extends around the serosal
+surface (creeping fat) (D).
+The microscopic features of active Crohn disease include
+abundant neutrophils that infiltrate and damage crypt epithelium.
+Clusters of neutrophils within a crypt are referred to as crypt
+abscesses and are often
+Crohn associated with crypt
+Microscopic
+pathology
+of
+disease. A, Haphazard crypt organization destruction. Ulceration
+results from repeated injury and
+is common in Crohn
+regeneration. B, Noncaseating
+granuloma. C, Transmural Crohn disease disease, and there may
+with submucosal and serosal granulomas be an abrupt transition
+between ulcerated and
+(arrows).
+adjacent
+normal
+mucosa. Even in areas where gross examination suggests diffuse
+disease, microscopic pathology can appear patchy. Repeated cycles of crypt destruction and regeneration
+lead to distortion of mucosal architecture; the normally straight and parallel crypts take on bizarre branching
+4
+
+
+=== PAGE 5 ===
+shapes and unusual orientations to one another (A). Epithelial metaplasia, another consequence of chronic
+relapsing injury, often takes the form of gastric antral-appearing glands, and is called pseudopyloric
+metaplasia. Paneth cell metaplasia may also occur in the left colon, where Paneth cells are normally absent.
+These architectural and metaplastic changes may persist even when active inflammation has resolved.
+Mucosal atrophy, with loss of crypts, may occur after years of disease. Noncaseating granulomas (B), a
+hallmark of Crohn disease, are found in approximately 35% of cases and may occur in areas of active disease
+or uninvolved regions in any layer of the intestinal wall (C). Granulomas may also be present in mesenteric
+lymph nodes. Cutaneous granulomas form nodules that are referred to as metastatic Crohn disease (a
+misnomer since there is no cancer). The absence of granulomas does not preclude a diagnosis of Crohn
+disease.
+Clinical Features
+The clinical manifestations of Crohn disease are extremely variable. In most patients disease begins with
+intermittent attacks of relatively mild diarrhea, fever, and abdominal pain. Approximately 20% of patients
+present acutely with right lower quadrant pain, fever, and bloody diarrhea that may mimic acute appendicitis
+or bowel perforation. Periods of active disease are typically interrupted by asymptomatic periods that last for
+weeks to many months. Disease re-activation can be associated with a variety of external triggers, including
+physical or emotional stress, specific dietary items, and cigarette smoking. The latter is a strong exogenous
+risk factor for development of Crohn disease and, in some cases, disease onset is associated with initiation of
+smoking. Unfortunately, smoking cessation does not result in disease remission.
+Iron-deficiency anemia may develop in individuals with colonic disease, while extensive small bowel disease
+may result in serum protein loss and hypoalbuminemia, generalized nutrient malabsorption, or malabsorption
+of vitamin B 12 and bile salts. Fibrosing strictures, particularly of the terminal ileum, are common and
+require surgical resection. Disease often recurs at the site of anastomosis, and as many as 40% of patients
+require additional resections within 10 years. Fistulae develop between loops of bowel and may also involve
+the urinary bladder, vagina, and abdominal or perianal skin. Perforations and peritoneal abscesses are
+common. Anti-TNF antibodies have revolutionized treatment of Crohn disease, and other biologic therapies
+are becoming available.
+Extraintestinal manifestations of Crohn disease include uveitis, migratory polyarthritis, sacroiliitis,
+ankylosing spondylitis, erythema nodosum, and clubbing of the fingertips, any of which may develop before
+intestinal disease is recognized. Pericholangitis and primary sclerosing cholangitis occur in Crohn disease
+with a higher frequency than in those without Crohn disease, but are even more common in those who have
+ulcerative colitis. As discussed later, risk of colonic adenocarcinoma is increased in patients with longstanding IBD affecting the colon.
+Ulcerative Colitis
+Ulcerative colitis is closely related to Crohn disease. However, the disease in ulcerative colitis is limited to
+the colon and rectum. Common extraintestinal manifestations of ulcerative colitis overlap with those of
+Crohn disease and include migratory polyarthritis, sacroiliitis, ankylosing spondylitis, uveitis, and skin
+lesions. Approximately 2.5% to 7.5% of individuals with ulcerative colitis also have primary sclerosis
+cholangitis. The long-term outlook for ulcerative colitis patients depends on the severity of active disease
+and disease duration.
+Morphology
+Grossly, ulcerative colitis always involves the rectum and extends proximally in a continuous fashion to
+involve part or all of the colon. Disease of the entire colon is termed pancolitis, while left-sided disease
+5
+
+
+=== PAGE 6 ===
+extends no farther than the transverse colon. Limited distal disease may be referred to descriptively as
+ulcerative proctitis or ulcerative proctosigmoiditis. The small intestine is normal, although mild mucosal
+inflammation of the distal ileum, termed backwash ileitis, may be present in severe cases of pancolitis. Skip
+lesions are not seen (although focal appendiceal or cecal inflammation may occasionally be present in leftsided ulcerative colitis).
+Grossly, involved colonic mucosa may
+be slightly red and granular or have
+extensive, broad-based ulcers. There
+can be an abrupt transition between
+diseased and uninvolved colon (B).
+Ulcers are aligned along the long axis
+of the colon but do not typically
+replicate the serpentine ulcers of Crohn
+disease. Isolated islands of regenerating
+mucosa often bulge into the lumen to
+createpseudopolyps (C), and the tips of
+these polyps may fuse to create mucosal
+bridges (D). Chronic disease may lead
+to mucosal atrophy with a flat and
+smooth mucosal surface that lacks
+normal
+folds.
+Unlike
+Crohn
+disease, mural thickening is not present,
+the serosal surface is normal, and
+strictures do not occur . However,
+inflammation
+and
+inflammatory
+mediators can damage the muscularis
+propria and disturb neuromuscular function leading to colonic dilation andtoxic megacolon , which carries a
+significant risk of perforation.
+Gross pathology of ulcerative colitis. A, Total colectomy with
+pancolitis showing active disease, with red, granular mucosa in the
+cecum (left) and smooth, atrophic mucosa distally (right). B, Sharp
+demarcation between active ulcerative colitis (right) and normal
+mucosa (left). C, Inflammatory polyps. D, Mucosal bridges.
+
+Histologic features of mucosal disease in ulcerative colitis are similar to colonic Crohn disease and include
+inflammatory infiltrates, crypt abscesses, crypt distortion, and pseudopyloric epithelial metaplasia.
+However, the inflammatory process is diffuse and generally limited to the mucosa and superficial
+submucosa . In severe cases, extensive mucosal destruction may be accompanied by ulcers that extend more
+deeply into the submucosa, but the muscularis propria is rarely involved. Submucosal fibrosis, mucosal
+atrophy, and distorted mucosal architecture remain as residua of healed disease but histology may also revert
+to near normal after prolonged remission. Granulomas are not present in ulcerative colitis.
+Clinical Features
+Ulcerative colitis is a relapsing disorder characterized by attacks of bloody diarrhea with stringy, mucoid
+material, lower abdominal pain, and cramps that are temporarily relieved by defecation. These symptoms
+may persist for days, weeks, or months before they subside. The initial attack may, in some cases, be severe
+enough to constitute a medical or surgical emergency. More than half of patients have clinically mild
+disease, although almost all experience at least one relapse during a 10-year period, and up to 30% require
+colectomy within the first 3 years after presentation because of uncontrollable symptoms. Colectomy
+effectively cures intestinal disease in ulcerative colitis, but extraintestinal manifestations may persist.
+The factors that trigger ulcerative colitis are not known, but infectious enteritis precedes disease onset in
+some cases. In other cases the first attack is preceded by psychologic stress, which may also be linked to
+6
+
+
+=== PAGE 7 ===
+relapse during remission. The initial onset of symptoms has also been reported to occur shortly after smoking
+cessation in some patients, and smoking may partially relieve symptoms. Unfortunately, studies of nicotine
+as a therapeutic agent have been disappointing.
+Indeterminate Colitis
+Because of the extensive pathologic and clinical overlap between ulcerative colitis and Crohn disease,
+definitive diagnosis is not possible in approximately 10% of IBD patients. These cases, termed indeterminate
+colitis, do not involve the small bowel and have colonic disease in a continuous pattern that would typically
+indicate ulcerative colitis. However, patchy histologic disease, fissures, a family history of Crohn disease,
+perianal lesions, onset after initiating use of cigarettes, or other features that are not typical of ulcerative
+colitis may prompt more detailed endoscopic, radiographic, and histologic examination. Serologic studies
+can be useful in these cases because perinuclear anti-neutrophil cytoplasmic antibodies are found in 75% of
+individuals with ulcerative colitis but only 11% with Crohn disease. In contrast, ulcerative colitis patients
+tend to lack antibodies to Saccharomyces cerevisiae, which are often present in those with Crohn disease.
+However, even the serologic results can be ambiguous in cases that are indeterminate on clinical grounds.
+Despite diagnostic uncertainty, extensive overlap in medical management of ulcerative colitis and Crohn
+disease allows patients carrying a diagnosis of indeterminate colitis to be treated effectively.
+Colitis-Associated Neoplasia
+One of the most feared long-term complications of ulcerative colitis and colonic Crohn disease is the
+development of neoplasia. The risk of dysplasia is related to several factors:
+Duration of the disease. Risk increases sharply 8 to 10 years after disease onset.
+Extent of the disease. Patients with pancolitis are at greater risk than those with only left-sided disease.
+Nature of the inflammatory response. Greater frequency and severity of active inflammation (characterized
+by the presence of neutrophils) confers increased risk.
+To facilitate early detection of neoplasia, patients are typically enrolled in surveillance programs
+approximately 8 years after diagnosis of IBD. The major exception to this is patients with IBD and primary
+sclerosing cholangitis, who have an even greater risk of developing cancer and are generally enrolled for
+surveillance at the time of diagnosis. Surveillance requires regular and extensive mucosal biopsies, making it
+a costly practice. Research efforts are therefore focused on discovery of molecular markers of dysplasia. The
+goal of surveillance biopsies is to identify dysplastic epithelium, which is a precursor to colitisassociated carcinoma. Dysplasia can develop in flat areas of mucosa that are not grossly recognized as
+abnormal. Thus, advanced endoscopic imaging techniques including chromoendoscopy and confocal
+endoscopy are beginning to be used to increase the sensitivity of detection. IBD-associated dysplasia is
+classified histologically as low grade or high grade and may be multifocal. High-grade dysplasia may be
+associated with invasive carcinoma at the same site or elsewhere in the colon and, therefore, often prompts
+colectomy. Low-grade dysplasia may be treated with colectomy or followed closely, depending on a variety
+of factors including patient age and the number of dysplastic foci present. Colonic adenomas also occur in
+IBD patients, and in some cases these may be difficult to differentiate from a polypoid focus of IBDassociated dysplasia.
+The extraintestinal manifestions (EIM) of Inflammatory Bowel Disease are quite common. These
+manifestations include axial and peripheral arthritis (20%), eye involvement (5%), skin disorders (10%),
+Primary Sclerosing Cholangitis (5% of IBD pts with UC >>CD), renal stones (10%), osteoporosis and bone
+loss (60%) and many other less common manifestations (neuologic, parenchymal lung disease, cardiac
+disorders, pancreatitis and autoimmune phenomenon). Some of the earliest and most recognizable
+extraintestinal manifestions of IBD have been the arthropathies. In fact, it is the treatment with similar
+7
+
+
+=== PAGE 8 ===
+medications for both arthritis and IBD that has led to the understanding of the overlap in the pathophysiology
+of these diseases. Some of the EIM of IBD tend to mirror the activity level of the IBD itself, whereas other
+processes appear to be independent of the activity of the IBD. For example, control of the IBD tends to
+improve the symptoms associated with uveitis, episcleritis, Erythema Nodosum and peripheral arthritis.
+Other EIM are more independent of the activity of the IBD.
+Note: In accordance with the ACCME Essentials and Standards, everyone involved in planning and
+presenting this CMSRU educational lecture has no relevant commercial relationships or conflicts of interest.
+There is no commercial support for this program. Instructional materials contained in this document may
+include copyrighted material. The copyright law of the U.S. (Title 17, United States Code) governs the
+making of photocopies or other reproductions of copyrighted material. Please do not reproduce, or transmit,
+any portion of this content. This is strictly for use within CMSRU class. This is posted only on the
+Blackboard which is protected by password. This is in compliance with fair use regulations.
+
+8
+

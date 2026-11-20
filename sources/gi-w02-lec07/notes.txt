@@ -1,0 +1,326 @@
+=== PAGE 1 ===
+Biliary Diseases (Monday, October 19, 2026; 11 am)
+Important note from course directors: Please note that this ebook is created to provide foundation to the
+main concepts presented in the lecture slides and is not intended to include all of the information presented
+in the slides. Dr. Phadtare created the ebook using mainly Robbins and Cotran (along with some other
+sources) and Dr. DeSipio added the description of cholangiocarcinoma from UpToDate.
+Gallbladder
+Bile is secreted by the liver and stored in the gallbladder between meals, where it is concentrated. The organ
+is not essential for biliary function, since humans do not suffer from indigestion or malabsorption of fat after
+cholecystectomy. More than 95% of biliary tract disease is attributable to cholelithiasis (gallstones).
+Cholelithiasis (Gallstones)
+More than 80% of gallstones are “silent,” and most individuals do not experience biliary pain or other
+complications for decades. There are two general classes of gallstones: cholesterol stones, containing more
+than 50% of crystalline cholesterol monohydrate, and pigment stones composed predominantly of
+bilirubin calcium salts.
+Risk Factors for Gallstones
+Cholesterol Stones
+Demography: northern Europeans, North and South Americans, Native Americans, Mexican Americans;
+advancing age; female sex hormones; female gender; oral contraceptives; pregnancy; obesity and
+metabolic syndrome; rapid weight reduction; gallbladder stasis; inborn disorders of bile acid metabolism;
+hyperlipidemia syndromes
+Pigment Stones
+Demography: Asians more than Westerners, rural more than urban; chronic hemolytic syndromes; biliary
+infection; gastrointestinal disorders: cystic fibrosis with pancreatic insufficiency
+Age and sex. Cholesterol gallstones predominantly affect individuals of middle to older age. Prevalence is
+higher in females; is twice in Caucasian women compared to men. Hypersecretion of biliary cholesterol
+seems to play the major role in both age and gender differences. Significant associations are also seen with
+the metabolic syndrome and obesity.
+Environmental factors. Estrogen exposure, including through oral contraceptive use and during pregnancy,
+increases the expression of hepatic lipoprotein receptors and stimulates hepatic HMG-CoA reductase
+activity, enhancing both cholesterol uptake and biosynthesis, respectively. The net result is excess biliary
+secretion of cholesterol. Obesity and rapid weight loss also are strongly associated with increased biliary
+cholesterol secretion.
+Acquired disorders. Gallbladder stasis, either neurogenic or hormonal, fosters a local environment that is
+favorable for both cholesterol and pigment gallstone formation.
+
+1
+
+
+=== PAGE 2 ===
+Hereditary factors. Genes encoding hepatocyte proteins that transport biliary lipids, known as ATP-binding
+cassette (ABC) transporters are associated with gallstone formation, e.g. a common variant of the sterol
+transporter encoded by the ABCG8 gene.
+Pathogenesis
+(i) Cholesterol Stones
+Cholesterol is solubilized in bile by aggregation with water-soluble bile salts and water-insoluble lecithins,
+both of which act as detergents. When cholesterol concentrations exceed the solubilizing capacity of bile
+(supersaturation), cholesterol can no longer remain dispersed and nucleates into solid cholesterol
+monohydrate crystals. Four conditions appear to contribute to formation of cholesterol gallstones (1)
+supersaturation of bile with cholesterol; (2) hypomotility of the gallbladder; (3) accelerated cholesterol
+crystal nucleation; (4) and hypersecretion of mucus in the gallbladder, which traps the nucleated crystals,
+leading to accretion of more cholesterol and the appearance of macroscopic stones.
+(ii) Pigment Stones
+Pigment gallstones are complex mixtures of insoluble calcium salts of unconjugated bilirubin along with
+inorganic calcium salts. Disorders that are associated with elevated levels of unconjugated bilirubin in bile,
+such as chronic hemolytic anemias, and bacterial contamination of the biliary tree, increase the risk of
+developing pigment stones. Unconjugated bilirubin is normally a minor component of bile, but it increases
+when infection of the biliary tract leads to release of microbial β-glucuronidases, which hydrolyze bilirubin
+glucuronides. Thus, infection of the biliary tract with Escherichia coli, Ascaris lumbricoides , or the liver
+fluke C. sinensis, increases the likelihood of pigment stone formation. In hemolytic anemias the secretion of
+conjugated bilirubin into the bile increases. About 1% of bilirubin glucuronides are deconjugated in the
+biliary tree, and in the setting of chronically increased secretion of conjugated bilirubin, there is sufficiently
+large amount of deconjugated bilirubin left to allow pigment stones to form.
+Morphology
+(i) Cholesterol stones arise exclusively in the gallbladder and range from 100% pure (rare) to around 50%
+cholesterol. Pure cholesterol stones are pale yellow, round to ovoid, and have a finely granular and hard
+external surface. With increasing proportions of calcium carbonate, phosphates, and bilirubin, the stones take
+on a gray-white to black color and may be lamellated. Stones composed largely of cholesterol are
+radiolucent; while those containing calcium carbonate are radiopaque.
+(ii) Pigment gallstones are brown to black. In general, black pigment stones are found in sterile gallbladder
+bile and brown stones are found in infected large bile ducts. Black stones contain oxidized polymers of the
+calcium salts of unconjugated bilirubin, small amounts of calcium carbonate, calcium phosphate, and mucin
+glycoprotein, and some cholesterol monohydrate crystals. Brown stones contain similar compounds along
+with some cholesterol and calcium salts of palmitate and stearate. The black stones are rarely greater than
+1.5 cm in diameter, are almost invariably present in great number (with an inverse relationship between size
+and number), and are quite friable. Their contours are usually spiculated and molded. Brown stones tend to
+be laminated and soft and may have a soap like or greasy consistency. Approximately 50% to 75% of black
+stones are radiopaque due to calcium salts while brown stones, containing calcium soaps, are radiolucent.
+Mucin glycoproteins constitute the scaffolding and interparticle cement of all types of stones.
+Clinical Features
+Gallstones may be present for decades before symptoms develop, and 70% to 80% of patients remain
+asymptomatic throughout their lives. Asymptomatic individuals probably convert to being symptomatic at a
+rate of up to 4% per year, although the risk diminishes with time. Prominent among symptoms is biliary
+colic that may be excruciating. Despite its characterization as “colic” it is usually constant and not colicky. It
+2
+
+
+=== PAGE 3 ===
+usually follows a fatty meal which forces a stone against the gall bladder outlet leading to increased pressure
+in the gall bladder causing pain. Pain is localized to right upper quadrant or epigastrium that may radiate to
+the right shoulder or the back. Inflammation of the gallbladder (cholecystitis, discussed below), in
+association with stones, also generates pain. More severe complications include empyema, perforation,
+fistulas, inflammation of the biliary tree (cholangitis), obstructive cholestasis and pancreatitis. The larger the
+calculi, the less likely they are to enter the cystic or common ducts to produce obstruction; it is the very small
+stones, or “gravel,” that are more dangerous. Occasionally a large stone may erode directly into an adjacent
+loop of small bowel, generating intestinal obstruction (“gallstone ileus” or Bouveret syndrome). Gallstones
+are also associated with an increased risk of gallbladder carcinoma.
+Cholecystitis
+Inflammation of the gallbladder may be acute, chronic, or acute superimposed on chronic. It almost always
+occurs in association with gallstones. In the United States, cholecystitis is one of the most common
+indications for abdominal surgery. Its epidemiologic distribution closely parallels that of gallstones.
+Acute Cholecystitis
+Acute calculous cholecystitis is precipitated in 90% of cases by obstruction of the neck or the cystic duct by
+a stone. It is the primary complication of gallstones and the most common reason for emergency
+cholecystectomy. Cholecystitis without gallstones (acalculous cholecystitis) may occur in severely ill
+patients and accounts for about 10% of patients with cholecystitis.
+(i) Pathogenesis
+Acute calculous cholecystitis results from chemical irritation and inflammation of a gallbladder obstructed
+by stones. The action of mucosal phospholipases hydrolyzes luminal lecithins to toxic lysolecithins. The
+normally protective glycoprotein mucus layer is disrupted, exposing the mucosal epithelium to the direct
+detergent action of bile salts. Prostaglandins released within the wall of the distended gallbladder contribute
+to mucosal and mural inflammation; distention and increased intraluminal pressure compromise blood flow
+to the mucosa. These events occur in the absence of bacterial infection; only later in the course may bacterial
+contamination develop. Acute calculous cholecystitis frequently develops in diabetic patients who have
+symptomatic gallstones.
+Acute acalculous cholecystitis, without stone involvement, is thought to result from ischemia. The cystic
+artery is an end artery with no collateral circulation. Contributing factors may include inflammation and
+edema of the wall compromising blood flow, gallbladder stasis, and accumulation of microcrystals of
+cholesterol (biliary sludge), viscous bile, and gallbladder mucus, causing cystic duct obstruction in the
+absence of stones. It occurs in patients who are hospitalized for unrelated conditions. Risk factors for acute
+acalculous cholecystitis include: (1) sepsis with hypotension and multisystem organ failure; (2)
+immunosuppression; (3) major trauma and burns; (4) diabetes mellitus; (5) infections.
+(ii) Morphology
+In acute cholecystitis the gallbladder is usually enlarged and tense, and it may assume a bright red or
+blotchy, violaceous to green-black discoloration, imparted by subserosal hemorrhages. The serosal covering
+is frequently covered by a fibrinous exudate that may be fibrinopurulent in severe cases. There are no
+specific morphologic differences between acute acalculous and calculous cholecystitis, save the absence of
+stones in the acalculous form. In calculous cholecystitis, an obstructing stone is usually present in the neck
+of the gallbladder or the cystic duct. The gallbladder lumen may contain one or more stones and is filled with
+cloudy or turbid bile that may contain large amounts of fibrin, pus, and hemorrhage. When the exudate is
+virtually pure pus, the condition is referred to as gallbladder empyema. In mild cases the gallbladder wall is
+3
+
+
+=== PAGE 4 ===
+thickened, edematous, and hyperemic. In more severe cases it is transformed into a green-black necrotic
+organ, termed gangrenous cholecystitis, with small-to-large perforations. Inflammation is predominantly
+neutrophilic. The invasion of gas-forming organisms, notably clostridia and coliforms, may cause an acute
+“emphysematous” cholecystitis.
+(iii) Clinical Features
+Individuals with acute calculous cholecystitis usually, but not always, have experienced previous episodes of
+pain. An attack of acute cholecystitis begins with progressive right upper quadrant or epigastric pain that
+lasts for more than six hours. It is frequently associated with mild fever, anorexia, tachycardia, sweating,
+nausea, and vomiting. Most patients are free of jaundice; the presence of hyperbilirubinemia suggests
+obstruction of the common bile duct. Mild to moderate leukocytosis may be accompanied by mild elevations
+in serum alkaline phosphatase values. Acute calculous cholecystitis may appear with remarkable suddenness
+and constitute an acute surgical emergency or may present with mild symptoms that resolve without medical
+intervention. In the absence of medical attention, the attack usually subsides in 7 to 10 days and frequently
+within 24 hours. However, as many as 25% of patients progressively develop more severe symptoms and
+require immediate surgical intervention. Recurrence is common in patients who recover without surgery.
+Clinical symptoms of acute acalculous cholecystitis tend to be more insidious, since they are obscured by the
+underlying conditions precipitating the attacks. A higher proportion of patients have no symptoms referable
+to the gallbladder; diagnosis therefore rests on a high index of suspicion. In the severely ill patient, early
+recognition of the condition is crucial, since failure to do so almost ensures a fatal outcome. As a result of
+either delay in diagnosis or the disease itself, the incidence of gangrene and perforation is much higher in
+acalculous than in calculous cholecystitis. In rare instances, primary bacterial infection can give rise to acute
+acalculous cholecystitis, by agents such as Salmonella typhi and staphylococci. A more indolent form of
+acute acalculous cholecystitis may occur in the setting of systemic vasculitis, severe atherosclerotic ischemic
+disease in the elderly, in patients with AIDS, and with biliary tract infection.
+Chronic Cholecystitis
+Chronic cholecystitis may result from repeated bouts of mild to severe acute cholecystitis, but in many
+instances it develops in the apparent absence of antecedent attacks. Since it is associated with cholelithiasis
+in more than 90% of cases, the at-risk patient population is the same as that for gallstones. The evolution of
+chronic cholecystitis is obscure; it is not clear that gallstones play a direct role in the initiation of
+inflammation or the development of pain, particularly since chronic acalculous cholecystitis shows
+symptoms and histology similar to those of the calculous form. Rather, supersaturation of bile predisposes to
+both chronic inflammation and, in most instances, stone formation. Microorganisms, usually E. coli and
+enterococci, can be cultured from the bile in about one third of cases. Unlike acute calculous cholecystitis,
+obstruction of gallbladder outflow is not a requisite. Since most gallbladders that are removed at elective
+surgery for gallstones show features of chronic cholecystitis, one must conclude that biliary symptoms often
+emerge following long-term coexistence of gallstones and low-grade inflammation.
+(i) Morphology
+The morphologic changes in chronic cholecystitis are extremely variable and sometimes minimal. The serosa
+is usually smooth and glistening but may be dulled by subserosal fibrosis. Dense fibrous adhesions may
+remain as sequelae of preexistent acute inflammation. On sectioning, the wall is variably thickened, and has
+an opaque gray-white appearance. In the uncomplicated case the lumen contains green-yellow, mucoid bile
+and usually stones. The mucosa itself is generally preserved.
+On histologic examination the degree of inflammation is variable. In the mildest cases, only scattered
+lymphocytes, plasma cells, and macrophages are found in the mucosa and in the subserosal fibrous tissue. In
+4
+
+
+=== PAGE 5 ===
+more advanced cases there is marked subepithelial and subserosal fibrosis, accompanied by mononuclear cell
+infiltration. Reactive proliferation of the mucosa and fusion of the mucosal folds may give rise to buried
+crypts of epithelium within the gallbladder wall. Outpouchings of the mucosal epithelium through the wall
+(Rokitansky-Aschoff sinuses) may be quite prominent. Presence of acute inflammatory changes implies
+acute exacerbation of an already chronically injured gallbladder.
+In rare instances extensive dystrophic calcification within the gallbladder wall may yield a porcelain
+gallbladder, notable for a markedly increased incidence of associated cancer. In xanthogranulomatous
+cholecystitis, the gallbladder has a massively thickened wall and is shrunken, nodular, and chronically
+inflamed with foci of necrosis and hemorrhage. It is triggered by rupture of Rokitansky-Aschoff sinuses into
+the wall of the gall bladder followed by an accumulation of macrophages that have ingested biliary
+phospholipids. Such lipid containing cells with foamy cytoplasm are called xanthoma cells and hence the
+name of this condition. Finally, an atrophic, chronically obstructed, often dilated gallbladder, may contain
+only clear secretions, a condition known as hydrops of the gallbladder.
+(ii) Clinical Features
+ Chronic cholecystitis does not have the striking manifestations of the acute forms and is usually
+characterized by recurrent attacks of either steady epigastric or right upper quadrant pain. Nausea,
+vomiting, and intolerance for fatty foods are frequent accompaniments.
+ Diagnosis of both acute and chronic cholecystitis is important because of the following complications:
+ Bacterial superinfection with cholangitis or sepsis
+ Gallbladder perforation and local abscess formation
+ Gallbladder rupture with diffuse peritonitis
+ Biliary enteric (cholecystenteric) fistula, with drainage of bile into adjacent organs, entry of air and
+bacteria into the biliary tree, and potentially, gallstone-induced intestinal obstruction (ileus)
+ Aggravation of preexisting medical illness, with cardiac, pulmonary, renal, or liver decompensation
+ Porcelain gallbladder, with increased risk of cancer, although surveys of this risk have yielded widely
+discrepant frequencies
+Gall Bladder Carcinoma
+Carcinoma of the gallbladder is the most common malignancy of the extrahepatic biliary tract. Some regions
+such as Chile, Bolivia and Northern India, harbor the highest numbers of cases. Within the United States,
+southwest areas with large numbers of Native American or Hispanic populations have a higher incidence of
+gallbladder cancer. Gallbladder cancer is at least twice as common in women as compared to men. The
+overwhelming majority of patients are diagnosed at an advanced, surgically unresectable stage, and the mean
+5-year survival for these patients remains at less than 10%.
+Pathogenesis
+The most important risk factor for gallbladder cancer (besides gender and ethnicity) is gallstones which are
+present in 95% of cases. However, it should be noted that only 1-2% of patients with gallstones develop
+gallbladder cancer. In Asia, chronic bacterial or parasitic infections have been implicated as risk factors, and
+the coexistence of gallstones with gallbladder cancer is much lower. Nonetheless, the common thread that
+ties gallstones or chronic infections together with gallbladder cancer is chronic inflammation. Gallbladder
+cancers harbor recurrent molecular alterations that might be “actionable” targets of therapy. One example is
+the oncoprotein ERBB2 (Her-2/neu) that is overexpressed in a third to two-thirds of cases, and therefore
+might be targeted with small molecule inhibitors or monoclonal antibodies. Recent deep sequencing of
+5
+
+
+=== PAGE 6 ===
+gallbladder cancers has revealed mutations of chromatin remodeling genes such as PBRM1 and MLL3 in up
+to a quarter of cases. These could potentially provide targets for therapy.
+Morphology
+Carcinomas of the gallbladder show two patterns of growth: infiltrating and exophytic. The infiltrating
+pattern is more common and usually appears as a poorly defined area of diffuse mural thickening and
+induration. Deep ulceration can cause direct penetration into the liver or fistula formation to adjacent viscera
+into which the neoplasm has grown. These tumors are scirrhous and have a very firm consistency. The
+exophytic pattern grows into the lumen as an irregular, cauliflower mass, but at the same time invades the
+underlying wall.
+Most carcinomas of the gallbladder are adenocarcinomas. Some of the carcinomas are papillary in
+architecture and are well to moderately differentiated; others are infiltrative and poorly differentiated to
+undifferentiated. About 5% are squamous cell carcinomas or have adenosquamous differentiation. A
+minority may show carcinoid or a variety of mesenchymal features (carcinosarcoma). Papillary tumors
+generally have a better prognosis than other tumors. By the time these neoplasms are discovered, most have
+invaded the liver centrifugally, and many have extended to the cystic duct and adjacent bile ducts and portalhepatic lymph nodes. The peritoneum, gastrointestinal tract, and lungs are common sites of seeding.
+It is not uncommon to find preneoplastic (dysplastic) lesions in the epithelium adjacent to invasive cancer, or
+in gallbladders with long-standing cholelithiasis. These are nearly always flat dysplasias, with varying grades
+of cellular atypia, including carcinoma-in-situ. Although polypoid adenomas of the gallbladder have been
+reported, these are uncommon precursors to invasive adenocarcinomas, and harbor distinct genetic
+alterations.
+Clinical Features
+Preoperative diagnosis of carcinoma of the gallbladder is the exception rather than the rule, occurring in
+fewer than 20% of patients. Presenting symptoms are insidious and typically indistinguishable from those
+associated with cholelithiasis: abdominal pain, jaundice, anorexia, and nausea and vomiting. Early detection
+of the tumor may be possible in patients who develop a palpable gallbladder and acute cholecystitis before
+extension of the tumor into adjacent structures, or when the carcinoma is an incidental finding during a
+cholecystectomy for symptomatic gallstones. Surgical resection, often including adjacent liver, is the only
+effective treatment, when possible, but chemotherapy regimens are also used.
+Carcinoma of the Bile Ducts – Cholangiocarcinoma
+Cholangiocarcinomas (bile duct cancers) arise from the epithelial cells of the bile ducts. Although they are
+rare in the United States, these cancers are highly lethal because most are locally advanced at presentation.
+Extrahepatic biliary tract malignancies were traditionally divided into cancers of the gallbladder, the
+extrahepatic ducts, and the ampulla of Vater, whereas intrahepatic tumors were classified as primary liver
+cancers. More recently, the term cholangiocarcinoma has been used to designate bile duct cancers arising in
+the intrahepatic, perihilar, or distal (extrahepatic) biliary tree, exclusive of gallbladder and ampulla of Vater.
+Intrahepatic cholangiocarcinomas can originate from either small intrahepatic ductules (peripheral
+cholangiocarcinomas) or large intrahepatic ducts proximal to the bifurcation of the right and left hepatic
+ducts. The extrahepatic bile ducts are divided into perihilar (including the confluence itself) and distal
+segments, with the transition occurring at the point where the common bile duct lies posterior to the
+duodenum, distal to the insertion of the cystic duct (figure 1). Cancers arising in the perihilar region have
+been further classified according to the pattern of involvement of the hepatic ducts (the Bismuth-Corlette
+6
+
+
+=== PAGE 7 ===
+classification) (figure 2). Tumors involving the hepatic duct bifurcation (hilar cholangiocarcinomas) are
+collectively referred to as Klatskin tumors.
+Clinical Features
+Extrahepatic cholangiocarcinomas usually become
+symptomatic when the tumor obstructs the biliary
+drainage system. Symptoms related to biliary
+obstruction include jaundice, pruritus, clay-colored
+stools, and dark urine. Other common symptoms
+include abdominal pain (30 to 50 percent), weight
+loss (30 to 50 percent), and fever (up to 20
+percent). The pain is generally described as a
+constant dull ache in the right upper quadrant.
+Malaise, fatigue, and night sweats may be present.
+Cholangitis is an unusual presentation.
+Cholangiocarcinomas involving only
+the intrahepatic ducts (fewer than 10
+percent of all cholangiocarcinomas)
+may present differently. Affected
+patients are less likely to be
+jaundiced. Instead, they usually have
+a history of dull right upper quadrant
+pain, weight loss, and an elevated
+alkaline phosphatase. Some patients
+are asymptomatic, with the lesions
+detected incidentally when imaging is
+obtained for other reasons or as part
+of the workup of abnormal liver
+blood tests.
+Note: In accordance with the ACCME
+Essentials and Standards, everyone involved
+in planning and presenting this CMSRU
+educational lecture has no relevant
+commercial relationships or conflicts of
+interest. There is no commercial support for
+program.
+this
+Instructional
+materials
+contained in this document may include
+copyrighted material. The copyright law of
+the U.S. (Title 17, United States Code)
+governs the making of photocopies or other
+reproductions of copyrighted material. Please
+do not reproduce, or transmit, any portion of
+this content. This is strictly for use within
+CMSRU class. This is posted only on the
+Blackboard which is protected by password.
+This is in compliance with fair use
+regulations.
+
+7
+

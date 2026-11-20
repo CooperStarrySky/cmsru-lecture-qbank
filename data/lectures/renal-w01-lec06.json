@@ -1,0 +1,33 @@
+{
+ "lecture_id": "renal-w01-lec06",
+ "block": "RENAL",
+ "week": 1,
+ "lecture": "06 Water Homeostasis and Disorders",
+ "contributor": "thirth",
+ "questions": [
+  {
+   "id": "renal-w01-lec06-q01",
+   "source": "said",
+   "source_ref": "00:29:55",
+   "stem": "A patient with diabetes insipidus undergoes a water deprivation test and is then given exogenous antidiuretic hormone (DDAVP). There is absolutely no change in his urine osmolality. Does he have central diabetes insipidus or nephrogenic diabetes insipidus?",
+   "choices": [
+    "Central diabetes insipidus",
+    "Nephrogenic diabetes insipidus"
+   ],
+   "answer": 1,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "If they do this, if they have absolutely no change in their urinals, then what do they have? They have nephrogenic diabetes insipiditus, right, because the kidney is unresponsive to the exogenous vasopressant, whereas if you give them The vasopressin and they have an increase in their urine hospitality, and it doesn't have to be by much. Uh, then they have central diabetes insipiditus.",
+     "at": "00:31:26"
+    },
+    {
+     "type": "slide",
+     "slide": 43,
+     "image": "img/renal-w01-lec06/slide_43.jpg"
+    }
+   ],
+   "note": "**No rise in urine osmolality after DDAVP means the kidney can't respond to vasopressin, which is nephrogenic DI.** The lecturer asked \"central or nephrogenic?\" aloud (00:29:55) and answered it in the same passage (00:31:26). The stem stitches together the lecturer's spoken setup: water deprivation, then exogenous ADH (DDAVP), then no change in urine osmolality.\n\nCentral diabetes insipidus: false. These patients make no vasopressin of their own but their kidneys still respond, so urine osmolality rises after DDAVP, even if only a little.\n\nNephrogenic diabetes insipidus: true. Vasopressin is there, or has just been given, but the collecting duct doesn't respond, so urine stays dilute (slide 43)."
+  }
+ ]
+}

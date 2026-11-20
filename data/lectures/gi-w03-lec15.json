@@ -1,0 +1,45 @@
+{
+ "lecture_id": "gi-w03-lec15",
+ "block": "GI",
+ "week": 3,
+ "lecture": "15 GI Endocrine Tumors and Vascular Disorders",
+ "contributor": "thirth",
+ "questions": [
+  {
+   "id": "gi-w03-lec15-q01",
+   "source": "slide",
+   "source_ref": "Slides 38, 25, 19",
+   "stem": "Which one of the following statements is incorrect?",
+   "choices": [
+    "Carcinoid syndrome may present when a carcinoid tumor metastasizes to the liver, resulting in release of vasoactive peptides that cause flushing, rash, diarrhea and wheezing.",
+    "A gastrinoma causes multiple duodenal ulcers secondary to hypergastrinemia and hyperchlorhydria.",
+    "Insulinoma is characterized by perpetual weight loss and more than normal amounts of insulin, C-peptide and proinsulin being produced.",
+    "VIPoma is characterized by excessive production of vasoactive intestinal peptide (VIP), which inhibits gastric acid secretion and increases cAMP in crypt cells."
+   ],
+   "answer": 2,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "Yeah, it's actually C. Again, these are the individuals, they're eating. To try to correct the hypoglycemia induced by the insulinoma, so they tend to gain weight even though they've got this tumor.",
+     "at": "00:24:09"
+    },
+    {
+     "type": "slide",
+     "slide": 38,
+     "image": "img/gi-w03-lec15/slide_38.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 25,
+     "image": "img/gi-w03-lec15/slide_25.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 19,
+     "image": "img/gi-w03-lec15/slide_19.jpg"
+    }
+   ],
+   "note": "C is the incorrect statement. Patients with an insulinoma gain weight, they don't lose it. They eat often to fight off the hypoglycemia the tumor causes, so they put on weight even though they have a tumor. The high insulin, C-peptide and proinsulin part is right; the weight loss part is what makes the statement false.\nA is true: carcinoid syndrome usually shows up once the tumor reaches the liver, because liver metastases let serotonin and other vasoactive products bypass hepatic breakdown and cause flushing, diarrhea and wheezing.\nB is true: in Zollinger-Ellison syndrome, excess gastrin drives acid hypersecretion, which causes multiple or refractory duodenal ulcers.\nD is true: VIP inhibits gastric acid (achlorhydria) and raises cAMP in crypt cells, driving chloride secretion and the large-volume watery diarrhea of WDHA syndrome."
+  }
+ ]
+}

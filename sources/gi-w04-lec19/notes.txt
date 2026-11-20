@@ -1,0 +1,302 @@
+=== PAGE 1 ===
+Functional gastrointestinal disorders (Monday, November 2, 2026; 11 am)
+Note from Dr. Phadtare: Please note that this ebook is not intended to include all of the information
+presented in the lecture slides, but is created to provide foundation to the main concepts presented in the
+slides. Dr. Phadtare created the ebook using a variety of sources including UpToDate.
+Functional gastrointestinal disorders (FGIDs) are common disorders that occur as a result of abnormal
+functioning of the GI tract. These are characterized by persistent and recurring GI symptoms and are not
+caused by structural (tumors or masses) or biochemical abnormalities. Thus, the many routine diagnostic
+medical tests such as x-rays, CT scans, blood tests and endoscopic exams may show essentially normal
+results for FGIDs. These are not psychiatric disorders, although stress and psychological difficulties can
+make them worse. In FGIDs, the motility is abnormal. There can be muscular spasms that cause pain and the
+contractions can be very rapid, very slow or disorganized. In FGIDs, the nerves are sometimes so sensitive
+that even normal contractions can bring on pain or discomfort. With FGIDs, the regulatory conduit between
+brain and gut function may also be impaired.
+FGIDs can affect any part of the GI tract, including the esophagus, stomach, bile duct and/or intestines.
+Common FGIDs include Irritable Bowel Syndrome (IBS), functional dyspepsia (pain or discomfort in the
+upper abdominal area, feeling of fullness, bloating or nausea), functional abdominal pain, functional
+constipation or diarrhea and Irritable Bowel Syndrome (IBS). One of the most important societal
+perspectives resulting from functional bowel disorders is the degree of absenteeism that is recorded among
+patients with these conditions. It has been reported that IBS is the second leading cause, after the common
+cold, for missing work or school.
+In an effort to standardize clinical research protocols, an international working team published a consensus
+definition in 1992 called the Rome criteria for the diagnosis of FGIDs. These are symptom-based criteria that
+allow the diagnosis to be made based on a patient’s combination of symptoms and other factors. This is
+similar to other disorders, like migraine headaches, which also are not seen on x-rays, etc but can be
+diagnosed based on the symptoms experienced by the patient.
+Functional dyspepsia
+According to the Rome III criteria, functional dyspepsia is defined as the presence of one or more of the
+following: postprandial fullness, early satiation, epigastric pain or burning and no evidence of structural
+disease (including at upper endoscopy) to explain the symptoms. The criteria should be fulfilled for the last
+three months with symptom onset at least six months before diagnosis.
+Pathophysiology
+While several mechanisms have been proposed, the pathogenesis of functional dyspepsia remains unclear.
+(i) Gastric motility and compliance: Several motility disorders have been reported in a subset of patients with
+dyspepsia. These include delayed gastric emptying, rapid gastric emptying, antral hypomotility, gastric
+dysrhythmias, and impaired gastric accommodation in response to a meal.
+(ii) Visceral hypersensitivity: Visceral hypersensitivity is characterized by a lowered threshold for induction
+of pain in the presence of normal gastric compliance. Visceral hypersensitivity in patients with functional
+dyspepsia may occur independently of delayed gastric emptying. Both mechanoreceptor dysfunction and
+aberrant processing of afferent input in the spinal cord or brain may play a role in the pathophysiology of
+visceral hypersensitivity.
+1
+
+
+=== PAGE 2 ===
+(iii) H. pylori: The role of H. pylori infection in the pathogenesis of functional dyspepsia remains unclear.
+(iv) Altered gut microbiome: Alterations in the upper gastrointestinal tract microbiome may result in the
+development of dyspepsia, although this has not been directly, formally evaluated.
+(v) Psychosocial dysfunction: Functional dyspepsia may result from a complex interaction of psychosocial
+and physiological factors and has been associated with generalized anxiety disorder, somatization, and major
+depression. There is also a higher prevalence in patients with self-reported history of childhood abuse.
+Diagnosis
+The diagnosis of functional dyspepsia is made from the characteristic clinical history of postprandial
+fullness, early satiety, or epigastric pain/ burning for the last three months with symptom onset at least six
+months before diagnosis and the exclusion of other causes of dyspepsia with upper endoscopy and additional
+testing, if indicated, based on the symptoms. Gastroesophageal reflux disease can often be confused with
+functional dyspepsia, as dyspepsia symptoms commonly coexist with heartburn, and some patients with
+functional dyspepsia respond to PPI therapy. Gastroparesis is rare but can also be confused with functional
+dyspepsia, as gastric emptying may be slow and symptoms of dyspepsia occur in both disorders; vomiting or
+weight loss with very slow gastric emptying suggest gastroparesis.
+Treatment
+Treatment of patients with functional dyspepsia is controversial and alleviates symptoms in only a small
+proportion of patients. Treatment options include irradiation of H. pylori if present, proton pump inhibitors,
+H2 receptor antagonists, antidepressants, psychological therapy (for example, cognitive behavioral therapy
+or hypnotherapy, or psychotherapy) etc.
+Functional heartburn
+Heartburn has been defined as a burning retrosternal discomfort that may radiate toward the neck and is
+typically worse postprandial, during exercise or while lying recumbent. The Rome III diagnostic criteria for
+functional heartburn are burning retrosternal discomfort or pain, absence of evidence that GERD is the cause
+of the symptom, absence of histopathology-based esophageal motility disorders and all criteria fulfilled for
+the past 3 months with symptom onset at least 6 months before diagnosis.
+Treatment
+Dietary Intervention. It is important to convince patients to avoid an extremely restrictive diet that may
+interfere with their nutritional needs. Although not supported by high-level evidence, avoidance of fatty
+meals and reduction of weight in overweight patients are generally advocated in clinical practice.
+Psychosomatic Factors. Functional heartburn coexists with other functional gastrointestinal disorders.
+Exposure of severe sustained stress has been associated with increased heartburn. Although no controlled
+trials have shown benefits of behavioral therapy in functional heartburn patients, relaxation training in a
+small number of patients with GERD has been shown to reduce the symptom ratings and esophageal acid
+exposure. Since patients with functional heartburn have heightened esophageal sensitivity, therapies used for
+functional chest pain may also be useful in patients with functional heartburn.
+Pharmacotherapy. Since the pathophysiology may involve heightened esophageal sensitivity, pain
+modulators such as tricyclic antidepressants (TCAs) and selective serotonin reuptake inhibitors (SSRIs) may
+be useful in patients with functional heartburn. Data on their efficacy have been shown in hypersensitive
+2
+
+
+=== PAGE 3 ===
+esophagus. Although some of the symptoms improved include heartburn in these patients, it is unclear from
+current evidence if SSRIs are effective for functional heartburn.
+In summary, there is no strong evidence-based treatment available for functional heartburn. Treatment in
+practice is largely empirical. Giving reassurance, making lifestyle changes and addressing underlying
+psychosomatic illnesses, reserving treatments with side effects to only those with debilitating symptoms may
+be the best therapeutic approach.
+Irritable Bowel Syndrome
+Irritable bowel syndrome (IBS) is the most common gastrointestinal disorder that is characterized by chronic
+abdominal pain and altered bowel habits in the absence of any organic cause. The pathophysiology of IBS
+remains uncertain. It is viewed as a disorder resulting from an interaction among a number of factors.
+Clinical manifestations
+The peak prevalence of IBS is between 20 and 40 years of age, and there is a significant female
+predominance. Variability in diagnostic criteria makes it difficult to establish the incidence, but most authors
+report prevalence in developed countries of between 5% and 10%. IBS is presently diagnosed using clinical
+criteria that require the occurrence of abdominal pain or discomfort at least 3 days per month over 3 months
+with improvement following defecation and a change in stool frequency or form. Other causes, such as
+enteric infection or inflammatory bowel disease, must be excluded. IBS is not associated with serious longterm sequelae, but affected patients may undergo unnecessary abdominal surgery due to chronic pain and
+their ability to function socially may be compromised. The prognosis of IBS is most closely related to
+symptom duration, with longer duration correlating with reduced likelihood of improvement.
+Patients with IBS can present with a wide array of symptoms which include both gastrointestinal and
+extraintestinal complaints. However, the symptom complex of chronic abdominal pain and altered bowel
+habits remains the nonspecific yet primary characteristic of IBS.
+Chronic abdominal pain: Abdominal pain in IBS is usually described as a crampy sensation with variable
+intensity and periodic exacerbations. The location and character of the pain can vary widely. The severity of
+the pain may range from mildly annoying to debilitating. Several factors, such as emotional stress and eating,
+may exacerbate the pain, while defecation often provides some relief.
+Altered bowel habits: Patients with IBS complain of altered bowel habits, ranging from diarrhea,
+constipation, alternating diarrhea and constipation, or normal bowel habits alternating with either diarrhea
+and/or constipation.
+Diarrhea: Diarrhea is usually characterized as frequent loose stools of small to moderate volume. Stools
+generally occur during waking hours, most often in the morning or after meals. Most bowel movements are
+preceded by lower abdominal cramps and urgency even to the point of fecal incontinence and may be
+followed by a feeling of incomplete evacuation. Approximately one-half of all patients with IBS complain of
+mucus discharge with stools. Large volume diarrhea, bloody stools, nocturnal diarrhea, and greasy stools are
+not associated with IBS and suggest an organic disease.
+Constipation: Constipation may last from days to months, with interludes of diarrhea or normal bowel
+function. Stools are often hard and may be described as pellet-shaped. Patients may also experience a sense
+of incomplete evacuation even when the rectum is empty.
+3
+
+
+=== PAGE 4 ===
+Other gastrointestinal symptoms: Upper gastrointestinal symptoms, including gastroesophageal reflux,
+dysphagia, early satiety, intermittent dyspepsia, nausea, and non-cardiac chest pain, are common in patients
+with IBS. Patients with IBS also frequently complain of abdominal bloating and increased gas production in
+the form of flatulence or belching.
+Extraintestinal symptoms: Patients with IBS often complain of a broad range of non-gastrointestinal
+symptoms. These include impaired sexual function, dysmenorrhea, dyspareunia, increased urinary frequency
+and urgency, and fibromyalgia symptoms.
+Pathophysiology
+Gastrointestinal motility. Motor abnormalities of the gastrointestinal tract are detectable in some patients
+with IBS. Abnormalities observed include increased frequency and irregularity of luminal contractions,
+prolonged transit time in constipation-predominant IBS, and an exaggerated motor response to
+cholecystokinin and meal ingestion in diarrhea-predominant IBS. The relevance of these motor function
+alterations to symptoms has yet to be established. However, pharmacologic stimulation of gut motility in IBS
+patients has been reported to reduce gas retention and improve symptoms, suggesting that a motility
+disturbance underlies this complaint in some patients.
+Visceral hypersensitivity. Visceral hypersensitivity (increased sensation in response to stimuli) is a
+frequent finding in IBS patients. Perception in the gastrointestinal (GI) tract results from stimulation of
+various receptors in the gut wall. These receptors transmit signals via afferent neural pathways to the dorsal
+horn of the spinal cord and ultimately to the brain. These include distention and bloating. Various studies
+have shown that in patients with IBS, awareness and pain caused by balloon distention in the intestine are
+experienced at lower balloon volumes compared with controls, suggesting receptor hypersensitivity. This
+possible increase in sensitivity may be specific for visceral afferents, since it is reported that patients with
+IBS have normal or even increased thresholds to somatic pain, although there are data to the contrary. Rectal
+distension in patients with IBS also increased cerebral cortical activity more than in controls. However, in
+one study involving balloon distension of the descending colon, increased colonic sensitivity was influenced
+by a psychological tendency to report pain and urgency, rather than increased neurosensory sensitivity.
+Intestinal inflammation. Immunohistologic investigation has revealed mucosal immune system activation
+characterized by alterations in particular immune cells and markers in some patients with IBS (those with
+diarrhea-predominant IBS and patients with presumed postinfectious IBS). Increased numbers of
+lymphocytes have been reported in the colon and small intestine in patients with IBS. These cells release
+mediators (nitric oxide, histamine and proteases) capable of stimulating the enteric nervous system, leading
+to abnormal motor and visceral responses within the intestine. Stool examinations from diarrheapredominant IBS patients have revealed a high level of serine-protease activity. The role of intestinal serineproteases in the pathophysiology of IBS remains under investigation. An increased number of mast cells
+(effector cells of the immune system) has been demonstrated in the terminal ileum, jejunum, and colon of
+IBS patients. Studies have demonstrated a correlation between abdominal pain in IBS and the presence of
+activated mast cells in proximity to colonic nerves. Cytokines are proteins that are mediators of immune
+responses. Elevated levels of plasma proinflammatory interleukins have been observed in patients with IBS.
+Postinfectious. The increased risk of postinfectious IBS is associated with bacterial, protozoan, helminth
+infections, and viral infections. Risk factors for postinfectious IBS included young age, prolonged fever,
+anxiety, and depression. The cause of bowel symptoms following acute infection is uncertain, although
+several theories have been proposed:
+●Malabsorption: The development of idiopathic bile acid malabsorption has been observed following enteric
+infections, which may be result in diarrhea-predominant IBS.
+4
+
+
+=== PAGE 5 ===
+●Increase in enteroendocrine cells/lymphocytes: An increase in serotonin-containing enteroendocrine cells
+and T lymphocytes, has been demonstrated following acute Campylobacter enteritis. The increased serotonin
+levels lead to increased GI motility and visceral hypersensitivity. Neither a reduction in enteroendocrine cells
+nor improvement in symptoms was observed in a controlled trial of glucocorticoids given to patients with
+post-infectious IBS.
+●Antibiotic use: The use of antibiotics for GI or other infections was observed to be a risk factor for
+developing functional bowel symptoms.
+Alteration in fecal microflora. The complex ecology of the fecal microflora has led to speculation that
+changes in its composition could be associated with diseases including IBS. The fecal microbiota in
+individuals with IBS differ from healthy controls and vary with the predominant symptom. It is possible that
+patients with diarrhea-predominant IBS would benefit from probiotics, which influence the composition and
+metabolism of the microflora.
+Bacterial overgrowth. Small intestinal bacterial overgrowth (SIBO) is associated with an increased number
+and/or type of bacteria in the upper gastrointestinal (GI) tract. However, data reporting an association
+between irritable bowel syndrome (IBS) and SIBO have been conflicting.
+Food sensitivity. The role of food in the pathophysiology of irritable bowel syndrome (IBS) is not clear.
+Some patients with IBS report worsening of symptoms after eating and perceive food intolerance to certain
+foods. Multiple factors have been considered to contribute to food sensitivity in patients with IBS such as
+food specific antibodies, carbohydrate malabsorption (e.g. fructose intolerance), and gluten sensitivity.
+Genetics. Some genotyping studies have shown an association between IBS and polymorphisms in the
+serotonin transporter gene, resulting in altered serotonin reuptake efficacy that affects intestinal peristalsis.
+However, this has not been confirmed universally. Another study suggested that some patients with IBS may
+be genetically predisposed to an altered pattern of anti-inflammatory cytokine interleukin production.
+Psychological dysfunction. Psychosocial factors may influence the expression of IBS. Stress, increased
+anxiety, depression, phobias are shown to be risk factors for the development of IBS.
+One unifying hypothesis concerning the role of stress and psycho neuroticism in IBS is based upon
+corticotropin releasing factor (CRF), a peptide released from the paraventricular nucleus and considered to
+be a major mediator of the stress response. Data suggest that overactivity in the brain CRF and CRF-receptor
+signaling system contributes to anxiety disorders and depression. Intravenous administration of CRF
+increases abdominal pain and colonic motility in IBS patients to a higher degree than normal controls.
+Furthermore, this response can be blunted by the administration of a CRF receptor antagonist.
+Diagnostic approach
+Based on Rome criteria, IBS is defined as recurrent abdominal pain or discomfort associated with altered
+defecation. Four subtypes of IBS are recognized:
+●IBS with constipation (hard or lumpy stools ≥25 percent / loose or watery stools <25 percent of bowel
+movements)
+●IBS with diarrhea (loose or water stools ≥25 percent / hard or lumpy stools <5 percent of bowel
+movements)
+●Mixed IBS (hard or lumpy stools ≥25 percent / loose or watery stools ≥25 percent of bowel movements)
+●Unsubtyped IBS (insufficient abnormality of stool consistency to meet the above subtypes)
+
+5
+
+
+=== PAGE 6 ===
+Since many disorders present with symptoms similar to IBS, it is important to exclude other causes. Routine
+laboratory studies (complete blood count, chemistries) are normal in IBS. Atypical symptoms which are not
+compatible with IBS include rectal bleeding, nocturnal or progressive abdominal pain, weight loss and
+laboratory abnormalities such as anemia, elevated inflammatory markers, or electrolyte disturbances.
+Patients with one of these alarm symptoms require further imaging studies and/or colonoscopy. The
+diagnostic evaluation depends upon whether the predominant symptom is diarrhea or constipation:
+Diarrhea-predominant IBS: In patients with diarrhea as the predominant symptom, screening tests are
+performed based upon the patient's clinical history. These include, but are not limited to stool cultures, celiac
+disease screening, colonoscopy or flexible sigmoidoscopy and biopsy. Excess bile acid synthesis or bile acid
+malabsorption has been identified as one cause of diarrhea-predominant IBS, likely due to the effects of bile
+acids on intestinal motility.
+Constipation-predominant IBS: In patients with constipation as the predominant symptom, screening tests
+based upon the patient's clinical history are performed such as radiography, flexible sigmoidoscopy and
+colonoscopy.
+Mixed IBS: In patients with both diarrhea and constipation, screening tests are performed based upon the
+patient's clinical history. Patients with constipation-predominant or diarrhea-predominant IBS tend to have
+decreased or increased colonic contractions and transit rates, respectively.
+Consideration is given to psychologic factors that may influence the patient to seek medical attention.
+Because of the positive correlation between abuse and certain gastrointestinal illness patterns, patients with
+refractory or severe IBS may be questioned about physical and sexual abuse.
+Treatment
+Establishment of a clinician-patient relationship and continuity of care are critical to the management of all
+patients with irritable bowel syndrome (IBS). In patients with mild and intermittent symptoms that do not
+impair quality of life, initially lifestyle and dietary modifications alone rather than specific pharmacologic
+agents are recommended. In patients with mild to moderate symptoms who fail to respond to initial
+management and in patients with moderate to severe symptoms that affect quality of life, pharmacologic
+therapy is suggested as adjunctive treatment.
+Dietary modification: A careful dietary history may reveal patterns of symptoms related to specific foods.
+Patients with IBS may benefit from exclusion of gas-producing foods; a diet low in fermentable oligo-, di-,
+and monosaccharides and polyols (FODMAPs); and in select cases, lactose and gluten avoidance. The role of
+fiber in patients with IBS is controversial, but given the absence of serious side effects and potential benefit,
+some therapies include fiber intake. Physical activity should be advised in patients with IBS given a potential
+benefit with regard to IBS symptoms and the general health benefits of exercise.
+Adjunctive pharmacology therapy: Since IBS generally presents as a complex of symptoms, treatment
+should be based on the predominant symptom and subtype. These can be divided into symptom directed
+therapy and serotonergic drug therapy. Symptom directed therapy includes laxatives, antidiarrheals,
+antispasmodics, antidepressants. Serotonergic (drugs that enhance the effects mediated by serotonin) therapy
+includes Alosetron and Tegaserod.
+Laxatives. In patients with IBS with constipation (IBS-C) polyethylene glycol (PEG) is suggested. PEG is
+inexpensive, widely available, and has fewer side effects as compared with other osmotic laxatives (e.g. milk
+of magnesia). Treatment with PEG improves constipation but not abdominal pain. Lubiprostone is a locally
+6
+
+
+=== PAGE 7 ===
+acting chloride channel activator that enhances chloride-rich intestinal fluid secretion. It is used in female
+patients with IBS with persistent constipation despite PEG.
+Antidiarrheals. In patients with IBS-diarrhea (IBS-D), Loperamide is used. Antidiarrheal agents inhibit
+peristalsis, prolong transit time, and reduce fecal volume. However it is useful for treatment of diarrhea by
+decreasing stool frequency and consistency, but not for the symptoms of bloating, abdominal discomfort, or
+global IBS symptoms. Bile acid sequestrants are used in patients with persistent diarrhea despite
+antidiarrheals. However, their use is limited by associated gastrointestinal side effects including bloating,
+flatulence, abdominal discomfort, and constipation. The rationale for the use of bile acid sequestrants in
+patients with IBS-D is that up to 50 percent of patients with functional diarrhea and IBS-D have bile acid
+malabsorption. Bile acids cause diarrhea by stimulating colonic secretion and motility.
+Serotonergic. Serotonin 5HT4 receptor agonists stimulate the release of neurotransmitters and increase
+colonic motility. However, the first partial 5-HT4 receptor agonist, Tegaserod that was approved for IBS-C
+was withdrawn from the market in the United States due to cardiovascular side effects. Serotonin 5HT3
+receptor antagonists (Alosetron) is approved for the treatment of severe diarrhea-predominant IBS in female
+patients whose symptoms have lasted for six months and who have failed to respond to all other conventional
+treatment. Alosetron modulates visceral afferent activity from the gastrointestinal tract, thereby decreasing
+colonic motility and secretion, and may improve abdominal pain.
+In patients with abdominal pain due to IBS, antispasmodics are used as an as-needed basis. These provide
+short-term relief in symptoms of abdominal pain in patients with IBS, but their long-term efficacy has not
+been established. Antispasmodic include those that directly affect intestinal smooth muscle relaxation, and
+those that act via their anticholinergic or antimuscarinic (blocks the activity of the muscarinic acetylcholine
+receptor) properties.
+Antidepressants have analgesic properties independent of their mood improving effects. Tricyclic
+antidepressants (TCAs), via their anticholinergic properties, also slow intestinal transit time, which may
+provide benefit in diarrhea-predominant IBS. Given their effect on intestinal transit, TCAs should be used
+cautiously in patients with constipation.
+Note: In accordance with the ACCME Essentials and Standards, everyone involved in planning and
+presenting this CMSRU educational lecture has no relevant commercial relationships or conflicts of interest.
+There is no commercial support for this program. Instructional materials contained in this document may
+include copyrighted material. The copyright law of the U.S. (Title 17, United States Code) governs the
+making of photocopies or other reproductions of copyrighted material. Please do not reproduce, or transmit,
+any portion of this content. This is strictly for use within CMSRU class. This is posted only on the
+Blackboard which is protected by password. This is in compliance with fair use regulations.
+
+7
+

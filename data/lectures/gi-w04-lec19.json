@@ -1,0 +1,92 @@
+{
+ "lecture_id": "gi-w04-lec19",
+ "block": "GI",
+ "week": 4,
+ "lecture": "19 Functional GI Disorders",
+ "contributor": "thirth",
+ "questions": [
+  {
+   "id": "gi-w04-lec19-q01",
+   "source": "slide",
+   "source_ref": "Slides 15, 12, 10",
+   "stem": "Which of the following statements is incorrect regarding disorders of gut-brain interaction (DGBI)?",
+   "choices": [
+    "Functional abdominal pain is generalized abdominal pain without objective findings on testing.",
+    "Functional dyspepsia is upper abdominal discomfort, often associated with meals, including feelings of fullness, bloating or burning.",
+    "Functional heartburn is chest discomfort, usually related to cardiomyopathy.",
+    "Irritable bowel syndrome is abdominal pain or discomfort accompanied by changes in bowel habits such as diarrhea, constipation or both."
+   ],
+   "answer": 2,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "Easy one, right? Of course, it's not cardiomyopathy, but all the other ones are true.",
+     "at": "00:08:58"
+    },
+    {
+     "type": "notes",
+     "quote": "The Rome III diagnostic criteria for functional heartburn are burning retrosternal discomfort or pain, absence of evidence that GERD is the cause of the symptom",
+     "page": 2
+    },
+    {
+     "type": "slide",
+     "slide": 15,
+     "image": "img/gi-w04-lec19/slide_15.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 12,
+     "image": "img/gi-w04-lec19/slide_12.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 10,
+     "image": "img/gi-w04-lec19/slide_10.jpg"
+    }
+   ],
+   "note": "C is the incorrect statement. Functional heartburn has nothing to do with cardiomyopathy. It is heartburn with no evidence of GERD (no esophagitis, normal acid exposure on pH monitoring, poor PPI response), caused by disturbed esophageal perception. As the professor put it, every DGBI comes down to altered perception along the gut-brain axis, not structural disease of the heart or gut.\nA is true: functional abdominal pain has no visible or detectable abnormality on testing.\nB is true: functional dyspepsia is upper abdominal discomfort with postprandial fullness, early satiety, bloating or burning, after organic causes are excluded.\nD is true: IBS is recurrent abdominal pain tied to defecation and to a change in stool frequency or form, with diarrhea, constipation or both."
+  },
+  {
+   "id": "gi-w04-lec19-q02",
+   "source": "slide",
+   "source_ref": "Slides 41, 42, 75, 81",
+   "stem": "A 32-year-old woman presents with a 1-year history of intermittent lower abdominal pain, bloating and altered bowel habits. She reports episodes of diarrhea alternating with constipation, and the pain is relieved after defecation. She has no weight loss, fever, rectal bleeding or family history of gastrointestinal disease. Laboratory tests including CBC, CRP and celiac serologies are normal. Which of the following is an appropriate management strategy for this patient's condition?",
+   "choices": [
+    "Initiate a low FODMAP diet",
+    "Prescribe soluble fiber supplementation",
+    "Consider a trial of tricyclic antidepressants",
+    "Recommend cognitive behavioral therapy",
+    "All of the above"
+   ],
+   "answer": 4,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "See, consider a tricyclic antidepressant. That's a good guess. Any other ones? B, soluble fiber, that's a good one. Yeah, all of them.",
+     "at": "00:25:28"
+    },
+    {
+     "type": "slide",
+     "slide": 41,
+     "image": "img/gi-w04-lec19/slide_41.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 42,
+     "image": "img/gi-w04-lec19/slide_42.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 75,
+     "image": "img/gi-w04-lec19/slide_75.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 81,
+     "image": "img/gi-w04-lec19/slide_81.jpg"
+    }
+   ],
+   "note": "All of the above. This is mixed-type IBS: recurrent pain relieved by defecation, alternating diarrhea and constipation, and no alarm features (no weight loss, fever, bleeding or family history, with normal labs). IBS management works on several fronts at once, including diet, symptom relief, pain modulation and psychological care. The professor confirmed \"all of them\" in lecture and pointed out that the lack of weight loss is a reassuring clue.\nA low FODMAP diet is right on its own: it is one of the elimination diets the lecture lists, and it cuts bloating from fermentable carbohydrates.\nSoluble fiber is right on its own: it helps both constipation and loose stools, though it can add bloating and gas.\nA tricyclic antidepressant is right on its own: TCAs such as amitriptyline or nortriptyline dampen visceral pain perception and are used for refractory pain.\nCognitive behavioral therapy is right on its own: IBS is a disorder of gut-brain interaction, and lifestyle and psychological treatment is part of standard management."
+  }
+ ]
+}

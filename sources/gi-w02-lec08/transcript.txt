@@ -1,0 +1,963 @@
+[00:00:12] All right, folks.
+[00:00:15] You want to get started?
+[00:00:19] Oh All right.
+[00:00:23] Oh, I'm sorry.
+[00:00:24] You're good.
+[00:00:24] You're good.
+[00:00:29] OK, so, um, can you all hear me on this
+[00:00:33] one?
+[00:00:33] This, I don't have a lapel, so the micro microphone's
+[00:00:36] not super close, but you can hear me?
+[00:00:37] OK.
+[00:00:39] Great.
+[00:00:40] All right, so.
+[00:00:42] Uh, we're going to talk about pancreatitis right now.
+[00:00:47] You know, obviously, we're all in the region, kind of
+[00:00:49] in the mid-abdomen.
+[00:00:50] We've talked about the liver, gall, well, we talked about
+[00:00:54] the gallbladder, uh, bile ducts.
+[00:00:56] Now we're gonna be talking about the pancreas.
+[00:00:59] Next lecture, next few lectures, Doctor Deutsch is gonna be
+[00:01:01] going deeply into liver disease.
+[00:01:03] This will really help fortify what you've learned and what
+[00:01:06] you're learning in the ALG.
+[00:01:10] Um, so, let's dive right in.
+[00:01:14] So we're talking about pancreatitis today.
+[00:01:15] We're gonna understand the disease processes of the pancreas.
+[00:01:18] We're gonna be looking at the difference between acute and
+[00:01:20] chronic pancreatitis, kind of conceptualize symptoms, diagnostic testing, and the
+[00:01:26] complications of both acute and chronic pancreatitis.
+[00:01:30] So when we're thinking about the uh the pancreas, there's
+[00:01:33] a difference between an acute pancreatic event, acute pancreatitis, and
+[00:01:38] a chronic pancreatitis.
+[00:01:39] So, an acute, you'll have some acute inflammation, obviously.
+[00:01:43] Patients oftentimes will prevent with abdominal pain, sometimes nausea, vomiting.
+[00:01:49] You'll oftentimes have, or they will have as part of
+[00:01:52] the diagnostic criteria, elevated pancreatic enzymes, which we'll talk about.
+[00:01:56] And this is typically a self-limiting process, and I say
+[00:01:59] typically, not always, but it might progress to the point
+[00:02:02] where it becomes uh really significant.
+[00:02:05] Most of these patients recover and do fine.
+[00:02:09] Chronic pancreatitis is chronic inflammation, much like chronic inflammation in
+[00:02:13] the liver can happen acutely and chronically, and they can,
+[00:02:17] one can kind of lead to the other, meaning if
+[00:02:19] you get a bunch of acute episodes, it can turn
+[00:02:20] into a chronic pancreatitis.
+[00:02:22] Sometimes you don't even have to have clinically identifiable acute
+[00:02:26] episodes, and people will develop a chronic pancreatitis, so it's
+[00:02:29] chronic inflammation, chronic abdominal pain, and progressive loss of the
+[00:02:33] pancreatic endocrine and exocrine function, and we'll go into that
+[00:02:37] a little bit.
+[00:02:39] So, this is just a different representation of this, acute
+[00:02:42] pancreatitis, you have kind of these activation of proteolytic enzymes,
+[00:02:47] you have inflammatory mediators that come by, you have, you
+[00:02:49] have a vascular injury, and then you get aciar cell
+[00:02:53] injury.
+[00:02:54] And typically what happens is you get resolution.
+[00:02:57] And the pancreas goes back to normal, typically.
+[00:03:01] Chronic pancreatitis is a little bit different.
+[00:03:03] You get some, because you're getting chronic inflammation, you get
+[00:03:06] like oxidative stress from alcohol, you get inflammation activation of
+[00:03:10] TGFB.
+[00:03:12] Um, a bunch of inflammatory mediators, you get this proliferation
+[00:03:16] of stellate cells, and as we're learning in the ALG,
+[00:03:18] stellate cells make what?
+[00:03:22] I want interaction.
+[00:03:23] What do they make?
+[00:03:25] Scar tissue, right?
+[00:03:26] So you get scar tissue, right?
+[00:03:28] That's what we're seeing here.
+[00:03:29] And then basically you get loss of the aciter cells.
+[00:03:33] So that's, that's the kind of primary difference.
+[00:03:38] So, we'll talk about acute pancreatitis.
+[00:03:40] The vast majority of pancreatitis is more benign disease, so
+[00:03:44] it's mild.
+[00:03:45] It's also known as interstitial or edematous pancreatitis.
+[00:03:49] It can be diffuse or focal, but in general, no
+[00:03:52] death of the the ischemia.
+[00:03:55] Necrotizing is much more common.
+[00:03:57] This is still acute, necrotizing is much more common, severe.
+[00:04:00] So 15% of the patients come in with this, you
+[00:04:02] can get parenchymal destruction, you can get peripancreatic fat necrosis.
+[00:04:07] There's some different criteria that we use.
+[00:04:09] One of them is on a CT scan, if you
+[00:04:12] have uh greater than 3 centimeters or 30% of the
+[00:04:14] pancreas, you're talking about a more necrotizing or severe pancreatitis,
+[00:04:19] and that's only about 15%.
+[00:04:21] What are the causes?
+[00:04:22] I'm very proud of this slide.
+[00:04:24] So what are the causes?
+[00:04:26] Took me a long time to do this.
+[00:04:31] Obstruction, gallstones, so you can get a gallstone pancreatitis, we
+[00:04:34] talked about in the last lecture when we were talking
+[00:04:36] about biliary disease and gallstones, right?
+[00:04:38] And that's when a stone gets stuck where?
+[00:04:43] What's part of the duct?
+[00:04:46] In the pancreatic duct specifically, or right at the confluence
+[00:04:49] of the common bile duct and the pancreatic duct, that's
+[00:04:52] a gallstone pancreatitis, but even if a duct comes down
+[00:04:54] and then goes into the pancreatic duct, that can cause
+[00:04:56] a pancreatitis as well.
+[00:05:01] Alcohol Another big one, right?
+[00:05:04] Um, and that's kind of a dose effect, so over
+[00:05:08] time, a long period of time, if you consume a
+[00:05:10] significant amount of alcohol, your likelihood of your of developing
+[00:05:15] acute pancreatitis goes higher, as well as chronic pancreatitis.
+[00:05:18] So those are the two big ones, and they're about
+[00:05:20] 80%.
+[00:05:22] You always hear about scorpion bites, never seen it, something
+[00:05:26] to think about.
+[00:05:28] I put it in there because you have to.
+[00:05:31] Uh, surgery, so trauma, um, surgery, sometimes you'll, uh, see
+[00:05:36] a patient that comes in with a motor vehicle accident,
+[00:05:38] that steering wheel, it's in the mid-abdomen, it can damage
+[00:05:41] the pancreatitis, or could damage the pancreas and cause a
+[00:05:44] pancreatic acute pancreatitis.
+[00:05:45] Post ERCP, remember the procedure in the ERCP where we
+[00:05:48] go down, we take a camera, go down in the
+[00:05:50] stomach, and then we go up the bile duct.
+[00:05:53] If you manipulate that duct too much, you can get
+[00:05:55] a pancreatitis.
+[00:05:57] Metabolic, so markedly elevated triglycerides, or, or with elevated PTH
+[00:06:03] and markedly elevated calcium, these are things that can cause
+[00:06:05] it.
+[00:06:07] Drugs, right?
+[00:06:09] Some of these are older drugs on the list, uh,
+[00:06:11] but these are drugs that are still present, and you
+[00:06:14] see them quite often.
+[00:06:16] I put on there GLP ones, that's kind of a
+[00:06:18] new category, and something that we're thinking about a lot
+[00:06:20] more when somebody comes in with a pancreatitis.
+[00:06:25] Infection, there's always infectious processes that are common.
+[00:06:28] Typically we don't identify these, maybe, uh, sometimes in a
+[00:06:33] case of like Ascaris or clonorcus might be more clinically
+[00:06:35] relevant uh relevant evident.
+[00:06:39] But infection is a possibility.
+[00:06:42] Vascular ischemic, embolic a vasculitis.
+[00:06:49] And then hereditary, and we're gonna go into some of
+[00:06:51] these things where you have some uh embryologic issues like
+[00:06:56] annular pancreas.
+[00:06:57] Where's my pointer.
+[00:06:59] Doesn't like me, there it is, annular pancreas, pancreatic divism,
+[00:07:03] we'll talk about these as as possibilities.
+[00:07:06] Uh, idiopathic is a big category, we don't know what
+[00:07:09] causes it.
+[00:07:11] Sometimes you never find an identifiable source.
+[00:07:15] I mentioned alcohol, one of the two more common causes,
+[00:07:19] and I said it's dose related, so the amount of
+[00:07:22] alcohol alcohol that you consume, right, over a 10 year
+[00:07:26] period, so the more alcohol you consume, the higher risk
+[00:07:29] of your pancreatitis.
+[00:07:31] Pretty easy.
+[00:07:34] Gallstones, the other big common cause, right?
+[00:07:37] So, gallstone coming down, gets lodged here at the confluence
+[00:07:42] of the pancreatic duct, and the common bile duct, and
+[00:07:46] you have backflow, so the pancreatic enzymes get released prematurely
+[00:07:50] in the pancreas, causes the pancreatitis.
+[00:07:56] Other risk factors, trauma, one of them, but in particular,
+[00:08:01] certain patients that undergo an ERCP, these patients, uh, younger
+[00:08:07] age, normal ducts, SSO is sphincter of OD dysfunction, so
+[00:08:12] you can have spasming of that duct of that sphincter,
+[00:08:15] which can theoretically cause it.
+[00:08:17] Um, or if you've done, uh, an ERCP in the
+[00:08:21] past, and you're doing another one, and you've had pancreatitis
+[00:08:24] in the past, you're more likely to get a pancreatitis
+[00:08:26] a second time.
+[00:08:27] If you do stuff like inject the pancreatic duct.
+[00:08:31] Uh, that can cause problems, uh, when you do a
+[00:08:34] sphincterotomy of the minor papilla, which is this area.
+[00:08:40] This area right here, that minor papilla, they're more likely
+[00:08:43] to get, uh, get a pancreatitis.
+[00:08:45] Training involvement, when you're just learning how to do it,
+[00:08:47] you can, you can cause more, more of a pancreatitis.
+[00:08:52] So the incidence is about anywhere from 2 to 25%,
+[00:08:54] probably closer to the lower end.
+[00:08:59] I mentioned that there are some um anatomic differences.
+[00:09:03] So, during embryologic development, some people will, will not have
+[00:09:08] fusion of the ducts, and they will have a pancreatic
+[00:09:12] divisum.
+[00:09:12] You can oftentimes see that on ERCP where you see
+[00:09:16] this, this minor duct is much more enlarged, right?
+[00:09:19] You see it here.
+[00:09:21] Because the ducts don't fuse, and what is typically the
+[00:09:24] major papilla here and, and the normal pathway, that doesn't
+[00:09:29] exist anymore, so these patients are thought to get pancreatitis
+[00:09:33] more frequently.
+[00:09:36] Hypertriglyceridemia, so patients with elevated triglycerides, typically this has to
+[00:09:42] be a triglycerides that's above 1000, is where you would
+[00:09:46] start to see it, uh, and that also can be
+[00:09:50] related to chronic disease, so something that you think about,
+[00:09:53] when somebody's coming in with, um, an acute pancreatitis, we're
+[00:09:56] checking a lot of these labs, one of them might
+[00:09:58] be a triglyceride level.
+[00:10:00] Um, and it could also be, uh, drug induced too,
+[00:10:03] alcohol, estrogens, etc.
+[00:10:08] So for acute pancreatitis, I've mentioned that there's an increased
+[00:10:12] release of enzymes that are prematurely activated, meaning they're activated
+[00:10:16] in the pancreatic uh parenchyma, and these are proteolytic enzymes,
+[00:10:21] and they will digest the pancreas essentially.
+[00:10:24] And obviously, when that's occurring, you have a, a significant
+[00:10:28] amount of inflammation, so you get inflammation and edema, you
+[00:10:31] get proteolysis, you get fat necrosis, you get damage to
+[00:10:34] the vessels.
+[00:10:34] So it's, these are very toxic.
+[00:10:37] Um, uh, hormones that, that will really can cause a
+[00:10:41] significant amount of damage when released in the, in the
+[00:10:44] wrong place.
+[00:10:48] Clinically, the way these people present is pain, almost always.
+[00:10:54] Nausea and vomiting super common.
+[00:10:55] Uh, if you're doing an exam, remember they can get,
+[00:10:58] uh, guarding and tenderness, so tenderness on pushing down, and
+[00:11:02] they, and, and it hurts when you push.
+[00:11:04] Guarding is when you try to push down and they're,
+[00:11:07] they're um making uh stomach muscles, you know, they're they're,
+[00:11:11] they're increasing their um Their stomach muscles, so they're, they
+[00:11:15] don't want you to push down.
+[00:11:16] They could be restless, they could be agitated.
+[00:11:20] When we start thinking of the diagnosis, we, uh, it
+[00:11:25] really is a diagnosis where you need 2 out of
+[00:11:28] 3 of these.
+[00:11:29] So, clinical picture, they have pain, very, very common.
+[00:11:34] Also, the laboratory values, and amylase or lipase, these days
+[00:11:37] we're more using lipase, uh, more specific.
+[00:11:41] Um, but 3 times greater than the upper limit of
+[00:11:44] normal, is the diagnosis, or imaging.
+[00:11:47] So 2 or 3, meaning you don't necessarily need to
+[00:11:51] have a CT scan to diagnose pancreatitis.
+[00:11:57] I mentioned that uh people can get an elevated amylase
+[00:12:00] and lipase.
+[00:12:01] Notice there's other things that can cause both of these.
+[00:12:04] Like I said, lipase is probably a little bit more
+[00:12:06] specific, but if you look on the left, amylase can
+[00:12:11] cause elevations of, of You know, tumors can cause it,
+[00:12:17] uh, pitis can cause it, biliary disease, pancreatitis, renal failure,
+[00:12:20] intestinal obstruction, the list goes on.
+[00:12:22] A lot of times just intraabdominal inflammation can do it.
+[00:12:25] Uh, we oftentimes, but if you see lipase is a
+[00:12:29] little more specific to the pancreas.
+[00:12:31] We oftentimes will get a consult well where they will
+[00:12:33] say, somebody has renal failure and and they'll check an
+[00:12:36] amylase and the amylase is elevated, and they'll say, hey,
+[00:12:38] well, the person has pancreatitis, that's probably more likely related
+[00:12:42] to the renal failure.
+[00:12:42] So as you can see, not pathenomonic, but it's very
+[00:12:46] helpful, it's it's very, very, a very sensitive test, so
+[00:12:50] it starts to guide you in the right direction, but
+[00:12:52] you have to think of other possibilities.
+[00:12:57] When we're thinking about the diagnosis in terms of in
+[00:13:00] terms of, well, how, how we diagnose it in general,
+[00:13:03] whether or not it's serologic, or you're talking about imaging.
+[00:13:07] Um, there's things that are a high sensitivity, right?
+[00:13:11] So, the enzymes are very, very highly sensitive, but maybe
+[00:13:15] not as specific as I just showed you on the
+[00:13:16] slide before, there's other things that can cause that.
+[00:13:20] Um, ultrasound, it's not quite as sensitive.
+[00:13:23] An ultrasound, oftentimes when you're doing it, you cannot visualize
+[00:13:27] the pancreatis, the, the pancreas, because there's sometimes some overlying
+[00:13:30] bowel gas, which can obstruct it a little bit, but
+[00:13:33] if you are able to image it, it's a pretty
+[00:13:35] specific thing, you know, you're looking at the pancreas, you
+[00:13:38] see the changes, so, um, so it's a reasonable test.
+[00:13:43] Same thing with the CT scan, the sensitivity might not
+[00:13:45] be high.
+[00:13:46] Um, but, but the specificity, we're obviously looking at the
+[00:13:50] pancreas, and you can see exactly what you're looking at.
+[00:13:54] Um, a lot of problems with this, and the same
+[00:13:56] thing with a, with a CT with IV contrast, we
+[00:13:59] do like it with IV contrast, it highlights the vasculature,
+[00:14:02] so you really can tell better what you're looking at.
+[00:14:05] A lot of these tests are not perfect for mild
+[00:14:08] disease, right?
+[00:14:09] So they're really good at the normals and the really
+[00:14:12] bad pancreatitis, but maybe even a little bit more problematic
+[00:14:15] in the middle.
+[00:14:16] Once again, one of the pieces to the puzzle that
+[00:14:18] we use.
+[00:14:22] Whenever you see a patient with pancreatitis, you can get
+[00:14:27] a really good idea of how they are, based on
+[00:14:31] looking at them.
+[00:14:31] These people generally tend to look pretty sick, they're very
+[00:14:34] uncomfortable, sometimes they're moving around in bed, they're trying to
+[00:14:37] get, they're sitting up in bed, they're trying to get
+[00:14:39] pressure off the pancreas, right at the intraabdominal organs might
+[00:14:42] be compressing the pancreas, which sits in the posterior side
+[00:14:45] of of the abdominal cavity.
+[00:14:47] But you will see these people are tachycardic, they could
+[00:14:50] be hypotensive, they could be tachypnic, they can be hypoxemic,
+[00:14:53] you could, they could have hypo hemo concentration, oliguria, encephalopathy.
+[00:14:59] What you're seeing, it's affecting multiple organs here, right?
+[00:15:02] So it's not just the pancreas that's involved, this causes
+[00:15:06] a systemic inflammatory response, which I'll talk about in a
+[00:15:08] minute.
+[00:15:11] There's also criteria that we use.
+[00:15:14] Some of it is, uh, is pretty easy, uh, stuff
+[00:15:17] that you can get immediately with some of the labs,
+[00:15:20] you know, you know what their age is when they're
+[00:15:21] coming in, you get labs, you see an elevated white
+[00:15:23] count, uh, an elevated glucose, an elevated LDH, an elevated
+[00:15:26] AST.
+[00:15:28] Um, this is Ransom's criteria, which looks at admission, and
+[00:15:32] then the 1st 48 hours.
+[00:15:34] Uh, there are multiple grading systems.
+[00:15:36] This is just one of them.
+[00:15:38] There's Apache 2, there's the Atlantic criteria, um, there's a
+[00:15:42] bunch of them.
+[00:15:43] Uh, and it's really not super important which you use,
+[00:15:48] but, you know, you're gonna have your, your, your pocket
+[00:15:51] brain, you can put in some numbers, and it really
+[00:15:54] can help you tease out who is clinically more significant.
+[00:15:57] So you're looking at them, you're doing some labs, you're
+[00:16:00] doing some scores, and you're figuring out how bad off
+[00:16:03] these patients are.
+[00:16:04] It's a good way upfront to really understand what you're
+[00:16:07] dealing with, the severity of illness, how, how acutely you
+[00:16:12] need to to act.
+[00:16:15] Uh, this is just, uh, verifying what, what Ranson's criteria,
+[00:16:19] that previous criteria that I showed you, but basically, the
+[00:16:22] higher the score, the sicker the patients are, right?
+[00:16:24] And so that's the idea with all of these different
+[00:16:27] type of scoring systems that we use.
+[00:16:33] Systemic complications.
+[00:16:34] Remember how I said, uh, when you go in and
+[00:16:37] you look, you know, they can be tachycardic, they can
+[00:16:39] be hypoxemic.
+[00:16:41] Um, so, the idea, and it can be encephalopathic, the
+[00:16:45] idea is it's multiple different systems, cardiovascular, respiratory, renal, hematologic,
+[00:16:50] hepatic, GI, um, and you have to keep that as
+[00:16:55] a concept.
+[00:16:56] Remember this is a systemic disease, even though it's the
+[00:16:59] pancreas that's being affected, but we're looking at all of
+[00:17:02] these things, we're looking at what, what's the heart rate.
+[00:17:05] Are they hypotensive?
+[00:17:06] We're looking at their urine output, very important, uh, we're
+[00:17:10] looking at if they're hypoxemic, you do a pulse ox,
+[00:17:13] you see if they're hypoxemic, you're looking at uh at
+[00:17:16] hematologic abnormalities too.
+[00:17:19] Uh, they can get encephalopathy, they can get some liver
+[00:17:22] abnormalities, they can get some subsequent problems like stress ulceration
+[00:17:26] if they're really sick, sometimes remember how he talked about,
+[00:17:29] about, uh, acalculous cholecystitis?
+[00:17:32] These patients in the unit very sick, and then they
+[00:17:35] develop a secondary problem.
+[00:17:39] These are things you don't typically see.
+[00:17:42] These are more, more significant gray turners.
+[00:17:44] It's basically what you're having is, uh, intraabdominal bleeding and
+[00:17:48] the blood is pooling off to the sides.
+[00:17:50] That's gray Turner's sign.
+[00:17:51] You could have Cullen's sign where you have, uh, in
+[00:17:54] this ecchymosis around the, the umbilicus.
+[00:17:56] This patient has both, he has Cullens and gray Turner.
+[00:18:03] And I mentioned that it's a systemic problem, right?
+[00:18:06] So these people can get what we call a systemic
+[00:18:08] inflammatory response syndrome.
+[00:18:10] This oftentimes, this is what sepsis looks like too, and
+[00:18:14] in sepsis we're using it, we're calculating this too, so,
+[00:18:17] if the temperature is higher, remarkably higher or lower, if
+[00:18:20] the respiratory rate is higher, if the heart rate is
+[00:18:23] higher, the white count is really high or really low,
+[00:18:27] uh, where they have a bandemia, and when they have
+[00:18:30] multiple or this is a multiple organ.
+[00:18:32] Issue, it's because it's just like I keep saying, it's
+[00:18:34] a systemic problem.
+[00:18:36] So when they have this systemic problem, you know, they
+[00:18:38] get something that's called multiple organ dysfunction syndrome, and that's
+[00:18:42] prognostically a bad sign, and these people can be in
+[00:18:46] the intensive care unit, intubated, uh, pretty tenuous in terms
+[00:18:50] of, uh, blood pressure, um, lungs, heart.
+[00:18:55] Etc.
+[00:18:58] And what we know is, the more organs affected, the
+[00:19:01] worse off their prognosis.
+[00:19:03] So, one of your goals as the treating physician is
+[00:19:06] to try to prevent this, this multi-organ dysfunction, certainly treat
+[00:19:10] it if they have it.
+[00:19:14] So when we're looking at it, why it's important is
+[00:19:16] because prognostically, it makes a lot of sense.
+[00:19:18] So, death within the 1st 2 weeks is multi-organ failure,
+[00:19:20] that's MOF.
+[00:19:22] After the first two weeks tends to be infection, but
+[00:19:25] the overall mortality for all comers with pancreatitis is still
+[00:19:29] pretty low, 2 to 3%.
+[00:19:31] So with interstitial or mild pancreatitis, it's around 3%, um,
+[00:19:35] with when you start getting other things, when you have
+[00:19:38] more like a severe pancreatitis, necrotizing pancreatitis, and no multi-organ
+[00:19:43] failure, it's about 17%.
+[00:19:46] But when you get more, you get infected necrosis that
+[00:19:48] goes up, when you get infected necrosis with multi-organ failure
+[00:19:51] that goes up.
+[00:19:52] So, our job is to try to prevent the multi-organ
+[00:19:55] failure.
+[00:19:55] If a secondary infection happens, then treat it.
+[00:19:59] When patients come in with it, bless you, when people
+[00:20:01] come in with an acute pancreatitis, they're not infected, but
+[00:20:05] they can get secondarily infected.
+[00:20:07] And we can do that by the use of uh
+[00:20:09] antibiotics, when we just throw antibiotics at somebody, because I
+[00:20:13] said, it's a systemic inflammatory response, it looks like an
+[00:20:15] infection, but somebody that comes in with just an acute
+[00:20:18] pancreatitis, the vast vast majority of times, they don't come
+[00:20:21] in with a primary infection, they're coming in with pancreatitis
+[00:20:25] and develop a secondary infection, and sometimes because we've inappropriately
+[00:20:28] given them antibiotics.
+[00:20:32] I always love the slide.
+[00:20:33] I, I, I stole these slides, but it's great.
+[00:20:35] This is a good way that you think about pancreatitis.
+[00:20:37] So, pancreatitis, that's the car that's gone into the lock,
+[00:20:42] or whatever that is.
+[00:20:44] So the car's in there, so what do we do
+[00:20:45] as physicians, we're we're, we are the, the truck, we
+[00:20:49] go in and we try to fix it.
+[00:20:50] So we go in and we do that.
+[00:20:52] 00, we did too much.
+[00:20:56] We gave them antibiotics.
+[00:20:59] And now we're in trouble, and we're all standing around
+[00:21:02] looking like, uh oh, what do we do?
+[00:21:04] Well, what do we do?
+[00:21:05] Let's get a bigger truck.
+[00:21:07] You get a bigger truck, you go in, you start
+[00:21:09] to fix some things.
+[00:21:11] Yeah, and then you gotta try to fix some more
+[00:21:13] things, and then you got a problem.
+[00:21:16] So, it's a good analogy for what the pancreas is,
+[00:21:19] right?
+[00:21:19] It's, it's a very, very sensitive organ.
+[00:21:23] It's an organ that's not encased with a capsule.
+[00:21:26] When proteolytic enzymes get released, it can cause significant problems
+[00:21:30] in multiple organs, and we're doers, we're physicians, right?
+[00:21:34] We're all type A personalities, we want to do something,
+[00:21:36] we want to figure it out.
+[00:21:37] This is one of the organs where you have to
+[00:21:39] be a little bit cautious about what you do, and
+[00:21:42] think about what you do, and this is where there's
+[00:21:43] a ton of evidence-based medicine on this, when you give
+[00:21:46] antibiotics, when you do a biopsy, when you do anything.
+[00:21:49] So it's important to kind of conceptualize that about the
+[00:21:52] pancreas.
+[00:21:53] So our treatments, what is the most important treatment on
+[00:21:56] this entire list?
+[00:22:02] Yeah.
+[00:22:04] That's the most important.
+[00:22:05] So, Um, because of these proteolytic enzymes, a lot of
+[00:22:10] stuff can happen.
+[00:22:11] Typically what happens is the, the vasculature supply to the
+[00:22:14] pancreas gets compromised, uh, that's why they get hemo concentration,
+[00:22:19] one of the reasons why they get renal insufficiency.
+[00:22:20] So one of the things that we do is we
+[00:22:23] give them a lot of fluids, and we pump up
+[00:22:25] their vasculature, so we're perfusing the pancreas.
+[00:22:28] Obviously, we're monitoring vital signs, urine output, oxygen saturation, we're
+[00:22:33] controlling pain.
+[00:22:34] Uh, other times we can give, uh, uh, acid suppression,
+[00:22:39] antibiotics, maybe.
+[00:22:42] NG tubes, maybe, uh, nutritional support, we're always thinking when
+[00:22:46] somebody comes in with pancreatitis, you always wanna figure out
+[00:22:50] how you're gonna be able to get them.
+[00:22:52] Nutrition, cause one of the treatments is you don't want
+[00:22:56] them to eat.
+[00:22:58] You don't even want them to think about food, that'll
+[00:22:59] start stimulating the pancreas to make more enzymes, or release
+[00:23:03] of enzymes.
+[00:23:04] So it's always a balance of these patients are always
+[00:23:07] a balance of how of how you get them nutrition,
+[00:23:10] how you get them vascular support without giving them too
+[00:23:13] much.
+[00:23:14] I'm just mentioning this, not that this is important to
+[00:23:16] to for you to understand for the exam, but in
+[00:23:20] the past it was fluids, fluids, fluids, fluids, fluids, we,
+[00:23:24] there's been a, a more recent study which kind of
+[00:23:26] looked at, well, some patients maybe you don't give them
+[00:23:29] too much fluids, people with, with, um, congestive heart failure,
+[00:23:34] right?
+[00:23:34] Maybe you don't want a fluid overload, but just uh
+[00:23:37] still understand the most important on this entire list is,
+[00:23:40] is fluid and electrolyte replacement re repletionment.
+[00:23:45] So, one of the other things that can happen is
+[00:23:47] that patients can get uh an infected necrosis, and this
+[00:23:51] usually happens, like I said, about two weeks later.
+[00:23:54] It often happen oftentimes happens because we've given them antibiotics
+[00:23:57] inappropriately, and they can get a secondary infection, uh, but
+[00:24:02] you, it could be a primary infection, but they can
+[00:24:04] get a secondary infection.
+[00:24:06] Sometimes it could be a fungal infection.
+[00:24:08] Uh, when you, we see that we've give people antibiotics,
+[00:24:11] uh, particularly inappropriately, sometimes a few weeks later, you'll start
+[00:24:14] to see that they, that their clinical course is deteriorating,
+[00:24:18] particularly with these severe pancreatitis patients, and we've secondarily set
+[00:24:22] them up for a fungal infection.
+[00:24:25] And then they're on a medication like, like fluconazole or
+[00:24:28] whatever it might be that we need to treat, treat
+[00:24:30] through that.
+[00:24:31] We don't typically biopsy the pancreas, but in certain circumstances,
+[00:24:34] it's possible.
+[00:24:35] So, Sterile medical therapy, debridement, if there's a lot of
+[00:24:40] necrosis, once they've stabilized, you can go in and take
+[00:24:43] out the dead tissue, which is what you have to
+[00:24:45] do, uh, and they're infected, then yes, you debride, and
+[00:24:49] also you give them antibiotics.
+[00:24:53] One of the other things that can happen is something
+[00:24:55] that's called a pseudocyst.
+[00:24:56] It's not a true cyst, it's not lined with epithelium,
+[00:24:59] it's a pseudocyst, right?
+[00:25:01] There's no true epithelial layer.
+[00:25:03] Um, so basically, you get ductal disruption or previous necrosis
+[00:25:07] necrosis.
+[00:25:08] It usually occurs about 4 weeks, a little bit more
+[00:25:11] afterwards.
+[00:25:12] Um, so it's called pseudocyst or walled-off necrosis is the
+[00:25:15] other, is the other terminology that we use.
+[00:25:20] Um, sometimes these pseudocysts can get complicated, they can get
+[00:25:24] an infection, they can, if they're really big, uh, that
+[00:25:28] they, they can cause compression on different organs and cause
+[00:25:31] problems.
+[00:25:31] They can bleed or rupture, they can cause a lot
+[00:25:34] of pain.
+[00:25:35] Uh, it typically in the past, in the distant past,
+[00:25:38] you used to go in and drain these, uh, once
+[00:25:40] they got about 5 centimeters.
+[00:25:42] That's not the case anymore.
+[00:25:43] We typically just leave these alone because the pancreas is
+[00:25:46] a very sensitive organ, so we don't mess with it.
+[00:25:50] So, closing points on acute pancreatitis, that most of the
+[00:25:55] patients are gonna be fine if you're just supporting them,
+[00:25:58] and that's what you should be doing.
+[00:26:00] Yes, there are certain people, uh, like the 5th patient,
+[00:26:05] which is deteriorating, and those people you might have to
+[00:26:08] act, you might have to give them antibiotics, you might
+[00:26:10] have to start thinking a little bit differently.
+[00:26:13] And sometimes, uh, you might have to re-image and do
+[00:26:16] another CAT scan, sometimes you might have to do some
+[00:26:20] consults, infectious disease, sometimes nephrology, whatever it might be, to
+[00:26:25] try to figure out the optimal way to support all
+[00:26:27] the different organs, because it's a multi multi-system disease process.
+[00:26:33] And the most important point is the pancreat, the pancreas
+[00:26:36] is a mean organ, right?
+[00:26:38] It wants to be left alone, we should just leave
+[00:26:40] it alone and primarily support it in acute pancreatitis question.
+[00:26:48] The patient has SERS.
+[00:26:54] You can do a biopsy, not always, sometimes you'll make
+[00:26:58] that assumption, you might have infectious diseases on on board,
+[00:27:02] and they might say, you know, it makes sense to
+[00:27:03] give antibiotics in this circumstance, but it's not a perfectly
+[00:27:07] clear and easy answer.
+[00:27:08] Question.
+[00:27:09] If the acute pancreatitis is from alcohol abuse, and they
+[00:27:12] don't stop drinking alcohol, well, it's still so.
+[00:27:15] Question is, um, if it's, if acute pancreatitis is from
+[00:27:19] alcohol, and they don't stop drinking, will it go away?
+[00:27:22] And the answer to that is, once you have one
+[00:27:25] pancreatitis from alcohol and you keep drinking, your likelihood of
+[00:27:28] getting additional episodes of pancreatitis keeps going up and up
+[00:27:32] and up.
+[00:27:33] And then those are the patients, like if you have
+[00:27:35] somebody that's drinking a lot, and they get pancreatitis, and
+[00:27:38] they completely stop drinking.
+[00:27:41] Most of the times, they don't get a recurrent episode,
+[00:27:43] they can, even if they're not drinking, but if you
+[00:27:45] are drinking, you are, you are much, much higher likelihood
+[00:27:49] of getting a recurrent pancreatitis.
+[00:27:51] And those are the people where you have recurrent acute
+[00:27:54] pancreatitis that will turn into a chronic pancreatitis.
+[00:27:56] So, one of the things we always say is, you
+[00:27:59] certainly stop drinking.
+[00:28:01] All right, so a 38 year old male presents to
+[00:28:03] your office in follow-up from a single episode of acute
+[00:28:06] pancreatitis.
+[00:28:07] He says, what's the cause, uh, the cause of his
+[00:28:09] pancreatitis has been labeled as idiopathic.
+[00:28:12] Remember I said, that's one of the common causes when
+[00:28:14] we, when it's not alcohol or gallstones.
+[00:28:18] What's true of the disease process?
+[00:28:21] The pathogenesis related to ductal plugging, asiner cell injury, activation
+[00:28:25] of the stellate cells causing fibrosis.
+[00:28:28] Uh, the risk of death within the 1st 2 weeks
+[00:28:30] is associated with multi-organ failure.
+[00:28:32] Imaging is required for the diagnosis, and a CT scan
+[00:28:36] has the highest sensitivity in diagnosing acute pancreatitis.
+[00:28:44] Let's see hands for A.
+[00:28:48] OK, let's see hands for B.
+[00:28:50] It's a good one.
+[00:28:52] imaging is required for the diagnosis, see?
+[00:28:55] None, and D.
+[00:28:58] All right, so you all got it.
+[00:28:59] So, the first one.
+[00:29:01] Is A is that would be chronic pancreatitis, right?
+[00:29:05] Cause there's no real fibrosis in acute and complicated pancreatitis.
+[00:29:10] Imaging, you remember you need two out of the three,
+[00:29:12] and so you don't always need a CT scan, the
+[00:29:13] CT scan does not have the size sensitivity, the serum
+[00:29:16] values like a lipase is, is, is more sensitive.
+[00:29:21] All right, good with acute pancreatitis.
+[00:29:25] Let's move on to chronic pancreatitis.
+[00:29:28] This is a permanent and irreversible damage to the pancreas,
+[00:29:31] so you wanna try to prevent this from going on
+[00:29:33] if you can, and basically there's histologic evidence of inflammation,
+[00:29:37] fibrosis, destruction of the exocrine cells, the acier cells, and
+[00:29:42] the endocrine portions, the islets of Langerhan.
+[00:29:47] So, the different pathogenesis, there can be overlapping, it could
+[00:29:52] be one, it could be multiple, but uh intraductal ductal
+[00:29:55] plugging and obstruction, direct toxins and toxic metabolites, uh, necrosis,
+[00:30:00] fibrosis, or immune regulation, we'll go through these.
+[00:30:04] So, the ductal obstruction hypothesis, you have a chronic alcohol
+[00:30:08] use, for example, you get Asinar uh and ductal cell
+[00:30:11] destruction, you get this protein-rich pancreatic juice, which is low
+[00:30:15] in bicarbonate, you get the formation of uh protein precipitates
+[00:30:19] like a plug.
+[00:30:21] So, uh, these patients can get calcifications and a stone
+[00:30:25] formation.
+[00:30:27] The duct gets obstructed, and then chronically, these patients are
+[00:30:31] getting inappropriate release of pancre of pancreatic enzymes in the
+[00:30:35] wrong place, so it's kind of like this ongoing cycle.
+[00:30:40] And you can see ductal stones in alcoholic, tropical, hereditary,
+[00:30:43] idiopathic pancreatitis.
+[00:30:44] It's not necessarily specific to one cause or the other.
+[00:30:48] The toxic metabolic hypothesis.
+[00:30:50] So, um, basically what happens is whatever it is that's
+[00:30:55] insulting the pancreas, like if it's ethanol, you can get
+[00:30:58] these reactive oxygen species, these free fatty acid acid ethanol
+[00:31:02] esters, uh, and basically, they will activate an inflammatory cascade,
+[00:31:08] stimulating the stellate cells to start laying down some scar
+[00:31:10] tissue.
+[00:31:12] So this is another model of how it can happen.
+[00:31:16] There is the necrosis fibrosis hypothesis.
+[00:31:20] Remember how I just said with your question, well, if
+[00:31:22] people keep drinking, well, if they keep drinking, they get
+[00:31:25] more episodes of pancreatitis, and theoretically, remember how I said
+[00:31:29] that you have that that that I guess I would
+[00:31:33] say the pathology would be that it returns to normal.
+[00:31:36] That's not always the case.
+[00:31:37] If you're, we don't do biopsies on people that have
+[00:31:40] had acute pancreatitis in general, but if you, if you
+[00:31:43] did, and you look, and it's been done.
+[00:31:45] Uh, in animal models in particular, if you look at,
+[00:31:49] uh, somebody that's recovered from acute pancreatitis, there are some
+[00:31:51] subtle changes.
+[00:31:53] So if you imagine you start stacking acute pancreatitis episodes
+[00:31:57] on top of each other, you're stacking on that, uh,
+[00:32:00] that microscopic inflammation and changes, and this is one way,
+[00:32:04] so multiple episodes of acute pancreatitis can lead to a
+[00:32:07] chronic pancreatitis, and it doesn't just have to be alcohol,
+[00:32:10] it can be from any insult.
+[00:32:13] And then there's the autoimmune pathogenesis, or auto autoantibodies will
+[00:32:19] attack the pancreas, you get this, what's called a lymphoplasmacytic
+[00:32:22] infiltrate, uh, it oftentimes will respond to steroids, uh, it's
+[00:32:27] oftentimes these patients will tend to have other autoimmune, uh,
+[00:32:31] processes going on, uh, diabetes, uh, rheumatoid arthritis, lupus, and
+[00:32:38] one of the other labs that you might see is
+[00:32:39] an elevated, uh, gamma globulin.
+[00:32:43] But this is an entire entity, autoimmune pancreatitis.
+[00:32:47] Which is, by the way, is a relatively new within
+[00:32:49] the last 30 to 40 years diagnosis.
+[00:32:54] Uh, let's look at some of the other, we already
+[00:32:56] talked about alcohol, pancreatitis, the idiopathic is a big one,
+[00:32:59] gallstones I didn't put on there, but other ones here
+[00:33:02] are cystic fibrosis, hereditary, hypertriglyceride immune immune, and tropical.
+[00:33:07] We're gonna delve a little bit into hereditary pancreatitis.
+[00:33:11] So there are several different forms, the cystic fibrosis transmembrane
+[00:33:15] conductus regular, cystic fibrosis, right?
+[00:33:19] Um, this has to do with this, um, this genetic
+[00:33:23] mutation.
+[00:33:24] There's also the cationic trypsinogen gene, PRSS1 gene, or the
+[00:33:29] serum protease inhibitor casal type, I love that one, sin,
+[00:33:32] sink 1.
+[00:33:33] These are oftentimes when we have pancreatitis, chronic pancreatitis, that
+[00:33:37] is in the idiopathic form, and we don't know why,
+[00:33:41] like you have somebody in their 30s and 40s, maybe.
+[00:33:45] Uh, that has chronic pancreatitis a little bit earlier than
+[00:33:47] you might see in somebody that has an identifiable risk
+[00:33:50] factor like alcohol.
+[00:33:52] You see it earlier, this is one of the panels
+[00:33:54] that we check to try to tease out, is there
+[00:33:57] something else going on that's causing this, that we haven't
+[00:34:00] identified.
+[00:34:03] So, Basically, the mechanism of of chronic pancreatitis, right, you
+[00:34:07] have this intracellular trypsin, which is, which is generated, uh,
+[00:34:11] normally it's released, and then the the trypsin is degraded.
+[00:34:16] Well, in hereditary pancreatitis, you have mutations where the trypsin
+[00:34:19] is not degraded, so certainly on some low level, you
+[00:34:23] have excess trypsin, that's within the hepatic parenchyma, which is,
+[00:34:28] which is basically uh digesting the pancreas, right?
+[00:34:31] And this is, this, this is a cascade that kind
+[00:34:34] of is self-fulfilling.
+[00:34:38] I mentioned that people with something like hereditary pancreatitis, you're,
+[00:34:41] you have somebody with chronic pancreatitis, you don't know why,
+[00:34:44] idiopathic, you check and maybe you find a a a
+[00:34:47] sphinc one mutation.
+[00:34:50] Uh, basically, what we know is, like I said, these
+[00:34:53] people will develop a pancreatitis that has an at an
+[00:34:55] earlier age than people without mutation.
+[00:34:58] So when you ever have a young patient, a younger
+[00:35:00] patient with chronic pancreatitis, this is one, and you don't
+[00:35:03] have an etiology, this is one of the things that
+[00:35:04] you think about.
+[00:35:07] So the testing for chronic pancreatitis isn't perfect.
+[00:35:12] Um, there are tests of function up here, and there
+[00:35:15] are tests of structure, right?
+[00:35:17] Function is how is the pancreas functioning.
+[00:35:20] We don't do this typically, but they used to do
+[00:35:22] this a lot more significantly, but you'd give hormonal stimulation
+[00:35:25] with secretin or cholecystokinin, which stimulate the pancreas, and you
+[00:35:28] measure the output.
+[00:35:30] Or, and sometimes you put it in a an oro
+[00:35:32] duodenal tube, or you use endoscopy to figure out, you
+[00:35:36] know, we don't use these as much, we do, you
+[00:35:39] can, this is a tough test to get, but you're
+[00:35:40] doing, remember, it's like an an MRCP is like an
+[00:35:44] ERCP.
+[00:35:46] But an MRCP is imaging, and it looks at the
+[00:35:48] duct, and ERCP is you're directly cannulating that duct and
+[00:35:52] looking at it, but you can do the same thing,
+[00:35:55] we don't do this very often, but you could give
+[00:35:57] it with secretin to see what what's going on with
+[00:35:59] the pancreas, and is it, is it working?
+[00:36:01] These are much more common, test of function, you know,
+[00:36:05] these are ranked in order of decreasing sensitivity.
+[00:36:08] So a fecal elastase is one that very much so,
+[00:36:11] we will check and sometimes use to trend, to see
+[00:36:14] how somebody's pancreatitis is doing.
+[00:36:17] Uh, you check if because, uh, because what this is
+[00:36:20] what the pancreas produces, so if your fecal elastase is
+[00:36:22] low, then you have a good idea that the pancreas
+[00:36:27] might not be working as well.
+[00:36:29] Um, uh, all the way down to something like a
+[00:36:32] blood glucose level, which is kind of end organ problem,
+[00:36:36] um, with a problem with the endocrine cells in the
+[00:36:40] pancreas.
+[00:36:42] Tests of structure are, are more imaging.
+[00:36:44] So, uh, endoscopic ultrasonography, so that's an EUS.
+[00:36:50] Um, there, that's kind of operator dependent, meaning if somebody's
+[00:36:54] good at it, there's criteria that we use, that's very
+[00:36:57] good and sensitive for picking up pancreatitis.
+[00:37:00] Same thing with an ERCP or an MRI.
+[00:37:05] Without the secretin above, cause the secretin part is the
+[00:37:08] function, but this is just imaging, or a CT scan
+[00:37:11] or abdominal ultrasound, or a plain plain abdominal X-ray.
+[00:37:15] None of these tests work well to detect the the
+[00:37:18] mild forms of the disease, that's the problem.
+[00:37:20] So we're good at looking at normals, we're really good
+[00:37:23] at looking at pretty bad chronic pancreatitis, but in people
+[00:37:27] that are kind of in between, they're not, they're not
+[00:37:29] great tests.
+[00:37:30] So that's kind of a future thought process is how
+[00:37:33] do we figure out What level of pancreatitis that they
+[00:37:37] have by our diagnostic testing, so we can kind of
+[00:37:39] prevent the cascading problems that lead to a chronic pancreatitis.
+[00:37:45] This is an abdominal X-ray.
+[00:37:46] It sees a bunch of calcifications in there, not a
+[00:37:48] super sensitive test.
+[00:37:49] It's a CT scan, and it shows calcifications here, and
+[00:37:53] the pseudocyst, and ERCP where you're going in, that's the,
+[00:37:58] that's the camera going in, and then you're cannellating the
+[00:38:00] duct.
+[00:38:01] These are stones in here, right?
+[00:38:03] And this is a, you can't really tell, but a
+[00:38:05] dilated duct.
+[00:38:07] And this is something where it looks a very significant
+[00:38:09] and severe chronic pancreatitis, where you have a markedly dilated
+[00:38:13] duct.
+[00:38:14] And you can see all these kind of offshoots.
+[00:38:17] Testing wise, I don't need you to know that, but
+[00:38:19] just understand that the way that we do it with
+[00:38:22] imaging uh varies and can pick out a different different
+[00:38:26] uh severity of disease.
+[00:38:29] The clinical course of pancreatitis, remember how I said acute
+[00:38:31] pancreatitis, they present pain as the predominant cause.
+[00:38:36] As people progress, they're kind of frying the nerves, and
+[00:38:39] pain becomes much less.
+[00:38:41] But you have these other things where you have calcifications,
+[00:38:44] malabsorption, and diabetes, which you tend to see more as
+[00:38:48] the disease process goes on.
+[00:38:53] So, when we treat pancreatitis, you know, not that you
+[00:38:56] can't do a pancreatic transplant, you can, uh, but that's
+[00:38:59] not typically how we treat patients with pancreatitis, that's a
+[00:39:02] very big operation, um, but we're trying to manage a
+[00:39:06] lot of the symptoms, so abdominal pain, sciararrhea, that's fat,
+[00:39:10] that's fatty stool, right?
+[00:39:12] The pancreas is primarily, it's involved in digestion of, of
+[00:39:16] fats, proteins, and carbohydrates, but Typically, this theoarrhea, the fatty
+[00:39:21] diarrhea is one of them that you see, and we
+[00:39:23] monitor, and as these patients get, go along the process,
+[00:39:28] you know, they have problems with the endocrine portion of
+[00:39:31] of pancreatic secretions, and they oftentimes will develop a diabetes,
+[00:39:34] so we try to treat all these things.
+[00:39:37] If there's a pseudocyst, remember I said most of the
+[00:39:39] time we don't do anything about it, but sometimes we
+[00:39:42] do, so we might uh drain that pseudocyst.
+[00:39:46] We also might go in and, and we could stent
+[00:39:50] the pancreas, or we could do a papilotomy where we'll
+[00:39:53] open up that sphincter of Oddi, um, and let it
+[00:39:57] drain better.
+[00:39:58] Uh, we, we could go in and take a stone
+[00:40:00] out with an ERCP.
+[00:40:02] We can go in and do lithotripsy, much like we
+[00:40:04] could, uh, with, with gallstones, or you can do some
+[00:40:08] sort of combination of therapies to try to get rid
+[00:40:11] of these pancreatic duct stones.
+[00:40:19] Uh, pain management in these patients is always hard and
+[00:40:22] difficult.
+[00:40:23] Like, in general, narcotics are not the greatest thing for
+[00:40:25] the GI tract.
+[00:40:26] It can cause a lot of secondary effects, which we'll,
+[00:40:28] we'll talk about, um, when we start talking about irritable
+[00:40:31] bowel syndrome and constipation.
+[00:40:33] But these patients oftentimes are in a lot of pain,
+[00:40:35] so we give them narcotics.
+[00:40:38] We will give them neuromodulators, um, to try to help
+[00:40:42] out, help out with that.
+[00:40:43] Sometimes we give gabapentin or sometimes we use some of
+[00:40:47] the antidepressants which have a pain modifying component to them,
+[00:40:51] anti-inflammatory drugs, anti-secretory drugs like um like pro proton pump
+[00:40:57] inhibitors, uh, and pancreatic enzymes.
+[00:41:00] Sometimes you'll see it referred to as pancreatic enzyme replacement
+[00:41:04] replacement therapy, PERT.
+[00:41:06] Pancreatic enzymes, these are some of the main treatments which
+[00:41:09] help the pancreas, but also help with pain control.
+[00:41:13] And some of the neuropathic uh treatments, so we might
+[00:41:16] do an endoscopic ultrasound and go in and do a
+[00:41:19] nerve block around the celiac artery.
+[00:41:22] There's a lot of nerve plexuses, as you remember, we
+[00:41:25] can sometimes inject those and that can that can control
+[00:41:27] pain.
+[00:41:28] Um, there's, so there's a bunch of different, uh, a
+[00:41:32] bunch of different treatment processes that we can do besides
+[00:41:35] narcotics that can work for these patients.
+[00:41:39] Sometimes you have to do something else, like a, a
+[00:41:42] lateral pancre pancreatic geostomy, a Puste procedure, where you're basically
+[00:41:46] flaying open the pancreas and you're connecting it right to
+[00:41:49] the small intestine, top operation, you don't see it very
+[00:41:52] commonly, but it can help drain the pancreas better, so
+[00:41:54] those pancreatic enzymes are not being released in the pancreatic
+[00:41:56] parenchyma, causing inflammation and chronic pancreatitis.
+[00:42:04] The aarrhea.
+[00:42:04] So sometimes we'll do some stool studies like a um
+[00:42:08] uh we'll look to do a sedan stand and you'll
+[00:42:09] see a lot of of of fat in there, and
+[00:42:12] it basically it's because you have a decreased concentration of
+[00:42:15] lipase and colipase, so you know, pH is down, so
+[00:42:18] you get an an inactivation of the pancreatic lipase, you
+[00:42:21] get this kind of precipitation of bile salts, you have
+[00:42:23] malabsorption of fat.
+[00:42:26] And you see it in the stool So, I mentioned
+[00:42:29] that the pancreas is responsible for digestion and absorption of
+[00:42:33] fats, of proteins, and starch, right?
+[00:42:36] So you can get steatarrhea, that's fatty diarrhea, you could
+[00:42:39] get esatarrhea, that's with excessive protein, and then you can
+[00:42:43] get a myorrhea with with more starch.
+[00:42:45] The, the thing that's the most common is the steatarrhea,
+[00:42:48] and that's typically what we look at.
+[00:42:50] We don't look at at for esatarrhea or a myelorrhea
+[00:42:55] in general.
+[00:43:02] For nutritional management, um, for the exocrine, we're basically wanna
+[00:43:06] modify the, the fatty foods that they take in.
+[00:43:09] Sometimes we use medium chain triglycerides.
+[00:43:12] I said we will use pancreatic enzymes, right?
+[00:43:14] We're giving them exogenous pancreatic enzymes to help with their
+[00:43:18] absorption.
+[00:43:19] Um, we also remember fatty, uh, steadorrhea is the most
+[00:43:25] common presentation of these patients.
+[00:43:27] So oftentimes they're fat they're they're um fat soluble vitamin
+[00:43:32] deficient, so we're particularly uh trying to replete those those
+[00:43:36] enzymes, also cobalamin and calcium, so we will look at
+[00:43:40] their nutritional status and oftentimes check blood levels and treat
+[00:43:43] appropriately.
+[00:43:46] One of the uh risks that goes on, as time
+[00:43:49] goes on, I mentioned that diabetes gets worse and worse
+[00:43:52] and worse, these patients can be um pretty brittle diabetics,
+[00:43:56] very hard to control diabetes.
+[00:43:58] Uh, it's a predictor of mortality in chronic pancreatitis.
+[00:44:01] Once somebody develops diabetes, that means the pancreas is significantly
+[00:44:05] fried, and it's not working, so their endocrine, um, Their
+[00:44:10] endocrine capabilities of the pancreas have gone markedly down.
+[00:44:13] Uh, they don't typically get ketoacidosis, although it's possible.
+[00:44:18] Sometimes you need insulin, you know, you're, these are, these
+[00:44:20] are patients that are hard, hard to treat.
+[00:44:23] It's very hard to treat their, their blood glucose, it
+[00:44:25] goes up and down.
+[00:44:27] You're oftentimes having an endocrine involved with the treatment of
+[00:44:29] these patients.
+[00:44:33] One of the other biggest things that we worry about
+[00:44:36] in people with chronic pancreatitis is they can develop cancer.
+[00:44:40] So what you see over a period of time, that's
+[00:44:42] what this area is supposed to suggest, that over a
+[00:44:45] period of time, their risk of pancreatic cancer goes up.
+[00:44:49] So, one of your jobs as a physician is to
+[00:44:52] kind of monitor that and and and and figure out
+[00:44:56] if this is somebody that's, that is certainly at risk
+[00:44:59] of developing pancreatitis.
+[00:45:01] I'm sorry.
+[00:45:02] Of uh pancreatic cancer.
+[00:45:04] And imaging, careful questioning, making sure that that they don't
+[00:45:10] have that.
+[00:45:11] If you do, you want to catch it early, right?
+[00:45:13] This is an organ where oftentimes we don't know until
+[00:45:16] it's too late, and that obviously is very catastrophic.
+[00:45:20] So, what are some of the the symptoms suggesting it?
+[00:45:23] So, if they have a changing pattern of their of
+[00:45:25] their pain.
+[00:45:27] You have them on pancreatic enzyme replacement therapy, and they're
+[00:45:30] losing weight, so maybe your dose isn't right, or maybe
+[00:45:34] they're developing pancreatic cancer, they developed some sort of obstruction.
+[00:45:39] Sometimes they'll we'll get a new onset depression, you can
+[00:45:41] get something that's these uh recurrent venous thrombosis, it's called
+[00:45:45] Trousseau's syndrome, um, and something that you think about, so,
+[00:45:49] And the other one, oftentimes when people present with painless
+[00:45:53] jaundice, that's an ominous sign, we don't like that, whenever
+[00:45:56] we hear that, we think of pancreatic cancer, um, as
+[00:46:00] one of the primary causes of that.
+[00:46:02] Also, uh, I mentioned cholangiocarcinoma in the last lecture.
+[00:46:07] These two things oftentimes will present with a painless jaundice.
+[00:46:10] We, we don't like painless jaundice.
+[00:46:12] So risk factors for pancreatic cancer.
+[00:46:15] Greater than 60, if they have a hereditary chronic pancreatitis,
+[00:46:19] remember, cause it recurs at an earlier age, so these
+[00:46:23] people then have a much, have a a a lifespan,
+[00:46:26] which means they're more likely to develop it as years
+[00:46:28] go on.
+[00:46:29] Smoking is super, super, super, super, super bad for for
+[00:46:33] chronic pancreatitis.
+[00:46:35] It's a big risk factor.
+[00:46:36] Anybody that has chronic pancreatitis, I really always say, you
+[00:46:40] have to stop smoking.
+[00:46:42] Um, So, the vast majority, and anybody with chronic pancreatitis,
+[00:46:46] the vast majority of these people will get um a
+[00:46:49] ductal adenocarcinoma, and the risk of pancreatic cancer is 4%
+[00:46:52] in 20 years, so you will see it.
+[00:46:54] And once you develop pancreatic cancer, like I said, this
+[00:46:57] is a tough disease process, we oftentimes recognize it too
+[00:47:00] late, and these people uh do not live very long.
+[00:47:04] So the goal is to try to prevent that.
+[00:47:07] OK, so, a 50-year-old male, uh, with alcohol use disorder
+[00:47:11] presents to your office with chronic pancreatitis for the last
+[00:47:13] 10 years.
+[00:47:14] His chronic pain that is relatively controlled with periodic use
+[00:47:17] of narcotics, however, he's learned to deal with his pain.
+[00:47:20] His weight is chronically low, and he has intermittent loose
+[00:47:22] stool.
+[00:47:22] He wants to know about his disease, which of the
+[00:47:24] statements regarding his disease process is true.
+[00:47:29] Risk of pancreatic cancer levels off the 10 years.
+[00:47:31] The most common to least common malabsorption pattern is steatarrhea,
+[00:47:36] myorrhea, ararrhea.
+[00:47:38] Pathogenesis is likely related to ductal obstruction.
+[00:47:42] Toxic metabolic necrosis fibrosis, or immune dysregulation.
+[00:47:46] The most sensitive test to diagnose chronic pancreatitis is a
+[00:47:49] combination of blood glucose levels and an abdominal X-ray, and
+[00:47:52] the proposed mechanism for chronic hereditary pancreatitis is inadequate degradation
+[00:47:58] of chimotrypsin.
+[00:48:03] So which is true?
+[00:48:05] A, I'm the only one.
+[00:48:09] No, it's not a.
+[00:48:10] Uh, B, the most common, the least common.
+[00:48:15] No bees.
+[00:48:16] The pathogenesis is likely related to ductile obstruction, toxic metabolic
+[00:48:19] necrosis fibrosis, and immune dysregulation.
+[00:48:23] All right, let's see some hands.
+[00:48:25] The most sensitive test to diagnose is a glucose level,
+[00:48:28] an abdominal X-ray.
+[00:48:30] Mm And the proposed mechanism of chronic hereditary pancreatitis is
+[00:48:35] inadequate degradation of chimotrypsin.
+[00:48:41] Why is that one wrong?
+[00:48:43] Jepsen.
+[00:48:45] OK.
+[00:48:50] Questions.
+[00:48:55] All right, awesome.
+[00:48:55] Thank you very much.
+[00:48:56] Next lecture, liver disease, Doctor Deutsch.

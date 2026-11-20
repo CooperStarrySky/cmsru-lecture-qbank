@@ -1,0 +1,1052 @@
+[00:00:00] Can you guys, OK, you can hear me.
+[00:00:02] Um, for those of you guys who either came in
+[00:00:03] through the back or came in a little bit late,
+[00:00:05] I have a But basket of candy up here if
+[00:00:09] anybody wants some.
+[00:00:10] Um, I know you guys have a really long day
+[00:00:12] of like back to back lectures like the entire day,
+[00:00:15] so any sugar can help wake you up.
+[00:00:29] All right, can you guys still hear?
+[00:00:30] OK, that should be good.
+[00:00:41] Bachelor.
+[00:00:45] All right, we're gonna get started, um, because these lectures
+[00:00:48] are a little bit long or a little bit lopsided,
+[00:00:51] so don't worry if this one is a little bit
+[00:00:53] longer.
+[00:00:54] It just, it's a little bit more than the second
+[00:00:56] lecture.
+[00:00:58] Um, so welcome to Renal.
+[00:01:00] Um, once again, you have me to intro the block.
+[00:01:05] Um, I took all of your advice very much to
+[00:01:07] heart.
+[00:01:07] I know you guys did not like that I used,
+[00:01:10] that I had to use Doctor O'Leary's lectures.
+[00:01:12] So these are all my normal style of lectures.
+[00:01:15] So hopefully you guys are happier.
+[00:01:19] Um, So, um, we're gonna start, um, doing the glomerular
+[00:01:25] and tubular, uh, physiology, um, a bulk of what happens
+[00:01:29] in the kidneys and the glomerulus.
+[00:01:32] Um, the tubular one is a little bit lighter just
+[00:01:34] because you have a lot of individual lectures on all
+[00:01:37] the different.
+[00:01:39] Electrolytes and waters and other ions that get reabsorbed and
+[00:01:42] secreted in the nephron.
+[00:01:44] So like Wednesday, you have the sodium and water ones,
+[00:01:47] Friday, potassium and miscellaneous things.
+[00:01:51] Um, so I didn't go into too much depth on
+[00:01:53] that because you will get individual lectures, but this one.
+[00:01:56] It's a little bit Not packed, just a little bit
+[00:02:01] longer.
+[00:02:02] And my computer decided not to work.
+[00:02:06] Um, so we're gonna start off, um, with some of
+[00:02:08] the basic anatomy of the nephron, um, the renal tubules,
+[00:02:12] talk about the different types of nephrons, kind of just
+[00:02:15] give you an overview.
+[00:02:16] I know you did have a renal overview this morning.
+[00:02:19] Um, and then we're gonna talk about the glomerulus, how
+[00:02:21] it filters things.
+[00:02:23] Um, of course, we have to talk about Starling's law
+[00:02:25] of vocapillary, um, and then the factors that are going
+[00:02:28] to modify the GFR, um, the glomerular filtration rate, um,
+[00:02:33] and then how the kidney in general is regulated.
+[00:02:39] OK, so The kidney, this is an overview of it,
+[00:02:43] has so many functions.
+[00:02:46] A lot of them related to regulating homeostasis.
+[00:02:50] Um, you know, I love homeostasis.
+[00:02:51] I made you guys learn all this in MBM.
+[00:02:53] Um, we're now we're just gonna kind of modify this,
+[00:02:56] go a little bit deeper than what you learned in
+[00:02:58] MBM.
+[00:02:59] So, some of its functions include excretion of metabolic wastes,
+[00:03:02] regulation of water and electrolytes, regulation of body fluid osmolarity,
+[00:03:06] regulation of arterial pressure, acid-base balance, erythrocyte production, and then
+[00:03:11] secretion, metabolism and excretion of hormones, gluconeogenesis.
+[00:03:15] So, it does so many different things.
+[00:03:18] So about 180 L of fluid per day is filtered
+[00:03:22] through the kidney, which is way more than you actually
+[00:03:24] have in your body.
+[00:03:25] Um, so most of the fluid that goes to the
+[00:03:28] kidney, some of it is filtered through, and of that
+[00:03:31] that's filtered, only about 1 L actually gets excreted.
+[00:03:35] Um, which is very fortunate because otherwise you would just
+[00:03:39] be running to the bathroom all day long to pee.
+[00:03:41] So Um, the kidney receives about 22% of the resting
+[00:03:45] cardiac output, which is huge.
+[00:03:48] It's a pretty small organ, so it doesn't really need
+[00:03:50] a lot to profuse, but it does such a huge
+[00:03:53] part of regulating the body that so much of the
+[00:03:55] cardiac output goes directly to the kidney to support every
+[00:03:59] other function of the body.
+[00:04:01] And all blood in circulation passes through the kidney about
+[00:04:04] every 5 minutes.
+[00:04:12] Um, so as I said, um, the blood flow to
+[00:04:15] the kidney is huge in comparison to all the other
+[00:04:17] organs.
+[00:04:18] Um, and I know you also will have anatomy specifically
+[00:04:22] on the kidney, but we'll just very quickly go through,
+[00:04:26] um, some of the blood supply anatomy.
+[00:04:28] Um, so, all the way on the left, you have
+[00:04:30] a picture.
+[00:04:31] The middle one is more of like a diagram or
+[00:04:32] like a flow chart.
+[00:04:34] Um, Blood starts by coming into the renal artery, segments
+[00:04:39] into the segmental arteries, and then comes up around the
+[00:04:43] lobes of the pyramids, um, which are your uh interlobar
+[00:04:48] arteries and then arcs around the top of those pyramids
+[00:04:50] called the arcuate.
+[00:04:52] Um, and then the interlobular ones kind of go through
+[00:04:55] those, um, Pyramids into the afferent arterial, which is kind
+[00:05:00] of where we're starting with the glomerulus.
+[00:05:03] So if you look all the way to the right,
+[00:05:04] you'll notice that in the kidneys, it's not your simple
+[00:05:08] arterial side, capillaries, venous side.
+[00:05:11] There's two sets of capillaries within the kidney.
+[00:05:14] So, you have your glomerular capillaries and then your peritubular
+[00:05:17] capillaries.
+[00:05:18] So, the aferent arterial is gonna go into the glomerulus.
+[00:05:22] Um, the capillaries and the glomerulus are gonna do their
+[00:05:25] thing and then it leaves that through the efferent, and
+[00:05:28] then it goes to the peritubular capillaries.
+[00:05:30] Um, we're gonna talk about the different types of nephrons,
+[00:05:33] but depending what type of nephron it's going to, it
+[00:05:35] can either be the peritubular capillaries or the vasi rea
+[00:05:39] is just a specialized peritubular capillary.
+[00:05:41] It just depends on the nephron, which you'll see in
+[00:05:42] the next couple of slides.
+[00:05:44] Um, and even though this says it's going right to
+[00:05:46] the renal vein, it doesn't actually just go there.
+[00:05:48] Everything just kind of goes backwards.
+[00:05:50] So you have your interlobular, your arcuate vein, interlobar, interlobar
+[00:05:54] vein.
+[00:05:55] Um, there is no segmental vein.
+[00:05:57] I don't know why.
+[00:05:58] And then renal vein and then out to the rest
+[00:06:00] of the body.
+[00:06:01] Um, because you have these two beds, it is much
+[00:06:04] more sensitive to being able to control resistance in the
+[00:06:07] capillaries, um, so that it can, it can regulate what
+[00:06:11] and how much passes through.
+[00:06:13] So, in the glomerular capillaries, a little bit higher hydrostatic
+[00:06:16] pressure, around 60.
+[00:06:18] In the pertubular capillaries, it's a lot lower around like
+[00:06:21] 13.
+[00:06:25] Sorry, my arrow keys on my keyboard don't wanna work,
+[00:06:28] so I just have to keep using my trackpad.
+[00:06:32] OK, so within the kidney, there's about 800,000 to a
+[00:06:35] million nephrons in each kidney.
+[00:06:38] Um, the main components are your glomerulus and the tubule.
+[00:06:41] The tubule has a lot of different um names of
+[00:06:44] the segments.
+[00:06:45] Um, so initially starts with the proximal tubule.
+[00:06:48] You'll notice sometimes it's just called proximal tubule, proximal convoluted
+[00:06:52] tubule.
+[00:06:53] Uh, when I abbreviate it, I tend just to do
+[00:06:55] PCT cause I feel like PT could be anything.
+[00:06:58] Um, so you might see it abbreviated as PCT just
+[00:07:00] proximal convoluted tubule, and then DCT for distal convoluted tubule.
+[00:07:05] Um, so it starts off as the proximal tubule.
+[00:07:08] And then it kind of wraps around into the loop
+[00:07:10] of Henley.
+[00:07:12] Um, the loop of Henley has different parts.
+[00:07:14] Um, you have a descending limb, which happens to be
+[00:07:17] thin, but they don't specify that.
+[00:07:19] They just call it the descending limb.
+[00:07:20] As it comes up around the bottom, it turns into
+[00:07:22] the ascending limb.
+[00:07:24] Um, because there are thin and thick parts of this,
+[00:07:26] they specifically call it the thin segment of the ascending
+[00:07:29] limb and the thick segment of the ascending limb.
+[00:07:32] And then you get up, um.
+[00:07:35] Between the loop of Henley and the proximal convoluted tubule
+[00:07:40] where you get your macula densa.
+[00:07:42] We're gonna go through all these parts throughout this lecture.
+[00:07:45] It goes into the distal tubule in the cortex, and
+[00:07:47] then everything kind of comes together and keeps merging and
+[00:07:50] merging until you get to your larger collecting ducts, which
+[00:07:52] eventually is what gets completely filtered out of your body.
+[00:07:56] You can see in this image that all the nephrons,
+[00:07:57] since you have so many of them, um, they'll start
+[00:08:00] joining together to make more and more, um.
+[00:08:04] The connections until you have one big collecting do.
+[00:08:10] OK.
+[00:08:11] So there are two main types of nephrons, um, corticophrons
+[00:08:15] and juxtamedullary nephrons.
+[00:08:18] Corticonephrons are, both of them are actually named for where
+[00:08:21] they are located.
+[00:08:22] Um, the glomeruli are in the outer cortex, um, has
+[00:08:26] much shorter loops of henley, barely dips down into the
+[00:08:29] medulla, and, um, has all these pertubual capillaries that go
+[00:08:33] around the loop of Henley.
+[00:08:35] The juxammedullary nephrons, juxa meaning next to um medullary medulla.
+[00:08:40] Um, the juxtamedullary nephrons, uh, the glomeruli is still in
+[00:08:45] the renal cortex, but it's just at the border of
+[00:08:47] the cortex of the medulla.
+[00:08:48] So, juxtamedullary.
+[00:08:50] Um, it has much longer loops of Henley which dive
+[00:08:52] really deep into the medulla, um, and it has much
+[00:08:55] larger efferent arterials.
+[00:08:57] And this is where you're gonna see those specialized peritubular
+[00:08:59] capillaries called the vasi recta.
+[00:09:01] So, they're all peritubular capillaries just with the juxammedullary nephrons.
+[00:09:05] They're specialized and they're called vasirecta.
+[00:09:15] OK, so that was just kind of your overview of
+[00:09:17] the kidney and the parts of the kidney.
+[00:09:20] So, we're gonna start to talk a little bit about
+[00:09:22] the glomerulus and how it filters things.
+[00:09:25] So, the glomerulus is actually a component of the renal
+[00:09:27] corpus corpuscle.
+[00:09:29] I can never say that word.
+[00:09:30] Um, this is a blood filtering component of the nephron.
+[00:09:33] So, you have the glomerulus, which contains the tufts of
+[00:09:36] capillaries, um, and also has mesangial cells.
+[00:09:40] Um, around that is the Bowman's capsule.
+[00:09:42] Um, you can see in this very colorful picture, the,
+[00:09:46] you have an outer parietal layer, which are these like
+[00:09:49] blue.
+[00:09:50] Blue cells, Bowman space, which is just this white empty
+[00:09:53] space that things get filtered into, and then the visceral
+[00:09:55] layer which kind of goes around the capillaries.
+[00:09:59] And so this whole thing is when people talk about
+[00:10:01] like the glomerulus, they're talking about this whole entire thing
+[00:10:03] being the glomerulus plus the Bowman's castle.
+[00:10:08] So since um the glomerulus has to filter so much
+[00:10:12] fluid, um, it's slightly different than regular capillary membranes.
+[00:10:16] So instead of having like two layers, glomerular capillaries will
+[00:10:19] have three.
+[00:10:20] You have an endothelium, a basement membrane, and the epithelial
+[00:10:23] cytes or the protocytes.
+[00:10:25] Um, these capillaries filter several 100 times more water and
+[00:10:29] solutes than usual capillaries, so it's structured a little bit
+[00:10:32] different because it wants all this fluids to be able
+[00:10:34] to pass through, but the stuff that's not supposed to
+[00:10:36] pass through still shouldn't pass through.
+[00:10:41] So, these 3 layers together are called the filtration barrier.
+[00:10:45] So this is where you want to allow certain things
+[00:10:48] to pass through and other things you want to be
+[00:10:50] prevented.
+[00:10:51] So the endothelium has thousands of little perforated holes called
+[00:10:56] fenestrae, um, which allow a lot of water to pass
+[00:10:59] through.
+[00:11:00] So a lot of water and salt to pass through,
+[00:11:01] or salt use I should say, to pass through.
+[00:11:04] Um, it does have a negative charge.
+[00:11:05] All these layers actually have negative charges.
+[00:11:08] Um.
+[00:11:10] But there are, I get 102.
+[00:11:12] So, let them, let's a lot of water through, a
+[00:11:14] lot of solutes through, through these main pores.
+[00:11:17] Um, and that's here in like this orange-ish color.
+[00:11:20] The basement membrane.
+[00:11:22] Um, is a meshwork of collagen and sulfated proteoglycan fibrilla.
+[00:11:27] And this has a strong negative electrical charge.
+[00:11:30] So, I've noticed anytime you do practice questions and it
+[00:11:33] asks which layer has the negative charge, they want you
+[00:11:37] to say based on the membrane.
+[00:11:38] They all have a slight negative charge, um, but this
+[00:11:41] like characteristically is like the layer with the negative charge.
+[00:11:45] So I just want to put that they are all
+[00:11:47] negative charge cause you might read it, but when they
+[00:11:48] talk about the layer with the electrical charge, it's a
+[00:11:52] base in the membrane.
+[00:11:53] Um, and the protocytes are these like this blue layer
+[00:11:56] here.
+[00:11:56] Um, they have long foot-like processes that encircle the capillaries
+[00:12:01] separated by gaps also called slip pores, and they also
+[00:12:04] have a negative charge, but Not the negative charge, all
+[00:12:08] your practice questions we'll talk about.
+[00:12:13] So we're gonna dive a little bit deeper into these
+[00:12:15] layers.
+[00:12:16] Um, there are some clinical relevant proteins within these layers.
+[00:12:21] Um, I'm just gonna mention some of them because you
+[00:12:22] will hear about them later in some clinical lectures.
+[00:12:25] And so when you hear them, I want you to
+[00:12:26] be able to reference back to where exactly in the
+[00:12:29] glomerulos they are.
+[00:12:31] Um, so the glomerular basement membrane is made up of
+[00:12:33] a lot of different things.
+[00:12:34] So, laminin, type 4 collagen, nitrogen, and heparin sulfate proteoglycan,
+[00:12:40] also known as AGRI.
+[00:12:42] Um, the sulfated glycosaminoglycan of grin is a name that
+[00:12:48] you may hear.
+[00:12:49] Um, it's what causes the basement membrane to have the
+[00:12:52] negative charge.
+[00:12:53] So it's the main thing that maintains that negative charge
+[00:12:56] so that any negative thing such as pro uh proteins,
+[00:13:00] albumin especially, can't pass through, right?
+[00:13:03] It has a negative charge, that's going to repel all
+[00:13:04] those other negative, um, molecules.
+[00:13:08] Um, it is a potential biomarker for kidney insufficiency.
+[00:13:12] Um, and there is a nephrotic, nephritic syndrome called Alport
+[00:13:16] syndrome, um, which is a bone mutation of the type
+[00:13:19] 4 collagen that disrupts the barrier, leading to a lot
+[00:13:23] of things being able to pass through that shouldn't pass
+[00:13:25] through.
+[00:13:29] So within the filtration slit or the protocytes, protocytes have
+[00:13:32] these little spaces in between them called the filtration slits.
+[00:13:35] Their main function is a size barrier, um, so they're
+[00:13:38] gonna prevent large things from passing through.
+[00:13:41] So, some of these, um, proteins that you're probably gonna
+[00:13:45] see in your later clinical lectures, um, is nephrine, which
+[00:13:49] is an adhesion molecule that binds the adjacent potocytes together.
+[00:13:54] Um, potosin.
+[00:13:56] You see my cursor here, stabilizes the neph stabilizes nephrine
+[00:13:59] within the membrane and then CD2AP serves as an adaptor
+[00:14:03] protein for both nephrine and potasin.
+[00:14:06] Um, and I Kind of looked up which ones are
+[00:14:09] most clinically relevant, and these are the ones that were
+[00:14:11] like highlighted.
+[00:14:12] Um, you may or may not hear about them in
+[00:14:15] your clinical lectures, but if you do, I want you
+[00:14:16] to go back and just remember like where they're located.
+[00:14:23] OK.
+[00:14:24] So we know the glomerulis has to filter a lot
+[00:14:26] of things, but what is really preventing or allowing things
+[00:14:29] to be filtered?
+[00:14:31] So, one of the criteria is the size.
+[00:14:34] So glomerular filterability is inversely related to size.
+[00:14:38] So as you can see in this chart, if the
+[00:14:40] radius or molecular weight is very small, its filterability is
+[00:14:44] one, meaning that it's freely able to filter through.
+[00:14:46] As you get to these much larger, you know, albumin.
+[00:14:50] Its filterability is almost zero, so as they get larger,
+[00:14:53] they're less likely to be filtered through.
+[00:14:55] Um, they will get caught up in the layer, but
+[00:14:57] it's that protocyte layer that's really going to prevent those
+[00:14:59] sized, um.
+[00:15:02] Substances from passing through.
+[00:15:07] Oops.
+[00:15:11] Um, the other big component, again, because we said that
+[00:15:13] basement membrane is what creates that negative charge.
+[00:15:16] Obviously, negatively charged molecules are not going to be able
+[00:15:19] to pass through as well.
+[00:15:21] So if you look at dextrin, which can be made
+[00:15:23] to be positively charged or negatively charged, regardless of what
+[00:15:28] its charge is, as it gets larger, its filterability goes
+[00:15:32] down.
+[00:15:33] So what we just said, you know, 2 seconds ago,
+[00:15:35] it's inversely related to size.
+[00:15:37] Regardless of the charge, as it gets bigger, filterability goes
+[00:15:40] down.
+[00:15:41] But if you look at the difference between a positively
+[00:15:43] charged molecule and a negatively charged molecule, that's a huge
+[00:15:47] difference.
+[00:15:48] So even at a relatively small-ish size, the negatively charged
+[00:15:53] ones are really not going to be able to pass
+[00:15:54] through, whereas positively charged ones can.
+[00:15:57] And as you move, you know, down the axis to
+[00:16:00] get even larger, you can see that there's, these negatively
+[00:16:03] charged molecules are almost at zero.
+[00:16:06] Um, so this is, this can create something called negative
+[00:16:09] change nephropathy.
+[00:16:11] Um, so this is just a condition where structurally, your
+[00:16:14] kidneys look fine.
+[00:16:16] Um, if you're looking at histology, like everything looks like
+[00:16:18] it's intact.
+[00:16:19] Um, but these basement membranes have started to lose some
+[00:16:22] of its, uh, charge function.
+[00:16:25] And so because it's loss of charge function, some proteins
+[00:16:28] and other things can get by.
+[00:16:29] And so you'll start to see this in urine.
+[00:16:31] So when you look closely at the kidney, you're like,
+[00:16:32] OK, there's no change, but because of this loss of
+[00:16:35] negative charge, Um, proteins will pass through.
+[00:16:39] Um, they're not exactly sure why.
+[00:16:40] They think it's like an immuno immunological response.
+[00:16:43] Um, it's often seen in young children with autoimmune diseases,
+[00:16:46] um, but they're not exactly sure why minimal change nephropathy
+[00:16:50] occurs so far before, like structural changes.
+[00:16:54] OK, so, quick question.
+[00:16:58] What are the three layers of the filtration barrier, and
+[00:17:00] what are their primary filtering roles?
+[00:17:04] So starting Closest to the lumen Just ye not endothelium.
+[00:17:12] And what's its filtering role?
+[00:17:19] Penetration just to be able to allow a lot of
+[00:17:20] water and solutes through.
+[00:17:24] What's the second layer?
+[00:17:26] And it's a primary filtering role.
+[00:17:29] Yeah, prevent negatively charged things from passing through and the
+[00:17:32] third one.
+[00:17:34] Protocyte's main role.
+[00:17:38] Yep, um, final size selectivity.
+[00:17:40] Um, so all of these things are going to allow
+[00:17:42] a lot of water and solutes to pass through and
+[00:17:44] very little, um, blood cells, uh, negatively charged molecules, proteins,
+[00:17:50] all that, all that good stuff.
+[00:17:54] So what determines the glomerular filtration rate?
+[00:17:56] And I know you talked a little bit about this
+[00:17:58] in um Doctor Dawson's intro lecture.
+[00:18:00] Um, so some of this might be repetitive, but, um,
+[00:18:06] so a high GFR like your normal GFR is essential
+[00:18:09] for maintaining stable and optimal extracellular levels of solute and
+[00:18:14] water.
+[00:18:15] Um, so you need, since you're having so much fluid
+[00:18:17] go through, you want to have a high GFR so
+[00:18:19] all of that passes through in order to be reabsorbed
+[00:18:21] back into the body.
+[00:18:23] So the two things that determine um the GFR is
+[00:18:27] one, the filtration coefficient, um, which is determined by permeability,
+[00:18:32] surface area, and then the second part is the net
+[00:18:35] filtration pressure, which is the hydrostatic oncotic pressures.
+[00:18:39] Um, which you all know, Starling's all the capillary.
+[00:18:43] Um, so, to calculate what the GFR is, you would
+[00:18:46] take the filtration coefficient times net filtration pressure.
+[00:18:50] Um, and the net filtration pressure is exactly what you
+[00:18:53] learned in cardio back in MBM, um, that you're looking
+[00:18:56] at the pressures within the capillary.
+[00:18:59] Um, in this case, they just call it the glomerular
+[00:19:01] capillary.
+[00:19:02] So the hydrostatic pressures in there plus the oncotic pressures
+[00:19:05] compared to the hydrostatic pressure and oncotic pressures in the
+[00:19:08] interstitium.
+[00:19:09] In the case of the kidney, it's the Bowman's capsule.
+[00:19:12] So, same kind of thing where you'd have that, your
+[00:19:14] normal equation to find out what your net filtration pressure
+[00:19:17] is.
+[00:19:18] At least luckily in the kidney, the oncotic pressure in
+[00:19:21] the Bowman's face is 0.
+[00:19:22] There should never be protein in there, so they usually
+[00:19:24] just take out that variable from the equation.
+[00:19:28] Um, so if you were just to put in all
+[00:19:30] these numbers.
+[00:19:32] Into your equation, um, you get a net filtration pressure
+[00:19:36] of 60.
+[00:19:39] Um, so I know we did a lot of like
+[00:19:40] different calculations with this, so this is kind of standard
+[00:19:42] what you learned in the systemic capillaries.
+[00:19:46] Um, and having a filtration coefficient for the kidneys of
+[00:19:48] 12.5, you just multiply those two numbers out and you
+[00:19:51] get a GFR of 125 mL per minute.
+[00:19:57] However, measuring the filtration rate directly is extremely hard.
+[00:20:02] Usually when they find out what the filtration coefficient is,
+[00:20:04] they do like backwards math, like they figure out what
+[00:20:06] the GFR is and then.
+[00:20:08] You know, do some algebra, change out the variables, so
+[00:20:11] they're figuring out what the KF is.
+[00:20:13] So to figure out the KF you need to already
+[00:20:14] know the GFR which kind of doesn't make sense.
+[00:20:16] So it's a very difficult number to calculate, um, and
+[00:20:18] it's not really done in this way.
+[00:20:22] Um, so some of the things that can alter GFR,
+[00:20:26] um, if you look at the top, that's our normal
+[00:20:28] GFR equation.
+[00:20:30] Obviously, if you change any of these variables, you're going
+[00:20:32] to have an effect on the GFR.
+[00:20:34] So, for example, if you increase your, uh, filtration coefficient,
+[00:20:38] if you increase this number, the GFR is gonna go
+[00:20:41] up.
+[00:20:42] Um, if you increase the Bowman capsule hydrostatic pressure, This
+[00:20:46] number is going to go down.
+[00:20:48] So you can see by just changing any of these
+[00:20:50] variables how it might affect the GFR.
+[00:20:53] Um For you guys, the only two that we're really
+[00:20:57] going to focus on are these last two, because they're
+[00:21:00] the only ones that really have any kind of day
+[00:21:02] to day normal effect on the GFR.
+[00:21:05] Um, the filtration coefficient normally doesn't, shouldn't ever change.
+[00:21:09] Um, however, the number of functioning capillaries can reduce, which
+[00:21:14] would reduce the surface area, meaning the filtration coefficient would
+[00:21:17] go down.
+[00:21:18] And um, there can also be increased thickness of the
+[00:21:21] capillaries which would also lower the filtration coefficient.
+[00:21:25] Those are only really gonna be seen in like uncontrolled
+[00:21:27] hypertension or type 2 diabetes, um, which can increase the
+[00:21:30] thickness of the basement membrane, but this is normally not
+[00:21:33] something that's going to affect your GFR.
+[00:21:36] So if you decrease any of these functional capillaries or
+[00:21:38] the thickness, you're decreasing your K KF.
+[00:21:42] If you decrease the KF you can see that the
+[00:21:44] GFR would go down and then the opposite's true.
+[00:21:48] Um, for the Bowman's capsule, again, not a primary regulator
+[00:21:51] of GFR, um, if you happen to have a kidney
+[00:21:54] stone that happens to be pressing against the, um, Bowman's
+[00:21:58] capsule, that pressure could cause the Bowman capsule pressure to
+[00:22:02] increase, but normally that's not gonna increase as, you know,
+[00:22:05] in most circumstances.
+[00:22:07] So these first two usually aren't gonna happen unless very
+[00:22:10] specific disease states.
+[00:22:12] So we're gonna talk more about the glomerular capillary oncotic
+[00:22:15] pressure and the capillary hydrostatic pressure.
+[00:22:17] So what's happening in the glomerulus?
+[00:22:28] OK, so we're gonna start with the glomerular capillary oncotic
+[00:22:30] pressure.
+[00:22:31] Um, so, at the top of these next couple of
+[00:22:34] slides, I kind of have like the The main point
+[00:22:37] to start, start off.
+[00:22:38] Um, so if you increase glomerular capillary oncotic pressure, you're
+[00:22:41] going to decrease GFR.
+[00:22:43] So that's like the rule.
+[00:22:44] And now we're gonna go through and kind of explain
+[00:22:46] why this rule occurs.
+[00:22:48] Um, I'm gonna kind of go through it like bullet
+[00:22:52] point by bullet point and then try to connect them
+[00:22:54] together.
+[00:22:55] It's not necessarily a Complicated topic, but sometimes if you
+[00:23:00] don't, if you miss a part of it, you kind
+[00:23:02] of don't know how it all gets put together.
+[00:23:05] So.
+[00:23:06] The first bullet is the concentration of plasma protein increases
+[00:23:09] as blood passes from afferent to efferent arterials.
+[00:23:13] So if you remember anything from cardiovascular, you might be
+[00:23:16] like, well, we were always taught that oncotic pressure doesn't
+[00:23:18] change, you're not changing the protein in the capillaries, so
+[00:23:21] how does the concentration change?
+[00:23:23] Um, so it, it does change, especially in the glomerular
+[00:23:27] capillaries because they're all kind of like bunched up altogether.
+[00:23:30] So, if you're thinking about the very afferent part of
+[00:23:34] the capillaries.
+[00:23:36] And you usually have more filtration there.
+[00:23:39] So you're pulling out water from that very initial afferent
+[00:23:42] part of the capillaries.
+[00:23:43] You're pulling out water, so what happens to the oncotic
+[00:23:46] pressure?
+[00:23:48] Yes, you're not changing the number of proteins in there,
+[00:23:50] but because you're pulling out water, the concentration goes up.
+[00:23:54] And this happens as it goes through the capillaries towards
+[00:23:57] the efferent side.
+[00:23:58] So as it pulls out more water, the concentration of
+[00:24:02] protein seems to be getting higher just because there's less
+[00:24:04] water in there.
+[00:24:05] So if you look at this red line on the
+[00:24:07] graph, you can see the efferent um side doncotic pressures
+[00:24:12] like a normal 28.
+[00:24:13] And then as it gets closer to the efferent end,
+[00:24:16] it increases a little bit.
+[00:24:18] Um, so again, it's not the absolute number, it's just
+[00:24:21] the concentration because you're getting rid of some of the
+[00:24:23] water.
+[00:24:24] Everyone good with that part?
+[00:24:26] OK So Doesn't, kind of a side note, the glomerular
+[00:24:32] capillary oncotic pressure is influenced by the arterial oncotic pressure,
+[00:24:36] which makes sense if your arterial systemic oncotic pressure is
+[00:24:40] really high, when it gets to the kidney, it's still
+[00:24:42] gonna be pretty high.
+[00:24:43] So if you have a high arterial oncotic pressure, you're
+[00:24:46] gonna have a high glomerular oncotic pressure.
+[00:24:49] OK, so that's like one point.
+[00:24:51] Um, the other thing that, um, regulates oncotic pressure is
+[00:24:55] the filtration fraction.
+[00:24:57] Which is the fraction of things that get filtered.
+[00:25:01] Um, so if we look at, so you can see
+[00:25:03] the equation in that last line there.
+[00:25:06] Um, so if you look at all that gets put
+[00:25:09] into the kidney, so all the plasma that goes into
+[00:25:11] the kidney and look at how much is filtered out
+[00:25:14] of that, that's your filtration fraction.
+[00:25:17] So, GFR, normal GFR is 125, um, plasma flow is
+[00:25:22] 625.
+[00:25:24] So, Uh, 125/625.
+[00:25:28] I had to do math using a calculator.
+[00:25:30] I'm very embarrassed with myself.
+[00:25:31] It's 1/5.
+[00:25:32] So 20% that goes into the kidney gets pulled out.
+[00:25:35] So your filtration fraction would be 20%.
+[00:25:40] Um, if you were to increase your plasma flow but
+[00:25:43] not change your GFR, so you're increasing the, uh, denominator,
+[00:25:49] your filtration fraction is going to go up.
+[00:25:52] Right, so if you send in a lot more fluid,
+[00:25:54] but still only 1/25 of that comes out, you're taking
+[00:25:57] less.
+[00:25:58] Right?
+[00:25:58] So your filtration fraction.
+[00:26:00] Uh, we'll go down a little bit.
+[00:26:02] Um, same thing as if you increase your GFR, if
+[00:26:04] you increase your GFR, the filtration fraction will go up
+[00:26:08] because you're pulling out more than what's coming in.
+[00:26:11] Is everyone OK with those two concepts for now?
+[00:26:22] So, we're gonna try to kind of do like a
+[00:26:24] pathway.
+[00:26:25] So if we were to reduce the plasma flow, the
+[00:26:28] renal plasma flow, to reduce the amount that's going into
+[00:26:30] the glomerulus.
+[00:26:32] Initially with no change in GFR, so we're just kind
+[00:26:34] of doing this transiently.
+[00:26:35] We're increasing our plasma flow.
+[00:26:37] We don't change our GFR, it's going to increase filtration.
+[00:26:41] If we inc or increase filtration, sorry, increase the filtration
+[00:26:45] fraction.
+[00:26:46] So we said if we increase the filtration fraction, we're
+[00:26:48] going to be increasing the oncotic pressure because we're pulling
+[00:26:52] more water out of there.
+[00:26:54] So the amount of protein that seems to be left
+[00:26:56] over is gonna be higher.
+[00:26:57] So that's this blue line here.
+[00:26:59] So we're pulling out more water, um, and in the
+[00:27:03] afferent side, Not a huge change, but by the time
+[00:27:06] you get to the EA inside, you can see if
+[00:27:08] you're continuously pulling out a ton of water, the oncotic
+[00:27:11] pressure is gonna look like it's really high.
+[00:27:14] We're OK with that.
+[00:27:21] So this is just one way that the renal plasma
+[00:27:25] flow can affect the GFR independent of the pressure in
+[00:27:29] the glomerulus.
+[00:27:30] So a lot of times when people are thinking what's
+[00:27:31] going to change GFR, they immediately think of the pressure.
+[00:27:34] And oftentimes you can think, OK, well, if you're increasing
+[00:27:36] flow, you're also increasing pressure.
+[00:27:38] But this is just showing that even if you increase
+[00:27:41] flow but don't change pressure, the oncotic pressure is going
+[00:27:44] to be what's driving the change in GFR.
+[00:27:49] OK.
+[00:27:49] So these are your little like summary points.
+[00:27:51] If you increase plasma flow, You're going to decrease oncotic
+[00:27:56] pressure, which is going to increase GFR.
+[00:28:00] If you decrease the plasma flow, you're going to increase
+[00:28:02] oncotic pressure and decrease GFR.
+[00:28:05] So if you wanna kind of skip how all this
+[00:28:07] happens, it's not the best way to do it because
+[00:28:09] there's a lot, you wanna remember oncotic pressure drives this,
+[00:28:12] but increasing blood flow increases GFR.
+[00:28:16] Decreasing blood flow decreases GFR.
+[00:28:19] I just want you to notice that it's nothing to
+[00:28:21] do with pressure and it's all due to the oncotic
+[00:28:23] pressure.
+[00:28:25] sorry, not due to the hydrostatic pressure or due to
+[00:28:26] the oncotic pressure.
+[00:28:28] OK, so it's just another way that you can change
+[00:28:30] GFR just by changing the oncotic pressure.
+[00:28:36] Anyone have any questions?
+[00:28:41] Hydrostatic pressure changes.
+[00:28:43] This is a little bit.
+[00:28:45] Um, A, a bigger part of regulating the GFR, um,
+[00:28:50] and it's a little more straightforward.
+[00:28:51] So that's good that the main regulator of GFR is
+[00:28:54] gonna be a simpler concept.
+[00:28:55] Um, so changes in the glomerular hydrostatic pressure is the
+[00:29:00] primary means of regulating GFR.
+[00:29:03] So we can change from the hydrostatic pressure either through
+[00:29:06] arterial pressure, the specific aferent and Eferent arterial, arteriolar pressures.
+[00:29:11] So if we look just at the afferent side, if
+[00:29:14] we were to um vasoconstrict the afferent arterials, we're making
+[00:29:20] them smaller, so less blood flow is gonna go through.
+[00:29:23] Um, you're gonna have less pressure getting into the glomerulus
+[00:29:26] and you're gonna have less GFR, right?
+[00:29:28] So less is going in, you're just gonna have less
+[00:29:30] GFR.
+[00:29:32] On the other side, if you, or at the other
+[00:29:33] end, if you vasodilate the afferent arterials, you're making them
+[00:29:37] larger, so more, more blood flow, um, increase the pressure
+[00:29:41] in the glomerular capillaries, increased GFR.
+[00:29:44] And you can see that in this nice graph that
+[00:29:46] as you increase your arterial pressure, both renal blood flow
+[00:29:51] and GFR.
+[00:29:53] Kind of equally go down.
+[00:29:54] If you reduce your resistance, both of them go up.
+[00:29:59] OK, so it's a nice like Uh, it's it's just
+[00:30:02] a nice pattern of everything kind of working together in
+[00:30:04] the same direction.
+[00:30:09] Unfortunately, with the efferent arterials, um, a little bit different,
+[00:30:13] but the efferent arterial on the other side of the
+[00:30:16] glomerulus, if you were to vasoconstrict that and squeeze that,
+[00:30:21] we'll pretend it's like completely squeezed closed.
+[00:30:23] Um, you're gonna reduce the blood flow because you've kind
+[00:30:25] of like blocked where the blood can get out of
+[00:30:28] there.
+[00:30:28] So you're reducing the blood flow, which is going to
+[00:30:31] increase the pressure.
+[00:30:33] Um, in the glomerulus because you're keeping all that blood
+[00:30:35] in there, so it's just gonna increase the pressure and
+[00:30:37] it's gonna increase the GFR.
+[00:30:40] If you vasodilate the efferent arterials, open them up wide,
+[00:30:43] you're gonna have more blood flow going through, which is
+[00:30:46] going to decrease the pressure and decrease the GFR.
+[00:30:53] The only thing to note is that this pattern stays
+[00:30:58] consistent up until a point.
+[00:31:00] So you can see our graph all the way to
+[00:31:01] the right.
+[00:31:02] It doesn't look as nice as the one on the
+[00:31:04] previous slide.
+[00:31:05] Um, and so that's because at very high efferent arterial
+[00:31:08] resistance, like, um, in this example, like anything above 2,
+[00:31:13] you're, if you completely, you know, squeeze the efferent arterials,
+[00:31:17] really, really constrict them, renal blood flow is gonna continue
+[00:31:21] to decrease, right?
+[00:31:22] It's blocked off, blood is still not gonna be able
+[00:31:24] to pass through.
+[00:31:25] So that variable maintains.
+[00:31:27] So you can see it's a pretty, um, regardless of
+[00:31:29] where your arterial pressure is, it's pretty much going down
+[00:31:32] as you increase pressure.
+[00:31:34] However, Come on.
+[00:31:39] I don't know why she's doing this.
+[00:31:40] Um, however, if you block it off and the blood
+[00:31:44] is in the glomerular capillaries for so long, more and
+[00:31:48] more of it will eventually get filtered out.
+[00:31:49] And so as you continuously filter more and more out,
+[00:31:52] that's your filtration fraction.
+[00:31:54] So if you increase your filtration fraction, going back to
+[00:31:57] the oncotic.
+[00:31:58] Variable.
+[00:31:59] Increase your filtration fraction, you increase the oncotic pressure, so
+[00:32:02] you're pulling out more water, and that's going to decrease
+[00:32:05] the GFR, which is why when you get to about
+[00:32:07] 2, it all of a sudden will start to decrease
+[00:32:10] because you're decreasing the GFR.
+[00:32:11] The more fluid you pull out, the larger the filtration
+[00:32:14] fraction.
+[00:32:19] Any questions?
+[00:32:22] So, good question, and I will have all these, I'll
+[00:32:25] put these all in a document um and send them
+[00:32:27] to you after the next lecture, so you have these
+[00:32:30] questions.
+[00:32:32] OK, so you have a patient with cirrhosis develops hyalinorrhea,
+[00:32:38] cannot speak today.
+[00:32:39] Um, we're gonna kind of ignore what you already know
+[00:32:41] about GI stuff, so just focus on the low albumin
+[00:32:45] in the blood.
+[00:32:46] Um, so you have a patient that has hypoalbuminemia.
+[00:32:50] Assuming no other changes, what's the primary effect on glomerular
+[00:32:55] filtration?
+[00:32:58] So either decreased GFR, increased GFR, decreased glomerular pressure, so
+[00:33:03] hydrostatic pressure, increased Bowman's pressure, hydrostatic pressure, or decreased KF.
+[00:33:10] Give you maybe like a minute to think about.
+[00:33:34] Who says it's gonna be A?
+[00:33:37] B See, See Oops.
+[00:33:46] Oh, I hate not having this.
+[00:33:47] Yep, so it's increased GFR.
+[00:33:49] Does anyone want to explain how they got to increased
+[00:33:50] GFR?
+[00:33:56] Mm Mhm.
+[00:34:03] Um, so since there's less protein in the capillaries, there's
+[00:34:08] going to be less of a pull back into the
+[00:34:10] capillaries, which means that you're going to continue to have
+[00:34:12] more filtered out.
+[00:34:18] So, this next part is on renal regulation.
+[00:34:22] So the kidney kind of does its own thing.
+[00:34:24] Regardless of what's happening in the body, the kidney knows
+[00:34:26] it has its job and it needs to make sure
+[00:34:28] it does that job regardless of what's happening in the
+[00:34:30] rest of the body.
+[00:34:31] So it has a lot of things to intrinsically adjust
+[00:34:33] itself as well, as well as there's some external things
+[00:34:36] that will adjust itself.
+[00:34:37] Um, so one of the, so one of the extrinsic
+[00:34:40] mechanisms is your sympathetic nervous system.
+[00:34:43] Um, mild to moderate sympathetic stimulation has very little influence
+[00:34:47] over GFR or renal blood flow.
+[00:34:50] However, if you have very strong activation of the sympathetic
+[00:34:53] nervous system, uh, for example, very low blood pressure or
+[00:34:57] I mean arterial pressure of like less than 65, so
+[00:34:59] like very, very low blood pressure.
+[00:35:02] Um, it can constrict arterials and decrease blood flow and
+[00:35:05] GFR, but at normal levels of sympathetic activation, you're not
+[00:35:09] going to get a huge change in GFR or blood
+[00:35:12] flow.
+[00:35:13] Um, the next thing we're gonna talk about on the
+[00:35:15] next slide is some hormonal regulation, and then we're gonna
+[00:35:18] go into the intrinsic, uh, intrinsic mechanisms.
+[00:35:24] So, kind of divided this up into things that are
+[00:35:26] going to increase arterial resistance and then decrease arterial resistance.
+[00:35:32] Um, so things that can increase the resistance, um, adrenaline,
+[00:35:35] which is secreted in response to sympathetic stimulation.
+[00:35:38] Um, it's gonna bind to the alpha-one adrenergic receptors on
+[00:35:41] the afer and Eferent arterials, which is going to, um,
+[00:35:45] cause the smooth muscle cells to contract, increasing resistance, decreasing
+[00:35:50] the renal blood flow.
+[00:35:52] Uh, angiotensin 2 secreted in response to really low blood
+[00:35:54] pressure.
+[00:35:55] Um, we are gonna be getting back to the BRAS
+[00:35:57] pathway.
+[00:35:58] Um, angiotensin 2 acts on both afferent and efferent arterials,
+[00:36:03] though the efferent arterial is a lot more sensitive.
+[00:36:05] So, if you have very low levels of angiotensin 2,
+[00:36:08] only the efferent is going to be stimulated by that.
+[00:36:11] So, if you are, if you stimulate the efferent arterials,
+[00:36:14] you're going to constrict those, which means that you're going
+[00:36:17] to maintain your GFR.
+[00:36:21] Um, in this case, if you have really low blood
+[00:36:22] pressure, you're gonna maintain your GFR so that, um, you
+[00:36:26] don't further exacerbate the low blood pressure.
+[00:36:29] At very high levels, both aferent and efferent arterials are
+[00:36:32] going to constrict equally.
+[00:36:34] And so this will decrease your GFR.
+[00:36:38] On the other side, um, you have atrial natriuretic peptide
+[00:36:41] and brain natriuretic peptide, going back a little bit to
+[00:36:43] cardio, um, secreted in response to increased cardiac work, AMP
+[00:36:47] from the atria, uh, BMP from the ventricles.
+[00:36:51] These are both gonna bind to their, um, respective receptors
+[00:36:54] on the afer and afeerron arterials, which is gonna cause
+[00:36:57] the smooth muscle cells to relax.
+[00:36:59] So once they relax, you're gonna be increasing blood flow,
+[00:37:02] um, so you're gonna increase your GFR.
+[00:37:05] Um, prostaglandins are also produced in response to sympathetic stimulation,
+[00:37:09] and they're gonna bind to their own receptors on the
+[00:37:11] afferent and efferent arterials, um, and again, causes smooth muscle
+[00:37:14] cells to relax.
+[00:37:16] Um, one of the main reasons for this to happen,
+[00:37:19] um, and one of the reasons that this mild to
+[00:37:21] moderate sympathetic activation doesn't have a huge change is because
+[00:37:24] if you have adrenaline being released in response to sympathetic
+[00:37:28] stimulation and you're constricting the blood going to the kidneys,
+[00:37:33] One, you're gonna be filtering less, which is not gonna
+[00:37:35] be a good thing.
+[00:37:36] But also, you're gonna be reducing perfusion to the tissue
+[00:37:40] itself.
+[00:37:41] And if you're in a very high sympathetic state, you
+[00:37:43] don't wanna go into kidney failure.
+[00:37:45] Um, so the prostaglandins are going to relax them enough,
+[00:37:49] so it prevents kidney damage during sympathetic stimulation, which is
+[00:37:52] why these two kind of balance each other out.
+[00:37:54] And so mild to moderate doesn't have a huge effect
+[00:37:57] on things happening within the kidney.
+[00:38:00] Um, then there's also dopamine, which again, it's going to
+[00:38:02] cause smooth muscle cells to relax.
+[00:38:04] So this is kind of the hormonal regulation of the
+[00:38:06] renal blood flow.
+[00:38:09] Um, the one that's a little bit bigger because it's
+[00:38:13] more intrinsic, um, these are mechanisms within the kidney.
+[00:38:16] Like I said, the kidney wants to do its job
+[00:38:18] regardless of what's happening in the rest of the body,
+[00:38:20] so it regulates itself so that it can continue to
+[00:38:24] maintain its GFR.
+[00:38:26] And so, you can see on the image on the
+[00:38:28] right, even if you change um blood pressures within a
+[00:38:33] normal range, um, you know, say between, for this, it's
+[00:38:37] going by mean arterial pressure, but even between like between
+[00:38:40] 60 and 150, regardless of what's happening in the rest
+[00:38:44] of your body, whether your blood pressure's going up.
+[00:38:47] We'll say moderately high or down, your kidneys will still
+[00:38:51] maintain their normal GFR.
+[00:38:53] Obviously, if it's super low or super, super high, it's
+[00:38:56] going to be affected by that, um, but it's able
+[00:38:58] to adjust its own resistance to maintain its GFR regardless
+[00:39:02] of what's happening in the body.
+[00:39:04] So these are your myogenic mechanisms and your tubulomerular feedback
+[00:39:07] mechanism.
+[00:39:11] So myogenic mechanism happens in a lot of other vessels,
+[00:39:14] um, but this is the ability of vessels to resist
+[00:39:16] stretching during increased stretch.
+[00:39:19] So, we'll have our trigger of having high blood pressure,
+[00:39:22] systemic high blood pressure, um, which is going to be
+[00:39:25] bringing high pressure to the glomerulus.
+[00:39:29] If we didn't have this mechanism, the high pressure in
+[00:39:31] the glomerulus would increase GFR and the kidney wants to
+[00:39:36] keep everything at its normal GFR.
+[00:39:38] So you don't want to increase your GFR every time
+[00:39:40] your blood pressure goes up.
+[00:39:42] So the mechanism to regulate that is um this myogenic
+[00:39:45] mechanism.
+[00:39:46] So as you increase pressure and increase the stretch of
+[00:39:49] the vascular walls, this stretch promotes depolarization and then calcium
+[00:39:54] entry.
+[00:39:55] Once calcium, um, you guys talked about the vascular or
+[00:39:59] smooth muscle contraction back in cardio, but once you start
+[00:40:02] secreting calcium to the smooth muscle cells, it's gonna cause
+[00:40:05] them to contract.
+[00:40:06] So if you have a lot of stretch, you're gonna
+[00:40:08] be releasing a lot more calcium, which is going to
+[00:40:10] cause it to, um, contract and then vasoconstrict.
+[00:40:16] Um, so vasoconstriction is going to reduce the glomerular blood
+[00:40:19] flow, which will decrease GFR or in other words, will
+[00:40:23] maintain it so it doesn't continue to go up with
+[00:40:25] high blood pressure.
+[00:40:27] And then your low blood pressure kind of does the
+[00:40:29] opposite.
+[00:40:29] If you don't have a lot of stretch, you're not
+[00:40:31] going to be stimulating the cells to secrete calcium, you're
+[00:40:34] going to have more vasodilation just because there's less calcium
+[00:40:37] there.
+[00:40:42] And the second intrinsic mechanism is the tubular glomerular feedback
+[00:40:45] mechanism.
+[00:40:47] And this is just a point of communication between what's
+[00:40:50] happening in the glomerulus and what's happening in the distal
+[00:40:53] convoluted tubule.
+[00:40:54] So, the glomerulus does all its filtration, and then there's
+[00:40:58] a pretty long way for all these solutes to go
+[00:41:00] through before it gets excreted from the body.
+[00:41:02] And this is just one way, kind of think of
+[00:41:04] it as like a checkpoint to make sure whatever is
+[00:41:07] about to be excreted is kind of run by the
+[00:41:10] glomerulus.
+[00:41:12] So, um, at this glomerular, juxaglomerular complex, I learned it
+[00:41:18] as juxaglomerular apparatus, which I kind of like that name
+[00:41:20] better.
+[00:41:21] Um, so, the juxaglomerular apparatus, which I like better, um,
+[00:41:25] is just this area that includes like the macular densa,
+[00:41:28] right where it comes up against the afferent and efferent
+[00:41:30] arterials.
+[00:41:32] Um, so I just, I have another image in here.
+[00:41:35] So a lot of times when you see these in
+[00:41:36] textbooks, it shows like the glomerulus and then everything is
+[00:41:38] like stretched out.
+[00:41:40] Um, I just want you to remember that.
+[00:41:42] As the nephron comes back up through the ascending, the
+[00:41:45] distal convoluted tubule kind of comes up against the glomerulus
+[00:41:49] again.
+[00:41:49] And so we're talking about this area right where it's
+[00:41:52] coming up against the glomerulus again as as a its
+[00:41:54] checkpoint.
+[00:41:56] Um, so within this juxaglomerular complex, um, there's the macula
+[00:42:00] densa, which are specialized cells.
+[00:42:03] Um, some textbooks will say it's in the terminal portion
+[00:42:08] of the thick ascending limb of the nephron.
+[00:42:10] Some will say it's in the, the early distal tubule
+[00:42:13] junction.
+[00:42:14] It's basically where the ascending limb and the distal convoluted
+[00:42:18] tubule come together.
+[00:42:20] There's a lot of discrepancy.
+[00:42:21] I don't know that it really matters so much, but
+[00:42:24] it's somewhere in that region where they're kind of coming
+[00:42:26] together.
+[00:42:27] So maculodena cells are in that general region.
+[00:42:30] Um, and then you also have juxaglomerular cells that are
+[00:42:33] in the walls of the afferent arterials.
+[00:42:36] So, the macular densa, their function is to sense changes
+[00:42:40] in sodium chloride.
+[00:42:43] We're gonna go through the mechanism in the next, next
+[00:42:44] slide.
+[00:42:48] So, again, I have this kind of divided into like
+[00:42:51] things that are going to increase sodium chloride and the
+[00:42:54] downstream effects and things that are decrease sodium chloride.
+[00:42:57] So if you increase sodium chloride at the maculo densa,
+[00:42:59] so fluid is going through the maculo densa senses there's
+[00:43:02] a lot of sodium chloride.
+[00:43:05] Um, In its mind, it's thinking there's a lot of
+[00:43:08] fluid that's going through, the GFR is maybe too high
+[00:43:11] because sodium and chloride should be reabsorbed earlier in there,
+[00:43:14] but a lot of it has already passed through.
+[00:43:16] So it's thinking, OK, well, there's a lot of sodium
+[00:43:18] chloride.
+[00:43:19] Um, I don't think the glomerulus is filtering as it
+[00:43:21] should.
+[00:43:22] So it kind of communicates back to the glomerulus and
+[00:43:24] says, OK, we need to slow down the flow so
+[00:43:27] that there's less sodium chloride coming through the tubule.
+[00:43:31] So if you have increased blood pressure and or increased
+[00:43:34] GFR really has to do with the GFR.
+[00:43:36] If you increase that, more fluid going through, a lot
+[00:43:39] of that fluid might bypass some of those transporters that
+[00:43:42] are supposed to reabsorb it and more of it gets
+[00:43:44] to the macula densa.
+[00:43:46] And so this is gonna activate your sodium potassium chloride
+[00:43:49] co-transporters.
+[00:43:51] Um, you can see them down in this image here.
+[00:43:52] You have your sodium chloride potassium transporters.
+[00:43:55] You're gonna stimulate those which are going to um cause
+[00:43:59] ATP to be released, which then gets converted to adenosine.
+[00:44:04] So this is going to act directly on the afferent
+[00:44:07] arterials and it's caused them to constrict.
+[00:44:10] And what do we know about constricting our afferent arterials?
+[00:44:14] What happens to blood flow?
+[00:44:16] It goes down, GFR.
+[00:44:18] Goes down.
+[00:44:19] OK, so this is a checkpoint.
+[00:44:21] If your GFR is too high, macular densa senses it,
+[00:44:24] decreases your GFR.
+[00:44:26] Same type of thing happens on the other side.
+[00:44:28] If you have a lot less sodium chloride going through.
+[00:44:31] Macrogenza is like, hey, this, there must not be enough
+[00:44:33] being filtered out.
+[00:44:35] Um, so it.
+[00:44:37] is going, doesn't exactly do everything opposite like it does
+[00:44:40] with some other systems.
+[00:44:41] Um, so decreased blood pressure and or decreased GFR, meaning
+[00:44:45] less sodium chloride to macular densa, it's gonna release prostaglandins.
+[00:44:49] So, these prostaglandins kind of act differently.
+[00:44:52] One is that they'll directly vasodilate the aphferent arterials, which
+[00:44:56] are going to increase the blood flow, increase your GFR.
+[00:45:00] Um, they also activate the juxtaalmerular cells to release renin.
+[00:45:05] And we will review run-in at the end of this,
+[00:45:06] but you know that if you're secreting runnin, the endpoint,
+[00:45:10] angiotensin 2, is constricting vessels.
+[00:45:14] So, it's going to have the juxcommal cells release run-in
+[00:45:17] with the whole pathway and constrict efferent arterials.
+[00:45:21] If we constrict those, um, we're going to again, increase
+[00:45:24] our GFR.
+[00:45:26] So these are two ways that the macular densa can
+[00:45:28] modify the GFR based off what is happening.
+[00:45:32] Um.
+[00:45:35] And then, quick review of the Ring angiotensin aldosterone system.
+[00:45:39] I feel like you guys have done this so many
+[00:45:41] times in every single block, um, but just, you know,
+[00:45:44] never a bad thing to review.
+[00:45:46] So, low blood pressure, low GFR, maybe reduced sodium chloride
+[00:45:50] stimulation.
+[00:45:52] These are all going to stimulate.
+[00:45:54] The juxaglomerular cells to release renin from the JG cells,
+[00:45:59] um, which eventually, as it goes through, produces angiotensin 2.
+[00:46:03] Um Angiotensin 2 has so many different functions, even more
+[00:46:07] than what's listed here, but the ones that we're kind
+[00:46:09] of um going to focus on is that it increases
+[00:46:13] systemic vascular resistance, um, increases the reabsorption of electrolytes via
+[00:46:17] aldosterone, increases water retention via ADH, um, increases cardiac output
+[00:46:23] versus uh via your sympathetic nervous system.
+[00:46:26] So all of these things kind of act together to
+[00:46:29] increase your effective circulating volume to keep all that water
+[00:46:33] in your body, so you're not just peeing out the
+[00:46:35] water that your body needs because your blood pressure is
+[00:46:37] low.
+[00:46:38] Um, so, angiotensin 2 acts in many different ways to
+[00:46:41] increase the effective circulating volume, bring your blood pressure back
+[00:46:44] up to normal, um, and continues to perfuse the JG.
+[00:46:49] Or the juxaglomerular complex.
+[00:46:53] Is everyone OK with these?
+[00:46:54] OK.
+[00:46:54] So these are all just the Pretty much 5 mechanisms
+[00:46:57] that will regulate the kidney and increase or decrease the
+[00:47:00] GFR based off what's going in the body or what
+[00:47:03] the kidney itself senses.
+[00:47:05] So, Oh, I thought this one was gonna be longer.
+[00:47:08] I, sorry, I speak really fast.
+[00:47:10] Um.
+[00:47:11] So a quick quiz, so the renal arterial pressure rises
+[00:47:14] abruptly but remains within the auto-regulatory range.
+[00:47:19] Which local response most directly limits the initial rise in
+[00:47:24] glomerular capillary pressure.
+[00:47:26] So you're having an increase in your systemic blood pressure,
+[00:47:29] but your kidneys are still acting in their normal range.
+[00:47:32] So what is the Um, Which is most likely to
+[00:47:36] directly limit that increase in glomerular pressure.
+[00:48:15] OK, who says A?
+[00:48:18] He says B See.
+[00:48:22] D So The constriction of aferent arterial.
+[00:48:29] Does anybody want to There wasn't a lot of hands
+[00:48:32] being raised for this question, but does anyone want to
+[00:48:35] talk about why this is the correct answer?
+[00:48:40] I know only 2 people raised their hand, but go
+[00:48:42] ahead.
+[00:48:43] You know Mm.
+[00:48:56] Because if you didn't have these auto-regulatory mechanisms and you
+[00:49:00] increase blood pressure, you're gonna be increasing your GFR or
+[00:49:04] so you're gonna increase the, um, The hydrostatic pressure in
+[00:49:08] the glomerulus, which is going to increase GFR.
+[00:49:12] So you don't want that to happen necessarily.
+[00:49:15] So you're looking, so you could do that where you're
+[00:49:16] just eliminating like what are these will Um, oppose that
+[00:49:21] mechanism.
+[00:49:22] Um, and so, yeah, constriction of the afferent arterial is
+[00:49:25] going to be that, um, do you guys remember which
+[00:49:28] mechanism that would fall under?
+[00:49:30] Myogenic or tubulo ma.
+[00:49:34] Myogenic.
+[00:49:34] So you have an increase in blood pressure, which means
+[00:49:37] you're stretching the walls.
+[00:49:39] You increase, you're stretching the walls, the myogenic is going
+[00:49:41] to cause it to contract to squeeze it back down.
+[00:49:44] So constriction of the afferent arterials.
+[00:49:48] OK.
+[00:49:49] Sodium chloride delivery to the macula densa increases, which local
+[00:49:53] signaling response helps bring sodium chloride delivery back towards baseline?
+[00:50:31] And again, I'll send you all these questions in like
+[00:50:33] a separate document after the next lecture.
+[00:50:37] Who says A?
+[00:50:40] E.
+[00:50:41] See D Again, very few answers, but the ones that
+[00:50:47] did raise their hand, most of you guys said increased
+[00:50:49] adenosine constricts aferent arterial.
+[00:50:52] Um, so when we have increased sodium, I, I just
+[00:50:56] go back to this.
+[00:51:01] We have our increased sodium.
+[00:51:04] And activate the sodium, potassium chloride co-transporters, which increases ADP
+[00:51:10] which is converted to adenosin.
+[00:51:12] Um, the prostaglandins, um, are, in the run-in is only
+[00:51:17] going to be with a decreased blood pressure.
+[00:51:19] Um, so when you're thinking of increased sodium chloride, think
+[00:51:22] more along the lines of the adenosine.
+[00:51:25] Um, decrease is gonna be more, um, prostaglandins and the
+[00:51:28] RAS system.
+[00:51:30] I think I think that's all I have.
+[00:51:33] Um, do you guys have any questions?
+[00:51:38] So then I'll give you guys like.
+[00:51:40] We'll do a 10-minute break and then we'll move on
+[00:51:42] to the glomeruliar stuff.
+[00:51:44] So.

@@ -1,0 +1,39 @@
+{
+ "lecture_id": "renal-w01-lab-prelab-anatomy",
+ "block": "RENAL",
+ "week": 1,
+ "lecture": "LAB Pre-Lab Anatomy of the Kidney Ureter and Bladder",
+ "contributor": "thirth",
+ "questions": [
+  {
+   "id": "renal-w01-lab-prelab-anatomy-q01",
+   "source": "slide",
+   "source_ref": "Slide 27; 00:30:25",
+   "stem": "Posterior view of kidney. Which one is it?",
+   "stem_image": "img/renal-w01-lab-prelab-anatomy/slide_27.jpg",
+   "choices": [
+    "Left kidney",
+    "Right kidney"
+   ],
+   "answer": 1,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "Right kidney. I did see a couple of people saying left. It's OK. Right kidney. Right? Because this is the ureter, it's the most posterior, right?",
+     "at": "00:30:31"
+    },
+    {
+     "type": "transcript",
+     "quote": "Sorry, the ureter is always the most posterior of these structures.",
+     "at": "00:30:02"
+    },
+    {
+     "type": "notes",
+     "quote": "Renal hilum contents listed posterior to anterior: (helpful for siding an isolated kidney!)",
+     "page": 7
+    }
+   ],
+   "note": "**The ureter is always the most posterior structure at the hilum, so you can side an isolated kidney from the hilum's back-to-front order: ureter, renal artery, renal vein.** The question is printed on slide 27. The two choices come from the lecturer, who asked \"It's a left or right kidney?\" (00:30:28) and gave the answer in the same breath.\n\nLeft kidney: false. A few students said left in class. With the ureter marking the back of the hilum in this posterior view, the hilum faces the patient's left, which makes this the right kidney.\n\nRight kidney: true. This is the answer given in the session."
+  }
+ ]
+}

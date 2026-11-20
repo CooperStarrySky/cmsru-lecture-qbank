@@ -1,0 +1,31 @@
+{
+ "lecture_id": "gi-w01-lec00",
+ "block": "GI",
+ "week": 1,
+ "lecture": "00 Course Introduction",
+ "contributor": "thirth",
+ "questions": [
+  {
+   "id": "gi-w01-lec00-q01",
+   "source": "slide",
+   "source_ref": "Slide 30",
+   "stem": "A 52-year-old man with type 1 diabetes mellitus has persistent nausea and vomiting due to gastroparesis with gastroesophageal reflux disease (GERD). Which of the following best describes the function of gastric emptying?",
+   "choices": [
+    "Solids empty more rapidly than liquids.",
+    "Meals containing fat empty faster than carbohydrate-rich food.",
+    "Hyperosmolality of duodenal contents initiates a decrease in gastric emptying.",
+    "Acidification of the antrum increases gastric emptying.",
+    "Vagal stimulation decreases receptive relaxation in the upper portion of the stomach."
+   ],
+   "answer": 2,
+   "evidence": [
+    {
+     "type": "slide",
+     "slide": 30,
+     "image": "img/gi-w01-lec00/slide_30.jpg"
+    }
+   ],
+   "note": "Hyperosmolar duodenal contents slow gastric emptying. Feedback from the proximal small bowel, both neural (the enterogastric reflex, sensed by duodenal osmoreceptors) and hormonal, holds back the stomach when what arrives is too concentrated. In diabetic gastroparesis this brake is exaggerated, and delayed emptying is a common driver of GERD.\nSolids faster than liquids: it is the other way around. Solids have to be ground down (trituration) to particles under about 2 mm before they can pass the pylorus, so liquids start emptying first.\nFat faster than carbohydrate: lipid in the small intestine is one of the strongest inhibitors of gastric emptying, and a fatty meal empties slowest of all.\nAcidifying the antrum: acid in the antrum inhibits gastrin release, which tends to decrease gastric motility, not increase it.\nVagal stimulation decreasing receptive relaxation: the vagus is what mediates receptive relaxation, letting the fundus and upper body relax to take in food as it is swallowed."
+  }
+ ]
+}
