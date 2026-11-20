@@ -328,9 +328,9 @@
   // ---------- submit flow ----------
   function openSubmit() {
     if (review()) return;
-    $("#readyBox").checked = false; $("#subGo").disabled = true; $("#ovSubmit").hidden = false;
+    $("#readyBox").checked = false; $("#subGo").disabled = true; $("#subHint").hidden = false; $("#ovSubmit").hidden = false;
   }
-  $("#readyBox").onchange = e => { $("#subGo").disabled = !e.target.checked; };
+  $("#readyBox").onchange = e => { $("#subGo").disabled = !e.target.checked; $("#subHint").hidden = e.target.checked; };
   $("#subBack").onclick = () => { $("#ovSubmit").hidden = true; };
   $("#subGo").onclick = () => {
     $("#ovSubmit").hidden = true;
@@ -351,8 +351,7 @@
     $("#prTotal").textContent = Q.length;
     $("#ovResults").hidden = false;
   }
-  $("#toUpload").onclick = () => { $("#ovResults").hidden = true; $("#ovDone").hidden = false; };
-  $("#toReview1").onclick = $("#toReview2").onclick = () => { $$(".ov").forEach(o => o.hidden = true); S.phase = "review"; S.i = 0; enter(); };
+  $("#toReview1").onclick = () => { $$(".ov").forEach(o => o.hidden = true); S.phase = "review"; S.i = 0; enter(); };
 
   // ---------- footer ----------
   $("#prevBtn").onclick = () => go(S.i - 1);

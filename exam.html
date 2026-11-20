@@ -193,7 +193,8 @@
       <h3>Submit Your Exam?</h3>
       <p>By submitting the exam, you will not be able to return to the exam.</p>
       <label class="ready"><input type="checkbox" id="readyBox"> I am ready to exit my exam.</label>
-      <button class="g-btn" id="subGo" disabled>Submit Exam</button>
+      <button class="g-btn sub-go" id="subGo" disabled>Submit Exam</button>
+      <p class="sub-hint" id="subHint">Tick the box above to submit.</p>
     </div>
   </div>
 </div>
@@ -202,9 +203,8 @@
   <div class="card1">
     <h2>Exam Incomplete</h2>
     <p>You haven't answered all the questions. Are you sure you want to close the exam?</p>
-    <button class="g-btn" id="incBack">Return To Exam</button>
+    <div class="inc-btns"><button class="n-btn" id="incBack">Return To Exam</button><button class="g-btn sub-go" id="incClose">Submit Anyway</button></div>
   </div>
-  <button class="ov-link" id="incClose">CLOSE EXAM</button>
 </div>
 
 <div class="ov ov-blue" id="ovResults" hidden>
@@ -215,23 +215,12 @@
       <div class="pr-lab">Objective Question Score*</div>
       <div class="pr-ring"><span id="prScore">0</span> / <span id="prTotal">0</span></div>
       <p class="pr-foot">*Calculated from this practice set only.</p>
-      <div class="pr-btns"><button class="g-btn" id="toUpload">Continue to Upload</button><button class="g-btn" id="toReview1">Continue to Review</button></div>
+      <div class="pr-btns"><button class="g-btn sub-go" id="toReview1">Review Answers</button><a class="n-btn" href="index.html">Back to Home</a></div>
     </div>
   </div>
-  <p class="ov-note"><b>Attention:</b> This is your calculated score. Your answers are saved to your progress in this browser.</p>
+  <p class="ov-note">Your answers are saved to your progress in this browser.</p>
 </div>
 
-<div class="ov ov-green" id="ovDone" hidden>
-  <div class="card2 wide">
-    <div class="c2-l dark"><div class="done-circle"><svg viewBox="0 0 48 48" width="40" height="40"><path d="M12 25l8 8 16-18" stroke="#313E4E" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></div></div>
-    <div class="c2-r">
-      <h3>Congratulations!</h3>
-      <p>Your exam has been successfully uploaded.</p>
-      <div class="up-bar"><i></i><b>100%</b></div>
-      <div class="done-btns"><button class="d-btn" id="toReview2">Review Exam</button><a class="g-btn" href="index.html">Close</a></div>
-    </div>
-  </div>
-</div>
 
 <!-- notices + lab values pop-up windows -->
 <div class="exw" id="noticeWin" hidden>
