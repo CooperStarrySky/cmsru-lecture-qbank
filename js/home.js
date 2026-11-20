@@ -41,6 +41,13 @@
   if (!blocks.includes(st.block)) st.block = blocks[blocks.length - 1];
   const known = new Set(lectures.map(l => l.lecture_id));
   st.lecs = new Set([...st.lecs].filter(id => known.has(id)));
+  // first visit: start with the newest released week selected and opened, so Generate Test works right away
+  if (Store.pref("lecs") === undefined && lectures.length) {
+    const inBlock = lectures.filter(l => l.block === st.block);
+    const lastWeek = Math.max(...inBlock.map(l => l.week));
+    inBlock.filter(l => l.week === lastWeek).forEach(l => st.lecs.add(l.lecture_id));
+    st.open.add(`${st.block}/${lastWeek}`);
+  }
 
   const poolOf = q => {
     const s = Store.status(q.id), out = [s];
