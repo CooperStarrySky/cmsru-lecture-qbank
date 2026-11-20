@@ -1,0 +1,328 @@
+{
+ "lecture_id": "gi-w01-lec02",
+ "block": "GI",
+ "week": 1,
+ "lecture": "02 Salivary Gastric and Pancreatic Secretions",
+ "contributor": "thirth",
+ "questions": [
+  {
+   "id": "gi-w01-lec02-q01",
+   "source": "slide",
+   "source_ref": "Slides 11, 8, 10",
+   "stem": "Which one of the following statements is INCORRECT?",
+   "choices": [
+    "Saliva is always hypotonic and contains a higher concentration of K+ than plasma.",
+    "Lingual lipase may prove to be important in patients suffering from cystic fibrosis.",
+    "Saliva is always lower in sodium and chloride than plasma. It is rich in bicarbonate most of the time.",
+    "Ductule epithelial cells modify the primary secretion fluid by secreting Na+ and Cl- and reabsorbing K+ and HCO3-."
+   ],
+   "answer": 3,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "So the last one has to be incorrect that the ductal epithelial cells modify the primary secretion, they. Secrete sodium and chloride and reabsorb. It is exactly opposite.",
+     "at": "00:05:38"
+    },
+    {
+     "type": "slide",
+     "slide": 11,
+     "image": "img/gi-w01-lec02/slide_11.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 8,
+     "image": "img/gi-w01-lec02/slide_08.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 10,
+     "image": "img/gi-w01-lec02/slide_10.jpg"
+    }
+   ],
+   "note": "**The duct statement has it backwards. In the two-stage model the duct cells reabsorb Na+ and Cl- and secrete K+ and HCO3-. They pull out more ions than they add, and the ducts are impermeable to water, so the final saliva ends up hypotonic.**\n\nHypotonic and high in K+: true. That follows directly from the duct cells' ion handling.\n\nLingual lipase in cystic fibrosis: true. CF knocks out pancreatic lipase, so the lipase from the tongue can pick up some of the slack.\n\nLow Na+ and Cl-, rich in bicarbonate: true. Again this is what duct modification produces."
+  },
+  {
+   "id": "gi-w01-lec02-q02",
+   "source": "slide",
+   "source_ref": "Slides 36, 29, 28, 18",
+   "stem": "Which one of the following statements is INCORRECT?",
+   "choices": [
+    "Acetylcholine, histamine, and gastrin positively regulate gastric acid secretion, while somatostatin negatively regulates it.",
+    "A patient who has undergone surgery to remove the pylorus and antrum will have significantly decreased secretion of gastrin.",
+    "Histamine is the primary chemical signal for stimulation of secretion from gastric parietal cells during the cephalic phase of digestive secretion.",
+    "Enterogastrones such as CCK and secretin inhibit acid secretion."
+   ],
+   "answer": 2,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "That is because acetylcholine is the first chemical signal, OK?",
+     "at": "00:25:00"
+    },
+    {
+     "type": "slide",
+     "slide": 36,
+     "image": "img/gi-w01-lec02/slide_36.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 29,
+     "image": "img/gi-w01-lec02/slide_29.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 28,
+     "image": "img/gi-w01-lec02/slide_28.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 18,
+     "image": "img/gi-w01-lec02/slide_18.jpg"
+    }
+   ],
+   "note": "**Acetylcholine, not histamine, is the primary signal to parietal cells in the cephalic phase. The sight, smell, and taste of food drive the vagus nerve, which releases acetylcholine onto the parietal cells.**\n\nACh, histamine, and gastrin stimulate while somatostatin inhibits: true. Somatostatin acts on the parietal cell directly and also blocks histamine and gastrin release.\n\nRemoving the pylorus and antrum: true. The G cells that make gastrin sit in the pyloric gland area (antrum), so taking it out drops gastrin. The professor called this a very typical GI question: a region is lost, so which cell and product go down?\n\nEnterogastrones: true. CCK and secretin from the duodenum turn acid secretion down in the intestinal phase."
+  },
+  {
+   "id": "gi-w01-lec02-q03",
+   "source": "slide",
+   "source_ref": "Slides 45, 41, 20, 38, 40",
+   "stem": "Which one of the following statements is INCORRECT?",
+   "choices": [
+    "Concentrations of Cl- and H+ decrease as a function of rate of gastric secretion after a meal.",
+    "Secretion of bicarbonate ions into the blood causes a temporary increase in pH, namely the alkaline tide.",
+    "Inhibitors of the H+/K+-ATPase proton pump are useful for patients with GERD or ulcers.",
+    "The non-oxyntic component of the gastric secretion contains mainly mucus, Na+, and HCO3-, and its rate of production is relatively constant."
+   ],
+   "answer": 0,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "Um, concentrations of CL and hydrogen, they decrease as a function of rate of gastric secretion after a meal. Do we agree? No, right? Because we saw that graph as we produce the gastric secretion, you actually have more and more acid, which is H&Cl.",
+     "at": "00:29:15"
+    },
+    {
+     "type": "slide",
+     "slide": 45,
+     "image": "img/gi-w01-lec02/slide_45.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 41,
+     "image": "img/gi-w01-lec02/slide_41.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 20,
+     "image": "img/gi-w01-lec02/slide_20.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 38,
+     "image": "img/gi-w01-lec02/slide_38.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 40,
+     "image": "img/gi-w01-lec02/slide_40.jpg"
+    }
+   ],
+   "note": "**H+ and Cl- go up, not down, as the gastric secretion rate rises after a meal. Feeding turns on the oxyntic (parietal cell) component, which is HCl, so the faster the stomach secretes, the more acidic the juice gets.**\n\nAlkaline tide: true. For every H+ the parietal cell pumps into the lumen, it sends an HCO3- into the blood, so blood pH rises briefly after a meal.\n\nProton pump inhibitors: true. They block the H+/K+-ATPase, the final common step of acid secretion, which is why they work better than H2 blockers in GERD and ulcers.\n\nNon-oxyntic component: true. It is the mucus and bicarbonate fluid from mucous cells, produced at a fairly steady rate and diluted by the oxyntic component once feeding starts."
+  },
+  {
+   "id": "gi-w01-lec02-q04",
+   "source": "slide",
+   "source_ref": "Slides 46, 28, 35",
+   "stem": "A 29-year-old man reports to the clinic with complaints of persistent abdominal pain, diarrhea, acid reflux and heartburn, nausea, and vomiting. He also reports reduced appetite for several days and has lost weight. He is suspected to have Zollinger-Ellison syndrome. Which one of the following would be the most effective in controlling the effects of his gastrin production?",
+   "choices": [
+    "Secretin antagonist",
+    "CCK antagonist",
+    "Somatostatin agonist",
+    "Histamine agonist"
+   ],
+   "answer": 2,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "How about stomatostatin? Stomatostatin also reduces gastrin production. I do want to use the agonist,",
+     "at": "00:31:49"
+    },
+    {
+     "type": "transcript",
+     "quote": "Because they are producing too much gastrin, too much acid, secretin, CCKs, tomatostatin, they inhibit acid production, histamine stimulates it.",
+     "at": "00:32:07"
+    },
+    {
+     "type": "slide",
+     "slide": 46,
+     "image": "img/gi-w01-lec02/slide_46.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 28,
+     "image": "img/gi-w01-lec02/slide_28.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 35,
+     "image": "img/gi-w01-lec02/slide_35.jpg"
+    }
+   ],
+   "note": "**A somatostatin agonist. The goal is to bring acid down, and somatostatin inhibits acid secretion both directly at the parietal cell and by blocking gastrin and histamine release.** The professor's warning here: read whether each option is an agonist or an antagonist.\n\nSecretin antagonist: secretin is an enterogastrone that inhibits acid, so blocking it would push acid the wrong way.\n\nCCK antagonist: CCK also inhibits acid secretion, so blocking it is unhelpful for the same reason.\n\nHistamine agonist: histamine stimulates parietal cells, so an agonist would make his acid problem worse."
+  },
+  {
+   "id": "gi-w01-lec02-q05",
+   "source": "slide",
+   "source_ref": "Slides 66, 58, 51, 65",
+   "stem": "Which one of the following statements is INCORRECT?",
+   "choices": [
+    "Secretin stimulates secretion of sodium bicarbonate, which is important for neutralizing the pH of the duodenal contents.",
+    "The hydrogen-potassium ATPase pump is responsible for the export of hydrogen ions to blood during pancreatic secretion.",
+    "Condensation of digestive proteases at low pH helps to protect the cells from autodigestion.",
+    "Unlike the enzymes secreted by the stomach and salivary glands, the pancreatic enzymes are essential for normal digestion and absorption."
+   ],
+   "answer": 1,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "I can tell you that this is incorrect. Can you tell me why? Because this pump is present only in the parietal cells, not in the pancreatic cells, right?",
+     "at": "00:40:37"
+    },
+    {
+     "type": "slide",
+     "slide": 66,
+     "image": "img/gi-w01-lec02/slide_66.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 58,
+     "image": "img/gi-w01-lec02/slide_58.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 51,
+     "image": "img/gi-w01-lec02/slide_51.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 65,
+     "image": "img/gi-w01-lec02/slide_65.jpg"
+    }
+   ],
+   "note": "**The H+/K+-ATPase is found only in gastric parietal cells, not in the pancreas. In pancreatic duct cells, the H+ made from carbonic acid leaves across the blood side by exchange for Na+ through a secondary active transporter.**\n\nSecretin and bicarbonate: true. Secretin from duodenal S cells drives bicarbonate-rich pancreatic juice that neutralizes acid entering the duodenum.\n\nCondensation at low pH: true. It is one of the acinar cell's defenses against autodigestion, along with zymogen packaging and protease inhibitors such as trypsin inhibitor.\n\nPancreatic enzymes are essential: true. That is why loss of pancreatic function, as in cystic fibrosis, causes maldigestion."
+  },
+  {
+   "id": "gi-w01-lec02-q06",
+   "source": "slide",
+   "source_ref": "Slides 67, 50",
+   "stem": "Malabsorption of vitamin B-12 is observed in about 30% of adult patients with exocrine pancreatic insufficiency. Which of the following is the most likely cause of the observed vitamin B-12 deficiency?",
+   "choices": [
+    "Defect in fat absorption",
+    "Lack of intrinsic factor",
+    "Defective vitamin B-12 transporter",
+    "Inadequate hydrolysis of R protein"
+   ],
+   "answer": 3,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "So the answer is inadequate hydrolysis of our protein.",
+     "at": "00:43:11"
+    },
+    {
+     "type": "transcript",
+     "quote": "So indeed because of pancreatic insufficiency, they could not produce enough amount of trypsin, so their our protein could not be separated from B12, and because of that, B12 cannot bind to intrinsic factor,",
+     "at": "00:44:09"
+    },
+    {
+     "type": "slide",
+     "slide": 67,
+     "image": "img/gi-w01-lec02/slide_67.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 50,
+     "image": "img/gi-w01-lec02/slide_50.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 52,
+     "image": "img/gi-w01-lec02/slide_52.jpg"
+    }
+   ],
+   "note": "**Inadequate hydrolysis of R protein. In the stomach, B-12 is bound by R protein. In the small intestine, pancreatic trypsin has to cleave R protein off so B-12 can bind intrinsic factor and be absorbed in the ileum. With pancreatic insufficiency there is not enough trypsin, so B-12 stays stuck on R protein.**\n\nDefect in fat absorption: B-12 is water soluble and does not depend on fat absorption.\n\nLack of intrinsic factor: intrinsic factor comes from parietal cells, and nothing in the stem points to a stomach problem.\n\nDefective vitamin B-12 transporter: the absorption pathway taught in this course has no specific B-12 transporter step that pancreatic disease would affect."
+  },
+  {
+   "id": "gi-w01-lec02-q07",
+   "source": "slide",
+   "source_ref": "Slides 68, 48, 35",
+   "stem": "A 29-year-old man reports to the clinic with complaints of persistent abdominal pain, diarrhea, acid reflux and heartburn, nausea, and vomiting. He also reports reduced appetite for several days and has lost weight. He is suspected to have Zollinger-Ellison syndrome. Which of the following is most likely to occur in this patient?",
+   "choices": [
+    "Decreased gastric emptying",
+    "Defective pancreatic enzyme synthesis",
+    "Maldigestion and malabsorption of dietary fat",
+    "Enhanced digestion in the duodenum"
+   ],
+   "answer": 2,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "So the answer is mild digestion, malabsorption of dietary fat.",
+     "at": "00:45:57"
+    },
+    {
+     "type": "transcript",
+     "quote": "Pancreatic lipase will not work in acidic conditions, and you are producing so much acid that it cannot be effectively. Neutralize.",
+     "at": "00:46:22"
+    },
+    {
+     "type": "slide",
+     "slide": 68,
+     "image": "img/gi-w01-lec02/slide_68.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 48,
+     "image": "img/gi-w01-lec02/slide_48.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 35,
+     "image": "img/gi-w01-lec02/slide_35.jpg"
+    }
+   ],
+   "note": "**Maldigestion and malabsorption of fat. The gastrinoma drives so much acid into the duodenum that bicarbonate cannot neutralize it. Pancreatic lipase does not work at low pH, so fat goes undigested.** This is the professor's example of a second- or third-order question built on the same case as the earlier one.\n\nDecreased gastric emptying: nothing taught about Zollinger-Ellison syndrome links it to slower emptying.\n\nDefective pancreatic enzyme synthesis: the enzymes are made normally. They just cannot work in an acidic duodenum, and the stem gives no evidence of a synthesis defect.\n\nEnhanced digestion in the duodenum: duodenal digestion depends on pancreatic enzymes that need a neutral pH, so extra acid makes it worse, not better."
+  },
+  {
+   "id": "gi-w01-lec02-q08",
+   "source": "slide",
+   "source_ref": "Slides 69, 51",
+   "stem": "A newborn was reported to suffer from symptoms such as vomiting and appeared to have abdominal pain. The symptoms increased with age and became worse with ingestion of protein-rich diets. Pancreatitis was suspected. Congenital deficiency of which of the following predisposes people to pancreatitis?",
+   "choices": [
+    "Enterokinase",
+    "Trypsin inhibitor",
+    "Chymotrypsinogen",
+    "Prophospholipase",
+    "Trypsinogen"
+   ],
+   "answer": 1,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "Whenever you have protein-rich diet, proteases are being produced, right? And there is nobody to control those proteases because this person has trypsin inhibitor deficiency,",
+     "at": "00:47:46"
+    },
+    {
+     "type": "slide",
+     "slide": 69,
+     "image": "img/gi-w01-lec02/slide_69.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 51,
+     "image": "img/gi-w01-lec02/slide_51.jpg"
+    }
+   ],
+   "note": "**Trypsin inhibitor. It sits in the zymogen granules and blocks any trypsin that gets activated too early inside the pancreas. Without it, a protein-rich meal ramps up protease secretion with nothing to keep the active enzymes in check, so the pancreas digests itself.**\n\nEnterokinase: deficiency means trypsin is never activated, which gives protein malnutrition that looks like kwashiorkor (Lecture 01), not pancreatitis.\n\nChymotrypsinogen: lacking a zymogen means less protease activity, not runaway activity.\n\nProphospholipase: same reasoning. Missing it reduces enzyme activity and would not cause autodigestion.\n\nTrypsinogen: without trypsinogen there is no trypsin to activate the cascade, so it cannot drive pancreatitis."
+  }
+ ]
+}

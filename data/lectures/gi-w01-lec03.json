@@ -1,0 +1,461 @@
+{
+ "lecture_id": "gi-w01-lec03",
+ "block": "GI",
+ "week": 1,
+ "lecture": "03 GERD",
+ "contributor": "thirth",
+ "questions": [
+  {
+   "id": "gi-w01-lec03-q01",
+   "source": "slide",
+   "source_ref": "Slides 14, 48",
+   "stem": "In GERD, which of the following best defines heartburn?",
+   "choices": [
+    "Hypersalivation due to acid in the oropharynx",
+    "The sensation that there is a “lump” in the back of the throat even when not eating",
+    "Pain with swallowing",
+    "Pain in the epigastric region that radiates up the chest",
+    "Difficulty swallowing, particularly when food gets “stuck” in the esophagus"
+   ],
+   "answer": 3,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "OK, so, dull feeling in the epigastrium with radiation upward, uh, what is that? That's heartburn.",
+     "at": "00:16:41"
+    },
+    {
+     "type": "slide",
+     "slide": 14,
+     "image": "img/gi-w01-lec03/slide_14.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 48,
+     "image": "img/gi-w01-lec03/slide_48.jpg"
+    }
+   ],
+   "note": "**Heartburn is the burning pain that starts in the epigastrium and rises up behind the sternum. It is the classic typical symptom of GERD.**\n\nWater brash: hypersalivation. Even small amounts of refluxed acid drive the salivary glands to pour out saliva, which helps protect the esophagus.\n\nGlobus: the feeling of a lump in the back of the throat even when not eating. It is an atypical symptom of reflux, not a swallowing problem.\n\nOdynophagia: pain with swallowing.\n\nDysphagia: difficulty swallowing, where food feels stuck while the person is actively swallowing."
+  },
+  {
+   "id": "gi-w01-lec03-q02",
+   "source": "slide",
+   "source_ref": "Slides 14, 48",
+   "stem": "In GERD, which of the following best defines water brash?",
+   "choices": [
+    "Hypersalivation due to acid in the oropharynx",
+    "The sensation that there is a “lump” in the back of the throat even when not eating",
+    "Pain with swallowing",
+    "Pain in the epigastric region that radiates up the chest",
+    "Difficulty swallowing, particularly when food gets “stuck” in the esophagus"
+   ],
+   "answer": 0,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "What's water brush? That's hyper salivation. Right, so, basically, acid can come up even small amounts, and it kind of stimulates the parotid glands to to make lubrication,",
+     "at": "00:18:21"
+    },
+    {
+     "type": "slide",
+     "slide": 14,
+     "image": "img/gi-w01-lec03/slide_14.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 48,
+     "image": "img/gi-w01-lec03/slide_48.jpg"
+    }
+   ],
+   "note": "**Water brash is hypersalivation. Acid reaching the oropharynx stimulates the salivary glands to make extra saliva, which coats and protects the esophagus.**\n\nGlobus: the feeling of a lump in the back of the throat even when not eating. It is an atypical symptom of reflux, not a swallowing problem.\n\nOdynophagia: pain with swallowing.\n\nHeartburn: pain in the epigastric region that radiates up the chest.\n\nDysphagia: difficulty swallowing, where food feels stuck while the person is actively swallowing."
+  },
+  {
+   "id": "gi-w01-lec03-q03",
+   "source": "slide",
+   "source_ref": "Slides 14, 48",
+   "stem": "In GERD, which of the following best defines dysphagia?",
+   "choices": [
+    "Hypersalivation due to acid in the oropharynx",
+    "The sensation that there is a “lump” in the back of the throat even when not eating",
+    "Pain with swallowing",
+    "Pain in the epigastric region that radiates up the chest",
+    "Difficulty swallowing, particularly when food gets “stuck” in the esophagus"
+   ],
+   "answer": 4,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "Dysphagia is the difficulty swallowing, like patients feel like food is getting stuck.",
+     "at": "00:18:43"
+    },
+    {
+     "type": "slide",
+     "slide": 14,
+     "image": "img/gi-w01-lec03/slide_14.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 48,
+     "image": "img/gi-w01-lec03/slide_48.jpg"
+    }
+   ],
+   "note": "**Dysphagia is difficulty swallowing, with food feeling stuck in the esophagus during the act of swallowing.**\n\nWater brash: hypersalivation. Even small amounts of refluxed acid drive the salivary glands to pour out saliva, which helps protect the esophagus.\n\nGlobus: the feeling of a lump in the back of the throat even when not eating. It is an atypical symptom of reflux, not a swallowing problem.\n\nOdynophagia: pain with swallowing.\n\nHeartburn: pain in the epigastric region that radiates up the chest."
+  },
+  {
+   "id": "gi-w01-lec03-q04",
+   "source": "slide",
+   "source_ref": "Slides 14, 48",
+   "stem": "In GERD, which of the following best defines odynophagia?",
+   "choices": [
+    "Hypersalivation due to acid in the oropharynx",
+    "The sensation that there is a “lump” in the back of the throat even when not eating",
+    "Pain with swallowing",
+    "Pain in the epigastric region that radiates up the chest",
+    "Difficulty swallowing, particularly when food gets “stuck” in the esophagus"
+   ],
+   "answer": 2,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "Odinophagia, if you know your Latin. Pain with swallowing.",
+     "at": "00:18:50"
+    },
+    {
+     "type": "slide",
+     "slide": 14,
+     "image": "img/gi-w01-lec03/slide_14.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 48,
+     "image": "img/gi-w01-lec03/slide_48.jpg"
+    }
+   ],
+   "note": "**Odynophagia is pain with swallowing (odyno = pain).**\n\nWater brash: hypersalivation. Even small amounts of refluxed acid drive the salivary glands to pour out saliva, which helps protect the esophagus.\n\nGlobus: the feeling of a lump in the back of the throat even when not eating. It is an atypical symptom of reflux, not a swallowing problem.\n\nHeartburn: pain in the epigastric region that radiates up the chest.\n\nDysphagia: difficulty swallowing, where food feels stuck while the person is actively swallowing."
+  },
+  {
+   "id": "gi-w01-lec03-q05",
+   "source": "slide",
+   "source_ref": "Slides 14, 48",
+   "stem": "In GERD, which of the following best defines globus?",
+   "choices": [
+    "Hypersalivation due to acid in the oropharynx",
+    "The sensation that there is a “lump” in the back of the throat even when not eating",
+    "Pain with swallowing",
+    "Pain in the epigastric region that radiates up the chest",
+    "Difficulty swallowing, particularly when food gets “stuck” in the esophagus"
+   ],
+   "answer": 1,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "Dysphagia is when you are swallowing. So you're in the activity of swallowing and you feel like something gets stuck. Globus is the feeling like there's a lump in the back of your throat.",
+     "at": "00:19:05"
+    },
+    {
+     "type": "slide",
+     "slide": 14,
+     "image": "img/gi-w01-lec03/slide_14.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 48,
+     "image": "img/gi-w01-lec03/slide_48.jpg"
+    }
+   ],
+   "note": "**Globus is the sensation of a lump in the back of the throat even when the person is not eating. The professor stressed that it is not dysphagia: dysphagia happens during swallowing, while globus is felt at rest and is an atypical symptom of reflux.**\n\nWater brash: hypersalivation. Even small amounts of refluxed acid drive the salivary glands to pour out saliva, which helps protect the esophagus.\n\nOdynophagia: pain with swallowing.\n\nHeartburn: pain in the epigastric region that radiates up the chest.\n\nDysphagia: difficulty swallowing, where food feels stuck while the person is actively swallowing."
+  },
+  {
+   "id": "gi-w01-lec03-q06",
+   "source": "slide",
+   "source_ref": "Slides 31, 28",
+   "stem": "Acetylcholine and nitric oxide are the two main peripheral neurotransmitters that mediate contraction and relaxation of the lower esophageal sphincter (LES). Which one is the main excitatory neurotransmitter for the LES?",
+   "choices": [
+    "Nitric oxide",
+    "Dopamine",
+    "Acetylcholine",
+    "Serotonin",
+    "Norepinephrine"
+   ],
+   "answer": 2,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "Which one is the main excitatory? Shout it out. Cylcholine.",
+     "at": "00:28:03"
+    },
+    {
+     "type": "slide",
+     "slide": 31,
+     "image": "img/gi-w01-lec03/slide_31.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 28,
+     "image": "img/gi-w01-lec03/slide_28.jpg"
+    }
+   ],
+   "note": "**Acetylcholine. Cholinergic (vagal) input drives LES contraction and supports its tone. Turning off that tonic cholinergic drive with a swallow is part of how the sphincter relaxes.**\n\nNitric oxide: this is the main inhibitory transmitter. It relaxes the LES.\n\nDopamine: not one of the two main LES transmitters taught here.\n\nSerotonin: not one of the two main LES transmitters taught here.\n\nNorepinephrine: not one of the two main LES transmitters taught here."
+  },
+  {
+   "id": "gi-w01-lec03-q07",
+   "source": "slide",
+   "source_ref": "Slides 31, 28",
+   "stem": "Acetylcholine and nitric oxide are the two main peripheral neurotransmitters that mediate contraction and relaxation of the lower esophageal sphincter (LES). Which one is the main inhibitory neurotransmitter for the LES?",
+   "choices": [
+    "Nitric oxide",
+    "Dopamine",
+    "Acetylcholine",
+    "Serotonin",
+    "Norepinephrine"
+   ],
+   "answer": 0,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "And which one is the main inhibitory? Nitric oxide, right.",
+     "at": "00:28:11"
+    },
+    {
+     "type": "slide",
+     "slide": 31,
+     "image": "img/gi-w01-lec03/slide_31.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 28,
+     "image": "img/gi-w01-lec03/slide_28.jpg"
+    }
+   ],
+   "note": "**Nitric oxide. Inhibitory nerves release NO, which relaxes the circular clasp muscle of the LES. This is also why nitrates, which are NO donors, can make reflux worse.**\n\nDopamine: not one of the two main LES transmitters taught here.\n\nAcetylcholine: this is the main excitatory transmitter. It contracts the LES.\n\nSerotonin: not one of the two main LES transmitters taught here.\n\nNorepinephrine: not one of the two main LES transmitters taught here."
+  },
+  {
+   "id": "gi-w01-lec03-q08",
+   "source": "slide",
+   "source_ref": "Slides 67, 10, 28",
+   "stem": "What is true of the esophagus?",
+   "choices": [
+    "It functions as protection from refluxate and lubrication for swallowing",
+    "It has mucous secretion of bicarbonate at the esophagogastric junction",
+    "It is a conduit for food transit by the sole function of the longitudinal muscles",
+    "It has 2 sphincters, each controlled by acetylcholine and nitric oxide"
+   ],
+   "answer": 0,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "It doesn't have a lot of function, it has a muscular function, it uh has some lubrication for swallowing from mucous cells, uh, and it protects uh the esophagus from refluxate, but beyond that, it's basically a tube.",
+     "at": "00:15:41"
+    },
+    {
+     "type": "transcript",
+     "quote": "And you, you don't produce, produce, the esophagus does not produce bicarbonate. mucous, yes, but bicarbonate, no.",
+     "at": "00:46:58"
+    },
+    {
+     "type": "slide",
+     "slide": 67,
+     "image": "img/gi-w01-lec03/slide_67.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 10,
+     "image": "img/gi-w01-lec03/slide_10.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 28,
+     "image": "img/gi-w01-lec03/slide_28.jpg"
+    }
+   ],
+   "note": "**Its secretions are entirely mucous, and their jobs are lubrication for swallowing and protection from refluxate.** The professor called the esophagus a simple organ.\n\nBicarbonate at the GE junction: per the lecture, the esophagus makes mucus but not bicarbonate.\n\nSole function of the longitudinal muscles: be suspicious of absolute words like \"sole.\" Food transit needs the circular muscle too.\n\nTwo sphincters each run by ACh and NO: the professor rejected this. The two-transmitter ACh/NO control described in lecture applies to the LES, not to both sphincters."
+  },
+  {
+   "id": "gi-w01-lec03-q09",
+   "source": "slide",
+   "source_ref": "Slides 68, 22, 18",
+   "stem": "What is the most common grade of esophagitis?",
+   "choices": [
+    "Grade D",
+    "Grade C",
+    "Grade B",
+    "Grade A"
+   ],
+   "answer": 2,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "What's the most common grade of esophagitis is an easy one. We already did that. B.",
+     "at": "00:47:07"
+    },
+    {
+     "type": "slide",
+     "slide": 68,
+     "image": "img/gi-w01-lec03/slide_68.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 22,
+     "image": "img/gi-w01-lec03/slide_22.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 18,
+     "image": "img/gi-w01-lec03/slide_18.jpg"
+    }
+   ],
+   "note": "**Los Angeles grade B is the most prevalent grade of esophagitis, according to the El-Serag and Johanson data the professor showed (about 39% of cases). Grade B means at least one mucosal break longer than 5 mm that does not run continuously between the tops of two mucosal folds.**\n\nGrade D: the most severe grade (breaks around at least 75% of the circumference) and the least common (about 7%).\n\nGrade C: breaks continuous between the tops of two or more folds but under 75% of the circumference. About 20%, less common than B.\n\nGrade A: breaks no longer than 5 mm. A close second at about 34%, but still behind B in the data shown."
+  },
+  {
+   "id": "gi-w01-lec03-q10",
+   "source": "slide",
+   "source_ref": "Slides 69, 39",
+   "stem": "What type of acid reflux has the highest rate of mucosal injury?",
+   "choices": [
+    "Upright",
+    "Upright and supine",
+    "Supine",
+    "Fasting",
+    "Postprandial"
+   ],
+   "answer": 1,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "And then when you have bipositional reflux, those are the people that get the most significant amount of, of injury when you're looking endoscopically.",
+     "at": "00:31:38"
+    },
+    {
+     "type": "slide",
+     "slide": 69,
+     "image": "img/gi-w01-lec03/slide_69.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 39,
+     "image": "img/gi-w01-lec03/slide_39.jpg"
+    }
+   ],
+   "note": "**Upright and supine (bipositional) reflux. These patients get acid exposure both during the day and lying down at night, and they show the most mucosal injury on endoscopy.**\n\nUpright: daytime reflux while eating and moving around causes more injury than postprandial reflux alone, but less than supine or bipositional reflux.\n\nSupine: lying down, people swallow less and do not clear acid, so it causes more injury than upright reflux. It is still less than bipositional reflux.\n\nFasting: not one of the reflux patterns linked to the most injury in the lecture.\n\nPostprandial: reflux right after eating is largely physiologic and causes the least esophagitis."
+  },
+  {
+   "id": "gi-w01-lec03-q11",
+   "source": "slide",
+   "source_ref": "Slides 70, 40, 29, 46",
+   "stem": "What is not a risk factor for gastroesophageal reflux disease (GERD)?",
+   "choices": [
+    "Obesity",
+    "Gastroparesis",
+    "H. pylori",
+    "Exercise"
+   ],
+   "answer": 2,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "So does H. pylori have a protective effect against reflux? So what do we think about this? The answer is it does seem to have a protective effect.",
+     "at": "00:35:28"
+    },
+    {
+     "type": "transcript",
+     "quote": "Exercise, whenever you're exercising, you're increasing your intraabdominal pressure.",
+     "at": "00:26:34"
+    },
+    {
+     "type": "slide",
+     "slide": 70,
+     "image": "img/gi-w01-lec03/slide_70.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 40,
+     "image": "img/gi-w01-lec03/slide_40.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 29,
+     "image": "img/gi-w01-lec03/slide_29.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 46,
+     "image": "img/gi-w01-lec03/slide_46.jpg"
+    }
+   ],
+   "note": "**H. pylori. Its role in GERD is questionable, and most of the evidence points to a protective effect. Corpus gastritis from H. pylori damages parietal cells and lowers acid output, so infected patients have less esophagitis and less Barrett's esophagus.**\n\nObesity: raises intra-abdominal pressure and favors hiatal hernia. Esophagitis severity tracks with weight once BMI is over 30.\n\nGastroparesis: delayed gastric emptying is one of the causes of increased esophageal exposure to refluxate.\n\nExercise: running can provoke GERD by increasing transient LES relaxations."
+  },
+  {
+   "id": "gi-w01-lec03-q12",
+   "source": "slide",
+   "source_ref": "Slides 71, 42",
+   "stem": "Which medication has the lowest risk of worsening the symptoms of GERD?",
+   "choices": [
+    "Calcium channel blockers",
+    "Nitrates",
+    "Sucralfate",
+    "Progesterone",
+    "Bisphosphonates"
+   ],
+   "answer": 2,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "Um, sucralfate, that's one of the treatments for reflux.",
+     "at": "00:48:24"
+    },
+    {
+     "type": "slide",
+     "slide": 71,
+     "image": "img/gi-w01-lec03/slide_71.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 42,
+     "image": "img/gi-w01-lec03/slide_42.jpg"
+    }
+   ],
+   "note": "**Sucralfate. It is actually one of the treatments for reflux (not the first-line one), so it does not make GERD worse.**\n\nCalcium channel blockers: relax smooth muscle and weaken the LES.\n\nNitrates: nitric oxide donors, so they relax the LES the same way the body's own inhibitory transmitter does.\n\nProgesterone: lowers LES pressure, which is part of why reflux is common in pregnancy.\n\nBisphosphonates: the pill can lodge in the esophagus and cause pill esophagitis, which damages the mucosa directly."
+  },
+  {
+   "id": "gi-w01-lec03-q13",
+   "source": "slide",
+   "source_ref": "Slides 72, 60, 64",
+   "stem": "Barrett's esophagus increases the risk of which type of cancer?",
+   "choices": [
+    "Squamous cell carcinoma of the gastroesophageal junction",
+    "Mucinoparietal cell carcinoma of the gastroesophageal junction",
+    "Adenocarcinoma of the gastroesophageal junction",
+    "MALT lymphoma of the gastroesophageal junction"
+   ],
+   "answer": 2,
+   "evidence": [
+    {
+     "type": "notes",
+     "quote": "The greatest concern in Barrett esophagus is that it confers an increased risk of esophageal adenocarcinoma",
+     "page": 2
+    },
+    {
+     "type": "transcript",
+     "quote": "There's no such thing as a mucoparietal cell carcinoma in the GE junction. Squamous cell carcinoma is important, but that's not this.",
+     "at": "00:49:06"
+    },
+    {
+     "type": "slide",
+     "slide": 72,
+     "image": "img/gi-w01-lec03/slide_72.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 60,
+     "image": "img/gi-w01-lec03/slide_60.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 64,
+     "image": "img/gi-w01-lec03/slide_64.jpg"
+    }
+   ],
+   "note": "**Adenocarcinoma. Barrett's esophagus is intestinal metaplasia, where the squamous lining is replaced by columnar epithelium with goblet cells. That glandular epithelium is premalignant and can progress through dysplasia to adenocarcinoma.**\n\nSquamous cell carcinoma: an important esophageal cancer, but it arises from squamous epithelium and is not the Barrett's cancer. It is covered with upper GI cancers in Week 4.\n\nMucinoparietal cell carcinoma: the professor made this up. No such tumor exists.\n\nMALT lymphoma: arises in the stomach, not from Barrett's mucosa at the GE junction."
+  }
+ ]
+}

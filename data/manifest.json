@@ -1,0 +1,79 @@
+{
+ "lectures": [
+  {
+   "lecture_id": "gi-w01-lec01",
+   "block": "GI",
+   "week": 1,
+   "lecture": "01 Digestion and Absorption",
+   "file": "data/lectures/gi-w01-lec01.json",
+   "n": 7,
+   "sources": {
+    "formative": 0,
+    "notes": 0,
+    "said": 0,
+    "slide": 7
+   },
+   "released": true
+  },
+  {
+   "lecture_id": "gi-w01-lec02",
+   "block": "GI",
+   "week": 1,
+   "lecture": "02 Salivary Gastric and Pancreatic Secretions",
+   "file": "data/lectures/gi-w01-lec02.json",
+   "n": 8,
+   "sources": {
+    "formative": 0,
+    "notes": 0,
+    "said": 0,
+    "slide": 8
+   },
+   "released": true
+  },
+  {
+   "lecture_id": "gi-w01-lec03",
+   "block": "GI",
+   "week": 1,
+   "lecture": "03 GERD",
+   "file": "data/lectures/gi-w01-lec03.json",
+   "n": 13,
+   "sources": {
+    "formative": 0,
+    "notes": 0,
+    "said": 0,
+    "slide": 13
+   },
+   "released": true
+  },
+  {
+   "lecture_id": "gi-w01-lec04",
+   "block": "GI",
+   "week": 1,
+   "lecture": "04 Peptic Ulcer Disease",
+   "file": "data/lectures/gi-w01-lec04.json",
+   "n": 15,
+   "sources": {
+    "formative": 0,
+    "notes": 0,
+    "said": 0,
+    "slide": 15
+   },
+   "released": true
+  },
+  {
+   "lecture_id": "gi-w01-lec05",
+   "block": "GI",
+   "week": 1,
+   "lecture": "05 GI Motility",
+   "file": "data/lectures/gi-w01-lec05.json",
+   "n": 6,
+   "sources": {
+    "formative": 0,
+    "notes": 0,
+    "said": 0,
+    "slide": 6
+   },
+   "released": true
+  }
+ ]
+}

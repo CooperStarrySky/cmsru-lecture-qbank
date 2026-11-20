@@ -1,0 +1,258 @@
+{
+ "lecture_id": "gi-w01-lec05",
+ "block": "GI",
+ "week": 1,
+ "lecture": "05 GI Motility",
+ "contributor": "thirth",
+ "questions": [
+  {
+   "id": "gi-w01-lec05-q01",
+   "source": "slide",
+   "source_ref": "Slides 44, 41, 43",
+   "stem": "Which of the following manometry findings matches nutcracker/jackhammer esophagus?",
+   "choices": [
+    "Impaired peristalsis, low LES pressures",
+    "High-pressured, normal peristalsis",
+    "Non-peristaltic simultaneous contraction",
+    "Impaired LES relaxation"
+   ],
+   "answer": 1,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "Let's couple of them, jackhammer. High pressure normal peristalsis,",
+     "at": "00:36:43"
+    },
+    {
+     "type": "transcript",
+     "quote": "Nutcracker or jackhammer, also known as hypercontractile, these are the, the diseases where remember I said red is, is high pressures, so the lower esophageal sphincter relaxes and there's peristalsis, but that peristalsis is super, super contractile.",
+     "at": "00:33:59"
+    },
+    {
+     "type": "slide",
+     "slide": 44,
+     "image": "img/gi-w01-lec05/slide_44.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 41,
+     "image": "img/gi-w01-lec05/slide_41.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 43,
+     "image": "img/gi-w01-lec05/slide_43.jpg"
+    }
+   ],
+   "note": "**High-pressured, normal peristalsis. Nutcracker/jackhammer (hypertensive peristalsis) has a normal propagating wave, just with very high pressures, probably from overactive excitatory nerves.**\n\nImpaired peristalsis with low LES pressures is scleroderma.\n\nNon-peristaltic simultaneous contractions with a normally relaxing LES is diffuse/distal esophageal spasm.\n\nImpaired LES relaxation is achalasia, the only one of these where the LES fails to relax."
+  },
+  {
+   "id": "gi-w01-lec05-q02",
+   "source": "slide",
+   "source_ref": "Slides 44, 34, 43",
+   "stem": "Which of the following manometry findings matches achalasia?",
+   "choices": [
+    "Impaired peristalsis, low LES pressures",
+    "High-pressured, normal peristalsis",
+    "Non-peristaltic simultaneous contraction",
+    "Impaired LES relaxation"
+   ],
+   "answer": 3,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "Aalagia is the only one of these where it doesn't relax.",
+     "at": "00:36:13"
+    },
+    {
+     "type": "transcript",
+     "quote": "So calasia is the one that where the LAS does not relax.",
+     "at": "00:36:35"
+    },
+    {
+     "type": "slide",
+     "slide": 44,
+     "image": "img/gi-w01-lec05/slide_44.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 34,
+     "image": "img/gi-w01-lec05/slide_34.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 43,
+     "image": "img/gi-w01-lec05/slide_43.jpg"
+    }
+   ],
+   "note": "**Impaired LES relaxation. Degeneration of the myenteric plexus neurons (NO/VIP) means the LES cannot relax and peristalsis is lost. The professor stressed that achalasia is the only one of these four where the LES does not relax.**\n\nImpaired peristalsis with low LES pressures is scleroderma.\n\nHigh pressures with normal peristalsis is nutcracker/jackhammer esophagus.\n\nNon-peristaltic simultaneous contractions with a normally relaxing LES is diffuse/distal esophageal spasm."
+  },
+  {
+   "id": "gi-w01-lec05-q03",
+   "source": "slide",
+   "source_ref": "Slides 44, 43",
+   "stem": "Which of the following manometry findings matches scleroderma?",
+   "choices": [
+    "Impaired peristalsis, low LES pressures",
+    "High-pressured, normal peristalsis",
+    "Non-peristaltic simultaneous contraction",
+    "Impaired LES relaxation"
+   ],
+   "answer": 0,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "So sclera, how is that different than scleroderma? Impaired peristalsis, but low pressures of the LES, right?",
+     "at": "00:36:57"
+    },
+    {
+     "type": "transcript",
+     "quote": "Scleroderma can look like calasia. But This is hypotensive, it really relaxes.",
+     "at": "00:36:19"
+    },
+    {
+     "type": "slide",
+     "slide": 44,
+     "image": "img/gi-w01-lec05/slide_44.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 43,
+     "image": "img/gi-w01-lec05/slide_43.jpg"
+    }
+   ],
+   "note": "**Impaired peristalsis with low LES pressures. Scleroderma can look like achalasia on manometry, but the LES is hypotensive and does relax.**\n\nHigh pressures with normal peristalsis is nutcracker/jackhammer esophagus.\n\nNon-peristaltic simultaneous contractions with a normally relaxing LES is diffuse/distal esophageal spasm.\n\nImpaired LES relaxation is achalasia, the only one of these where the LES fails to relax."
+  },
+  {
+   "id": "gi-w01-lec05-q04",
+   "source": "slide",
+   "source_ref": "Slides 44, 39, 43",
+   "stem": "Which of the following manometry findings matches diffuse/distal esophageal spasm (DES)?",
+   "choices": [
+    "Impaired peristalsis, low LES pressures",
+    "High-pressured, normal peristalsis",
+    "Non-peristaltic simultaneous contraction",
+    "Impaired LES relaxation"
+   ],
+   "answer": 2,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "And spasm. It's basically non-paristaltic simultaneous contractions, and the LES will relax in spasm.",
+     "at": "00:37:06"
+    },
+    {
+     "type": "slide",
+     "slide": 44,
+     "image": "img/gi-w01-lec05/slide_44.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 39,
+     "image": "img/gi-w01-lec05/slide_39.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 43,
+     "image": "img/gi-w01-lec05/slide_43.jpg"
+    }
+   ],
+   "note": "**Non-peristaltic simultaneous contractions. DES is a disorder of the inhibitory nerves in the esophageal body, so segments contract all at once instead of in sequence. The LES still relaxes.**\n\nImpaired peristalsis with low LES pressures is scleroderma.\n\nHigh pressures with normal peristalsis is nutcracker/jackhammer esophagus.\n\nImpaired LES relaxation is achalasia, the only one of these where the LES fails to relax."
+  },
+  {
+   "id": "gi-w01-lec05-q05",
+   "source": "slide",
+   "source_ref": "Slides 45, 39, 43",
+   "stem": "A 27-year-old woman reports to the clinic with intermittent dysphagia for both solids and liquids for the last several months. Her upper endoscopy demonstrates no significant abnormalities. She undergoes an esophageal manometry which demonstrates periodic, simultaneous, and non-peristaltic contractions (see figure). Which of the following is the most likely pathogenesis?",
+   "choices": [
+    "Failure of the LES to relax",
+    "Impaired neural inhibition",
+    "Esophageal eosinophilia",
+    "Longitudinal muscle disruption",
+    "A hiatal hernia",
+    "An esophageal diverticulum"
+   ],
+   "answer": 1,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "So that was impaired neural inhibition.",
+     "at": "00:39:20"
+    },
+    {
+     "type": "transcript",
+     "quote": "it's a disorder of the inhibitory nerves, that means the excitatory nerves are are are contracting a lot, and that's why you're you're seeing that spastic version.",
+     "at": "00:33:27"
+    },
+    {
+     "type": "slide",
+     "slide": 45,
+     "image": "img/gi-w01-lec05/slide_45.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 39,
+     "image": "img/gi-w01-lec05/slide_39.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 43,
+     "image": "img/gi-w01-lec05/slide_43.jpg"
+    }
+   ],
+   "note": "**Impaired neural inhibition. Periodic, simultaneous, non-peristaltic contractions with a normally relaxing LES is diffuse/distal esophageal spasm. DES is a disorder of the inhibitory nerves in the esophageal body, so segments fire together instead of in sequence.** The professor's point: the stem gives you the answer, and you do not even need the picture. If the LES failed to relax, he would have said so.\n\nFailure of the LES to relax: that is achalasia, the only motility disorder in this lecture where the LES does not relax.\n\nEsophageal eosinophilia: nothing in the stem mentions biopsies showing eosinophils, and her endoscopy was normal.\n\nLongitudinal muscle disruption: the abnormal contractions here are a nerve problem, and the circular muscle matters for peristalsis too.\n\nA hiatal hernia: manometry would pick that up, and it would not produce this pattern.\n\nAn esophageal diverticulum: nothing in the stem points to one, and the endoscopy was normal.",
+   "stem_image": "img/gi-w01-lec05/slide_45.jpg"
+  },
+  {
+   "id": "gi-w01-lec05-q06",
+   "source": "slide",
+   "source_ref": "Slides 60, 37, 55, 58",
+   "stem": "Which of the following statements is incorrect?",
+   "choices": [
+    "Metoclopramide increases gut motility by stimulating 5-HT4 receptors.",
+    "Botulinum toxin relaxes the LES by increasing synaptic cleft acetylcholine.",
+    "Narcotics decrease gastric emptying.",
+    "Erythromycin increases gut motility by binding to the motilin receptor."
+   ],
+   "answer": 1,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "Botox uh relaxes LES by increasing synaptic cleft tylcholine. Does the opposite.",
+     "at": "00:50:26"
+    },
+    {
+     "type": "transcript",
+     "quote": "basically what it does is it disrupts the snap and snare, so the synaptic vesicle never gets released, so you have less acetylcholine relative to the remaining uh nitric oxide, and therefore the lower esophageal sphincter relaxes.",
+     "at": "00:31:57"
+    },
+    {
+     "type": "slide",
+     "slide": 60,
+     "image": "img/gi-w01-lec05/slide_60.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 37,
+     "image": "img/gi-w01-lec05/slide_37.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 55,
+     "image": "img/gi-w01-lec05/slide_55.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 58,
+     "image": "img/gi-w01-lec05/slide_58.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 52,
+     "image": "img/gi-w01-lec05/slide_52.jpg"
+    }
+   ],
+   "note": "**Botulinum toxin does the opposite. It disrupts the SNARE proteins, so vesicles cannot release acetylcholine into the synaptic cleft. With less ACh relative to the remaining nitric oxide, the LES relaxes. That is why it is used in achalasia.**\n\nMetoclopramide: true. It raises gut motility by stimulating 5-HT4 receptors and blocking D2 receptors.\n\nNarcotics: true. They are the big medication cause of slowed gastric emptying and can worsen gastroparesis.\n\nErythromycin: true. It is a motilin receptor agonist that speeds gastric emptying, though it loses effect over time (tachyphylaxis)."
+  }
+ ]
+}

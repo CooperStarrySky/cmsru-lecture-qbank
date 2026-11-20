@@ -1,0 +1,238 @@
+=== PAGE 1 ===
+Digestion and absorption (Monday, October 12, 2026; 10 am)
+Note from Dr. Phadtare: Please note that this ebook is not intended to replica the information presented in
+the lecture slides, but is created to provide foundation to the main concepts presented in the slides. This
+ebook was created using two books: (i) Gastrointestinal physiology, Leonard Johnson and (ii) Lippincott’s
+illustrated reviews in Biochemistry, Denise R. Ferrier.
+Overview of location of absorption of nutrients
+The entire intestine absorbs carbohydrates, proteins and lipids, but the absorption is greatest in the
+duodenum, less in jejunum and least in ileum. However, for lipids, jejunum is the main site of absorption.
+Calcium, iron and folate are maximally absorbed in duodenum. Calcium is also absorbed in jejunum and
+ileum. Bile acids are absorbed throughout, but maximum absorption is in ileum. Most vitamins are absorbed
+in the upper part of intestine with the exception of Vitamin B-12, which is absorbed in the ileum.
+Cobalamine, which is part of Vitamin B-12 is absorbed in ileum. Some sources state that folate is absorbed
+at jejunum/ileum. Some of the published papers study absorption of different forms of folate- free versus
+form bound to carrier protein; some have studied absorption in terms of rate versus total amount etc. Based
+on what type of form and criteria you are investing, the stated sites of absorption may differ for folate. (Hint:
+for this lecture, pay particular attention to where iron and vitamin B-12 are absorbed).
+Overview of digestion
+Digestion is the chemical breakdown of food by enzymes se creted
+by glandular cells in the mouth, chief cells in the stomach, and the
+exocrine cells of the pancreas, or enzymes bound to the apical
+membranes of enterocytes. Although some digestion of
+carbohydrates, proteins, and fats takes place in the stomac h, the
+final breakdown of these substances occurs in the small intestine.
+The enzymes important in digestion are summarized in figure on
+right. Luminal or cavital digestion results from enzymes se creted
+by the salivary glands, stomach, and pancreas. Significant chemical
+degradation of food is also carried out by hydrolytic enzymes
+associated with the small intestinal brush border. Hydrolysis by
+these enzymes is termed membrane digestion.
+Digestion and absorption of carbohydrates
+Carbohydrates have a wide range of functions, including providing
+a significant fraction of the dietary calories for most organisms,
+acting as a storage form of energy in the body, and serving as cell membrane components that mediate some
+forms of intercellular communication. Carbohydrates also serve as a structural component of many
+organisms, including the cell walls of bacteria, the exoskeleto n of many insects, and the fibrous cellulose of
+plants.
+The principal sites of dietary carbohydrate digestion are the mouth and intestinal lumen. This digestion is
+rapid and is catalyzed by enzymes known as glycoside hydrolases (glycosidases) that hydrolyze glycosidic
+bonds. Because there is little monosaccharide present in diets of mixed animal and plant origin, the enzymes
+are primarily endoglycosidases that hydrolyze polysaccharides and oligosaccharides, and disaccharidases
+that hydrolyze tri- and disaccharides. The final products of carbohydrate digestion are the monosaccharides,
+glucose, galactose and fructose, which are absorbed by cells of the small intestine.
+1
+
+
+=== PAGE 2 ===
+Digestion of carbohydrates begins in the mouth. The major dietary polysaccharides are of plant (starch,
+composed of amylose and amylopectin) and animal (glycogen) origin. During chewing, salivary α-amylase
+acts briefly on dietary starch and glycogen, hydrolyzing random α(1→4) bonds. Because branched
+amylopectin and glycogen also contain α(1→6) bonds, which α-amylase cannot hydrolyze, the digest
+resulting from its action contains a mixture of short, branched and unbranched oligosaccharides known as
+dextrins.
+Carbohydrate digestion halts temporarily in the stomach, because the high acidity inactivates salivary αamylase. Further digestion of carbohydrates by pancreatic enzymes occurs in the small intestine. When the
+acidic stomach contents reach the small intestine, they are neutralized by bicarbonate secreted by the
+pancreas, and pancreatic α-amylase continues the process of starch digestion. The final digestive processes
+occur primarily at the mucosal lining of the upper jejunum, and include the action of several disaccharidases.
+For example, isomaltase cleaves isomaltose, while maltase cleaves maltose and maltotriose, each producing
+glucose. Sucrose cleaves sucrose producing glucose and fructose, while lactase (β-galactosidase) cleaves
+lactose producing galactose and glucose. Trehalose, an α(1→1)disaccharide of glucose found in mushrooms
+and other fungi, is cleaved by trehalase. These enzymes are secreted through the luminal side of the brush
+border membranes of the intestinal mucosal cells. The duodenum and upper jejunum absorb the bulk of the
+dietary sugars. We are not focusing on absorption of carbohydrates here as we will talk about glucose
+transporters in the ‘Fuel metabolism’ lecture in the Endocrine course.
+Abnormal degradation of disaccharides
+The overall process of carbohydrate digestion and absorption is so efficient in healthy individuals that
+ordinarily all digestible dietary carbohydrates are absorbed by the time the ingested material reaches the
+lower jejunum. However, because it is monosaccharides that are absorbed, any defect in a specific
+disaccharidase activity of the intestinal mucosa causes the passage of undigested carbohydrates into the large
+intestine. As a consequence of the presence of this osmotically active material, water is drawn from the
+mucosa into the large intestine, causing osmotic diarrhea. This is reinforced by the bacterial fermentation of
+the remaining carbohydrate to two- and three-carbon compounds (which are also osmotically active) plus
+large volumes of CO2 and H2 gas, causing abdominal cramps, diarrhea, and flatulence.
+Digestive enzyme deficiencies. Genetic deficiencies of the individual disaccharidases result in disaccharide
+intolerance. Alterations in disaccharide degradation can also be caused by a variety of intestinal diseases,
+malnutrition, or drugs that injure the mucosa of the small intestine. For example, brush border enzymes are
+rapidly lost in normal individuals with severe diarrhea, causing a temporary, acquired enzyme deficiency.
+Thus, patients suffering or recovering from such a disorder cannot drink or eat significant amounts of dairy
+products or sucrose without exacerbating the diarrhea. Lactose intolerance is one example of digestive
+enzyme deficiency. Sucrase-isomaltase complex deficiency is another example. This results in an intolerance
+of ingested sucrose. Treatment includes the dietary restriction of sucrose, and enzyme replacement therapy.
+Identification of a specific enzyme deficiency can be obtained by performing oral tolerance tests with the
+individual disaccharides. Measurement of hydrogen gas in the breath is a reliable test for determining the
+amount of ingested carbohydrate not absorbed by the body, but which is metabolized instead by the intestinal
+flora. What is the effect of production of hydrogen gas on stools?
+Protein digestion and absorption
+An average American diet contains approximately 70-100 gm/day. There is an additional 10-30 gm of protein
+from endogenous protein or sloughed cells that is also digested and absorbed daily. Di- and tripeptides, as
+well as amino acids, can be absorbed. Non-digested larger peptides and proteins enter the large intestine.
+Some are utilized by the microflora and the rest is excreted. Luminal digestion starts in the stomach and is
+continued in the small intestine. All proteases are secreted in an inactive form and are activated in the
+2
+
+
+=== PAGE 3 ===
+stomach or small intestinal lumen. (We can think about two clinical scenarios, namely, if there is no
+activation of proteases or if they are always active).
+Chief cells of the stomach secrete inactive pepsinogen. Stomach acid then converts it to pepsin. Low pH in
+the stomach also denatures proteins making them more susceptible to pepsin action. Pepsin degrades about
+15% of dietary protein to amino acids and small peptides. Absence of pepsin does not impair protein
+digestion and absorption. Majority of protein digestion takes place in the small intestine. Pancreatic proteases
+are secreted as proenzymes in the pancreatic juice. It is important to produce proteases in their inactive form
+in order to protect lining of our digestive system. These zymogens need to be activated in order for them to
+commence digestion of dietary proteins. The first key step is activation of trypsin by enteropeptidase (also
+called as enterokinase) which is secreted by duodenal glands. Trypsin in turn activates both endopeptidases,
+which cleave interior peptide bonds and exopeptidases, which cleave external peptide bonds. Majority of
+dietary proteins are digested and absorbed in duodenum. Trypsin and chymotrypsin split whole and partially
+digested proteins into peptides of various sizes but do not cause release of individual amino acids. However,
+carboxypolypeptidase splits some peptides into individual amino acids, thus completing digestion of some
+proteins all the way to the amino acid state.
+Amino acids are taken up at the brush border by transporter facilitated passive diffusion and also by sodium
+coupled secondary active transport. Di and tripeptides cotransport with H+ (powered by H+ gradient). H+
+gradient is maintained by Na-H exchanger. Peptides appear to be absorbed faster and more efficiently.
+Basolateral uptake of amino acids is mainly via sodium dependent or independent transport.
+Digestion, absorption and secretion of dietary lipids
+The average daily intake of lipids by U.S. adults is about 81 g, of which more than 90% is normally
+triacylglycerol (TAG: triglyceride). The remainder of the dietary lipids consists primarily of cholesterol,
+cholesteryl esters, phospholipids, and unesterified (“free”) fatty acids. The digestion of lipids begins in the
+stomach, catalyzed by an acid-stable lipase (lingual lipase) that originates from glands at the back of the
+tongue. TAG molecules, particularly those containing fatty acids of short- or medium-chain length (fewer
+than 12 carbons, such as are found in milk fat), are the primary target of this enzyme. These same TAGs are
+also degraded by a separate gastric lipase secreted by the gastric mucosa. Both enzymes are relatively acidtable, with pH optimums of pH 4 to pH 6.
+The dietary TAG, cholesteryl esters, and phospholipids are enzymically degraded (“digested”) by pancreatic
+enzymes, whose secretion is hormonally controlled. TAG molecules are too large to be taken up efficiently
+by the mucosal cells of the intestinal villi. They are, therefore, acted upon by pancreatic lipase. The primary
+products of hydrolysis are thus a mixture of 2-monoacylglycerol and free fatty acids. This enzyme is found
+in high concentrations in pancreatic secretions, and it is highly efficient catalytically. Lipids need to be
+emulsified before lipases can act on them.
+The critical process of emulsification of dietary lipids occurs in the duodenum. Emulsification increases the
+surface area of the hydrophobic lipid droplets so that the digestive enzymes, which work at the interface of
+the droplet and the surrounding aqueous solution, can act effectively. Emulsification is accomplished by two
+complementary mechanisms, namely, use of the detergent properties of the bile salts, and mechanical mixing
+due to peristalsis. Bile salts, made in the liver and stored in the gallbladder, are derivatives of cholesterol.
+Emulsifying agents interact with the dietary lipid particles and the aqueous duodenal contents, thereby
+stabilizing the particles as they become smaller, and preventing them from coalescing.
+Free fatty acids, free cholesterol, and 2-monoacylglycerol are the primary products of lipid digestion in the
+jejunum. These, plus bile salts and fat-soluble vitamins (A, D, E, and K), form mixed micelles. Mixed
+3
+
+
+=== PAGE 4 ===
+micelles are, therefore, soluble in the aqueous environment of the intestinal lumen. These particles approach
+the primary site of lipid absorption, the brush border membrane of the enterocytes (mucosal cell). The
+hydrophilic surface of the micelles facilitates the transport of the hydrophobic lipids through the unstirred
+water layer to the brush border membrane where they are absorbed. Short- and medium-chain length fatty
+acids do not require the assistance of mixed micelles for absorption by the intestinal mucosa.
+The mixture of lipids absorbed by the enterocytes migrates to the endoplasmic reticulum where biosynthesis
+of complex lipids such as TAGs takes place. The newly resynthesized TAGs and cholesteryl esters are very
+hydrophobic, and aggregate in an aqueous environment. Therefor they are packaged as chylomicrons and are
+released by exocytosis from enterocytes into the lacteals. As mentioned above, fat soluble vitamins such as
+A, D, E and K also are packaged into chylomicrons. Bile salt/mixed micelles mediated solubilization is
+important for the absorption of fat soluble vitamins A, D, E and K.
+Absorption of calcium is described in a lecture slide, more details of which are not required for this lecture.
+Absorption and metabolism of iron
+In evaluating a patient for iron deficiency, the clinician should inquire about dietary intake of iron-rich foods,
+and consider dietary factors that may influence the absorption of iron. For example, those who eat dairy
+products or take calcium supplements of Tums at each meal may be at risk for iron deficiency. The
+bioavailability of iron, or the percentage of dietary iron absorbed and ultimately physiologically available,
+varies depending on the dietary source of the iron and other foods consumed at the same time as the ironcontaining foods. Heme (dietary iron attached to hemoglobin) and nonheme iron are absorbed by different
+mechanisms. Iron bound to heme is highly absorbable and least influenced by dietary composition. About
+40% of iron from animals sources is in this form. The absorption of non-heme iron can be increased or
+decreased by various factors. Iron is best absorbed in its ferrous form, and thus reducing substances such as
+ascorbic acid in fruits and vegetables or gastric acid increase iron absorption. The factors influencing iron
+absorption are summarized in the Table given below.
+Factors affecting absorption of iron
+Factors enhancing iron absorption
+Factors decreasing iron absorption
+Increased demand for RBCs-blood loss, high
+altitude, pregnancy, physical training
+Low body stores of iron
+Heme-iron in food
+Vitamin C intake
+Gastric acidity
+
+Low need for iron-high body storage iron
+Phytates in whole grains and legumes
+Oxalic acid in leafy vegetables
+Polyphenols in tea, coffee, red wine,
+oregano
+Reduced gastric acidity
+Excessive intake of other minerals, e.g.
+calcium
+
+Iron is absorbed across the membrane in the small intestine by carrier-mediated mechanisms. Ferritin, is the
+key iron-binding protein that binds and stores mucosal iron. Amount of ferritin produced is in proportion to
+body iron stores and thus, it is a good noninvasive measure of iron status. Serum ferritin concentrations
+reflect body iron stores (1 g serum ferritin concentration is equivalent to approximately 10 mg stored iron).
+If intestinal cells are sloughed off before iron is absorbed then it passes out of the body through feces-thus
+regulating its absorption. Iron that enters the bloodstream binds to transferrin and then distributed to liver,
+muscle and bone marrow, other body tissues. Transferrin saturation reflects the extent to which iron-binding
+4
+
+
+=== PAGE 5 ===
+sites are vacant on transferrin. It is another commonly used measure of iron deficiency in laboratory
+measurements. Some iron is lost every day via GI tract, urine and skin. Any form of bleeding including
+menstruation also contributes to iron losses. (Note: you learned about few other proteins involved in iron
+absorption in the Heme-Onc course, we are not focusing on those in GI).
+Absorption of vitamin B-12
+The absorption of vitamin B-12 is a complex process. Two key proteins to remember in this process are the
+R protein (a cobalamin-binding protein present in the saliva) and the Intrinsic Factor (IF, a protein
+secreted by the parietal cells of the stomach, which promotes the absorption of vitamin B-12 in the ileum, via
+a specific receptor). Salivary glands produce R protein. Vitamin B-12 is bound to proteins in the food. In the
+stomach, the acid and pepsin release vitamin B-12 from these proteins, so that the free vitamin B-12 can bind
+to the R protein. Haptocorrin (HC), also commonly known as the R-protein, or the R-factor is a unique
+glycoprotein produced by the salivary glands of the oral cavity, in response to ingestion of food. This protein
+binds strongly to vitamin B-12 to protect this vitamin from the acidic environment of the stomach. In the
+small intestine, trypsin from pancreas releases R protein from vitamin B-12, which then can bind to the
+intrinsic factor. Intrinsic factor (IF) is a glycoprotein produced in the gastric epithelium. It tightly binds to
+cobalamin in the gastrointestinal tract. The vitamin B-12 and intrinsic factor complex is then absorbed by the
+epithelial cells of the ileum. IF is subsequently degraded in enterocyte lysosomes, and cobalamin is secreted
+into plasma in complex with transcobalamin-II. The vitamin B-12-transcobalamine II complex enters the
+portal vein and is delivered to liver. Vitamin B-12 can be stored in the liver for years. A simple animation
+presented in lecture slides should help you visualize these steps.
+Defects in the absorption of vitamin B-12: The absorption of vitamin B-12 may be affected due to various
+reasons such as:
+ The absence of or defective synthesis of R-protein, pancreatic proteases or intrinsic factor
+ Surgical removal of much of the ileum or stomach
+ Ileum diseases like Crohn’s disease
+ Bacterial overgrowth in the intestine
+ Tapeworm infestation
+ Use of certain anti-reflux medications that significantly reduce acid production by the parietal cells
+(e.g. Omiprazole)
+ Chronic malabsorption syndromes which may occur with various gastrointestinal disorders
+ Atrophic gastritis, which decreases the production of HCl and digestive enzymes, leading to
+inefficient cleaving of R-protein and vitamin B-12 in foods. 10-30% of older adults have atrophic
+gastritis and thus are advised to eat foods fortified with vitamin B-12 or take supplements, as these
+contain free vitamin B-12 which is in crystalline form that is readily absorbed.
+Note: In accordance with the ACCME Essentials and Standards, everyone involved in planning and
+presenting this CMSRU educational lecture has no relevant commercial relationships or conflicts of interest.
+There is no commercial support for this program. Instructional materials contained in this document may
+include copyrighted material. The copyright law of the U.S. (Title 17, United States Code) governs the
+making of photocopies or other reproductions of copyrighted material. Please do not reproduce, or transmit,
+any portion of this content. This is strictly for use within CMSRU class. This is posted only on the
+Blackboard which is protected by password. This is in compliance with fair use regulations.
+
+5
+

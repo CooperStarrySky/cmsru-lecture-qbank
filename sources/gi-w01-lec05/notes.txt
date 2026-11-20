@@ -1,0 +1,378 @@
+=== PAGE 1 ===
+GI motility (Friday, October 16, 2026; 10 am)
+
+Note from course directors: Please note that this ebook is not intended to include all of the information
+presented in the lecture slides, but is created to provide foundation to the main concepts presented in the
+slides. Dr. Phadtare created the ebook using (i) Gastrointestinal physiology, Leonard Johnson and (ii) Guyton
+and Hall Textbook of Medical Physiology. She also added the description of achalasia and esophageal
+motility from UpToDate. Dr. DeSipio added further description of achalasia and gastric motilitygastroparesis from UpToDate.
+The intestinal wall includes the following layers from the outer surface inward: (1) the serosa, (2) a
+longitudinal smooth muscle layer, (3) a circular smooth muscle layer, (4) the submucosa, and (5) the
+mucosa. In addition, sparse bundles of smooth muscle fibers, the mucosal muscle, lie in the deeper layers of
+the mucosa. The motor functions of the gut are performed by the different layers of smooth muscle.
+Neural Regulation of Gastrointestinal Function
+Nerves and neurotransmitters play an important role in regulating the function of the GI tract. In its simplest
+form, neural regulation occurs when a neurotransmitter is rel eased from a nerve terminal located in the GI
+tract and the neurotransmitter has an effect on the cell that is innervated. Neural regulation of GI function is
+very important within an organ, as well as between distant parts of the GI tract.
+Neural regulation of the GI tract is surprisingly complex. The gut is innervated by two sets of nerves, the
+extrinsic and intrinsic nervous systems. The extrinsic nervous system is defined as nerves that innervate the
+gut, with cell bodies located outside the gut wall; these extrinsic nerves are part of the autonomic nervous
+system (ANS). The intrinsic nervous system, also referred to as the enteric nervous system (ENS), has cell
+bodies that are contained within the wall of the gut (submucos al and myenteric plexuses). Some GI functions
+are highly dependent on the extrinsic
+nervous system, yet others can take place
+independently of the extrinsic nervous
+system and are mediated entirely by the
+ENS. However, extrinsic nerves can often
+modulate intrinsic nervous system function.
+Hierarchical neural control of GI
+function. Stimuli to the GI tract from the
+meal (e.g., chemical, mechanical, osmotic)
+will activate both the intrinsic
+and
+extrinsic
+sensory
+(afferent) pathways, which in
+turn will activate the extrinsic
+and intrinsic neural reflex
+pathways.
+Extrinsic Nervous System
+
+1
+
+The extrinsic innervation
+of the GI tract consisting
+of the parasympathetic
+(A) and sympathetic (B)
+subdivisions
+of
+the
+autonomic
+nervous
+system
+
+
+=== PAGE 2 ===
+Extrinsic neural innervation to the gut is via the two major subdivisions of the ANS, namely,
+parasympathetic and sympathetic innervation. Parasympathetic innervation to the gut is via the vagus and
+pelvic nerves. The vagus nerve, the 10th cranial nerve, innervates the esophagus, stomach, gallbladder,
+pancreas, first part of the intestine, cecum, and the proximal part of the colon. The pelvic nerves innervate
+the distal part of the colon and the anorectal region, in addition to the other pelvic organs that are not part of
+the GI tract.
+Consistent with the typical organization of the parasympathetic nervous system, the preganglionic nerve cell
+bodies lie in the brainstem (vagus) or the sacral spinal cord (pelvic). Axons from these neurons run in the
+nerves to the gut (vagus and pelvic nerves, respectively), where they synapse with postganglionic neurons in
+the wall of the organ, which in this case are enteric neurons in the gut wall. There is no direct innervation of
+these efferent nerves to effector cells within the wall of the gut; the transmission pathway is always via a
+neuron in the ENS.
+Consistent with transmission in the ANS, the synapse between preganglionic and postganglionic neurons is
+an obligatory nicotinic synapse. That is, the synapse between preganglionic and postganglionic neurons is
+mediated via acetylcholine released from the nerve terminal and acting at nicotinic receptors localized on the
+postganglionic neuron, which in this case is an intrinsic neuron.
+Sympathetic innervation is supplied by cell bodies in the spinal cord and fibers that terminate in the
+prevertebral ganglia (celiac, superior, and inferior mesenteric ganglia); these are the preganglionic neurons.
+These nerve fibers synapse with postganglionic neurons in the ganglia, and the fibers leave the ganglia and
+reach the end organ along the major blood vessels and their branches. Rarely, there is a synapse in the
+paravertebral (chain) ganglia, as seen with sympathetic innervation of other organ systems. Some
+vasoconstrictor sympathetic fibers directly innervate blood vessels of the GI tract, and other sympathetic
+fibers innervate glandular structures in the wall of the gut.
+The ANS, both parasympathetic and sympathetic, also carries the fibers of afferent (toward the central
+nervous system [CNS]) neurons; these are sensory in nature. The cell bodies for the vagal afferents are in
+the nodose ganglion. These neurons have a central projection terminating in the nucleus of the tractus
+solitarius in the brainstem and the other terminal in the gut wall. The cell bodies of the spinal afferent
+neurons that run with the sympathetic pathway are segmentally organized and are found in the dorsal root
+ganglia. Peripheral terminals of the spinal and vagal afferents are located in all layers of the gut wall, where
+they detect information about the state of the gut. Afferent neurons send this information to the CNS.
+Information sent to the CNS relays the nature of the luminal contents, such as acidity, nutrient content, and
+osmolality of the luminal contents, as well as the degree of stretch or contraction in smooth muscle. Afferent
+innervation is also responsible for transmitting painful stimuli to the CNS.
+The components of a reflex pathway—afferents, interneurons, and efferent neurons—exist within the
+extrinsic innervation to the GI tract. These reflexes can be mediated entirely via the vagus nerve (termed a
+vagovagal reflex), which has both afferent and efferent fibers. The vagal afferents send sensory information
+to the CNS, where they synapse with an interneuron, which then drives activity in the efferent motor neuron.
+These extrinsic reflexes are very important in the regulation of GI function after the ingestion of a meal. An
+example of an important vagovagal reflex is the gastric receptive relaxation reflex, in which distention of the
+stomach results in relaxation of the smooth muscle in the stomach; this allows filling of the stomach to occur
+without an increase in intraluminal pressure.
+In general, as with other visceral organ systems, the parasympathetic and sympathetic nervous systems tend
+to work in opposition. Activation of the parasympathetic nervous system is important in the integrative
+2
+
+
+=== PAGE 3 ===
+response to a meal. The parasympathetic nervous system generally results in the activation of physiological
+processes in the gut wall. In contrast, the sympathetic nervous system tends to be inhibitory to GI function
+and is more frequently activated in pathophysiological circumstances. Overall, sympathetic activation
+inhibits smooth muscle function; the exception to this is the sympathetic innervation of GI sphincters, in
+which sympathetic activation tends to induce contraction of smooth muscle. Moreover, the sympathetic
+nervous system is notably important in regulation of blood flow in the GI tract.
+Intrinsic Neural Innervation
+The enteric nervous system (ENS) is made up of two major
+plexuses, which are collections of nerve cell bodies
+(ganglia) and their fibers, all originating in the wall of the
+gut. The myenteric plexus lies between the longitudinal
+and circular muscle layers and the submucosal plexus lies
+in the submucosa. Neurons in the two plexuses are linked
+by interganglionic strands. The enteric nervous system in
+the wall of the GI tract is shown in the figure.
+Neurons in the ENS are characterized functionally as
+afferent neurons, interneurons, or efferent neurons, similar
+to neurons in the extrinsic part of the ANS. Thus, all
+components of a reflex pathway can be contained within
+the ENS. Stimuli in the wall of the gut are detected by
+afferent neurons, which activate interneurons and then
+efferent neurons to alter function. In this way the ENS can
+act autonomously from extrinsic innervation. However,
+neurons in the ENS, as we have already seen, are
+innervated by extrinsic neurons, and thus the function of
+these reflex pathways can be modulated by the extrinsic
+nervous system. Because the ENS is capable of performing
+its own integrative functions and complex reflex pathways,
+it is sometimes referred to as the “little brain in the gut” as
+a result of its importance and complexity. It is estimated that there are as many neurons in the ENS as in the
+spinal cord. In addition, many GI hormones also act as neurotransmitters in the ENS and in the brain in
+regions involved in autonomic outflow. These mediators and regulatory peptides are thus referred to as
+“brain-gut peptides,” and the extrinsic and intrinsic components innervating the gut are sometimes referred
+to as the “brain-gut axis.”
+Electrical Activity of Gastrointestinal Smooth Muscle
+The smooth muscle of the gastrointestinal tract is excited by almost continual slow, intrinsic electrical
+activity along the membranes of the muscle fibers. This activity has two basic types of electrical waves: (1)
+slow waves and (2) spikes. In addition, the voltage of the resting membrane potential of the gastrointestinal
+smooth muscle can change to different levels, which can also have important effects in controlling motor
+activity of the gastrointestinal tract.
+Membrane potentials in intestinal smooth muscle. Note the slow waves, the spike potentials, total
+depolarization, and hyperpolarization, all of which occur under different physiological conditions of the
+intestine.
+
+3
+
+
+=== PAGE 4 ===
+Neural control of the gut wall,
+showing (1) the myenteric and
+submucosal plexuses (black
+fibers); (2) extrinsic control of
+these
+plexuses
+by
+the
+sympathetic
+and
+parasympathetic
+nervous
+systems (red fibers); and (3)
+sensory fibers passing from the
+luminal epithelium and gut wall
+to the enteric plexuses, then to
+the prevertebral ganglia of the
+spinal cord and directly to the
+spinal cord and brain stem
+(green fibers).
+
+Slow Waves
+Most gastrointestinal contractions occur rhythmically, and this rhythm is determined mainly by the
+frequency of so-called “slow waves” of smooth muscle membrane potential. These waves, shown in figure
+are not action potentials. Instead, they are slow, undulating changes in the resting membrane potential. Their
+intensity usually varies between 5 and 15 millivolts, and their frequency ranges in different parts of the
+human gastrointestinal tract from 3 to 12 per minute—about 3 in the body of the stomach, as much as 12 in
+the duodenum, and about 8 or 9 in the terminal ileum. Therefore, the rhythm of contraction of the body of the
+stomach, the duodenum, and the ileum is usually about 3 per minute, about 12 per minute, and 8 to 9 per
+minute, respectively.
+The precise cause of the slow waves is not
+completely understood, although they appear to be
+caused by complex interactions among the smooth
+muscle cells and specialized cells, called the
+interstitial cells of Cajal, which are believed to act as
+electrical pacemakers for smooth muscle cells. These
+interstitial cells form a network with each other and
+are interposed between the smooth muscle layers,
+with synaptic-like contacts to smooth muscle cells.
+The interstitial cells of Cajal undergo cyclic changes
+in membrane potential due to unique ion channels
+that periodically open and produce inward
+(pacemaker) currents that may generate slow wave
+activity. The slow waves usually do not by themselves cause muscle contraction in most parts of the
+gastrointestinal tract, except perhaps in the stomach. Instead, they mainly excite the appearance of
+intermittent spike potentials, and the spike potentials in turn actually excite the muscle contraction.
+Spike Potentials
+The spike potentials are true action potentials. They occur automatically when the resting membrane
+potential of the gastrointestinal smooth muscle becomes more positive than about −40 millivolts. The higher
+4
+
+
+=== PAGE 5 ===
+the slow wave potential rises, the greater the frequency of the spike potentials, usually ranging between 1 and
+10 spikes per second.
+Motility disorders
+Esophageal Motility
+There are four specific abnormal esophageal motility patterns: uncoordinated contraction such as diffuse
+esophageal spasm (DES), hypercontraction such as hyp ertensive peristalsis (nutcracker/jackhammer
+esophagus), hypocontraction such as ineffective esophageal motility (IEM), and hypertensive lower
+esophageal sphincter (LES) such as achalasia. Esophage al motility disorders may occur as isolated
+phenomena (primary) or associated with other diseases (secondary).
+The upper esophageal sphincter (UES) is a
+bundle of muscles at the top of the
+esophagus. The muscles of the UES are
+under conscious control, used when
+breathing, eating, belching, and vomiting.
+They keep food and secretions from going
+down the windpipe.
+The lower esophageal sphincter (LES) is a
+bundle of muscles at the low end of the
+esophagus, where it meets the stomach.
+When the LES is closed, it prevents acid
+and stomach contents from traveling
+backwards from the stomach. The LES
+muscles are not under voluntary control.
+
+Clinical manifestations — Patients with esophageal motility disorders often present with dysphagia to
+solids, liquids or both. There can also be chest pain, reflux, and regurgitation.
+Dysphagia can be defined and classified as follows:
+ Oropharyngeal or transfer dysphagia is characterized by difficulty initiating a swallow. Swallowing
+may be accompanied by nasopharyngeal regurgitation, aspiration, and a sensation of residual food
+remaining in the pharynx.
+ Esophageal dysphagia is characterized by difficulty swallowing several seconds after initiating a
+swallow and a sensation of food getting stuck.
+Normal swallowing consists of an oral preparatory, pharyngeal, and esophageal phase. In the oral
+preparatory phase, the bolus is processed by mastication to an appropriate size, shape, and consistency to
+pass through the pharynx and esophagus. During the pharyngeal phase of swallowing, the bolus is advanced
+through the pharynx and into the esophagus by pharyngeal peristalsis. In the esophageal phase of
+swallowing, peristaltic contractions in the body of the esophagus combined with simultaneous relaxation of
+the lower esophageal sphincter propel the bolus into the stomach.
+Oropharyngeal dysphagia arises from structural or functional diseases of the upper esophagus and pharynx,
+or upper esophageal sphincter that affect the oral preparatory or pharyngeal phase of swallowing.
+Esophageal dysphagia results from diseases causing mechanical obstruction (i.e.–masses, tumors,
+diverticula) or issues related to the actual motility of the esophagus as discussed below.
+5
+
+
+=== PAGE 6 ===
+Diagnosis – Esophageal motility disorders are diagnosed through a variety of methods. An endoscopy is
+performed on patients with motility symptoms in order to rule out structural lesions and malignancy. Often
+times a barium swallow will be ordered to give the physician an overview of the esophageal anatomy and
+function. This test is able to detect small diverticula, masses, hiatal hernias and provide a gross estimation of
+the function of the esophagus. The gold standard test is esophageal manometry which is a test that measures
+the function of the esophagus by evaluating pressure direction and intensity of contractions.
+Inadequate lower esophageal sphincter (LES) relaxation — The most common and most understood disorder
+of this sort is Achalasia, which means “failure to relax” in Greek. It is a relatively uncommon disorder of
+about 1/100,000 with equal male – female distribution with an average age onset of 25-60 years. The
+primary symptoms of Achalasia are dysphagia to solids and liquids, inability to belch, chest pain, heartburn,
+and in late stages aspiration and weight loss. Findings on a barium esophagram showed a dilated esophagus
+and a narrowed LES often times referred to as a “bird beak”. Esophageal manometry will demonstrate an
+esophageal body with aperistalsis and an LES with failed relaxation. An EGD should be performed to rule
+out a pseudoachalasia, such as a malignancy.
+Achalasia is a disease of unknown cause in which there is a loss of peristalsis in the distal esophagus (whose
+musculature is comprised predominantly of smooth muscle) and a failure of LES relaxation. Achalasia
+results from the degeneration of neurons in the esophageal wall. Histologic examination reveals decreased
+numbers of neurons (ganglion cells) in the myenteric plexuses, and the ganglion cells that remain often are
+surrounded by lymphocytes and, less prominently by eosinophils. This inflammatory degeneration
+preferentially involves the nitric oxide-producing, inhibitory neurons that effect the relaxation of esophageal
+smooth muscle; the cholinergic neurons that contribute to lower esophageal sphincter (LES) tone by causing
+smooth muscle contraction may be relatively spared. In the smooth muscle portion of the esophageal body,
+the loss of neurons results in aperistalsis. Patients with achalasia may also have impaired gastric relaxation.
+The etiology of primary achalasia is not known. Achalasia is associated with HLA-DQw1. Affected patients
+often have circulating antibodies to enteric neurons suggesting that achalasia may be an autoimmune
+disorder. Infections with herpes zoster, measles virus, and HSV-1 have also been implicated. Secondary
+achalasia or pseudoachalasia may result from diseases that cause esophageal motor abnormalities similar or
+identical to those of primary achalasia.
+Treatment of achalasia is aimed at decreasing the resting pressure in the lower esophageal sphincter (LES) to
+a level at which the sphincter no longer impedes the passage of ingested material. This can be accomplished
+by mechanical disruption of the muscle fibers of the LES (e.g., pneumatic dilation [PD], surgical myotomy,
+or PeriOral Esophageal Myotomy - POEM) or by biochemical reduction in LES pressure (i.e. injection of
+botulinum toxin, oral nitrates, or calcium channel blockers).
+Diffuse (distal) esophageal spasm — DES is a disorder of unknown etiology that is caused by patchy neural
+degeneration of the inhibitory nerves in the esophageal body that can lead to chest pain and dysphagia. On
+esophageal manometry it is characterized by increased simultaneous contractions in the distal esophagus. On
+conventional manometry, DES is defined by 20 percent or more simultaneous contractions (with amplitude
+>30 mmHg). The treatment is to provide smooth muscle relaxant, but a small percentage progresses to
+achalasia.
+Hypertensive peristalsis (nutcracker/jackhammer esophagus) — Nutcracker/Jackhammer is a disorder which
+is caused by over activity of the excitatory nerves in the esophageal body. Patients will often present with
+chest pain and dysphagia. The etiology is unknown, but esophageal manometry is characterized by normal
+sequential contractions in the smooth muscle esophagus of excessive amplitude or duration. On conventional
+6
+
+
+=== PAGE 7 ===
+manometry, nutcracker esophagus is defined by high amplitude peristaltic contractions in the distal 10 cm of
+the esophagus, with average distal esophageal peristaltic pressures exceeding 220 mmHg. Treatment is
+smooth muscle relaxants.
+Ineffective Motility Disorder (IEM) – IEM is the most common esophageal motility disorder noted on
+esophageal manometry. The pathology is thought to be suppression of the excitatory cholinergic activity
+possibly related to medications (anticholinergics, infiltrative diseases like Amyloidosis, GERD or connective
+tissue disorders such as Scleroderma). Patients present with dysphagia and reflux and esophageal manometry
+is characterized by intermittent hypotensive peristaltic contractions in the esophageal body with normal LES
+relaxation properties. There is no treatment for IEM with the exception of treating the underlying disease.
+Gastric Motility-Gastroparesis
+Normal gastrointestinal motor function is a complex series of events that requires coordination of the
+sympathetic and parasympathetic nervous systems, neurons and pacemaker cells (called interstitial cells of
+Cajal) within the stomach and intestine, and the smooth muscle cells of the gut. Abnormalities of this process
+can lead to a delay in gastric emptying (Gastroparesis). Gastroparesis is a syndrome of objectively delayed
+gastric emptying in the absence of a mechanical obstruction and cardinal symptoms of nausea, vomiting,
+early satiety, bloating, and/or upper abdominal pain.
+The age-adjusted prevalence of definite gastroparesis was 9.6 per 100,000 persons for men and 38 per
+100,000 persons for women. Overall survival was significantly lower than for the age- and sex-matched
+general population. Although multiple conditions have been associated with gastroparesis, the majority of
+cases are idiopathic (most common form – 50%), diabetic, or postsurgical; also possible are medications,
+infection, autoimmune and infiltrative diseases (Scleroderma, Amyloidosis).
+Idiopathic - Idiopathic gastroparesis may be the most common form of gastroparesis. It is estimated that no
+detectable primary underlying abnormality is found in approximately one-half of patients with delayed
+gastric emptying.
+Diabetes mellitus -Diabetes mellitus (DM) is the most frequently recognized systemic disease associated
+with gastroparesis. Population-based studies in patients with diabetes mellitus have reported upper
+gastrointestinal symptoms in 11-18% of patients. The cumulative incidence of gastroparesis over 10 years in
+patients with type 1 and type 2 DM was 5 percent and 1 percent, respectively.
+Gastrointestinal complications of diabetes typically occur in patients who have had the disorder for more
+than five years. Patients with diabetes mellitus have abnormalities at several levels in the process of gastric
+emptying, including abnormal postprandial proximal gastric accommodation and contraction, and difficulties
+with antral motor function. These abnormalities are primarily due to autonomic dysfunction or abnormal
+intrinsic nervous system (e.g., nitrergic neurons, or interstitial cells of Cajal, the pacemaker system of the
+gut). An alternative theory implicates a role for oxidative stress in the pathogenesis of diabetic gastroparesis.
+Viral -A subset of patients with gastroparesis report sudden onset of symptoms after a viral prodrome,
+suggesting a viral etiology. Several reports have documented the occurrence of gastric stasis in association
+with prior viral infections, including Norwalk virus and rotavirus.
+Postviral gastroparesis often improves over one year. However, a small proportion of patients with infections
+due to viruses such as cytomegalovirus, Epstein-Barr virus, and varicella-zoster virus may develop severe
+dysautonomia or even selective cholinergic dysautonomia leading to persistent symptoms due to extrinsic
+autonomic denervation.
+7
+
+
+=== PAGE 8 ===
+Medications -Several medications can delay gastric emptying. These include: narcotics, clonidine, calcium
+channel blockers, tricyclic antidepressants, dopamine antagonists, octreotide and phenothiazines
+Postsurgical - Previous gastric and thoracic surgery can result in gastric stasis due to intended or accidental
+injury to the vagus nerves (e.g., with Billroth II gastrectomy, fundoplication, lung or heart transplantation).
+Fundoplication is one of the most common surgical procedures leading to reversible or permanent vagal
+injury. Other causes of vagal injury include variceal sclerotherapy and botulinum toxin injection for medical
+treatment of achalasia. Roux stasis syndrome can occur after a Roux-en-Y anastomosis. Uncoordinated
+contractions in the efferent Roux limb itself causes stasis either in the gastric remnant or in the Roux limb
+itself.
+Clinical features -Patients with gastroparesis can present with nausea (93 percent), vomiting (68 to 84
+percent), abdominal pain (46 to 90 percent), early satiety (60 to 86 percent), postprandial fullness, bloating,
+and, in severe cases, weight loss. The vomitus may contain food ingested several hours previously.
+Evaluation -All patients with suspected delayed gastric emptying and, in particular, patients with colicky
+abdominal pain should undergo a careful upper endoscopy. Also consider ruling out a mechanical
+obstruction with either a CT enterography, MR enterography or a small bowel follow. Scintigraphic gastric
+emptying (aka -gastric emptying scan) is the most cost-effective, simple, and widely available technique to
+confirm the presence of delayed gastric emptying is scintigraphy.
+Treatment – Patients are instructed to consume small volume, increased frequency meals that are low in fat
+and non-digestible fiber. There are prokinetic drugs available that may be somewhat effective.
+Metaclopramide has both antiemetic properties (inhibit D2 and 5-HT receptors) and increases gut motility
+(inhibit D2 and stimulate 5-HT4 receptors). It does have the potential irreversible side effect of tardive
+dyskinesia (extrapyramidal side effect). It can also cause irritability, anxiety, depression, prolonged QT and
+hyperprolactinemia. An alternate therapy that is similar to metoclopramide is domperidone which is not
+approved in the US. Erythromycin may also be used with limited effect. The mechanism of action of
+erythromycin is that it is a motilin agonist to increase gastric emptying. Alternative therapies used for
+gastroparesis are aimed at preventing nausea (ondansetron, diphenhydramine and prochlorperazine).
+Note: In accordance with the ACCME Essentials and Standards, everyone involved in planning and
+presenting this CMSRU educational lecture has no relevant commercial relationships or conflicts of interest.
+There is no commercial support for this program. Instructional materials contained in this document may
+include copyrighted material. The copyright law of the U.S. (Title 17, United States Code) governs the
+making of photocopies or other reproductions of copyrighted material. Please do not reproduce, or transmit,
+any portion of this content. This is strictly for use within CMSRU class. This is posted only on the
+Blackboard which is protected by password. This is in compliance with fair use regulations.
+
+8
+

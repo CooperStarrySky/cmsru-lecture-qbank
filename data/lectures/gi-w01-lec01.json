@@ -1,0 +1,279 @@
+{
+ "lecture_id": "gi-w01-lec01",
+ "block": "GI",
+ "week": 1,
+ "lecture": "01 Digestion and Absorption",
+ "contributor": "thirth",
+ "questions": [
+  {
+   "id": "gi-w01-lec01-q01",
+   "source": "slide",
+   "source_ref": "Slides 14, 13",
+   "stem": "The duodenum is bypassed in Roux-en-Y gastric bypass surgery (or gastrojejunostomy). Gastrojejunostomies create and bypass a loop composed of the duodenum and proximal jejunum. Absorption of which of the following is most likely to be significantly affected in these patients?",
+   "choices": [
+    "Iron only",
+    "Iron and calcium only",
+    "Iron, calcium, and folate",
+    "Iron, calcium, folate, and bile",
+    "Bile only"
+   ],
+   "answer": 2,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "So calcium, iron, folate, we agree that if somebody bypassed duodenum, their absorption will be affected.",
+     "at": "00:11:22"
+    },
+    {
+     "type": "transcript",
+     "quote": "Bile will not be significantly affected because see, the arrow for bile bile for duodenum is very thin. It's maximally absorbed in the ileum, so that's what the answer is iron, calcium, folate, that will be significantly affected if you bypass duodenum, but not bile.",
+     "at": "00:11:32"
+    },
+    {
+     "type": "slide",
+     "slide": 14,
+     "image": "img/gi-w01-lec01/slide_14.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 13,
+     "image": "img/gi-w01-lec01/slide_13.jpg"
+    }
+   ],
+   "note": "**Iron, calcium, and folate. Iron and calcium are absorbed mostly in the duodenum and folate in the proximal small intestine, so a loop that skips the duodenum and proximal jejunum cuts into all three. Bile salts are reabsorbed mainly in the ileum, which is left in place.** (On the slide this was a check-all-that-apply item; the professor's answer in lecture was iron, calcium, and folate, but not bile.)\n\nIron only: calcium and folate also depend on the bypassed segment.\n\nIron and calcium only: this leaves out folate, which the professor counted as affected.\n\nIron, calcium, folate, and bile: bile is recycled in the ileum, so the bypass barely touches it. The duodenal arrow for bile on the absorption figure is very thin.\n\nBile only: bile is the one item on the list that is not significantly affected."
+  },
+  {
+   "id": "gi-w01-lec01-q02",
+   "source": "slide",
+   "source_ref": "Slides 22, 19, 21",
+   "stem": "Which one of the following statements is INCORRECT?",
+   "choices": [
+    "Adult hypolactasia is caused by a reduction in the amount of lactase rather than its inactivation.",
+    "The α-amylases are the major carbohydrate-digesting enzymes in our body.",
+    "Sucrase, lactase, maltase, and fructase are the important disaccharidases active in our intestine.",
+    "About 100 mL of water is excreted in the feces per day.",
+    "A patient suffering from lactose intolerance may be able to eat yogurt."
+   ],
+   "answer": 2,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "First of all, sacrese, lactase, maltase, I are disacartases, but there is no such thing as fructase. I just made that up, right? Fructose is a monomer.",
+     "at": "00:20:57"
+    },
+    {
+     "type": "slide",
+     "slide": 22,
+     "image": "img/gi-w01-lec01/slide_22.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 19,
+     "image": "img/gi-w01-lec01/slide_19.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 21,
+     "image": "img/gi-w01-lec01/slide_21.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 11,
+     "image": "img/gi-w01-lec01/slide_11.jpg"
+    }
+   ],
+   "note": "**The disaccharidase list is wrong because there is no such enzyme as fructase. Fructose is already a monosaccharide, so it needs no digesting. The real brush-border disaccharidases are sucrase, lactase, maltase, and isomaltase.** The professor said in lecture that she made fructase up for this question.\n\nAdult hypolactasia: true. It is an age-dependent drop in the amount of lactase, not inactivation of the enzyme.\n\nα-amylases: true. Salivary and pancreatic α-amylase are the main carbohydrate-digesting enzymes.\n\n100 mL of water in feces per day: true. About 9 L enters the GI tract each day and nearly all of it is reabsorbed.\n\nYogurt: true. Bacteria such as lactobacilli have already fermented the lactose, so there is little intact lactose left for missing lactase to matter."
+  },
+  {
+   "id": "gi-w01-lec01-q03",
+   "source": "slide",
+   "source_ref": "Slides 38, 35, 36, 40",
+   "stem": "Which one of the following statements is INCORRECT?",
+   "choices": [
+    "Conversion of trypsinogen to trypsin is catalyzed by enteropeptidases.",
+    "Both short- and long-chain fatty acids require bile-salt micelles for absorption in the intestine.",
+    "A patient taking the anti-obesity drug orlistat may be at risk for vitamin D deficiency.",
+    "Drugs such as bile acid resins reduce cholesterol levels in the serum."
+   ],
+   "answer": 1,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "Do you need the mix myself for short chain fatty acids? No, right? You can directly take them up.",
+     "at": "00:37:49"
+    },
+    {
+     "type": "notes",
+     "quote": "Short- and medium-chain length fatty acids do not require the assistance of mixed micelles for absorption by the intestinal mucosa.",
+     "page": 4
+    },
+    {
+     "type": "slide",
+     "slide": 38,
+     "image": "img/gi-w01-lec01/slide_38.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 35,
+     "image": "img/gi-w01-lec01/slide_35.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 36,
+     "image": "img/gi-w01-lec01/slide_36.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 40,
+     "image": "img/gi-w01-lec01/slide_40.jpg"
+    }
+   ],
+   "note": "**Only long-chain fatty acids need mixed micelles. Short- and medium-chain fatty acids are absorbed directly through the intestinal mucosa and carried in the blood bound to albumin, so they do not depend on bile salts.**\n\nTrypsinogen to trypsin: true. Enteropeptidase (enterokinase) from the brush border activates trypsinogen, and trypsin then activates the other zymogens.\n\nOrlistat: true. It blocks fat digestion, so less fat gets packed into chylomicrons and the fat-soluble vitamins, including vitamin D, go with it.\n\nBile acid resins: true. They trap bile acids in the gut, so the liver pulls more cholesterol from the blood to make new bile acids."
+  },
+  {
+   "id": "gi-w01-lec01-q04",
+   "source": "slide",
+   "source_ref": "Slides 50, 42, 43, 47",
+   "stem": "A 24-year-old college student has periods of anemia and low iron stores. She is a strict vegetarian and occasionally takes an iron supplement. She then asks what she can do to improve her iron absorption. Considering her diet preference, which of the following would be the BEST advice?",
+   "choices": [
+    "Take the iron supplement with milk",
+    "Take the iron supplement with tea",
+    "Take the iron supplement with orange juice"
+   ],
+   "answer": 2,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "Yes, because orange juice has vitamin C, ascorbic acid, that will change it to the highly absorbable ferrous form.",
+     "at": "00:44:54"
+    },
+    {
+     "type": "transcript",
+     "quote": "Because dairy products reduce iron absorption. She should take that with tea or not? No, because tea has polyphenols that will also reduce absorption,",
+     "at": "00:44:40"
+    },
+    {
+     "type": "slide",
+     "slide": 50,
+     "image": "img/gi-w01-lec01/slide_50.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 42,
+     "image": "img/gi-w01-lec01/slide_42.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 43,
+     "image": "img/gi-w01-lec01/slide_43.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 47,
+     "image": "img/gi-w01-lec01/slide_47.jpg"
+    }
+   ],
+   "note": "**Take it with orange juice. As a strict vegetarian, all her iron is non-heme, and non-heme iron absorption depends heavily on what she eats with it. Iron is best absorbed in the ferrous (Fe2+) form, and the vitamin C (ascorbic acid) in orange juice reduces ferric iron to ferrous iron, so more gets taken up.** (On the slide the three choices are shown as pictures: milk, tea, and orange juice, each with an iron bottle.)\n\nMilk: dairy reduces iron absorption, and excessive calcium is one of the listed inhibitors.\n\nTea: tea contains polyphenols, which also reduce iron absorption (as do coffee and red wine).",
+   "stem_image": "img/gi-w01-lec01/slide_50.jpg"
+  },
+  {
+   "id": "gi-w01-lec01-q05",
+   "source": "slide",
+   "source_ref": "Slides 55, 52, 53",
+   "stem": "Which one of the following statements is INCORRECT?",
+   "choices": [
+    "A disease resulting from destruction of gastric parietal cells will lead to vitamin B-12 deficiency.",
+    "A patient may exhibit symptoms of iron deficiency after a bariatric surgery that bypasses the duodenum.",
+    "Chief cells secrete the enzyme precursor pepsinogen.",
+    "Diseases in the ileum such as Crohn disease are less likely to lead to vitamin B-12 deficiency."
+   ],
+   "answer": 3,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "So the last one is incorrect, that if you have disease like Crohn's disease which affects ileum, you are actually going to affect B12 absorption, not less likely.",
+     "at": "00:48:28"
+    },
+    {
+     "type": "slide",
+     "slide": 55,
+     "image": "img/gi-w01-lec01/slide_55.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 52,
+     "image": "img/gi-w01-lec01/slide_52.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 53,
+     "image": "img/gi-w01-lec01/slide_53.jpg"
+    }
+   ],
+   "note": "**The Crohn disease statement is wrong. The B-12/intrinsic factor complex is absorbed in the ileum, so ileal disease such as Crohn disease makes B-12 deficiency more likely, not less.**\n\nParietal cell destruction: true. Parietal cells make intrinsic factor, and losing them (as in pernicious anemia) blocks B-12 absorption.\n\nBypassing the duodenum: true. The duodenum is the main site of iron absorption.\n\nChief cells and pepsinogen: true. Chief cells secrete pepsinogen, which acid converts to pepsin."
+  },
+  {
+   "id": "gi-w01-lec01-q06",
+   "source": "slide",
+   "source_ref": "Slides 56, 36",
+   "stem": "A 50-year-old woman reports to the clinic for her yearly checkup. She is struggling to keep her weight down. Her BMI is 35 kg/m2. After a discussion with her physician, she decides to take an anti-obesity drug, Alli. She also drastically reduces the fat intake in her diet. She returns to the clinic for a checkup after three weeks and reports that her stools are oily. There is no associated blood or mucus. Her vital signs are normal. Physical examination shows no abnormalities. Which of the following recommendations is most appropriate for this patient?",
+   "choices": [
+    "Decreased carbohydrates in her diet",
+    "Iron supplementation",
+    "Decreased sodium intake",
+    "Vitamin supplementation that includes vitamins A, D, and E"
+   ],
+   "answer": 3,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "So she has reduced her fat intake and she's taking orlistat, so not much fat is going inside, so there's no chylomicron getting packed. She could be at. Risk for fat soluble vitamin deficiency, and that's why vitamin supplementation, if you increase the amount, at least a small amount will go inside, so that will be a recommendation for her.",
+     "at": "00:49:28"
+    },
+    {
+     "type": "slide",
+     "slide": 56,
+     "image": "img/gi-w01-lec01/slide_56.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 36,
+     "image": "img/gi-w01-lec01/slide_36.jpg"
+    }
+   ],
+   "note": "**Supplement the fat-soluble vitamins. Alli (orlistat) blocks fat digestion, and she has also cut her fat intake, so very little fat is being packed into chylomicrons. The fat-soluble vitamins A, D, E, and K ride along in those chylomicrons, so she is at risk of running low. Giving more of them lets at least some get absorbed.**\n\nDecreased carbohydrates: nothing about her oily stools or her drug points to a carbohydrate problem.\n\nIron supplementation: iron is water soluble and is absorbed in the duodenum without needing micelles, so orlistat does not threaten it.\n\nDecreased sodium intake: her vital signs are normal and sodium has nothing to do with fat malabsorption."
+  },
+  {
+   "id": "gi-w01-lec01-q07",
+   "source": "slide",
+   "source_ref": "Slides 57, 25",
+   "stem": "A 3-month-old female infant is referred to a medical genetics department with diarrhea, vomiting, failure to thrive, edema, ascites, and hypoproteinemia. The symptoms appear consistent with a clinical picture of kwashiorkor. However, the parents insist that the infant is breastfed at appropriate intervals, as they were counseled by the hospital. After several attempts to change the diet, the investigating physician suspects that the symptoms are due to the genetic deficiency of an enzyme that is normally secreted by the intestinal brush border cells. The absence of this enzyme results in the infant's inability to digest and absorb proteins in her diet. Administration of pancreatic enzymes alleviates the symptoms. Which of the following enzymes is most likely deficient?",
+   "choices": [
+    "Enteropeptidase",
+    "Pepsin",
+    "Trypsin",
+    "Chymotrypsin",
+    "Carboxypeptidase"
+   ],
+   "answer": 0,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "Enteropeptidase is the only protease secreted by the intestinal brush border cells, OK? And if you have enteropeptidase deficiency, trypsin will not get activated.",
+     "at": "00:50:48"
+    },
+    {
+     "type": "slide",
+     "slide": 57,
+     "image": "img/gi-w01-lec01/slide_57.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 25,
+     "image": "img/gi-w01-lec01/slide_25.jpg"
+    }
+   ],
+   "note": "**Enteropeptidase. It is the only protease on the list made by the intestinal brush border. Without it trypsinogen is never turned into trypsin, so none of the other pancreatic zymogens get activated either. Protein goes undigested and the picture looks like protein starvation. Giving already-active pancreatic enzymes gets around the block.**\n\nPepsin: made by gastric chief cells (as pepsinogen), not the brush border.\n\nTrypsin: secreted by the pancreas as trypsinogen. It is the enzyme that fails to be activated here, not the one that is missing.\n\nChymotrypsin: a pancreatic zymogen that trypsin activates.\n\nCarboxypeptidase: also a pancreatic zymogen (procarboxypeptidase) that trypsin activates."
+  }
+ ]
+}

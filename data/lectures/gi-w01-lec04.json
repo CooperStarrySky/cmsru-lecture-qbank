@@ -1,0 +1,514 @@
+{
+ "lecture_id": "gi-w01-lec04",
+ "block": "GI",
+ "week": 1,
+ "lecture": "04 Peptic Ulcer Disease",
+ "contributor": "thirth",
+ "questions": [
+  {
+   "id": "gi-w01-lec04-q01",
+   "source": "slide",
+   "source_ref": "Slides 10, 8, 9, 13",
+   "stem": "A 50-year-old man presents with a “dull” feeling in the epigastric region which food tends to make better. But it is to the point where his appetite is decreased and he is losing weight. He denies rectal bleeding. He does take occasional NSAIDs for a headache. His past medical history includes hypertension, and his past surgical history includes hemorrhoids and an appendectomy. He has no allergies. His medications are lisinopril and NSAIDs as needed. His hemoglobin is 11.2. What is your next step?",
+   "choices": [
+    "Give antisecretory therapy",
+    "Give a blood transfusion",
+    "Check an EGD",
+    "Check a colonoscopy",
+    "Check a CT scan",
+    "Check an upper GI study"
+   ],
+   "answer": 2,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "But really the answer, of course, is an, is an EGD and we kind of fleshed out why.",
+     "at": "00:07:35"
+    },
+    {
+     "type": "transcript",
+     "quote": "And then alarm symptoms. So, somebody has really bad dysphagia, or they have weight loss, or they have bleeding, or they have anemia, or they have hematemesis, vomiting bright red blood.",
+     "at": "00:09:13"
+    },
+    {
+     "type": "slide",
+     "slide": 10,
+     "image": "img/gi-w01-lec04/slide_10.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 8,
+     "image": "img/gi-w01-lec04/slide_08.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 9,
+     "image": "img/gi-w01-lec04/slide_09.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 13,
+     "image": "img/gi-w01-lec04/slide_13.jpg"
+    }
+   ],
+   "note": "**Check an EGD (upper endoscopy). Epigastric pain plus NSAID use points to peptic ulcer disease or gastritis, and he has alarm features: weight loss and anemia. Alarm symptoms are an indication for upper endoscopy, which looks straight at the mucosa and lets you biopsy.**\n\nAntisecretory therapy: reasonable to give alongside, but it is not the next step when alarm symptoms need a diagnosis.\n\nBlood transfusion: a hemoglobin of 11.2 is well above the usual threshold of about 7, and he is not actively bleeding.\n\nColonoscopy: he has anemia, but no rectal bleeding, and his pain is epigastric. Colonoscopy makes sense later if the upper endoscopy is negative.\n\nCT scan: it can show an ulcer, but it is not the best test for one.\n\nUpper GI study: an x-ray that only outlines the lumen. It might show inflammation or an ulcer if you are lucky, but it is inferior to EGD."
+  },
+  {
+   "id": "gi-w01-lec04-q02",
+   "source": "slide",
+   "source_ref": "Slides 24, 25",
+   "stem": "What is not a cause of peptic ulcer disease (PUD)?",
+   "choices": [
+    "Stress",
+    "Malignancy",
+    "H. pylori",
+    "Retained antrum",
+    "NSAIDs",
+    "Zollinger-Ellison syndrome"
+   ],
+   "answer": 0,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "But the stress, can stress cause an ulcer? What if I told you, like, I'm really stressed. Like I gotta drop my car off, and I got pulled over by the cops. Not so much.",
+     "at": "00:19:52"
+    },
+    {
+     "type": "slide",
+     "slide": 24,
+     "image": "img/gi-w01-lec04/slide_24.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 25,
+     "image": "img/gi-w01-lec04/slide_25.jpg"
+    }
+   ],
+   "note": "**Stress. The professor's point is that everyday psychological stress (a busy day, getting pulled over) does not cause peptic ulcers. That differs from physiologic stress ulcers, which are real: critically ill ICU patients and patients with severe burns can develop stress-related mucosal ulceration from mucosal ischemia. H. pylori and NSAIDs are by far the most common causes of PUD.**\n\nMalignancy: a tumor can erode through the mucosa and form an ulcer.\n\nH. pylori: one of the two most common causes of PUD.\n\nRetained antrum: after some gastric surgeries, a cuff of antrum left behind keeps making gastrin, which can drive ulceration. The professor said it will not be tested.\n\nNSAIDs: the other most common cause, through loss of prostaglandin protection of the mucosa.\n\nZollinger-Ellison syndrome: a gastrinoma drives acid hypersecretion and ulcers."
+  },
+  {
+   "id": "gi-w01-lec04-q03",
+   "source": "slide",
+   "source_ref": "Slides 39, 40",
+   "stem": "A 56-year-old man comes to the office for upper abdominal pain occurring for the last month. His other medical problems include coronary artery disease and osteoarthritis. His medications include aspirin, simvastatin, and acetaminophen as needed. The patient does not use tobacco or illicit drugs. Upper endoscopy is performed and reveals a gastric ulcer. A biopsy of the ulcer is taken and placed in a urea-containing solution that includes phenol red, a pH indicator. Thirty minutes later, the solution has turned pink, indicating a pH increase. The test result suggests that which of the following processes is occurring?",
+   "choices": [
+    "Clonal proliferation of glandular cells",
+    "Cyclooxygenase inhibition leading to mucosal damage",
+    "Enzymatic production of ammonia",
+    "Gastrin hypersecretion leading to acid overproduction",
+    "Parietal cell destruction due to autoimmune disease"
+   ],
+   "answer": 2,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "I mean, the answer is Ammonia, so. This is a rapid urease test.",
+     "at": "00:34:24"
+    },
+    {
+     "type": "transcript",
+     "quote": "H. pylori needs urease. It breaks down urea, uh, into ammonia and, and, uh, and CO2.",
+     "at": "00:34:32"
+    },
+    {
+     "type": "slide",
+     "slide": 39,
+     "image": "img/gi-w01-lec04/slide_39.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 40,
+     "image": "img/gi-w01-lec04/slide_40.jpg"
+    }
+   ],
+   "note": "**Enzymatic production of ammonia. This is the rapid urease test. H. pylori makes urease, which splits urea into ammonia and CO2. The ammonia raises the local pH, which is how the bacterium survives in the stomach, and it turns phenol red from yellow to pink. A pink biopsy means H. pylori is there.**\n\nClonal proliferation of glandular cells: that describes a neoplasm, and a pH test on a biopsy cannot detect it.\n\nCyclooxygenase inhibition: his aspirin could injure the mucosa this way, but COX inhibition does not raise the pH of a urea solution.\n\nGastrin hypersecretion: acid overproduction would push pH down, not up, and gastrin is not measured by this test.\n\nAutoimmune parietal cell destruction: autoimmunity has nothing to do with a urease reaction in a biopsy."
+  },
+  {
+   "id": "gi-w01-lec04-q04",
+   "source": "slide",
+   "source_ref": "Slides 51, 15",
+   "stem": "Which of the following is secreted by gastric parietal cells?",
+   "choices": [
+    "Somatostatin",
+    "Gastrin",
+    "HCl, intrinsic factor",
+    "Pepsinogen"
+   ],
+   "answer": 2,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "There's the parietal cells, they make gastric acid, they also make intrinsic factor, B12.",
+     "at": "00:10:00"
+    },
+    {
+     "type": "slide",
+     "slide": 51,
+     "image": "img/gi-w01-lec04/slide_51.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 15,
+     "image": "img/gi-w01-lec04/slide_15.jpg"
+    }
+   ],
+   "note": "**HCl and intrinsic factor. Parietal cells in the body of the stomach pump acid through the H+/K+-ATPase and also make intrinsic factor for B-12 absorption.**\n\nSomatostatin comes from D cells and inhibits acid production.\n\nGastrin comes from G cells, which sit mainly in the antrum.\n\nPepsinogen comes from chief cells."
+  },
+  {
+   "id": "gi-w01-lec04-q05",
+   "source": "slide",
+   "source_ref": "Slides 51, 15",
+   "stem": "Which of the following is secreted by gastric chief cells?",
+   "choices": [
+    "Somatostatin",
+    "Gastrin",
+    "HCl, intrinsic factor",
+    "Pepsinogen"
+   ],
+   "answer": 3,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "There's the chief cells which produce pepcinogen.",
+     "at": "00:10:17"
+    },
+    {
+     "type": "slide",
+     "slide": 51,
+     "image": "img/gi-w01-lec04/slide_51.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 15,
+     "image": "img/gi-w01-lec04/slide_15.jpg"
+    }
+   ],
+   "note": "**Pepsinogen. Chief cells release pepsinogen (along with gastric lipase), and acid converts it to active pepsin.**\n\nSomatostatin comes from D cells and inhibits acid production.\n\nGastrin comes from G cells, which sit mainly in the antrum.\n\nHCl and intrinsic factor come from parietal cells."
+  },
+  {
+   "id": "gi-w01-lec04-q06",
+   "source": "slide",
+   "source_ref": "Slides 51, 15",
+   "stem": "Which of the following is secreted by gastric G cells?",
+   "choices": [
+    "Somatostatin",
+    "Gastrin",
+    "HCl, intrinsic factor",
+    "Pepsinogen"
+   ],
+   "answer": 1,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "and then there's G cells which make gastrin that stimulate acid production.",
+     "at": "00:10:26"
+    },
+    {
+     "type": "slide",
+     "slide": 51,
+     "image": "img/gi-w01-lec04/slide_51.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 15,
+     "image": "img/gi-w01-lec04/slide_15.jpg"
+    }
+   ],
+   "note": "**Gastrin. G cells are concentrated in the antrum and release gastrin, which drives acid secretion directly and through ECL cell histamine.**\n\nSomatostatin comes from D cells and inhibits acid production.\n\nHCl and intrinsic factor come from parietal cells.\n\nPepsinogen comes from chief cells."
+  },
+  {
+   "id": "gi-w01-lec04-q07",
+   "source": "slide",
+   "source_ref": "Slides 51, 15",
+   "stem": "Which of the following is secreted by gastric D cells?",
+   "choices": [
+    "Somatostatin",
+    "Gastrin",
+    "HCl, intrinsic factor",
+    "Pepsinogen"
+   ],
+   "answer": 0,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "there's D cells, which make somatostatin that inhibits acid production,",
+     "at": "00:10:21"
+    },
+    {
+     "type": "slide",
+     "slide": 51,
+     "image": "img/gi-w01-lec04/slide_51.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 15,
+     "image": "img/gi-w01-lec04/slide_15.jpg"
+    }
+   ],
+   "note": "**Somatostatin. D cells in the body and antrum release somatostatin, which turns down acid secretion and gastrin release.**\n\nGastrin comes from G cells, which sit mainly in the antrum.\n\nHCl and intrinsic factor come from parietal cells.\n\nPepsinogen comes from chief cells."
+  },
+  {
+   "id": "gi-w01-lec04-q08",
+   "source": "slide",
+   "source_ref": "Slides 62, 56",
+   "stem": "Which of the following describes proton pump inhibitors?",
+   "choices": [
+    "Buffer acid in stomach",
+    "Inhibit final common pathway of acid secretion",
+    "Can cause uterine contractions",
+    "Block downstream action of substance secreted by ECL cells"
+   ],
+   "answer": 1,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "They are the final common pathway. PPIs are the final common pathway. They act on, on that parietal cell, right?",
+     "at": "00:48:11"
+    },
+    {
+     "type": "slide",
+     "slide": 62,
+     "image": "img/gi-w01-lec04/slide_62.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 56,
+     "image": "img/gi-w01-lec04/slide_56.jpg"
+    }
+   ],
+   "note": "**Proton pump inhibitors (the \"-prazoles\") irreversibly inhibit the H+/K+-ATPase in parietal cells. That pump is the final common pathway of acid secretion, so PPIs block acid no matter which signal drives it.**\n\nBuffering acid in the stomach describes antacids.\n\nUterine contractions are a side effect of misoprostol, a mucosa protective agent.\n\nBlocking the downstream action of ECL cell histamine describes H2 receptor antagonists."
+  },
+  {
+   "id": "gi-w01-lec04-q09",
+   "source": "slide",
+   "source_ref": "Slides 62, 55",
+   "stem": "Which of the following describes histamine receptor antagonists?",
+   "choices": [
+    "Buffer acid in stomach",
+    "Inhibit final common pathway of acid secretion",
+    "Can cause uterine contractions",
+    "Block downstream action of substance secreted by ECL cells"
+   ],
+   "answer": 3,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "Um, Anything that ends with uh tidine, so ranitidine and famotidine, uh, these are the H2 blockers. Remember they block the action of histamine on parietal cells.",
+     "at": "00:43:59"
+    },
+    {
+     "type": "slide",
+     "slide": 62,
+     "image": "img/gi-w01-lec04/slide_62.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 55,
+     "image": "img/gi-w01-lec04/slide_55.jpg"
+    }
+   ],
+   "note": "**H2 receptor antagonists (the \"-tidines,\" such as famotidine) block histamine, which ECL cells release, at its receptor on the parietal cell. They act downstream of the ECL cell but upstream of the pump.**\n\nBuffering acid in the stomach describes antacids.\n\nInhibiting the final common pathway (the parietal cell H+/K+-ATPase) describes proton pump inhibitors.\n\nUterine contractions are a side effect of misoprostol, a mucosa protective agent."
+  },
+  {
+   "id": "gi-w01-lec04-q10",
+   "source": "slide",
+   "source_ref": "Slides 62, 54",
+   "stem": "Which of the following describes antacids?",
+   "choices": [
+    "Buffer acid in stomach",
+    "Inhibit final common pathway of acid secretion",
+    "Can cause uterine contractions",
+    "Block downstream action of substance secreted by ECL cells"
+   ],
+   "answer": 0,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "Antacids, all they do is buffer.",
+     "at": "00:48:36"
+    },
+    {
+     "type": "slide",
+     "slide": 62,
+     "image": "img/gi-w01-lec04/slide_62.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 54,
+     "image": "img/gi-w01-lec04/slide_54.jpg"
+    }
+   ],
+   "note": "**Antacids simply buffer acid that is already in the stomach. Aluminum/magnesium antacids react with H+ and bring the pH to about 3.5.**\n\nInhibiting the final common pathway (the parietal cell H+/K+-ATPase) describes proton pump inhibitors.\n\nUterine contractions are a side effect of misoprostol, a mucosa protective agent.\n\nBlocking the downstream action of ECL cell histamine describes H2 receptor antagonists."
+  },
+  {
+   "id": "gi-w01-lec04-q11",
+   "source": "slide",
+   "source_ref": "Slides 62, 58",
+   "stem": "Which of the following describes mucosa protective agents?",
+   "choices": [
+    "Buffer acid in stomach",
+    "Inhibit final common pathway of acid secretion",
+    "Can cause uterine contractions",
+    "Block downstream action of substance secreted by ECL cells"
+   ],
+   "answer": 2,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "And mucosal agents can cause uterine contractions.",
+     "at": "00:48:38"
+    },
+    {
+     "type": "slide",
+     "slide": 62,
+     "image": "img/gi-w01-lec04/slide_62.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 58,
+     "image": "img/gi-w01-lec04/slide_58.jpg"
+    }
+   ],
+   "note": "**Mucosa protective agents include misoprostol, a PGE1 derivative. It can cause uterine contractions, so it must not be given in pregnancy.**\n\nBuffering acid in the stomach describes antacids.\n\nInhibiting the final common pathway (the parietal cell H+/K+-ATPase) describes proton pump inhibitors.\n\nBlocking the downstream action of ECL cell histamine describes H2 receptor antagonists."
+  },
+  {
+   "id": "gi-w01-lec04-q12",
+   "source": "slide",
+   "source_ref": "Slides 63, 27",
+   "stem": "The prevalence of H. pylori infection in Western countries is which of the following?",
+   "choices": [
+    "50% infection by the age of 60",
+    "80% infected by the age of 20",
+    "90% infection by the age of 50",
+    "20% infection by the age of 80"
+   ],
+   "answer": 0,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "In Western countries, you could see it typically develops later. But what you see is that by the age of 55, 60, that about half the population in the United States has it.",
+     "at": "00:23:00"
+    },
+    {
+     "type": "slide",
+     "slide": 63,
+     "image": "img/gi-w01-lec04/slide_63.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 27,
+     "image": "img/gi-w01-lec04/slide_27.jpg"
+    }
+   ],
+   "note": "**About 50% by age 60. In Western countries infection is picked up gradually through adult life, and by age 55 to 60 about half the population carries it.**\n\n80% by age 20: that pattern of early, heavy childhood infection fits developing countries, not Western ones.\n\n90% by age 50: too high for Western countries. Rates near this are seen in developing countries.\n\n20% by age 80: too low. The Western curve rises steadily with age."
+  },
+  {
+   "id": "gi-w01-lec04-q13",
+   "source": "slide",
+   "source_ref": "Slides 64, 36, 35",
+   "stem": "In chronic gastritis, what is the pathologic point of no return?",
+   "choices": [
+    "Intestinal metaplasia",
+    "Chronic active gastritis",
+    "Atrophic gastritis",
+    "Non-infected mucosa"
+   ],
+   "answer": 0,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "When we start to see intestinal metaplasia, that's kind of the pathologic point of no return.",
+     "at": "00:31:20"
+    },
+    {
+     "type": "slide",
+     "slide": 64,
+     "image": "img/gi-w01-lec04/slide_64.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 36,
+     "image": "img/gi-w01-lec04/slide_36.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 35,
+     "image": "img/gi-w01-lec04/slide_35.jpg"
+    }
+   ],
+   "note": "**Intestinal metaplasia. In Correa's cascade, once gastric epithelium is replaced by intestinal-type cells (absorptive cells, goblet cells, Paneth cells), the change is the point of no return. From there it can move on to dysplasia and gastric cancer.**\n\nChronic active gastritis: an earlier step that, by itself, does not commit the mucosa to progression.\n\nAtrophic gastritis: also an earlier step in the cascade, before intestinal metaplasia.\n\nNon-infected mucosa: this is the normal starting point, not a pathologic stage."
+  },
+  {
+   "id": "gi-w01-lec04-q14",
+   "source": "slide",
+   "source_ref": "Slides 65, 54",
+   "stem": "What is a true effect of magnesium-based antacids?",
+   "choices": [
+    "Diarrhea",
+    "Constipation",
+    "Reacts with chloride to neutralize the pH to about 3.5",
+    "Causes mental status changes"
+   ],
+   "answer": 0,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "Uh, magnesium causes diarrhea, aluminum causes constipation.",
+     "at": "00:43:30"
+    },
+    {
+     "type": "slide",
+     "slide": 65,
+     "image": "img/gi-w01-lec04/slide_65.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 54,
+     "image": "img/gi-w01-lec04/slide_54.jpg"
+    }
+   ],
+   "note": "**Diarrhea. Magnesium (as in milk of magnesia) stimulates CCK release and speeds up the bowel. That is why it is often combined with aluminum, which has the opposite effect.**\n\nConstipation: this is the aluminum side effect. Aluminum slows bowel motility.\n\nReacts with chloride: Al/Mg antacids react with H+, not chloride, to bring the pH to about 3.5.\n\nMental status changes: not a side effect listed for magnesium antacids in this lecture."
+  },
+  {
+   "id": "gi-w01-lec04-q15",
+   "source": "slide",
+   "source_ref": "Slides 66, 55, 56, 58",
+   "stem": "Which agents are used to treat acid-related disorders of the GI tract?",
+   "choices": [
+    "H2 receptor blocking agents",
+    "Proton pump inhibitors",
+    "Prostaglandin E1 derivatives",
+    "All of the above"
+   ],
+   "answer": 3,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "Which agents are used to treat acid-related disorders? Like Doctor Fertari said, if you don't get this right, I will cry a lot. All the above.",
+     "at": "00:49:25"
+    },
+    {
+     "type": "slide",
+     "slide": 66,
+     "image": "img/gi-w01-lec04/slide_66.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 55,
+     "image": "img/gi-w01-lec04/slide_55.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 56,
+     "image": "img/gi-w01-lec04/slide_56.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 58,
+     "image": "img/gi-w01-lec04/slide_58.jpg"
+    }
+   ],
+   "note": "**All of the above. H2 blockers, PPIs, and the PGE1 derivative misoprostol are all treatments for acid-related disorders.**\n\nH2 receptor blocking agents: the \"-tidines\" (famotidine, ranitidine) block histamine at the parietal cell. True, but so are the other two.\n\nProton pump inhibitors: the \"-prazoles\" block the H+/K+-ATPase, the final common pathway of acid secretion. True, but not the only answer.\n\nProstaglandin E1 derivatives: misoprostol inhibits parietal cell adenylyl cyclase and protects the mucosa, mostly in people on high-dose NSAIDs. True, but not the only answer."
+  }
+ ]
+}

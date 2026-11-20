@@ -1,0 +1,258 @@
+=== PAGE 1 ===
+Salivary, gastric and pancreatic secretions (Monday, October 12, 2026; 11 am)
+Note from Dr. Phadtare: Please note that this ebook is not intended to replica the information presented in
+the lecture slides, but is created to provide foundation to the main concepts presented in the slides. This
+ebook was created using two books: (i) Gastrointestinal physiology, Leonard Johnson and (ii) Guyton and
+Hall Textbook of Medical Physiology.
+Salivary secretions
+Although the salivary glands are not essential to life, their secretions are important for the hygiene and
+comfort of the mouth and teeth. Saliva is hyposmotic at all rates of secretion, and in contrast to the other
+gastrointestinal (GI) secretions, the rate of secretion is almost totally under the control of the nervous system.
+Both branches of the autonomic nervous system (ANS) stimulate secretion. However, the parasympathetic
+system provides a much greater stimulus than does the sympathetic system.
+Functions of Saliva
+Lubrication, protection, and digestion are the three main functions of saliva. The lubricating ability of
+saliva depends primarily on its content of mucus. In the mouth, mixing saliva with food lubricates the
+ingested material and facilitates the swallowing process. The lubricating effect of saliva is also necessary for
+speech. Saliva protects the mouth by buffering and diluting harmful substances. Similarly, the salivary
+glands are stimulated strongly before vomiting. The corrosive gastric acid and pepsin that are brought up into
+the esophagus and mouth are thereby neutralized and diluted by saliva. Dry mouth, or xerostomia, is
+associated with chronic infections of the buccal mucosa and with dental caries. Certain specialized
+constituents of saliva have antibacterial actions. These include a lysozyme, which attacks bacterial cell walls;
+lactoferrin, which chelates iron and thus prevents the multiplication of organisms that require it for growth;
+and the binding glycoprotein for immunoglobulin A (IgA), which in combination with IgA forms secretory
+IgA, which in turn is immunologically active against viruses and bacteria. Various inorganic compounds are
+taken up by the salivary glands, concentrated, and secreted in saliva. These include fluoride and calcium
+(Ca2+ ), which are subsequently incorporated into the teeth.
+Saliva contains two enzymes, one directed toward carbohydrates and the other toward fat. An α-amylase
+called ptyalin cleaves starch. In the absence of salivary amylase, there is no defect in carbohydrate digestion
+because the pancreatic enzyme is secreted in amounts sufficient to digest all the starch present. The serous
+salivary glands of the tongue secrete the second digestive enzyme, lingual lipase, which plays a role in the
+hydrolysis of dietary lipid (Digestion and absorption lecture).
+Salivon
+A salivary gland consists of a blind-end system of microscopic
+ducts that branch out from grossly visible ducts. One main duct
+opens into the mouth from each gland. The functional unit of
+the salivary duct system is the salivon. At the blind end is the
+acinus, surrounded by polygonal acinar cells. These cells
+secrete the initial saliva, including water, electrolytes, and
+organic molecules such as amylase. The solutes and fluid move
+out of the acinar cell into the duct lumen to form the initial
+saliva. The acinar cells are surrounded by myoepithelial cells.
+The next segment of the salivon is the intercalated duct, which may be associated with additional
+myoepithelial cells. Contraction of myoepithelial cells serves to expel formed saliva from the acinus.
+
+1
+
+
+=== PAGE 2 ===
+Composition of salivary secretions
+The major constituents of saliva are water, electrolytes, and a few enzymes. The unique properties of saliva
+are (1) its large volume relative to the mass of glands that secrete saliva, (2) its low osmolality, (3) its high K
++
+concentration, and (4) the specific organic materials it contains. The composition of saliva varies, but it is
+always hypotonic and contains a higher concentration of K+ than plasma. It is always lower in sodium and
+chloride than plasma. It is rich in bicarbonate most of the time. The volume varies depending on the stimuli
+and the number of secreting acinar cells. In general, volume decreases with age. In young adults,
+approximately 1-1.5 L are secreted daily (most at meals; resting secretory rate is 25 ml/min).
+Two-stage secretion model
+Primary secretion is secreted by the acinar cells. Ductule epithelial cells modify the primary secretion fluid
+by reabsorbing Na+ and Cl- and secreting K+ and HCO3-. There is a greater amount of Na+ and Clreabsorbed than K+ and HCO3- secreted. This reduction in the number of ions in the tubular fluid plus the
+impermeability of ducts leads to a hypotonic saliva.
+Gastric secretions
+Intrinsic factor, hydrogen ion, pepsin, mucus, and water are secreted by the various cells present within
+the gastric mucosa. Hormones like gastrin are also secreted by gastric mucosa. Intrinsic factor is required for
+the absorption of vitamin B-12 by the ileal mucosa. Acid is necessary for the conversion of inactive
+pepsinogen to the enzyme pepsin. Acid and pepsin begin th e digestion of protein. Acid also kills a large
+number of bacteria that enter the stomach, thereby reducing the number of organisms reaching the intestine.
+In cases of severely reduced or absent acid secretion, the incidence of intestinal infections is greater. Mucus
+lines the wall of the stomach and protects it from damage. Mu cus acts primarily as a lubricant, protecting the
+mucosa from physical injury. Together with bicarbonate, mucus neutralizes acid and maintains the surface of
+the mucosa at a pH near neutrality. This is part of the gastric mucosal barrier that protects the stomach from
+acid and pepsin digestion. Water acts as the medium for the action of acid and enzymes and solubilizes many
+of the constituents of a meal.
+Functional anatomy
+Functionally, the gastric mucosa is divided into the oxyntic gland
+area and the pyloric gland area. The gastric mucosa is composed of
+pits and glands. The pits and surface itself are lined with mucous or
+surface epithelial cells. At the base of the pits are the openings of the
+glands, which project into the mucosa toward the outside or serosa.
+The oxyntic gland mucosa secretes acid and is located in the proximal
+80% of the stomach. It includes the body and the fundus. The oxyntic
+glands contain the acid-producing parietal cells and the p eptic or
+chief cells, which secrete the enzyme precursor pepsinogen. The parietal
+cells also secrete intrinsic factor. The distal 20% of the gastric mucosa is
+referred to as the pyloric gland mucosa. Pyloric glands contain the
+gastrin-producing G cells and mucous cells. This area of the stomach
+often is designated the antrum. The oxyntic glands contain the acidproducing parietal cells and the peptic or chief cells. Chief cells secrete the
+enzyme precursor pepsinogen. Enterochromaffin-like (ECL) cells are
+located close to the parietal cells and release histamine. D cells in the
+antrum and oxyntic gland area produce somatostatin.
+Gastric secretion by a parietal cell
+The parietal cell (also called oxyntic cell) contains large branching
+2
+
+
+=== PAGE 3 ===
+intracellular canaliculi. The hydrochloric acid is formed at the villus-like projections inside these canaliculi
+and is then conducted through the canaliculi to the secretory end of the cell.
+During the resting state, the cytoplasm of the
+parietal
+cells
+is
+dominated
+by
+numerous tubulovesicles.
+The intracellular
+canaliculus is continuous with the lumen of the
+oxyntic gland. The tubulovesicles contain the
+enzymes carbonic
+anhydrase and hydrogen
++
+potassium ATPase (H , K+-ATPase), necessary
+for the production and secretion of acid, on their
+apical membranes. Thus, in the resting parietal cell,
+any basal secretion is directed into the lumen of the
+tubulovesicles and not into the cytoplasm of the
+cell. Stimulation of acid secretion causes the
+migration of the tubulovesicles and their incorporation into the membrane of the canaliculus as microvilli. As
+a result, the surface area of the canaliculus is greatly expande d to occupy much of the cell. The activities of
+the enzymes, which are now in the canalicular membrane, increase significantly during acid secretion. Acid
+secretion begins within 10 minutes of administering a stimulant. Following the removal of stimulation, the
+tubulovesicles reform and the canaliculus regains its resting configuration.
+Regulation and phases of the gastric secretion
+Secretion of hydrochloric acid by the parietal cells is under continuous control by both endocrine and
+nervous signals. Furthermore, the parietal cells operate in close association with the ECL cells, the primary
+function of which is to secrete histamine. The ECL cells lie in the deep recesses of the oxyntic glands and
+therefore release histamine in direct contact with the parietal cells of the glands. The rate of formation and
+secretion of hydrochloric acid by the parietal cells is directly related to the amount of histamine secreted by
+the ECL cells. In turn, the ECL cells are stimulated to secrete histamine by gastrin, which is formed almost
+entirely in the antral portion of the stomach mucosa in response to proteins in the foods being digested. The
+ECL cells may also be stimulated by hormonal substances secreted by the enteric nervous system of the
+stomach wall.
+Stimulation of acid secretion by gastrin
+As mentioned above, gastrin is a hormone secreted by gastrin cells, also called G cells. When meats or other
+foods containing protein reach the antral end of the stomach, some of the proteins from these foods have a
+special stimulatory effect on the gastrin cells to cause release of gastrin into the blood to be transported to the
+ECL cells of the stomach. Gastrin-releasing peptide (GRP) from enteric neurons acts on the G cell to
+stimulate gastrin release, and somatostatin acts on the G cell to inhibit release. GRP is a neurocrine released
+by vagal stimulation. The vigorous mixing of the gastric juices transports the gastrin rapidly to the ECL cells
+in the body of the stomach, causing release of histamine directly into the deep oxyntic glands. The histamine
+then acts quickly to stimulate gastric hydrochloric acid secretion.
+Phases of Gastric Secretion
+Gastric secretion occurs in three phases, a cephalic phase, a gastric phase, and an intestinal phase.
+Cephalic Phase. The cephalic phase of gastric secretion occurs even before food enters the stomach,
+especially while it is being eaten. It results from the sight, smell, thought, or taste of food, and the greater the
+appetite, the more intense is the stimulation. Neurogenic signals that cause the cephalic phase of gastric
+secretion originate in the cerebral cortex and in the appetite centers of the amygdala and hypothalamus. They
+are transmitted through the dorsal motor nuclei of the vagi and thence through the vagus nerves to the
+3
+
+
+=== PAGE 4 ===
+stomach. This phase of secretion normally accounts for about 30 percent of the gastric secretion associated
+with eating a meal. Acetylcholine is the primary chemical signal for stimulation of secretion from gastric
+parietal cells during the cephalic phase of digestive secretion.
+Gastric Phase. Once food enters the stomach, it excites (1) long vagovagal reflexes from the stomach to the
+brain and back to the stomach, (2) local enteric reflexes, and (3) the gastrin mechanism, all of which cause
+secretion of gastric juice during several hours while food remains in the stomach. The gastric phase of
+secretion accounts for about 60 percent of the total gastric secretion associated with eating a meal and
+therefore accounts for most of the total daily gastric secretion of about 1500 milliliters. Distention of the
+stomach and bathing the gastric mucosa with amino acids, peptides, and amines, are the effective stimuli of
+the gastric phase. Peptides and amino acids stimulate gastrin release from the G cells. Food will stretch
+stomach walls activating a neural reflex to stimulate acid secretion. Food also acts as a buffer, raising the pH
+and thus removing the stimulus for somatostatin secretion. Alkalinization of the antrum is important for acid
+secretion as it releases the G cells from the inhibitory influences of the somatostatin and increases acid
+secretion.
+Intestinal Phase. The presence of food in the upper portion of the small intestine, particularly in the
+duodenum, will continue to cause stomach secretion of small amounts of gastric juice, probably partly
+because of small amounts of gastrin released by the duodenal mucosa. This secretion accounts for about 10
+percent of the acid response to a meal. Neural reflexes and hormonal reflexes regulate this phase.
+Cholecystokinin (CCK), secretin, glucagon-like peptide-1 (GLP-1), and gastric inhibitory peptide (GIP) act
+as enterogastrones and inhibit acid secretion.
+Cellular basis of acid secretion
+The chemical mechanism of hydrochloric acid formation consists of the following three steps.
+(i) Water inside the parietal cell becomes dissociated into H+ and hydroxide (OH− ) in the cell cytoplasm. The
+H + is then actively secreted into the canaliculus in exchange for K+, an active exchange process that is
+catalyzed by H+ -K+ ATPase. Potassium ions transported into the cell by the sodium Na + -K + ATPase pump
+on the basolateral (extracellular) side of the membrane tend to leak into the lumen but are recycled back into
+the cell by the H+-K+ ATPase. The basolateral Na+-K+ ATPase creates low intracellular Na+, which
+contributes to Na + reabsorption from the lumen of the canaliculus. Thus, most of the K+ and Na+ in the
+canaliculus is reabsorbed into the cell cytoplasm, and hydrogen ions take their place in the canaliculus.
+(ii) The pumping of H+ out of the cell by the H+-K+ ATPase permits OH− to accumulate and form bicarbonate
+(HCO3−) from CO2 , either formed during metabolism in the cell or while entering the cell from the blood.
+This reaction is catalyzed by carbonic anhydrase. The HCO3− is then transported across the basolateral
+membrane into the extracellular fluid in exchange for chloride ions, which enter the cell and are secreted
+through chloride channels into the canaliculus, giving a strong solution of hydrochloric acid in the
+canaliculus. The hydrochloric acid is then secreted outward through the open end of the canaliculus into the
+lumen of the gland.
+(iii) Water passes into the canaliculus by osmosis because of extra ions secreted into the canaliculus. Thus,
+the final secretion from the canaliculus contains water, hydrochloric acid, potassium chloride, and a small
+amount of sodium chloride.
+Pancreatic secretions
+The pancreas, which lies parallel to and beneath the stomach, is a large compound gland, and most of its
+internal structure is similar to that of the salivary glands. The pancreatic digestive enzymes are secreted by
+pancreatic acini, and large volumes of sodium bicarbonate solution are secreted by the small ductules and
+larger ducts leading from the acini. The combined product of enzymes and sodium bicarbonate then flows
+4
+
+
+=== PAGE 5 ===
+through a long pancreatic duct that normally joins the hepatic duct immediately before it empties into the
+duodenum. Pancreatic juice is secreted most abundantly in response to the presence of chyme in the upper
+portions of the small intestine, and the characteristics of the pancreatic juice are determined to some extent
+by the types of food in the chyme. As chyme (partially digested food mixed with digestive secretions) floods
+into the small intestine from the stomach:
+• Acid must be quickly and efficiently neutralized to prevent damage to the duodenal mucosa.
+• Macromolecular nutrients must be broken down further before their monomers can be absorbed
+through the mucosa into blood.
+As an exocrine organ, pancreas plays a critical role in accomplishing both of these two objectives by
+producing bicarbonate and digestive enzymes. Ductule cells and centroacinar cells produce a large volume of
+watery secretion containing sodium (Na+) and HCO3- as its major constituents. Essentially all the proteins
+present in pancreatic juice are digestive enzymes. Various mechanisms as discussed during lecture protect the
+acinar cells from auto-digestion from proteases. As we know, the pancreas is also an endocrine organ and
+secretes insulin and glucagon that play a vital role in carbohydrate and lipid metabolism.
+Cellular mechanism for secreting sodium bicarbonate
+Carbon dioxide diffuses to the interior of the cell from the blood and, under the influence of carbonic
+anhydrase, combines with water to form carbonic acid (H2CO3). The carbonic acid dissociates into
+bicarbonate ions and hydrogen ions (HCO3− and H + ). Additional bicarbonate ions enter the cell through the
+basolateral membrane by co-transport with sodium ions (Na+ ). The bicarbonate ions are then exchanged for
+chloride ions (Cl − ) by secondary active transport through the luminal border of the cell into the lumen of the
+duct. The chloride that enters the cell is recycled back into the lumen by special chloride channels. The
+hydrogen ions formed by dissociation of carbonic acid inside the cell are exchanged for sodium ions through
+the basolateral membrane of the cell by secondary active transport. Sodium ions also enter the cell by cotransport with bicarbonate across the basolateral membrane. Sodium ions are then transported across the
+luminal border into the pancreatic duct lumen. The negative voltage of the lumen also pulls the positively
+charged sodium ions across the tight junctions between the cells. The overall movement of sodium and
+bicarbonate ions from the blood into the duct lumen creates an osmotic pressure gradient that causes osmosis
+of water also into the pancreatic duct, thus forming an almost completely isosmotic bicarbonate solution.
+Phases and regulation of pancreatic secretion
+Pancreatic secretion occurs in three phases: cephalic, gastric, and intestinal. During the cephalic phase,
+acetylcholine release is released by the vagal nerve endings in the pancreas. This signaling causes moderate
+amounts of enzymes to be secreted into the pancreatic acini, accounting for about 20 percent of the total
+secretion of pancreatic enzymes after a meal. During the gastric phase, the nervous stimulation of enzyme
+secretion continues, accounting for another 5 to 10 percent of pancreatic enzymes secreted after a meal.
+However, again, only small amounts reach the duodenum because of continued lack of significant fluid
+secretion. After chyme leaves the stomach and enters the small intestine, pancreatic secretion becomes
+copious, mainly in response to the hormone secretin.
+Three basic stimuli are important in causing pancreatic secretion: (i) Acetylcholine, (ii) cholecystokinin,
+which is secreted by the duodenal and upper jejunal mucosa when food enters the small intestine and (iii)
+secretin, which is also secreted by the duodenal and jejunal mucosa when highly acidic food enters the small
+intestine. Acetylcholine and cholecystokinin stimulate the acinar cells of the pancreas, causing production of
+large quantities of pancreatic digestive enzymes but relatively small quantities of water and electrolytes to go
+with the enzymes. Without the water, most of the enzymes remain temporarily stored in the acini and ducts
+until more fluid secretion comes along to wash them into the duodenum. Secretin stimulates copious
+secretion of bicarbonate ions, which neutralizes acidic stomach chyme.
+5
+
+
+=== PAGE 6 ===
+Note: In accordance with the ACCME Essentials and Standards, everyone involved in planning and
+presenting this CMSRU educational lecture has no relevant commercial relationships or conflicts of interest.
+There is no commercial support for this program. Instructional materials contained in this document may
+include copyrighted material. The copyright law of the U.S. (Title 17, United States Code) governs the
+making of photocopies or other reproductions of copyrighted material. Please do not reproduce, or transmit,
+any portion of this content. This is strictly for use within CMSRU class. This is posted only on the
+Blackboard which is protected by password. This is in compliance with fair use regulations.
+
+6
+

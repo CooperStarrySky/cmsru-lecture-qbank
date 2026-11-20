@@ -1,0 +1,1089 @@
+[00:00:00] All right, everybody, you wanna get started?
+[00:00:05] So as what always happens in Uh, in the ALGs,
+[00:00:09] you know, a lot of, you know, at the end
+[00:00:11] of the week, people start having more questions and a
+[00:00:13] lot of questions popped up, um, which is great because
+[00:00:16] you know what I always say, I want interaction.
+[00:00:18] I want you all to be thinking and asking questions.
+[00:00:21] Uh, the, the way that you learn is very interactive.
+[00:00:24] I actually have something else that I wanted to, I'm
+[00:00:26] a little mad at you guys about.
+[00:00:28] The very first ALG when I walked around on Monday,
+[00:00:32] I got to the end and I went to the
+[00:00:33] bathroom and I smiled and I had this big hunk
+[00:00:35] of food in my teeth.
+[00:00:37] And nobody said anything.
+[00:00:39] That's the interaction I'm talking about.
+[00:00:40] I wanna hear, look, I wanna hear if you're not
+[00:00:43] understanding a concept.
+[00:00:44] I wanna hear if, if you're just trying to flesh
+[00:00:48] something out.
+[00:00:48] That's the point of this.
+[00:00:49] This is how stuff becomes sticky and you learn.
+[00:00:52] Um.
+[00:00:53] And also, and there were 22 classes that I didn't
+[00:00:57] get it to that at the very end of the
+[00:00:59] ALG and that's because everybody else was asking a lot
+[00:01:01] of questions.
+[00:01:02] That's fine.
+[00:01:03] I'm always here, you can ask me anytime, any question.
+[00:01:06] Next week in ALG you can ask me the same
+[00:01:08] question.
+[00:01:08] So, um, we're around and we're, we're, we want you
+[00:01:12] to learn.
+[00:01:14] All right, we're gonna talk about GI motility.
+[00:01:16] Um, and it's a really big topic, and we're gonna
+[00:01:19] synthesize it down to the things that are important.
+[00:01:24] Um, a very long objective list, but basically, we're looking
+[00:01:29] at intrinsic and extrinsic innervation in the GI tract, much
+[00:01:31] as, as, as, uh, we've done with with, um, with
+[00:01:37] acid stimulation.
+[00:01:37] We're gonna talk about the neural innervations.
+[00:01:40] We're gonna review the physiology of oesophageal motility.
+[00:01:44] We're also gonna be talking about a migrating motor complex
+[00:01:46] and the wonderful interstitial cells of Cajal.
+[00:01:49] We're talking about dysphagia, both orpharyngeal and esophageal.
+[00:01:53] We're looking at a lot of oesophageal motility, and we're
+[00:01:55] gonna talk about these really because these are very well
+[00:01:59] defined in GI, so they might not be the most
+[00:02:01] common things, but these are things that are actually tested
+[00:02:03] on in boards because we understand them really well.
+[00:02:07] We're gonna be talking about the pharmacology.
+[00:02:09] Once again, when we talk about pharmacology, there's a ton
+[00:02:12] of medications, right?
+[00:02:14] I'm always interested in why it's used, what the mechanism
+[00:02:18] is, and the main side effect profile.
+[00:02:21] Remember, we're talking about this as we go through, and
+[00:02:23] then we, we give you mid-course, we give you, uh,
+[00:02:26] pharmacology lectures to reinforce this.
+[00:02:29] So, pharmacology is always really important.
+[00:02:31] Sometimes it's difficult to kind of weave it into a
+[00:02:33] course, but that's how we've kind of constructed it.
+[00:02:36] And really that, from feedback from past years.
+[00:02:39] Um, So, once again, we're talking about neuroanatomy.
+[00:02:43] I showed you a slide similar to this, which was
+[00:02:46] of the esophagus.
+[00:02:46] It was a, a, a, a transsection of the esophagus
+[00:02:50] vertically.
+[00:02:51] This is a cross-sectional image.
+[00:02:53] All the GI tract has the same sort of, of
+[00:02:56] anatomy.
+[00:02:57] Remember how I said the difference is, in the rest
+[00:02:59] of the GI tract, there's a cirrhosis, in the esophagus,
+[00:03:02] there's an adventitia.
+[00:03:03] This slide is important because we're really looking at the
+[00:03:06] neural anatomy, right?
+[00:03:08] We're looking at Meisner's.
+[00:03:09] I will never use Meisner's in Auerbs, but you will
+[00:03:12] see them.
+[00:03:13] I will always use a submucosal, because that's where it
+[00:03:16] is, it's in the submucosa, or my enteric, because it's
+[00:03:20] between the muscle layers.
+[00:03:24] And this is just a slide that looks at the
+[00:03:26] deeper versions of this, or or or a a closer
+[00:03:29] version of it.
+[00:03:30] What do you think the submucosal plexus does, and what
+[00:03:33] does the my enteric plexus do?
+[00:03:35] Like teleologically, it, it, it came about that way and
+[00:03:39] for, for certain reasons.
+[00:03:43] Well, the submucosal plexus is really closer to the mucosa,
+[00:03:48] so it has more to do with with secretion and
+[00:03:51] absorption, depending on the part of the GI tract.
+[00:03:54] The myanteric plexus sits in between the, the, the two
+[00:03:57] muscle layers, so it's more has to do with motor
+[00:03:59] activity.
+[00:04:00] It doesn't mean there's overlap, but if you think about
+[00:04:02] it, it kind of makes sense in that way.
+[00:04:06] This is really just a slide that kind of summarizes
+[00:04:10] what I said, a note slide.
+[00:04:11] I'll talk about this more in a minute, where um
+[00:04:15] there's very few places within the GI tract where you
+[00:04:17] have skeletal muscle, the upper upper third of the esophagus,
+[00:04:21] and also the external anal anal sphincter.
+[00:04:24] Everything else is smooth muscle in the GI tract.
+[00:04:28] So, that was kind of the first slide was really
+[00:04:31] the intrinsic, right?
+[00:04:32] Meaning it's located within the GI tract, and this is
+[00:04:36] the extrinsic, right?
+[00:04:37] So once again, we talk about sympathetic parasympathetic and sympathetic.
+[00:04:42] So they're different, obviously.
+[00:04:45] The parasympathetics are primarily uh involved in, in they're excitatory
+[00:04:50] neurons, or excitatory in nature, and that they get the
+[00:04:53] GI tract moving, and the sympathetic is inhibitory, usually within
+[00:04:58] the GI tract.
+[00:04:59] The parasympathetic, it originates in the medulla oblongata at the
+[00:05:04] vagal dorsal complex, also in the spine in the sacral
+[00:05:07] spinal cord, S1 through S5.
+[00:05:10] And these two areas have very long pre-ganglionic fibers and
+[00:05:15] make their very first synapse on the end organ, on
+[00:05:18] the, on the submucosal and myoeric uh plexuses.
+[00:05:22] That's as compared to the sympathetic, which originates uh in
+[00:05:26] the thoracolumbar region, and that's, you, you'll see different places,
+[00:05:30] but it's T8 through L2, about, and basically these have
+[00:05:35] shorter Pre-ganglionic synapses, here we go.
+[00:05:40] Um, so their, their pre-ganglionic fibers go here, and they
+[00:05:44] make their first synapse in the pre-vertebral ganglia, the celiac,
+[00:05:48] superior mesenteric, and inferior mesenteric ganglia.
+[00:05:51] And then their post-cholinergic or their their post-synaptic fibers go
+[00:05:55] down to the end organ, the myenteric and, and uh
+[00:05:59] submucosal plexuses.
+[00:06:02] this is basically everything that I just said.
+[00:06:05] Um, and this is a honed down version of it.
+[00:06:07] So now we're at the, once again, the sympathetic, which
+[00:06:10] is, which is post-ganglionic cause they've already made their first
+[00:06:13] symp their first synapse, and the, uh, parasympathetic which are
+[00:06:17] pre-ganglionic, which make their first synapse here in the my
+[00:06:20] enteric and submucosal plexuses.
+[00:06:25] Also in the GI tract, there are areas where you
+[00:06:28] have tonic contractions.
+[00:06:29] We've already talked about one of them.
+[00:06:30] We've talked about the lower esophageal sphincter.
+[00:06:33] Right, tonically contracted from those myogenic properties of of those
+[00:06:37] muscles themselves.
+[00:06:38] You also have the same with the sphincter of Oddi,
+[00:06:41] and that's the outlet of the bile duct into the
+[00:06:44] small bowel.
+[00:06:44] There's a, there's a sphincter right there, and that is
+[00:06:47] tonically contracted and opens at certain times.
+[00:06:50] Uh, the uh, the ileocecal sphincter, which is the outlet
+[00:06:53] of the small bowel into the stomach, and the internal
+[00:06:57] anal sphincter, all tonically contracted.
+[00:07:02] Additionally, you have phasic contractions.
+[00:07:04] You have some phasic contractions in the esophagus, but more
+[00:07:06] prominently in the stomach, in the small intestines, and the
+[00:07:10] large intestines.
+[00:07:11] Uh, and these are governed a little bit differently, but
+[00:07:15] they are phasic means they happen usually over a period
+[00:07:18] of time, with a certain frequency during the day, which
+[00:07:20] we'll talk about.
+[00:07:23] Uh, this is more of a physiology slide, but it
+[00:07:25] makes a lot of sense, and it's something to understand,
+[00:07:29] particularly when you're understanding, uh, the external imports, so the
+[00:07:33] external innovations like the sympathetics and the parasympathetics.
+[00:07:37] So, You have these resting slow waves, these oscillating membranes,
+[00:07:42] right?
+[00:07:42] And their membrane potential is usually about 50 millivolts.
+[00:07:47] So that's what happens.
+[00:07:48] These are not, these are not contractions, these are not
+[00:07:51] action potentials.
+[00:07:52] The action potentials happen on top of these, and you,
+[00:07:57] it's harder to have an action potential originating from here
+[00:07:59] than it is from here, right?
+[00:08:01] But what happens is, so they exist in all portions
+[00:08:04] of the GI tract, throughout the GI tract.
+[00:08:07] They exist in different portions in different or in different
+[00:08:12] frequency, um, that create different kind of contractions in different
+[00:08:17] parts of the GI tract.
+[00:08:18] So the stomach is anywhere from 3 to 5 contractions
+[00:08:21] a minute.
+[00:08:22] In the small bowel, it's up to 12.
+[00:08:24] So this changes throughout.
+[00:08:26] And it's also regulated by the external processes, like the
+[00:08:32] parasympathetics, what they will do is they will depolarize a
+[00:08:36] little bit more.
+[00:08:37] So it makes it more likely to have an action
+[00:08:40] potential, it makes it more likely to have a contraction,
+[00:08:42] right?
+[00:08:43] So, things like the parasympathetics will do that.
+[00:08:46] So also some local things, some stretch.
+[00:08:48] Right, so food's in there and it stretches it, it
+[00:08:51] will cause a it will cause a a a depolarization,
+[00:08:54] and more likely that you're gonna have a contraction of
+[00:08:57] a muscle.
+[00:08:58] And conversely, The sympathetics will cause a hyper polarization, right?
+[00:09:04] Because it will make it a lot harder for this
+[00:09:07] to stimulate an action potential, a spike, than it does
+[00:09:11] when it's in a parasympathetic state, and that makes a
+[00:09:12] lot of sense, because when you're, you're, you're running from
+[00:09:15] a predator, you're not thinking about digestion, your body's diverting
+[00:09:18] blood to a different place to do different things, that
+[00:09:21] really doesn't care about digestion.
+[00:09:25] So this is basically everything that I said.
+[00:09:29] Um, oropharyngeal motility.
+[00:09:31] So, it falls outside and within GI.
+[00:09:35] Uh, we work a lot with the ear, nose, and
+[00:09:37] throat doctors, cause obviously, these systems are connected, and we've
+[00:09:42] just kind of made these, these human boxes where we
+[00:09:44] kind of think about them.
+[00:09:46] Um, but when you're talking about oropharyngeal, um, you're really
+[00:09:50] talking about ENT, but basically what happens is you, you
+[00:09:55] have food, it gets lubricated, mixed with saliva, and then
+[00:09:58] when you start to swallow, there's a reflex that's coordinated
+[00:10:01] in, um, in the medulla, and it's through the vagus
+[00:10:05] nerve, 10, and the glossopharyngeal 9.
+[00:10:08] And basically what happens is the nasopharynx closes, so you
+[00:10:12] can't breathe and swallow at the same time, different pipes.
+[00:10:16] And once the nasopharynx closes, the, the laryngeal muscles contract,
+[00:10:21] and it closes the glottis, and basically elevates the larynx.
+[00:10:25] And then, at that point you have uh oropharyngeal peristalsis,
+[00:10:30] and it just kind of pushes food into the back
+[00:10:32] of the of the pharynx, and then at the same
+[00:10:35] time, the upper esophageal sphincter will open, and that initiates
+[00:10:37] a swallow, and that's all that this swal this is
+[00:10:39] this is showing you, right?
+[00:10:41] You see here, and all of a sudden the, the,
+[00:10:43] the breathing apparatus is is closed, you, the, the larynx
+[00:10:48] raises, the food penetrates into the upper esophageal sphincter, and
+[00:10:50] the swallow then goes down into the esophagus.
+[00:10:56] Once again, this is one of the places where you
+[00:10:59] have skeletal muscle, right?
+[00:11:02] The upper third of the esophagus is skeletal muscle, the
+[00:11:06] lower third is smooth muscle, all the way down to
+[00:11:09] the external sphincter, anal sphincter.
+[00:11:12] And I put here, you we're gonna talk about this
+[00:11:14] a little bit, but there's things that tend to affect
+[00:11:17] more of the skeletal muscles, something like Uh, polymyositis or
+[00:11:21] myasthenia gravis, as compared to, uh, something like alagia, which
+[00:11:26] is primarily the smooth muscle.
+[00:11:28] This is not hard and fast, these are generalizations, uh,
+[00:11:31] such as scleroderma can affect also the skeletal muscle.
+[00:11:38] Once the food goes through the upper esophageal sphincter, that's
+[00:11:41] what the UES is, it contracts, and then you have
+[00:11:45] a primary peristalsis of the esophagus pushing the food down,
+[00:11:48] you have a secondary peristalsis to help clear the remaining
+[00:11:52] food that's in there.
+[00:11:54] And then you will get relaxation.
+[00:11:57] Actually you get when the upper esophageal sphincter uh immediately
+[00:12:00] opens, the lower esophageal sphincter opens too, because it makes
+[00:12:04] sense if, if you're then putting a bunch of food
+[00:12:07] in, you want it to not have the back pressurized,
+[00:12:09] right?
+[00:12:10] So the lower esophageal sphincter will open, and the food
+[00:12:12] bowls will go through, and we'll look at some of
+[00:12:14] this on some of the motility studies, you'll see this
+[00:12:17] in in in action.
+[00:12:20] When we think about the stomach, remember I said the
+[00:12:23] stomach is kind of two organs in a way, the
+[00:12:25] AA region, right?
+[00:12:26] Closer to the top portion, is really something where there's
+[00:12:31] a reflex there that's called receptive relaxation and and it's
+[00:12:34] uh it's a vagal mediated.
+[00:12:38] Um, reflex, and basically what happens is when you eat,
+[00:12:41] the, the body and fundus really dilate and make like
+[00:12:44] a bag to receive the food.
+[00:12:47] And then in the antrum and distal body in the
+[00:12:50] caudad region, its primary purpose is to mix and grind,
+[00:12:54] and that's where you're gonna get a lot of these,
+[00:12:56] these slow waves which turn into action potentials anywhere from
+[00:12:59] 3 to 5 times a minute.
+[00:13:00] It needs to grind the grind the food down, and
+[00:13:03] really has to grind it very small in a small
+[00:13:06] way to get through the pylorus.
+[00:13:08] And, you know, the contractions here are mediated when the
+[00:13:11] parasympathetics are up, and the sympathetics are are not as
+[00:13:14] active.
+[00:13:18] Additionally, with motility, we think about what's in the the
+[00:13:22] stomach that that has to go through.
+[00:13:26] And these are, these are um neurally mediated, uh, hormonally
+[00:13:31] mediated.
+[00:13:32] We know that liquids, They exit the stomach uh in
+[00:13:37] an exponential manner.
+[00:13:38] Liquids are easy, you don't have to grind it up
+[00:13:40] as much, right?
+[00:13:41] So if you're just drinking a glass of juice, that
+[00:13:43] will go through a lot faster than if you eat
+[00:13:45] a solid meal, like a hamburger.
+[00:13:48] It's got a lot of different things in it, a
+[00:13:49] lot of different nutrients.
+[00:13:50] So, liquids, when the volume goes up, you empty faster,
+[00:13:54] but if it's a nutrient density is high, like let's
+[00:13:57] say you're drinking a protein shake as compared to a
+[00:13:59] glass of water, that's gonna take longer to empty.
+[00:14:02] And then there's intraduodenal factors, you know, the duodenum communicates
+[00:14:05] with the stomach stomach, not only for acid, but also
+[00:14:08] for emptying.
+[00:14:09] So when the volume goes up in the duodenum, it
+[00:14:11] tells the stomach to slow down.
+[00:14:13] If you have a high fat content, it tells tells
+[00:14:16] the stomach to slow down.
+[00:14:17] If you have high acidity, it tells it to slow
+[00:14:19] down, and if the osmolarity is high, it tells it
+[00:14:21] to slow down.
+[00:14:22] So it makes a lot of sense, it gives the
+[00:14:23] body a chance to do what it's supposed to do,
+[00:14:25] which is break that down, break that food down, so
+[00:14:27] it's digestible and absorbable.
+[00:14:33] There's something I, I mentioned, the migrating motor complex.
+[00:14:37] Um, this is a very interesting, uh, Entity within the
+[00:14:42] GI tract.
+[00:14:43] Uh, this is, um, it's basically something that happens about
+[00:14:47] every 90 minutes.
+[00:14:48] We call it the housekeeper of the GI tract because
+[00:14:51] what it does is it creates these mass movements.
+[00:14:55] So, you see that in In phase one, you just
+[00:15:01] start to see some action.
+[00:15:03] This is, these are, this is small bowel motility, and
+[00:15:06] what it's measuring is pressures, and you see there's not
+[00:15:09] a lot of activity here.
+[00:15:11] And then in phase two, it starts to get more
+[00:15:13] activity and coordinated, and then in, in phase 3, it's
+[00:15:16] the actual contraction, and basically it's mass moving food from
+[00:15:20] one location, the upper GI tract, down towards the lower
+[00:15:23] GI tract.
+[00:15:25] So, it's the housekeeper, it occurs about every 90 minutes,
+[00:15:28] it propagates food through or or what you're digesting through
+[00:15:32] the GI tract, and it's regulated by the hormone moti
+[00:15:35] motillin, and we're gonna talk about why motillin is important
+[00:15:39] in a in a little bit.
+[00:15:41] And then there's this phase 4 where everything is super
+[00:15:44] quiet, and it's just resting again.
+[00:15:46] So this happens every 90 minutes or so, and it
+[00:15:49] happens generally segmentally at different portions, which are coordinated to
+[00:15:52] kind of get stuff from the top of the GI
+[00:15:55] tract down to the bottom of the GI tract.
+[00:15:58] When you're dealing with a small intestinal motility, we're also
+[00:16:01] dealing with with local factors, where there are segmental contractions,
+[00:16:06] different portions of the small bowel will contract segmentally, and
+[00:16:10] then there's also these peristaltic waves that might not be
+[00:16:12] part of that MMC, that migrating motor complex.
+[00:16:16] And that helps do peristalsis, and these are more locally,
+[00:16:19] but it just basically pushes the contents further along.
+[00:16:23] Additionally, There are other reflexes, there's the gastroileal reflex.
+[00:16:28] So when food enters the stomach, um, it triggers the
+[00:16:32] ileal sphincter to open and let contents pass into the
+[00:16:36] colon.
+[00:16:37] So once again, you have the stomach a far distance
+[00:16:40] away from the ileocecal valve, but they are communicating.
+[00:16:42] And then you have something that's called the ileal brake.
+[00:16:45] When you get food in the ileum, it slows gastrointestinal
+[00:16:48] motility, tells the stomach to slow down.
+[00:16:50] These are all in conjunction and happening at the same
+[00:16:53] time and well coordinated, and you get dys motility when
+[00:16:56] these systems kind of get out of whack.
+[00:16:58] Um, but this ileal break is mediated by the by
+[00:17:01] a peptide YY.
+[00:17:03] So you're noticing, I'm telling you, all these different facets
+[00:17:07] that go into the motility.
+[00:17:09] Whether or not we're talking about sphincters, we're talking about
+[00:17:11] these reflexes, uh, you know, obviously it's a complex system.
+[00:17:17] And now when we get to the large intestine, the
+[00:17:19] large intestine, uh, has something that, that is slightly different
+[00:17:24] than a migrating motor complex, but it has these mass
+[00:17:26] movements, about 3 times a day, which just kind of
+[00:17:29] pushes everything along.
+[00:17:31] Um, and, and when we think about the colon, the
+[00:17:34] colon is really responsible primarily for water absorption, although there's
+[00:17:37] some nutrient absorption, um, but, but that's the primary function
+[00:17:41] of the colon, and the further along it goes within
+[00:17:44] the colon, the more water it absorbs.
+[00:17:46] And, uh, and the more solid your stool becomes.
+[00:17:50] You have these sack-like things that are called haustra, that's
+[00:17:53] what these things are, and basically the contents get caught
+[00:17:57] in there and kind of get moved around, um, and,
+[00:18:01] uh, once again, like I said, as, as it progresses
+[00:18:03] through the colon, you have more water absorption.
+[00:18:06] And the, the stools turn solid.
+[00:18:09] So when you think about the colon, just like the
+[00:18:11] small bowel, it has peristalsis, it also has reverse peristalsis,
+[00:18:14] where food will go backwards, and they, they, you know,
+[00:18:17] absorb more water and nutrients.
+[00:18:19] It also, the colon has something that's called the transverse
+[00:18:22] colon, which hangs down, and you get these kind of
+[00:18:24] pendular movements, which, which help with the absorption, that goes
+[00:18:28] back and forth, and like I said, you get these
+[00:18:30] kind of this mass peristalsis 3 times a day, which
+[00:18:33] will push food along.
+[00:18:35] Interestingly, you know, this, this shows you the, the left
+[00:18:38] column.
+[00:18:39] Um, there is something that I didn't talk about, I
+[00:18:42] think I talked about it in the next slide, but
+[00:18:43] it's called the gastrocolic reflex.
+[00:18:45] So, If you're thinking about the anatomy, I don't have
+[00:18:49] the picture here, but if you're thinking about the anatomy,
+[00:18:52] the stomach is actually right here.
+[00:18:54] When you take food in.
+[00:18:57] The stomach expands, and it touches on that splenic flexure,
+[00:19:01] and it says, empty, because there's more food coming.
+[00:19:05] Uh, it's called the gastrocolic reflex.
+[00:19:07] So some people have, will say, I, I ate, and
+[00:19:10] I immediately go to the bathroom.
+[00:19:11] It's not what they just ate, it's because of this
+[00:19:13] reflex is, is a little exaggerated.
+[00:19:18] Um, When you, when you, uh, have about you, you,
+[00:19:24] you, you have the urge to defecate when your rectum
+[00:19:26] is about 25% full, and you have this recto sphincteric
+[00:19:29] reflex, so the rectum fills with feces, and it contracts,
+[00:19:33] and it's it's telling your body to push it out,
+[00:19:35] but you know that Um, well, the internal anal sphincter
+[00:19:39] relaxes, but what you know is that you don't necessarily
+[00:19:42] need to go to the bathroom.
+[00:19:43] You can have the urge to go to the bathroom,
+[00:19:44] but you can control it, and that's with that with
+[00:19:47] that skeletal muscle in the external anal sphincter, cause you
+[00:19:50] can contract that and, and prevent a bowel movement.
+[00:19:53] I'm doing it right now.
+[00:19:58] Some of you are too.
+[00:20:00] And I mentioned the gastrocolic reflex, right?
+[00:20:02] That's the one where, you know, the, the, the the
+[00:20:06] stomach touches the, the left colon, and it tells it
+[00:20:09] to expel.
+[00:20:13] I'm still doing it.
+[00:20:14] No, I'm not.
+[00:20:15] All right.
+[00:20:17] So, that's a general overview.
+[00:20:20] Obviously, we could spend weeks talking about this.
+[00:20:23] We're not.
+[00:20:23] These are the things that I think are important for
+[00:20:26] your understanding of how the system works, when we start
+[00:20:28] talking about pharmacology, why it makes sense.
+[00:20:31] So, let's talk about the some disorders of, of the
+[00:20:35] esophagus.
+[00:20:35] We're gonna talk about two main disorders.
+[00:20:37] There are motility disorders throughout the GI tract, small bowel,
+[00:20:41] colonic, gastric esophageal.
+[00:20:43] We're gonna be focusing on the esophagus and the stomach.
+[00:20:47] These are the more common.
+[00:20:48] This is certainly the more commonly tested in, in like
+[00:20:51] board style questions, just because we know a lot about
+[00:20:54] them.
+[00:20:56] So, there are upper esophageal stride and skeletal muscles, and
+[00:21:01] they affect the the oropharynx, so these are oropharyngeal dysphagia.
+[00:21:07] Um, I said that that there are certain disease processes
+[00:21:11] such as like Parkinson's, multiple sclerosis, stroke, where these are
+[00:21:14] much more common.
+[00:21:16] It's important to tease out what is what, right?
+[00:21:19] Oropharyngeal disorders typically will have people will have problems when
+[00:21:24] they're eating, and oftentimes makes people cough, whatever it might
+[00:21:29] be, um, and these are controlled by us.
+[00:21:34] Uh, they happen when some of these nerve systems don't
+[00:21:36] work as well.
+[00:21:38] Um, and it's easy to differentiate in the office, because
+[00:21:42] when somebody comes in and they, they, they don't say
+[00:21:45] they have dysphagia, but they say they have trouble swallowing,
+[00:21:47] I try to flesh it out because it, it, it
+[00:21:49] tells me which area I'm gonna go for to figure
+[00:21:52] it out, what kind of test I'm going to do.
+[00:21:55] And for somebody with oropharyngeal dysphagia, typically I will say,
+[00:21:59] particularly if they have something like Parkinson's or multiple sclerosis,
+[00:22:02] or some, some sort of predisposing factor, I'll give them
+[00:22:04] a glass of water and I'll say, here, drink it.
+[00:22:06] And if they cough, I know what it is, right?
+[00:22:09] That's oropharyngeal dysphagia.
+[00:22:11] That's very different from when it's below the the upper
+[00:22:14] esophageal sphincter, that presents differently, that presents with with esophageal
+[00:22:18] dysphagia where they feel like something is stuck in here.
+[00:22:21] So that difference, meaning this area, that suprasternal notch, kind
+[00:22:26] of really defines where it is, and then a simple
+[00:22:29] testing in the office helps you figure it out.
+[00:22:32] Uh, I mentioned that these diseases generally don't affect, and
+[00:22:35] I say generally don't affect the smooth muscle because there
+[00:22:38] are some like scleroderma which will.
+[00:22:41] Um, affect both the smooth muscle and the skeletal muscle.
+[00:22:45] So now we're into the esophagus, and this, this is
+[00:22:49] esophageal dysphagia, and there's a whole category of this stuff.
+[00:22:52] I'm gonna go over this stuff, and I'm gonna tell
+[00:22:54] you, I'm not I want you to understand it, but
+[00:22:57] I'm not interested in the details, per se.
+[00:23:00] I want you to understand the different processes, and I
+[00:23:03] want you to understand some of them a little bit
+[00:23:05] more significantly, and I'll make that abundantly clear.
+[00:23:08] But these all cause esophageal dysphagia, and there's things like
+[00:23:11] inadequate relaxation of the lower esophageal sphincter, that's alagia.
+[00:23:16] Or there's an uncoordinated contraction, DES stands for distal esophageal
+[00:23:21] spasm, spasm is what we call it.
+[00:23:24] Uh, hypercontraction, great names, Nutcracker and Jackhammer, but these are
+[00:23:28] basically hyper hypercontractile.
+[00:23:31] And hypocontractile, which is the most common, which is ineffective
+[00:23:34] esophageal motility.
+[00:23:35] So, hypocontractile is just you don't get a lot of
+[00:23:38] pressures in there.
+[00:23:40] That that that propagate your food bolus.
+[00:23:44] So, this is an esophageal manometry, and basically it's a
+[00:23:48] tube that goes in the nose down into the stomach.
+[00:23:51] It's not a comfortable test, it's something we use a
+[00:23:54] lot.
+[00:23:55] And this is what we call high high resolution esophageal
+[00:23:57] manometry.
+[00:23:58] This is the upper esophageal sphincter, this is the lower
+[00:24:01] esophageal sphincter, and this is top to bottom, the top
+[00:24:04] of the esophagus is contracting over time, right?
+[00:24:07] So, remember how I said the upper esophageal sphincter, when
+[00:24:10] it relaxes?
+[00:24:11] So does the lower esophageal sphincter.
+[00:24:13] The blues are the lower pressures, the reds are the
+[00:24:17] higher pressures.
+[00:24:18] So, if you imagine you do a swallow, it opens
+[00:24:22] up, so this doesn't pan pressurize the lower esophageal sphincter
+[00:24:24] opens up to let food go through.
+[00:24:27] So this is what a manometry looks like.
+[00:24:28] We use it preoperatively, we use if somebody has non-cardiac
+[00:24:32] chest pain, cause you can, you can hear, you can
+[00:24:34] find spasm.
+[00:24:36] Uh, it also is helpful for reflux to tell you
+[00:24:39] whether or not you're, you're propagating stuff down, cause sometimes
+[00:24:42] reflux is more of a dysmotility disorder, even though the
+[00:24:45] symptoms can, since the symptoms can overlap.
+[00:24:48] And sometimes if you're ever operating on somebody, you're doing
+[00:24:51] an anti-reflux surgery, or operating around the, the lower esophageal
+[00:24:55] sphincter, you wanna know that the surgery that you're, you're
+[00:24:59] gonna do isn't gonna make them worse.
+[00:25:01] Because if they have no contraction in the esophagus and
+[00:25:04] you do something like a reflux surgery, Meaning you take
+[00:25:07] the top of the stomach and you twist it around
+[00:25:09] and you make a nice tight zone.
+[00:25:11] Well, now they don't have any ability to swallow, they,
+[00:25:13] they don't have any contractions in here, and now you've
+[00:25:16] made that area tighter.
+[00:25:17] So these are reasons why we do this testing.
+[00:25:21] Remember how I talked about this area, remember the sling
+[00:25:23] and clasp fibers, and this is really a manometry, this
+[00:25:27] is old school, but this is basically the same thing.
+[00:25:30] It's a, these are pressure pressure catheter spaced throughout the
+[00:25:33] esophagus, and what you see is it propagates.
+[00:25:36] This is the top of the esophagus, and through time
+[00:25:38] it goes to the lower esophagus, and what you see
+[00:25:40] is that lower esophageal sphincter relaxing at the same time.
+[00:25:45] So one of the disease processes is called alagia.
+[00:25:48] This gets a lot of play.
+[00:25:49] It's not super common.
+[00:25:50] It's a 1 in 100,000 people, it's not super common,
+[00:25:53] but what it means is failure to relax, and uh
+[00:25:57] this is a scope that's looking down, and that's the
+[00:26:01] lower esophageal sphincter, that's really tight.
+[00:26:03] Um, this is a scope in the stomach looking back
+[00:26:07] up at that sphincter, and that's also really tight.
+[00:26:10] You wouldn't know that, I wouldn't expect you to know
+[00:26:12] that, but this is generally what it looks like.
+[00:26:14] When we do barium swallows, what you see, you'll hear
+[00:26:17] the term bird beak.
+[00:26:19] Particularly with these, because what happens is, it, that lower
+[00:26:23] esophageal sphincter is so tight that the, the contrast that
+[00:26:26] goes through there is very, you know, it's narrowed, so
+[00:26:30] that's what it looks like, and this is a sigmoid
+[00:26:32] esophagus.
+[00:26:33] So when somebody has a really long term alagia and
+[00:26:36] that last part is super tight, the esophagus, because of
+[00:26:40] back pressure just starts to dilate and and turn into
+[00:26:42] like a sigmoid.
+[00:26:44] And right, that's the bird beak.
+[00:26:45] So bird beak is one of those things that you
+[00:26:47] might see in a question.
+[00:26:49] When you see bird beak, it suggests a colasia.
+[00:26:53] Once again, this is just uh an old tracing of
+[00:26:55] what it would show.
+[00:26:57] In addition to this area not relaxing, you'd also get
+[00:27:00] no contractions in the esophageal body cause it dilates and
+[00:27:02] those nerves burn out.
+[00:27:04] Oh, and one thing I wanted to point out is,
+[00:27:06] the key of the diagnosis is that low that lower
+[00:27:11] esophageal sphincter, it doesn't relax, and I'm gonna show you
+[00:27:14] what I mean by that.
+[00:27:15] Let me see if I can go back one more.
+[00:27:20] Now, go forward.
+[00:27:21] Um, so, that's the key is that lower esophageal sphincter
+[00:27:25] does not relax.
+[00:27:26] This is what alagia looks like, one of the patterns
+[00:27:29] that it looks like, and I'm not, you can't see
+[00:27:32] it, but what you, but, but I'm telling you that
+[00:27:35] this area is not relaxing if you measure what the
+[00:27:37] pressures are, that's the lower esophageal sphincter.
+[00:27:40] And because the body doesn't work, cause those nerve burn
+[00:27:42] nerve nerves burn out, you, you can kind of see
+[00:27:45] this kind of pan pressurization, but that's what what it
+[00:27:48] might look like.
+[00:27:49] So it's a motor disorder, primarily the smooth muscle.
+[00:27:53] Uh, I pointed to those, to the, uh, sling and
+[00:27:56] class fibers a minute ago.
+[00:27:58] Why?
+[00:27:58] Because this is where those, the, uh, neurotransmitters come, come
+[00:28:03] into play.
+[00:28:04] So, in the lower esophageal sphincter, remember, this is why
+[00:28:07] I mentioned it earlier.
+[00:28:08] Remember how I said the sling fibers deal with acetylcholine
+[00:28:12] and less acetylcholine to relax, and the class fibers deal
+[00:28:16] with acetylcholine for the tonic contraction and relax with nitric
+[00:28:19] oxide.
+[00:28:20] Well, lo and behold, yagia.
+[00:28:22] Really hits the nitric oxide, that, that neurotransmitter more, we
+[00:28:27] don't know why, but basically what that leaves is a
+[00:28:30] tonically contracted lower esophageal sphincter, which has a lot of
+[00:28:33] acetylcholine there.
+[00:28:35] So, our, our treatments are aimed at at trying to
+[00:28:39] get rid of this, but, and I'll talk about the
+[00:28:42] medications in a minute, but because of that loss, primarily
+[00:28:45] the nitric oxide, the LES is tonically contracted, and these
+[00:28:48] people will get dysphagia, chest pain, and regurgitation, oftentimes say,
+[00:28:52] I have reflux, but when you kind of really look
+[00:28:55] and then start to test, what you're seeing is that
+[00:28:57] it's not actually reflux, it's just stuff that has never
+[00:28:59] gone down into the stomach.
+[00:29:02] And sometimes if stuff sits in there, believe it or
+[00:29:04] not, stuff can sit in there for days, um, it
+[00:29:08] can kind of ferment and have an acidic taste, but
+[00:29:10] these people don't get better when you put them on
+[00:29:11] PPI therapy, because it has nothing to do with gastric
+[00:29:14] acid.
+[00:29:17] Uh, we don't know what causes it, you know, somebody
+[00:29:20] in one of the ALGs brought up Chagas disease, right,
+[00:29:23] by the trapanosoma cruzi.
+[00:29:25] I deal with Aylaia all the time.
+[00:29:26] I've never once seen this, but it has a whole
+[00:29:29] other host of, of problems, pulmonary conditions, cardiomyopathy, but that's
+[00:29:35] one of the things that we know of.
+[00:29:36] There's always thought that it's autoimmune when they do testing
+[00:29:39] and you do biopsies, you, you see these myoeric antibodies
+[00:29:43] found, viral is always a possibility.
+[00:29:45] We don't know what it is.
+[00:29:46] Like I said, it's not very common, about 1 in
+[00:29:49] 100,000, uh, male, female equal.
+[00:29:54] I see it in patients as young as early teens
+[00:29:58] to 80.
+[00:30:00] So you could see it at any time, primarily it's
+[00:30:02] between the ages of 25 and 60.
+[00:30:04] They can get other things, like, one of the things
+[00:30:06] they can get is squamous cell, squamous cell, not adeno,
+[00:30:10] but squamous cell carcinoma.
+[00:30:12] And the reason they get that is because the food
+[00:30:14] sits in there and it ferments.
+[00:30:16] And that is, is caustic to the esophagus.
+[00:30:20] So these people I generally will screen a little bit
+[00:30:22] more.
+[00:30:24] Uh, I also mentioned up there as one of the
+[00:30:26] etiologies is secondary, meaning that my manometry test can't tell
+[00:30:32] the difference of what's obstructing them, that could be a
+[00:30:34] tumor.
+[00:30:35] So with all these people, you have to go in
+[00:30:37] and rule out what we call a pseudoacalagia, meaning something
+[00:30:40] obstructing that area, like a tumor.
+[00:30:43] Because that's super important.
+[00:30:44] But you see that the list is long, I don't
+[00:30:47] care about that list so much, just understand that there
+[00:30:50] are a lot of different things that will cause uh
+[00:30:52] uh alagia, which is not alagia, it's a secondarily mediated
+[00:30:57] process.
+[00:30:59] I mentioned nitric oxide and acetylcholine, one of the treatments,
+[00:31:03] so, nitrates, they are, they are, um, uh, nitric oxide
+[00:31:09] donors, so you have more nitrates around, and they can
+[00:31:11] help relax, uh, that lower esophageal sphincter.
+[00:31:14] Calcium channel blockers, they, they block the calcium, which is
+[00:31:17] important for, for generating actual, uh, you know, muscle contractions.
+[00:31:22] Um, so, if you have a calcium channel blocker, you
+[00:31:24] have less calcium, and that can relax the, the, the
+[00:31:26] smooth muscle.
+[00:31:28] Botox, this is interesting, Botox.
+[00:31:30] It's not the grade of Botox that you use on
+[00:31:32] the face, it's a different grade of Botox, so people
+[00:31:34] when they ask, can I have some?
+[00:31:36] I say no, generally, it's mine, um, but what Botox
+[00:31:42] does, so this is how it normally works, you have
+[00:31:43] these snap and snare proteins, they connect the synaptic vesicle,
+[00:31:47] uh, to the synaptic cleft, and they release acetylcholine.
+[00:31:51] What Botox does, which is a naturally occurring substance in
+[00:31:55] nature, is they've taken it and they If you inject
+[00:31:57] Botox in that area, basically what it does is it
+[00:31:59] disrupts the snap and snare, so the synaptic vesicle never
+[00:32:02] gets released, so you have less acetylcholine relative to the
+[00:32:06] remaining uh nitric oxide, and therefore the lower esophageal sphincter
+[00:32:10] relaxes.
+[00:32:11] All the treatments are aimed at opening that lower sphincter
+[00:32:15] and using gravity to have everything go through.
+[00:32:17] Pneumatic dilation, you just take a balloon and you blow
+[00:32:20] it up and tear the muscle, or you do a
+[00:32:22] heller myotomy where they cut the muscle and they open
+[00:32:24] it up a little bit.
+[00:32:26] There's another one on there that's called POLM, we can
+[00:32:28] do this, it's called peresophageal perioral oesophageal myotomy, where you
+[00:32:31] go in and you cut the muscle from the inside
+[00:32:33] of the esophagus, and these are all the treatments for
+[00:32:36] it, and they work.
+[00:32:38] Even though you're not curing the accolaia, you're opening up
+[00:32:40] that lower esophageal sphincter.
+[00:32:43] Diffuse oesophageal spasm looks a lot like a calasia.
+[00:32:48] Right?
+[00:32:48] You generally have these pan pressurized swallow, and uh and
+[00:32:51] I'm telling you, you can't see it, but that lower
+[00:32:53] esophageal sphincter relaxes, and that's the difference, meaning they can
+[00:32:59] still have a spasm, but that relaxes.
+[00:33:01] So the difference between telling them apart is, does the
+[00:33:03] lower esophageal sphincter work?
+[00:33:05] These are similar entities, and we think that there's actually
+[00:33:08] uh on a timeline that people might develop a a
+[00:33:12] a distal esophageal spasm that turns into an alagia.
+[00:33:16] And you get this, another buzzword is a corkscrew appearance.
+[00:33:20] That you see on a barium swallow.
+[00:33:23] So, bird beak and corkscrew.
+[00:33:26] We don't know what causes it.
+[00:33:27] About 3% of people with, uh, undergoing monometry, it's a
+[00:33:30] disorder of the inhibitory nerves, that means the excitatory nerves
+[00:33:34] are are are contracting a lot, and that's why you're
+[00:33:38] you're seeing that spastic version.
+[00:33:40] Um, it's non-paristalsis, the lower esophageal sphincter relaxes, and you
+[00:33:45] treat it the same way as you treat alagia.
+[00:33:48] You try to relax that lower esophageal sphincter, and about
+[00:33:51] 5% of these people progress to calasia.
+[00:33:53] Like I said, it's We think it's on a time
+[00:33:55] on a continuum.
+[00:33:59] Nutcracker or jackhammer, also known as hypercontractile, these are the,
+[00:34:03] the diseases where remember I said red is, is high
+[00:34:07] pressures, so the lower esophageal sphincter relaxes and there's peristalsis,
+[00:34:11] but that peristalsis is super, super contractile.
+[00:34:15] I'll never give you a slide like this and say,
+[00:34:16] tell me what it is, that would be unfair.
+[00:34:19] Any questions I ask on this stuff, it's gonna be
+[00:34:21] abundantly clear.
+[00:34:23] Of what it is, even without the picture at times,
+[00:34:25] right?
+[00:34:26] So, um, I'm not gonna ask you to tease out
+[00:34:28] stuff like that.
+[00:34:28] I want you to know the main ideas behind these
+[00:34:31] different disease processes.
+[00:34:33] So, we don't know what it caused, high pressures, normal
+[00:34:35] peristalsis, and normal uh lower esophageal sphincter relaxation, it's an
+[00:34:39] overactivity of the excitatory nerves, like I said, chest pain
+[00:34:43] and dysphagia.
+[00:34:44] Similar, very similar to how people present with yasia.
+[00:34:48] What about ineffective motility?
+[00:34:50] This is the most common disorder, and it's basically, you
+[00:34:54] don't get a lot of contractions, right?
+[00:34:56] There's, there's, if you see here on the manometry, the,
+[00:34:59] the, the, you don't, like this is a failed swallow,
+[00:35:01] there's no pressure zone, you don't see any of the
+[00:35:03] reds or yellows in here, you see a little bit
+[00:35:05] of blue, it's a low pressure system.
+[00:35:08] Um, you diagnose it on esophageal manometry, it can be
+[00:35:12] maybe related to reflux.
+[00:35:14] We think reflux is the primary cause.
+[00:35:16] There's also a whole other host of things like medications,
+[00:35:20] anticholinergic medications.
+[00:35:21] I put in here, I don't wanna get too granular,
+[00:35:23] but I put in here scleroderma, that certainly can cause
+[00:35:26] it, or, or amyloid amyloidosis.
+[00:35:28] The reason we put it in here is we've seen
+[00:35:30] several board questions, which have this CREST syndrome, right?
+[00:35:34] Calcinosis.
+[00:35:36] Uh, calcium deposits in the skin, Raynaud's phenomenon, esophageal dysmotility,
+[00:35:40] sclerodactyly, and telangicasis.
+[00:35:43] This is a syndrome called CRESS syndrome.
+[00:35:45] We've seen it tested on boards, which is why we
+[00:35:47] put it in there.
+[00:35:48] Um, once again, these people can get reflux and dysphagia
+[00:35:52] symptoms.
+[00:35:55] These are the old traits, and this is like a
+[00:35:56] summary slide, and the important part that I want you
+[00:35:58] to know in this is understanding that this is a
+[00:36:03] contraction that's propagating down.
+[00:36:04] Remember this happens before this does.
+[00:36:07] And the other thing that I want you to see
+[00:36:08] is that lower esophageal sphincter relaxes, that's a relaxation pattern.
+[00:36:13] Aalagia is the only one of these where it doesn't
+[00:36:15] relax.
+[00:36:17] That's the diagnosis.
+[00:36:19] Scleroderma can look like calasia.
+[00:36:22] But This is hypotensive, it really relaxes.
+[00:36:28] Diffuse oesophageal spasm can look like calasia, right?
+[00:36:30] All these, although they're different patterns, they're all simultaneous, but
+[00:36:34] you see a relaxation of the LAS.
+[00:36:35] So calasia is the one that where the LAS does
+[00:36:38] not relax.
+[00:36:41] OK.
+[00:36:43] Let's couple of them, jackhammer.
+[00:36:49] High pressure normal peristalsis, alagia.
+[00:36:55] Impaired LS relaxation.
+[00:36:57] So sclera, how is that different than scleroderma?
+[00:37:01] Impaired peristalsis, but low pressures of the LES, right?
+[00:37:06] And spasm.
+[00:37:07] It's basically non-paristaltic simultaneous contractions, and the LES will relax
+[00:37:13] in spasm.
+[00:37:14] The LAX relaxes in all of them, with the exception
+[00:37:16] of a collision.
+[00:37:20] So, a 27 year old male uh reports to the
+[00:37:23] clinic with intermittent dysphagia, uh, for both solids and liquids
+[00:37:26] for the last several months.
+[00:37:28] Uh, upper endoscopy demonstrates no significant abnormality.
+[00:37:30] She undergoes an esophageal manometry which demonstrates periodic simultaneous non-paristaltic
+[00:37:35] contractions, which of the following is, uh, the most like,
+[00:37:39] most likely pathogenesis.
+[00:37:40] So, What is, what do we think this is?
+[00:37:44] I tell you that they have periodic simultaneous non-paristaltic contractions.
+[00:37:51] In the stem, it tells you the answer.
+[00:37:52] You don't even need to look at the picture.
+[00:37:53] The picture is not even important.
+[00:37:56] I'll tell you And I don't mention it, but What
+[00:38:00] I don't mention is that this lower esophageal sphincter relaxes.
+[00:38:03] I don't have to mention it, cause I would only
+[00:38:05] mention it if it was abnormal, like it didn't relax.
+[00:38:08] So, simultaneous contractions, but the LES relaxes.
+[00:38:13] And you see a lot of pressures here.
+[00:38:16] So what do you think this is?
+[00:38:21] Spasm, right?
+[00:38:22] Diffuse esophageal spasm.
+[00:38:24] So, hey, failure to relax?
+[00:38:27] No.
+[00:38:29] Impaired neural inhibition, hm, I like that.
+[00:38:33] Esophageal eosinophilia.
+[00:38:36] I, we haven't even talked about that.
+[00:38:38] Um, but that would be something that's secondary, and I'm
+[00:38:43] not telling you anything in this question that says anything
+[00:38:45] about eosinophils esophagitis.
+[00:38:47] If I did, I would sit there and I'd say
+[00:38:48] I did some biopsies and there were high eosinophils.
+[00:38:51] Uh, longitudinal muscle disruption.
+[00:38:56] No, what about the circular muscles?
+[00:38:58] Uh, a hiatal hernia.
+[00:39:01] I would tell you that animanometry would pick it up,
+[00:39:03] or an esophageal diverticulum.
+[00:39:06] And nowhere in here do we ever say anything about
+[00:39:08] a diverticulum.
+[00:39:09] So, the question, once again, the stem kind of gives
+[00:39:11] you the answer.
+[00:39:12] I understand that this is a more vague question, but
+[00:39:14] I'm using it to kind of point out that there's
+[00:39:16] always some phrase within there that's gonna tell you what
+[00:39:19] the answer is.
+[00:39:20] So that was impaired neural inhibition.
+[00:39:23] All right, we're gonna talk about gastric motility disorders for
+[00:39:27] the remaining, I guess, 10 minutes or so of the
+[00:39:30] of the lecture.
+[00:39:33] So gastroparesis, by this point you've heard this term, it
+[00:39:35] just means that the stomach doesn't empty in the absence
+[00:39:38] of of uh an obstruction, like a a tumor or
+[00:39:42] some or something obstructing the stomach.
+[00:39:45] It's super common, super common.
+[00:39:47] You will not go through your medical career without seeing
+[00:39:49] this.
+[00:39:50] Um, symptoms primarily are nausea and vomiting, but they can
+[00:39:55] get bloating, they can get early satiety, meaning they start
+[00:39:57] eating and they get full very quickly.
+[00:39:59] They get abdominal pain.
+[00:40:04] There's a whole bunch of things that can cause it,
+[00:40:07] um, neuromuscular disorder, I mentioned a bunch up here.
+[00:40:09] This is an old slide, but it still makes sense,
+[00:40:11] right?
+[00:40:11] CNS disorders, psychiatric disease, brain stem, CVA tumor, Parkinson's multiple
+[00:40:16] sclerosis, spinal cord injury, they all deal with the vagus
+[00:40:20] nerve to some extent, which has a lot to do
+[00:40:22] with not only acid production, but also motility of the
+[00:40:25] GI tract.
+[00:40:27] And you can see there's other things that are infiltrative
+[00:40:30] processes, so scleroderma can affect the esophagus, it can also
+[00:40:34] affect the entire GI tract.
+[00:40:36] One of the more common ones is, is diabetic neuropathy,
+[00:40:41] which we'll talk about.
+[00:40:43] Obviously, diabetes is super, super common.
+[00:40:45] Um, it's the most common systemically recognized disease that presents
+[00:40:50] with gastroparesis.
+[00:40:51] So one of my first questions is, what are your
+[00:40:53] blood sugars?
+[00:40:54] Um, it typically happens in patients with long-standing diabetes.
+[00:40:59] It's more common, um, uh, you know, it, it's More
+[00:41:04] people have type 2 diabetes, so you see it more
+[00:41:07] frequently, but people with type 1 are more likely to
+[00:41:10] get it because their sugars have been more erratic for
+[00:41:12] for some years.
+[00:41:14] Um, it's also more likely when you see different disease
+[00:41:18] processes.
+[00:41:18] So it doesn't typically happen as the first sign of
+[00:41:21] a complication of diabetes.
+[00:41:23] Typically these people will have some other end organ damage,
+[00:41:26] like renal disease, like diabetic nephropathy, or diabetic retinopathy for
+[00:41:31] the eyes, or diabetic neuropathy, right?
+[00:41:34] Like they have, they have a loss of, of some
+[00:41:37] of the sensation in the in their feet in particular.
+[00:41:40] So we typically see it once diabetes gets a little
+[00:41:42] bit more advanced.
+[00:41:44] I mentioned this in a few other ALGs.
+[00:41:48] What this is a vaguely mediated process, right?
+[00:41:51] So there's different causes, right?
+[00:41:52] Always viral, autoimmune, infiltrated scleroderma amyloidosis.
+[00:41:56] Another big one is, is post-surgical.
+[00:42:01] So Back in the day when there were really bad
+[00:42:04] ulcers, and we're trying to control them, we didn't have
+[00:42:06] all these great meds like PPIs, um, we knew that
+[00:42:09] the vagus nerve was important at controlling acid.
+[00:42:13] So, what did they do back then?
+[00:42:14] Well, they did these big whopping surgeries, right?
+[00:42:17] They, and part of the surgery would be a vagotomy.
+[00:42:20] So they cut the vagus nerve.
+[00:42:22] Yeah, they get rid of the acid to the stomach,
+[00:42:24] so their ulcers are gone, and now they're they're gastroparreic,
+[00:42:27] right?
+[00:42:28] Because the, because the vagus nerve also is intricately involved
+[00:42:32] with the motility of the GI tract, and in particular
+[00:42:34] the stomach.
+[00:42:36] Even if you're just doing something like an anti-reflux surgery,
+[00:42:39] a fundoplication right down here, uh, you're still affecting the
+[00:42:43] vagus nerve, it goes right through this area.
+[00:42:45] You can do a selective vagotomy, but it's really hard
+[00:42:48] to find those tiny little nerve fibers.
+[00:42:52] A ton of medications will slow down the GI tract.
+[00:42:56] Um, in particular, narcotics are the big one, cause they
+[00:43:01] affect the mu opioid receptor, um, you know, and also
+[00:43:05] some of the norepinephrine, but oxycodone, big things, a lot
+[00:43:09] of people will come to me, really bad stomach pain,
+[00:43:12] gastroparesis, and they're on narcotics, that makes it very, very
+[00:43:14] hard to treat.
+[00:43:15] The only way to treat that is to stop the
+[00:43:16] narcotics, which obviously can be hard at some point.
+[00:43:19] Uh, alpha-2 hydrenergics like clonidine, tricyclic antidepressants, calcium channel blockers,
+[00:43:25] uh, dopamine agonists, a lot of the, uh, the central
+[00:43:29] acting antipsychotics have this in it.
+[00:43:31] Some of the antiemetic drugs like phenothiazines have this, so
+[00:43:35] just be wary.
+[00:43:37] I'm not, don't care about these medications in particular with
+[00:43:40] the exception of the narcotics, but be wary that medications
+[00:43:43] can, can be part of this.
+[00:43:46] The way that we diagnose it is something called a
+[00:43:48] gastric emptying scan.
+[00:43:50] So you eat this delicious sandwich, that's basically like an
+[00:43:53] Egg McMuffin with jelly on it, and it's a specialized
+[00:43:58] egg, it doesn't taste like an egg McMuffin, I'm told,
+[00:44:01] but basically, they measure how fast your stomach empties.
+[00:44:05] Um, and it can kind of tell us that you
+[00:44:07] could do CT scans if you're ruling out obstruction, but
+[00:44:09] really the gastric emptying scan is the test of choice.
+[00:44:13] There are other things that you can do, which we're
+[00:44:15] not really gonna get into, like, like a certain type
+[00:44:18] of capsule can do it, or autonomic testing, or an,
+[00:44:22] an EGG and it's like an EKG for the stomach.
+[00:44:25] Not important.
+[00:44:26] Main way to to diagnose it is, is a uh
+[00:44:29] gastric emptying skin.
+[00:44:31] The treatment to this day is hard, dietary.
+[00:44:33] So remember how I talked about how you empty food
+[00:44:36] uh from your nutrients from your GI tract.
+[00:44:38] So, stuff that's lower in osmala and lowest in lower
+[00:44:41] in fat, and it's more liquid, it's gonna be easier
+[00:44:43] to go through.
+[00:44:44] So we typically tell, tell people, liquids better than solids,
+[00:44:48] small frequent meals better than sitting down and have one
+[00:44:50] big meal, a low fat diet, um, We don't give
+[00:44:55] them a lot of fiber because the stomach is not
+[00:44:57] great at dealing with that with uh the fibers that
+[00:45:00] are the non-digestible kind, like the stuff in celery.
+[00:45:03] We give them prokinetic drugs like metoclopramide, domperidone, erythromycin, anti-emetics,
+[00:45:10] sometimes you do surgery, sometimes you put in a gastric
+[00:45:12] pacemaker, and that's what a gastrointestinal stimulation is.
+[00:45:15] I'm gonna talk about some of these in a little
+[00:45:16] bit.
+[00:45:17] So Metoclopramide, also known as Reglan, brand name, if you
+[00:45:22] watch late-night TV, uh, you see a lot of commercials
+[00:45:25] about this because of the side effect profile, which we're
+[00:45:27] gonna talk about in one minute.
+[00:45:29] But metoclopramide is the mainstay of treatment.
+[00:45:33] And what it does is, is, I'm gonna start to
+[00:45:36] introduce you to the 5-HT concept, and 5-HT concept will
+[00:45:40] go through this course, because 5-HT is it it increases
+[00:45:47] motility in the GI tract, whether or not it's 5-HT4
+[00:45:51] or 5HT3.
+[00:45:54] Right?
+[00:45:54] So, um, so basically, uh, what, what metoclopramide does is
+[00:45:59] it increases gut motility by inhibiting D2 receptors.
+[00:46:03] And stimulating 5HD4, you will see 5HD 5HT a lot
+[00:46:08] coming up.
+[00:46:09] And it also has some antiemetic properties, cause these are
+[00:46:12] the two things, right?
+[00:46:13] They feel full quickly because the stomach empties, and they
+[00:46:15] feel nauseous, so this kind of hits both of those.
+[00:46:17] And it's anti-emetic in that it also inhibits the D2
+[00:46:21] receptors and it inhibits 5-HT.
+[00:46:24] So theoretically this would slow the stomach down, but this
+[00:46:28] overpowers it and makes the stomach move faster.
+[00:46:31] So overall they get increased gut motility.
+[00:46:34] And decreased nausea.
+[00:46:36] However, Here's the problem with this medication.
+[00:46:39] This is where the late night TV comes into effect.
+[00:46:41] It can cause stuff like uh anxiety, restlessness, depression, uh,
+[00:46:45] people can lactate, believe it or not, QT prolongation, so
+[00:46:50] these people are more likely to get a, a ventricular
+[00:46:52] tachycardia, very rare in the IP form for uh specifically.
+[00:46:56] They can get these awful things like, like dystonia, where
+[00:47:00] they get like a contraction or tardive dyskinesia, which is
+[00:47:03] irreversible.
+[00:47:05] Let's see if we can make this video work.
+[00:47:10] This is one of the um more problematic things that
+[00:47:13] you might see.
+[00:47:15] But this is a patient who has been on long-term
+[00:47:18] metoclopramide, and watch the facial movements and the neck movements.
+[00:47:22] This is devastating to people, and it's irreversible.
+[00:47:30] Lip smacking on section 7 of the examination.
+[00:47:35] For now focus on just the peri-oral movements.
+[00:47:39] Notice the frequency also the amplitude, that is to say,
+[00:47:45] the size of the movements.
+[00:47:49] OK.
+[00:47:51] So, you get how that can be very devastating.
+[00:47:54] There are certain people that will have that.
+[00:47:57] Sometimes it's a lot more subtle than that, and you
+[00:47:59] can pick it up, you can see these eye movements,
+[00:48:01] or just like a little bit of a, a neck
+[00:48:03] twitch or, or a blinking.
+[00:48:05] But um this is irreversible, and sometimes it, it can
+[00:48:08] happen.
+[00:48:08] And this is why you see the late night TV
+[00:48:10] commercials about this stuff.
+[00:48:11] So, I always talk about it, know the side effect
+[00:48:13] profile.
+[00:48:14] Whenever I'm putting somebody on on Reglan or or metoclopramide,
+[00:48:18] I always talk to them about these potential, very rare
+[00:48:20] side effects, but potential.
+[00:48:23] Some of the other medications, uh, domperidone.
+[00:48:27] Very similar to Reglan, it does this, it does most
+[00:48:31] of the same things.
+[00:48:32] It doesn't typically have, uh, these, these, uh, risks of
+[00:48:37] the, the, uh, dystonias or, or, uh, or other symptoms,
+[00:48:42] neurologic symptoms.
+[00:48:44] Um, it's not approved in the United States.
+[00:48:46] We used to be able to get it through Canada,
+[00:48:48] but tariffs have changed that, but it works really well.
+[00:48:51] It still has in the IV formulation, the risk of
+[00:48:54] having a ventricular tachycardia.
+[00:48:56] So I always check what the QT interval is before
+[00:48:58] putting them on these medications.
+[00:49:01] Remember I talked about motillin?
+[00:49:03] Remember how I said motillin was part of the migrating
+[00:49:05] motor complex?
+[00:49:07] Motillin.
+[00:49:09] I, uh, erythromycin, we give erythromycin in stents, and it
+[00:49:13] stimulates the motillin receptor to increase gastrointestinal motility.
+[00:49:18] So, erythromycin can work.
+[00:49:20] Um, it, it sometimes loses effects.
+[00:49:22] This is a medication that's off, that's off the market,
+[00:49:24] but there are newer ones that are on the market,
+[00:49:26] which we haven't talked about right here.
+[00:49:28] But what does it do?
+[00:49:30] Stimulates 5-HT4 motility up.
+[00:49:32] So, there are medications that we can use to treat
+[00:49:35] this.
+[00:49:36] Um, and you should know once again what those major
+[00:49:39] mechanisms are and the major side effects.
+[00:49:43] Zofran ondansetron, that's for nausea, the mechanism, it's a, it's
+[00:49:47] antiemetic, it's a 5-HT3 antagonist.
+[00:49:50] It's an antagonist of 5-HT3.
+[00:49:51] So what is one of the side effects?
+[00:49:53] I didn't list it, but a little bit of constipation
+[00:49:55] with this.
+[00:49:57] Right, so you have to know that.
+[00:49:58] Benadryl, it's an antihistamine, uh, which can help some of
+[00:50:03] these, uh, the phenothiazines, any of the anti-emetics, right?
+[00:50:07] They, they can, they can do a lot of different
+[00:50:08] stuff, but they work through the D1 and D2 receptors.
+[00:50:11] So, understand some of these treatments and the side effect
+[00:50:15] profile of them.
+[00:50:16] All right, which of the following statements is correct?
+[00:50:20] Metoclopramide increases gut motility by stimulating 5HT4 receptors.
+[00:50:25] I like it.
+[00:50:26] Botox uh relaxes LES by increasing synaptic cleft tylcholine.
+[00:50:33] Does the opposite.
+[00:50:34] It doesn't want synap I still calling in that synaptic
+[00:50:37] cleft.
+[00:50:38] Narcotics decrease uh gastric emptying.
+[00:50:42] Erythromycin increases gut motility by binding motility.
+[00:50:46] So, Metoclopramide also inhibits the D2 receptors, right?
+[00:50:50] That's the proper answer.
+[00:50:53] Other things that will, uh, nitrates, Botox, calcium channel blockers
+[00:50:58] all decrease LES pressures.
+[00:51:04] Right on time.
+[00:51:04] All right.
+[00:51:06] Questions Yes, you have patients with opioids.
+[00:51:14] use?
+[00:51:16] Yeah, the question is, when you have opioid-mediated constipation, do
+[00:51:19] we use methyl naltrexone?
+[00:51:20] And the answer is yes.
+[00:51:22] We're gonna talk about, you know, we talked about motility,
+[00:51:24] you can't fit everything in this lecture.
+[00:51:25] We're gonna talk about constipation and some of the medications
+[00:51:30] that cause it, and the treatments we do when we,
+[00:51:32] when we, uh, get into the, the functional disorders, the
+[00:51:35] I click the IBS lectures, we'll go into that in
+[00:51:37] depth, but the short answer is yes.
+[00:51:42] Other questions?
+[00:51:45] All right, thank you very much.

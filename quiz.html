@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en" data-accent="examplify">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Practice · CMSRU Lecture Qbank</title>
+<script>try{var t=JSON.parse(localStorage.getItem("qbank.v1")||"{}").prefs||{};if(t.theme)document.documentElement.dataset.theme=t.theme;if(t.cscale)document.documentElement.style.setProperty("--cscale",t.cscale)}catch(e){}</script>
+<link rel="stylesheet" href="css/qf-design.css">
+<link rel="stylesheet" href="css/quiz.css">
+<link rel="stylesheet" href="css/labs.css">
+</head>
+<body>
+<header class="qbar">
+  <a class="qf-btn qf-btn--ghost qf-btn--sm" href="index.html" id="homeBtn">← Home</a>
+  <div class="qbar-title" id="title"></div>
+  <span class="qf-spacer"></span>
+  <span class="qbar-pos" id="pos"></span>
+  <span class="qbar-time" id="clock" hidden></span>
+  <button class="qf-btn qf-btn--ghost qf-btn--sm" id="fontDn" title="Smaller text">A−</button>
+  <button class="qf-btn qf-btn--ghost qf-btn--sm" id="fontUp" title="Larger text">A+</button>
+  <button class="qf-btn qf-btn--ghost qf-btn--sm" id="tutorBtn" title="Show the answer after each question">Tutor: off</button>
+  <button class="qf-btn qf-btn--ghost qf-btn--sm" id="viewBtn" title="Switch to the Examplify exam view">Examplify view</button>
+  <button class="qf-btn qf-btn--ghost qf-btn--sm" id="labBtn" title="Lab values (L)">Lab values</button>
+  <button class="qf-btn qf-btn--ghost qf-btn--sm" id="flagBtn" aria-pressed="false">⚑ Flag</button>
+  <button class="qf-btn qf-btn--sm" id="endBtn">End</button>
+</header>
+<div id="results"></div>
+<div class="qf-quiz">
+  <nav class="qf-rail" id="rail" aria-label="Questions"></nav>
+  <main class="qf-read" id="main"><div class="qf-skel qf-skel--title"></div></main>
+</div>
+<div class="qf-hintbar">
+  <span><kbd class="qf-kbd">A</kbd>–<kbd class="qf-kbd">E</kbd> choose</span>
+  <span><kbd class="qf-kbd">Enter</kbd> submit / next</span>
+  <span><kbd class="qf-kbd">←</kbd><kbd class="qf-kbd">→</kbd> move</span>
+  <span><kbd class="qf-kbd">F</kbd> flag</span>
+  <span>Right-click a choice to cross it out</span>
+</div>
+<script src="js/store.js"></script>
+<script src="js/data.js"></script>
+<script src="js/explain.js"></script>
+<dialog class="qf-sheet lab-dlg" id="labDlg"><div class="qf-sheet__head"><h2>Laboratory values</h2><button class="qf-btn qf-btn--sm" onclick="this.closest('dialog').close()">Close</button></div><div id="labBody" style="background:#fff;padding:14px;border-radius:8px"></div></dialog>
+<script src="js/labs.js"></script>
+<script src="js/quiz.js"></script>
+</body>
+</html>

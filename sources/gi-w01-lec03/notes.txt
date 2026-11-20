@@ -1,0 +1,249 @@
+=== PAGE 1 ===
+Gastroesophageal Reflux Disease (GERD) (Lecture 3)
+Gastritis and Peptic Ulcer Disease (PUD) (Lecture 4)
+(Wednesday, October 14, 2026; 10 am and 11 am)
+Note from Dr. DeSipio: This ebook is created as a summary to give you the basics of this topic from
+Robbins and Cotran Pathologic Basis of Disease. You should also take a look at the lecture slides as these
+are complementary to this handout, build on these basics and lead to further clinical information.
+GERD and Reflux Esophagitis
+The stratified squamous epithelium of the esophagus is resistant to abrasion from foods but is sensitive to
+acid. Submucosal glands, which are most abundant in the proximal and distal esophagus, contribute to
+mucosal protection by secreting mucin and bicarbonate. More importantly, the tone of the lower esophageal
+sphincter prevents reflux of acidic gastric contents, which are under positive pressure and would otherwise
+enter the esophagus. Reflux of gastric contents into the lower esophagus is the most frequent cause of
+esophagitis and the most common outpatient GI diagnosis in the United States. The associated clinical
+condition is termed gastroesophageal reflux disease (GERD).
+Pathogenesis
+The most common cause of gastroesophageal reflux is transient lower esophageal sphincter relaxation. This
+is thought to be mediated via vagal pathways, and can be triggered by gastric distention, by gas or food, mild
+pharyngeal stimulation that does not trigger swallowing, and stress. Gastroesophageal reflux can also occur
+following swallow-induced lower esophageal sphincter relaxations or due to forceful opening of a relatively
+hypotensive lower esophageal sphincter by an abrupt increase in intraabdominal pressure, such as that due to
+coughing, straining, or bending. Other conditions that decrease lower esophageal sphincter tone or increase
+abdominal pressure and contribute to GERD include alcohol and tobacco use, obesity, central nervous
+system depressants, pregnancy, hiatal hernia (discussed later), delayed gastric emptying, and increased
+gastric volume. In many cases, no definitive cause is identified. Reflux of gastric juices is central to the
+development of mucosal injury in GERD. In severe cases, reflux of bile from the duodenum may exacerbate
+the damage.
+Morphology
+Simple hyperemia, evident to the endoscopist as redness, may be the only alteration. With more significant
+disease, eosinophils are recruited into the squamous mucosa followed by neutrophils, which are usually
+associated with more severe injury. Basal zone hyperplasia exceeding 20% of the total epithelial thickness
+and elongation of lamina propria papillae, such that they extend into the upper third of the epithelium, may
+also be present.
+Clinical Features
+GERD is most common in individuals older than age 40 but also occurs in infants and children. The most
+frequent clinical symptoms are heartburn, regurgitation of sour-tasting gastric contents, and dysphagia.
+Rarely, chronic GERD is punctuated by attacks of severe chest pain that may be mistaken for heart disease.
+Complications of reflux esophagitis include ulceration, hematemesis, melena, stricture development, and
+Barrett esophagus. Hiatal hernia can give rise to symptoms, such as heartburn and regurgitation of gastric
+juices. It is characterized by separation of the diaphragmatic crura and protrusion of the stomach into the
+thorax through the resulting gap. Hiatal hernia is symptomatic in fewer than 10% of adults, but can be a
+cause of lower esophageal sphincter incompetence.
+Barrett Esophagus
+Barrett esophagus is a complication of chronic GERD that is characterized by intestinal metaplasia within the
+esophageal squamous mucosa. The incidence of Barrett esophagus is rising, and it is estimated to occur in as
+1
+
+
+=== PAGE 2 ===
+many as 10% of individuals with symptomatic GERD. Barrett esophagus is most common in white males
+and typically presents between 40 and 60 years of age. The greatest concern in Barrett esophagus is that it
+confers an increased risk of esophageal adenocarcinoma (0.2% to 2% of persons with Barrett esophagus each
+year). The presence of dysplasia, a pre-invasive change, is associated with prolonged symptoms, longer
+segment length, increased age, family history of esophageal carcinoma and Caucasian race.
+Morphology
+Barrett esophagus can be recognized as one or several tongues or patches of red, velvety mucosa extending
+upward from the gastroesophageal junction. High-resolution endoscopes have increased the sensitivity of
+Barrett esophagus detection. This has led to subclassification of Barrett esophagus as long segment, which
+involves 3 cm or more, or short segment, in which less than 3 cm is involved. Diagnosis of Barrett
+esophagus requires endoscopic evidence of metaplastic columnar mucosa above the gastroesophageal
+junction. Microscopically, intestinal-type metaplasia is seen as replacement of the squamous esophageal
+epithelium with goblet cells.
+When dysplasia is present, it is classified as low grade or high grade. Atypical mitoses, nuclear
+hyperchromasia, irregularly clumped chromatin, increased nuclear-to-cytoplasmic ratio, and a failure of
+epithelial cells to mature as they migrate to the esophageal surface are present in both grades of dysplasia.
+High-grade dysplasia exhibits more severe cytologic and architectural changes. With progression, epithelial
+cells may invade the lamina propria, a feature that defines intramucosal carcinoma.
+Intramucosal or invasive carcinoma requires therapeutic intervention. Treatment options include surgical
+resection, or esophagectomy, as well as newer modalities such as photodynamic therapy, laser ablation, and
+endoscopic mucosectomy. Multifocal high-grade dysplasia, which carries a significant risk of progression to
+intramucosal or invasive carcinoma, is treated as intramucosal carcinoma.
+Gastropathy and Acute Gastritis
+Gastritis is a mucosal inflammatory process. When neutrophils are present, the lesion is referred to as acute
+gastritis. When inflammatory cells are rare or absent, the term gastropathy is applied; it includes a diverse set
+of disorders marked by gastric injury or dysfunction. Agents that cause gastropathy include NSAIDs,
+alcohol, bile, and stress induced injury. Acute mucosal erosion or hemorrhage, such as Curling ulcers or
+lesions following disruption of gastric blood flow, for example, in portal hypertension, can also cause
+gastropathy that typically progress to gastritis. The term hypertrophic gastropathy is applied to a specific
+group of diseases exemplified by Ménétrier disease and Zollinger-Ellison Syndrome.
+Pathogenesis
+The gastric lumen has a pH of close to 1. This harsh environment contributes to digestion but also has the
+potential to damage the gastric mucosa. Multiple mechanisms have evolved to protect the gastric mucosa.
+Mucin secreted by surface foveolar cells forms a thin layer of mucus and phospholipids that prevents large
+food particles from directly touching the epithelium. The mucus covering also promotes formation of an
+“unstirred” layer of fluid over the epithelium that protects the mucosa and has a neutral pH as a result of
+bicarbonate ion secretion by surface epithelial cells. Beneath the mucus, a continuous layer of gastric
+epithelial cells forms a physical barrier that limits back diffusion of acid and leakage of other luminal
+materials, including pepsin, into the lamina propria. Complete replacement of the surface foveolar cells every
+3 to 7 days is essential for both the maintenance of the epithelial layer and the secretion of mucus and
+bicarbonate from these cells. In acid-secreting parts of the stomach, a capillary “alkaline tide” is generated as
+parietal cells secrete hydrochloric acid into the gastric lumen and bicarbonate into the vessels. In addition to
+delivering bicarbonate, the rich mucosal vasculature delivers oxygen and nutrients while washing away acid
+that has back-diffused into the lamina propria.
+2
+
+
+=== PAGE 3 ===
+Nonsteroidal anti-inflammatory drugs (NSAIDs) inhibit cyclooxygenase- (COX) dependent synthesis of
+prostaglandins E 2 and I 2, which stimulate nearly all of the above defense mechanisms including mucus,
+bicarbonate, and phospholipid secretion, mucosal blood flow, and epithelial restitution while reducing acid
+secretion. Although COX-1 plays a larger role than COX-2, both isoenzymes contribute to mucosal
+protection. Thus, while the risk of NSAID-induced gastric injury is greatest with nonselective inhibitors, for
+example, aspirin, ibuprofen, and naproxen, selective COX-2 inhibition, for example, by celecoxib, can also
+result in gastropathy or gastritis.
+Ingestion of harsh chemicals, particularly acids or bases, also results in severe gastric injury, predominantly
+as a result of direct injury to mucosal epithelial and stromal cells. Direct cellular damage also contributes to
+gastritis induced by excessive alcohol consumption, NSAIDs, radiation therapy, and chemotherapy. Agents
+that inhibit DNA synthesis or the mitotic apparatus, including those used in cancer chemotherapy, may cause
+generalized mucosal damage due to insufficient epithelial renewal.
+Morphology
+Histologically, gastropathy and mild acute gastritis may be difficult to recognize, since the lamina propria
+shows only moderate edema and slight vascular congestion. In gastropathy, neutrophils are not abundant, but
+a few may be found among the epithelial cells or within mucosal glands in gastritis. There are few
+lymphocytes and plasma cells. The presence of neutrophils above the basement membrane in direct contact
+with epithelial cells is abnormal in all parts of the GI tract and signifies active inflammation, or, in this case,
+gastritis (rather than gastropathy).
+Stress-Related Mucosal Disease
+Stress-related mucosal disease occurs in patients with severe trauma, extensive burns, intracranial disease,
+major surgery, serious medical disease, and other forms of severe physiologic stress. More than 75% of
+critically ill patients develop endoscopically visible gastric lesions during the first 3 days of their illness. In
+some cases, the associated ulcers are given specific names based on location and clinical associations. For
+example:
+1. Stress ulcers are most common in individuals with shock, sepsis, or severe trauma.
+2. Curling ulcers occur in the proximal duodenum and associated with severe burns or trauma.
+3. Cushing ulcers arise in persons with intracranial disease and carry a high incidence of perforation.
+Chronic Gastritis
+The most common cause of chronic gastritis is infection with the bacillus H. pylori. Autoimmune gastritis,
+the most common cause of diffuse atrophic gastritis, represents less than 10% of cases of chronic gastritis,
+but is the most common form of chronic gastritis in patients without H. pylori infection. Longstanding H.
+pylori infection can also result in atrophic gastritis, typically in a multifocal rather than diffuse pattern. Less
+common causes of chronic gastritis include radiation injury, chronic bile reflux, mechanical injury (e.g. an
+indwelling nasogastric tube), and involvement by systemic diseases, such as Crohn disease, amyloidosis, or
+graft-versus-host disease.
+H. pylori Gastritis
+H. pylori are spiral-shaped or curved bacilli present in gastric biopsy specimens of almost all patients with
+duodenal ulcers as well as most individuals with gastric ulcers or chronic gastritis. Acute H. pylori infection
+does not produce sufficient symptoms to come to medical attention in most cases; it is the chronic gastritis
+that ultimately causes the individual to seek treatment. H. pylori is present in 90% of individuals with
+chronic gastritis affecting the antrum.
+
+3
+
+
+=== PAGE 4 ===
+Epidemiology
+In the United States, H. pylori infection is associated with poverty, household crowding, limited education,
+residence in rural areas, and birth outside of the United States. Humans are the primary carriers, suggesting
+that transmission is primarily by the fecal-oral route. Infection is typically acquired in childhood and persists
+for life without treatment. Improved sanitation in the United States likely explains the marked reduction in
+H. pylori infection rates among younger people that has resulted in a cohort effect. For example, the
+prevalence of H. pylori infection in those younger than 12 years old is less than 15% relative to the 50% to
+60% prevalence in those older than 60 years of age. Accordingly, colonization rates vary from less than 10%
+to more than 80% worldwide, as a function of age and geography.
+Pathogenesis
+H. pylori infection most often presents as a predominantly antral gastritis/duodenitis usually with increased
+acid production. Local gastrin production may be increased because of the lack of somatostatin inhibition on
+gastrin producing G cells in the antrum. Therefore, hypergastrinemia (increased serum gastrin) results.
+Gastrin is a trophic hormone and can cause parietal cell hyperplasia by direct stimulation. When
+inflammation remains limited to the antrum, increased acid production results in greater risk of duodenal
+peptic ulcer (see later). In other patients gastritis may progress to involve the gastric body and fundus. This
+multifocal atrophic gastritis is associated with patchy mucosal atrophy, reduced parietal cell mass and acid
+secretion, intestinal metaplasia, and increased risk of gastric adenocarcinoma. Thus, there is an inverse
+relationship between duodenal ulcer and gastric adenocarcinoma that correlates with the pattern of gastritis.
+The bacterial and host factors that determine which pattern develops in an individual patient are discussed
+later.
+H. pylori has adapted to the ecologic niche provided by gastric mucus. Its virulence is linked to the following
+factors:
+1. Flagella, which allow the bacteria to be motile in viscous mucus
+2. Urease, which generates ammonia from endogenous urea and thereby elevates local gastric pH and
+enhances bacterial survival
+3. Adhesins that enhance bacterial adherence to surface foveolar cells
+4. Toxins, such as cytotoxin-associated gene A (CagA), that may be involved in disease progression
+Morphology
+Gastric biopsy specimens generally demonstrate H. pylori in infected individuals. The organism is
+concentrated within the superficial mucus overlying epithelial cells in the surface and neck regions. The
+distribution can be irregular, with areas of heavy colonization adjacent to those with few organisms and most
+often is concentrated in the prepyloric and antral regions of the stomach. In extreme cases, the organisms
+carpet the luminal surfaces of foveolar and mucous neck cells, and can even extend into the gastric pits.
+Organisms are most easily demonstrated with special stains. H. pylori display tropism for gastric epithelia
+and are generally not found in association with intestinal metaplasia or duodenal epithelium.
+Long-standing H. pylori gastritis may extend to involve the body and fundus, and the mucosa can become
+atrophic, with loss of parietal and chief cells. As a result, the oxyntic mucosa can take on the appearance of
+antral mucosa. In contrast to autoimmune gastritis, this is typically a patchy process, and biopsies of the
+gastric body can show intact oxyntic glands adjacent to antral-type glands. The development of atrophy is
+typically associated with the presence of intestinal metaplasia and increased risk of gastric adenocarcinoma.
+Clinical Features
+In addition to histologic identification of the organism, several diagnostic tests have been developed
+including a noninvasive serologic test for antibodies to H. pylori, fecal bacterial detection, and the urea
+4
+
+
+=== PAGE 5 ===
+breath test based on the generation of ammonia by the bacterial urease. Gastric biopsy specimens can also be
+analyzed by the rapid urease test, bacterial culture, or bacterial DNA detection by PCR.
+Effective treatments for H. pylori infection include combinations of antibiotics and proton pump inhibitors.
+Individuals with H. pylori gastritis usually improve after treatment, although relapses can occur after
+incomplete eradication or reinfection, which is common in regions with high endemic colonization rates.
+Prophylactic and therapeutic vaccines are still at an early stage of development.
+Peptic Ulcer Disease
+Peptic ulcer disease (PUD) refers to chronic mucosal ulceration affecting the duodenum or stomach. Nearly
+all peptic ulcers are associated with H. pylori infection, NSAIDs, or cigarette smoking. The most common
+form of peptic ulcer disease (PUD) occurs within the gastric antrum or duodenum as a result of chronic, H.
+pylori-induced antral gastritis, which is associated with increased gastric acid secretion, and decreased
+duodenal bicarbonate secretion. In contrast, PUD within the gastric fundus or body is usually accompanied
+by lesser acid secretion as a result of mucosal atrophy (associated with some cases of H. pylori- induced or
+autoimmune chronic gastritis, as discussed earlier). Gastric ulcers are more likely to be cancerous or
+precancerous than ulcers that are located in the duodenum.
+Epidemiology
+The incidence of PUD is falling in developed countries along with reduced prevalence of H. pylori, infection.
+However, a new group of duodenal PUD patients older than 60 years of age has emerged as a result of
+increased NSAID use. This is particularly true when low-dose aspirin (for cardiovascular benefits) is
+combined with other NSAIDs. This is facilitated if concurrent H. pylori infection is also present. PUD has
+been associated with cigarette use and cardiovascular disease, likely due to reduced mucosal blood flow,
+oxygenation, and healing. Other risk factors for PUD are listed below. Risk factors for Peptic Ulcer Disease
+are H. pylori, cigarette use, COPD, illicit drugs, NSAIDs, EtOH cirrhosis, Zollinger Ellison Syndrome, viral
+infection.
+Morphology
+Peptic ulcers are solitary in more than 80% of patients. Lesions less than 0.3 cm in diameter tend to be
+shallow while those greater than 0.6 cm are likely to be deeper. The classic peptic ulcer is a round to oval,
+sharply punched-out defect. The mucosal margin may overhang the base slightly, particularly on the
+upstream side, but is usually level with the surrounding mucosa. In contrast, heaped-up margins are more
+characteristic of cancers. Perforation into the peritoneal cavity is a surgical emergency that may be identified
+by detection of free air under the diaphragm on upright radiographs of the abdomen.
+Clinical Features
+The majority of peptic ulcers come to clinical attention because of epigastric burning or aching pain,
+although a significant fraction present with complications such as iron deficiency anemia, hemorrhage, or
+perforation. The pain tends to occur 1 to 3 hours after meals during the day, is worse at night (usually
+between 11 pm and 2 am), and is relieved by alkali or food. Nausea, vomiting, bloating, belching, and
+significant weight loss are additional manifestations. Complications of Peptic Ulcer Disease include bleeding
+(15-20%), perforation (5%), obstruction (2%).
+Current therapies for PUD are aimed at H. pylori eradication and neutralization of gastric acid, primarily
+with proton pump inhibitors. It is also important to withdraw other offending agents, such as NSAIDs,
+including selective COX-2 inhibitors, which may interfere with mucosal healing. While peptic ulcers were
+previously notorious for their recurrence, the recurrence rate is now less than 20% following successful
+clearance of H. pylori.
+5
+
+
+=== PAGE 6 ===
+Note: In accordance with the ACCME Essentials and Standards, everyone involved in planning and
+presenting this CMSRU educational lecture has no relevant commercial relationships or conflicts of interest.
+There is no commercial support for this program. Instructional materials contained in this document may
+include copyrighted material. The copyright law of the U.S. (Title 17, United States Code) governs the
+making of photocopies or other reproductions of copyrighted material. Please do not reproduce, or transmit,
+any portion of this content. This is strictly for use within CMSRU class. This is posted only on the
+Blackboard which is protected by password. This is in compliance with fair use regulations.
+
+6
+

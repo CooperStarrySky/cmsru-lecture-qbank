@@ -1,0 +1,17 @@
+/* labs.css — lab values sheet (works inside exam pop-up and the tutor dialog) */
+.lv{color-scheme:light;background:#fff;font-family:"Roboto",-apple-system,"Segoe UI",Helvetica,Arial,sans-serif;color:#263D50;font-size:13.5px}
+.lv-bar{display:flex;gap:10px;align-items:center;position:sticky;top:-14px;background:#fff;padding:2px 0 8px;z-index:1}
+.lv-search{flex:1;height:34px;border:1px solid #c9cdd2;border-radius:3px;padding:0 10px;font:inherit;color:#222;background:#fff;color-scheme:light}
+.lv-search:focus{outline:2px solid #009CE1;outline-offset:-1px}
+.lv-si{display:flex;gap:6px;align-items:center;font-size:12.5px;white-space:nowrap}
+.lv-tabs{display:flex;flex-wrap:wrap;gap:4px;margin:4px 0 10px}
+.lv-tabs button{border:1px solid #d5dadf;background:#F2F4F6;color:#263D50;border-radius:3px;padding:5px 9px;font:inherit;font-size:12px;cursor:pointer}
+.lv-tabs button[aria-selected="true"]{background:#263D50;border-color:#263D50;color:#fff}
+.lv-t{width:100%;border-collapse:collapse}
+.lv-t th,.lv-t td{text-align:left;padding:6px 8px;border-bottom:1px solid #E6E9EC;vertical-align:top}
+.lv-t thead th{font-size:11px;font-weight:700;letter-spacing:.5px;text-transform:uppercase;color:#738C9C}
+.lv-t td:last-child{white-space:nowrap;font-variant-numeric:tabular-nums}
+.lv-g th{background:#F2F4F6;font-size:12px;font-weight:700;letter-spacing:.3px}
+.lv-t mark{background:#F1F000;color:inherit}
+.lv-none{color:#738C9C;padding:16px 8px}
+.lv-note{font-size:11.5px;color:#738C9C;margin:12px 0 0}

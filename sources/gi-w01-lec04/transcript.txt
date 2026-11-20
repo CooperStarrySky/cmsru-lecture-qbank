@@ -1,0 +1,1058 @@
+[00:00:05] Sorry, All right, do you all want to get started?
+[00:00:19] God, I wet my whistle.
+[00:00:21] Listen, I need some interplay.
+[00:00:24] I need some action from you all.
+[00:00:26] I need a little energy, OK?
+[00:00:29] And last lecture, I sensed a little less energy.
+[00:00:32] I want a little, I wanna ask questions that I
+[00:00:34] might not even go on unless you respond.
+[00:00:36] I want interplay, because particularly with this lecture, there's some
+[00:00:40] stuff in here that has some, some information that takes
+[00:00:44] a little thinking, you know, we, you know, we are
+[00:00:47] giving this to you in the ALG we're giving it
+[00:00:49] to you in lecture, it'll come up a lot.
+[00:00:52] Um.
+[00:00:53] Particularly when we start talking about H.
+[00:00:54] pylori and stuff.
+[00:00:55] So, I, I need more energy.
+[00:01:00] Yes, sir, I like that.
+[00:01:03] All right, same sort of stuff.
+[00:01:08] A lot of objectives, we're gonna cover all of this,
+[00:01:10] but really looking at peptic ulcer disease and gastritis, you
+[00:01:13] know, the normal epidemiology, the pathophysiology.
+[00:01:18] Getting to the diagnosis, um, talking about some of the
+[00:01:21] endoscopic and surgical treatments, and we're gonna do a lot
+[00:01:24] more of the pharmacology.
+[00:01:25] We touched on it a little bit last lecture, we're
+[00:01:27] gonna, um, make that more robust this lecture.
+[00:01:31] So, Same thing, this lecture is self-contained, it's got some
+[00:01:35] other teaching tools within it, just like the last lecture.
+[00:01:40] So what's the stomach do?
+[00:01:40] It's obviously a lot more complicated than the esophagus.
+[00:01:43] The esophagus is a tube with a little bit of
+[00:01:45] secretion, right?
+[00:01:48] Um, stomach is more complex.
+[00:01:50] Uh, it acts as storage.
+[00:01:52] So when you swallow, we think of the stomach is
+[00:01:55] actually almost kind of like two organs, like the body
+[00:01:57] and fundus is, is like a bag.
+[00:01:59] When you swallow, it really dilates, and they call it
+[00:02:02] receptive relaxation.
+[00:02:03] It like, it can hold the food in there.
+[00:02:05] So, it's a reservoir for meals.
+[00:02:07] It's also secretes acid and pepcid, um, and what that
+[00:02:11] does is it can kill a lot of stuff.
+[00:02:13] If you think about it, everything that you're taking in
+[00:02:15] is foreign.
+[00:02:17] And your body has to figure out what to kill,
+[00:02:20] what to digest, what to absorb, what to excrete.
+[00:02:23] So, the stomach does a lot of stuff with that.
+[00:02:24] So, it kills microorganisms, particularly through acid and, and, uh,
+[00:02:28] it also converts pepsinogen to its active form.
+[00:02:31] It's intricately evolved, like B12 absorption, you know, is basically
+[00:02:37] salivary all the way down to the ileum.
+[00:02:39] So, in the stomach, it, it secretes intrinsic factor to
+[00:02:43] help absorb B12.
+[00:02:45] It's secretion of mucus and, uh, to protect bicarbonate, to
+[00:02:50] to protect the gastric mucosa in a very acidic environment.
+[00:02:54] Um, it causes lubrication.
+[00:02:56] It actually secretes a ton of liquid to help with,
+[00:02:59] with the digestion and help mix things up.
+[00:03:01] It's got a lot of motor activity, where the stomach
+[00:03:05] will really grind food up into tiny little particles that
+[00:03:08] have to make their way out of the pylorus, where
+[00:03:11] it can start to be absorbed in the small intestine.
+[00:03:15] And it has this coordinated activity where it's gotta know
+[00:03:19] when to have receptive relaxation, when to grind, and when
+[00:03:23] to expel.
+[00:03:25] So the stomach is uh pretty complicated, and it's, it's
+[00:03:28] pretty cool.
+[00:03:30] So when we look at the stomach, I mentioned, it's
+[00:03:32] kind of like two organs in a way.
+[00:03:34] It's really the body and the fundus up here, and
+[00:03:37] the cardia, which is just the air just under that,
+[00:03:40] the lower esophageal sphincter, and that's oftentimes where you get
+[00:03:43] this transitional mucosa.
+[00:03:45] Um, and then, You have the antrum, which is this
+[00:03:50] area, the pylorus, this is called the incijura, um, this
+[00:03:54] is the greater curvature of the stomach, this is the
+[00:03:56] lesser curvature of the stomach.
+[00:03:58] So, there's different areas that we refer to anatomically.
+[00:04:02] Um, particularly when we're doing endoscopy, but also when we're
+[00:04:05] thinking about what is being secreted and where.
+[00:04:09] So, as usual, let's start off with a case.
+[00:04:11] 50 year old male presents with a dull feeling in
+[00:04:14] the epigastric region, which food tends to make better.
+[00:04:18] But it's to the point where his appetite is decreased
+[00:04:20] and he is losing weight.
+[00:04:22] He denies rectal bleeding, he does take occasional NSAIDs for
+[00:04:26] headache.
+[00:04:27] All right, as usual, what's important?
+[00:04:30] This is the energy part.
+[00:04:34] Dull feeling in the epigastric region.
+[00:04:37] Does it radiate up?
+[00:04:38] Nope.
+[00:04:39] OK, that's a clue.
+[00:04:41] That's to the point where his appetite is decreased and
+[00:04:43] he's losing weight, right?
+[00:04:45] That's a big one, weight loss.
+[00:04:47] We don't like weight loss.
+[00:04:49] Because although it can be benign, it might not be.
+[00:04:52] Uh, what else is important?
+[00:04:55] NSAIDs.
+[00:04:56] All right, so you, you're starting to think already where
+[00:04:58] we're going with this.
+[00:04:59] So when you look, he's got a past medical history
+[00:05:01] of hypertension, he had a hemorrhoidectomy, an appendectomy, no allergies,
+[00:05:04] yes, NSAIDs, and he takes lisinopril, and his hemoglobin is
+[00:05:08] 11.2.
+[00:05:09] What's important on this area, this slide?
+[00:05:12] Low hemoglobin, and you already knew about the NSAIDs, right?
+[00:05:17] So what's our next step?
+[00:05:19] And why?
+[00:05:24] So are you gonna give anti-secretory therapy?
+[00:05:28] It's not unreasonable.
+[00:05:30] But is it Your next step OK, we'll sit on
+[00:05:35] that one.
+[00:05:36] Give a blood transfusion?
+[00:05:40] Uh, the hemoglobin, you'll learn more as you get in
+[00:05:43] the 2nd or 3rd and 4th years.
+[00:05:45] You know, the hemoglobin really, we don't transfuse as much
+[00:05:48] as we used to, really, it's around 7.
+[00:05:51] None of that's important for us, but just to understand.
+[00:05:54] Would you do an EGD?
+[00:05:57] And why would you do an EGD?
+[00:06:00] You don't have to answer that right now.
+[00:06:01] We'll talk about it, but think about why, why does
+[00:06:03] it need to make sense?
+[00:06:04] What about a colonoscopy?
+[00:06:07] He's got anemia No rectal bleeding, that's one.
+[00:06:14] Although you can still, if you have anemia, even if
+[00:06:17] you don't have rectal bleeding, you could do a colonoscopy.
+[00:06:21] Well, but why not a colonoscopy?
+[00:06:26] Epigastric pain.
+[00:06:28] Right, so But weight, so weight loss, anemia, there's certainly
+[00:06:32] things to think about, but he's got more epigastric pain,
+[00:06:34] you're kinda going localizing it.
+[00:06:36] A CT scan?
+[00:06:39] Well, One of the other things I didn't mention is
+[00:06:42] before, when I'm reading a question.
+[00:06:46] Whether it's boards or whatever it is, when we do
+[00:06:48] board review, I look at the STEM, I pick out
+[00:06:50] the things that make the most sense, like the important
+[00:06:53] parts, because the MBME is gonna give you these things,
+[00:06:56] right?
+[00:06:56] It just gives you a bunch of clues.
+[00:06:58] And then, before I looked at the distractors, In my
+[00:07:02] mind, I say, what is this?
+[00:07:04] What's the diagnosis?
+[00:07:06] So, If I'm looking at this case, what do you
+[00:07:10] think the diagnosis is?
+[00:07:11] Well, you know what the lecture is.
+[00:07:13] Peptic ulcer disease and gastritis.
+[00:07:15] Remember, some of the ALGs, I said, you wanna know
+[00:07:18] what the test is gonna show you.
+[00:07:19] Is the CT scan the best test to look for
+[00:07:21] that?
+[00:07:22] It can show it, but it's not the best test.
+[00:07:25] And similarly, an upper GI study, right, that's an X-ray,
+[00:07:29] so it can give you an outline, just kind of
+[00:07:30] like the CT scan, it can show you that maybe
+[00:07:32] there's some inflammation, maybe if you're lucky, an ulcer.
+[00:07:35] But really the answer, of course, is an, is an
+[00:07:37] EGD and we kind of fleshed out why.
+[00:07:40] Right?
+[00:07:41] Anti-secretory therapy might make sense in conjunction, cause you suspect
+[00:07:44] that something's going on, gastritis or an ulcer.
+[00:07:47] So yeah, maybe somebody has symptoms, you wanna make them
+[00:07:49] feel better, you wanna prevent an ulcer from bleeding more
+[00:07:51] and getting more anemic, so you might give that a
+[00:07:53] blood transfusion, we already talked about, the hemoglobin is too
+[00:07:56] high, and he's not actively bleeding.
+[00:07:59] Uh, colonoscopy, yeah, let's just say that the person has
+[00:08:01] all these symptoms, and your endoscopy, your upper endoscopy is
+[00:08:04] negative.
+[00:08:04] Yeah, colonoscopy, that makes sense.
+[00:08:09] OK, so you do the endoscopy, and you see this,
+[00:08:11] this is what an ulcer looks like, right?
+[00:08:13] So that is Muscularis mucosa, we'll talk about that in
+[00:08:18] a second.
+[00:08:19] So, when we think about peptic ulcer disease, PUD and
+[00:08:22] gastritis, we talked about why the patient got an EGD,
+[00:08:26] right?
+[00:08:27] Uh, we're going to talk about what the physiology is
+[00:08:30] of acid production, very important.
+[00:08:32] This is a question that you already all of you
+[00:08:35] have started to think about in ALGs.
+[00:08:37] Doctor Fedtari mentioned it in her first lecture, and we're
+[00:08:40] gonna go over it now, but why is the acid
+[00:08:43] high in astrogastritis, and uh and low in pangastritis?
+[00:08:48] And what's the physiology behind acid secretion, what an ulcer
+[00:08:51] is, and what CAGA H pylori is.
+[00:08:56] So, Indications, why did this person get an upper endoscopy?
+[00:09:00] Well, if they have an atypical history, the history just
+[00:09:02] isn't lining up, or their symptoms are long-standing, maybe they're
+[00:09:06] not responding to anti-secretory therapy, that's an indication.
+[00:09:10] That's also an atypical presentation.
+[00:09:13] And then alarm symptoms.
+[00:09:14] So, somebody has really bad dysphagia, or they have weight
+[00:09:17] loss, or they have bleeding, or they have anemia, or
+[00:09:21] they have hematemesis, vomiting bright red blood.
+[00:09:24] Sometimes you can palpate in the abdomen, you know, we
+[00:09:26] always kind of get away from physical exam because we
+[00:09:28] have CAT scans, but you can palpate things often, if
+[00:09:31] you, you are seeing any of these signs, your, your
+[00:09:34] next step really should be uh an upper endoscopy.
+[00:09:39] If we look at what the what the different cells
+[00:09:42] are and what they do in the stomach, this is
+[00:09:45] a gastric pit.
+[00:09:47] And in this cartoon, it represents it, and there are
+[00:09:49] different cells in there, in, in each pit, right?
+[00:09:52] So, there are mucous neck cells, they produce mucus and
+[00:09:56] some bicarbonate, which protects the lining.
+[00:10:00] There's the parietal cells, they make gastric acid, they also
+[00:10:03] make intrinsic factor, B12.
+[00:10:08] There's ECL cells, enterochromophin-like cells, and they produce histamine, which
+[00:10:14] stimulates acid production.
+[00:10:17] There's the chief cells which produce pepcinogen.
+[00:10:21] And gastric lipase, there's D cells, which make somatostatin that
+[00:10:26] inhibits acid production, and then there's G cells which make
+[00:10:29] gastrin that stimulate acid production.
+[00:10:34] This also is an important slide.
+[00:10:36] In general, when you're looking in gastric pits, the majority
+[00:10:42] of parietal cells and ECL cells are in the top
+[00:10:45] part of the stomach, in the high body and fundus
+[00:10:48] of the stomach.
+[00:10:49] And the majority of the G cells and the D
+[00:10:52] cells are in the antrum, and particularly with D cells,
+[00:10:56] they're also in the duodenum.
+[00:10:58] That's important.
+[00:11:00] The location of the different cells is important.
+[00:11:03] It matters when we start talking about H.
+[00:11:05] pylori, it matters when we start talking about surgeries in
+[00:11:08] the stomach, and acid production.
+[00:11:11] So, This is a slide, I believe this was in
+[00:11:15] Doctor Fatari's lecture, but uh at least this one.
+[00:11:18] But basically, what this is talking about is acetylcholine, and
+[00:11:23] what it does.
+[00:11:24] So, basically, when the vagus nerve comes down, all the
+[00:11:28] different places that it stimulates.
+[00:11:29] So, these are 22 that kind of are, are similar
+[00:11:33] slides.
+[00:11:33] I'll go over this one and kind of talk about
+[00:11:35] it, but the G cells are primarily in the antrum,
+[00:11:38] that would correspond to this over here, but the G
+[00:11:40] cells are in the antrum.
+[00:11:42] And these are more in the body and fundus.
+[00:11:46] So basically what happens is, the vagus nerve comes down,
+[00:11:50] and it can stimulate indirectly the G cell through gastric
+[00:11:54] releasing peptide, to make gastrin.
+[00:11:58] Gastrin then goes through the circulation and stimulates the ECL
+[00:12:01] cell and parietal cell, which I'll talk about in a
+[00:12:03] second.
+[00:12:05] Um The, the, uh, acetylcholine also can come in and
+[00:12:09] stimulate the parietal cell directly to make HCL, um, and
+[00:12:14] the, and directly to make the, to the ECL cell
+[00:12:18] to make histamine.
+[00:12:20] To cause to then go on to the parietal cell
+[00:12:24] to make acid, right?
+[00:12:25] So it's all interconnected.
+[00:12:27] I'm gonna show you a slide later, which talks about
+[00:12:30] some of the negative feedback loop.
+[00:12:32] You're gonna see on this, right, this one over here
+[00:12:35] does not have the D cells, but remember also that
+[00:12:39] the vagus nerve thoractelcholine stimulates the D cell, which has
+[00:12:44] negative feedback, meaning tells the stomach to make less acid.
+[00:12:49] Through the ECL cell and the parietal cell.
+[00:12:52] So there is ongoing simultaneous stimulation and and inhibition, right?
+[00:12:58] There's checks and balances, so you don't just have overproduction
+[00:13:01] of acid.
+[00:13:03] And they all work in conjunction with these, with each
+[00:13:05] other.
+[00:13:06] Some people in the past have pointed out where I,
+[00:13:08] I have MM1, M3.
+[00:13:11] You can actually find different diagrams that labeled a little
+[00:13:14] bit different.
+[00:13:15] I think it's important just to know that it's an
+[00:13:17] M cell.
+[00:13:18] I don't care about if it's an MLM3, right, that
+[00:13:21] sort of thing.
+[00:13:22] Um, but just understand that when you look at different,
+[00:13:25] uh, pathophysiologic textbooks when they might talk about some of
+[00:13:27] this stuff, it might be a little bit different.
+[00:13:32] Doctor Fattari definitely talked about this, but the, the 3
+[00:13:35] different phases of digestion.
+[00:13:37] There's the cephalic phase, you smell food, you see food,
+[00:13:40] your vagus is stimulating.
+[00:13:41] It's automatically saying, get ready for food, let's make some
+[00:13:45] acid.
+[00:13:46] Right?
+[00:13:47] So, and then the gastric phase, once the food is
+[00:13:50] in there, the, there are local nervous secretory reflexes to
+[00:13:56] make mucus bicarbonate, but also the vagal reflexes to make
+[00:13:59] the acid, remember, through the ECL cell, as well as
+[00:14:03] through the parietal cell, as well as through the the
+[00:14:06] G cell.
+[00:14:07] Um, and then there are effects that even are in
+[00:14:11] the small bowel, particularly with somatostatin, it, it might be
+[00:14:15] like, make less acid, slow the stomach down a little
+[00:14:18] bit.
+[00:14:19] So, there are different phases that all are in conjunction
+[00:14:21] with each other.
+[00:14:22] This is just really the upper GI tract.
+[00:14:24] Believe it or not, there are a bunch of different
+[00:14:27] reflexes throughout the, the system, where the stomach communicates with
+[00:14:30] the colon.
+[00:14:31] And the ileocecal valve to tell it to slow up
+[00:14:33] or to slow down.
+[00:14:34] We'll talk about that later in motility, but this is
+[00:14:36] just one example of, of how things are coordinated for
+[00:14:40] digestion.
+[00:14:42] There's a question that comes up a lot, and in
+[00:14:44] years past, we didn't have this information, but I think
+[00:14:46] it's very important to understand.
+[00:14:48] When we talk about gastritis and gastropathy, these are histologic
+[00:14:52] diagnoses only.
+[00:14:54] So, sometimes you'll see an endoscopic report that said the
+[00:14:56] patient had gastritis, that's not actually true.
+[00:14:59] Gastritis is a histologic, and gastropathy is histologic.
+[00:15:04] There's overlap.
+[00:15:06] Um, in terms of certain things can cause, cause both
+[00:15:09] a gastropathy or a gastritis.
+[00:15:11] It's kind of important to tease out a little bit,
+[00:15:14] um, uh, when you're looking at pathology.
+[00:15:17] But gastritis is an inflammatory state.
+[00:15:19] That means they're inflammatory cells, lymphocytes, um, neutrophils, eosinophils, Uh,
+[00:15:26] the etiology of them is there's some overlap, but infection,
+[00:15:30] autoimmune, some hypersensitivity reactions, extreme stress, burns, uh, which can
+[00:15:35] cause a lot of local inflammatory mediators.
+[00:15:38] And then there's gastropathy with minimal or no inflammation.
+[00:15:43] And typically it's irritants like bile, alcohol, aspirin, NSAIDs.
+[00:15:50] And when you look at, when you're looking at the
+[00:15:52] histologic slide, you see in the lamina propria, there's a
+[00:15:56] ton of different inflammatory cells, neutrophils, lymphocytes, a few eosinophils.
+[00:16:02] And when you look at gastropathy, you just see a
+[00:16:05] paucity of that inflammation.
+[00:16:06] Not that there's no cells there, but it's not, not
+[00:16:08] nearly like this.
+[00:16:09] And there's a bunch of histologic criteria, not so important
+[00:16:13] for what we're talking about, just understanding the concept that
+[00:16:15] gastritis and gastropathy are histologic and a little bit different.
+[00:16:19] Uh, this is a nice little breakdown, um, not a
+[00:16:22] well-known journal, but it kind of does a nice job
+[00:16:24] of, of kind of teasing it out a little bit.
+[00:16:26] But when we think about gastritis, we think about diffuse,
+[00:16:28] focal, and granulomatous, cause there's different things when we look
+[00:16:32] at, look at it histologically.
+[00:16:34] So, in terms of diffuse, autoimmune, lymphocytic, eosinophilic, or collagenous,
+[00:16:39] these are just different type of inflammatory patterns.
+[00:16:42] And Um, basically it just depends on the cellular type.
+[00:16:48] Whenever you see autoimmune, you oftentimes will see a lymphoplasmacytic
+[00:16:51] infiltration.
+[00:16:53] When you see lymphocytic, it's primary lymphocytes.
+[00:16:56] When you see eosinophilic, primary eosinophils.
+[00:16:59] A collagenous gastritis is basically they'll put a subepithelial collagen
+[00:17:03] deposition, um, and you see that in certain things like
+[00:17:07] collagenous colitis, uh, and sprue.
+[00:17:10] So, there are different, so the histology is important for
+[00:17:13] the diagnosis, and then, therefore the treatment.
+[00:17:15] We treat a lot of these things differently.
+[00:17:17] There's focally enhancing.
+[00:17:18] There's also another big one is granulomatous disease.
+[00:17:21] We always think about Crohn's, sarcoid sarcoiditis, mycobacteria, TB.
+[00:17:26] These are things that can cause granulomatous disease.
+[00:17:30] As compared to gastropathy, where we see acute or reactive
+[00:17:34] gastropathy due to some sort of irritant.
+[00:17:36] The big ones that we typically see endoscopically that mean
+[00:17:39] something to us are GAV, which is gastric vascular acasia,
+[00:17:44] and portal hypertensive gastropathy.
+[00:17:46] We'll see these more next week when we start talking
+[00:17:49] about liver disease.
+[00:17:50] These are kind of vascular abnormalities that happen in the
+[00:17:52] stomach.
+[00:17:53] They have certain histologic uh appearance.
+[00:17:56] Gabe is also known as watermelon stomach, it looks like
+[00:17:58] a watermelon.
+[00:17:59] And then portal hypertensive gastropathy has like a snakeskin appearance.
+[00:18:03] Not so important for now, but, but just understand that
+[00:18:05] there's different types of gastritis, gastropathy, gastritis, inflammatory, gastropathy, non-inflammatory.
+[00:18:13] All right, what's an ulcer?
+[00:18:14] I showed you this picture.
+[00:18:16] Um, Basically, an ulcer has to extend through the muscularis
+[00:18:22] mucosa.
+[00:18:23] And that's what we're seeing here, that the muscularis mucosa
+[00:18:26] is, is compromised, and they persist, oftentimes because in that
+[00:18:31] area, you don't have the protective mechanisms of mucus and
+[00:18:35] bicarbonate.
+[00:18:37] So, normally, what happens is there's some damaging factors like
+[00:18:41] gastric acidity, peptic enzymes, but you have all these hosts
+[00:18:45] protective.
+[00:18:45] You have mucus production, bicarbonate production, you have a lot
+[00:18:48] of blood flow to the mucosa, that keeps the area
+[00:18:52] nice and and energized.
+[00:18:54] Uh, it's a barrier.
+[00:18:56] Uh, it has regenerative capacity, and it also produces prostaglandins.
+[00:19:01] All these things preserve the integrity of the mucosa.
+[00:19:04] But then, if you do stuff, like you go out,
+[00:19:08] drink, smoke, take a bunch of, of NSAIDs.
+[00:19:12] Um, you got H.
+[00:19:13] pylori, this is when you start having some problems, because
+[00:19:17] this overwhelms the mucosa, it's ability to heal, plus you
+[00:19:21] can get other things like ischemia, low blood flow, which
+[00:19:25] compromises the integrity of these protective factors.
+[00:19:28] And then once you go through that muscularis mucosa, that's
+[00:19:31] what an ulcer is.
+[00:19:32] Anything shy of that is what we call an erosion.
+[00:19:38] So which is not a cause of peptic ulcer disease?
+[00:19:42] Stress, malignancy, H.
+[00:19:45] pylori, retained antrum, NSAIDs, zolri syndrome.
+[00:19:49] I'll talk about what these things are, in case you
+[00:19:51] don't know.
+[00:19:52] But the stress, can stress cause an ulcer?
+[00:19:57] What if I told you, like, I'm really stressed.
+[00:20:00] Like I gotta drop my car off, and I got
+[00:20:03] pulled over by the cops.
+[00:20:07] Not so much.
+[00:20:09] What about malignancy?
+[00:20:10] For sure.
+[00:20:11] I mean, malignancy basically can erode through anything, and that's
+[00:20:15] an ulcer.
+[00:20:16] H.
+[00:20:16] pylori, of course, we know that.
+[00:20:19] Retained antrim, do you all know what retained antrim is?
+[00:20:22] I mentioned that when you do surgeries, you can start
+[00:20:25] to, I'm, I'm not testing you on retained antrim, but
+[00:20:26] I want you to understand this.
+[00:20:27] When you do surgeries, um, on, on patients, sometimes you
+[00:20:32] might resect the distal portion of the the the stomach.
+[00:20:36] And leave the proximal portion of the stomach.
+[00:20:39] Well, sometimes in that tissue, and you do that sometimes
+[00:20:42] for, for bypass surgery, weight loss surgery, like a ruin
+[00:20:45] why weight loss, you'll oftentimes have that.
+[00:20:47] You're disconnecting.
+[00:20:48] Remember I said certain cells more produce are are more
+[00:20:51] productive in the antrum, like the G cells and the
+[00:20:53] D cells.
+[00:20:54] But when you have retained antrum in, in certain areas,
+[00:20:57] it can cause ulceration, particularly when you start doing surgery
+[00:21:00] and you connect it, and there's low blood flow also.
+[00:21:03] NSAIDs, of course, Zollinger-Ellison, which I'll talk about here, but
+[00:21:08] stress, and I'll, I'll go through this.
+[00:21:09] So, most common is H.
+[00:21:12] pylorian NSAIDs, by far, and we're gonna talk about this
+[00:21:14] more.
+[00:21:15] Ischemia, low blood flow, right?
+[00:21:17] Ulcers, malignancy, we talked about it.
+[00:21:19] Hypersecretory state.
+[00:21:20] So, Zollinger Ellison has inappropriate production of gastrin.
+[00:21:25] So you have really high gastric levels levels, it tells
+[00:21:27] the stomach, it tells the parietal cells, make acid.
+[00:21:31] And the ACL cells.
+[00:21:32] Systemic mastocytosis is inappropriate production of histamine.
+[00:21:38] Histamine tells the ECL cell, make acid.
+[00:21:41] Uh, anral G cell hyperplasia, there's certain circumstances where you
+[00:21:45] get a ton of G cells in the stomach.
+[00:21:47] So, a lot of those G cells are making a
+[00:21:49] lot more a lot more gastrin, stimulates acid, and we
+[00:21:52] already talked about retain antrim.
+[00:21:54] So, but by far, the two most common are H
+[00:21:56] pylori and NSAIDs, and we're gonna dig into those a
+[00:21:59] little bit.
+[00:22:00] So, your favorite of mine.
+[00:22:02] So, when Doctor Fattari and I first started working together,
+[00:22:07] she was like, what do you want to study?
+[00:22:09] And I was like, well, I'm gonna pick the, one
+[00:22:12] of, this is one of the two things that is
+[00:22:14] just the most difficult, and one of them is H.
+[00:22:17] pylori.
+[00:22:18] It's a fascinating bug.
+[00:22:19] Been around for 60,000 years.
+[00:22:21] Uh, there's some symbiotic relationship with, with us.
+[00:22:25] It most of the times is benign, but can cause
+[00:22:27] really bad disease.
+[00:22:29] It's just a fascinating bug.
+[00:22:31] Um.
+[00:22:32] And that's why we study it.
+[00:22:35] Prevalence-wise, it's very common in underdeveloped countries.
+[00:22:39] In fact, you see, in developing countries, where the majority
+[00:22:43] of the infection is really at youth.
+[00:22:46] And you typically get it, it's, we're not sure how
+[00:22:49] it's transmitted, fecal-oral or oral, oral.
+[00:22:53] So, uh, a lot of times in, in, uh, when
+[00:22:56] things aren't as sanitary, you're more likely to have it,
+[00:22:58] which is why in some, in developing countries.
+[00:23:00] In Western countries, you could see it typically develops later.
+[00:23:03] But what you see is that by the age of
+[00:23:05] 55, 60, that about half the population in the United
+[00:23:08] States has it.
+[00:23:09] That's a whopping number, whopping number.
+[00:23:14] What we figured out is that H.
+[00:23:17] pylori is causal for peptic ulcer disease, and before 1980,
+[00:23:22] we had no idea.
+[00:23:24] Before 1980, we did all sorts of crazy surgeries on
+[00:23:26] people that we had ulcers, we had no idea.
+[00:23:29] Uh, and since we figured out that it's H.
+[00:23:32] pylori, look at that number, that's a whopping number for
+[00:23:34] duodenal ulcer, 92%.
+[00:23:36] Of cause and for gastric ulcer.
+[00:23:38] Now, this is an old slide.
+[00:23:39] This is from 1994.
+[00:23:40] This is Warren and Marshall, right?
+[00:23:43] The, the story you heard about the gastroenterologist, the pathologist,
+[00:23:46] and the gastroenterologist injected, ingested the bacteria and caused an
+[00:23:49] ulcer, right?
+[00:23:50] Crazy experiment, but this is how it was figured out.
+[00:23:53] But this is old, so the data has changed a
+[00:23:55] little bit, but the point is, is that H.
+[00:23:57] pylori is a big cause of this.
+[00:24:00] All right, now let's get to the nitty gritty, because
+[00:24:03] this is a question that comes up.
+[00:24:05] I talked about, we talked about reflux in H.
+[00:24:08] pylori, we start talking about the different patterns of H.
+[00:24:12] pylori.
+[00:24:13] So there's two main types.
+[00:24:15] There's anral or anral duodenal.
+[00:24:17] And then there's a pangastritis, and they present a little
+[00:24:20] bit differently.
+[00:24:21] Both of them have some inflammation, neutrophil cells, the pangastritis
+[00:24:25] tends to have more atrophy and intestinal metaplasia of the
+[00:24:29] stomach, that means replacement of the normal columnar epithelium in
+[00:24:32] the in the stomach with intestinal mucosa.
+[00:24:36] The same thing, remember, happens in the esophagus, that's Barrett's.
+[00:24:40] Barrett's is different than this, they both are intestinal metaplasia,
+[00:24:43] one is intestinal metaplasia in the esophagus, that's Barrett's, what
+[00:24:46] is intestinal metaplasia in the stomach, this is just gastrocintestinal
+[00:24:49] metaplasia, different entities.
+[00:24:51] Same idea, you have metaplasia of the tissue.
+[00:24:55] Acid acid output is increased in um in antraduodenal and
+[00:25:02] reduced in pan.
+[00:25:04] For these anral duodenal, you get gastric metaplasia in the
+[00:25:08] duodenum.
+[00:25:10] And they tend to be duodenal ulcers, not that they
+[00:25:12] can't be an ulcers, but, but we call them a
+[00:25:15] duodenal ulcers, as compared to pangastritis where these people get
+[00:25:19] gastric ulcer.
+[00:25:20] Why, and this is where I need the energy, why
+[00:25:23] is the acid increased in intraduodenal and decreased in pan?
+[00:25:34] I showed you the slide where stuff where the different
+[00:25:37] cells are, where there's different production of gastrin and and
+[00:25:43] acid.
+[00:25:46] Go be a acid Right, right, so I'm gonna say
+[00:25:53] that again.
+[00:25:55] I'll say what he said, which is right, um, which
+[00:25:58] is in pangastritis, so, Let's go through it.
+[00:26:02] In ogastritis, duodenal gastritis, you're causing inflammation primarily in the
+[00:26:07] anterin duodenum.
+[00:26:09] It preferentially hits the, the D cells, which makes somatostatin,
+[00:26:13] which means the gastrin goes up.
+[00:26:17] And when gastrin goes up, it goes through the circulatory
+[00:26:20] system into the body and fundus, and it tells those
+[00:26:22] cells, make more acid, ECL cell and parietal cell, make
+[00:26:25] more acid.
+[00:26:26] So, those people have more acid produced production.
+[00:26:30] So acid is up.
+[00:26:32] In pangastric, it's the same pathophysiology happens.
+[00:26:35] So it affects the, the D cells in the anter
+[00:26:39] duodenum, you have higher gastrin.
+[00:26:42] The gastri goes up, but there's no cells, there's limited
+[00:26:46] parietal cells in the body and fundus to make the
+[00:26:49] acid.
+[00:26:52] And then this goes back to the conversation that I
+[00:26:54] talked about when we were talking about reflux.
+[00:26:57] You know, there is evidence that There's less acid esophagitis
+[00:27:03] and Barrett's in people with, it's really the pan-gastritis ones.
+[00:27:08] So those people, because they have less acid, they don't
+[00:27:11] have as much complications from reflux.
+[00:27:15] Right, and that's the concept, and that's the concept that
+[00:27:17] I wanted to kind of tease out.
+[00:27:19] If anybody's confused on it and you want to act
+[00:27:21] now, we talk about it again, or you can talk
+[00:27:23] to me in private, it doesn't matter, but an important
+[00:27:25] concept and something to think about.
+[00:27:28] Anybody need me to say that again?
+[00:27:31] All right, I'll say it again anyway.
+[00:27:35] Nobody's gonna admit it.
+[00:27:36] So, once again, duodenal ulcer, right?
+[00:27:39] You've decreased amount of statin, you have more gastrin, you
+[00:27:42] also have a parietal cell mass that's there, and you
+[00:27:44] make a lot of acid.
+[00:27:46] In this one, peptic ulcer, the gastrin's up, but you
+[00:27:49] don't have a lot of parietal cells there, so you
+[00:27:51] don't make a lot of acid.
+[00:27:56] So, um, I just talked about this, right?
+[00:27:59] This is why there is a question, because in some
+[00:28:01] people with, with duodenal, their acid is increasing, that doesn't
+[00:28:06] really hold true, but when you look at the people
+[00:28:07] with the pangastritis, there's definitely a correlation.
+[00:28:13] Uh, I didn't mention.
+[00:28:16] I said I'm gonna talk about CAA, uh, ICA1, and
+[00:28:19] VACS1.
+[00:28:20] These are more virulent forms of H.
+[00:28:24] pylori.
+[00:28:25] These are the ones that typically will cause the pangastritis,
+[00:28:29] which is probably the worst of them.
+[00:28:31] These are the ones that typically will develop into, into
+[00:28:34] malignancy, adenocarcinoma, malt lymphomas.
+[00:28:37] They're not readily available, I mean I can't take a
+[00:28:40] blood test or a breath test to to To tell
+[00:28:43] you what you have.
+[00:28:44] They're more, uh, they're more for studies, but these are
+[00:28:47] the ones that tend to be, um, more the pangastritis.
+[00:28:51] When I showed you that slide of in last lecture,
+[00:28:54] of reflux, and its relation, inverse relationship to H.
+[00:28:58] pylori, and I showed you the slides from the Far
+[00:29:00] East where there was more association, it's because the Far
+[00:29:03] East has more of these virulent forms.
+[00:29:08] So there's a definite association between its most common cause
+[00:29:11] of, of adenocarcinoma and MLT lymphoma.
+[00:29:15] So we consider H.
+[00:29:16] pylori a class one carcinogen.
+[00:29:18] When I find it, I treat it, and I try
+[00:29:20] to treat it to eradication.
+[00:29:22] So, the indications for H.
+[00:29:23] pylori testing, this question came up several times in different
+[00:29:26] ALG groups.
+[00:29:27] So, if somebody has a MALT lymphoma, you wanna test
+[00:29:31] for H.
+[00:29:31] pylori, and you wanna treat for H.
+[00:29:34] pylori, cause in this particular condition, it can cause regression
+[00:29:37] of the MAT lymphoma.
+[00:29:39] Uh, in somebody with an active history or a history
+[00:29:42] of peptic ulcer disease where you don't know the H.
+[00:29:43] pyloris test, you wanna check.
+[00:29:45] There's limited evidence, but we oftentimes will check for uninvestigated
+[00:29:49] dyspepsia, less than 60 year old, 60 years old, right?
+[00:29:53] So you might test, somebody's coming up with a lot
+[00:29:55] of dyspeptic symptoms, you don't want to do an endoscopy,
+[00:29:57] you test for H.
+[00:29:57] pylori.
+[00:29:58] Prior to long-term treatment with NSAIDSs, we're gonna talk about
+[00:30:01] NSAIDs later.
+[00:30:02] Unexplained iron deficiency anemia.
+[00:30:05] Uh, and ITP, we see people with low, can develop
+[00:30:08] ITP, low platelets from H.
+[00:30:10] pylori.
+[00:30:11] So it's got a lot of um properties to it
+[00:30:13] that affect different systems.
+[00:30:16] Gastricintestinal metaplasia, remember, different than than metaplasia in the esophagus,
+[00:30:20] that's Barrett's, this is gastricintestinal metaplasia.
+[00:30:23] But basically what you're seeing is these columnar cells, but
+[00:30:26] you're seeing these goblet cells, right?
+[00:30:28] Doesn't that look like a big glass of wine?
+[00:30:31] That these are goblet cells, right?
+[00:30:32] And some panet cell metaplasia.
+[00:30:34] This is what you see, histologic diagnosis.
+[00:30:37] I could look at a stomach, I can't tell you
+[00:30:39] if it has gastric intestinal metaplasia, it's only through the
+[00:30:42] biopsies.
+[00:30:43] And there's this coreous cascade.
+[00:30:46] Where basically, you have non-infected mucosa all the way down
+[00:30:49] to gastric cancer, and we know that there's an an
+[00:30:52] association that goes through these different stages, and it goes
+[00:30:55] through these different stages by different inflammatory mediators, right?
+[00:31:00] BabA2, IL-16, there's also the presence of this CAG, remember
+[00:31:05] CAG, that's a more aggressive virulent form.
+[00:31:07] And it, you will see, you'll start to see an
+[00:31:09] atrophic gastritis, histologic diagnosis, you look at it, there's a
+[00:31:13] lot of atrophy, and then you get to this intestinal
+[00:31:16] metaplasia, low grade dysplasia, high grade dysplasia, and cancer.
+[00:31:20] When we start to see intestinal metaplasia, that's kind of
+[00:31:23] the pathologic point of no return.
+[00:31:25] I mean, once you have it, you typically always keep
+[00:31:27] it.
+[00:31:27] Not 100%, but you keep it.
+[00:31:29] And when we see that, that's when we start to
+[00:31:31] get worried about the progression to malignancy.
+[00:31:34] And that's why when we have infected patients with H.
+[00:31:37] pylori, we treat them.
+[00:31:39] Remember, the vast majority don't go down this pathway.
+[00:31:43] We just don't know who is who.
+[00:31:46] We don't have screening programs for H.
+[00:31:48] pylori, particularly in asymptomatic patients, because it's not cost-effective, it
+[00:31:51] doesn't make sense.
+[00:31:52] You're gonna put people at risk for a bunch of
+[00:31:53] testing that they don't need, when the majority of the
+[00:31:55] people are just gonna stay right here.
+[00:32:00] What we know is if you eradicate H.
+[00:32:02] pylori, um, there is long-term remission from ulcers, meaning, if
+[00:32:08] you treat somebody, they don't have ulcers.
+[00:32:10] If you don't treat somebody, They get ulcers.
+[00:32:13] And also, if you treat H.
+[00:32:15] pylori, you reduce the complication, right?
+[00:32:17] This is H.
+[00:32:18] pylori patients that are present.
+[00:32:20] Do you have recurrent urels and recurrent bleeding?
+[00:32:22] The answer is yes.
+[00:32:24] When you eliminate the H.
+[00:32:25] pylori, the answer is no, right?
+[00:32:28] So when you see H.
+[00:32:28] pylori to prevent ulcers, you want to do that.
+[00:32:32] All right, a little boardsty question.
+[00:32:34] 56 year old man comes to the office for upper
+[00:32:37] abdominal pain occurring in the last month.
+[00:32:39] His other medical problems include coronary artery disease and osteoarthritis,
+[00:32:44] medications, aspirin, simvastatin, acetaminophen as needed.
+[00:32:47] The patient does not use tobacco or illicit drugs.
+[00:32:50] Upper endoscopy is performed and reveals a gastric ulcer.
+[00:32:54] A biopsy of the ulcer is taken and placed in
+[00:32:56] a urea containing solution.
+[00:32:59] That includes phenyl red and a pH indicator.
+[00:33:02] 30 minutes later, the solution has turned pink, indicating a
+[00:33:05] pH increase.
+[00:33:07] The test results, uh, suggest which of the following processes
+[00:33:11] occurring.
+[00:33:11] So, Without looking at the answers, what is this test
+[00:33:15] telling you?
+[00:33:15] What, what are, what are we looking at here?
+[00:33:17] You have a gastric ulcer, and they're telling you they're
+[00:33:20] doing some tests.
+[00:33:21] So, what are we looking at?
+[00:33:24] We didn't really talk about it, you might not know
+[00:33:25] it, but We're talking about H.
+[00:33:28] pylori, right?
+[00:33:29] That's, this is, this is the, the biopsy, this is
+[00:33:33] the urea urea test for H.
+[00:33:35] pylori.
+[00:33:37] So H.
+[00:33:38] pylori, well, let's go through the answers, then we'll talk
+[00:33:41] about it.
+[00:33:41] So clonal proliferation of glandular cells.
+[00:33:46] That has nothing to do with H pylorian acid.
+[00:33:49] Cyclo-oxygenase leading to a mucosal damage.
+[00:33:54] Well, we're gonna talk about that a little bit more,
+[00:33:57] but cyclooxyogenase, uh, and anything that I said about H
+[00:34:01] pylori, cyclooxygenation has nothing to do with it, but I
+[00:34:04] like the thought of it.
+[00:34:05] Enzymatic production of ammonia.
+[00:34:10] Gastric hypersecretion leading to acid overproduction.
+[00:34:12] I'm not sure how that relates in a biopsy.
+[00:34:15] That you're doing where you're doing pH testing, and parietal
+[00:34:18] cell destruction due to autoimmune disease, not really talking about
+[00:34:21] autoimmunity, we're also talking about a biopsy.
+[00:34:24] I mean, the answer is Ammonia, so.
+[00:34:28] This is a rapid urease test.
+[00:34:29] You do an endoscopy, you do a biopsy, and basically
+[00:34:32] you put it in a solution, and, and H.
+[00:34:35] pylori needs urease.
+[00:34:37] It breaks down urea, uh, into ammonia and, and, uh,
+[00:34:43] and CO2.
+[00:34:44] So, basically, H.
+[00:34:45] pylori, it lives in the stomach because it creates a
+[00:34:48] basic environment about itself.
+[00:34:49] So, it's a urease producing bacteria, and that's what this
+[00:34:53] test is designed on.
+[00:34:54] Simple as that.
+[00:34:56] But just something to more to understand what H.
+[00:34:58] pylori is.
+[00:34:59] It needs to live in that basic environment.
+[00:35:01] If you just put H pylori, it didn't have urease
+[00:35:02] in the stomach, it would die, cause the acid would
+[00:35:04] kill it.
+[00:35:06] These are the tests for H.
+[00:35:08] pylori.
+[00:35:09] There's a lot of tests.
+[00:35:10] There's serology, meaning you check a blood test and you
+[00:35:13] check the antibody.
+[00:35:14] We do not use that test so much anymore, because
+[00:35:18] that test can't tell me chronicity.
+[00:35:20] It can't tell me if it's an acute infection or
+[00:35:22] a chronic infection.
+[00:35:23] In fact, if I, if you had H.
+[00:35:25] pylori and I gave you antibiotics, that test could remain
+[00:35:28] positive for years, the antibody tests.
+[00:35:30] We don't typically check that.
+[00:35:33] Uh, the urea breath test works the exact same way
+[00:35:35] as that biopsy test, it does the same thing.
+[00:35:39] So, the breath test and the stool antigen test, both
+[00:35:43] of them are very high sensitivity and specificity, they're the
+[00:35:47] main test that we use.
+[00:35:50] You can't be, I've mentioned that in when I, when
+[00:35:52] I, we talked to Doctor Burkazzi, you cannot be on
+[00:35:56] antibiotics or PPI therapy.
+[00:35:59] Because it can give you a false negative test.
+[00:36:02] So there's some things, but in the right setting, it's
+[00:36:05] very good.
+[00:36:05] And histology, that's one of the main ways that we
+[00:36:07] do it, meaning, I go in and do a biopsy
+[00:36:10] and I do histology.
+[00:36:12] The, the rapid urease test, which is the test that
+[00:36:14] I just showed you on that question, uh, still in
+[00:36:17] existence, but, uh, not as, as sensitive or specific.
+[00:36:21] Uh, we don't, it takes a little time to do,
+[00:36:23] so we don't do it.
+[00:36:24] Culture, very sensitive in certain circumstances.
+[00:36:27] So, I have somebody where I can't get rid of
+[00:36:30] their H.
+[00:36:30] pylori, I might go in and do a biopsy and
+[00:36:32] send it to the lab.
+[00:36:33] It's really hard to culture.
+[00:36:34] It takes a long time, um.
+[00:36:37] It's got some issues, it's in the guidelines.
+[00:36:39] I don't totally like it, it's out there, just so
+[00:36:42] you know.
+[00:36:45] H.
+[00:36:45] pylori is a very difficult bacteria to treat.
+[00:36:48] We talked about it with Doctor Burke Cassy, the different
+[00:36:50] treatments.
+[00:36:52] The most, the current recommendation is quadruple therapy, that's based
+[00:36:56] on resistant patterns in the United States, and in particularly
+[00:37:00] in urban areas.
+[00:37:01] It's 4 different antibiotics, it can cause a lot of
+[00:37:04] side effects.
+[00:37:05] It's 2 weeks, um, and It's the, it's the treatment
+[00:37:11] of choice.
+[00:37:12] Um, it, you know, on here, the, uh, the, the
+[00:37:16] triple therapy, the, the, um, amoxicillin.
+[00:37:22] Azithromycin and PPI is moved down on this list.
+[00:37:25] We don't even use it that much.
+[00:37:26] That's what she originally got, cause there's a ton of
+[00:37:29] resistance to amoxic to azithromycin, right?
+[00:37:32] You know, a Z-Pak, everybody takes a Z-Pak for, for,
+[00:37:35] azithromycin for upper respiratory infection, so it's resistance through the
+[00:37:38] roof, oftentimes doesn't work.
+[00:37:41] But I mentioned uh a new one is Telicia, that's
+[00:37:44] rifabutin based.
+[00:37:45] There's also Boquenza, which is the vennorazin, that's the PCA.
+[00:37:49] I don't like to use brand names.
+[00:37:50] They use the brand name in this one cause it's
+[00:37:52] a dual pack.
+[00:37:53] They also have a Vquenza triple pack, right?
+[00:37:56] Just be familiar with these treatments, but know that the,
+[00:37:58] the primary treatment is, um, is with quadruple bismuth-based therapy.
+[00:38:05] The other main category, we already talked about H.
+[00:38:07] pylori to, the other main category is, is NSAIDs.
+[00:38:10] NSAIDs are still and more prevalent proportionally since we figured
+[00:38:14] out H.
+[00:38:14] pylori of, uh, that, that causes problems.
+[00:38:17] And besides that, NSAIDs toxicity causes other stuff.
+[00:38:19] This is an old slide cause obviously, AIDS is in
+[00:38:21] here, that's not so much the case anymore.
+[00:38:23] But basically, what it's telling you is, we have a
+[00:38:25] lot of people on NSAIDSs and NSAIDs do a lot
+[00:38:27] of problems.
+[00:38:28] They do ulcers, they cause bleeding, they cause kidney problems.
+[00:38:32] Um, so, just beware of them.
+[00:38:34] In fact, uh, about 15 to 30% of people that
+[00:38:38] use, um, that use NSAIDs, if you look at them,
+[00:38:41] it's been studied, if you look at them endoscopically, a
+[00:38:42] lot of them have, have silent ulcers.
+[00:38:44] This is an ulcer right here.
+[00:38:47] There's the ones that are more productive, like the COX-2
+[00:38:49] inhibitors like a celecoxib.
+[00:38:52] Yeah, they're a little bit better, but still they can
+[00:38:54] cause acid, uh, they can cause ulcers, so something to
+[00:38:57] keep in mind.
+[00:38:59] When we look at NSAIDs and what they do, these
+[00:39:02] are the normal protective, uh, mechanisms.
+[00:39:04] So you have acidic environment, but you have this mucus
+[00:39:07] layer, bicarbonate all protecting these epithelial cells, right?
+[00:39:13] And you also have prostaglandin production, which, which, which helps
+[00:39:17] with, with um bicarbonate mucus production.
+[00:39:21] But then NSAIDs come along, and NSAIDs basically Destroy that,
+[00:39:27] the local, a local effect, and also, um, an effect
+[00:39:32] in terms of blood flow to the, to the gastric
+[00:39:34] mucosa.
+[00:39:35] So you get rid of these host defenses, and this
+[00:39:38] is how you develop ulcers.
+[00:39:41] We know that it's dose dependent.
+[00:39:43] So, if somebody has, this is a European study, but
+[00:39:46] so we have 81 instead of 75 mg with a
+[00:39:48] baby aspirin, right?
+[00:39:50] It's still risk, but it's much less risk than if
+[00:39:53] you're using aspirin and other NSAIDs, or the dose of
+[00:39:56] the aspirin is going up, right?
+[00:39:58] So, it's a dose effect.
+[00:40:02] Particularly in patients that are elderly, I'm almost 60, so
+[00:40:06] get in there, that doesn't sound elderly, but older patients,
+[00:40:10] History of peptic ulcer disease, other drug-related factors like the,
+[00:40:14] the, the NSAIDs, high dose of NSAIDs, particularly 2, when
+[00:40:19] you're starting to use uh anticoagulation that makes those vessels
+[00:40:22] slippery.
+[00:40:23] So when an ulcer opens up a little bit, they
+[00:40:25] bleed a lot more.
+[00:40:26] And also corticosteroids, right?
+[00:40:29] Cause that helps with the prostaglandin.
+[00:40:31] So, when you use corticosteroid and and NSAIDs, that's like
+[00:40:36] dual therapy, and these people are at increased risk.
+[00:40:40] Um, when we talk about, uh, peptic ulcer disease, I
+[00:40:44] just kind of mentioned this, when you, when you have
+[00:40:46] NSAIDs and H.
+[00:40:48] pylori, those two are worse together than alone.
+[00:40:52] If you have just 11 or the other, not as
+[00:40:56] bad, but they work synergistically to cause ulcers.
+[00:41:01] And we also will prophylax.
+[00:41:02] Some, some patients need to have had a complicated ulcer
+[00:41:05] and need to be on the, and need to be
+[00:41:07] on acid reducing medicines, anti-secretory therapy to protect against that
+[00:41:12] because they're at high risk.
+[00:41:13] What we know is the PPIs are better than the
+[00:41:16] H2 blockers, right?
+[00:41:17] So, omeprazole PPI causes is, is, has less of an
+[00:41:22] ulcer risk than just using ranitidine, an H2 blocker.
+[00:41:28] This is an important slide, and this harkens back to
+[00:41:31] the slide I showed in the beginning.
+[00:41:32] So I want you to know this slide, right?
+[00:41:35] I mentioned the M the M receptors, remember, they're different
+[00:41:37] on this slide than the other slide.
+[00:41:39] Same idea, vagus nerve goes in, tells the GCL through
+[00:41:42] GRP to make gastrin.
+[00:41:45] Gastrin then goes through the vessels, goes up, stimulates the
+[00:41:50] ECL cell to make histamine, to stimulate the parietal cell,
+[00:41:53] stimulates the uh parietal cell to make acid, right?
+[00:41:57] At the same time, the vagus is giving some negative
+[00:42:00] feedback, stimulates the D cell, tells it a negative inventory
+[00:42:04] effect on the G cell, right?
+[00:42:07] So, understand this, this slide and how it works.
+[00:42:12] All right, parieto cells make what?
+[00:42:16] Thank you.
+[00:42:18] Chief sales Thank you, G cells.
+[00:42:24] And these cells, good.
+[00:42:27] We're gonna quickly talk about the different pharmacology of these
+[00:42:31] medications and how they are used.
+[00:42:33] Uh, it's important to know how they act, and the
+[00:42:35] side effect profile.
+[00:42:37] So, antacids, histamine receptors, H2 blockers, we often call them
+[00:42:41] PPIs, and mucosal protective agents, new kid on the block,
+[00:42:45] the PCAs, these are potassium competitive acid blockers, they're the
+[00:42:48] ones that are new.
+[00:42:50] Vioprazen is the only one on the market as of
+[00:42:52] now.
+[00:42:54] So look up, look about the antacids.
+[00:42:55] So, it basically neutralizes the sodium without the side effects
+[00:42:59] of aluminum or magnesium.
+[00:43:02] Uh, sometimes people will get the side effect profile, they'll
+[00:43:05] get CO2, uh, production, so they'll often belch a lot.
+[00:43:08] They can get a hypercalcemia, because of that, they can
+[00:43:12] also get nephrolithiasis is an old, an old syndrome, milk
+[00:43:15] alkali syndrome, where they're just consuming, it's when people used
+[00:43:18] to drink milk for ulcers.
+[00:43:20] I just put it in there for historical reference.
+[00:43:24] Uh, the, some of the other antacids.
+[00:43:26] So, they use a combination of aluminum and magnesium.
+[00:43:30] Uh, magnesium causes diarrhea, aluminum causes constipation.
+[00:43:34] So, when they use them in conjunction with each other,
+[00:43:36] they don't cause one or the other.
+[00:43:39] But, um, but basically what they do is they, uh,
+[00:43:43] they stimulate gastric secretion, uh, I already mentioned that aluminum
+[00:43:49] can inhibit motility, uh, magnesium can create motility.
+[00:43:54] Sometimes when people take milk of magnesia, go to the
+[00:43:55] bathroom, or magnesium citrate, that gives them diarrhea.
+[00:43:59] Um, Anything that ends with uh tidine, so ranitidine and
+[00:44:06] famotidine, uh, these are the H2 blockers.
+[00:44:10] Remember they block the action of histamine on parietal cells.
+[00:44:13] Histamine is a pretty powerful uh component of acid secretion,
+[00:44:18] so they do work.
+[00:44:20] They're decreasing acids, you have increased risk of infections, they
+[00:44:23] have some uh malabsorption of, of B12.
+[00:44:27] They can really eitidine, nobody really uses this much, but
+[00:44:30] they can cause gynecomastia and galactorrhea.
+[00:44:33] So, know it.
+[00:44:36] The PPIs, the and and prazos, these are omeprazole, lansoprazole,
+[00:44:41] dex lansoprazole.
+[00:44:43] Um, they inhibit that, that, uh, that sodium potassium ATPase,
+[00:44:48] right?
+[00:44:49] The, the hydrogen potassium pump, it's the final common pathway
+[00:44:52] of acid production, so they are the most, uh, powerful.
+[00:44:57] Until recently, they irreversibly bind to that ATPS.
+[00:45:01] Same sort of infection or same sort of side effects,
+[00:45:04] increased infections, diarrhea, malabsorption of B12, and iron, so stuff
+[00:45:08] to know about.
+[00:45:09] And also calcium.
+[00:45:11] There's a thought that maybe that can, they can cause
+[00:45:13] uh some bone mineral issues.
+[00:45:17] New kid on the block, vinoprazam.
+[00:45:19] And vinorazin is that PCA, it's very similar to PPIs
+[00:45:24] and it acts on that hydrogen potassium ATPase.
+[00:45:29] It um binds reversibly, I have that in here somewhere,
+[00:45:33] it binds reversibly.
+[00:45:35] There we go.
+[00:45:36] Um, but same way, it pre it prevents potassium from
+[00:45:41] being imported into the cell, and therefore prevents hydrogen from
+[00:45:45] being exported.
+[00:45:47] Uh, 350 times more potent than PPIs, doesn't matter if
+[00:45:50] you take it with or without food.
+[00:45:52] Um, Other agents less commonly used, uh, misoprostol is a
+[00:46:00] big one.
+[00:46:00] It's a, uh, prostaglandin one derivative, so this helps with
+[00:46:04] mucosa, uh, um, mucus and bicarbonate production.
+[00:46:09] It inhibits adenocyclase and parietal cells and it impairs acid
+[00:46:12] secretion.
+[00:46:13] Big contraindication in pregnant women, they often give when they
+[00:46:17] want, uh, a woman to deliver, they will oftentimes give
+[00:46:19] her misoprostol to stimulate uterine contractions.
+[00:46:22] You obviously don't want that in everybody, so, um, it's
+[00:46:26] something to worry about.
+[00:46:26] You can't use it for pregnant patients, causes crampy pain,
+[00:46:29] diarrhea.
+[00:46:30] A lot of people don't like it.
+[00:46:31] We don't use it, but it's there, it's still on
+[00:46:33] the market, you should know about it.
+[00:46:35] Mucosal protective agents.
+[00:46:37] They basically polymerizes the presence of, in, in the presence
+[00:46:40] of gastric acid to make this kind of viscous protective
+[00:46:44] layer that adheres to the, to the mucosa.
+[00:46:47] It's like a protective layer.
+[00:46:48] We use it for in the ICU for stress ulcerations,
+[00:46:50] it kind of coats that.
+[00:46:52] Um, it doesn't have many side effects.
+[00:46:54] It can cause some constipation.
+[00:46:56] The other one of these is the bismuth.
+[00:46:58] Bismuth is in H.
+[00:47:00] pylori treatment, right?
+[00:47:02] Black tongue, black stool.
+[00:47:03] I always ask somebody that tells me they came in
+[00:47:05] with with dark stool, whether they're on Bismuth, and cause
+[00:47:09] some constipation, rarely some ringing in the ears.
+[00:47:13] This is the kind of uh the relative effects, so,
+[00:47:16] antacids are good, but temporary.
+[00:47:19] H2 blockers have a longer half-life, and, uh but, you
+[00:47:24] know, maybe not as effective.
+[00:47:25] Like if you're gonna increase the the PH to 5.3,
+[00:47:28] the PPIs are the best.
+[00:47:31] Um, the PCAs, I didn't write that on there, the
+[00:47:34] PCAs are even better, above 6, right?
+[00:47:37] So vinoprazen is, is above 6.
+[00:47:40] So, PPIs do.
+[00:47:43] Buffer acid and final common pathway, see uterine contractions, block
+[00:47:48] downstream action of substance secreted by ACL.
+[00:47:58] What do PPIs do?
+[00:48:00] Come on, don't be shy.
+[00:48:04] What do they act on?
+[00:48:06] The proton pump, the sodium, potassium, ATPase.
+[00:48:11] They are the final common pathway.
+[00:48:14] PPIs are the final common pathway.
+[00:48:15] They act on, on that parietal cell, right?
+[00:48:19] That's the final common pathway of production, cause remember the
+[00:48:21] ECL goes through the parietal cell.
+[00:48:24] ECL makes histamine to go through the parietal cell, so
+[00:48:26] it blocks the final final common pathway.
+[00:48:29] Right?
+[00:48:30] So histamine basically blocks down steam production of histamine secreted
+[00:48:34] by the ECL so.
+[00:48:36] Antacids, all they do is buffer.
+[00:48:38] And mucosal agents can cause uterine contractions.
+[00:48:44] The prevalence of H.
+[00:48:44] pylori is.
+[00:48:47] Just know that it's coming.
+[00:48:50] In chronic gastritis, what's the point, the pathologic point of
+[00:48:53] no return?
+[00:48:53] I spent on that curious cascade.
+[00:48:56] Intestinal metaplasia, that's correct.
+[00:48:58] You can have chronic active gastritis, but that never progresses,
+[00:49:01] atrophic gastritis, but once you get to intestinal metaplasia, that's
+[00:49:05] when then when you start to worry about malignancy rest.
+[00:49:09] What's true of the effect of magnesium-based antacids, cause diarrhea,
+[00:49:14] causes constipation, reacts with chloride to neutralize the pH.
+[00:49:19] Cause mental status changes.
+[00:49:22] Diarrhea.
+[00:49:25] Which agents are used to treat acid-related disorders?
+[00:49:29] Like Doctor Fertari said, if you don't get this right,
+[00:49:31] I will cry a lot.
+[00:49:37] All the above.
+[00:49:40] OK.
+[00:49:42] All right, any questions?
+[00:49:45] Raise your hand.
+[00:49:46] Any questions?
+[00:49:49] All right, thank you very much take care.
+[00:49:57] That was a lot more energy.
+[00:49:58] I liked it.

@@ -1,0 +1,256 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Exam · CMSRU Lecture Qbank</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap">
+<link rel="stylesheet" href="css/qf-design.css">
+<link rel="stylesheet" href="css/exam.css">
+<link rel="stylesheet" href="css/labs.css">
+</head>
+<body data-phase="exam">
+
+<!-- ================= header ================= -->
+<header class="ex-top">
+  <a class="ex-logo" href="index.html" title="Home" aria-label="Qbank home">
+    <svg viewBox="0 0 28 28" width="26" height="26" aria-hidden="true"><rect x="2" y="2" width="24" height="24" rx="6" fill="none" stroke="#fff" stroke-width="2.2"/><path d="M8 14.5l4 4 8-9" stroke="#fff" stroke-width="2.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg>
+    <span>Qbank</span>
+  </a>
+  <span class="ex-divider"></span>
+  <div class="ex-title" id="exTitle"></div>
+  <button class="ex-clock" id="clock" aria-live="off">
+    <span class="ck-lab">TIME REMAINING</span><span class="ck-val" id="clockVal">00:00</span>
+    <span class="ck-alarm"><svg viewBox="0 0 24 24" width="20" height="20"><circle cx="12" cy="13" r="7.5" fill="none" stroke="currentColor" stroke-width="2"/><path d="M12 9v4l2.5 2M4 5l3-2.5M20 5l-3-2.5" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round"/></svg> DISMISS ALARM</span>
+  </button>
+  <button class="ex-labs" id="labHdr" title="Laboratory values (Ctrl/Cmd+G)">
+    <svg viewBox="0 0 24 24" width="18" height="18"><path d="M9 3h6M10 3v6l-5 9a2 2 0 0 0 1.7 3h10.6a2 2 0 0 0 1.7-3l-5-9V3" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/><path d="M7.5 15h9" stroke="currentColor" stroke-width="1.6"/></svg>
+    LAB VALUES</button>
+  <div class="ex-ctrl-wrap">
+    <button class="ex-ctrl" id="ctrlBtn" aria-haspopup="menu" aria-expanded="false">EXAM CONTROLS <svg viewBox="0 0 12 8" width="11" height="8"><path d="M1 1.5l5 5 5-5" stroke="currentColor" stroke-width="1.8" fill="none"/></svg></button>
+    <div class="ex-menu" id="ctrlMenu" role="menu" hidden>
+      <button role="menuitem" data-act="attach">Exam Attachments</button>
+      <button role="menuitem" data-act="hide">Hide Exam</button>
+      <button role="menuitem" data-act="suspend">Suspend Exam</button>
+      <button role="menuitem" data-act="tutor" id="tutorItem">Turn On Tutor Mode</button>
+      <button role="menuitem" data-act="simple">Switch to Simple View</button>
+      <button role="menuitem" data-act="dark" id="darkItem">Dark Mode</button>
+      <button role="menuitem" data-act="submit" class="strong">Submit Exam</button>
+    </div>
+  </div>
+  <button class="ex-tk" id="tkBtn" aria-pressed="false">TOOL KIT <svg viewBox="0 0 6 22" width="5" height="18"><circle cx="3" cy="3" r="2.2" fill="currentColor"/><circle cx="3" cy="11" r="2.2" fill="currentColor"/><circle cx="3" cy="19" r="2.2" fill="currentColor"/></svg></button>
+</header>
+
+<div class="ex-body">
+  <!-- ================= navigator ================= -->
+  <aside class="ex-nav" aria-label="Question navigator">
+    <div class="nv-filter-wrap">
+      <button class="nv-filter" id="filterBtn">FILTER <span>›</span></button>
+      <div class="ex-menu nv-filter-menu" id="filterMenu" hidden>
+        <label><input type="radio" name="nf" value="all" checked> All</label>
+        <label><input type="radio" name="nf" value="answered"> Answered</label>
+        <label><input type="radio" name="nf" value="unanswered"> Unanswered</label>
+        <label><input type="radio" name="nf" value="flagged"> Flagged</label>
+      </div>
+    </div>
+    <button class="nv-chev" id="navUp" aria-label="Scroll questions up"><svg viewBox="0 0 16 10" width="16" height="10"><path d="M2 8l6-6 6 6" stroke="currentColor" stroke-width="2" fill="none"/></svg></button>
+    <div class="nv-list" id="navList"></div>
+    <button class="nv-chev" id="navDown" aria-label="Next question"><svg viewBox="0 0 16 10" width="16" height="10"><path d="M2 2l6 6 6-6" stroke="currentColor" stroke-width="2" fill="none"/></svg></button>
+  </aside>
+
+  <!-- ================= question ================= -->
+  <main class="ex-main" id="exMain">
+    <div class="ex-scroll" id="qScroll">
+      <div class="ex-q">
+        <div class="q-head">
+          <div class="q-jump-wrap">
+            <button class="q-num" id="qNum">Question 1 <svg viewBox="0 0 12 8" width="11" height="8"><path d="M1 1.5l5 5 5-5" stroke="currentColor" stroke-width="1.8" fill="none"/></svg></button>
+            <div class="ex-menu q-jump" id="qJump" hidden></div>
+          </div>
+          <button class="q-flag" id="flagBtn" aria-pressed="false"><svg viewBox="0 0 14 16" width="11" height="13"><path d="M2 15V1.5M2 2h9l-2 3.5L11 9H2" stroke="currentColor" stroke-width="1.8" fill="none" stroke-linejoin="round"/></svg><span>FLAG QUESTION</span></button>
+          <div class="q-hl">
+            <button class="q-hl-pen" id="hlPen" title="Highlighter" aria-pressed="false"><svg viewBox="0 0 24 24" width="20" height="20"><path d="M14.5 4.5l5 5L10 19H5v-5z" fill="var(--hlc)" stroke="#263D50" stroke-width="1.6" stroke-linejoin="round"/><path d="M3 21.5h10" stroke="var(--hlc)" stroke-width="3"/></svg></button>
+            <button class="q-hl-eraser" id="hlEraser" title="Eraser: drag over highlighted text to remove" aria-pressed="false"><svg viewBox="0 0 24 24" width="20" height="20"><path d="M8.5 19.5L3.5 14.5 13 5l7 7-7.5 7.5zM8.5 19.5H20M7 11l6 6" stroke="#263D50" stroke-width="1.6" fill="none" stroke-linejoin="round"/></svg></button>
+            <button class="q-hl-more" id="hlMore" title="Highlight colors" aria-expanded="false">›</button>
+            <div class="q-hl-dots" id="hlDots" hidden></div>
+          </div>
+          <span class="ex-sp"></span>
+          <label class="q-tutor" title="Tutor mode: check each answer and see the lecture explanation right away">
+            <input type="checkbox" id="tutorSw"><span class="sw-track"><span class="sw-knob"></span></span><span>TUTOR</span>
+          </label>
+        </div>
+        <div class="q-imgwrap" id="qImg"></div>
+        <div class="q-stem" id="qStem" data-part="stem"></div>
+        <div class="q-cur" id="qCur"></div>
+        <div class="q-choices" id="qChoices" role="group" aria-label="Answer choices"></div>
+        <div class="q-check" id="qCheckRow" hidden><button class="check-btn" id="checkBtn">Check Answer</button><span id="checkHint"></span></div>
+        <section class="q-rationale" id="qRationale" hidden></section>
+      </div>
+    </div>
+  </main>
+
+  <!-- ================= tool kit ================= -->
+  <aside class="ex-kit" id="kit" hidden aria-label="Tool Kit">
+    <div class="kit-tabs" role="tablist">
+      <button role="tab" data-tab="tools" aria-selected="true">TOOLS</button>
+      <button role="tab" data-tab="calc" aria-selected="false">CALCULATOR</button>
+      <button role="tab" data-tab="notes" aria-selected="false">NOTES</button>
+    </div>
+    <div class="kit-panes">
+      <section class="kit-pane" data-pane="tools">
+        <div class="kit-sec">
+          <div class="kit-lab">HIGHLIGHTER</div>
+          <div class="kit-dots" id="kitDots"></div>
+        </div>
+        <div class="kit-sec">
+          <div class="kit-lab">TIMERS</div>
+          <div class="kit-time"><svg viewBox="0 0 24 24" width="22" height="22"><circle cx="12" cy="13" r="8" fill="none" stroke="#263D50" stroke-width="1.8"/><path d="M12 9v4l3 2M9 2.5h6" stroke="#263D50" stroke-width="1.8" fill="none"/></svg><b id="kitTime">00:00:00</b> <span>Time Remaining</span></div>
+          <div id="alarmRows"></div>
+          <button class="kit-link" id="addAlarm">+ Add Alarm</button>
+          <div class="add-alarm" id="addAlarmBox" hidden>
+            <div class="aa-row"><input type="number" id="aaMin" min="1" value="5" aria-label="Minutes"> minutes
+              <select id="aaKind"><option value="before">before the end of exam</option><option value="from">from this point in time</option></select></div>
+            <div class="aa-row"><button class="kit-btn" id="aaSave">Add</button><button class="kit-btn ghost" id="aaCancel">Cancel</button></div>
+          </div>
+        </div>
+        <div class="kit-sec">
+          <div class="kit-lab">ADJUST TEXT SIZE</div>
+          <div class="kit-size"><span class="aa-s">Aa</span><input type="range" id="sizeRange" min="0" max="6" step="1" aria-label="Text size"><span class="aa-l">Aa</span></div>
+        </div>
+        <div class="kit-sec">
+          <div class="kit-lab">EXAM DOCUMENTS</div>
+          <button class="kit-doc" id="docAttach">Exam Attachments <i>1</i></button>
+          <button class="kit-doc" id="docNotices">Exam Notices <i>1</i></button>
+        </div>
+      </section>
+      <section class="kit-pane" data-pane="calc" hidden><div class="cx" id="calcHost"></div></section>
+      <section class="kit-pane" data-pane="notes" hidden>
+        <textarea id="notesArea" class="kit-notes"></textarea>
+        <label class="kit-fb"><input type="checkbox" id="fbBox"> REQUEST FEEDBACK</label>
+        <p class="kit-hint">Notes stay in this browser. They are not graded.</p>
+      </section>
+    </div>
+    <button class="kit-close" id="kitClose">CLOSE TOOLKIT</button>
+  </aside>
+</div>
+
+<!-- ================= footer ================= -->
+<footer class="ex-foot">
+  <div class="ft-left"><b id="ftCount">1 OF 1 QUESTIONS</b><span>QBANK EXAM MODE</span></div>
+  <span class="ex-sp"></span>
+  <button class="ft-btn prev" id="prevBtn">Previous</button>
+  <button class="ft-btn next" id="nextBtn">Next</button>
+</footer>
+
+<!-- ================= overlays ================= -->
+<div class="ov ov-start" id="ovStart" hidden>
+  <div class="st-top"><svg viewBox="0 0 28 28" width="26" height="26"><rect x="2" y="2" width="24" height="24" rx="6" fill="none" stroke="#fff" stroke-width="2.2"/><path d="M8 14.5l4 4 8-9" stroke="#fff" stroke-width="2.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg> Qbank</div>
+  <div class="st-wrap">
+    <h1 id="stTitle"></h1>
+    <div class="st-tiles">
+      <div class="st-tile"><span>QUESTIONS</span><b id="stN"></b></div>
+      <div class="st-tile"><span>TIME LIMIT</span><b id="stTime"></b></div>
+      <div class="st-tile"><span>BACKWARD NAVIGATION</span><b>Allowed</b></div>
+      <div class="st-tile"><span>SECTIONS</span><b>1</b></div>
+    </div>
+    <table class="st-tbl"><thead><tr><th>EXAM TOOLS</th><th></th></tr></thead><tbody>
+      <tr><td>Highlighting</td><td class="on">ON</td></tr>
+      <tr><td>Calculators</td><td class="on">ON</td></tr>
+      <tr><td>Notes</td><td class="on">ON</td></tr>
+      <tr><td>Exam attachments (laboratory values)</td><td class="on">ON</td></tr>
+      <tr><td>Exam alarms</td><td class="on">ON</td></tr>
+    </tbody></table>
+    <label class="st-tutor"><input type="checkbox" id="stTutor"> Start with Tutor mode on (check each answer as you go; you can switch it any time)</label>
+    <button class="st-go" id="stGo">Start Exam</button>
+  </div>
+</div>
+
+<div class="ov ov-blue" id="ovHide" hidden>
+  <div class="card2">
+    <div class="c2-l navy"><svg viewBox="0 0 28 28" width="56" height="56"><rect x="2" y="2" width="24" height="24" rx="6" fill="none" stroke="#fff" stroke-width="2"/><path d="M8 14.5l4 4 8-9" stroke="#fff" stroke-width="2.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
+    <div class="c2-r"><h2>Exam Hidden</h2><p>Click Resume to continue.</p><button class="g-btn" id="resumeBtn">Resume</button></div>
+  </div>
+</div>
+
+<div class="ov ov-dim" id="ovSuspend" hidden>
+  <div class="card1">
+    <h2>Suspend Exam</h2>
+    <p>This will suspend your exam so you can complete it later.</p>
+    <button class="g-btn" id="suspendYes">Suspend Exam</button>
+  </div>
+  <button class="ov-link" id="suspendNo">RETURN TO EXAM</button>
+</div>
+
+<div class="ov ov-blue" id="ovSubmit" hidden>
+  <div class="card2 wide">
+    <div class="c2-l grey">
+      <h3>Return To Exam?</h3>
+      <p>By clicking this button, you will be directed back to the exam.</p>
+      <button class="n-btn" id="subBack">Return To Exam</button>
+    </div>
+    <div class="c2-r">
+      <h3>Submit Your Exam?</h3>
+      <p>By submitting the exam, you will not be able to return to the exam.</p>
+      <label class="ready"><input type="checkbox" id="readyBox"> I am ready to exit my exam.</label>
+      <button class="g-btn" id="subGo" disabled>Submit Exam</button>
+    </div>
+  </div>
+</div>
+
+<div class="ov ov-dim" id="ovIncomplete" hidden>
+  <div class="card1">
+    <h2>Exam Incomplete</h2>
+    <p>You haven't answered all the questions. Are you sure you want to close the exam?</p>
+    <button class="g-btn" id="incBack">Return To Exam</button>
+  </div>
+  <button class="ov-link" id="incClose">CLOSE EXAM</button>
+</div>
+
+<div class="ov ov-blue" id="ovResults" hidden>
+  <div class="card2 wide">
+    <div class="c2-l navy"><svg viewBox="0 0 28 28" width="56" height="56"><rect x="2" y="2" width="24" height="24" rx="6" fill="none" stroke="#fff" stroke-width="2"/><path d="M8 14.5l4 4 8-9" stroke="#fff" stroke-width="2.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
+    <div class="c2-r center">
+      <h3>Preliminary Results</h3>
+      <div class="pr-lab">Objective Question Score*</div>
+      <div class="pr-ring"><span id="prScore">0</span> / <span id="prTotal">0</span></div>
+      <p class="pr-foot">*Calculated from this practice set only.</p>
+      <div class="pr-btns"><button class="g-btn" id="toUpload">Continue to Upload</button><button class="g-btn" id="toReview1">Continue to Review</button></div>
+    </div>
+  </div>
+  <p class="ov-note"><b>Attention:</b> This is your calculated score. Your answers are saved to your progress in this browser.</p>
+</div>
+
+<div class="ov ov-green" id="ovDone" hidden>
+  <div class="card2 wide">
+    <div class="c2-l dark"><div class="done-circle"><svg viewBox="0 0 48 48" width="40" height="40"><path d="M12 25l8 8 16-18" stroke="#313E4E" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></div></div>
+    <div class="c2-r">
+      <h3>Congratulations!</h3>
+      <p>Your exam has been successfully uploaded.</p>
+      <div class="up-bar"><i></i><b>100%</b></div>
+      <div class="done-btns"><button class="d-btn" id="toReview2">Review Exam</button><a class="g-btn" href="index.html">Close</a></div>
+    </div>
+  </div>
+</div>
+
+<!-- notices + lab values pop-up windows -->
+<div class="exw" id="noticeWin" hidden>
+  <div class="exw-h"><span>Exam Notices</span><button class="exw-x" data-close="noticeWin" aria-label="Close">✕</button></div>
+  <div class="exw-body">
+    <p><b>Practice exam.</b> Every question is from a CMSRU lecture slide, lecture notes, a formative quiz, or something said in lecture. After you submit, review shows the professor's own words and slides for each answer.</p>
+    <p>Shortcuts: Ctrl/Cmd + &gt; next, Ctrl/Cmd + &lt; previous, Ctrl/Cmd + Shift + A–E select an answer, Ctrl/Cmd + H hide exam, Ctrl/Cmd + G lab values. Arrow keys also move between questions.</p>
+  </div>
+</div>
+<div class="exw lab" id="labWin" hidden>
+  <div class="exw-h"><span>Exam Attachments · Laboratory Values</span><button class="exw-x" data-close="labWin" aria-label="Close">✕</button></div>
+  <div class="exw-body" id="labBody"></div>
+</div>
+
+<script src="js/store.js"></script>
+<script src="js/data.js"></script>
+<script src="js/explain.js"></script>
+<script src="js/calc.js"></script>
+<script src="js/labs.js"></script>
+<script src="js/exam.js"></script>
+</body>
+</html>
