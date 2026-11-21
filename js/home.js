@@ -10,7 +10,8 @@
   const st = {
     block: pref("block", null),
     lecs: new Set(pref("lecs", [])),
-    srcs: new Set(pref("srcs", Object.keys(SRC))),
+    // a source added after a visitor saved their picks starts ticked for them
+    srcs: new Set([...pref("srcs", Object.keys(SRC)), ...Object.keys(SRC).filter(k => !pref("srcsSeen", ["slide", "notes", "formative", "said"]).includes(k))]),
     pools: new Set(pref("pools", ["unused", "incorrect", "correct", "flagged"])),
     open: new Set(pref("openWeeks", [])),
   };
@@ -38,6 +39,9 @@
   catch (e) { $("#tree").innerHTML = `<div class="empty">Couldn't load the question list. Try reloading.</div>`; route(); return; }
   questions = lectures.length ? await Data.questions(lectures) : [];
   const blocks = [...new Set(lectures.map(l => l.block))];
+  // ?block=MIID%20II opens that block, so a class can be sent a link straight to its own questions
+  const askBlock = new URLSearchParams(location.search).get("block");
+  if (askBlock && blocks.includes(askBlock)) st.block = askBlock;
   if (!blocks.includes(st.block)) st.block = blocks[blocks.length - 1];
   const known = new Set(lectures.map(l => l.lecture_id));
   st.lecs = new Set([...st.lecs].filter(id => known.has(id)));
@@ -56,9 +60,10 @@
   };
   const inPools = q => poolOf(q).some(p => st.pools.has(p));
   const eligible = q => st.srcs.has(q.source) && inPools(q);
-  const picked = () => questions.filter(q => st.lecs.has(q.lecture_id) && eligible(q));
+  // only the open block counts, so lectures ticked under another block never leak into a test
+  const picked = () => questions.filter(q => q.block === st.block && st.lecs.has(q.lecture_id) && eligible(q));
   function save() {
-    Store.pref("block", st.block); Store.pref("lecs", [...st.lecs]); Store.pref("srcs", [...st.srcs]);
+    Store.pref("block", st.block); Store.pref("lecs", [...st.lecs]); Store.pref("srcs", [...st.srcs]); Store.pref("srcsSeen", Object.keys(SRC));
     Store.pref("pools", [...st.pools]); Store.pref("openWeeks", [...st.open]);
   }
 
@@ -81,7 +86,7 @@
     return `<label class="tick ${n === 0 ? "zero" : ""}"><input type="checkbox" data-g="${group}" data-k="${key}" ${on ? "checked" : ""}> ${esc(label)} <span class="cnt">${n}</span></label>`;
   }
   function renderFilters() {
-    const base = questions.filter(q => st.lecs.has(q.lecture_id));
+    const base = questions.filter(q => q.block === st.block && st.lecs.has(q.lecture_id));
     const bySrc = base.filter(q => st.srcs.has(q.source));
     $("#pools").innerHTML = Object.entries(POOLS).map(([k, v]) => tick("pool", k, v, st.pools.has(k), bySrc.filter(q => poolOf(q).includes(k)).length)).join("");
     $("#sources").innerHTML = Object.entries(SRC).map(([k, v]) => tick("src", k, v, st.srcs.has(k), base.filter(q => q.source === k && inPools(q)).length)).join("");

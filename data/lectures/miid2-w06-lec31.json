@@ -1,0 +1,217 @@
+{
+ "lecture_id": "miid2-w06-lec31",
+ "block": "MIID II",
+ "week": 6,
+ "lecture": "31 Congenital Infections",
+ "contributor": "caleb",
+ "questions": [
+  {
+   "id": "miid2-w06-lec31-q01",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 31 slides",
+   "stem": "A newborn born at 38 weeks is small for gestational age with marked microcephaly. Examination shows a scattered petechial rash and an enlarged liver and spleen. Platelet count is 48,000/microL (150,000 to 450,000) and hemoglobin is 10.1 g/dL (14 to 22). Head ultrasound shows calcifications lining the ventricles. A hearing screen is abnormal in one ear. The mother had normal prenatal labs and no known illness in pregnancy.\n\nWhich test is the best way to confirm the most likely diagnosis?",
+   "choices": [
+    "Viral PCR on urine or saliva within the first 3 weeks of life",
+    "Specific IgM on cord blood sent to a specialty reference laboratory",
+    "Rapid plasma reagin (RPR) testing on the infant's serum",
+    "Fetal blood sampling for PCR at 18 weeks in a later pregnancy",
+    "Heterophile antibody testing on the infant's serum"
+   ],
+   "answer": 0,
+   "evidence": [],
+   "note": "**Congenital CMV (most common intrauterine infection) causes microcephaly, periventricular calcifications, petechiae and hearing loss; diagnose by urine or saliva PCR in the first 3 weeks of life.**\n\nMicrocephaly, periventricular calcifications, petechiae with thrombocytopenia, hepatosplenomegaly and hearing loss in a newborn of a mother with no recognized illness is congenital cytomegalovirus (CMV), the most common intrauterine infection. About 1 to 2% of US newborns are infected, and around 10% of them are affected at birth. Calcifications in a periventricular pattern and hearing loss are the comparison chart's CMV clues.\n\nDiagnosis is by CMV PCR on urine and/or saliva in the first 3 weeks of life, which is highly sensitive and specific. After 3 weeks, a positive result could reflect infection acquired after birth rather than in utero.\n\nViral PCR on urine or saliva within the first 3 weeks of life: correct. CMV PCR on urine or saliva in the first 3 weeks confirms congenital CMV.\n\nSpecific IgM on cord blood sent to a specialty reference laboratory: incorrect. Cord blood IgM sent to a specialty lab is the screening path for congenital toxoplasmosis.\n\nRapid plasma reagin (RPR) testing on the infant's serum: incorrect. RPR screens for syphilis, which presents with rash on the palms and soles, snuffles and periostitis.\n\nFetal blood sampling for PCR at 18 weeks in a later pregnancy: incorrect. Fetal blood sampling at 18 weeks is a prenatal approach for toxoplasmosis, not a way to diagnose this newborn.\n\nHeterophile antibody testing on the infant's serum: incorrect. Heterophile antibodies relate to EBV and are not used for congenital CMV."
+  },
+  {
+   "id": "miid2-w06-lec31-q02",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 31 slides",
+   "stem": "A 2-week-old boy has an enlarging head circumference and poor feeding. Head CT shows dilated lateral ventricles with scattered calcifications throughout the brain tissue. Retinal examination shows bilateral lesions with dense central pigment surrounded by a pale ring. Urine CMV PCR is negative. His mother is a first-time gardener who works in her vegetable beds without gloves and changes the litter box for two outdoor cats.\n\nWhich organism is most likely responsible, and how did the mother most likely acquire it?",
+   "choices": [
+    "Cytomegalovirus, from contact with saliva of young children",
+    "Rubella virus, from respiratory droplets of an unvaccinated contact",
+    "Listeria monocytogenes, from soft cheese or deli meat",
+    "Treponema pallidum, from sexual contact during the pregnancy",
+    "Toxoplasma gondii, from oocysts in cat feces in soil or the litter box"
+   ],
+   "answer": 4,
+   "evidence": [],
+   "note": "**Congenital toxoplasmosis: chorioretinitis, hydrocephalus and intracranial calcifications, acquired from cat feces, soil or undercooked meat.**\n\nChorioretinitis, hydrocephalus and intracranial calcifications form the classic triad of congenital toxoplasmosis, though only 10 to 30% of infants show all three. Chorioretinitis is the most frequent finding. The comparison chart pairs hydrocephalus, calcifications and chorioretinitis with toxoplasmosis, while CMV is tied to microcephaly and periventricular calcifications, and his urine CMV PCR is negative.\n\nRisk factors in the lecture include owning outdoor cats, cleaning the litter box, gardening and soil contact, unwashed produce and eating raw or undercooked meat (which accounts for about half of US cases). This mother has several.\n\nCytomegalovirus, from contact with saliva of young children: incorrect. CMV causes microcephaly with periventricular calcifications, and his CMV PCR is negative.\n\nRubella virus, from respiratory droplets of an unvaccinated contact: incorrect. Congenital rubella causes cataracts, heart defects and deafness, not hydrocephalus with chorioretinitis.\n\nListeria monocytogenes, from soft cheese or deli meat: incorrect. Neonatal listeriosis presents as sepsis or meningitis, often after preterm birth.\n\nTreponema pallidum, from sexual contact during the pregnancy: incorrect. Congenital syphilis presents with rash on the palms and soles, snuffles and periostitis.\n\nToxoplasma gondii, from oocysts in cat feces in soil or the litter box: correct. Hydrocephalus, diffuse calcifications and chorioretinitis with cat and soil exposure is congenital toxoplasmosis."
+  },
+  {
+   "id": "miid2-w06-lec31-q03",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 31 slides",
+   "stem": "Two pregnant women in the same clinic have documented primary Toxoplasma gondii infection. Woman 1 seroconverted at 10 weeks' gestation. Woman 2 seroconverted at 32 weeks' gestation. Neither has a history of earlier infection. A student asks how the two pregnancies compare in the chance that the fetus becomes infected and in how severely an infected infant is likely to be affected.\n\nWhich comparison is correct?",
+   "choices": [
+    "Woman 1 has the higher transmission risk and a more severely affected infant if infected",
+    "Woman 2 has the higher transmission risk and a more severely affected infant if infected",
+    "Woman 2 has the lower transmission risk but a more severely affected infant if infected",
+    "Woman 1 has the lower transmission risk but the more severely affected infant if infected",
+    "Both have the same transmission risk, because each is a primary infection"
+   ],
+   "answer": 3,
+   "evidence": [],
+   "note": "**In maternal toxoplasmosis, transmission risk rises with gestational age while severity is greatest when the fetus is infected early.**\n\nFor toxoplasmosis, the risk of transmission to the fetus rises as pregnancy goes on: about 15% in the first trimester, 30% in the second and 60% in the third. Severity runs the opposite way. Infection early in pregnancy, when it does reach the fetus, most often produces a severely affected infant.\n\nSo Woman 1 is less likely to transmit, but an infected fetus would likely be severely affected; Woman 2 is more likely to transmit, usually with milder disease. Both are primary infections, which carry more risk than reactivation, but timing still separates them.\n\nWoman 1 has the higher transmission risk and a more severely affected infant if infected: incorrect. Transmission risk is lower in the first trimester, not higher.\n\nWoman 2 has the higher transmission risk and a more severely affected infant if infected: incorrect. Late infection transmits more often but usually causes milder disease.\n\nWoman 2 has the lower transmission risk but a more severely affected infant if infected: incorrect. Late infection carries the higher, not lower, transmission risk.\n\nWoman 1 has the lower transmission risk but the more severely affected infant if infected: correct. Early infection transmits less often but causes more severe disease.\n\nBoth have the same transmission risk, because each is a primary infection: incorrect. Transmission risk depends on timing, not only on whether infection is primary."
+  },
+  {
+   "id": "miid2-w06-lec31-q04",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 31 slides",
+   "stem": "A 27-year-old woman at 14 weeks' gestation has new fatigue and swollen neck lymph nodes. Serology shows Toxoplasma IgG and IgM, both negative on a sample stored from before pregnancy, so this is a new primary infection. Fetal ultrasound is normal, and amniotic fluid PCR is planned for later in pregnancy. Her obstetrician starts a drug right away and explains what it is expected to do.\n\nWhich of the following best describes the purpose of this drug?",
+   "choices": [
+    "It treats a fetus that is already infected and reverses brain injury",
+    "It lowers the chance that the parasite crosses to the fetus",
+    "It clears bradyzoite cysts from the mother's brain and eye",
+    "It replaces pyrimethamine and sulfadiazine for the newborn",
+    "It prevents reactivation of a latent infection later in life"
+   ],
+   "answer": 1,
+   "evidence": [],
+   "note": "**Spiramycin in pregnancy reduces transmission of toxoplasmosis to the fetus by about 50% but does not treat an already infected fetus.**\n\nThe drug is spiramycin. Given during pregnancy after an acute maternal infection, it reduces transmission from mother to fetus by about 50%. It does not treat a fetus that is already infected.\n\nThat is why the plan continues with amniotic fluid PCR (around 18 weeks) to look for fetal infection. If the infant is born infected, treatment is pyrimethamine and sulfadiazine for at least a year.\n\nIt treats a fetus that is already infected and reverses brain injury: incorrect. Spiramycin does not treat an already infected fetus.\n\nIt lowers the chance that the parasite crosses to the fetus: correct. Spiramycin reduces mother-to-fetus transmission by about half.\n\nIt clears bradyzoite cysts from the mother's brain and eye: incorrect. No drug in the lecture clears bradyzoite cysts.\n\nIt replaces pyrimethamine and sulfadiazine for the newborn: incorrect. Infected newborns are treated with pyrimethamine and sulfadiazine, not spiramycin.\n\nIt prevents reactivation of a latent infection later in life: incorrect. Spiramycin is given to reduce fetal transmission, not to prevent later reactivation."
+  },
+  {
+   "id": "miid2-w06-lec31-q05",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 31 slides",
+   "stem": "A 16-day-old girl is evaluated for poor growth. She was born at term to a first-time mother who had several days of low-grade fever and cough in the late first trimester; the mother's immunity status was never confirmed before pregnancy. The infant has a continuous murmur, cloudy lenses in both eyes, an enlarged liver and spleen, and failed hearing screens in both ears. Echocardiogram shows a patent ductus arteriosus. Head CT shows two small calcifications.\n\nWhich congenital infection is the most likely diagnosis?",
+   "choices": [
+    "Congenital cytomegalovirus infection",
+    "Congenital toxoplasmosis",
+    "Congenital varicella syndrome",
+    "Congenital syphilis",
+    "Congenital rubella syndrome"
+   ],
+   "answer": 4,
+   "evidence": [],
+   "note": "**Congenital rubella causes cataracts, bilateral deafness and heart defects (patent ductus arteriosus, pulmonary artery stenosis); first-trimester infection gives the most anomalies.**\n\nCataracts, bilateral sensorineural hearing loss and a patent ductus arteriosus after a maternal illness in the first trimester describe congenital rubella syndrome. Its permanent findings center on the heart, eye, brain and ear. Cardiac findings are present in over half of affected infants (patent ductus arteriosus, pulmonary arterial stenosis, pulmonary valve stenosis), and deafness, usually bilateral, is the most common finding. Transient findings include hepatosplenomegaly, poor growth and bone marrow involvement, and a few calcifications can occur, as in the lecture's case.\n\nThe range of findings is inversely related to gestational age at maternal infection: first-trimester infection is most likely to produce multiple anomalies, while infants infected after 12 weeks may have only deafness or retinopathy. The comparison chart contrasts this bilateral hearing loss with the one-sided hearing loss typical of CMV.\n\n**Timing of maternal rubella | Typical outcome**\n\n- First trimester: Highest risk, multiple anomalies (heart, eye, ear)\n- After 12 weeks: Often deafness or retinopathy only\n\nCongenital cytomegalovirus infection: incorrect. Congenital CMV causes microcephaly, periventricular calcifications and petechiae, with hearing loss that is typically one-sided; cataracts and a PDA point elsewhere.\n\nCongenital toxoplasmosis: incorrect. Toxoplasmosis causes chorioretinitis, hydrocephalus and diffuse calcifications, not cataracts with a PDA.\n\nCongenital varicella syndrome: incorrect. Congenital varicella causes limb hypoplasia and skin scarring, and cataracts without a heart lesion.\n\nCongenital syphilis: incorrect. Congenital syphilis causes a palm and sole rash, snuffles and periostitis.\n\nCongenital rubella syndrome: correct. Cataracts, bilateral deafness and a patent ductus arteriosus after first-trimester maternal illness are congenital rubella."
+  },
+  {
+   "id": "miid2-w06-lec31-q06",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 31 slides",
+   "stem": "A 4-week-old boy is brought in for a persistent, blood-tinged nasal discharge and poor feeding. Examination shows a copper-colored maculopapular rash on the palms and soles and an enlarged liver. He cries when his arms are moved, and radiographs show inflammation along the shafts of several long bones. His mother had little prenatal care and had a painless genital sore early in pregnancy that healed on its own.\n\nWhich treatment is indicated for this infant?",
+   "choices": [
+    "Ganciclovir",
+    "Pyrimethamine and sulfadiazine",
+    "Varicella-zoster immune globulin",
+    "Penicillin",
+    "No specific antimicrobial treatment exists"
+   ],
+   "answer": 3,
+   "evidence": [],
+   "note": "**Congenital syphilis (palm and sole rash, snuffles, periostitis) is treated with penicillin; each TORCH infection has its own clue findings and treatment.**\n\nSnuffles (a persistent nasal discharge), a maculopapular rash on the palms and soles and periostitis of the long bones are the comparison chart's findings for congenital syphilis, and the mother's healed painless genital sore fits primary syphilis. The chart pairs congenital syphilis with penicillin treatment.\n\nThe same chart pairs each TORCH infection with its treatment: toxoplasmosis with pyrimethamine and sulfadiazine, CMV with ganciclovir, rubella with no specific treatment, and varicella exposure near delivery with varicella-zoster immune globulin for the newborn.\n\n**TORCH infection | Clue findings | Treatment**\n\n- Toxoplasmosis: Hydrocephalus, diffuse calcifications, chorioretinitis; Pyrimethamine and sulfadiazine\n- Rubella: Cataracts, bilateral deafness, PDA; None specific\n- CMV: Microcephaly, periventricular calcifications, petechiae, hearing loss; Ganciclovir or valganciclovir\n- Syphilis: Palm and sole rash, snuffles, periostitis; Penicillin\n- Varicella: Limb hypoplasia, skin scars, cataracts; Immune globulin if exposed near delivery\n\nGanciclovir: incorrect. Ganciclovir treats congenital CMV.\n\nPyrimethamine and sulfadiazine: incorrect. Pyrimethamine and sulfadiazine treat congenital toxoplasmosis.\n\nVaricella-zoster immune globulin: incorrect. Varicella-zoster immune globulin is for newborns exposed to maternal varicella near delivery.\n\nPenicillin: correct. Congenital syphilis is treated with penicillin.\n\nNo specific antimicrobial treatment exists: incorrect. No specific treatment is the answer for congenital rubella, not syphilis."
+  },
+  {
+   "id": "miid2-w06-lec31-q07",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 31 slides",
+   "stem": "A term newborn develops grunting, tachypnea, poor perfusion and a temperature of 38.4 C (101.1 F) two hours after a vaginal delivery. Membranes had been ruptured for 22 hours before birth, and the mother received no antibiotics during labor. Blood culture grows facultative Gram-positive cocci in chains that are beta-hemolytic. Chest radiograph shows diffuse bilateral opacities.\n\nWhich maternal factor was the most important determinant of this infection?",
+   "choices": [
+    "Presence of the organism in the maternal genital tract at delivery",
+    "Maternal ingestion of soft cheese or deli meat during pregnancy",
+    "Primary maternal infection acquired in the first trimester",
+    "Contact with cat feces while the mother was gardening",
+    "Maternal bloodstream infection that seeded the placenta before delivery"
+   ],
+   "answer": 0,
+   "evidence": [],
+   "note": "**Early-onset GBS infection (sepsis, pneumonia, meningitis within the first week, often the first hours) depends mainly on maternal genital tract colonization at delivery.**\n\nSepsis and pneumonia within hours of birth from beta-hemolytic Gram-positive cocci in chains is early-onset group B *Streptococcus* (GBS) infection. Early-onset disease (under 7 days) presents as septicemia, pneumonia or meningitis, with a median onset of 1 hour after birth.\n\nThe lecture names presence of GBS in the maternal genital tract at delivery as the most important determinant of early-onset infection. About 15 to 40% of women are colonized, and infants acquire the organism by the ascending route or during delivery, about half of the time when no intrapartum antibiotics are given. Prolonged rupture of membranes adds to the risk.\n\n**Early-onset GBS | Late-onset GBS**\n\n- Age: Under 7 days (median 1 hour); 7 to 89 days (median 27 days)\n- Picture: Septicemia, pneumonia, meningitis; Bacteremia without focus, meningitis (often serotype III), bone and joint infection\n\nPresence of the organism in the maternal genital tract at delivery: correct. Maternal genital tract colonization at delivery is the key determinant of early-onset GBS.\n\nMaternal ingestion of soft cheese or deli meat during pregnancy: incorrect. Soft cheese and deli meat are sources of *Listeria*.\n\nPrimary maternal infection acquired in the first trimester: incorrect. Primary first-trimester infection describes the TORCH pathogens, not GBS.\n\nContact with cat feces while the mother was gardening: incorrect. Cat feces transmit *Toxoplasma*.\n\nMaternal bloodstream infection that seeded the placenta before delivery: incorrect. Transplacental seeding from maternal bacteremia describes *Listeria*, not GBS."
+  },
+  {
+   "id": "miid2-w06-lec31-q08",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 31 slides",
+   "stem": "A 6-day-old boy born at 34 weeks after 30 hours of ruptured membranes develops fever, irritability, a bulging fontanelle and poor feeding. His mother had a fever during labor. Cerebrospinal fluid shows many neutrophils and Gram-negative rods, and culture grows a lactose-fermenting organism. Typing shows the isolate carries a particular capsular polysaccharide antigen.\n\nWhich virulence factor is most specifically associated with this organism causing neonatal meningitis?",
+   "choices": [
+    "A lipid-rich waxy cell wall rich in mycolic acids",
+    "Motility that allows the organism to spread to the placenta",
+    "A fusion protein that lets it enter epithelial cells",
+    "Beta-hemolysis caused by a secreted toxin",
+    "K1 capsular polysaccharide antigen"
+   ],
+   "answer": 4,
+   "evidence": [],
+   "note": "**E. coli with the K1 capsular antigen is uniquely associated with neonatal meningitis; risks include prematurity, prolonged rupture of membranes, maternal intrapartum infection and galactosemia.**\n\nGram-negative rods in the cerebrospinal fluid of a premature neonate after prolonged rupture of membranes and maternal intrapartum fever point to *Escherichia coli*. The lecture notes that *E. coli* and other Gram-negative rods cause neonatal bacteremia and meningitis that look clinically like GBS, acquired from the maternal genital tract.\n\nThe *E. coli* strain with the K1 capsular polysaccharide antigen is uniquely associated with neonatal meningitis. Predisposing factors include maternal intrapartum infection, prematurity, low birth weight, prolonged rupture of membranes and, among metabolic causes, galactosemia.\n\nA lipid-rich waxy cell wall rich in mycolic acids: incorrect. A mycolic acid wall describes mycobacteria.\n\nMotility that allows the organism to spread to the placenta: incorrect. Motility with placental spread describes *Listeria*, a Gram-positive rod.\n\nA fusion protein that lets it enter epithelial cells: incorrect. A fusion protein for cell entry describes RSV.\n\nBeta-hemolysis caused by a secreted toxin: incorrect. Beta-hemolysis describes group B *Streptococcus*, a Gram-positive coccus.\n\nK1 capsular polysaccharide antigen: correct. K1 capsular antigen marks the *E. coli* strain linked to neonatal meningitis."
+  },
+  {
+   "id": "miid2-w06-lec31-q09",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 31 slides",
+   "stem": "Two women deliver infants on the same day. Woman 1 was CMV seronegative at her first prenatal visit and seroconverted during the second trimester. Woman 2 has been CMV seropositive since adolescence, and PCR showed viral shedding in her urine late in pregnancy. Both infants are tested at birth. A student asks which infant is more likely to have symptomatic disease and why.\n\nWhich of the following is the best answer?",
+   "choices": [
+    "Woman 2's infant, because reactivated virus is more virulent",
+    "Both equally, because maternal IgG does not cross the placenta to protect them",
+    "Woman 2's infant, because shedding late in pregnancy reaches the fetus",
+    "Woman 1's infant, because primary maternal infection more often causes fetal disease",
+    "Neither, because CMV causes disease only in immunocompromised hosts"
+   ],
+   "answer": 3,
+   "evidence": [],
+   "note": "**Primary maternal infection during pregnancy is more likely to cause fetal disease than reactivation of a prior infection.**\n\nA primary maternal infection acquired during pregnancy is more likely to cause infection and disease in the fetus. A secondary maternal infection, a reactivation of an old infection, may still infect the fetus but is usually less likely to cause disease or symptoms.\n\nWoman 1 seroconverted during pregnancy (primary infection), so her infant is at higher risk of symptomatic congenital disease. Woman 2's pre-existing immunity, including IgG that crosses the placenta in the last trimester, lowers the risk even when she sheds virus.\n\nWoman 2's infant, because reactivated virus is more virulent: incorrect. Reactivated virus is not more virulent; reactivation is less likely to cause fetal disease.\n\nBoth equally, because maternal IgG does not cross the placenta to protect them: incorrect. Maternal IgG does cross the placenta, in the last trimester.\n\nWoman 2's infant, because shedding late in pregnancy reaches the fetus: incorrect. Shedding from reactivation can infect the fetus but usually causes less disease.\n\nWoman 1's infant, because primary maternal infection more often causes fetal disease: correct. Primary maternal infection in pregnancy is more likely to cause fetal infection and disease.\n\nNeither, because CMV causes disease only in immunocompromised hosts: incorrect. CMV is the most common congenital infection, so it causes disease in fetuses, who are not immunocompetent."
+  },
+  {
+   "id": "miid2-w06-lec31-q10",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 31 slides",
+   "stem": "A term newborn is small for gestational age and has an enlarged liver and spleen. The mother had a mild febrile illness with swollen neck lymph nodes in the second trimester. Serology for a parasitic congenital pathogen is sent on both:\n\nMother: Newborn\nSpecific IgG: Positive, high titer: Positive, same titer\nSpecific IgM: Positive: Positive\n\nWhich result best establishes that the newborn himself is infected?",
+   "choices": [
+    "The newborn's IgG, because it matches the mother's high titer",
+    "The newborn's IgM, because it does not cross the placenta",
+    "The mother's IgM, because it proves a recent primary infection",
+    "The mother's IgG, because it proves infection before pregnancy",
+    "The newborn's IgG, because the fetus makes IgG by mid-gestation"
+   ],
+   "answer": 1,
+   "evidence": [],
+   "note": "**Newborn IgG at birth is maternal (crosses the placenta in the last trimester); a specific IgM in the newborn indicates the infant's own response to congenital infection.**\n\nA newborn has no IgG of his own at birth. The IgG present is the mother's, transferred across the placenta during the last trimester, so a newborn IgG level that matches the mother's only reflects her antibody, not infection in the baby.\n\nIgM does not cross the placenta, and the newborn can make it. A specific IgM in the newborn therefore means the baby's own immune system responded to the organism in utero, which is why the lecture lists screening IgM in the newborn as a diagnostic step for congenital toxoplasmosis and why the case infant's IgM was decisive.\n\nThe newborn's IgG, because it matches the mother's high titer: incorrect. Matching IgG reflects transplacental maternal antibody.\n\nThe newborn's IgM, because it does not cross the placenta: correct. IgM does not cross the placenta, so newborn IgM was made by the infant.\n\nThe mother's IgM, because it proves a recent primary infection: incorrect. Maternal IgM supports a recent maternal infection but does not show the baby is infected.\n\nThe mother's IgG, because it proves infection before pregnancy: incorrect. Maternal IgG shows past infection at some point, not infection of the baby.\n\nThe newborn's IgG, because the fetus makes IgG by mid-gestation: incorrect. The fetus does not make significant IgG; newborn IgG is maternal."
+  },
+  {
+   "id": "miid2-w06-lec31-q11",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 31 slides",
+   "stem": "A 5-day-old girl has confirmed symptomatic congenital cytomegalovirus infection with hearing loss. Her team chooses an oral drug, given for 6 months, that the intestine converts to its active parent compound. A pharmacology student asks why the drug is relatively selective for infected cells and what kind of viral change could make it fail.\n\nWhich statement best answers the student?",
+   "choices": [
+    "It needs a viral thymidine kinase for activation; resistance comes from loss of a host transporter",
+    "It binds viral neuraminidase in infected cells; resistance comes from accumulated point mutations in the viral hemagglutinin",
+    "It needs a viral kinase for its first phosphorylation; resistance is from mutations in that kinase or the polymerase",
+    "It blocks viral uncoating in infected cells; resistance comes from mutations in the capsid protein",
+    "It is activated by host kinases only; resistance comes from increased host enzyme production"
+   ],
+   "answer": 2,
+   "evidence": [],
+   "note": "**Valganciclovir is converted to ganciclovir, which a CMV kinase (UL97) phosphorylates first to inhibit viral DNA polymerase; resistance arises from UL97 or UL54 mutations.**\n\nThe drug is valganciclovir, the L-valyl ester of ganciclovir, which the intestine converts to ganciclovir. A 6-month course improved hearing and neurodevelopmental outcomes in a randomized trial. Ganciclovir is first phosphorylated by a CMV-encoded kinase (the UL97 gene product) and then by human cellular kinases to the triphosphate, which competitively inhibits incorporation of deoxyguanosine triphosphate and preferentially inhibits viral DNA polymerase.\n\nBecause that first step needs the viral enzyme, active drug builds up mainly in infected cells. Resistance comes from mutations in the UL97 phosphotransferase (no activation) or in the UL54-encoded viral DNA polymerase (the target).\n\nIt needs a viral thymidine kinase for activation; resistance comes from loss of a host transporter: incorrect. Loss of a host transporter is not the resistance mechanism the lecture describes.\n\nIt binds viral neuraminidase in infected cells; resistance comes from accumulated point mutations in the viral hemagglutinin: incorrect. Neuraminidase and hemagglutinin are influenza proteins.\n\nIt needs a viral kinase for its first phosphorylation; resistance is from mutations in that kinase or the polymerase: correct. Ganciclovir is activated first by the CMV UL97 kinase; resistance is from UL97 or UL54 polymerase mutations.\n\nIt blocks viral uncoating in infected cells; resistance comes from mutations in the capsid protein: incorrect. Ganciclovir does not act on uncoating.\n\nIt is activated by host kinases only; resistance comes from increased host enzyme production: incorrect. Activation by host kinases alone would not give selectivity for infected cells."
+  },
+  {
+   "id": "miid2-w06-lec31-q12",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 31 slides",
+   "stem": "An infant with confirmed congenital toxoplasmosis is started on two drugs that will be continued for at least 1 year, along with a vitamin to prevent a blood count problem caused by one of them. At 6 weeks the infant develops hives from the other drug. The parents ask whether, once a full year of treatment is completed, the infection will be gone for good.\n\nWhich of the following is the best answer to the parents?",
+   "choices": [
+    "Yes, because the drugs kill all forms of the parasite in the brain and eye",
+    "Yes, because treatment that began at birth prevents any new tissue cysts from ever forming anywhere",
+    "No, because the drugs act on tachyzoites but do not clear bradyzoites in the eye and brain",
+    "No, because the parasite rapidly becomes resistant to both drugs during therapy",
+    "No, because the parasite persists in the gut and is shed for years afterward"
+   ],
+   "answer": 2,
+   "evidence": [],
+   "note": "**Congenital toxoplasmosis is treated with pyrimethamine (plus folic acid for neutropenia) and sulfadiazine; they kill tachyzoites but not bradyzoites, so late recurrence can occur.**\n\nInfected newborns are treated with pyrimethamine and sulfadiazine for at least a year, which improves neurologic, cognitive, eye and hearing outcomes compared with untreated children. Pyrimethamine causes neutropenia, so folic acid is given with it, and sulfadiazine causes hives and rash.\n\nThese drugs are active against tachyzoites, the actively dividing form. They do not effectively eradicate bradyzoites in tissue cysts in the eye and central nervous system, so late recurrence of eye and brain disease after treatment ends is a known risk, and these children need follow-up.\n\nYes, because the drugs kill all forms of the parasite in the brain and eye: incorrect. The drugs do not clear bradyzoites in tissue cysts.\n\nYes, because treatment that began at birth prevents any new tissue cysts from ever forming anywhere: incorrect. Tissue cysts form during fetal infection, before treatment begins.\n\nNo, because the drugs act on tachyzoites but do not clear bradyzoites in the eye and brain: correct. The drugs act on tachyzoites, not bradyzoites, so late eye and brain recurrence can occur.\n\nNo, because the parasite rapidly becomes resistant to both drugs during therapy: incorrect. Drug resistance is not the reason for late recurrence.\n\nNo, because the parasite persists in the gut and is shed for years afterward: incorrect. Persistent gut shedding is not the concern; tissue cysts in the eye and brain are."
+  },
+  {
+   "id": "miid2-w06-lec31-q13",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 31 slides",
+   "stem": "A 29-year-old woman at 32 weeks' gestation had 4 days of fever, headache, backache, nausea and diarrhea, then went into premature labor. She reports eating ready-to-eat deli salads and unpasteurized soft cheese several times in the past month. Her infant is lethargic, with temperature instability. Placental culture and the infant's blood and cerebrospinal fluid cultures grow a motile Gram-positive rod.\n\nWhich antibiotic regimen is most appropriate for the infant?",
+   "choices": [
+    "Ganciclovir for 6 weeks",
+    "Ampicillin combined with gentamicin",
+    "Pyrimethamine combined with sulfadiazine",
+    "Spiramycin given until 1 year of age",
+    "Rifampin, isoniazid and pyrazinamide"
+   ],
+   "answer": 1,
+   "evidence": [],
+   "note": "**Neonatal listeriosis follows a maternal flu-like illness from contaminated foods (soft cheese, deli meats), often with preterm labor, and is treated with ampicillin plus gentamicin.**\n\nA flu-like maternal illness with fever, headache, backache and diarrhea after eating deli salads and soft cheese, followed by premature labor and a septic infant whose cultures grow a motile Gram-positive rod, is neonatal listeriosis. Maternal bacteremia infects the placenta and fetus, which is why the placenta also grows the organism.\n\nThe lecture lists ampicillin combined with gentamicin as treatment. Early-onset neonatal listeriosis (under 5 days) usually presents as sepsis or meningitis, while late-onset disease often presents as purulent meningitis.\n\nGanciclovir for 6 weeks: incorrect. Ganciclovir treats CMV.\n\nAmpicillin combined with gentamicin: correct. Neonatal *Listeria* infection is treated with ampicillin plus gentamicin.\n\nPyrimethamine combined with sulfadiazine: incorrect. Pyrimethamine and sulfadiazine treat congenital toxoplasmosis.\n\nSpiramycin given until 1 year of age: incorrect. Spiramycin is given to pregnant women to reduce toxoplasma transmission.\n\nRifampin, isoniazid and pyrazinamide: incorrect. These are tuberculosis drugs."
+  }
+ ]
+}

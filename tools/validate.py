@@ -16,7 +16,10 @@ import json, re, sys, unicodedata
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-SOURCES = {"slide", "notes", "formative", "said"}
+SOURCES = {"slide", "notes", "formative", "said", "practice"}
+# "practice": a question a student wrote from the slides. It is not copied from
+# the course, so it needs no verbatim evidence, but it must explain itself in
+# `note` and say which slides it was written from in `source_ref`.
 EVTYPES = {"transcript", "notes", "slide"}
 
 
@@ -83,7 +86,12 @@ def main():
             if q.get("stem_image") and not (ROOT / q["stem_image"]).exists():
                 errs.append(f"{w}: missing stem_image {q['stem_image']}")
             ev = q.get("evidence", [])
-            if not ev:
+            if q.get("source") == "practice":
+                if not q.get("note"):
+                    errs.append(f"{w}: practice questions need an explanation in note")
+                if not q.get("source_ref"):
+                    errs.append(f"{w}: practice questions need source_ref (which slides they were written from)")
+            elif not ev:
                 errs.append(f"{w}: needs at least one evidence block (quote or slide)")
             for e in ev:
                 t = e.get("type")

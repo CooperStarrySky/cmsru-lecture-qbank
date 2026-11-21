@@ -1,0 +1,249 @@
+{
+ "lecture_id": "miid2-w06-lec30",
+ "block": "MIID II",
+ "week": 6,
+ "lecture": "30 Viral Syndromes",
+ "contributor": "caleb",
+ "questions": [
+  {
+   "id": "miid2-w06-lec30-q01",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 30 slides",
+   "stem": "An 18-year-old college freshman has 6 days of fever to 39.8 C (103.6 F), severe sore throat and fatigue. Examination shows enlarged tonsils covered with white exudate, swelling around both eyes, enlarged posterior cervical lymph nodes and a palpable spleen tip. Labs show:\n\nLeukocytes: 14,500/microL (4,500 to 11,000)\nLymphocytes: 62%, many large with abundant cytoplasm\nALT: 96 U/L (7 to 56)\n\nThe large lymphocytes on his smear are best described by which of the following?",
+   "choices": [
+    "Infected B cells that have entered the blood through the CD21 receptor",
+    "Cytotoxic CD8 T cells responding to virus-infected B cells",
+    "Plasma cells secreting heterophile antibody against foreign red cells",
+    "Natural killer cells that have lost control of viral replication",
+    "Infected epithelial cells shed from the inflamed oropharynx"
+   ],
+   "answer": 1,
+   "evidence": [],
+   "note": "**EBV infects B cells through CD21; the atypical lymphocytes of mononucleosis are cytotoxic CD8 T cells responding to them.**\n\nFever, exudative pharyngitis, periorbital edema, lymphadenopathy, splenomegaly and raised transaminases in a young adult are infectious mononucleosis from Epstein-Barr virus (EBV). EBV replicates first in oropharyngeal epithelial cells and then infects B cells through the CD21 receptor.\n\nThe infected B cells incite an intense cytotoxic T-cell response. Those activated CD8 T cells are the large atypical lymphocytes that characterize primary EBV mononucleosis. The virus itself sits in the B cells, but the cells on the smear are the T cells attacking them.\n\nInfected B cells that have entered the blood through the CD21 receptor: incorrect. EBV does infect B cells via CD21, but the atypical lymphocytes are the responding T cells.\n\nCytotoxic CD8 T cells responding to virus-infected B cells: correct. The atypical lymphocytes are cytotoxic CD8 T cells reacting to infected B cells.\n\nPlasma cells secreting heterophile antibody against foreign red cells: incorrect. Heterophile antibody is produced by infected B cells, but plasma cells are not the atypical lymphocytes.\n\nNatural killer cells that have lost control of viral replication: incorrect. Failure of cytotoxic T and NK control describes the lymphoproliferative complications, not the usual mono smear.\n\nInfected epithelial cells shed from the inflamed oropharynx: incorrect. Epithelial cells are not found circulating in blood."
+  },
+  {
+   "id": "miid2-w06-lec30-q02",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 30 slides",
+   "stem": "A 46-year-old man received a liver transplant 7 months ago and takes high-dose immunosuppressive drugs after an early rejection episode. He now has fever, weight loss and enlarged lymph nodes in the neck and abdomen. Biopsy of a node shows sheets of B cells, and in situ hybridization detects viral nucleic acid in nearly all of them. Before transplant he was seropositive for a herpesvirus that 90% of US adults carry.\n\nWhich of the following best explains how the virus persisted to cause this disorder?",
+   "choices": [
+    "It persisted as a circular episome in B cells, maintained by nuclear antigens",
+    "It integrated into hepatocyte DNA and was spread by the transplanted liver",
+    "It persisted in bone marrow stem cells and later reactivated as a high-level viremia",
+    "It was shed in the urine for years and later reinfected lymph nodes",
+    "It persisted in sensory ganglia and traveled down nerves to the nodes"
+   ],
+   "answer": 0,
+   "evidence": [],
+   "note": "**EBV stays latent as an episome in B cells (maintained by EBNA); immune suppression after transplant can let these cells proliferate, highest risk in the first year.**\n\nThe B-cell proliferation in a transplant recipient with a herpesvirus carried by most adults is post-transplant lymphoproliferative disorder from Epstein-Barr virus. EBV establishes lifelong latency in B cells after primary infection. The latent virus is a circular episome in the nucleus, and the few viral proteins expressed during latency include the EBV nuclear antigens (EBNA), which keep the episome maintained.\n\nNormally cytotoxic T cells keep EBV-infected B cells in check. Heavy immune suppression removes that control, and the risk of this disorder rises with the degree of suppression and is highest in the first year after transplant. It ranges from a benign polyclonal proliferation to a malignant B-cell lymphoma.\n\nIt persisted as a circular episome in B cells, maintained by nuclear antigens: correct. EBV persists as an episome in B cells maintained by EBNA, and T-cell suppression releases it.\n\nIt integrated into hepatocyte DNA and was spread by the transplanted liver: incorrect. EBV latency is in B cells, not integrated in hepatocytes.\n\nIt persisted in bone marrow stem cells and later reactivated as a high-level viremia: incorrect. Latency in bone marrow stem cells describes cytomegalovirus.\n\nIt was shed in the urine for years and later reinfected lymph nodes: incorrect. Prolonged urinary shedding describes cytomegalovirus, and it does not explain a B-cell proliferation.\n\nIt persisted in sensory ganglia and traveled down nerves to the nodes: incorrect. Latency in sensory ganglia is not where EBV persists."
+  },
+  {
+   "id": "miid2-w06-lec30-q03",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 30 slides",
+   "stem": "A 7-year-old boy from rural equatorial Africa, where malaria transmission is intense year round, presents with a rapidly enlarging mass of the jaw over 3 weeks. Biopsy shows sheets of medium-sized B cells with a very high proliferation rate. Nearly every tumor cell carries the genome of a herpesvirus that latently infects B cells. Cytogenetic study shows a translocation that places a growth-promoting gene next to an immunoglobulin locus.\n\nWhich gene is most likely involved in this translocation?",
+   "choices": [
+    "embB",
+    "c-myc",
+    "rpoB",
+    "katG",
+    "inhA"
+   ],
+   "answer": 1,
+   "evidence": [],
+   "note": "**Endemic Burkitt lymphoma is EBV associated with malaria and a c-myc translocation as cofactors; EBV is also linked to nasopharyngeal carcinoma, Hodgkin lymphoma, CNS lymphoma in AIDS and post-transplant disease.**\n\nA rapidly growing jaw mass of B cells in an African child from a malaria region, with EBV in nearly every tumor cell, is endemic Burkitt lymphoma. The lecture's table of EBV-associated malignancies lists endemic Burkitt lymphoma as over 95% EBV associated in African children, with malaria and a *c-myc* translocation as cofactors.\n\nThe same table includes nasopharyngeal carcinoma (southern China and Inuit populations, with genetic and dietary cofactors), Hodgkin lymphoma, primary CNS lymphoma in AIDS, and lymphoproliferative disease in transplant recipients, each driven by EBV in the setting of a cofactor such as immune suppression.\n\nembB: incorrect. *embB* is the mycobacterial gene cluster mutated in ethambutol resistance.\n\nc-myc: correct. Endemic Burkitt lymphoma carries a *c-myc* translocation, with EBV and malaria as cofactors.\n\nrpoB: incorrect. *rpoB* is the mycobacterial gene mutated in rifampin resistance.\n\nkatG: incorrect. *katG* is a mycobacterial gene mutated in isoniazid resistance.\n\ninhA: incorrect. *inhA* is a mycobacterial gene mutated in isoniazid resistance."
+  },
+  {
+   "id": "miid2-w06-lec30-q04",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 30 slides",
+   "stem": "A 24-year-old graduate student has had 3 weeks of fever, fatigue and malaise. She has no sore throat and no tonsillar exudate, and her lymph nodes are only slightly enlarged. Her leukocyte count is normal with 18% atypical lymphocytes, and her ALT is 140 U/L (7 to 56). A heterophile antibody test is negative twice, and serology shows prior, not recent, Epstein-Barr virus infection. She works part time in a daycare center.\n\nWhich virus is the most likely cause of her illness?",
+   "choices": [
+    "Adenovirus",
+    "Human parainfluenza virus",
+    "Norovirus",
+    "Influenza B virus",
+    "Cytomegalovirus"
+   ],
+   "answer": 4,
+   "evidence": [],
+   "note": "**CMV in healthy adolescents and adults causes a heterophile-negative mononucleosis-like illness with prolonged fever, atypical lymphocytosis and hepatitis.**\n\nProlonged fever, atypical lymphocytosis and hepatitis with a negative heterophile test and no evidence of acute EBV describe a heterophile-negative mononucleosis-like illness. The lecture lists this as the typical cytomegalovirus (CMV) illness in adolescents and adults, with prolonged fever and hepatitis more prominent than pharyngitis.\n\nCMV is ubiquitous and spreads through direct contact with secretions such as saliva and urine, which young children in daycare shed for long periods. Most normal hosts infected with CMV have no symptoms at all.\n\nAdenovirus: incorrect. Adenovirus causes pharyngitis, conjunctivitis and respiratory illness, not a heterophile-negative mono picture.\n\nHuman parainfluenza virus: incorrect. Parainfluenza causes croup, bronchiolitis and upper respiratory illness.\n\nNorovirus: incorrect. Norovirus causes vomiting and diarrhea lasting 1 to 4 days.\n\nInfluenza B virus: incorrect. Influenza causes abrupt fever, myalgia and respiratory symptoms lasting days, not weeks of atypical lymphocytosis.\n\nCytomegalovirus: correct. Heterophile-negative mono-like illness with prolonged fever and hepatitis is classic CMV."
+  },
+  {
+   "id": "miid2-w06-lec30-q05",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 30 slides",
+   "stem": "In July, 14 children who attended the same summer day camp develop fever, sore throat, red watery eyes without purulent discharge and tender cervical lymph nodes. All of them swam in the camp's public pool, which a later inspection found was poorly chlorinated. Camp staff who did not swim are unaffected. Testing of a throat swab by PCR identifies a small, non-enveloped double-stranded DNA virus.\n\nWhich feature of this virus best explains how the outbreak spread?",
+   "choices": [
+    "Its outer lipid envelope protects it from drying out on wet pool surfaces",
+    "Its lack of an envelope lets it survive in water and on surfaces",
+    "Its segmented genome allows rapid exchange with animal strains",
+    "Its latency in B cells allows lifelong shedding into pool water",
+    "Its strict winter seasonality concentrates cases in swimmers"
+   ],
+   "answer": 1,
+   "evidence": [],
+   "note": "**Adenovirus is a hardy non-enveloped DNA virus; pharyngoconjunctival fever (fever, pharyngitis, conjunctivitis, cervical adenitis) is linked to swimming pools.**\n\nFever, pharyngitis, a benign conjunctivitis and cervical adenitis linked to a swimming pool is pharyngoconjunctival fever, the classic adenovirus syndrome. Adenoviruses are small, non-enveloped double-stranded DNA viruses.\n\nWithout a lipid envelope they are hardy: they spread through respiratory secretions, aerosols and fomites, survive on environmental surfaces, and cause outbreaks linked to public swimming pools, military recruits, college campuses and long-term care residents. They have no definite seasonality.\n\nIts outer lipid envelope protects it from drying out on wet pool surfaces: incorrect. Adenovirus has no envelope, and envelopes make viruses more fragile, not less.\n\nIts lack of an envelope lets it survive in water and on surfaces: correct. As a hardy non-enveloped virus, adenovirus survives in water and on surfaces, driving pool outbreaks.\n\nIts segmented genome allows rapid exchange with animal strains: incorrect. A segmented genome describes influenza, not adenovirus.\n\nIts latency in B cells allows lifelong shedding into pool water: incorrect. Latency in B cells describes Epstein-Barr virus.\n\nIts strict winter seasonality concentrates cases in swimmers: incorrect. Adenovirus has no definite seasonality, and this outbreak is in summer."
+  },
+  {
+   "id": "miid2-w06-lec30-q06",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 30 slides",
+   "stem": "A 34-year-old previously healthy man had abrupt fever, chills, headache and severe myalgias 8 days ago, followed by a cough. His fever resolved on day 5 and he began to feel better. On day 7 he developed a new high fever, rigors and a cough productive of thick sputum. Chest radiograph shows a dense right lower lobe consolidation with cavitating areas, and sputum Gram stain shows Gram-positive cocci in clusters.\n\nWhich of the following best explains his worsening?",
+   "choices": [
+    "Primary viral pneumonia from continued influenza replication",
+    "Secondary bacterial pneumonia caused by Staphylococcus aureus",
+    "Reye syndrome from salicylates taken for his fever",
+    "Reactivation of latent tuberculosis that was triggered by the recent influenza",
+    "Myositis of the respiratory muscles with rising creatine kinase"
+   ],
+   "answer": 1,
+   "evidence": [],
+   "note": "**Influenza can be followed by secondary bacterial pneumonia (S. pneumoniae or S. aureus), typically after initial improvement.**\n\nHis first illness, with abrupt fever, chills, headache and myalgia followed by cough, is classic influenza. Improvement followed by a new fever and a productive cough is the pattern of secondary bacterial pneumonia, one of the main respiratory complications. The lecture names *Streptococcus pneumoniae* and *Staphylococcus aureus* as the causes, and Gram-positive cocci in clusters with a cavitating consolidation point to *S. aureus*.\n\nOther influenza complications in the lecture include primary viral pneumonia, myositis (especially with influenza B), Reye syndrome in children given salicylates, myocarditis and Guillain-Barre syndrome.\n\nPrimary viral pneumonia from continued influenza replication: incorrect. Primary viral pneumonia would not show clustered Gram-positive cocci after a period of improvement.\n\nSecondary bacterial pneumonia caused by Staphylococcus aureus: correct. Improvement then a new fever with clustered Gram-positive cocci is secondary *S. aureus* pneumonia.\n\nReye syndrome from salicylates taken for his fever: incorrect. Reye syndrome is a liver and brain complication in children given salicylates.\n\nReactivation of latent tuberculosis that was triggered by the recent influenza: incorrect. Nothing points to TB, and clustered Gram-positive cocci are not mycobacteria.\n\nMyositis of the respiratory muscles with rising creatine kinase: incorrect. Influenza myositis causes tender leg muscles and is not a cause of consolidation."
+  },
+  {
+   "id": "miid2-w06-lec30-q07",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 30 slides",
+   "stem": "A 70-year-old woman with chronic obstructive pulmonary disease comes to the emergency department in January with 2 days of abrupt fever, chills, myalgias and a worsening cough. Several residents of her assisted living facility have had a similar illness this week. A rapid influenza antigen test on a nasal swab, which returns in 30 minutes, is negative. Her clinician still suspects influenza.\n\nWhich of the following is the best interpretation and next step?",
+   "choices": [
+    "The negative test excludes influenza, so she needs only bacterial cultures",
+    "Repeat the rapid antigen test in 7 days, when viral shedding has peaked",
+    "Send paired serology 2 weeks apart, the gold standard for acute diagnosis",
+    "The rapid test is sensitive but nonspecific, so a positive test was expected",
+    "The rapid test is specific but insensitive, so send a real-time RT-PCR"
+   ],
+   "answer": 4,
+   "evidence": [],
+   "note": "**Rapid influenza antigen tests are specific but less sensitive; real-time RT-PCR early in illness is the gold standard.**\n\nRapid influenza antigen tests return in 30 to 60 minutes and are specific, but they are less sensitive, so a negative result does not rule out influenza when the clinical picture and local outbreak suggest it. Real-time reverse transcription PCR (RT-PCR) on a nasopharyngeal or nasal specimen is the gold standard.\n\nYield is highest when specimens are collected in the first few days of illness, during peak viral shedding, which is where she is now. She is also in a treatment target group (age 65 or older, chronic lung disease, a resident of a care facility).\n\nThe negative test excludes influenza, so she needs only bacterial cultures: incorrect. A negative rapid antigen test does not exclude influenza because the test is insensitive.\n\nRepeat the rapid antigen test in 7 days, when viral shedding has peaked: incorrect. Shedding peaks in the first days, so waiting a week lowers the yield.\n\nSend paired serology 2 weeks apart, the gold standard for acute diagnosis: incorrect. RT-PCR, not serology, is the gold standard for diagnosis.\n\nThe rapid test is sensitive but nonspecific, so a positive test was expected: incorrect. This reverses the test's properties: it is specific but less sensitive.\n\nThe rapid test is specific but insensitive, so send a real-time RT-PCR: correct. Rapid antigen tests are specific but insensitive, and RT-PCR is the gold standard."
+  },
+  {
+   "id": "miid2-w06-lec30-q08",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 30 slides",
+   "stem": "A 29-year-old woman who delivered a baby 9 days ago develops abrupt fever, myalgias and cough. Nasal swab RT-PCR detects influenza A. She is started on an oral drug that is a sialic acid analog. In cell culture, influenza-infected cells exposed to this drug still assemble new virions at their surface, but the virions stay clumped on the cell membrane instead of spreading to neighboring cells.\n\nWhich viral function does this drug block?",
+   "choices": [
+    "Attachment of hemagglutinin to sialic acid receptors on host cells",
+    "Initiation of viral messenger RNA synthesis by the polymerase",
+    "Exchange of gene segments between co-infecting strains",
+    "Uncoating of the viral genome after entry into the endosome",
+    "Cleavage of sialic acid by viral neuraminidase to release progeny virus"
+   ],
+   "answer": 4,
+   "evidence": [],
+   "note": "**Neuraminidase inhibitors (oseltamivir, zanamivir, peramivir) are sialic acid analogs that block release of progeny influenza A and B; baloxavir blocks initiation of viral mRNA synthesis.**\n\nShe is in a treatment target group (pregnant or within 2 weeks after delivery). The neuraminidase inhibitors (oseltamivir, zanamivir, peramivir) are sialic acid analogs that competitively inhibit neuraminidase. Neuraminidase normally cleaves sialic acid so that newly formed virions can leave the infected cell; when it is blocked, progeny virus stays stuck at the cell surface, which is what the experiment shows. These drugs act against influenza A and B.\n\nBaloxavir works differently, by inhibiting initiation of viral mRNA synthesis, and is approved for uncomplicated influenza in patients 5 years and older.\n\nAttachment of hemagglutinin to sialic acid receptors on host cells: incorrect. Attachment by hemagglutinin is not blocked; the virions form but cannot be released.\n\nInitiation of viral messenger RNA synthesis by the polymerase: incorrect. Initiation of mRNA synthesis is the baloxavir target.\n\nExchange of gene segments between co-infecting strains: incorrect. Segment exchange is the mechanism of antigenic shift, not a drug target.\n\nUncoating of the viral genome after entry into the endosome: incorrect. Uncoating is not the step blocked, since new virions are still assembled.\n\nCleavage of sialic acid by viral neuraminidase to release progeny virus: correct. Neuraminidase inhibitors block release of progeny virus from infected cells."
+  },
+  {
+   "id": "miid2-w06-lec30-q09",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 30 slides",
+   "stem": "A 2-year-old boy is brought to the emergency department at 2 AM in the fall with a harsh, barking cough and a high-pitched noise on inspiration that started tonight. He had 2 days of runny nose and low-grade fever. He is alert and drinking, with inspiratory stridor at rest that improves when he calms down in his mother's arms. Neck radiograph shows narrowing of the subglottic trachea.\n\nWhich virus is the most common cause of this illness in his age group?",
+   "choices": [
+    "Respiratory syncytial virus",
+    "Human parainfluenza virus types 1 and 2",
+    "Human parainfluenza virus type 3",
+    "Adenovirus",
+    "Influenza B virus"
+   ],
+   "answer": 1,
+   "evidence": [],
+   "note": "**Human parainfluenza virus types 1 and 2 are the most common cause of croup in children 1 to 5; HPIV-3 causes bronchiolitis and pneumonia in infants.**\n\nBarking cough, inspiratory stridor and subglottic narrowing in a toddler is croup (laryngotracheobronchitis). The human parainfluenza viruses (HPIV) are enveloped, negative-sense single-stranded RNA paramyxoviruses, and HPIV-1 and HPIV-2 are the most common cause of croup in children 1 to 5 years old.\n\nThe lecture separates the types by epidemiology: HPIV-3 is endemic and mainly causes bronchiolitis and pneumonia in infants under 1 year. Treatment of HPIV is symptomatic in normal hosts, and no vaccine exists because immunity is not durable.\n\nRespiratory syncytial virus: incorrect. RSV mainly causes bronchiolitis and pneumonia in infants.\n\nHuman parainfluenza virus types 1 and 2: correct. HPIV-1 and HPIV-2 are the most common cause of croup at ages 1 to 5.\n\nHuman parainfluenza virus type 3: incorrect. HPIV-3 mainly causes bronchiolitis and pneumonia in infants under 1.\n\nAdenovirus: incorrect. Adenovirus can cause croup but is not its most common cause.\n\nInfluenza B virus: incorrect. Influenza is not the usual cause of croup."
+  },
+  {
+   "id": "miid2-w06-lec30-q10",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 30 slides",
+   "stem": "On day 3 of a cruise in February, 120 passengers develop sudden nausea, forceful vomiting, watery non-bloody diarrhea and cramps, many with low-grade fever and myalgias. Most recover within 2 days. Cases continue despite alcohol-based hand sanitizer dispensers at every dining room entrance. Stool PCR identifies a small non-enveloped single-stranded RNA virus in the calicivirus family.\n\nWhich measure would best address the reason cases continue?",
+   "choices": [
+    "Handwashing with soap and water, since the virus resists alcohol",
+    "Starting all passengers on a neuraminidase inhibitor",
+    "Cooking shellfish thoroughly, since food is the only route",
+    "Isolating passengers for 24 hours, since shedding ends with symptoms",
+    "Air filtration, since the virus spreads only by droplet nuclei"
+   ],
+   "answer": 0,
+   "evidence": [],
+   "note": "**Norovirus, a non-enveloped calicivirus, causes abrupt vomiting and diarrhea outbreaks and resists alcohol, so prevention relies on soap and water and environmental disinfection.**\n\nAbrupt vomiting and non-bloody diarrhea 12 to 48 hours after exposure, resolving in 1 to 4 days, in an outbreak is norovirus, the most common cause of gastroenteritis in all age groups. It is highly infectious and spreads person to person by the fecal-oral route, through contaminated food and water, by droplets from vomitus, and from surfaces where it persists for days.\n\nAs a non-enveloped virus it is not reliably inactivated by alcohol, so the lecture lists hand hygiene with soap and water, not hand sanitizer, along with environmental disinfection and disposal of contaminated material. Virus can be shed in stool for up to 4 weeks, so isolation for 24 hours does not end transmission.\n\nHandwashing with soap and water, since the virus resists alcohol: correct. Non-enveloped norovirus resists alcohol sanitizer, so soap and water handwashing is the key measure.\n\nStarting all passengers on a neuraminidase inhibitor: incorrect. Neuraminidase inhibitors treat influenza, not norovirus.\n\nCooking shellfish thoroughly, since food is the only route: incorrect. Food is one route, but person-to-person, vomitus and surface spread continue regardless.\n\nIsolating passengers for 24 hours, since shedding ends with symptoms: incorrect. Shedding can continue in stool for weeks after symptoms resolve.\n\nAir filtration, since the virus spreads only by droplet nuclei: incorrect. Norovirus spreads mainly fecal-orally and by surfaces and vomitus droplets, not droplet nuclei alone."
+  },
+  {
+   "id": "miid2-w06-lec30-q11",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 30 slides",
+   "stem": "A 3-month-old girl born at 28 weeks' gestation, who has chronic lung disease of prematurity, is seen in December with 3 days of runny nose followed by fast breathing, wheezing and poor feeding. Oxygen saturation is 89% on room air, and she has diffuse crackles and wheezes. Nasal PCR detects an enveloped, non-segmented negative-strand RNA virus whose fusion protein lets it enter airway epithelial cells. Her mother asks what could protect her next infant.\n\nWhich statement about this infection and its prevention is correct?",
+   "choices": [
+    "A live vaccine given at birth is the standard way to prevent it",
+    "The virus spreads mainly through contaminated food and water",
+    "A first infection gives lifelong immunity, so reinfection does not occur",
+    "A monoclonal antibody given to the infant can prevent infection",
+    "Oral neuraminidase inhibitors are the standard preventive drug"
+   ],
+   "answer": 3,
+   "evidence": [],
+   "note": "**RSV causes winter bronchiolitis, most severe in premature infants and those with chronic lung or heart disease; nirsevimab (monoclonal antibody) prevents infection in babies.**\n\nBronchiolitis in a winter infant from an enveloped, non-segmented negative-strand RNA virus with a fusion (F) protein is respiratory syncytial virus (RSV). About 20 to 30% of infants with RSV develop lower respiratory disease, and severe disease needing hospitalization is concentrated in infants born before 29 weeks, those with chronic lung disease of prematurity, certain congenital heart disease, immunodeficiency and neuromuscular conditions.\n\nAntibodies against the F and G proteins are protective. Nirsevimab, a monoclonal antibody, is given to babies to prevent infection, and a vaccine is given to pregnant people at 32 to 36 weeks and to adults over 60. Reinfection does occur, though later infections are milder.\n\nA live vaccine given at birth is the standard way to prevent it: incorrect. The lecture lists a monoclonal antibody for infants and a vaccine for pregnant people and older adults, not a live vaccine at birth.\n\nThe virus spreads mainly through contaminated food and water: incorrect. RSV spreads by close contact with secretions, large droplets and fomites.\n\nA first infection gives lifelong immunity, so reinfection does not occur: incorrect. Most children are infected by age 2, and reinfections occur but are less severe.\n\nA monoclonal antibody given to the infant can prevent infection: correct. Nirsevimab, a monoclonal antibody, prevents RSV infection in babies.\n\nOral neuraminidase inhibitors are the standard preventive drug: incorrect. Neuraminidase inhibitors are influenza drugs."
+  },
+  {
+   "id": "miid2-w06-lec30-q12",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 30 slides",
+   "stem": "A 3-year-old girl in a daycare center has 9 days of fever, exudative tonsillitis, enlarged cervical lymph nodes and an enlarged spleen. Her blood smear shows many atypical lymphocytes. A rapid heterophile antibody test is negative. Her pediatrician still suspects the virus that infects B cells through CD21 and wants to confirm an acute infection.\n\nWhich result would best confirm acute infection in this child?",
+   "choices": [
+    "Positive heterophile test on repeat testing in one week",
+    "Positive antibody to nuclear antigen, with no capsid IgM",
+    "IgG antibody to viral capsid antigen, with nuclear antigen antibody",
+    "IgM antibody to viral capsid antigen, with no nuclear antigen antibody",
+    "A rising titer of antibody against the patient's own red cells"
+   ],
+   "answer": 3,
+   "evidence": [],
+   "note": "**Heterophile tests miss EBV in children under 4; capsid IgM without nuclear antigen antibody confirms acute infection.**\n\nHer picture fits EBV mononucleosis. Heterophile antibodies are sensitive and specific for acute EBV in adolescents and adults, but not in children younger than 4 years, who often do not make them. A negative heterophile test therefore does not exclude EBV in this child, and EBV-specific serology is needed.\n\nIgM to the viral capsid antigen peaks in the first weeks of illness and declines over 2 to 3 months, while antibody to EBV nuclear antigen (EBNA) appears only later and marks past or latent infection. Capsid IgM without EBNA antibody therefore indicates acute infection. Capsid IgG persists for life and does not date the infection.\n\n**Antibody | Meaning**\n\n- Heterophile: Acute EBV (unreliable under age 4)\n- Viral capsid antigen IgM: Acute, peaks early, falls over 2 to 3 months\n- Early antigen IgG: Acute\n- Viral capsid antigen IgG: Appears early, persists for life\n- EBV nuclear antigen: Past or latent infection\n\nPositive heterophile test on repeat testing in one week: incorrect. Heterophile antibodies are unreliable under age 4, so repeating the test is not the best confirmation.\n\nPositive antibody to nuclear antigen, with no capsid IgM: incorrect. Nuclear antigen antibody marks past infection.\n\nIgG antibody to viral capsid antigen, with nuclear antigen antibody: incorrect. Capsid IgG with nuclear antigen antibody reflects past infection.\n\nIgM antibody to viral capsid antigen, with no nuclear antigen antibody: correct. Capsid IgM with no nuclear antigen antibody indicates acute EBV.\n\nA rising titer of antibody against the patient's own red cells: incorrect. Heterophile antibodies react with foreign red cells, and they are not reliable at her age."
+  },
+  {
+   "id": "miid2-w06-lec30-q13",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 30 slides",
+   "stem": "A 52-year-old man had an allogeneic hematopoietic stem cell transplant 2 months ago, complicated by graft-versus-host disease treated with high-dose steroids. He now has fever, a dry cough and hypoxemia. Chest CT shows bilateral ground-glass opacities. Bronchoalveolar lavage and blood PCR both show a high viral load of a beta-herpesvirus. His team starts an intravenous drug whose first phosphorylation is carried out by an enzyme encoded by the virus.\n\nWhich laboratory value should be monitored most closely on this drug?",
+   "choices": [
+    "Serum uric acid",
+    "Serum creatine kinase",
+    "Leukocyte and platelet counts",
+    "Serum potassium",
+    "QT interval on ECG"
+   ],
+   "answer": 2,
+   "evidence": [],
+   "note": "**CMV pneumonitis is the leading end-organ disease after stem cell transplant; ganciclovir (activated first by a viral kinase) inhibits CMV DNA polymerase and causes myelosuppression.**\n\nA beta-herpesvirus causing pneumonitis after stem cell transplant with graft-versus-host disease is cytomegalovirus (CMV). The lecture notes that pneumonitis is the most common end-organ disease in stem cell (especially with graft-versus-host disease) and lung transplant recipients, while enteritis is most common after kidney transplant. Treatment is to reduce immune suppression and give an antiviral that targets CMV DNA polymerase.\n\nThe drug is ganciclovir. A virus-encoded kinase performs the first phosphorylation and cellular kinases finish it, so the active triphosphate accumulates in infected cells, where it competitively inhibits viral DNA polymerase. Myelosuppression is the most important toxicity of ganciclovir and of its oral prodrug valganciclovir, so blood counts are watched.\n\nSerum uric acid: incorrect. Uric acid is monitored with pyrazinamide.\n\nSerum creatine kinase: incorrect. Creatine kinase rises in influenza myositis, not with ganciclovir.\n\nLeukocyte and platelet counts: correct. Ganciclovir and valganciclovir cause myelosuppression.\n\nSerum potassium: incorrect. Potassium is not the key ganciclovir toxicity.\n\nQT interval on ECG: incorrect. QT prolongation is a bedaquiline toxicity."
+  },
+  {
+   "id": "miid2-w06-lec30-q14",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 30 slides",
+   "stem": "A novel influenza strain spreads rapidly worldwide. Sequencing shows that its hemagglutinin gene segment came from an avian strain while its other segments came from a human strain, after a pig was co-infected with both. Almost no one in the population has antibody against the new hemagglutinin. In the same year, a research group studies an influenza B lineage that has accumulated point mutations in its hemagglutinin over several seasons.\n\nWhich statement correctly contrasts the two strains?",
+   "choices": [
+    "Both strains arose by antigenic shift, but only the B strain can cause pandemics",
+    "The novel strain arose by antigenic drift, which is restricted to influenza A",
+    "The B strain arose by antigenic shift, which produces an entirely new subtype",
+    "The novel strain arose by antigenic shift, which occurs only in influenza A",
+    "Both strains arose by antigenic drift, the main source of pandemic strains"
+   ],
+   "answer": 3,
+   "evidence": [],
+   "note": "**Antigenic shift (new HA segment by reassortment, influenza A only) can cause pandemics; antigenic drift (point mutations, A and B) causes seasonal epidemics.**\n\nInfluenza has a genome of 8 segments of negative-sense single-stranded RNA. When two strains infect the same cell, whole segments can be exchanged. Acquiring a new hemagglutinin segment is antigenic shift: an abrupt, major change that creates a new subtype to which the population has no immunity. Shift occurs only in influenza A, and it can cause a pandemic if the new strain transmits efficiently from person to person.\n\nAntigenic drift is a gradual series of point mutations in hemagglutinin (and less often neuraminidase) that occurs continuously in influenza A and B. Drift makes existing antibody progressively less effective and causes the seasonal epidemics.\n\n**Antigenic drift | Antigenic shift**\n\n- Mechanism: Point mutations in HA (and NA); Acquisition of a new HA (with or without new NA) segment\n- Types: Influenza A and B; Influenza A only\n- Result: Seasonal epidemics; New subtype, possible pandemic\n\nBoth strains arose by antigenic shift, but only the B strain can cause pandemics: incorrect. Influenza B does not undergo shift; only influenza A does, and only shift produces pandemics.\n\nThe novel strain arose by antigenic drift, which is restricted to influenza A: incorrect. Drift occurs in both A and B; the novel strain arose by segment exchange, which is shift.\n\nThe B strain arose by antigenic shift, which produces an entirely new subtype: incorrect. Point mutations over seasons are drift, and influenza B does not undergo shift.\n\nThe novel strain arose by antigenic shift, which occurs only in influenza A: correct. Segment exchange creating a new hemagglutinin is shift, seen only in influenza A.\n\nBoth strains arose by antigenic drift, the main source of pandemic strains: incorrect. Drift causes seasonal epidemics; pandemics arise from shift."
+  },
+  {
+   "id": "miid2-w06-lec30-q15",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 30 slides",
+   "stem": "A 12-year-old boy who received a hematopoietic stem cell transplant 6 weeks ago develops fever, painful urination and gross hematuria. Urine bacterial culture is negative and platelet count is adequate. The next week he becomes jaundiced, and a liver biopsy shows areas of necrosis with intranuclear inclusion bodies. PCR of urine and blood detects the same virus, which is also a common cause of conjunctivitis and pharyngitis in healthy children.\n\nWhich of the following best describes this virus?",
+   "choices": [
+    "An enveloped negative-sense RNA virus that is treated with inhaled ribavirin in severe cases",
+    "A beta-herpesvirus that is first phosphorylated by a viral kinase",
+    "A non-enveloped double-stranded DNA virus that is diagnosed by tissue, culture or PCR",
+    "A calicivirus that resists alcohol and is spread only by the fecal-oral route",
+    "A segmented RNA virus that causes worldwide pandemics through antigenic shift"
+   ],
+   "answer": 2,
+   "evidence": [],
+   "note": "**Adenovirus, a non-enveloped dsDNA virus, causes hemorrhagic cystitis and necrotizing hepatitis with inclusion bodies in transplant recipients; diagnosis is by histology, culture or PCR.**\n\nHemorrhagic cystitis and hepatitis with necrosis and intranuclear inclusions in a stem cell transplant recipient, from a virus that causes conjunctivitis and pharyngitis in healthy children, is adenovirus. The lecture lists acute hemorrhagic cystitis among adenovirus syndromes and stresses that adenovirus is an important pathogen in organ and stem cell transplant recipients; the liver biopsy finding of necrosis with intranuclear inclusion bodies is characteristic.\n\nAdenoviruses are small non-enveloped double-stranded DNA viruses with more than 80 types, diagnosed by histopathology, culture or PCR.\n\nAn enveloped negative-sense RNA virus that is treated with inhaled ribavirin in severe cases: incorrect. This describes parainfluenza virus in immune compromised hosts.\n\nA beta-herpesvirus that is first phosphorylated by a viral kinase: incorrect. This describes cytomegalovirus, which the stem does not fit as well given cystitis plus pharyngoconjunctival illness in children.\n\nA non-enveloped double-stranded DNA virus that is diagnosed by tissue, culture or PCR: correct. Adenovirus is a non-enveloped dsDNA virus causing hemorrhagic cystitis and hepatitis in transplant recipients.\n\nA calicivirus that resists alcohol and is spread only by the fecal-oral route: incorrect. This describes norovirus.\n\nA segmented RNA virus that causes worldwide pandemics through antigenic shift: incorrect. This describes influenza A."
+  }
+ ]
+}

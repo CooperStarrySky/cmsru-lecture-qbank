@@ -1,0 +1,217 @@
+{
+ "lecture_id": "miid2-w05-lec29",
+ "block": "MIID II",
+ "week": 5,
+ "lecture": "29 Tuberculosis",
+ "contributor": "caleb",
+ "questions": [
+  {
+   "id": "miid2-w05-lec29-q01",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 29 slides",
+   "stem": "A 34-year-old man who moved to the United States from the Philippines 6 years ago has an interferon-gamma release assay (IGRA) drawn as part of a new hospital job. The result is positive. He feels well, with no cough, fever, night sweats or weight loss. Physical examination is normal, and a chest radiograph shows clear lungs with no nodules, scarring or effusion. His coworkers ask whether they need to be tested because they shared an office with him last month.\n\nWhich of the following best describes this man's condition and what it means for his coworkers?",
+   "choices": [
+    "Pulmonary tuberculosis disease, so all of his office contacts now need testing for new infection",
+    "Latent tuberculosis infection, which carries no risk of spreading the organism to contacts",
+    "Extrapulmonary tuberculosis, which is contagious only through direct contact with lesions",
+    "A false-positive result from childhood vaccination, so no further evaluation is needed",
+    "Reinfection tuberculosis, which is contagious until two negative sputum cultures return"
+   ],
+   "answer": 1,
+   "evidence": [],
+   "note": "**Latent TB infection is a positive TST or IGRA without symptoms or radiographic disease, and it is not infectious.**\n\nA positive IGRA shows only that he has a mature T-cell response to *Mycobacterium tuberculosis*, which marks infection. With no symptoms and a normal chest radiograph there is no sign of disease, so this is latent tuberculosis infection (LTBI): organisms are present but contained, without symptoms or radiographic evidence of disease.\n\nTransmission requires pulmonary TB disease, where organisms in the lung are aerosolized by coughing into droplet nuclei. LTBI is not infectious, and neither is extrapulmonary disease alone, so the coworkers are not contacts of an infectious case. He still deserves evaluation and treatment of LTBI to prevent later progression to disease.\n\n**LTBI | Pulmonary TB disease**\n\n- TST or IGRA: Usually positive; Usually positive (may be negative if very ill)\n- Symptoms: None; Cough 3 weeks or more, fever, night sweats, weight loss\n- Chest radiograph: Normal; Usually abnormal\n- Infectious: No; Yes\n\nPulmonary tuberculosis disease, so all of his office contacts now need testing for new infection: incorrect. Pulmonary disease would usually bring symptoms or radiographic findings, and he has neither.\n\nLatent tuberculosis infection, which carries no risk of spreading the organism to contacts: correct. A positive immune-based test with no symptoms and a normal radiograph is LTBI, which is not contagious.\n\nExtrapulmonary tuberculosis, which is contagious only through direct contact with lesions: incorrect. Nothing suggests an extrapulmonary site, and extrapulmonary TB without lung disease is not infectious.\n\nA false-positive result from childhood vaccination, so no further evaluation is needed: incorrect. IGRAs are not affected by BCG vaccination, so the result cannot be dismissed that way.\n\nReinfection tuberculosis, which is contagious until two negative sputum cultures return: incorrect. Reinfection is rare outside advanced immune deficiency, and there is no disease here to transmit."
+  },
+  {
+   "id": "miid2-w05-lec29-q02",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 29 slides",
+   "stem": "A county health department is ranking four newly reported patients to decide which contact investigation to start first. Patient 1 has tuberculous lymphadenitis of the neck with a normal chest radiograph. Patient 2 has a positive tuberculin skin test and no symptoms. Patient 3 has a 2-month cough, a cavity in the right upper lobe and sputum smears showing many acid-fast bacilli. Patient 4 has culture-proven pulmonary TB and completed 4 weeks of effective therapy with a resolving cough.\n\nPatient 3 is the most likely to have transmitted infection because of which of the following?",
+   "choices": [
+    "Cavitary disease carries a high organism burden that coughing aerosolizes",
+    "Lymph node disease releases organisms into the blood that reach the airways",
+    "Cavitary organisms are more often drug resistant and therefore more infectious",
+    "Smear-positive patients shed large respiratory droplets that settle on surfaces",
+    "Skin test reactivity in this patient indicates the strain is highly virulent"
+   ],
+   "answer": 0,
+   "evidence": [],
+   "note": "**TB transmission risk rises with pulmonary disease that has a high organism burden (positive smear, cavities) plus coughing, and falls rapidly on effective treatment.**\n\nInfectiousness depends on how many organisms are in the lung and how well they are aerosolized. A cavity holds an enormous number of bacilli, and a positive sputum smear is itself a marker of a high organism load. Coughing turns those organisms into tiny droplet nuclei (1 to 10 micrometers) that stay airborne and travel long distances.\n\nThe others are low risk: extrapulmonary TB without lung disease and latent infection are not infectious, and infectiousness falls quickly once effective treatment starts, as in Patient 4.\n\nCavitary disease carries a high organism burden that coughing aerosolizes: correct. A high bacillary burden in a cavity, aerosolized by coughing, drives transmission.\n\nLymph node disease releases organisms into the blood that reach the airways: incorrect. Lymph node TB without pulmonary disease is not infectious.\n\nCavitary organisms are more often drug resistant and therefore more infectious: incorrect. Drug-resistant strains are not more infectious; delays in effective therapy are what increase their spread.\n\nSmear-positive patients shed large respiratory droplets that settle on surfaces: incorrect. TB spreads by tiny airborne droplet nuclei, not large droplets, and surfaces carry minimal risk.\n\nSkin test reactivity in this patient indicates the strain is highly virulent: incorrect. A skin test measures the host's immune response, not the virulence of the organism."
+  },
+  {
+   "id": "miid2-w05-lec29-q03",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 29 slides",
+   "stem": "Five adults have tuberculin skin tests (TST) placed and read at 48 to 72 hours. None has symptoms or an abnormal chest radiograph. Their induration and history are: (A) 8 mm, an office accountant with no known TB risk factors; (B) 12 mm, a software engineer with no known TB risk factors; (C) 6 mm, a man with HIV infection; (D) 7 mm, a nursing home employee; (E) 9 mm, a man who arrived from a high-incidence country 2 years ago.\n\nWhich of these results should be read as positive?",
+   "choices": [
+    "The accountant with 8 mm",
+    "The software engineer with 12 mm",
+    "The man with HIV and 6 mm",
+    "The nursing home employee with 7 mm",
+    "The recent immigrant with 9 mm"
+   ],
+   "answer": 2,
+   "evidence": [],
+   "note": "**The TST cutoff for a positive result (5, 10 or 15 mm) is set by the person's risk, with the lowest cutoff for the highest-risk groups.**\n\nThe TST cutoff depends on who is being tested. A smaller threshold raises sensitivity, so it is used where missing an infection is most dangerous. HIV infection, close contact with an infectious case, organ transplant, other immune suppression and an old untreated TB scar all use 5 mm. Recent immigrants, people who inject drugs, health care workers and residents or employees of congregate settings such as nursing homes use 10 mm. A person with no known risk needs 15 mm.\n\nThe man with HIV has 6 mm, above his 5 mm cutoff. The nursing home employee (7 mm) and the immigrant (9 mm) fall below their 10 mm cutoff, and both people with no risk factors fall below 15 mm.\n\n**Cutoff | Who**\n\n- 5 mm or more: HIV, close contact of an infectious case, old untreated TB on radiograph, organ transplant, other immune suppression (TNF-alpha inhibitor, prednisone over 15 mg a day for a month), suspected TB disease\n- 10 mm or more: Recent immigrants, people who inject drugs, congregate settings (jails, nursing homes), health care and mycobacteriology lab workers, children under 4\n- 15 mm or more: No known TB risk\n\nThe accountant with 8 mm: incorrect. With no risk factors the cutoff is 15 mm, so 8 mm is negative.\n\nThe software engineer with 12 mm: incorrect. With no risk factors the cutoff is 15 mm, so 12 mm is negative.\n\nThe man with HIV and 6 mm: correct. In HIV infection 5 mm or more is positive.\n\nThe nursing home employee with 7 mm: incorrect. Congregate-setting employees use a 10 mm cutoff, so 7 mm is negative.\n\nThe recent immigrant with 9 mm: incorrect. Recent immigrants use a 10 mm cutoff, so 9 mm is negative."
+  },
+  {
+   "id": "miid2-w05-lec29-q04",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 29 slides",
+   "stem": "A 26-year-old woman from Ethiopia starts nursing school in New Jersey and needs testing for tuberculosis infection. She received a vaccine at birth that left a small scar on her upper arm. She has no symptoms. A previous tuberculin skin test placed in her home country was read as 13 mm, and she was told it was probably due to the vaccine. She lives 90 minutes from campus and would have difficulty returning for a second visit.\n\nWhich of the following is the best test to evaluate her for tuberculosis infection?",
+   "choices": [
+    "Repeat tuberculin skin test read at 48 to 72 hours",
+    "Two-step tuberculin skin test placed one to three weeks apart",
+    "Interferon-gamma release assay on a single blood sample",
+    "Three sputum samples for acid-fast stain and culture",
+    "Chest computed tomography as the initial screening test"
+   ],
+   "answer": 2,
+   "evidence": [],
+   "note": "**BCG can cause a false-positive tuberculin skin test; an IGRA is preferred in anyone with prior BCG or who may not return for a TST reading.**\n\nThe vaccine is bacille Calmette-Guerin (BCG), a modified *Mycobacterium bovis* strain that stimulates cell-mediated immunity and can make a tuberculin skin test positive. Her skin test result therefore cannot separate a vaccine effect from true infection.\n\nAn IGRA measures interferon-gamma released by her T cells in response to antigens that BCG and most nontuberculous mycobacteria do not share, so prior BCG does not cause a false positive. It also needs only one visit, which matters here. The lecture's rule is short: if there is a history of BCG, do an IGRA.\n\nRepeat tuberculin skin test read at 48 to 72 hours: incorrect. A repeat skin test still cannot separate a BCG effect from infection and needs a return visit.\n\nTwo-step tuberculin skin test placed one to three weeks apart: incorrect. Two-step testing addresses boosting, not BCG cross-reactivity, and needs even more visits.\n\nInterferon-gamma release assay on a single blood sample: correct. IGRAs are not affected by BCG and need a single visit.\n\nThree sputum samples for acid-fast stain and culture: incorrect. Sputum testing looks for disease, and she has no symptoms.\n\nChest computed tomography as the initial screening test: incorrect. CT is not recommended as an initial screening test for TB infection."
+  },
+  {
+   "id": "miid2-w05-lec29-q05",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 29 slides",
+   "stem": "A 63-year-old man who emigrated from Vietnam 30 years ago is hired at a long-term care facility. His baseline tuberculin skin test shows 3 mm of induration. Per facility policy, a second skin test is placed 2 weeks later and shows 14 mm. He has no symptoms, no known exposure to anyone with tuberculosis during those 2 weeks, and a normal chest radiograph.\n\nWhich of the following best explains the change between his two skin test results?",
+   "choices": [
+    "He acquired a new tuberculosis infection in the two weeks between tests",
+    "The second reading was falsely raised by an infection with an environmental mycobacterium",
+    "Antibodies formed against the first tuberculin dose cross-reacted with the second",
+    "The first test recalled a waned T-cell response to an infection from years ago",
+    "The tuberculin from the first test caused active disease that reacted with the second"
+   ],
+   "answer": 3,
+   "evidence": [],
+   "note": "**Remote TB infection can give a falsely negative first TST that boosts on retesting; two-step testing prevents a boosted reaction from being called a new conversion.**\n\nYears after infection, the T-cell response to *Mycobacterium tuberculosis* can wane, so the first skin test may be falsely negative. The antigens in that first test can boost the response, so a second test placed soon afterward is positive.\n\nThis is the boosting phenomenon, and it is why two-step testing is done at baseline for people who will be tested repeatedly. Read without the two-step context, the second result could be mistaken for a new infection (a conversion). Here, the most likely explanation is an old infection that was boosted, not a new one in a two-week window with no exposure.\n\nHe acquired a new tuberculosis infection in the two weeks between tests: incorrect. He had no exposure, and a new infection takes weeks to produce a positive test.\n\nThe second reading was falsely raised by an infection with an environmental mycobacterium: incorrect. Some nontuberculous mycobacteria can cross-react, but that would not explain a jump within two weeks of a first test.\n\nAntibodies formed against the first tuberculin dose cross-reacted with the second: incorrect. The skin test reads a T-cell (delayed-type) response, not antibody.\n\nThe first test recalled a waned T-cell response to an infection from years ago: correct. The first TST boosted a waned response to remote infection.\n\nThe tuberculin from the first test caused active disease that reacted with the second: incorrect. Tuberculin is a purified protein derivative and cannot cause infection."
+  },
+  {
+   "id": "miid2-w05-lec29-q06",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 29 slides",
+   "stem": "A 41-year-old woman from Haiti has a positive interferon-gamma release assay on routine screening before starting a job at a correctional facility. On questioning she reports 5 weeks of a productive cough, drenching night sweats and a 4 kg weight loss. Temperature is 38.1 C (100.6 F). Chest radiograph shows patchy opacities in the right upper lobe. Her clinician had planned to start treatment for latent infection.\n\nWhich of the following is the most appropriate next step?",
+   "choices": [
+    "Start the planned latent-infection treatment and repeat the chest radiograph in 3 months",
+    "Repeat the interferon-gamma release assay to confirm the result before acting",
+    "Collect three sputum samples for smear and culture plus a nucleic acid test",
+    "Place a tuberculin skin test to decide whether the assay was a false positive",
+    "Start isoniazid alone for 9 months because her symptoms suggest a higher burden"
+   ],
+   "answer": 2,
+   "evidence": [],
+   "note": "**After a positive TST or IGRA, symptoms or an abnormal chest radiograph require sputum testing for TB disease; never treat as latent infection when disease is suspected.**\n\nA positive TB test is followed by a history, examination and chest radiograph to look for disease. She has the symptoms of pulmonary TB (cough 3 weeks or more, fever, night sweats, weight loss) and an abnormal radiograph, so she needs testing for active disease: three sputum specimens at least 8 hours apart for acid-fast smear and culture, plus at least one nucleic acid amplification test (NAAT).\n\nThe lecture is explicit: do not treat for latent infection if there is concern for TB disease. Single-drug latent regimens given to a person with active disease are inadequate and can select for resistance.\n\nStart the planned latent-infection treatment and repeat the chest radiograph in 3 months: incorrect. Latent-infection treatment must not be given when disease is suspected.\n\nRepeat the interferon-gamma release assay to confirm the result before acting: incorrect. Repeating the assay adds nothing; she needs evaluation for disease.\n\nCollect three sputum samples for smear and culture plus a nucleic acid test: correct. Symptoms plus an abnormal radiograph call for sputum smears, cultures and a NAAT.\n\nPlace a tuberculin skin test to decide whether the assay was a false positive: incorrect. Doing both TST and IGRA is not routinely recommended, and neither test separates infection from disease.\n\nStart isoniazid alone for 9 months because her symptoms suggest a higher burden: incorrect. A single drug is never adequate for suspected TB disease."
+  },
+  {
+   "id": "miid2-w05-lec29-q07",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 29 slides",
+   "stem": "A TB clinic has enough staff to start latent infection treatment in only one patient this week. All five have a positive interferon-gamma release assay, no symptoms and no evidence of active disease. Patient A is a 30-year-old smoker. Patient B is a 45-year-old with well-controlled type 2 diabetes. Patient C is a 52-year-old with chronic kidney disease. Patient D is a 27-year-old who is 8% below ideal body weight. Patient E is a 38-year-old with untreated HIV infection and a low CD4 count.\n\nWhich patient has the highest risk of progressing to TB disease?",
+   "choices": [
+    "Patient A, the smoker",
+    "Patient B, with diabetes",
+    "Patient C, with kidney disease",
+    "Patient D, who is underweight",
+    "Patient E, with untreated HIV infection"
+   ],
+   "answer": 4,
+   "evidence": [],
+   "note": "**Advanced untreated HIV is the strongest risk factor for progression from latent TB infection to disease, followed by recent close contact and an untreated old TB scar.**\n\nLatent infection stays latent because T-cell mediated immunity keeps the organism contained in granulomas. Anything that weakens that immunity raises the risk of progression, and the lecture ranks the risks. Advanced, untreated HIV infection carries the highest relative risk (around 10 times), followed by recent close contact with an infectious case and an old, untreated TB scar on chest radiograph.\n\nSmoking, diabetes (higher mainly when poorly controlled), chronic renal failure and malnutrition all raise the risk, but far less. Patient E should be treated first.\n\nPatient A, the smoker: incorrect. Smoking raises risk only modestly (about 1.5 times).\n\nPatient B, with diabetes: incorrect. Diabetes raises risk modestly, mostly when poorly controlled.\n\nPatient C, with kidney disease: incorrect. Chronic renal failure roughly doubles the risk, well below HIV.\n\nPatient D, who is underweight: incorrect. Malnutrition counts at more than 10% under ideal weight and raises risk only modestly.\n\nPatient E, with untreated HIV infection: correct. Advanced untreated HIV carries the highest risk of progression."
+  },
+  {
+   "id": "miid2-w05-lec29-q08",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 29 slides",
+   "stem": "A 36-year-old woman from India who takes a tumor necrosis factor alpha inhibitor for Crohn disease develops a painless, slowly enlarging mass on the side of her neck over 2 months, with low-grade fevers. Fine-needle aspiration shows caseating granulomas, and culture grows Mycobacterium tuberculosis. She has no cough, and chest radiograph is normal. She lives with her husband and two school-age children and asks whether her family is at risk of catching TB from her.\n\nWhich of the following is the most accurate statement about her illness?",
+   "choices": [
+    "Her household should wear masks until she has completed 2 weeks of treatment",
+    "Organisms draining from the node can spread the infection through shared towels",
+    "She cannot transmit infection, because she has no disease in her lungs",
+    "Her children need sputum testing because lymph node TB spreads easily to children",
+    "She most likely acquired this infection from contaminated food rather than air"
+   ],
+   "answer": 2,
+   "evidence": [],
+   "note": "**Extrapulmonary TB (lymph node is the most common site) is more frequent with immune suppression and is not infectious without pulmonary disease.**\n\nShe has extrapulmonary TB in a cervical lymph node, the most common extrapulmonary site in the United States. Extrapulmonary TB is more frequent in immune suppressed patients, including those on TNF-alpha inhibitors and those with HIV, and its diagnosis is often delayed because specimens are harder to obtain.\n\nTransmission requires organisms in the lungs aerosolized by coughing. Extrapulmonary TB without pulmonary disease is not infectious, so her family is not at risk from her. Her household may still deserve evaluation as people who share her exposures, but not as contacts of an infectious case.\n\nHer household should wear masks until she has completed 2 weeks of treatment: incorrect. Masking is for infectious pulmonary disease, which she does not have.\n\nOrganisms draining from the node can spread the infection through shared towels: incorrect. Environmental surfaces carry minimal TB risk; transmission is airborne.\n\nShe cannot transmit infection, because she has no disease in her lungs: correct. Extrapulmonary TB without lung involvement is not infectious.\n\nHer children need sputum testing because lymph node TB spreads easily to children: incorrect. Lymph node TB does not spread person to person.\n\nShe most likely acquired this infection from contaminated food rather than air: incorrect. *M. tuberculosis* is acquired by inhaling droplet nuclei, not from food."
+  },
+  {
+   "id": "miid2-w05-lec29-q09",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 29 slides",
+   "stem": "A 67-year-old man from China has a positive interferon-gamma release assay. He reports a mild cough for 6 weeks and a 3 kg weight loss. He says he was treated for tuberculosis as a teenager. Chest radiograph shows fibrotic scarring with volume loss in the left upper lobe and a few calcified nodules. No earlier films are available for comparison. His clinician wants to decide whether he needs further testing.\n\nWhich of the following is the correct interpretation of his chest radiograph?",
+   "choices": [
+    "It cannot distinguish old healed TB from active disease, so sputum testing is needed",
+    "It shows only inactive scarring, which rules out active disease without any further testing",
+    "It shows calcified nodules, which confirm reactivation and justify treatment alone",
+    "It is less sensitive than the skin test, so a tuberculin test should replace it",
+    "It confirms nontuberculous mycobacterial disease because of the fibrotic pattern"
+   ],
+   "answer": 0,
+   "evidence": [],
+   "note": "**A chest radiograph cannot distinguish old healed TB from active TB; symptoms or abnormal films need sputum smear, culture and NAAT.**\n\nThe lecture makes two points about the chest radiograph. A normal film in a person with no symptoms makes pulmonary TB very unlikely. But a radiograph cannot distinguish inactive, old healed pulmonary TB from active disease.\n\nHe has symptoms (cough, weight loss) and an abnormal film, so his scarring cannot be called old and inactive on appearance. He needs sputum specimens for acid-fast smear, culture and a nucleic acid test. Prior treatment with relapse is also a setting where drug resistance becomes a concern.\n\nIt cannot distinguish old healed TB from active disease, so sputum testing is needed: correct. A radiograph cannot separate old healed TB from active TB, and he has symptoms.\n\nIt shows only inactive scarring, which rules out active disease without any further testing: incorrect. Scarring cannot be called inactive on a film alone, especially with symptoms.\n\nIt shows calcified nodules, which confirm reactivation and justify treatment alone: incorrect. Radiographic findings alone do not confirm active disease.\n\nIt is less sensitive than the skin test, so a tuberculin test should replace it: incorrect. Immune-based tests measure infection and he is already IGRA positive; they do not assess disease.\n\nIt confirms nontuberculous mycobacterial disease because of the fibrotic pattern: incorrect. The radiograph cannot identify the species, and NTM can look like TB."
+  },
+  {
+   "id": "miid2-w05-lec29-q10",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 29 slides",
+   "stem": "A 3-year-old boy is evaluated 2 months after his grandfather, who lives in the same apartment, was diagnosed with smear-positive cavitary pulmonary tuberculosis. The boy has had a cough and poor weight gain for 4 weeks. Chest radiograph shows enlarged hilar lymph nodes and a right middle lobe opacity. He cannot produce sputum on request, and the team wants a specimen for acid-fast smear, culture and nucleic acid testing.\n\nWhich of the following is the preferred way to obtain a specimen in this child?",
+   "choices": [
+    "Lumbar puncture for cerebrospinal fluid",
+    "Blood culture drawn into mycobacterial media",
+    "Urine sample collected on three mornings",
+    "Throat swab from the posterior pharynx",
+    "Early-morning gastric aspiration"
+   ],
+   "answer": 4,
+   "evidence": [],
+   "note": "**When sputum cannot be produced, options are induction, bronchoscopy or gastric aspiration, which is preferred in infants and young children.**\n\nYoung children are at high risk of progressing to disease after infection, and the diagnosis of TB disease is harder in them. This child is a close household contact of an infectious case and now has cough, poor growth and an abnormal radiograph, so he needs specimens to confirm pulmonary disease.\n\nWhen a patient cannot cough up a quality sputum specimen, the options are sputum induction with nebulized saline, bronchoscopy or gastric aspiration, and gastric aspiration is preferred in infants and younger children. Young children swallow their respiratory secretions, so the stomach contents carry organisms from the lung.\n\nLumbar puncture for cerebrospinal fluid: incorrect. There are no signs of meningitis, and spinal fluid does not sample the lungs.\n\nBlood culture drawn into mycobacterial media: incorrect. Blood cultures are not the specimen for suspected pulmonary TB.\n\nUrine sample collected on three mornings: incorrect. Urine samples the genitourinary tract, not the lungs.\n\nThroat swab from the posterior pharynx: incorrect. A throat swab does not sample the lower respiratory tract.\n\nEarly-morning gastric aspiration: correct. Gastric aspiration is preferred for young children who cannot produce sputum."
+  },
+  {
+   "id": "miid2-w05-lec29-q11",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 29 slides",
+   "stem": "A 58-year-old woman with rheumatoid arthritis was started on a biologic agent 5 months ago after methotrexate failed. She now has 3 weeks of fever and night sweats. Chest radiograph shows a miliary pattern, and a biopsy of an enlarged lymph node shows poorly formed granulomas with many acid-fast bacilli. Before therapy began, her tuberculin skin test was 7 mm, which was not acted on. She grew up in a country where tuberculosis is common.\n\nThe biologic agent most likely allowed disease by interfering with which of the following?",
+   "choices": [
+    "Production of neutralizing antibody that blocks bacillary entry into macrophages",
+    "A cytokine that holds infected macrophages in a contained structure",
+    "Complement-mediated lysis of the waxy mycobacterial cell wall",
+    "Neutrophil degranulation that kills bacilli in the alveolar space",
+    "Mucociliary clearance that removes inhaled droplet nuclei"
+   ],
+   "answer": 1,
+   "evidence": [],
+   "note": "**Cell-mediated immunity (IL-12, interferon-gamma, TNF-alpha) holds TB in granulomas; cytokine inhibitors such as TNF-alpha blockers raise the risk of reactivation.**\n\nHer skin test showed she already had latent infection. Control of latent infection depends on cell-mediated immunity: dendritic cells release interleukin-12 to drive Th1 cells, Th1 cells make interferon-gamma to activate macrophages, and cytokines such as tumor necrosis factor alpha keep infected macrophages walled off in granulomas.\n\nThe lecture lists treatment with a TNF-alpha inhibitor as a risk factor for progression from latent infection to disease, and its cytokine slide stresses the consequences of cytokine inhibitors. Losing TNF-alpha lets the granuloma break down, which is why she has poorly formed granulomas and disseminated disease. It is also why a 7 mm skin test counts as positive (5 mm or more) in someone on these drugs.\n\nProduction of neutralizing antibody that blocks bacillary entry into macrophages: incorrect. Antibody is not the main defense against an intracellular organism living in macrophages.\n\nA cytokine that holds infected macrophages in a contained structure: correct. TNF-alpha blockade breaks down the granuloma that contains latent infection.\n\nComplement-mediated lysis of the waxy mycobacterial cell wall: incorrect. Complement does not lyse mycobacteria, whose waxy wall resists it.\n\nNeutrophil degranulation that kills bacilli in the alveolar space: incorrect. Neutrophils are not the cells that contain latent TB.\n\nMucociliary clearance that removes inhaled droplet nuclei: incorrect. Mucociliary clearance acts at the first exposure, not in reactivation of established infection."
+  },
+  {
+   "id": "miid2-w05-lec29-q12",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 29 slides",
+   "stem": "A 29-year-old man with advanced HIV infection (CD4 count 40 cells/microL, normal 500 to 1,500) presents with 6 weeks of fever, weight loss and cough. Chest radiograph shows innumerable tiny nodules throughout both lungs. Sputum smear shows acid-fast bacilli, and a nucleic acid amplification test detects Mycobacterium tuberculosis. A tuberculin skin test placed on admission shows 0 mm of induration, and an interferon-gamma release assay returns indeterminate.\n\nWhich of the following best explains the skin test and blood assay results?",
+   "choices": [
+    "The organism lacks the antigens that both tests are designed to detect",
+    "Prior BCG vaccination has blocked the response that both tests measure",
+    "High circulating antibody levels have neutralized the test antigens",
+    "Too few T cells remain to mount the cell-mediated response that both tests measure",
+    "The organisms are confined to granulomas and cannot reach the test site"
+   ],
+   "answer": 3,
+   "evidence": [],
+   "note": "**TST and IGRA measure the T-cell response, so immune suppression or severe TB disease can make them falsely negative or indeterminate; a negative result never excludes TB.**\n\nThe tiny nodules throughout both lungs and the positive smear and NAAT establish disseminated TB disease. Both the TST and the IGRA measure the host's immune response to TB, not the organism itself. The TST reads delayed-type hypersensitivity, and the IGRA requires antigen-specific CD4 or CD8 T cells to release interferon-gamma.\n\nWith a CD4 count of 40, he is anergic and cannot mount that response, and severe TB disease itself can also suppress it. This is why a negative TST or IGRA never excludes TB infection or disease, and why diagnosis of disease rests on smears, cultures and NAATs.\n\nThe organism lacks the antigens that both tests are designed to detect: incorrect. The organism is confirmed *M. tuberculosis*, which carries the test antigens.\n\nPrior BCG vaccination has blocked the response that both tests measure: incorrect. BCG makes a TST falsely positive, not negative, and does not affect IGRAs.\n\nHigh circulating antibody levels have neutralized the test antigens: incorrect. Neither test depends on antibody.\n\nToo few T cells remain to mount the cell-mediated response that both tests measure: correct. Profound T-cell loss (anergy) and severe disease cause false-negative or indeterminate immune tests.\n\nThe organisms are confined to granulomas and cannot reach the test site: incorrect. He has disseminated disease, not contained infection, and the tests read circulating T cells."
+  },
+  {
+   "id": "miid2-w05-lec29-q13",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 29 slides",
+   "stem": "A state health department notes that its TB case count has fallen slowly for a decade, and that nearly 90% of new cases occur in people born in high-incidence countries, many of whom were diagnosed years after arriving. Contact investigations and treatment of every active case are already in place. Planners want the single strategy most likely to move the state toward TB elimination.\n\nWhich strategy best fits this goal?",
+   "choices": [
+    "Vaccinating all infants with BCG to prevent overwhelming childhood disease",
+    "Screening at-risk groups for infection and treating those infected before disease",
+    "Restricting screening to patients who report cough lasting more than 3 weeks",
+    "Repeating chest radiographs every year in all residents born outside the US",
+    "Placing every person with a positive IGRA in airborne isolation until cleared"
+   ],
+   "answer": 1,
+   "evidence": [],
+   "note": "**In low-incidence settings, TB elimination requires screening for and treating latent infection, because most cases come from reactivation.**\n\nMost cases here arise years after arrival, which means they are reactivation of infection acquired abroad rather than new transmission in the state. Treating active cases alone cannot stop cases that come out of a large pool of latent infection.\n\nThe lecture contrasts the strategies: high-incidence, resource-limited regions focus on treating disease (TB control), while low-incidence regions such as the US also screen for and treat infection. Elimination where incidence is low is only achievable by treating people who are infected before they develop TB disease.\n\nVaccinating all infants with BCG to prevent overwhelming childhood disease: incorrect. BCG is used in high-incidence countries for infants and is not given in the US; it does not prevent reactivation in adults.\n\nScreening at-risk groups for infection and treating those infected before disease: correct. Elimination in low-incidence settings depends on finding and treating latent infection.\n\nRestricting screening to patients who report cough lasting more than 3 weeks: incorrect. Waiting for symptoms finds disease, not the latent pool that feeds future cases.\n\nRepeating chest radiographs every year in all residents born outside the US: incorrect. Radiographs miss latent infection, which has a normal film.\n\nPlacing every person with a positive IGRA in airborne isolation until cleared: incorrect. Latent infection is not infectious and does not need isolation."
+  }
+ ]
+}

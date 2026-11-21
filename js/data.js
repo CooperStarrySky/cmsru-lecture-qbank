@@ -6,6 +6,7 @@
     notes: "Lecture notes",
     formative: "Formative quizzes",
     said: "Said in lecture",
+    practice: "Practice questions (written)",
   };
   const preview = new URLSearchParams(location.search).has("preview");
   const cache = {};

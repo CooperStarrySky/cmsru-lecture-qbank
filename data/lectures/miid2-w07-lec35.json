@@ -1,0 +1,297 @@
+{
+ "lecture_id": "miid2-w07-lec35",
+ "block": "MIID II",
+ "week": 7,
+ "lecture": "35 Parasitology I",
+ "contributor": "caleb",
+ "questions": [
+  {
+   "id": "miid2-w07-lec35-q01",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 35 slides",
+   "stem": "A 31-year-old man who immigrated from Central America 1 year ago comes to the emergency department with 10 days of fever and right upper quadrant pain. Temperature is 38.9 C (102 F). The liver is tender. Ultrasound shows a single 7-cm hypoechoic lesion in the right lobe. Aspiration yields thick, odorless, reddish-brown fluid, and bacterial cultures of the aspirate are negative. Serum antigen testing for the suspected protozoan is positive. He is started on an oral agent that resolves his fever within 4 days.\n\nWhich of the following should be added once that course is complete to prevent relapse and further transmission?",
+   "choices": [
+    "Albendazole",
+    "Paromomycin",
+    "Praziquantel",
+    "Ivermectin",
+    "Trimethoprim-sulfamethoxazole"
+   ],
+   "answer": 1,
+   "evidence": [],
+   "note": "**Invasive amebiasis is treated with metronidazole to kill trophozoites, followed by a luminal agent (paromomycin) to kill cysts.**\n\nFever, a single right-lobe liver abscess in a young male immigrant, and \"anchovy paste\" aspirate with sterile bacterial cultures point to extraintestinal amebiasis from *Entamoeba histolytica*. Trophozoites invade the colonic mucosa and travel to the liver. Metronidazole is first line because it kills the invasive trophozoites, and that is the drug that resolved his fever.\n\nMetronidazole does not reliably clear cysts left in the bowel lumen. A luminal agent such as paromomycin is given second to kill the cysts, which are both the infectious form and the source of later relapse.\n\n**Drug | Stage killed | Role**\n\n- Metronidazole: Trophozoite (invasive); First\n- Paromomycin: Cyst (luminal, infectious); Second\n\nAlbendazole: incorrect. Albendazole treats nematodes and microsporidia, not amebic cysts.\n\nParomomycin: correct. Paromomycin is the luminal agent that kills *E. histolytica* cysts after metronidazole kills trophozoites.\n\nPraziquantel: incorrect. Praziquantel treats trematodes and tapeworms, not protozoa.\n\nIvermectin: incorrect. Ivermectin treats Strongyloides and filarial worms, not amebae.\n\nTrimethoprim-sulfamethoxazole: incorrect. Trimethoprim-sulfamethoxazole treats Cyclospora and Cystoisospora, not amebiasis."
+  },
+  {
+   "id": "miid2-w07-lec35-q02",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 35 slides",
+   "stem": "A 28-year-old man comes to the clinic with 2 weeks of greasy, foul-smelling stools that float, along with bloating, cramping, and excessive flatulence. He has lost 3 kg. Three weeks ago he went backpacking and drank untreated water from a mountain stream. He has had no fever and no blood in the stool. A stool antigen test identifies a flagellated protozoan.\n\nA biopsy of the proximal small intestine would most likely show which of the following?",
+   "choices": [
+    "Flask-shaped ulcers extending into the submucosa",
+    "Eosinophilic granulomas surrounding deposited eggs",
+    "Noncaseating granulomas throughout the bowel wall",
+    "Partial villous atrophy with organisms on the surface",
+    "Transmural necrosis with a dense neutrophilic infiltrate"
+   ],
+   "answer": 3,
+   "evidence": [],
+   "note": "**Giardia is noninvasive; it causes partial villous atrophy of the jejunum, producing foul, floating, fatty stools without blood.**\n\nSteatorrhea, bloating and flatulence without fever or blood after drinking untreated stream water fit *Giardia duodenalis* (lamblia), the most common intestinal protozoan. Cysts are ingested and release flagellated trophozoites that attach to the jejunal and duodenal surface.\n\nThe trophozoites do not invade. Instead, the jejunal epithelium shows partial villous atrophy, which shrinks the absorptive surface and produces fat malabsorption (floating, foul stool). That is why the diarrhea is greasy and nonbloody, the opposite of amebic colitis.\n\nFlask-shaped ulcers extending into the submucosa: incorrect. Flask-shaped ulcers are the invasive colonic lesion of *Entamoeba histolytica*.\n\nEosinophilic granulomas surrounding deposited eggs: incorrect. Eosinophilic granulomas around eggs describe schistosomiasis.\n\nNoncaseating granulomas throughout the bowel wall: incorrect. Noncaseating granulomas are not a feature of giardiasis.\n\nPartial villous atrophy with organisms on the surface: correct. Giardia trophozoites sit on the jejunal surface and cause partial villous atrophy and malabsorption.\n\nTransmural necrosis with a dense neutrophilic infiltrate: incorrect. Transmural necrosis implies an invasive or ischemic process, which Giardia does not cause."
+  },
+  {
+   "id": "miid2-w07-lec35-q03",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 35 slides",
+   "stem": "Over 2 weeks in August, 46 children who attended the same community water park develop watery, nonbloody diarrhea with crampy abdominal pain and nausea, starting about a week after their visits. Routine bacterial stool cultures are negative. A modified acid-fast stain of stool shows round oocysts 4 to 7 micrometers in diameter. Health inspectors confirm the pools were chlorinated to recommended levels throughout the outbreak.\n\nWhich property of the causative organism best explains this outbreak?",
+   "choices": [
+    "Its spores are inhaled from aerosolized pool water",
+    "It requires a snail intermediate host in fresh water",
+    "Its oocysts survive standard pool chlorine disinfection",
+    "Its larvae penetrate intact skin during swimming",
+    "It enters the brain through the cribriform plate"
+   ],
+   "answer": 2,
+   "evidence": [],
+   "note": "**Cryptosporidium oocysts resist chlorine, so outbreaks occur in treated pools and water supplies; diagnosis is by modified acid-fast stain or stool antigen.**\n\nWatery diarrhea after a 1-week incubation, negative bacterial cultures, and acid-fast oocysts of 4 to 7 micrometers identify *Cryptosporidium*, an obligate intracellular coccidian protozoan that lives in the small intestinal brush border.\n\nIts ingested oocysts are hardy and resistant to chlorination, so properly chlorinated swimming pools and recreational water facilities are classic outbreak sources. In healthy children the illness is usually self-limited.\n\nIts spores are inhaled from aerosolized pool water: incorrect. Cryptosporidium oocysts are swallowed, not inhaled, and pool aerosols do not explain diarrhea.\n\nIt requires a snail intermediate host in fresh water: incorrect. A snail intermediate host belongs to trematodes such as Schistosoma.\n\nIts oocysts survive standard pool chlorine disinfection: correct. Cryptosporidium oocysts resist chlorination, which is why treated pools spread it.\n\nIts larvae penetrate intact skin during swimming: incorrect. Skin penetration during water exposure describes Schistosoma cercariae.\n\nIt enters the brain through the cribriform plate: incorrect. Entry through the cribriform plate describes *Naegleria fowleri*."
+  },
+  {
+   "id": "miid2-w07-lec35-q04",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 35 slides",
+   "stem": "A 52-year-old woman who received a liver transplant 3 years ago and takes tacrolimus comes to the clinic with 3 weeks of persistent, high-volume watery diarrhea and malaise. She recently returned from a trip during which she swam daily in a hotel pool. She has no fever. Bacterial stool cultures are negative. A combined stool antigen panel is shown.\n\nGiardia antigen: Negative\nCryptosporidium antigen (EIA): Positive\nClostridioides difficile toxin: Negative\n\nWhich of the following is the most appropriate treatment?",
+   "choices": [
+    "Metronidazole followed by paromomycin",
+    "Supportive care alone until it resolves",
+    "Nitazoxanide",
+    "Albendazole",
+    "Praziquantel"
+   ],
+   "answer": 2,
+   "evidence": [],
+   "note": "**Cryptosporidiosis is self-limited in healthy hosts but is treated with nitazoxanide in immunocompromised patients.**\n\nPersistent watery diarrhea after pool exposure with a positive Cryptosporidium antigen confirms cryptosporidiosis. The spectrum runs from asymptomatic to severe enteritis, and it depends on host immunity.\n\nIn an immunocompetent host the infection is usually self-limited and needs only support. In an immunocompromised host, such as a transplant recipient on tacrolimus, diarrhea can be prolonged and severe, and the slides list nitazoxanide as the treatment.\n\nMetronidazole followed by paromomycin: incorrect. Metronidazole plus a luminal agent is the regimen for amebiasis.\n\nSupportive care alone until it resolves: incorrect. Supportive care alone fits an immunocompetent host, not a transplant recipient with weeks of diarrhea.\n\nNitazoxanide: correct. Nitazoxanide treats cryptosporidiosis in immunocompromised patients.\n\nAlbendazole: incorrect. Albendazole treats microsporidia and nematodes.\n\nPraziquantel: incorrect. Praziquantel treats flukes and tapeworms."
+  },
+  {
+   "id": "miid2-w07-lec35-q05",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 35 slides",
+   "stem": "A 41-year-old man with untreated HIV infection and a CD4 count of 45/microL comes to the clinic with 2 months of chronic watery diarrhea and weight loss. Stool testing for bacteria, viruses, Giardia, and Cryptosporidium antigen is negative. A specialized acid-fast stain of stool shows very small oval spores, about 1 to 2 micrometers in diameter, much smaller than any coccidian oocyst.\n\nWhich of the following is the most appropriate treatment for this organism?",
+   "choices": [
+    "Albendazole",
+    "Nitazoxanide",
+    "Paromomycin",
+    "Trimethoprim-sulfamethoxazole",
+    "Ivermectin"
+   ],
+   "answer": 0,
+   "evidence": [],
+   "note": "**Microsporidia (1 to 2 micrometer spores, fungi that act like coccidia) cause chronic diarrhea in AIDS and are treated with albendazole.**\n\nTiny spores of 1 to 2 micrometers in a patient with advanced AIDS and chronic diarrhea identify microsporidia. They are intracellular fungi that behave like the coccidian protozoa, exist as spores in water worldwide, and cause chronic diarrhea mainly in immunosuppressed hosts.\n\nThe slides give albendazole as the treatment. Size is the clue that separates it from Cryptosporidium (4 to 7) and Cyclospora (8 to 10), which are treated differently.\n\nAlbendazole: correct. Albendazole treats microsporidial diarrhea.\n\nNitazoxanide: incorrect. Nitazoxanide treats Cryptosporidium, which is larger (4 to 7 micrometers) and antigen negative here.\n\nParomomycin: incorrect. Paromomycin is a luminal amebicide.\n\nTrimethoprim-sulfamethoxazole: incorrect. Trimethoprim-sulfamethoxazole treats Cyclospora and Cystoisospora, which are larger.\n\nIvermectin: incorrect. Ivermectin treats Strongyloides and Onchocerca."
+  },
+  {
+   "id": "miid2-w07-lec35-q06",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 35 slides",
+   "stem": "A 35-year-old woman with poorly controlled HIV infection comes to the clinic with 6 weeks of intermittent watery diarrhea. She grew up in a tropical region and moved to the United States 2 years ago. Complete blood count shows a mild peripheral eosinophilia. A modified acid-fast stain of stool shows large ellipsoidal oocysts measuring about 25 by 15 micrometers.\n\nWhich organism is most likely responsible?",
+   "choices": [
+    "Cryptosporidium",
+    "Cystoisospora",
+    "Cyclospora",
+    "Giardia duodenalis",
+    "Microsporidia"
+   ],
+   "answer": 1,
+   "evidence": [],
+   "note": "**Cystoisospora is the largest acid-fast coccidian and, unlike the others, may cause eosinophilia; it is treated with trimethoprim-sulfamethoxazole.**\n\nAmong the acid-fast coccidian protozoa, Cystoisospora is the largest (20 to 30 by 10 to 19 micrometers) and the one that may cause peripheral eosinophilia, unlike the others. It is found in tropical and subtropical areas and causes acute watery diarrhea that can become protracted in immunocompromised patients.\n\nDiagnosis is oocysts on acid-fast stained stool, and treatment is trimethoprim-sulfamethoxazole, the same drug used for Cyclospora.\n\nCryptosporidium: incorrect. Cryptosporidium oocysts are only 4 to 7 micrometers and do not cause eosinophilia.\n\nCystoisospora: correct. Large (20 to 30 micrometer) acid-fast oocysts with eosinophilia fit Cystoisospora.\n\nCyclospora: incorrect. Cyclospora oocysts are round and 8 to 10 micrometers.\n\nGiardia duodenalis: incorrect. Giardia is not acid-fast; it is a flagellate seen on wet mount or by antigen.\n\nMicrosporidia: incorrect. Microsporidia spores are tiny, 1 to 2 micrometers."
+  },
+  {
+   "id": "miid2-w07-lec35-q07",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 35 slides",
+   "stem": "A 29-year-old field biologist returns from 3 months of work in the rainforest of Peru, where she was bitten repeatedly by small insects at dusk. Six weeks later a papule on her forearm enlarged and ulcerated. On examination there is a 3-cm painless ulcer with a raised, indurated border and a red granular base. There is no fever and no hepatosplenomegaly.\n\nWhich of the following is the best way to confirm the diagnosis?",
+   "choices": [
+    "Stool ova and parasite examination",
+    "Thick blood smear collected at night",
+    "Biopsy of the ulcer's raised outer edge",
+    "Culture of the ulcer base for bacterial pathogens",
+    "Serum antibody testing 6 weeks later"
+   ],
+   "answer": 2,
+   "evidence": [],
+   "note": "**Cutaneous leishmaniasis is diagnosed by biopsy (or PCR) of the ulcer's outer edge, which shows amastigotes inside histiocytes.**\n\nA painless ulcer with a raised border (the \"pizza\" appearance) that began as a papule after insect bites in Latin America is cutaneous leishmaniasis. Sand flies inject promastigotes, which are taken up by macrophages and become amastigotes in the tissue.\n\nThe organisms are concentrated in the active edge of the lesion, so diagnosis is a biopsy of the outer edge of the ulcer showing amastigotes within histiocytes (or tissue PCR). Serology is used for visceral disease, not cutaneous.\n\nStool ova and parasite examination: incorrect. Leishmania does not live in the gut, so stool examination is not useful.\n\nThick blood smear collected at night: incorrect. A night blood smear finds Wuchereria and Brugia microfilariae.\n\nBiopsy of the ulcer's raised outer edge: correct. Biopsy of the outer edge shows amastigotes in histiocytes.\n\nCulture of the ulcer base for bacterial pathogens: incorrect. Bacterial culture only detects superinfection, not the parasite.\n\nSerum antibody testing 6 weeks later: incorrect. Serology is the test for visceral leishmaniasis, not a localized skin ulcer."
+  },
+  {
+   "id": "miid2-w07-lec35-q08",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 35 slides",
+   "stem": "A 14-year-old boy is brought to the emergency department in July with 2 days of severe headache, fever, and vomiting, and he is now confused. Six days ago he spent the afternoon diving and splashing in a warm, shallow freshwater lake. CT of the head shows diffuse cerebral edema. A wet mount of cerebrospinal fluid shows motile amebae. Despite intensive care he dies 4 days later; autopsy shows hemorrhagic necrosis that is most severe in the olfactory bulbs.\n\nHow did the organism most likely reach the central nervous system?",
+   "choices": [
+    "Swallowed water, then spread through the blood",
+    "Penetration of the skin, then lymphatic spread",
+    "Corneal infection spreading along the optic nerve",
+    "Contiguous spread from an infected middle ear",
+    "Through the cribriform plate along the olfactory nerves"
+   ],
+   "answer": 4,
+   "evidence": [],
+   "note": "***Naegleria fowleri* enters through the nose and crosses the cribriform plate along the olfactory nerve, causing rapidly fatal primary amebic meningoencephalitis.**\n\nFulminant meningoencephalitis after swimming in warm fresh water in summer, with amebae in the cerebrospinal fluid, is primary amebic meningoencephalitis from *Naegleria fowleri*, a free-living ameba of warm fresh water and soil.\n\nWater forced up the nose lets the ameba cross the cribriform plate along the olfactory nerve, which is why necrosis is worst in the olfactory bulbs. Swallowing the water does not cause infection. Death usually follows symptom onset within about 5 days, and mortality is about 97%.\n\nSwallowed water, then spread through the blood: incorrect. The slides stress that swallowing water does not transmit Naegleria.\n\nPenetration of the skin, then lymphatic spread: incorrect. Skin penetration with lymphatic spread is not how Naegleria enters.\n\nCorneal infection spreading along the optic nerve: incorrect. Corneal infection describes Acanthamoeba keratitis, and it does not spread along the optic nerve to cause this illness.\n\nContiguous spread from an infected middle ear: incorrect. Middle ear extension is a bacterial route, not an amebic one.\n\nThrough the cribriform plate along the olfactory nerves: correct. Naegleria enters the CNS through the cribriform plate along the olfactory nerve."
+  },
+  {
+   "id": "miid2-w07-lec35-q09",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 35 slides",
+   "stem": "A 23-year-old woman comes to the clinic 5 weeks after returning from a month in Malawi, where she went kayaking and swimming in a freshwater lake. She has fever, hives, facial swelling, a dry cough, and diarrhea. Laboratory studies show:\n\nLeukocyte count: 13,200/microL (4,500 to 11,000)\nEosinophils: 34% (1 to 4)\nAST: 68 U/L (8 to 40)\nAlkaline phosphatase: 190 U/L (30 to 120)\n\nThree stool and urine examinations for ova are negative.\n\nWhich of the following best explains the negative specimens?",
+   "choices": [
+    "The parasite releases eggs only into the blood at night",
+    "Humans are accidental hosts in whom the worms cannot fully mature",
+    "This hypersensitivity phase occurs before eggs reliably appear",
+    "Eggs are laid on the perianal skin rather than in the stool",
+    "The organism lives in skin nodules and never reaches viscera"
+   ],
+   "answer": 2,
+   "evidence": [],
+   "note": "**Katayama fever (fever, urticaria, eosinophilia 1 to 2 months after freshwater exposure) precedes egg shedding; serology at 6 to 8 weeks makes the diagnosis.**\n\nFever, urticaria, angioedema, cough, diarrhea, high eosinophilia, and raised AST and alkaline phosphatase 1 to 2 months after freshwater exposure in Africa is acute schistosomiasis (Katayama fever). It is a systemic hypersensitivity reaction as the worms mature and begin depositing eggs.\n\nAt this stage eggs are usually not yet seen in stool or urine, so specimens are negative. Serum antibody becomes positive about 6 to 8 weeks after exposure, and eggs appear in specimens or biopsy later in the infection.\n\nThe parasite releases eggs only into the blood at night: incorrect. Nighttime release into blood describes Wuchereria and Brugia microfilariae.\n\nHumans are accidental hosts in whom the worms cannot fully mature: incorrect. Humans are definitive hosts for Schistosoma; accidental-host biology describes Toxocara and Angiostrongylus.\n\nThis hypersensitivity phase occurs before eggs reliably appear: correct. Katayama fever is an early hypersensitivity phase, before eggs are reliably found.\n\nEggs are laid on the perianal skin rather than in the stool: incorrect. Perianal egg laying is the pinworm (Enterobius).\n\nThe organism lives in skin nodules and never reaches viscera: incorrect. Skin nodules describe Onchocerca."
+  },
+  {
+   "id": "miid2-w07-lec35-q10",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 35 slides",
+   "stem": "A 44-year-old woman who raises sheep in a rural area comes to the clinic with 6 weeks of right upper quadrant pain, fever, and malaise. She often eats watercress gathered from a stream that runs through her pasture. Liver enzymes are mildly elevated and eosinophils are 28% (normal 1 to 4). Serology confirms a large liver fluke.\n\nWhich of the following is the treatment of choice?",
+   "choices": [
+    "Praziquantel",
+    "Albendazole",
+    "Ivermectin",
+    "Metronidazole plus paromomycin",
+    "Triclabendazole"
+   ],
+   "answer": 4,
+   "evidence": [],
+   "note": "***Fasciola hepatica* (sheep, watercress, RUQ pain, eosinophilia) is the one fluke that does not respond to praziquantel; treat with triclabendazole.**\n\nRUQ pain, hepatitis, and eosinophilia in a sheep farmer who eats wild watercress is acute fascioliasis from *Fasciola hepatica*, the sheep liver fluke. It is larger than Clonorchis. In the acute phase flukes migrate through the liver; in the chronic phase they live in the bile ducts and cause biliary fibrosis and obstructive jaundice.\n\nFasciola is the only fluke that does not respond to praziquantel, so the treatment is triclabendazole. Diagnosis rests on serology, since eggs in stool are low yield.\n\nPraziquantel: incorrect. Praziquantel treats the other flukes but not Fasciola.\n\nAlbendazole: incorrect. Albendazole treats nematodes, Echinococcus, and neurocysticercosis.\n\nIvermectin: incorrect. Ivermectin treats Strongyloides and Onchocerca.\n\nMetronidazole plus paromomycin: incorrect. Metronidazole plus paromomycin treats amebiasis, a protozoan infection.\n\nTriclabendazole: correct. Triclabendazole is the drug of choice for Fasciola hepatica."
+  },
+  {
+   "id": "miid2-w07-lec35-q11",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 35 slides",
+   "stem": "A 47-year-old man who emigrated from Southeast Asia 1 year ago comes to the clinic with 5 months of chronic cough, intermittent hemoptysis, and pleuritic chest pain. Chest imaging shows patchy infiltrates with small cavities. Three sputum smears for acid-fast bacilli and a mycobacterial culture are negative. Peripheral eosinophils are 14% (normal 1 to 4). Bronchoalveolar lavage shows operculated eggs.\n\nWhich of the following is the most appropriate treatment?",
+   "choices": [
+    "Isoniazid, rifampin, pyrazinamide, ethambutol",
+    "Praziquantel",
+    "Albendazole",
+    "Metronidazole",
+    "Ivermectin"
+   ],
+   "answer": 1,
+   "evidence": [],
+   "note": "***Paragonimus* mimics tuberculosis (cough, hemoptysis, cavities) but shows eggs in sputum and eosinophilia; treat with praziquantel or triclabendazole.**\n\nChronic cough with hemoptysis and cavities can look like tuberculosis, but negative acid-fast studies, eosinophilia, and eggs in bronchoalveolar lavage point to the lung fluke *Paragonimus westermani*, found in Southeast Asia and Japan. Larvae penetrate the diaphragm and migrate in the pleural cavity, causing chest pain and cough, and the late phase brings inflammation, fibrosis, and hemoptysis.\n\nDiagnosis is eggs in sputum or lavage (or stool), and treatment is praziquantel or triclabendazole.\n\nIsoniazid, rifampin, pyrazinamide, ethambutol: incorrect. Four-drug therapy treats tuberculosis, which the negative mycobacterial studies and eggs argue against.\n\nPraziquantel: correct. Paragonimus is treated with praziquantel (or triclabendazole).\n\nAlbendazole: incorrect. Albendazole treats nematodes, not this fluke.\n\nMetronidazole: incorrect. Metronidazole treats protozoa.\n\nIvermectin: incorrect. Ivermectin treats Strongyloides and Onchocerca."
+  },
+  {
+   "id": "miid2-w07-lec35-q12",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 35 slides",
+   "stem": "A 24-year-old woman returns from 3 months of volunteer work in rural South Asia with 5 days of cramping abdominal pain and frequent small-volume stools streaked with blood. Colonoscopy shows scattered ulcers with raised edges. Biopsy shows ulcers that are narrow at the mucosal surface and widen in the submucosa, containing motile organisms with a single nucleus, a central karyosome, and ingested red blood cells. Her roommate, who shared her meals and drinking water, is entirely asymptomatic.\n\nWhich of the following best describes how this organism was transmitted to the patient?",
+   "choices": [
+    "Skin penetration by larvae from soil",
+    "Bite of an infected sand fly",
+    "Inhalation of spores in household dust",
+    "Ingestion of cysts in fecally contaminated water",
+    "Eating trophozoites in undercooked pork or beef products"
+   ],
+   "answer": 3,
+   "evidence": [],
+   "note": "**The cyst is the infectious form of *E. histolytica* (fecal-oral), while the trophozoite invades tissue and causes flask-shaped ulcers.**\n\nFlask-shaped colonic ulcers with trophozoites that have ingested red blood cells identify *Entamoeba histolytica* amebic colitis. The trophozoite is the invasive, tissue-lysing form, but it does not survive outside the host and is not what spreads the infection.\n\nTransmission is by ingesting the hardy multinucleate cyst in fecally contaminated food or water (or by oral-anal contact). Humans are the only host. Most infected people (about 90%) are asymptomatic and may shed cysts, which fits the healthy roommate who had the same exposure.\n\nSkin penetration by larvae from soil: incorrect. Skin penetration by soil larvae is how hookworm and Strongyloides enter.\n\nBite of an infected sand fly: incorrect. Sand flies transmit Leishmania.\n\nInhalation of spores in household dust: incorrect. Spores in dust or water fit microsporidia, not amebae.\n\nIngestion of cysts in fecally contaminated water: correct. *E. histolytica* is acquired by swallowing cysts in fecally contaminated food or water.\n\nEating trophozoites in undercooked pork or beef products: incorrect. Trophozoites are not the infectious form, and undercooked pork transmits Taenia larvae."
+  },
+  {
+   "id": "miid2-w07-lec35-q13",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 35 slides",
+   "stem": "A 38-year-old man taking an anti-tumor necrosis factor biologic comes to the clinic with 6 days of explosive watery diarrhea, fatigue, and a 2-kg weight loss, preceded by a day of low-grade fever. Two coworkers who ate with him at a restaurant 9 days ago have the same symptoms; all three ate a salad of fresh imported berries and herbs. Bacterial cultures are negative. An acid-fast stain of stool shows round oocysts measuring 8 to 10 micrometers.\n\nWhich of the following is the treatment of choice?",
+   "choices": [
+    "Nitazoxanide",
+    "Metronidazole followed by paromomycin",
+    "Albendazole",
+    "Trimethoprim-sulfamethoxazole",
+    "Tinidazole"
+   ],
+   "answer": 3,
+   "evidence": [],
+   "note": "**Cyclospora (8 to 10 micrometer acid-fast oocysts) comes from imported fresh produce and is treated with trimethoprim-sulfamethoxazole.**\n\nA cluster of explosive watery diarrhea after eating imported fresh produce (berries, basil, lettuce), with acid-fast oocysts of 8 to 10 micrometers, identifies *Cyclospora*. Size separates the acid-fast coccidia: microsporidia 1 to 2, Cryptosporidium 4 to 7, Cyclospora 8 to 10, and Cystoisospora the largest at 20 to 30 micrometers.\n\nOocysts on vegetation invade small intestinal epithelium, and the diarrhea can persist for up to 3 months without treatment. The treatment of choice is trimethoprim-sulfamethoxazole.\n\n**Acid-fast organism | Size | Clue | Treatment**\n\n- Microsporidia: 1 to 2 micrometers; AIDS, chronic diarrhea; Albendazole\n- Cryptosporidium: 4 to 7; Pools, chlorine resistant; Nitazoxanide if immunocompromised\n- Cyclospora: 8 to 10; Imported produce; Trimethoprim-sulfamethoxazole\n- Cystoisospora: 20 to 30; Possible eosinophilia; Trimethoprim-sulfamethoxazole\n\nNitazoxanide: incorrect. Nitazoxanide is used for Cryptosporidium (and second line for Giardia).\n\nMetronidazole followed by paromomycin: incorrect. Metronidazole followed by paromomycin treats amebiasis, not Cyclospora.\n\nAlbendazole: incorrect. Albendazole treats microsporidia.\n\nTrimethoprim-sulfamethoxazole: correct. Trimethoprim-sulfamethoxazole treats Cyclospora (and Cystoisospora).\n\nTinidazole: incorrect. Tinidazole is a Giardia treatment."
+  },
+  {
+   "id": "miid2-w07-lec35-q14",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 35 slides",
+   "stem": "A 26-year-old man who moved from Bangladesh 4 months ago comes to the clinic with 2 months of intermittent fever, night sweats, and a 7-kg weight loss. His skin has darkened. The liver is palpable 3 cm and the spleen 10 cm below the costal margins. Laboratory studies show:\n\nHemoglobin: 8.1 g/dL (13.5 to 17.5)\nLeukocyte count: 2,100/microL (4,500 to 11,000)\nPlatelet count: 62,000/microL (150,000 to 400,000)\nTotal serum protein: 9.4 g/dL (6.0 to 8.3)\nAlbumin: 2.8 g/dL (3.5 to 5.5)\n\nA bone marrow aspirate would most likely show which of the following?",
+   "choices": [
+    "Trophozoites containing ingested red blood cells",
+    "Amastigotes with a kinetoplast inside macrophages",
+    "Acid-fast oocysts within marrow stromal cells",
+    "Microfilariae circulating in the marrow sinusoids",
+    "Caseating granulomas with acid-fast bacilli"
+   ],
+   "answer": 1,
+   "evidence": [],
+   "note": "**Visceral leishmaniasis (fever, weight loss, hepatosplenomegaly, pancytopenia, hypergammaglobulinemia) is diagnosed by amastigotes in macrophages on splenic or bone marrow aspirate, or by serology.**\n\nFever, weight loss, hepatosplenomegaly, pancytopenia, and a high globulin fraction (total protein high with low albumin, meaning hypergammaglobulinemia) form the pentad of visceral leishmaniasis, kala-azar (\"black fever\"), and most cases come from India, Bangladesh, Nepal, Sudan, and Brazil.\n\nThe parasite lives in macrophages of the liver, spleen, and bone marrow, so splenic aspirate or bone marrow biopsy shows amastigotes with a nucleus and a rod-shaped kinetoplast inside macrophages. Serology is also used. First-line treatment is pentavalent antimony, with liposomal amphotericin B second.\n\nTrophozoites containing ingested red blood cells: incorrect. Trophozoites with ingested red cells describe *Entamoeba histolytica* in colonic tissue.\n\nAmastigotes with a kinetoplast inside macrophages: correct. Visceral leishmaniasis shows amastigotes (nucleus plus kinetoplast) in marrow and splenic macrophages.\n\nAcid-fast oocysts within marrow stromal cells: incorrect. Acid-fast oocysts are intestinal coccidia found in stool.\n\nMicrofilariae circulating in the marrow sinusoids: incorrect. Microfilariae are filarial nematodes found in blood or skin, not this pentad.\n\nCaseating granulomas with acid-fast bacilli: incorrect. Caseating granulomas with acid-fast bacilli would mean tuberculosis."
+  },
+  {
+   "id": "miid2-w07-lec35-q15",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 35 slides",
+   "stem": "A 30-year-old woman who wears soft contact lenses comes to the clinic with 10 days of severe left eye pain, photophobia, tearing, and a foreign-body sensation. She rinses her lenses in tap water and wore them while swimming in a hotel pool 3 weeks ago. Slit-lamp examination shows a ring-shaped corneal infiltrate. PCR of corneal scrapings identifies a free-living ameba that can encyst in heavily chlorinated or hot water.\n\nIn a patient with advanced AIDS, this same organism is most likely to cause which of the following?",
+   "choices": [
+    "Fulminant meningoencephalitis after warm lake diving",
+    "Hepatosplenomegaly, pancytopenia and high globulin",
+    "Flask-shaped colonic ulcers with bloody diarrhea",
+    "Chronic watery diarrhea from small bowel invasion",
+    "Granulomatous amebic encephalitis with high mortality"
+   ],
+   "answer": 4,
+   "evidence": [],
+   "note": "**Acanthamoeba causes keratitis in immunocompetent contact lens wearers and granulomatous amebic encephalitis in immunocompromised patients.**\n\nKeratitis in a contact lens wearer who rinses lenses in tap water or swims with them in, confirmed by PCR of corneal scrapings, is *Acanthamoeba* keratitis. Acanthamoeba is ubiquitous in water, encysts under harsh conditions (heavy chlorine, high temperature), and enters through the eye, nasal passages, or broken skin.\n\nThe disease depends on the host. Immunocompetent contact lens wearers get keratitis, while immunocompromised patients get granulomatous amebic encephalitis, which has a high mortality, and can also get disseminated skin and lung disease.\n\nFulminant meningoencephalitis after warm lake diving: incorrect. Fulminant meningoencephalitis after warm freshwater exposure is *Naegleria fowleri*.\n\nHepatosplenomegaly, pancytopenia and high globulin: incorrect. That pentad describes visceral leishmaniasis.\n\nFlask-shaped colonic ulcers with bloody diarrhea: incorrect. Flask-shaped colonic ulcers describe *Entamoeba histolytica*.\n\nChronic watery diarrhea from small bowel invasion: incorrect. Chronic watery diarrhea in AIDS fits Cryptosporidium or microsporidia.\n\nGranulomatous amebic encephalitis with high mortality: correct. In immunocompromised hosts Acanthamoeba causes granulomatous amebic encephalitis."
+  },
+  {
+   "id": "miid2-w07-lec35-q16",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 35 slides",
+   "stem": "A 34-year-old man who grew up near a freshwater lake in East Africa, where he fished and swam daily as a child, comes to the clinic with several months of dysuria and intermittent painless hematuria. Urinalysis shows many red blood cells. Cystoscopy shows sandy patches and nodules in the bladder wall, and biopsy shows eggs surrounded by an eosinophilic granulomatous reaction.\n\nIf this infection continues untreated for decades, he is at greatest risk for which of the following?",
+   "choices": [
+    "Cholangiocarcinoma",
+    "Renal transitional cell carcinoma",
+    "Squamous cell carcinoma of the bladder",
+    "Lymphedema of the lower extremities",
+    "Megaloblastic anemia"
+   ],
+   "answer": 2,
+   "evidence": [],
+   "note": "**Chronic urinary schistosomiasis, driven by granulomatous inflammation around eggs, predisposes to squamous cell carcinoma of the bladder.**\n\nHematuria and dysuria in someone with childhood freshwater exposure in Africa, with eggs in the bladder wall surrounded by eosinophilic granulomas, is urinary schistosomiasis (bilharzia). Cercariae released from snails penetrate the skin in fresh water, adults live in veins, and the disease comes from the host's granulomatous response to deposited eggs rather than from the worms themselves.\n\nYears of egg-driven inflammation and squamous metaplasia in the bladder lead to squamous cell carcinoma, the buzzword sequela on the slides. Treatment is praziquantel.\n\nCholangiocarcinoma: incorrect. Cholangiocarcinoma follows chronic Clonorchis and Opisthorchis infection of the bile ducts.\n\nRenal transitional cell carcinoma: incorrect. Chronic schistosomal bladder inflammation favors squamous, not transitional, cell carcinoma, and the bladder rather than the kidney.\n\nSquamous cell carcinoma of the bladder: correct. Chronic urinary schistosomiasis predisposes to squamous cell carcinoma of the bladder.\n\nLymphedema of the lower extremities: incorrect. Leg lymphedema is the sequela of lymphatic filariasis (Wuchereria, Brugia).\n\nMegaloblastic anemia: incorrect. Megaloblastic anemia is caused by the fish tapeworm."
+  },
+  {
+   "id": "miid2-w07-lec35-q17",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 35 slides",
+   "stem": "A 58-year-old man who grew up in southern China comes to the clinic with 2 months of painless jaundice, pruritus, and weight loss. Since childhood he has regularly eaten raw, lightly pickled freshwater fish. Imaging shows dilated intrahepatic bile ducts and a mass at the hepatic duct bifurcation. Stool microscopy shows small operculated eggs, and a peripheral eosinophilia is present.\n\nWhich of the following best explains the development of the mass?",
+   "choices": [
+    "Adult flukes in the bile ducts cause chronic inflammation",
+    "Larvae migrate from lungs into the liver and encyst",
+    "Eggs embolize to portal venules and cause cirrhosis",
+    "A hydatid cyst grows slowly within the right lobe",
+    "Trophozoites invade from the colon by way of the portal vein"
+   ],
+   "answer": 0,
+   "evidence": [],
+   "note": "**Clonorchis and Opisthorchis come from raw freshwater fish, live in the bile ducts, and predispose to cholangiocarcinoma; treat with praziquantel.**\n\nLong-term consumption of raw freshwater fish in East Asia with eggs in the stool and eosinophilia identifies the Chinese liver fluke, *Clonorchis sinensis* (or the related Opisthorchis). Metacercariae in the fish travel from the small intestine up into the bile ducts and mature; adults can live up to 50 years.\n\nThe adults cause chronic inflammation and fibrosis of the bile ducts, with biliary obstruction and stones, and over decades this leads to cholangiocarcinoma. Diagnosis is eggs in stool, and treatment is praziquantel.\n\nAdult flukes in the bile ducts cause chronic inflammation: correct. Adult flukes in the bile ducts cause chronic inflammation, fibrosis, and cholangiocarcinoma.\n\nLarvae migrate from lungs into the liver and encyst: incorrect. Larval migration from lung to liver is not the Clonorchis life cycle.\n\nEggs embolize to portal venules and cause cirrhosis: incorrect. Egg embolism to portal venules with portal hypertension describes hepatic schistosomiasis.\n\nA hydatid cyst grows slowly within the right lobe: incorrect. A hydatid cyst is Echinococcus and is not linked to fish or cholangiocarcinoma.\n\nTrophozoites invade from the colon by way of the portal vein: incorrect. Trophozoites reaching the liver from the colon cause an amebic abscess, not a duct cancer."
+  },
+  {
+   "id": "miid2-w07-lec35-q18",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 35 slides",
+   "stem": "A 50-year-old man from rural Bolivia comes to the clinic with 1 year of nasal stuffiness, nosebleeds, and progressive difficulty swallowing. Examination shows destruction of the nasal septum with a collapsed nasal bridge and ulceration of the soft palate. On his shin is an old, flat, atrophic scar; he says that site was a painless, slowly enlarging ulcer with a raised border after insect bites in the jungle 15 years ago, which eventually healed on its own.\n\nWhich vector transmitted the organism responsible?",
+   "choices": [
+    "Sand fly",
+    "Mosquito",
+    "Black fly",
+    "Chrysops (deer) fly",
+    "Freshwater snail"
+   ],
+   "answer": 0,
+   "evidence": [],
+   "note": "**Mucocutaneous leishmaniasis (Central and South American species) appears years after a skin ulcer and destroys the nose and palate; all Leishmania are spread by sand flies.**\n\nA healed painless ulcer with a raised border after jungle insect bites, followed years to decades later by destructive lesions of the nose, palate, and throat, is mucocutaneous leishmaniasis. It is caused by species in Central and South America and produces nasal septum deformity and dysphagia.\n\nAll forms of Leishmania (cutaneous, mucocutaneous, visceral) are transmitted by the bite of the sand fly, which injects promastigotes that become amastigotes inside macrophages.\n\nSand fly: correct. Leishmania is transmitted by sand flies.\n\nMosquito: incorrect. Mosquitoes transmit Wuchereria and Brugia, not Leishmania.\n\nBlack fly: incorrect. Black flies transmit *Onchocerca volvulus*.\n\nChrysops (deer) fly: incorrect. Chrysops flies transmit *Loa loa*.\n\nFreshwater snail: incorrect. Snails are intermediate hosts for flukes, not a source of Leishmania."
+  }
+ ]
+}

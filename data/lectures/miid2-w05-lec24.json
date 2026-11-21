@@ -1,0 +1,297 @@
+{
+ "lecture_id": "miid2-w05-lec24",
+ "block": "MIID II",
+ "week": 5,
+ "lecture": "24 Introduction to Fungal Pathogens",
+ "contributor": "caleb",
+ "questions": [
+  {
+   "id": "miid2-w05-lec24-q01",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 24 slides",
+   "stem": "A laboratory studies a new antifungal in culture. Fungal cells exposed to the drug swell and lyse at the growing tips, and biochemical assay shows that incorporation of glucose polymers into the outer layer of the cell has stopped. Human cells in the same assay are unaffected, and the authors note that the targeted polymer has no counterpart in human cells.\n\nThis drug most likely belongs to which class?",
+   "choices": [
+    "Polyenes",
+    "Azoles",
+    "Echinocandins",
+    "Allylamines",
+    "Pyrimidine analogs"
+   ],
+   "answer": 2,
+   "evidence": [],
+   "note": "**Echinocandins inhibit 1,3-beta-D-glucan synthase, blocking synthesis of a fungal cell wall component that humans do not make.**\n\nThe description is of the fungal cell wall rather than the membrane. Echinocandins (caspofungin, micafungin, anidulafungin) inhibit 1,3-beta-D-glucan synthase, so beta-D-glucan cannot be built into the wall and the cell fails at the growing points.\n\nBeta-D-glucan is an essential wall component with no human equivalent, which is why this class is well tolerated. The other classes act on the membrane sterol pathway or on nucleic acid synthesis.\n\n**Class | Target | Example**\n\n- Polyenes: Membrane permeability; Amphotericin B\n- Azoles: Lanosterol C14-alpha-demethylation; Fluconazole\n- Echinocandins: 1,3-beta-D-glucan synthase; Caspofungin\n- Allylamines: Squalene epoxidase; Terbinafine\n- Pyrimidine analogs: DNA and RNA synthesis; Flucytosine\n\nPolyenes: incorrect. Polyenes such as amphotericin B insert into the membrane and increase its permeability.\n\nAzoles: incorrect. Azoles block C14-alpha-demethylation of lanosterol and stop ergosterol synthesis.\n\nEchinocandins: correct. Echinocandins inhibit 1,3-beta-D-glucan synthase, blocking cell wall glucan synthesis.\n\nAllylamines: incorrect. Allylamines such as terbinafine inhibit squalene epoxidase earlier in the sterol pathway.\n\nPyrimidine analogs: incorrect. Flucytosine is converted to 5-fluorouracil and interferes with DNA and RNA synthesis."
+  },
+  {
+   "id": "miid2-w05-lec24-q02",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 24 slides",
+   "stem": "A 16-year-old wrestler has an itchy, scaling, ring-shaped patch on his groin and thickened, crumbling toenails. His younger brother has patchy hair loss with broken hairs on the scalp. Scrapings from each lesion show branching septate hyphae. Neither boy is immunocompromised, and both report sharing towels at home.\n\nWhich property of these fungi best explains the distribution of the lesions?",
+   "choices": [
+    "Angioinvasion with distal tissue infarction",
+    "A polysaccharide capsule that resists phagocytosis",
+    "Formation of spherules filled with endospores",
+    "Secretion of keratinase, which degrades keratin",
+    "Conversion to a yeast form at body temperature in tissue"
+   ],
+   "answer": 3,
+   "evidence": [],
+   "note": "**Dermatophytes secrete keratinase and therefore cause cutaneous mycoses of the epidermis, hair, and nails, spread by direct contact.**\n\nTinea cruris, tinea unguium and tinea capitis in healthy, close-contact family members are cutaneous mycoses caused by dermatophytes, which are contagious by direct contact with infected hairs and skin cells.\n\nDermatophytes secrete keratinase, which degrades the keratin of the epidermis, hair, and nails. That is why these infections stay in keratinized tissue rather than invading deeper or disseminating.\n\nAngioinvasion with distal tissue infarction: incorrect. Angioinvasion is a feature of Aspergillus in immunocompromised hosts.\n\nA polysaccharide capsule that resists phagocytosis: incorrect. A capsule is the virulence factor of Cryptococcus.\n\nFormation of spherules filled with endospores: incorrect. Spherules are the tissue form of Coccidioides.\n\nSecretion of keratinase, which degrades keratin: correct. Keratinase lets dermatophytes use keratin, confining them to skin, hair, and nails.\n\nConversion to a yeast form at body temperature in tissue: incorrect. Thermal dimorphism belongs to Histoplasma, Blastomyces, Coccidioides, and Sporothrix."
+  },
+  {
+   "id": "miid2-w05-lec24-q03",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 24 slides",
+   "stem": "A 67-year-old woman with diabetes mellitus has been in the hospital for 3 weeks after abdominal surgery. She has received broad-spectrum antibiotics for a postoperative infection and parenteral nutrition through a central venous catheter because of poor oral intake. She now has a temperature of 38.8 C (101.8 F), a pulse of 118/min, blood pressure of 86/50 mm Hg, and confusion. Blood cultures are growing budding yeast.\n\nWhich element of this patient's course contributed most directly to the bloodstream invasion by this organism?",
+   "choices": [
+    "Her history of diabetes mellitus alone",
+    "The indwelling central venous catheter",
+    "The three-week length of her hospital stay",
+    "Her age over 65 years",
+    "The abdominal location of her surgery"
+   ],
+   "answer": 1,
+   "evidence": [],
+   "note": "**Candidemia occurs most often in patients with an intravascular catheter, which provides direct access to the bloodstream.**\n\nBudding yeast in blood in a hospitalized surgical patient is candidemia, the most common form of invasive candidiasis. The risk factors taught here include diabetes, prolonged intensive care stay, broad-spectrum antibiotics, major abdominal surgery, parenteral nutrition, and central venous catheters.\n\nCandidemia occurs most frequently in the presence of an intravascular catheter, which gives the organism a direct route into the bloodstream and a surface to grow on. Catheter removal along with antifungal therapy shortens infection in non-neutropenic patients.\n\nHer history of diabetes mellitus alone: incorrect. Diabetes raises risk but does not by itself provide access to the bloodstream.\n\nThe indwelling central venous catheter: correct. An intravascular catheter is the single most frequent setting for candidemia and provides direct vascular access.\n\nThe three-week length of her hospital stay: incorrect. A long hospital stay increases exposure but is not the direct portal of entry.\n\nHer age over 65 years: incorrect. Age is a background factor rather than the route of invasion.\n\nThe abdominal location of her surgery: incorrect. Abdominal surgery is a recognized risk factor but is less directly responsible here than the indwelling line."
+  },
+  {
+   "id": "miid2-w05-lec24-q04",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 24 slides",
+   "stem": "A 58-year-old man treated years ago for a cavitary lung infection has intermittent cough, hemoptysis, fatigue, and mild weight loss. Chest imaging shows a rounded mass sitting inside a pre-existing upper lobe cavity, with air around it. Sputum culture grows a mold with septate hyphae. He has a normal white blood cell count and no immunosuppression, and his radiographs have looked the same for a year.\n\nWhich description best fits this condition?",
+   "choices": [
+    "Colonization of an existing cavity by a mold, forming a fungus ball",
+    "Hypersensitivity to airway colonization, with eosinophilia and high serum immunoglobulin E",
+    "Angioinvasive growth with infarction in a neutropenic host",
+    "Hematogenous seeding of the lung from an intravascular catheter",
+    "Granulomatous reaction to inhaled yeast residing in macrophages"
+   ],
+   "answer": 0,
+   "evidence": [],
+   "note": "**An aspergilloma is a fungus ball colonizing a pre-existing pulmonary cavity in a non-immunosuppressed patient, with resection reserved for hemoptysis.**\n\nA rounded mass within a pre-existing pulmonary cavity, in a patient who is not immunosuppressed and whose radiographs are stable, is an aspergilloma, or fungus ball. It arises from colonization of an old cavity or area of devitalized lung rather than from tissue invasion.\n\nSymptoms include cough, hemoptysis, dyspnea, weight loss, fever and chest pain. Asymptomatic patients with stable radiographs need no therapy; surgical resection is the definitive treatment for hemoptysis.\n\nColonization of an existing cavity by a mold, forming a fungus ball: correct. An aspergilloma is colonization of an existing cavity or cyst, seen as a mass inside it.\n\nHypersensitivity to airway colonization, with eosinophilia and high serum immunoglobulin E: incorrect. Allergic bronchopulmonary aspergillosis occurs in asthma or cystic fibrosis with fleeting infiltrates and eosinophilia.\n\nAngioinvasive growth with infarction in a neutropenic host: incorrect. Angioinvasive disease occurs in profound neutropenia and progresses rapidly, unlike this stable picture.\n\nHematogenous seeding of the lung from an intravascular catheter: incorrect. Hematogenous seeding from a catheter describes candidemia with organ involvement.\n\nGranulomatous reaction to inhaled yeast residing in macrophages: incorrect. Yeast within macrophages describes histoplasmosis, not a fungus ball."
+  },
+  {
+   "id": "miid2-w05-lec24-q05",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 24 slides",
+   "stem": "Two patients have pulmonary infection with an encapsulated budding yeast. The first is an immunocompetent man who was part of an outbreak on Vancouver Island, where the organism was recovered from eucalyptus trees. The second is a worker who was demolishing an old building where pigeons had roosted for years.\n\nWhich statement about these two organisms is correct?",
+   "choices": [
+    "Both species are routinely cultured from bird droppings",
+    "The Vancouver Island species has a limited geographic distribution",
+    "The pigeon species is found only in the Pacific Northwest",
+    "Neither species disseminates beyond the lungs",
+    "Both species lack a capsule and show broad-based budding"
+   ],
+   "answer": 1,
+   "evidence": [],
+   "note": "**Cryptococcus neoformans is worldwide and linked to pigeon excreta, while C. gattii has limited geography, is linked to eucalyptus trees, and has never been cultured from bird guano.**\n\nCryptococcus neoformans is the predominant human pathogen and is most commonly linked to pigeon excreta, including exposures during demolition of buildings where pigeons roosted. Cryptococcus gattii has never been cultured from bird guano.\n\nC. gattii is associated with eucalyptus trees and limited geography, including the outbreak on Vancouver Island and the Pacific Northwest. Both species begin as a pulmonary infection and can disseminate, most often to the central nervous system.\n\nBoth species are routinely cultured from bird droppings: incorrect. C. gattii has never been cultured from bird guano.\n\nThe Vancouver Island species has a limited geographic distribution: correct. C. gattii occupies a limited geographic range, including Vancouver Island and the Pacific Northwest.\n\nThe pigeon species is found only in the Pacific Northwest: incorrect. C. neoformans occurs worldwide; it is C. gattii whose distribution is limited.\n\nNeither species disseminates beyond the lungs: incorrect. Both species can disseminate from the lungs, typically to the central nervous system.\n\nBoth species lack a capsule and show broad-based budding: incorrect. Both are encapsulated yeasts; broad-based budding describes Blastomyces."
+  },
+  {
+   "id": "miid2-w05-lec24-q06",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 24 slides",
+   "stem": "Five patients living in the same southwestern desert county are diagnosed with primary pulmonary coccidioidomycosis in the same month. The clinic is deciding which patients need closer follow-up for spread beyond the lungs. The patients are a 28-year-old in the third trimester of pregnancy, a 30-year-old marathon runner, a 24-year-old graduate student, a 35-year-old smoker with no other illness, and a 40-year-old with seasonal allergies.\n\nWhich patient is at greatest risk for disseminated disease?",
+   "choices": [
+    "The graduate student",
+    "The smoker without other illness",
+    "The patient with seasonal allergies",
+    "The patient in her third trimester of pregnancy",
+    "The marathon runner"
+   ],
+   "answer": 3,
+   "evidence": [],
+   "note": "**Dissemination of coccidioidomycosis is more likely with immunosuppression, diabetes, third-trimester pregnancy, and male sex.**\n\nMost Coccidioides infections are asymptomatic or mild, and only a small minority become complicated. The risk factors taught for dissemination are immunosuppression, organ transplantation, lymphoma, human immunodeficiency virus infection, steroid therapy, diabetes, third-trimester pregnancy, and male sex.\n\nOf these patients, only the woman in her third trimester carries one of those risks, so she needs closer follow-up for spread to skin, bone, joints, or meninges.\n\nThe graduate student: incorrect. Being a student carries no specific risk.\n\nThe smoker without other illness: incorrect. Smoking alone is not among the listed risk factors for dissemination.\n\nThe patient with seasonal allergies: incorrect. Seasonal allergies do not impair the responses that contain this organism.\n\nThe patient in her third trimester of pregnancy: correct. Third-trimester pregnancy is a recognized risk factor for dissemination.\n\nThe marathon runner: incorrect. Athletic training is not a risk factor."
+  },
+  {
+   "id": "miid2-w05-lec24-q07",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 24 slides",
+   "stem": "A 44-year-old gardener has a small papule on the back of his hand that appeared about 2 weeks after he was scratched while handling moss and plant stakes. The papule has ulcerated, and several similar nodules have since appeared in a line running up his forearm. He has no fever and feels well. Culture of a biopsy grows a fungus that is a mold at room temperature and a yeast at body temperature.\n\nWhich treatment is preferred for this infection?",
+   "choices": [
+    "Caspofungin",
+    "No therapy, since these lesions always resolve",
+    "Itraconazole",
+    "Topical terbinafine",
+    "Intravenous amphotericin B with flucytosine"
+   ],
+   "answer": 2,
+   "evidence": [],
+   "note": "**Sporothrix schenckii is inoculated through skin and produces lymphocutaneous lesions treated with itraconazole.**\n\nA papule at a site of plant inoculation that ulcerates and is followed by nodules tracking along lymphatic channels is sporotrichosis. Sporothrix schenckii is a dimorphic fungus found in soil, moss and vegetation, and infection is almost always acquired by inoculation into skin or subcutaneous tissue.\n\nItraconazole is the treatment of choice for cutaneous and osteoarticular sporotrichosis. Diagnosis is established by culture.\n\nCaspofungin: incorrect. Caspofungin is used for candidemia, not sporotrichosis.\n\nNo therapy, since these lesions always resolve: incorrect. These lesions progress along lymphatics and require treatment.\n\nItraconazole: correct. Itraconazole is the treatment of choice for cutaneous sporotrichosis.\n\nTopical terbinafine: incorrect. Topical therapy treats dermatophytes in keratinized tissue, not a subcutaneous infection.\n\nIntravenous amphotericin B with flucytosine: incorrect. Amphotericin B with flucytosine is the induction regimen for cryptococcal meningitis."
+  },
+  {
+   "id": "miid2-w05-lec24-q08",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 24 slides",
+   "stem": "Four clinical isolates are examined. Isolate W is unicellular, spherical, and reproduces by budding. Isolate X is multicellular, grows by longitudinal extension of hyphae, and produces spores. Isolate Y grows as a mold on a plate at room temperature but as a yeast in tissue at body temperature. Isolate Z was recovered from skin scrapings and digests keratin.\n\nWhich assignment is correct?",
+   "choices": [
+    "Y is best classified by site of infection rather than morphology",
+    "Z is a systemic mycosis acquired by spore inhalation",
+    "W is Aspergillus and X is Candida",
+    "Y could be Histoplasma or Blastomyces",
+    "X is Cryptococcus and W is Mucor"
+   ],
+   "answer": 3,
+   "evidence": [],
+   "note": "**Fungi are classified by morphology (yeast, mold, dimorphic), by site or depth of infection, and by epidemiology.**\n\nThe lecture classifies fungi three ways: by morphology (yeast, mold, dimorphic), by site or depth of infection (cutaneous, mucosal, subcutaneous, systemic), and by epidemiology (opportunistic, healthcare associated, endemic).\n\nBy morphology, yeasts are unicellular budding cells such as Candida and Cryptococcus; molds are multicellular hyphae such as Aspergillus and the agents of mucormycosis; and dimorphic fungi switch between yeast and mold with temperature or environment, which includes Histoplasma, Blastomyces, Coccidioides and Sporothrix.\n\nY is best classified by site of infection rather than morphology: incorrect. Thermal dimorphism is a morphologic feature; site of infection is a separate axis of classification.\n\nZ is a systemic mycosis acquired by spore inhalation: incorrect. Keratin digestion from skin scrapings indicates a cutaneous, not systemic, mycosis.\n\nW is Aspergillus and X is Candida: incorrect. Aspergillus is a mold and Candida is a yeast, so this reverses them.\n\nY could be Histoplasma or Blastomyces: correct. A fungus that is mold at room temperature and yeast in tissue is dimorphic, such as Histoplasma or Blastomyces.\n\nX is Cryptococcus and W is Mucor: incorrect. Cryptococcus is a yeast and the agents of mucormycosis are molds."
+  },
+  {
+   "id": "miid2-w05-lec24-q09",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 24 slides",
+   "stem": "A 46-year-old farm worker who usually goes barefoot has a chronically swollen, deformed foot with multiple draining sinus tracts that have developed slowly over several years. Imaging shows involvement of the underlying bone. He recalls a minor puncture injury before the swelling began. He has no fever and no systemic symptoms.\n\nWhich route of acquisition explains this infection?",
+   "choices": [
+    "Spread through the bloodstream from an intravascular catheter",
+    "Person-to-person contact with infected skin and hair",
+    "Reactivation of a latent intracellular infection",
+    "Inhalation of airborne conidia into the lungs",
+    "Inoculation of soil organisms through a minor wound"
+   ],
+   "answer": 4,
+   "evidence": [],
+   "note": "**Mycetoma is a subcutaneous mycosis of skin, soft tissue, and sometimes bone, caused by soil organisms inoculated through a minor wound.**\n\nA chronic infection of skin, subcutaneous tissue and sometimes bone in the foot, with draining sinus tracts developing over years, is mycetoma, the classic subcutaneous mycosis. It may be caused by several fungi or by actinomycetes.\n\nSubcutaneous mycoses are caused by soil and plant organisms whose hyphae or spores enter wounds. In mycetoma the organisms are inoculated into the skin by a minor injury, then spread slowly in local tissue.\n\nSpread through the bloodstream from an intravascular catheter: incorrect. Catheter-associated bloodstream spread describes candidemia.\n\nPerson-to-person contact with infected skin and hair: incorrect. Direct person-to-person spread describes dermatophyte infections.\n\nReactivation of a latent intracellular infection: incorrect. This is a primary inoculation infection rather than reactivation.\n\nInhalation of airborne conidia into the lungs: incorrect. Inhalation produces systemic mycoses such as histoplasmosis and coccidioidomycosis.\n\nInoculation of soil organisms through a minor wound: correct. Subcutaneous mycoses follow inoculation of soil or plant organisms through a minor wound."
+  },
+  {
+   "id": "miid2-w05-lec24-q10",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 24 slides",
+   "stem": "Two antifungal drugs are tested on the same fungus. With drug 1, squalene accumulates in the cell and no squalene epoxide is formed. With drug 2, lanosterol accumulates and the cell cannot complete the final sterol of its membrane. Both drugs ultimately reduce the same membrane component.\n\nWhich membrane component is depleted by both drugs?",
+   "choices": [
+    "Chitin",
+    "Beta-D-glucan",
+    "Cholesterol",
+    "Mannoprotein",
+    "Ergosterol"
+   ],
+   "answer": 4,
+   "evidence": [],
+   "note": "**Allylamines (squalene epoxidase) and azoles (lanosterol C14-alpha-demethylation) both deplete ergosterol, the fungal membrane sterol.**\n\nDrug 1 blocks squalene epoxidase, which is the allylamine mechanism (terbinafine). Drug 2 blocks C14-alpha-demethylation of lanosterol, which is the azole mechanism (fluconazole, itraconazole, posaconazole).\n\nBoth enzymes sit on the pathway that ends in ergosterol, the sterol of the fungal cell membrane. Amphotericin B attacks the same molecule from a different direction by inserting into the membrane and raising its permeability.\n\nChitin: incorrect. Chitin is a wall polymer, not a product of the sterol pathway.\n\nBeta-D-glucan: incorrect. Beta-D-glucan is the wall target of echinocandins.\n\nCholesterol: incorrect. Cholesterol is the sterol of human membranes, not the fungal end product here.\n\nMannoprotein: incorrect. Mannoproteins are surface wall proteins, unrelated to these enzymes.\n\nErgosterol: correct. Squalene epoxidase and lanosterol demethylase are both steps in ergosterol synthesis."
+  },
+  {
+   "id": "miid2-w05-lec24-q11",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 24 slides",
+   "stem": "A 57-year-old man with advanced untreated human immunodeficiency virus infection has 2 weeks of pain on swallowing and a sensation of food sticking, with weight loss from reduced intake. White patches are seen on the tongue and buccal mucosa. Upper endoscopy shows white plaques and shallow ulcerations, and biopsy shows budding yeast with pseudohyphae.\n\nWhich underlying change best explains why this organism became invasive in him?",
+   "choices": [
+    "Iron overload treated with deferoxamine",
+    "Loss of the skin barrier at an inoculation site",
+    "Impaired cell-mediated immunity",
+    "Deficiency of terminal complement components",
+    "Prolonged severe neutropenia from chemotherapy"
+   ],
+   "answer": 2,
+   "evidence": [],
+   "note": "**Mucosal candidiasis follows disturbed local ecology or impaired immunity, and in advanced human immunodeficiency virus infection it reflects impaired cell-mediated immunity.**\n\nBudding yeast with pseudohyphae causing thrush and esophagitis is Candida. Mucosal candidiasis follows either a disturbance of local ecology (antibiotics, steroids, dental devices) or impaired immunity (immunosuppressive therapy, diabetes, human immunodeficiency virus infection).\n\nIn this patient the relevant defect is impaired cell-mediated immunity from advanced untreated infection, which allows a commensal of the mucosal surfaces to invade the mucosa and produce thrush and esophagitis.\n\nIron overload treated with deferoxamine: incorrect. Deferoxamine therapy is a risk factor for mucormycosis.\n\nLoss of the skin barrier at an inoculation site: incorrect. Loss of the skin barrier is how subcutaneous mycoses such as mycetoma and sporotrichosis begin.\n\nImpaired cell-mediated immunity: correct. Advanced human immunodeficiency virus infection impairs cell-mediated immunity, permitting mucosal candidiasis.\n\nDeficiency of terminal complement components: incorrect. Terminal complement deficiency predisposes to Neisseria infections.\n\nProlonged severe neutropenia from chemotherapy: incorrect. Neutropenia is a risk for invasive mold disease and candidemia rather than isolated thrush in this setting."
+  },
+  {
+   "id": "miid2-w05-lec24-q12",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 24 slides",
+   "stem": "A 62-year-old woman with relapsed acute myeloid leukemia receiving chemotherapy has 2 days of cough, hemoptysis, fever, and worsening dyspnea. She is tachypneic, with decreased breath sounds and a pleural friction rub on the right. Chest computed tomography shows several nodules with surrounding ground-glass rings. Bronchoscopy shows necrotic tissue, and histology shows septate hyphae branching at acute angles.\n\nWhich property of this organism best explains the necrosis and the imaging findings?",
+   "choices": [
+    "Release of keratinase into surrounding tissue",
+    "Conversion to a thick-walled spherule filled with endospores",
+    "Invasion of blood vessels with distal infarction",
+    "Growth inside macrophages after phagocytosis",
+    "Formation of a thick polysaccharide capsule"
+   ],
+   "answer": 2,
+   "evidence": [],
+   "note": "**Aspergillus forms septate hyphae branching at acute angles and is angioinvasive, causing infarction, nodules, and the halo sign in neutropenic patients.**\n\nSeptate hyphae branching at roughly 45 degrees in a neutropenic patient with leukemia indicate Aspergillus. Prolonged, profound neutropenia is the classic setting for invasive disease.\n\nAspergillus is angioinvasive: it grows into blood vessels and causes distal infarction of lung tissue, which produces the nodules and the ring of hemorrhage around a necrotic center known as the halo sign, along with hemoptysis and necrotic tissue at bronchoscopy.\n\nRelease of keratinase into surrounding tissue: incorrect. Keratinase is secreted by dermatophytes in skin, hair, and nails.\n\nConversion to a thick-walled spherule filled with endospores: incorrect. Spherules filled with endospores are the tissue form of Coccidioides.\n\nInvasion of blood vessels with distal infarction: correct. Aspergillus invades blood vessels and infarcts the tissue beyond them.\n\nGrowth inside macrophages after phagocytosis: incorrect. Intracellular survival in macrophages is characteristic of Histoplasma.\n\nFormation of a thick polysaccharide capsule: incorrect. A polysaccharide capsule is the virulence factor of Cryptococcus."
+  },
+  {
+   "id": "miid2-w05-lec24-q13",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 24 slides",
+   "stem": "A 27-year-old woman with long-standing asthma has worsening wheeze and cough despite her usual inhalers. Chest imaging over several months shows infiltrates that appear in one area and then resolve and appear elsewhere. Laboratory studies show peripheral eosinophilia, a markedly elevated serum immunoglobulin E level, and serum precipitating antibodies to a mold; skin testing to the same mold antigen is reactive.\n\nWhich treatment approach fits this condition?",
+   "choices": [
+    "Surgical resection of the involved lobe",
+    "Steroids to control inflammation, with an antifungal agent",
+    "Observation alone, since the process always resolves",
+    "Combined antifungal therapy and aggressive surgical debridement",
+    "Topical terbinafine applied to the affected area"
+   ],
+   "answer": 1,
+   "evidence": [],
+   "note": "**Allergic bronchopulmonary aspergillosis presents with asthma, fleeting infiltrates, eosinophilia and high immunoglobulin E, and is treated with steroids plus an azole.**\n\nFleeting pulmonary infiltrates, eosinophilia, high immunoglobulin E, precipitating antibodies and cutaneous reactivity in a patient with chronic asthma are the cardinal features of allergic bronchopulmonary aspergillosis, a hypersensitivity reaction to colonization of the larger airways.\n\nBecause the damage is immunologic rather than invasive, acute or recurrent exacerbations are treated with steroids to control inflammation and limit lung damage, combined with itraconazole or voriconazole.\n\nSurgical resection of the involved lobe: incorrect. Resection is used for hemoptysis from an aspergilloma, not for a hypersensitivity process.\n\nSteroids to control inflammation, with an antifungal agent: correct. Exacerbations are treated with steroids plus itraconazole or voriconazole.\n\nObservation alone, since the process always resolves: incorrect. Untreated exacerbations can cause lasting lung damage, so observation is not appropriate.\n\nCombined antifungal therapy and aggressive surgical debridement: incorrect. Medical plus aggressive surgical debridement is the approach to mucormycosis.\n\nTopical terbinafine applied to the affected area: incorrect. Topical terbinafine treats cutaneous dermatophyte infection."
+  },
+  {
+   "id": "miid2-w05-lec24-q14",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 24 slides",
+   "stem": "A 51-year-old man with poorly controlled diabetes mellitus presents after 2 days of headache, facial pain, and nosebleeds. He now has proptosis of the right eye, periorbital swelling, and reduced vision. Examination of the palate shows a black area of dead tissue. Biopsy shows broad, irregular, ribbon-like hyphae without septa that branch at right angles. Blood cultures are negative.\n\nWhich management approach is most appropriate?",
+   "choices": [
+    "Observation with repeat imaging in 2 weeks",
+    "Removal of any intravascular catheters and oral fluconazole",
+    "Steroids to reduce the periorbital inflammation",
+    "Antifungal therapy alone, since the blood cultures are negative",
+    "Antifungal therapy combined with prompt surgical debridement"
+   ],
+   "answer": 4,
+   "evidence": [],
+   "note": "**Rhinocerebral mucormycosis, with aseptate ribbon-like right-angle hyphae in a patient with uncontrolled diabetes, requires antifungal therapy plus aggressive surgical debridement.**\n\nBroad, ribbon-like aseptate hyphae with right-angle branching in a patient with uncontrolled diabetes, with sinus disease spreading retro-orbitally and a black eschar on the palate, is rhinocerebral mucormycosis. Patients with diabetes or ketoacidosis, hematologic malignancy, transplantation, or deferoxamine therapy are uniquely susceptible.\n\nIt is rapidly progressive with high mortality, and effective therapy requires a combined medical and surgical approach: antifungal drugs plus timely, aggressive debridement, which often has to be repeated.\n\nObservation with repeat imaging in 2 weeks: incorrect. This infection can be fatal within days, so observation is unsafe.\n\nRemoval of any intravascular catheters and oral fluconazole: incorrect. Catheter removal and fluconazole address candidemia, not mucormycosis.\n\nSteroids to reduce the periorbital inflammation: incorrect. Steroids worsen the predisposing state and do not treat the infection.\n\nAntifungal therapy alone, since the blood cultures are negative: incorrect. Negative blood cultures are expected here and do not argue against surgery; drugs alone are insufficient.\n\nAntifungal therapy combined with prompt surgical debridement: correct. Mucormycosis requires antifungal therapy together with prompt and often repeated surgical debridement."
+  },
+  {
+   "id": "miid2-w05-lec24-q15",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 24 slides",
+   "stem": "A 45-year-old man with untreated human immunodeficiency virus infection has 1 week of headache, fever, photophobia, neck stiffness, and confusion. Lumbar puncture shows a high opening pressure and 4 leukocytes per microliter, all lymphocytes. A stain of the cerebrospinal fluid mixed with India ink shows round cells surrounded by a wide clear halo.\n\nThe clear halo seen around these cells corresponds to which structure, and what is its role?",
+   "choices": [
+    "A sterol-depleted membrane caused by prior drug therapy",
+    "A ring of endospores waiting to be released",
+    "A chitin-rich wall that resists enzymatic digestion",
+    "A polysaccharide capsule that impairs phagocytosis",
+    "A layer of host antibody bound to the surface"
+   ],
+   "answer": 3,
+   "evidence": [],
+   "note": "**Cryptococcus neoformans is identified by a capsule seen as a clear halo on India ink; that polysaccharide capsule is its virulence factor and impairs phagocytosis.**\n\nA subacute meningoencephalitis in a patient with advanced human immunodeficiency virus infection, with high opening pressure and minimal pleocytosis, is cryptococcal meningitis. India ink does not stain the thick capsule, so it appears as a clear halo around the yeast.\n\nThe polysaccharide capsule is the organism's virulence factor and impairs phagocytosis. Cryptococcus is inhaled first into the lungs, often from pigeon droppings, and disseminates to the central nervous system when cell-mediated immunity fails.\n\nA sterol-depleted membrane caused by prior drug therapy: incorrect. Drug effects on membrane sterols do not produce a halo.\n\nA ring of endospores waiting to be released: incorrect. Endospores inside a thick wall describe the Coccidioides spherule.\n\nA chitin-rich wall that resists enzymatic digestion: incorrect. Chitin is part of the fungal wall but is not what India ink excludes.\n\nA polysaccharide capsule that impairs phagocytosis: correct. The halo is the polysaccharide capsule, which impairs phagocytosis.\n\nA layer of host antibody bound to the surface: incorrect. Bound host antibody does not create a wide clear zone on India ink preparations."
+  },
+  {
+   "id": "miid2-w05-lec24-q16",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 24 slides",
+   "stem": "A 58-year-old missionary returns from Central America with fever, weight loss, and confusion. The liver and spleen are enlarged. Blood counts show pancytopenia. A bone marrow aspirate stained with Wright-Giemsa shows numerous small oval organisms packed inside macrophages, and a silver stain of the same aspirate confirms them. Chest imaging shows findings that the radiologist says could be mistaken for tuberculosis.\n\nWhich organism is most likely responsible?",
+   "choices": [
+    "Blastomyces dermatitidis",
+    "Coccidioides immitis",
+    "Candida glabrata",
+    "Sporothrix schenckii",
+    "Histoplasma capsulatum"
+   ],
+   "answer": 4,
+   "evidence": [],
+   "note": "**Histoplasma capsulatum is a dimorphic fungus whose small yeast forms multiply inside macrophages, producing a tuberculosis-like and sometimes disseminated illness.**\n\nSmall yeast forms living and multiplying inside macrophages, with fever, weight loss, hepatosplenomegaly and pancytopenia, are the picture of disseminated histoplasmosis. The organism is a dimorphic fungus acquired by inhaling airborne conidia, classically from soil enriched with bat or bird droppings.\n\nHistoplasmosis resembles tuberculosis clinically and radiographically and typically involves the lungs but may affect any organ, which is why the intracellular yeast forms on a marrow aspirate are the decisive finding.\n\nBlastomyces dermatitidis: incorrect. Blastomyces appears as large yeast with broad-based buds, not as small intracellular forms.\n\nCoccidioides immitis: incorrect. Coccidioides forms thick-walled spherules filled with endospores in tissue.\n\nCandida glabrata: incorrect. Candida appears as budding yeast with pseudohyphae, typically from mucosa or bloodstream.\n\nSporothrix schenckii: incorrect. Sporothrix is acquired by skin inoculation and causes lesions along lymphatics.\n\nHistoplasma capsulatum: correct. Histoplasma is the dimorphic fungus whose yeast multiplies inside macrophages and causes a tuberculosis-like illness."
+  },
+  {
+   "id": "miid2-w05-lec24-q17",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 24 slides",
+   "stem": "A 32-year-old woman who moved to Arizona 6 weeks ago for work has 2 weeks of fever, cough, fatigue, and aching in several joints. She spent long hours outdoors in dusty conditions. Temperature is 38.3 C (101 F), and scattered wheezes are heard. Tender nodules are present on the extensor surfaces of her arms and legs. Chest imaging shows an infiltrate on one side with a small effusion. Blood counts show leukocytosis with elevated eosinophils.\n\nIn tissue, the responsible organism appears in which form?",
+   "choices": [
+    "Small yeast within macrophages",
+    "Encapsulated yeast cells with narrow-based budding",
+    "Thick-walled spherules filled with endospores",
+    "Yeast with a single broad-based bud",
+    "Septate hyphae branching at acute angles"
+   ],
+   "answer": 2,
+   "evidence": [],
+   "note": "**Coccidioides is inhaled as arthrospores from southwestern desert soil and forms thick-walled spherules filled with endospores in tissue.**\n\nA newcomer to the southwestern deserts with pneumonia, arthralgias and tender nodules on the extensor surfaces has acute Valley fever, also called desert rheumatism, from Coccidioides. Infection follows inhalation of arthrospores from dry alkaline soil, especially when soil is disturbed.\n\nCoccidioides is dimorphic in a distinctive way: in soil it grows as filaments that reproduce by forming arthrospores, and in tissue it forms thick-walled spherules filled with endospores.\n\nSmall yeast within macrophages: incorrect. Small intracellular yeast in macrophages is Histoplasma.\n\nEncapsulated yeast cells with narrow-based budding: incorrect. Encapsulated yeast is Cryptococcus.\n\nThick-walled spherules filled with endospores: correct. Coccidioides forms thick-walled spherules packed with endospores in tissue.\n\nYeast with a single broad-based bud: incorrect. Broad-based budding yeast is Blastomyces.\n\nSeptate hyphae branching at acute angles: incorrect. Septate acute-angle hyphae are Aspergillus."
+  },
+  {
+   "id": "miid2-w05-lec24-q18",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 24 slides",
+   "stem": "A 50-year-old logger who works in forests near the Great Lakes has 3 weeks of cough, fever, night sweats, and weight loss, with exposure to soil and decaying organic matter. Breath sounds are decreased over the right upper chest, and chest imaging shows a right upper lobe infiltrate. Bronchoscopy with histopathology shows large yeast forms with a single bud attached across a broad base.\n\nIf this infection spreads beyond the lungs, which site is most commonly involved?",
+   "choices": [
+    "Skin",
+    "Meninges",
+    "Heart valves",
+    "Thyroid gland",
+    "Peripheral nerves"
+   ],
+   "answer": 0,
+   "evidence": [],
+   "note": "**Blastomyces dermatitidis forms broad-based budding yeast and disseminates most often to the skin, then bones, joints, and prostate.**\n\nBroad-based budding yeast in a patient with outdoor exposure in the Great Lakes region is Blastomyces dermatitidis, acquired by inhaling spores and primarily involving the lungs.\n\nThe second most frequent site of infection is the skin, followed by bones, joints and prostate. Skin lesions are the most common manifestation of disseminated disease and may be papules, nodules, verrucous or draining lesions.\n\nSkin: correct. Skin is the most common extrapulmonary site in blastomycosis.\n\nMeninges: incorrect. The meninges are the classic site of disseminated cryptococcosis.\n\nHeart valves: incorrect. Valvular infection is typical of bacteria such as viridans streptococci.\n\nThyroid gland: incorrect. The thyroid is not a site this lecture associates with blastomycosis.\n\nPeripheral nerves: incorrect. Peripheral nerve damage is a feature of leprosy, not a fungal infection."
+  }
+ ]
+}

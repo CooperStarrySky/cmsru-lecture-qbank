@@ -1,0 +1,201 @@
+{
+ "lecture_id": "miid2-w08-lec43",
+ "block": "MIID II",
+ "week": 8,
+ "lecture": "43 Zoonoses",
+ "contributor": "caleb",
+ "questions": [
+  {
+   "id": "miid2-w08-lec43-q01",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 43 slides",
+   "stem": "A 41-year-old man in rural New Mexico presents in July with 2 days of high fever, chills and a very swollen, exquisitely tender lump in the right groin. His cat had been hunting prairie dogs and had fleas. Temperature is 39.9 C (103.8 F), and blood pressure is 102/64 mm Hg. Aspirate of the groin node shows small gram-negative rods that stain darker at both ends, like a safety pin.\n\nWhich of the following is the most appropriate treatment?",
+   "choices": [
+    "Oral metronidazole",
+    "Benzathine penicillin G intramuscularly",
+    "Gentamicin or streptomycin",
+    "Supportive care alone",
+    "Atovaquone-proguanil"
+   ],
+   "answer": 2,
+   "evidence": [],
+   "note": "**Yersinia pestis (rodent reservoir, flea vector, bipolar gram-negative rod) causes bubonic plague, treated with streptomycin or gentamicin.**\n\nFever with a massively swollen tender node (bubo) after flea exposure from a pet that hunts rodents in the western US, and bipolar safety-pin gram-negative rods in the node aspirate, identify **bubonic plague** from **Yersinia pestis**. Rodents are the reservoir and fleas carry it to humans, who can also be infected by handling infected animals.\n\nAll forms of plague have high mortality without treatment. Treatment is **streptomycin or gentamicin**, with doxycycline or fluoroquinolones as alternatives.\n\nOral metronidazole: incorrect. Metronidazole treats anaerobes and protozoa, not Y. pestis.\n\nBenzathine penicillin G intramuscularly: incorrect. Penicillin is used for syphilis and leptospirosis, not plague.\n\nGentamicin or streptomycin: correct. An aminoglycoside (streptomycin or gentamicin) treats plague.\n\nSupportive care alone: incorrect. Untreated plague has high mortality, so supportive care alone is wrong.\n\nAtovaquone-proguanil: incorrect. Atovaquone-proguanil is an antimalarial."
+  },
+  {
+   "id": "miid2-w08-lec43-q02",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 43 slides",
+   "stem": "A 36-year-old musician who makes his own drums from imported goat hides notices a painless, itchy papule on his forearm. Over 5 days it becomes a painless ulcer with a black, depressed center surrounded by marked nonpitting edema. A Gram stain of the lesion shows large gram-positive rods with square ends, some with central spores.\n\nWhich of the following is the most appropriate management?",
+   "choices": [
+    "Local wound care only, since skin infection stays localized",
+    "Topical antibiotic ointment for 2 weeks",
+    "Surgical excision of the lesion without antibiotics",
+    "Antitoxin alone without antibiotics",
+    "Systemic ciprofloxacin, since the infection can disseminate"
+   ],
+   "answer": 4,
+   "evidence": [],
+   "note": "**Cutaneous anthrax (painless eschar with edema after animal hide contact) is always treated with a systemic antibiotic such as ciprofloxacin because of a 20% dissemination risk.**\n\nA painless papule progressing to a black **eschar** with surrounding edema in someone handling animal hides, plus large square-ended gram-positive spore-forming rods, is **cutaneous anthrax** from **Bacillus anthracis**. The skin is the usual portal; anthrax toxin produces the edema. Spores can survive for years in soil and animal products.\n\nBacteria can spread through lymphatics to severe illness and death, and about 20% of cutaneous cases disseminate, so cutaneous anthrax **should always be treated with a systemic antibiotic**. **Ciprofloxacin** is the slide treatment, with penicillin and doxycycline also used.\n\nLocal wound care only, since skin infection stays localized: incorrect. Cutaneous anthrax disseminates in about 20% of cases, so it is never left untreated.\n\nTopical antibiotic ointment for 2 weeks: incorrect. Topical therapy does not prevent lymphatic spread.\n\nSurgical excision of the lesion without antibiotics: incorrect. Antibiotics are always needed; excision alone does not treat the infection.\n\nAntitoxin alone without antibiotics: incorrect. Antibiotic therapy is the slide treatment.\n\nSystemic ciprofloxacin, since the infection can disseminate: correct. Systemic ciprofloxacin is given because cutaneous anthrax can disseminate."
+  },
+  {
+   "id": "miid2-w08-lec43-q03",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 43 slides",
+   "stem": "A 50-year-old mail sorter develops fever, malaise and a dry cough, followed 3 days later by severe dyspnea, chest pain and hypotension. Chest radiograph shows a markedly widened mediastinum and a left lower lobe consolidation. Blood cultures grow large aerobic gram-positive rods that form spores.\n\nWhich of the following best explains his chest radiograph findings?",
+   "choices": [
+    "Spirochetes reaching the lungs after exposure to rat urine",
+    "Bacteria seeding the lung from a flea bite in the axilla",
+    "Intracellular bacteria inhaled from dust around the placenta of a farm animal",
+    "Spores inhaled and germinating with toxin-driven mediastinal hemorrhage",
+    "Bird-derived intracellular bacteria causing interstitial pneumonia"
+   ],
+   "answer": 3,
+   "evidence": [],
+   "note": "**Inhalational anthrax (spores, often bioterrorism) causes pneumonia with mediastinal hemorrhage, seen as a widened mediastinum.**\n\nLarge aerobic spore-forming gram-positive rods in the blood with a **wide mediastinum** identify **inhalational anthrax**, the form linked to the 2001 bioterrorism letters sent through the US mail.\n\nAirborne exposure to **Bacillus anthracis spores** leads to pneumonia, **mediastinal hemorrhage** from toxin production, bloodstream infection and death. The widened mediastinum on the radiograph reflects that hemorrhage and edema.\n\nSpirochetes reaching the lungs after exposure to rat urine: incorrect. Rat-urine spirochetes describe leptospirosis.\n\nBacteria seeding the lung from a flea bite in the axilla: incorrect. Flea-borne gram-negative rods describe plague, and they do not form spores.\n\nIntracellular bacteria inhaled from dust around the placenta of a farm animal: incorrect. Inhalation near animal birth describes Coxiella (Q fever), not a gram-positive rod.\n\nSpores inhaled and germinating with toxin-driven mediastinal hemorrhage: correct. Inhaled spores germinate and toxin causes hemorrhagic mediastinitis.\n\nBird-derived intracellular bacteria causing interstitial pneumonia: incorrect. Bird exposure with interstitial pneumonia describes psittacosis."
+  },
+  {
+   "id": "miid2-w08-lec43-q04",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 43 slides",
+   "stem": "A 39-year-old woman who recently visited family in a village in Mexico has 6 weeks of fevers that come and go over days, night sweats, fatigue and low back pain. While there she ate fresh soft goat cheese made from unpasteurized milk. She has hepatosplenomegaly and enlarged cervical lymph nodes. Blood cultures grow small gram-negative coccobacilli after prolonged incubation.\n\nWhich feature of this organism best explains her prolonged course?",
+   "choices": [
+    "Production of a heat-stable toxin preformed in food",
+    "Survival within macrophages of the liver, spleen and marrow",
+    "Formation of spores that persist in soil for years",
+    "Invasion of red blood cells of all ages",
+    "Dormant hepatocyte forms that reactivate months later"
+   ],
+   "answer": 1,
+   "evidence": [],
+   "note": "**Brucella (unpasteurized dairy, livestock) persists in liver, spleen, marrow and nodes, causing undulant fever and chronic granulomatous infection.**\n\nUndulant fever, sweats, back pain, hepatosplenomegaly and lymphadenopathy after eating unpasteurized goat cheese in Mexico describe **brucellosis**, most likely **Brucella melitensis** (goats and sheep, Mexico and the Mediterranean, more severe disease). There is no human-to-human spread.\n\nThe bacteria travel from the portal of entry to lymph nodes and bloodstream and **survive for long periods in the liver, spleen, bone marrow and lymph nodes**, producing a chronic granulomatous infection with waxing and waning symptoms. Acute disease is diagnosed by blood, bone marrow or node culture, and treatment is doxycycline, streptomycin or TMP-SMX.\n\nProduction of a heat-stable toxin preformed in food: incorrect. Preformed heat-stable toxin describes Staph aureus food poisoning.\n\nSurvival within macrophages of the liver, spleen and marrow: correct. Brucella persists in reticuloendothelial organs, causing chronic granulomatous infection.\n\nFormation of spores that persist in soil for years: incorrect. Long-lived soil spores describe Bacillus anthracis.\n\nInvasion of red blood cells of all ages: incorrect. Invading red cells of all ages describes P. falciparum.\n\nDormant hepatocyte forms that reactivate months later: incorrect. Dormant liver forms describe P. vivax and P. ovale."
+  },
+  {
+   "id": "miid2-w08-lec43-q05",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 43 slides",
+   "stem": "A 28-year-old man returns from a whitewater rafting trip in Costa Rica. A week later he develops fever, severe myalgias of the calves and headache that improve after several days. A few days after that he becomes jaundiced with reduced urine output and bleeding into the whites of both eyes.\n\nTotal bilirubin: 9.8 mg/dL (0.1 to 1.2)\nCreatinine: 4.1 mg/dL (0.6 to 1.2)\nPlatelets: 52,000/mm3 (150,000 to 400,000)\n\nHow was this infection most likely acquired?",
+   "choices": [
+    "Handling a pet parrot",
+    "Bite of an Ixodes tick",
+    "Inhaling dust near a birthing animal",
+    "Water contaminated with animal urine",
+    "Eating undercooked ground beef"
+   ],
+   "answer": 3,
+   "evidence": [],
+   "note": "**Leptospira interrogans is acquired from water contaminated with animal urine and causes a biphasic illness that can progress to Weil disease (jaundice, renal failure, hemorrhage).**\n\nA **biphasic** illness after freshwater sports, with a flu-like first phase followed by jaundice, renal failure, hemorrhage and conjunctival bleeding, is **leptospirosis** progressing to **Weil disease** (5 to 10% of patients). The cause is **Leptospira interrogans**, a spirochete.\n\nInfected animals, especially rodents and dogs, shed large numbers of organisms in **urine**, and the bacteria survive in wet environments. Humans are infected when contaminated water or food enters through a break in the skin or a mucous membrane, or is swallowed. Penicillin or doxycycline works if started early.\n\nHandling a pet parrot: incorrect. Parrots transmit Chlamydophila psittaci.\n\nBite of an Ixodes tick: incorrect. Ixodes ticks carry Lyme disease, Anaplasma and Babesia.\n\nInhaling dust near a birthing animal: incorrect. Inhaling dust near a birthing animal describes Q fever.\n\nWater contaminated with animal urine: correct. Leptospires shed in animal urine survive in water and enter through skin or mucosa.\n\nEating undercooked ground beef: incorrect. Undercooked ground beef is linked to E. coli O157:H7."
+  },
+  {
+   "id": "miid2-w08-lec43-q06",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 43 slides",
+   "stem": "A 58-year-old woman who breeds parakeets and cockatiels in her home develops fever, severe headache and a dry cough. Two of her birds recently became lethargic and died. Chest radiograph shows patchy bilateral interstitial infiltrates. Her spleen is palpable. Routine sputum culture grows only normal flora.\n\nWhich of the following is the most appropriate way to confirm the diagnosis?",
+   "choices": [
+    "A fourfold rise in antibody titer between acute and convalescent sera",
+    "Gram stain of the sputum showing many gram-positive lancet-shaped diplococci",
+    "Culture of the sputum on chocolate agar for 48 hours",
+    "Thin blood smear for intraerythrocytic organisms",
+    "Darkfield microscopy of the sputum for spirochetes"
+   ],
+   "answer": 0,
+   "evidence": [],
+   "note": "**Chlamydophila psittaci (pet birds) causes atypical pneumonia with liver and spleen spread; diagnose by a fourfold titer rise on paired sera and treat with doxycycline or a macrolide.**\n\nAtypical interstitial pneumonia with splenomegaly in someone exposed to sick pet birds is **psittacosis**, caused by **Chlamydophila psittaci**, an obligate intracellular coccoid organism carried in the blood, feces and feathers of parrots and many other birds. Infection is by handling birds or inhaling aerosolized organisms; the bacteria enter the respiratory tract and spread to the liver and spleen.\n\nIt is rarely diagnosed unless the exposure is asked about. Diagnosis is **serologic: a fourfold increase in titer** by complement fixation between acute and convalescent sera. Treatment is doxycycline or a macrolide.\n\nA fourfold rise in antibody titer between acute and convalescent sera: correct. Psittacosis is diagnosed by a fourfold rise in titer on paired sera.\n\nGram stain of the sputum showing many gram-positive lancet-shaped diplococci: incorrect. Gram-positive diplococci would suggest a typical bacterial pneumonia, not an obligate intracellular organism.\n\nCulture of the sputum on chocolate agar for 48 hours: incorrect. Obligate intracellular bacteria do not grow on routine agar.\n\nThin blood smear for intraerythrocytic organisms: incorrect. Intraerythrocytic organisms on smear suggest malaria or Babesia.\n\nDarkfield microscopy of the sputum for spirochetes: incorrect. Darkfield is used for spirochetes such as Treponema or Leptospira."
+  },
+  {
+   "id": "miid2-w08-lec43-q07",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 43 slides",
+   "stem": "A 10-year-old boy has a 3-week history of a tender, enlarged lymph node in his left axilla. His family adopted a kitten 6 weeks ago, and he had a small crusted papule on his left hand a few weeks before the node enlarged. He is otherwise well. Blood cultures are negative.\n\nWhich of the following is the most appropriate test to confirm the diagnosis?",
+   "choices": [
+    "Culture of an aspirate from the lymph node",
+    "Peripheral blood smear for morulae",
+    "Serology for Francisella tularensis",
+    "Lymph node aspirate stained for bipolar rods",
+    "Serology for Bartonella henselae"
+   ],
+   "answer": 4,
+   "evidence": [],
+   "note": "**Bartonella henselae from cats causes regional lymphadenopathy (cat scratch disease), diagnosed by serology because cultures are negative.**\n\nRegional lymphadenopathy draining the site of a scratch from a young cat is **cat scratch disease**, caused by **Bartonella henselae**, a fastidious gram-negative coccobacillus with cats (and their fleas) as the reservoir.\n\nCat scratch disease is diagnosed by **serology**. Organisms may be seen on tissue, but **cultures are not positive**, unlike bacillary angiomatosis or endocarditis where blood culture is useful. There is no consensus that antibiotics change the course of cat scratch disease.\n\nCulture of an aspirate from the lymph node: incorrect. Bartonella cultures are not positive in cat scratch disease.\n\nPeripheral blood smear for morulae: incorrect. Morulae point to Anaplasma or Ehrlichia.\n\nSerology for Francisella tularensis: incorrect. Tularemia can follow cat contact too, but it is not the classic picture of a kitten scratch with a regional node.\n\nLymph node aspirate stained for bipolar rods: incorrect. Bipolar safety-pin rods in a node aspirate suggest plague.\n\nSerology for Bartonella henselae: correct. Serology confirms cat scratch disease."
+  },
+  {
+   "id": "miid2-w08-lec43-q08",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 43 slides",
+   "stem": "A 46-year-old man who has been living in a crowded shelter with body lice has recurrent bouts of fever lasting several days, with leg pain and headache. Blood cultures are positive for a fastidious gram-negative coccobacillus from a genus that also causes cat scratch disease. Public health officials note that, unlike its relatives, this species has no animal reservoir.\n\nWhich of the following illnesses is this organism classically known for?",
+   "choices": [
+    "Oroya fever followed by verruga peruana",
+    "Trench fever",
+    "Rickettsialpox",
+    "Relapsing fever from Borrelia",
+    "Epidemic typhus from Rickettsia"
+   ],
+   "answer": 1,
+   "evidence": [],
+   "note": "**Bartonella quintana (body lice, no animal reservoir) causes trench fever; B. bacilliformis (sandflies, Andes) causes Oroya fever; B. henselae (cats) causes cat scratch disease.**\n\nA Bartonella species carried by **lice** with **no animal reservoir** is **Bartonella quintana**, the cause of **trench fever** (World War I). It also causes bacillary angiomatosis, bacteremia and endocarditis in people with HIV or other immunocompromise.\n\nThe other Bartonella species differ by vector and reservoir: **B. bacilliformis** is spread by sandflies in the Andes and causes Oroya fever (fever with hemolytic anemia) and later verruga peruana, while **B. henselae** lives in cats and their fleas.\n\nOroya fever followed by verruga peruana: incorrect. Oroya fever and verruga peruana come from sandfly-borne B. bacilliformis in the Andes.\n\nTrench fever: correct. Louse-borne B. quintana causes trench fever.\n\nRickettsialpox: incorrect. Rickettsialpox is caused by mite-borne R. akari.\n\nRelapsing fever from Borrelia: incorrect. Relapsing fever is a Borrelia illness, a different genus.\n\nEpidemic typhus from Rickettsia: incorrect. Epidemic typhus is louse-borne but caused by R. prowazekii, not Bartonella."
+  },
+  {
+   "id": "miid2-w08-lec43-q09",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 43 slides",
+   "stem": "A 33-year-old field biologist who traps ground squirrels in the western US is hospitalized with fever, cough productive of bloody sputum and rapidly worsening hypoxemia. Sputum Giemsa stain shows small gram-negative coccobacilli with bipolar staining. Several days earlier she had a painful swollen axillary node.\n\nWhich of the following precautions is most important for staff caring for her?",
+   "choices": [
+    "Contact precautions for draining wounds only",
+    "Avoiding shared food and water containers",
+    "Standard precautions only, since no human spread occurs",
+    "Respiratory isolation for airborne droplet spread",
+    "Protection from mosquito bites on the ward"
+   ],
+   "answer": 3,
+   "evidence": [],
+   "note": "**Plague is usually not spread between humans, but pneumonic plague can spread through the air and requires isolation.**\n\nA trapper of western ground squirrels with a prior painful axillary bubo, now with severe bloody bronchopneumonia and bipolar gram-negative coccobacilli in sputum, has **Yersinia pestis** infection that has progressed to **pneumonic plague**.\n\nPlague is usually not spread person to person, but the **pneumonic form can spread through the air**. Prevention therefore includes isolation and quarantine, along with rodent control, chemoprophylaxis of contacts and vaccine.\n\nContact precautions for draining wounds only: incorrect. Draining-wound precautions alone miss the airborne risk of pneumonic plague.\n\nAvoiding shared food and water containers: incorrect. Plague is not a food or water-borne infection.\n\nStandard precautions only, since no human spread occurs: incorrect. Most forms are not spread between people, but pneumonic plague can be.\n\nRespiratory isolation for airborne droplet spread: correct. Pneumonic plague can spread by the airborne route, so respiratory isolation is needed.\n\nProtection from mosquito bites on the ward: incorrect. Fleas, not mosquitoes, transmit plague."
+  },
+  {
+   "id": "miid2-w08-lec43-q10",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 43 slides",
+   "stem": "A 47-year-old landscaper on an island off Massachusetts presents in August with 4 days of fever, chills, dry cough and pleuritic chest pain. He mows large commercial lawns and recently ran over a rabbit nest. Chest radiograph shows a right lower lobe infiltrate with hilar adenopathy. Routine sputum and blood cultures are negative at 48 hours.\n\nWhich of the following is the most appropriate step regarding laboratory testing?",
+   "choices": [
+    "Request a Wright stain of blood for morulae",
+    "Report the blood cultures as final negatives at 48 hours",
+    "Send serology and warn the laboratory before any culture",
+    "Order a thin and thick smear of the blood",
+    "Request a darkfield exam of the sputum"
+   ],
+   "answer": 2,
+   "evidence": [],
+   "note": "**Tularemia (rabbits, lawn mowing, ticks) is diagnosed mainly by serology; warn the lab before culture because F. tularensis readily infects lab staff.**\n\nPneumonia in a landscaper after mowing over a rabbit nest is classic **pneumonic tularemia** from **Francisella tularensis**, a tiny fastidious gram-negative coccobacillus that lives inside macrophages. Rabbits and hares (lagomorphs) are the reservoir; people are infected by skin contact with an infected animal, inhalation or a tick bite.\n\nDiagnosis is **usually serologic**. It can be cultured on chocolate agar or BCYE, but the **laboratory must be warned** because handling the organism carries a high risk of lab infection. Blood cultures usually take more than 5 days to turn positive, so negative results at 48 hours mean little. Treatment is streptomycin or gentamicin.\n\nRequest a Wright stain of blood for morulae: incorrect. Morulae point to Anaplasma or Ehrlichia.\n\nReport the blood cultures as final negatives at 48 hours: incorrect. F. tularensis blood cultures usually take more than 5 days, so 48 hours is too early.\n\nSend serology and warn the laboratory before any culture: correct. Tularemia is diagnosed mainly by serology, and the lab must be warned because of lab-acquired infection risk.\n\nOrder a thin and thick smear of the blood: incorrect. Blood smears look for malaria or Babesia.\n\nRequest a darkfield exam of the sputum: incorrect. Darkfield is used to see spirochetes such as T. pallidum."
+  },
+  {
+   "id": "miid2-w08-lec43-q11",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 43 slides",
+   "stem": "Four men develop fever, severe headache and dry cough about 2 weeks after a weekly card game held in a garage where a cat had given birth to kittens. Chest radiographs show bilateral interstitial infiltrates. Aminotransferases are mildly elevated, and a liver biopsy in one man shows granulomas. Routine bacterial cultures are negative.\n\nWhich long-term complication is this organism known for?",
+   "choices": [
+    "Megacolon",
+    "Nephrotic syndrome",
+    "Hemolytic uremic syndrome",
+    "Tabes dorsalis with locomotor ataxia",
+    "Culture-negative endocarditis"
+   ],
+   "answer": 4,
+   "evidence": [],
+   "note": "**Coxiella burnetii (inhaled near animal births) causes atypical pneumonia and granulomatous hepatitis, and chronic Q fever causes culture-negative endocarditis.**\n\nA cluster of atypical, bilateral pneumonia with **granulomatous hepatitis** after inhaling dust where an animal gave birth is **Q fever**, from **Coxiella burnetii**. The organism is concentrated in the placenta, resists drying, heat and sunlight, and is inhaled from the environment; it can also be swallowed in unpasteurized milk or cheese. It is not grown by usual culture methods.\n\nAcute illness often resolves, but some cases become chronic and cause **culture-negative endocarditis** or osteomyelitis. Diagnosis is PCR early and serology after a week; acute disease is treated with a tetracycline and chronic disease with combination therapy.\n\nMegacolon: incorrect. Megacolon is a chronic complication of Chagas disease.\n\nNephrotic syndrome: incorrect. Nephrotic syndrome is a complication of P. malariae.\n\nHemolytic uremic syndrome: incorrect. HUS follows Shiga toxin-producing E. coli.\n\nTabes dorsalis with locomotor ataxia: incorrect. Tabes dorsalis is late neurosyphilis.\n\nCulture-negative endocarditis: correct. Chronic Q fever causes culture-negative endocarditis."
+  },
+  {
+   "id": "miid2-w08-lec43-q12",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 43 slides",
+   "stem": "A 54-year-old man who received a kidney transplant 2 years ago and takes tacrolimus and prednisone develops several red-purple, raised, vascular-appearing skin nodules on his arms and trunk, plus fever. Imaging shows multiple blood-filled cystic spaces in the liver. He has two cats at home and has had flea bites. Biopsy of a skin nodule shows proliferating small blood vessels with clumps of bacilli on silver stain.\n\nWhich of the following is the most appropriate treatment?",
+   "choices": [
+    "Benznidazole",
+    "Intravenous artesunate",
+    "Doxycycline or a macrolide",
+    "No antibiotics; the illness is self-limited",
+    "Metronidazole"
+   ],
+   "answer": 2,
+   "evidence": [],
+   "note": "**Bacillary angiomatosis (vascular skin nodules, peliosis hepatis) in immunocompromised hosts is caused by Bartonella and treated with doxycycline or a macrolide.**\n\nVascular proliferative skin nodules and blood-filled liver lesions (**peliosis hepatis**) in an immunocompromised patient with cat and flea exposure are **bacillary angiomatosis**, caused by **Bartonella henselae** (B. quintana can do the same). Blood culture may be positive, and skin or node tissue can be cultured.\n\nBacillary angiomatosis and Bartonella endocarditis are treated with **doxycycline or a macrolide**. Only cat scratch disease in a healthy host lacks consensus on antibiotics.\n\nBenznidazole: incorrect. Benznidazole is for Chagas disease.\n\nIntravenous artesunate: incorrect. Artesunate is for severe malaria.\n\nDoxycycline or a macrolide: correct. Doxycycline or a macrolide treats bacillary angiomatosis.\n\nNo antibiotics; the illness is self-limited: incorrect. Unlike cat scratch disease, bacillary angiomatosis is treated.\n\nMetronidazole: incorrect. Metronidazole treats anaerobes and protozoa."
+  }
+ ]
+}

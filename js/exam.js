@@ -156,7 +156,7 @@
     $("#checkHint").textContent = pick == null ? "Select an answer, then check it." : "Checking locks this answer.";
     if (shown(q)) {
       $("#qRationale").hidden = false;
-      $("#qRationale").innerHTML = `<h3>${pick == null ? "Not answered" : pick === q.answer ? "Correct" : "Incorrect"}<small>FROM THE LECTURE</small></h3>${Explain.evidenceHTML(q)}`;
+      $("#qRationale").innerHTML = `<h3>${pick == null ? "Not answered" : pick === q.answer ? "Correct" : "Incorrect"}<small>${q.source === "practice" ? "PRACTICE QUESTION" : "FROM THE LECTURE"}</small></h3>${Explain.evidenceHTML(q)}`;
     } else $("#qRationale").hidden = true;
     paintHL(q);
     $("#notesArea").value = S.notes[q.id] || "";

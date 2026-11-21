@@ -13,6 +13,8 @@ You are helping a medical student add one lecture's practice questions to this q
 
 Never invent a question, never "improve" a stem, never add a distractor. Copy stems and choices exactly. Fix only obvious typos. If a spoken question has no choices (e.g. "what happens to preload here?"), turn it into multiple choice only when the professor gave the answer and the plausible alternatives in the same passage, and say so in `note`.
 
+**One exception: written practice questions.** A block with no collected questions yet can carry student-written practice questions as `source: "practice"` (rules in `SCHEMA.md`). They are labeled as written, never mixed into the collected sources, and the collected rule above still applies to everything else.
+
 ## Inputs you need from the student
 
 1. The slide PDF.

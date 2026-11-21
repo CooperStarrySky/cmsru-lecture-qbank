@@ -46,9 +46,10 @@
       }).join("") + `</div>`;
     }
     if (q.note) {
-      h += `<details class="ev-note"><summary>Contributor's note (paraphrase, not the professor's words)</summary><div class="ev-note-body">${mdLite(q.note)}</div></details>`;
+      const sum = q.source === "practice" ? "Explanation (written by a student, not the professor's words)" : "Contributor's note (paraphrase, not the professor's words)";
+      h += `<details class="ev-note"${q.source === "practice" ? " open" : ""}><summary>${sum}</summary><div class="ev-note-body">${mdLite(q.note)}</div></details>`;
     }
-    const lab = { slide: "Lecture slide question", notes: "Lecture notes question", formative: "Formative quiz question", said: "Asked in lecture" }[q.source] || "";
+    const lab = { slide: "Lecture slide question", notes: "Lecture notes question", formative: "Formative quiz question", said: "Asked in lecture", practice: "Practice question written from the slides" }[q.source] || "";
     h += `<div class="qf-cite">${esc(lab)}${q.source_ref ? " · " + esc(q.source_ref) : ""} · ${esc(lecName(q.lecture, q))}</div>`;
     return h;
   }

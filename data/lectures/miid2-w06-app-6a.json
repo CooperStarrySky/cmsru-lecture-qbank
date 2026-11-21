@@ -1,0 +1,233 @@
+{
+ "lecture_id": "miid2-w06-app-6a",
+ "block": "MIID II",
+ "week": 6,
+ "lecture": "6A Mycobacterial Diagnostics and Therapeutics",
+ "contributor": "caleb",
+ "questions": [
+  {
+   "id": "miid2-w06-app-6a-q01",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Session 6A slides",
+   "stem": "A 55-year-old man has 2 months of cough, fevers and weight loss. A Gram stain of his sputum shows neutrophils and only faint, beaded, poorly staining structures that the technologist cannot call Gram positive or Gram negative. A second smear is stained with carbol fuchsin, heated, decolorized with acid alcohol and counterstained with methylene blue; it shows thin, slightly beaded rods that hold the fuchsia dye on a blue background.\n\nWhich property of this organism explains both staining results?",
+   "choices": [
+    "A thick peptidoglycan layer that traps crystal violet after decolorization",
+    "A lipid-rich waxy wall of mycolic acids that resists both dye entry and removal",
+    "An outer membrane rich in lipopolysaccharide that loses crystal violet",
+    "A polysaccharide capsule that excludes both stains from the cell surface",
+    "The absence of a cell wall, which leaves only the cell membrane to stain"
+   ],
+   "answer": 1,
+   "evidence": [],
+   "note": "**The mycolic acid-rich waxy wall makes mycobacteria stain poorly on Gram stain and retain carbol fuchsin after acid alcohol (acid fast).**\n\nMycobacteria are technically Gram-positive rods, but they stain poorly on Gram stain because their thick, hydrophobic, waxy wall is full of mycolic acids. The same wall is the basis for the acid-fast stain: once carbol fuchsin is driven in (Ziehl-Neelsen with heat, or Kinyoun), the waxy wall holds it even through acid alcohol, so acid-fast bacilli look fuchsia (the classic red snappers) on a blue background.\n\nThe lecture notes that the mycolic acid wall also makes mycobacteria resistant to drying, and that a fluorochrome (auramine-rhodamine) stain, which binds mycolic acids, is about 10 times more sensitive than the carbol fuchsin stain.\n\nA thick peptidoglycan layer that traps crystal violet after decolorization: incorrect. A thick peptidoglycan layer explains ordinary Gram positivity, not acid fastness.\n\nA lipid-rich waxy wall of mycolic acids that resists both dye entry and removal: correct. Mycolic acids make the wall waxy, which explains both the poor Gram stain and acid-fast retention.\n\nAn outer membrane rich in lipopolysaccharide that loses crystal violet: incorrect. Lipopolysaccharide belongs to Gram-negative organisms and does not explain acid fastness.\n\nA polysaccharide capsule that excludes both stains from the cell surface: incorrect. Mycobacteria are identified by their wall, not a capsule.\n\nThe absence of a cell wall, which leaves only the cell membrane to stain: incorrect. Organisms without a cell wall do not retain carbol fuchsin."
+  },
+  {
+   "id": "miid2-w06-app-6a-q02",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Session 6A slides",
+   "stem": "A 71-year-old woman with bronchiectasis has a chronic cough. She was born in the United States and has no known TB exposure. Three sputum specimens are sent. Two show a few acid-fast bacilli on smear. A nucleic acid amplification test (Xpert MTB/RIF) on the first specimen is negative for Mycobacterium tuberculosis, and a repeat on the second specimen is also negative. Cultures are pending.\n\nWhich of the following is the most likely interpretation of these results?",
+   "choices": [
+    "Smear-positive pulmonary tuberculosis that the nucleic acid test has missed",
+    "Pulmonary tuberculosis caused by a strain resistant to rifampin",
+    "A false-positive smear caused by contamination with stain precipitate",
+    "A nontuberculous mycobacterium rather than M. tuberculosis",
+    "Contamination of the sputum with dead tuberculosis organisms"
+   ],
+   "answer": 3,
+   "evidence": [],
+   "note": "**A positive AFB smear with a negative TB NAAT points to a nontuberculous mycobacterium; a positive NAAT, even with a negative smear, points to M. tuberculosis.**\n\nA positive acid-fast smear shows mycobacteria but cannot tell *M. tuberculosis* from nontuberculous mycobacteria (NTM). The NAAT is specific for *M. tuberculosis* and has a good negative predictive value in respiratory samples with enough organisms to be smear positive.\n\nThe lecture's rule: if the NAAT is negative while the smear is positive, the presumptive diagnosis is NTM. Her bronchiectasis and lack of TB risk fit, since NTM pulmonary disease is now more common in the US than pulmonary TB. Culture will identify the species.\n\n**Smear | NAAT | Presumptive reading**\n\n- Positive: Positive; MTB (over 95% positive predictive value)\n- Negative: Positive; MTB\n- Positive: Negative; NTM\n- Negative: Negative; TB not excluded, but infectivity low\n\nSmear-positive pulmonary tuberculosis that the nucleic acid test has missed: incorrect. When enough organisms are present to be smear positive, the NAAT rarely misses *M. tuberculosis*.\n\nPulmonary tuberculosis caused by a strain resistant to rifampin: incorrect. Xpert detects *M. tuberculosis* regardless of rifampin resistance, and it was negative.\n\nA false-positive smear caused by contamination with stain precipitate: incorrect. Two separate specimens were smear positive, which argues against an artifact.\n\nA nontuberculous mycobacterium rather than M. tuberculosis: correct. Smear positive with a negative NAAT points to NTM.\n\nContamination of the sputum with dead tuberculosis organisms: incorrect. Dead *M. tuberculosis* would still make the NAAT positive."
+  },
+  {
+   "id": "miid2-w06-app-6a-q03",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Session 6A slides",
+   "stem": "A 46-year-old man who keeps a large home aquarium has had a slowly enlarging, painless nodule on the back of his right hand for 6 weeks. New nodules have since appeared in a line up his forearm. He recalls scraping the hand while cleaning the tank. Biopsy shows granulomas, and an acid-fast stain shows a few bacilli. Culture at the lower temperature requested by the lab grows a mycobacterium after 2 weeks. His wife asks whether she could catch it from him.\n\nWhich of the following is true of this organism?",
+   "choices": [
+    "It is a member of the tuberculosis complex and spreads by droplet nuclei",
+    "It lives in the environment and is not passed from person to person",
+    "It grows within 7 days on routine bacterial media as a rapid grower",
+    "It requires a human reservoir and passes between household members",
+    "It cannot be cultured and is diagnosed only by skin biopsy appearance"
+   ],
+   "answer": 1,
+   "evidence": [],
+   "note": "**Nontuberculous mycobacteria live in water and soil and do not spread person to person; M. marinum is linked to fish tanks.**\n\nA hand nodule after a scrape while cleaning a fish tank, with lymphatic spread up the arm, is the lecture's classic association for *Mycobacterium marinum*, a slower-growing nontuberculous mycobacterium (NTM).\n\nNTM are ubiquitous in water and soil, form biofilms at water and surface interfaces, and have no human or animal reservoir, so there is no person-to-person transmission. This contrasts with the *M. tuberculosis* complex, which has human reservoirs and spreads through the air, which is why TB is a public health concern and NTM disease is not.\n\nIt is a member of the tuberculosis complex and spreads by droplet nuclei: incorrect. The TB complex has human reservoirs and airborne spread; this is an environmental NTM.\n\nIt lives in the environment and is not passed from person to person: correct. NTM such as *M. marinum* live in water and are not transmitted person to person.\n\nIt grows within 7 days on routine bacterial media as a rapid grower: incorrect. It took 2 weeks to grow, which fits a slower grower, not a rapid grower.\n\nIt requires a human reservoir and passes between household members: incorrect. NTM have no human reservoir.\n\nIt cannot be cultured and is diagnosed only by skin biopsy appearance: incorrect. It grew in culture; the non-cultivatable mycobacterium in the lecture is *M. leprae*."
+  },
+  {
+   "id": "miid2-w06-app-6a-q04",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Session 6A slides",
+   "stem": "Over 3 months, six patients who had cosmetic surgery at the same outpatient center develop draining wound infections that fail to improve on cephalexin. Routine bacterial cultures grow long, filamentous Gram-positive rods within 5 days, first dismissed as contaminants. An acid-fast stain of the wound drainage shows long, beaded, filamentous acid-fast rods. An inspection finds that instruments were rinsed in tap water after sterilization.\n\nWhich organism group is most likely responsible?",
+   "choices": [
+    "Slow-growing Mycobacterium avium complex",
+    "Mycobacterium tuberculosis complex",
+    "The non-cultivatable Mycobacterium leprae",
+    "Pigmented slow growers such as M. kansasii",
+    "Rapid-growing nontuberculous mycobacteria"
+   ],
+   "answer": 4,
+   "evidence": [],
+   "note": "**Rapid-growing NTM grow in under 7 days, can appear on routine bacterial media as filamentous Gram-positive rods, and cause clusters of surgical wound infections.**\n\nRapid-growing NTM (for example *M. abscessus*, *M. chelonae* and *M. fortuitum*) grow in under 7 days on solid media and can even grow on routine bacterial media, where they look like filamentous Gram-positive rods. On acid-fast stains they look atypical: longer and more filamentous than the small beaded rods of *M. tuberculosis*.\n\nThey live in water, and the lecture lists clusters of surgical wound infections as one of their disease associations. Tap water rinsing of instruments is the shared source here.\n\nSlow-growing Mycobacterium avium complex: incorrect. MAC is a slow grower, mainly a lung or disseminated pathogen, and would not grow in 5 days.\n\nMycobacterium tuberculosis complex: incorrect. *M. tuberculosis* is a slow grower that takes weeks and does not cause instrument-linked wound clusters.\n\nThe non-cultivatable Mycobacterium leprae: incorrect. *M. leprae* cannot be cultured at all.\n\nPigmented slow growers such as M. kansasii: incorrect. *M. kansasii* is a slow grower.\n\nRapid-growing nontuberculous mycobacteria: correct. Rapid growers grow within 7 days, can appear on routine media and cause surgical wound clusters."
+  },
+  {
+   "id": "miid2-w06-app-6a-q05",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Session 6A slides",
+   "stem": "A 49-year-old man with alcohol use disorder and poor nutrition is started on a single drug for latent TB infection that blocks synthesis of a lipid unique to the mycobacterial wall. He was not given any supplement with it. After 2 months he reports burning and tingling in both feet that is slowly rising up his shins. His liver enzymes are mildly elevated. He has taken the drug as prescribed.\n\nWhich of the following would most likely have prevented his new symptom?",
+   "choices": [
+    "Pyridoxine (vitamin B6) given with each dose",
+    "Folic acid given with each dose",
+    "Monthly visual and color vision testing",
+    "Taking each dose with a high-fat meal",
+    "Monthly measurement of serum uric acid"
+   ],
+   "answer": 0,
+   "evidence": [],
+   "note": "**Isoniazid inhibits mycolic acid synthesis and causes hepatitis and a peripheral neuropathy that vitamin B6 prevents.**\n\nA single-drug latent regimen that inhibits mycolic acid synthesis is isoniazid (INH). Its two main toxicities are hepatitis (mild chemical hepatitis is common, clinical hepatitis is rare, and risk rises with age, alcohol and chronic liver disease) and a dose-related peripheral neuropathy.\n\nThe neuropathy is prevented by giving vitamin B6 (pyridoxine) with INH, which the lecture writes as INH plus B6. Malnourished patients and heavy drinkers are among those most at risk, so this patient should have received it from the start.\n\nPyridoxine (vitamin B6) given with each dose: correct. Pyridoxine prevents INH peripheral neuropathy.\n\nFolic acid given with each dose: incorrect. Folic acid does not protect against INH neurotoxicity.\n\nMonthly visual and color vision testing: incorrect. Visual monitoring is for ethambutol optic neuritis.\n\nTaking each dose with a high-fat meal: incorrect. Food does not prevent neuropathy.\n\nMonthly measurement of serum uric acid: incorrect. Uric acid monitoring is for pyrazinamide, not INH."
+  },
+  {
+   "id": "miid2-w06-app-6a-q06",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Session 6A slides",
+   "stem": "A 57-year-old man starts four-drug therapy for culture-proven pulmonary tuberculosis. After 3 weeks he develops sudden severe pain, swelling and redness of the first metatarsophalangeal joint of his left foot. Joint aspiration shows needle-shaped crystals. Serum uric acid is 10.4 mg/dL (normal 3.5 to 7.2). His clinician considers stopping the responsible drug but worries about how that would change the length of his treatment.\n\nStopping the drug most likely responsible would have which effect on his treatment?",
+   "choices": [
+    "It would lose activity against organisms in the central nervous system",
+    "It would leave the regimen unable to block mycolic acid synthesis",
+    "It would remove the drug that hedges against isoniazid resistance",
+    "It would lose the drug that shortens the total course to 6 months",
+    "It would remove the only drug in the regimen that is bactericidal"
+   ],
+   "answer": 3,
+   "evidence": [],
+   "note": "**Pyrazinamide raises uric acid and can cause gout; given with rifampin in the first 2 months it shortens TB treatment to 6 months.**\n\nGout with a high uric acid in a patient on standard four-drug therapy points to pyrazinamide (PZA), which raises uric acid and causes gout and arthralgias. PZA is active against semi-dormant organisms inside cells at acid pH, and adding it gives faster sterilization.\n\nWhen rifampin and PZA are both given during the 2-month initial phase, the total course can be 6 months. Without PZA in those 2 months, the minimum duration rises to 9 months.\n\nIt would lose activity against organisms in the central nervous system: incorrect. CNS penetration is not the reason PZA is valued in the regimen; ethambutol is the drug with poor CNS penetration.\n\nIt would leave the regimen unable to block mycolic acid synthesis: incorrect. Mycolic acid synthesis is blocked by isoniazid.\n\nIt would remove the drug that hedges against isoniazid resistance: incorrect. Ethambutol is the hedge against isoniazid resistance.\n\nIt would lose the drug that shortens the total course to 6 months: correct. PZA with rifampin in the first 2 months allows a 6-month course; without it the course is at least 9 months.\n\nIt would remove the only drug in the regimen that is bactericidal: incorrect. Isoniazid and rifampin are also bactericidal."
+  },
+  {
+   "id": "miid2-w06-app-6a-q07",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Session 6A slides",
+   "stem": "A 64-year-old woman with chronic kidney disease has been on four-drug therapy for pulmonary tuberculosis for 7 weeks. Her drug doses were never adjusted for her kidney function. She reports blurry vision in both eyes and says that colors have started to look washed out. Visual acuity has dropped from 20/20 to 20/60 in both eyes. Fundus examination is normal.\n\nWhich drug is most likely responsible, and why was she at higher risk?",
+   "choices": [
+    "Isoniazid, because it is metabolized by hepatic acetylation",
+    "Rifampin, because it induces cytochrome P450 enzymes",
+    "Ethambutol, because it is cleared by the kidneys",
+    "Pyrazinamide, because it raises the serum uric acid",
+    "Rifabutin, because it accumulates in the lens of the eye"
+   ],
+   "answer": 2,
+   "evidence": [],
+   "note": "**Ethambutol causes dose-dependent optic neuritis (acuity and color vision loss) and is renally cleared, so its dose is adjusted in kidney disease.**\n\nLoss of visual acuity and color discrimination on TB therapy is retrobulbar (optic) neuritis from ethambutol, a dose-dependent toxicity. That is why patients on ethambutol have their visual acuity and color vision monitored.\n\nEthambutol is cleared by the kidneys and needs dose adjustment in renal insufficiency. Without adjustment, her levels rose and so did the risk of this dose-related effect. Ethambutol inhibits cell wall synthesis and is usually bacteriostatic.\n\nIsoniazid, because it is metabolized by hepatic acetylation: incorrect. Isoniazid causes peripheral neuropathy and hepatitis, not optic neuritis.\n\nRifampin, because it induces cytochrome P450 enzymes: incorrect. Rifampin causes drug interactions, orange fluids, rash and flu-like illness.\n\nEthambutol, because it is cleared by the kidneys: correct. Ethambutol causes dose-dependent optic neuritis and is renally cleared.\n\nPyrazinamide, because it raises the serum uric acid: incorrect. Pyrazinamide causes hyperuricemia and gout, not vision loss.\n\nRifabutin, because it accumulates in the lens of the eye: incorrect. Rifabutin does not cause this optic picture."
+  },
+  {
+   "id": "miid2-w06-app-6a-q08",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Session 6A slides",
+   "stem": "A 39-year-old man with smear-positive pulmonary tuberculosis and a large cavity on chest radiograph completes a 2-month initial phase of rifampin, isoniazid, pyrazinamide and ethambutol under directly observed therapy. His isolate is fully susceptible. He feels better, but the sputum culture collected at the end of the 2 months still grows Mycobacterium tuberculosis. The team is planning his continuation phase with isoniazid and rifampin.\n\nWhich of the following is the most appropriate plan?",
+   "choices": [
+    "Stop all drugs, because a full 2-month initial phase has been completed",
+    "Continue isoniazid alone, since the organisms are now in the dormant phase",
+    "Restart the same four drugs from day 1 for another 2-month initial phase",
+    "Switch to a second-line regimen because the culture shows drug resistance",
+    "Continue isoniazid and rifampin for a longer continuation phase"
+   ],
+   "answer": 4,
+   "evidence": [],
+   "note": "**TB disease is treated with a 2-month initial phase of RIPE then isoniazid and rifampin; cavitary disease with a positive 2-month culture earns a longer continuation phase.**\n\nStandard therapy is a 2-month initial phase of four drugs followed by a 4-month continuation phase of isoniazid and rifampin, for 6 months in all. The goal of the continuation phase is durable cure, meaning no relapse after therapy stops.\n\nSome patients have a higher risk of relapse after the shorter course, and the lecture names cavitary disease plus a sputum culture still positive at 2 months as a main reason to give a longer continuation phase. His isolate is susceptible and he took his drugs under observation, so the plan is to extend isoniazid and rifampin, not to change drugs.\n\nStop all drugs, because a full 2-month initial phase has been completed: incorrect. The continuation phase is still needed to eradicate persisting organisms.\n\nContinue isoniazid alone, since the organisms are now in the dormant phase: incorrect. Single-drug therapy is never used for TB disease.\n\nRestart the same four drugs from day 1 for another 2-month initial phase: incorrect. Repeating the initial phase is not the response; the continuation phase is extended.\n\nSwitch to a second-line regimen because the culture shows drug resistance: incorrect. His isolate is fully susceptible, so there is no resistance to act on.\n\nContinue isoniazid and rifampin for a longer continuation phase: correct. Cavitary disease with a positive 2-month culture calls for a longer continuation phase."
+  },
+  {
+   "id": "miid2-w06-app-6a-q09",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Session 6A slides",
+   "stem": "A 52-year-old woman from Bangladesh has a positive interferon-gamma release assay found on employment screening. She has no symptoms, and her chest radiograph is normal. She drinks alcohol daily and has chronic hepatitis C with mildly elevated liver enzymes. She takes no other medications. Her clinician agrees that the benefits of treating her latent infection outweigh the risks and wants the regimen least likely to injure her liver.\n\nWhich regimen is most appropriate?",
+   "choices": [
+    "Isoniazid daily for 9 months",
+    "Isoniazid daily for 6 months",
+    "Rifampin daily for 4 months",
+    "Rifampin, isoniazid, pyrazinamide and ethambutol",
+    "Pyrazinamide and ethambutol for 2 months"
+   ],
+   "answer": 2,
+   "evidence": [],
+   "note": "**Preferred LTBI regimens are 3HP, 4R and 3HR; in someone at high risk of isoniazid hepatitis, rifampin alone avoids isoniazid.**\n\nLatent TB infection is treated with a single drug or two drugs. The preferred regimens are 3 months of weekly isoniazid plus rifapentine, 4 months of daily rifampin, and 3 months of daily isoniazid plus rifampin; 6 or 9 months of isoniazid alone are alternatives.\n\nIsoniazid hepatitis is the main safety concern on latent treatment, and its risk rises with age, alcohol, chronic liver disease and other liver toxins. Rifampin alone avoids isoniazid, is preferred, and is shorter. Drug interactions are the main concern with rifampin, and she takes no other medications.\n\n**LTBI regimen | Rank**\n\n- 3HP: isoniazid plus rifapentine once weekly for 3 months: Preferred\n- 4R: rifampin daily for 4 months: Preferred\n- 3HR: isoniazid plus rifampin daily for 3 months: Preferred\n- 6H or 9H: isoniazid for 6 or 9 months: Alternative\n\nIsoniazid daily for 9 months: incorrect. Nine months of isoniazid carries the most isoniazid liver exposure.\n\nIsoniazid daily for 6 months: incorrect. Six months of isoniazid still carries isoniazid hepatitis risk in a woman with liver disease and alcohol use.\n\nRifampin daily for 4 months: correct. Rifampin for 4 months is a preferred regimen that avoids isoniazid hepatitis.\n\nRifampin, isoniazid, pyrazinamide and ethambutol: incorrect. Four drugs are for TB disease, not latent infection.\n\nPyrazinamide and ethambutol for 2 months: incorrect. This is not a latent treatment regimen, and pyrazinamide is itself hepatotoxic."
+  },
+  {
+   "id": "miid2-w06-app-6a-q10",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Session 6A slides",
+   "stem": "A 31-year-old woman with multidrug-resistant pulmonary tuberculosis is started on an all-oral 6-month regimen that includes linezolid, pretomanid and a diarylquinoline. The diarylquinoline was the first drug developed and approved specifically for MDR TB. Her team orders a baseline electrocardiogram and plans repeat tracings during therapy, along with liver tests.\n\nThe diarylquinoline acts on which target, and what is the reason for the ECG monitoring?",
+   "choices": [
+    "Mycolic acid synthesis, because it can cause heart block",
+    "Bacterial RNA polymerase, because it can cause bradycardia",
+    "ATP synthase, because it can prolong the QT interval",
+    "NADH dehydrogenase, because it can cause atrial fibrillation",
+    "DNA gyrase, because it can cause ventricular hypertrophy"
+   ],
+   "answer": 2,
+   "evidence": [],
+   "note": "**Bedaquiline inhibits mycobacterial ATP synthase, is used for MDR TB, and prolongs the QT interval.**\n\nBedaquiline, a diarylquinoline, inhibits mycobacterial ATP synthase, a site of action unique to antimycobacterial agents. It was the first drug developed and approved for MDR TB and is part of the 6-month bedaquiline, linezolid and pretomanid regimen.\n\nIts toxicities in the lecture are QT prolongation, hepatotoxicity, nausea and arthralgias, so the ECG is checked before and during therapy. The other targets belong to other agents: isoniazid (mycolic acid), rifamycins (RNA polymerase), clofazimine (NADH dehydrogenase) and fluoroquinolones.\n\nMycolic acid synthesis, because it can cause heart block: incorrect. Mycolic acid synthesis is the isoniazid target.\n\nBacterial RNA polymerase, because it can cause bradycardia: incorrect. RNA polymerase is the rifamycin target.\n\nATP synthase, because it can prolong the QT interval: correct. Bedaquiline inhibits ATP synthase and prolongs the QT interval.\n\nNADH dehydrogenase, because it can cause atrial fibrillation: incorrect. NADH dehydrogenase is the clofazimine target.\n\nDNA gyrase, because it can cause ventricular hypertrophy: incorrect. DNA gyrase is the fluoroquinolone target."
+  },
+  {
+   "id": "miid2-w06-app-6a-q11",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Session 6A slides",
+   "stem": "A 44-year-old man from Peru is diagnosed with pulmonary tuberculosis after sputum smears and a nucleic acid amplification test (NAAT) are positive. The NAAT reports no rifampin resistance mutation. He starts a standard four-drug regimen. After 6 weeks his cough has improved, and a resident proposes repeating the NAAT to show that the organisms have been killed, and canceling the cultures since the diagnosis is already confirmed.\n\nWhich of the following is the best response to this plan?",
+   "choices": [
+    "Keep the cultures, which are needed for full drug susceptibility testing",
+    "Cancel the cultures, since the NAAT already excluded drug resistance",
+    "Repeat the NAAT, since a positive result will show rifampin resistance",
+    "Repeat the NAAT, since a negative result will confirm a cure",
+    "Cancel the cultures, since smears can track susceptibility"
+   ],
+   "answer": 0,
+   "evidence": [],
+   "note": "**A TB NAAT detects DNA from viable or dead organisms and only most rifampin mutations, so it is not repeated to monitor therapy and cultures are still needed for susceptibility.**\n\nThe NAAT detects mycobacterial DNA, whether the organisms are dead or alive. It can stay positive after organisms are no longer viable, so a positive NAAT should not be repeated and cannot track response to treatment.\n\nXpert MTB/RIF also detects only most rifampin resistance mutations. A result without a rifampin mutation says nothing about isoniazid or the other drugs, and molecular tests do not detect every resistance locus. That is why a positive NAAT still needs cultures: growth is required for phenotypic susceptibility testing to every drug in the regimen.\n\nKeep the cultures, which are needed for full drug susceptibility testing: correct. Cultures are still required for full susceptibility data even after a positive NAAT.\n\nCancel the cultures, since the NAAT already excluded drug resistance: incorrect. Xpert tests rifampin resistance mutations only, not resistance to the other drugs.\n\nRepeat the NAAT, since a positive result will show rifampin resistance: incorrect. A positive NAAT on therapy could reflect DNA from killed organisms, not resistance.\n\nRepeat the NAAT, since a negative result will confirm a cure: incorrect. The NAAT detects DNA from dead organisms too, so it cannot confirm cure.\n\nCancel the cultures, since smears can track susceptibility: incorrect. Smears count organisms but give no susceptibility information."
+  },
+  {
+   "id": "miid2-w06-app-6a-q12",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Session 6A slides",
+   "stem": "A 33-year-old woman with a kidney transplant on a calcineurin inhibitor for rejection prevention is diagnosed with pulmonary tuberculosis. She is started on four drugs, one of which turns her urine and tears orange. Two weeks later her calcineurin inhibitor level has fallen well below target despite unchanged dosing, and her creatinine is rising. The transplant team asks which TB drug could replace the culprit while keeping the regimen effective.\n\nWhich of the following is the best choice?",
+   "choices": [
+    "Rifabutin, a rifamycin with less effect on drug-metabolizing enzymes",
+    "Rifapentine, a longer-acting rifamycin given once weekly",
+    "Ethambutol at a higher dose to make up for the lost rifamycin",
+    "Isoniazid at a higher dose to make up for the lost rifamycin",
+    "Pyrazinamide for a full 9 months in place of the rifamycin"
+   ],
+   "answer": 0,
+   "evidence": [],
+   "note": "**Rifampin induces cytochrome P450 and P-glycoprotein and lowers levels of many drugs; rifabutin induces less and can replace it.**\n\nOrange body fluids identify rifampin. Rifampin inhibits bacterial RNA polymerase (encoded by *rpoB*) and is the most important first-line drug, but it strongly induces hepatic cytochrome P450 enzymes and P-glycoprotein transport. That lowers the levels of many co-administered drugs, here her calcineurin inhibitor, which threatens her graft.\n\nThe lecture's solution is rifabutin, which has less enzyme-inducing effect and can replace rifampin, so she keeps the benefit of a rifamycin. Rifapentine is still a rifamycin inducer, and dropping the rifamycin class entirely would weaken the regimen and lengthen therapy.\n\nRifabutin, a rifamycin with less effect on drug-metabolizing enzymes: correct. Rifabutin keeps rifamycin activity with less enzyme induction.\n\nRifapentine, a longer-acting rifamycin given once weekly: incorrect. Rifapentine is also a rifamycin that induces drug metabolism.\n\nEthambutol at a higher dose to make up for the lost rifamycin: incorrect. Ethambutol is mostly static and cannot replace the most important first-line drug.\n\nIsoniazid at a higher dose to make up for the lost rifamycin: incorrect. Isoniazid is already in the regimen and cannot replace a rifamycin.\n\nPyrazinamide for a full 9 months in place of the rifamycin: incorrect. Pyrazinamide adds its benefit together with rifampin, not as a replacement for it."
+  },
+  {
+   "id": "miid2-w06-app-6a-q13",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Session 6A slides",
+   "stem": "Two patients are seen in a TB clinic on the same day. Patient 1 is an asymptomatic 25-year-old with a positive interferon-gamma release assay and a normal chest radiograph, who is started on a single drug. Patient 2 is a 50-year-old with a large right upper lobe cavity and smear-positive sputum, who is started on four drugs. A student asks why giving Patient 2 a single drug would be unsafe when it is acceptable for Patient 1.\n\nWhich of the following best explains the difference?",
+   "choices": [
+    "Single drugs cannot penetrate a cavity, but they penetrate granulomas well",
+    "Patient 2's organisms are already resistant, while Patient 1's organisms are not",
+    "Combination therapy is used in disease to reduce toxicity by allowing lower doses",
+    "A cavity holds enough organisms that resistant mutants are present before therapy",
+    "Latent organisms are replicating faster and are killed before mutations can arise"
+   ],
+   "answer": 3,
+   "evidence": [],
+   "note": "**TB disease is always treated with drug combinations because large bacillary populations contain spontaneously resistant mutants; low-burden latent infection can be treated with one or two drugs.**\n\nResistance arises from spontaneous chromosomal mutations at a low, fixed rate (around 1 in 10 million to 100 million organisms for isoniazid and 1 in 100 million to 1 billion for rifampin). A cavity can hold up to 100 billion organisms per milliliter, so mutants resistant to any one drug are almost certainly present before treatment starts. A single drug would kill the susceptible majority and select the resistant mutants.\n\nResistance to two drugs at once requires both mutations in the same organism, about 1 in 1015, so a combination regimen prevents this. In latent infection the organism count is low (under 10 million) and not actively replicating, so the risk of selecting resistance with a single drug is low.\n\nSingle drugs cannot penetrate a cavity, but they penetrate granulomas well: incorrect. Penetration is not the explanation; the size of the organism population is.\n\nPatient 2's organisms are already resistant, while Patient 1's organisms are not: incorrect. Nothing indicates Patient 2's strain is resistant; the concern is mutants within a large population.\n\nCombination therapy is used in disease to reduce toxicity by allowing lower doses: incorrect. TB regimens combine drugs to prevent resistance, not to lower doses.\n\nA cavity holds enough organisms that resistant mutants are present before therapy: correct. A huge bacillary burden contains pre-existing single-drug resistant mutants, so combination therapy is required.\n\nLatent organisms are replicating faster and are killed before mutations can arise: incorrect. Latent organisms are few and not actively replicating."
+  },
+  {
+   "id": "miid2-w06-app-6a-q14",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Session 6A slides",
+   "stem": "A 45-year-old man from Moldova presents with 3 months of cough and weight loss. He was treated for pulmonary tuberculosis 5 years ago, took his pills irregularly without observation, and stopped after 3 months when he felt better. Sputum smear is positive, and a nucleic acid amplification test detects Mycobacterium tuberculosis with a rifampin resistance mutation. Later culture-based testing shows resistance to rifampin and isoniazid and susceptibility to fluoroquinolones.\n\nWhich of the following best describes his tuberculosis?",
+   "choices": [
+    "Mono-resistant TB acquired at the time of his first infection",
+    "Multidrug-resistant TB that was most likely acquired during therapy",
+    "Extensively drug-resistant TB that was most likely acquired during therapy",
+    "Pre-extensively drug-resistant TB acquired at the time of his first infection",
+    "Drug-susceptible relapse with a false-positive molecular resistance result"
+   ],
+   "answer": 1,
+   "evidence": [],
+   "note": "**MDR TB is resistance to at least isoniazid and rifampin; irregular, unobserved prior treatment is the main setting for acquired resistance.**\n\nResistance to at least both isoniazid and rifampin defines multidrug-resistant (MDR) TB. Pre-XDR adds fluoroquinolone resistance, and extensively drug-resistant (XDR) TB adds resistance to other key drugs as well; his isolate is fluoroquinolone susceptible, so it is MDR.\n\nPrimary resistance means a person was infected with a resistant strain; secondary (acquired) resistance develops during treatment. Prior treatment that was irregular, unobserved and stopped early, now relapsing, is the classic setting for acquired resistance and one of the lecture's main reasons to worry about MDR, along with contact with an MDR case and failure to respond to standard therapy. This is why directly observed therapy is used.\n\nMono-resistant TB acquired at the time of his first infection: incorrect. He is resistant to two drugs, not one, and his history points to acquired resistance.\n\nMultidrug-resistant TB that was most likely acquired during therapy: correct. Isoniazid plus rifampin resistance is MDR, and poorly supervised prior treatment points to acquired resistance.\n\nExtensively drug-resistant TB that was most likely acquired during therapy: incorrect. XDR requires fluoroquinolone resistance plus other key drugs; his isolate is fluoroquinolone susceptible.\n\nPre-extensively drug-resistant TB acquired at the time of his first infection: incorrect. Pre-XDR requires fluoroquinolone resistance.\n\nDrug-susceptible relapse with a false-positive molecular resistance result: incorrect. Culture-based testing confirmed the resistance, so it is not a false-positive molecular result."
+  }
+ ]
+}

@@ -1,0 +1,185 @@
+{
+ "lecture_id": "miid2-w08-lec42",
+ "block": "MIID II",
+ "week": 8,
+ "lecture": "42 Pediatric HIV",
+ "contributor": "caleb",
+ "questions": [
+  {
+   "id": "miid2-w08-lec42-q01",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 42 slides",
+   "stem": "A term infant is born by vaginal delivery to a mother whose HIV infection was diagnosed only at delivery and who received no antiretroviral therapy during pregnancy. Labor was prolonged, with membranes ruptured for 14 hours. The infant is formula fed. HIV nucleic acid testing of the infant is negative at 36 hours of life and positive at 6 weeks of age.\n\nWhen was this infant most likely infected?",
+   "choices": [
+    "In utero by transplacental passage before 36 weeks",
+    "During labor and delivery",
+    "Through breastfeeding after birth",
+    "Through postnatal contact with maternal saliva",
+    "From a transfusion during the newborn period"
+   ],
+   "answer": 1,
+   "evidence": [],
+   "note": "**Most perinatal HIV transmission (about 80%) occurs during labor and delivery; in utero infection is detected by PCR within 48 hours, while intrapartum infection is PCR negative at birth and positive later.**\n\nPerinatal transmission occurs in three windows. In utero (antenatal) infection, about 20% of perinatal cases in non-breastfeeding mothers, is detectable by PCR in the first 48 hours of life. Intrapartum infection, about 80% of cases, comes from exposure to maternal blood and vaginal secretions during labor and delivery; PCR is negative at birth and becomes positive later. Breastfeeding adds a postpartum window.\n\nThis infant's negative test at 36 hours and positive test at 6 weeks, with a formula-fed infant and prolonged rupture of membranes (a listed obstetric risk factor), points to intrapartum infection. This is why most prevention focuses on the period around delivery.\n\nIn utero by transplacental passage before 36 weeks: incorrect. In utero infection would usually give a positive PCR within the first 48 hours of life.\n\nDuring labor and delivery: correct. A negative PCR in the first 48 hours that later turns positive indicates intrapartum infection.\n\nThrough breastfeeding after birth: incorrect. The infant is formula fed, so breastfeeding transmission is excluded.\n\nThrough postnatal contact with maternal saliva: incorrect. Saliva contact is not one of the three recognized windows of perinatal transmission.\n\nFrom a transfusion during the newborn period: incorrect. Nothing in the history suggests a transfusion."
+  },
+  {
+   "id": "miid2-w08-lec42-q02",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 42 slides",
+   "stem": "Four pregnant women with HIV infection are seen in a prenatal clinic at 34 weeks. All plan to formula feed.\n\nOn ART: Viral load (copies/mL): CD4 (/mm3)\nWoman 1: Yes, since conception: Undetectable: 620\nWoman 2: Yes, 10 weeks: 80: 410\nWoman 3: No: 210,000: 180\nWoman 4: Yes, since conception: Undetectable: 320\n\nWhich feature most strongly predicts the risk that Woman 3's infant will acquire HIV?",
+   "choices": [
+    "Her CD4 count",
+    "Her plan to formula feed",
+    "Her plasma viral load",
+    "Her gestational age at this visit",
+    "Her choice of antiretroviral drugs later"
+   ],
+   "answer": 2,
+   "evidence": [],
+   "note": "**Maternal viral load is the major predictor of perinatal HIV transmission; the prevention goal is an undetectable viral load throughout pregnancy and at delivery.**\n\nThe lecture lists laboratory risk factors (high maternal viral load, low maternal CD4 count) and obstetric risk factors (rupture of membranes for more than 4 hours, chorioamnionitis, invasive fetal monitoring such as scalp electrodes). Among these, maternal viral load is the major predictor of transmission.\n\nThat is why the central prevention goal is to identify women early, ensure antiretroviral treatment, and keep the viral load undetectable throughout pregnancy and at delivery. Woman 3, untreated with a viral load over 200,000, has by far the highest risk, while the suppressed women have very low risk.\n\nHer CD4 count: incorrect. A low CD4 count is a listed risk factor, but viral load is the major predictor.\n\nHer plan to formula feed: incorrect. Formula feeding eliminates breastfeeding transmission and lowers risk.\n\nHer plasma viral load: correct. Maternal viral load is the major predictor of perinatal transmission.\n\nHer gestational age at this visit: incorrect. Gestational age at a visit does not set her transmission risk.\n\nHer choice of antiretroviral drugs later: incorrect. Drug choice matters only through its effect on viral load, which is the predictor."
+  },
+  {
+   "id": "miid2-w08-lec42-q03",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 42 slides",
+   "stem": "A 5-month-old boy born to a mother with HIV is seen for a well visit. He has been formula fed since birth and completed newborn antiretroviral prophylaxis. His HIV nucleic acid tests were negative at 16 days, at 6 weeks, and again at 4 1/2 months. He is growing well, and his examination is normal.\n\nWhich of the following best describes his HIV status?",
+   "choices": [
+    "Infection is excluded",
+    "Infection cannot be excluded until an antibody test at 18 months",
+    "Infection cannot be excluded until he has three more virologic tests",
+    "He should be treated presumptively with three-drug ART",
+    "He must have a CD4 percentage measured to determine status"
+   ],
+   "answer": 0,
+   "evidence": [],
+   "note": "**In a non-breastfed infant, HIV is excluded by two or more negative virologic tests, one at 1 month or older and one at 4 months or older.**\n\nFor a non-breastfed infant, HIV infection is excluded by two or more negative virologic tests, with one obtained at 1 month of age or older and one at 4 months or older. This boy has negative tests at 6 weeks and at 4 1/2 months, which meets the definition.\n\nExclusion can also be made with two or more negative antibody tests at 6 months or older, once maternal antibody has waned, but waiting for antibody testing is not required when virologic criteria are met. CD4 values describe immune status, not whether infection is present.\n\nInfection is excluded: correct. Negative virologic tests at 1 month or later and at 4 months or later exclude infection in a non-breastfed infant.\n\nInfection cannot be excluded until an antibody test at 18 months: incorrect. Antibody testing is an alternative after 6 months, not a requirement when virologic criteria are met.\n\nInfection cannot be excluded until he has three more virologic tests: incorrect. Two qualifying negative virologic tests are sufficient.\n\nHe should be treated presumptively with three-drug ART: incorrect. He has no evidence of infection, so treatment is not indicated.\n\nHe must have a CD4 percentage measured to determine status: incorrect. CD4 percentage stages known infection and does not determine whether infection is present."
+  },
+  {
+   "id": "miid2-w08-lec42-q04",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 42 slides",
+   "stem": "A 27-year-old woman with HIV infection is seen at 35 weeks of gestation. She started antiretroviral therapy late in pregnancy and has had trouble taking it consistently. Her plasma HIV RNA at 34 weeks is 8,400 copies/mL. She is not in labor, and her membranes are intact.\n\nWhich delivery plan best reduces the infant's risk of HIV acquisition?",
+   "choices": [
+    "Induction of labor at 36 weeks with fetal scalp electrode monitoring",
+    "Planned vaginal delivery after spontaneous labor",
+    "Early artificial rupture of membranes to shorten labor",
+    "Vaginal delivery once her viral load is rechecked in labor",
+    "Scheduled cesarean delivery at 38 weeks"
+   ],
+   "answer": 4,
+   "evidence": [],
+   "note": "**Women with HIV RNA above 1,000 copies/mL or unknown viral load near delivery should have a scheduled cesarean delivery at 38 weeks.**\n\nAbout 80% of perinatal transmission happens close to or during labor and delivery, from exposure to maternal blood and genital secretions. Reducing that exposure is one of the main prevention strategies, alongside lowering maternal viral load.\n\nElective scheduled cesarean delivery at 38 weeks is recommended for women with HIV RNA above 1,000 copies/mL or an unknown viral load near the time of delivery. Rupture of membranes for more than 4 hours and invasive monitoring such as scalp electrodes are listed obstetric risk factors, so they should be avoided rather than added.\n\nInduction of labor at 36 weeks with fetal scalp electrode monitoring: incorrect. Scalp electrodes are an invasive monitoring risk factor for transmission.\n\nPlanned vaginal delivery after spontaneous labor: incorrect. With a viral load above 1,000, vaginal delivery leaves the infant exposed during labor.\n\nEarly artificial rupture of membranes to shorten labor: incorrect. Prolonged ruptured membranes increase transmission risk.\n\nVaginal delivery once her viral load is rechecked in labor: incorrect. Her viral load is already above 1,000 near delivery, which is the indication for cesarean.\n\nScheduled cesarean delivery at 38 weeks: correct. Scheduled cesarean at 38 weeks is recommended when viral load is above 1,000 copies/mL or unknown."
+  },
+  {
+   "id": "miid2-w08-lec42-q05",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 42 slides",
+   "stem": "A term boy (39 weeks) is born by vaginal delivery to a 30-year-old woman with HIV. She attended 12 prenatal visits, took ART throughout pregnancy with documented adherence, and had an undetectable viral load on every test, including at 37 weeks. She had no sexually transmitted infections, no prolonged rupture of membranes, and no chorioamnionitis. She plans to formula feed.\n\nWhich of the following is the most appropriate neonatal prophylaxis?",
+   "choices": [
+    "Zidovudine, lamivudine, and nevirapine for 6 weeks",
+    "Zidovudine, lamivudine, and raltegravir for 2 weeks",
+    "No prophylaxis, because the mother is suppressed",
+    "Lamivudine alone for 6 weeks",
+    "Zidovudine alone for 2 weeks"
+   ],
+   "answer": 4,
+   "evidence": [],
+   "note": "**Newborns with a low-risk perinatal exposure (suppressed, adherent mother with adequate care, term, formula fed) receive zidovudine alone for 2 weeks; any risk factor upgrades to longer or multidrug prophylaxis.**\n\nThe perinatal risk screen asks whether the mother had adequate HIV and prenatal care, documented adherence with at least 10 weeks of ART, sustained viral suppression, no acute HIV or complicating infections or obstetric events, no plan to breastfeed, and a newborn of 37 weeks or more. If every answer is reassuring, the exposure is low risk.\n\nLow-risk infants receive single-drug zidovudine for 2 weeks. If any one item is not met, the exposure is moderate to high risk, and the infant receives zidovudine for 4 to 6 weeks or a three-drug regimen (zidovudine, lamivudine, and nevirapine or raltegravir).\n\nZidovudine, lamivudine, and nevirapine for 6 weeks: incorrect. A three-drug regimen is reserved for moderate- to high-risk exposures.\n\nZidovudine, lamivudine, and raltegravir for 2 weeks: incorrect. A three-drug regimen is reserved for moderate- to high-risk exposures.\n\nNo prophylaxis, because the mother is suppressed: incorrect. Even low-risk exposed newborns receive post-exposure prophylaxis.\n\nLamivudine alone for 6 weeks: incorrect. Lamivudine alone is not the recommended newborn prophylaxis.\n\nZidovudine alone for 2 weeks: correct. A low-risk exposure is treated with zidovudine alone for 2 weeks."
+  },
+  {
+   "id": "miid2-w08-lec42-q06",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 42 slides",
+   "stem": "A 4-year-old girl with perinatally acquired HIV infection comes for routine immunizations. She was diagnosed late and started antiretroviral therapy 2 months ago. Her CD4 count is 280/mm3 (11%), consistent with severe immunosuppression for her age. She is due for several vaccines.\n\nWhich vaccine should be withheld at this time?",
+   "choices": [
+    "Inactivated influenza vaccine",
+    "Pneumococcal polysaccharide vaccine",
+    "Measles, mumps, and rubella vaccine",
+    "Haemophilus influenzae type b conjugate vaccine",
+    "Meningococcal conjugate vaccine"
+   ],
+   "answer": 2,
+   "evidence": [],
+   "note": "**Children with HIV receive all inactivated vaccines regardless of immune status; live MMR and varicella are withheld with severe immunosuppression, live intranasal influenza is not given, and rotavirus is given to all.**\n\nAll inactivated vaccines are safe for children with HIV regardless of immune status and are given on the standard schedule; children with HIV also need pneumococcal polysaccharide and Haemophilus influenzae type b vaccines if not given in infancy, and an early meningococcal series.\n\nLive vaccines depend on the degree of immunosuppression. MMR and varicella are recommended for children with low-level or no immunosuppression but not for those with high-level immunosuppression, as in this girl, because the attenuated virus can cause disease. Live attenuated influenza vaccine is not recommended at all, while live rotavirus vaccine is recommended for all.\n\nInactivated influenza vaccine: incorrect. Inactivated influenza vaccine is safe at any CD4 level.\n\nPneumococcal polysaccharide vaccine: incorrect. Pneumococcal polysaccharide vaccine is inactivated and is an extra vaccine recommended in HIV.\n\nMeasles, mumps, and rubella vaccine: correct. MMR is a live vaccine and is withheld in severe immunosuppression.\n\nHaemophilus influenzae type b conjugate vaccine: incorrect. Hib vaccine is inactivated and is recommended for children with HIV.\n\nMeningococcal conjugate vaccine: incorrect. Meningococcal vaccine is inactivated, and the series should start early in HIV."
+  },
+  {
+   "id": "miid2-w08-lec42-q07",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 42 slides",
+   "stem": "A 2-year-old boy is brought for evaluation. Over the past year he has had six episodes of otitis media, two pneumonias, and oral thrush that returned despite standard antifungal treatment. He has fallen from the 50th to below the 5th percentile for weight. He says only a few words, and examination shows bilateral parotid enlargement, generalized lymphadenopathy, hepatosplenomegaly, and increased tone with brisk reflexes in both legs. His mother's HIV status was never documented.\n\nHis speech delay and leg findings are most consistent with which of the following?",
+   "choices": [
+    "HIV encephalopathy",
+    "Cerebral toxoplasmosis",
+    "Cryptococcal meningitis",
+    "A cerebellar tumor",
+    "Bacterial meningitis sequelae"
+   ],
+   "answer": 0,
+   "evidence": [],
+   "note": "**Pediatric HIV presents with recurrent bacterial infections, refractory thrush, failure to thrive, parotid enlargement, and organomegaly; developmental delay and spastic diplegia suggest HIV encephalopathy.**\n\nRecurrent common bacterial infections, refractory thrush, failure to thrive, parotid enlargement, lymphadenopathy, and hepatosplenomegaly are the high-yield signs of pediatric HIV infection. Recurrent fungal infections that fail standard therapy suggest lymphocyte dysfunction.\n\nFailure to reach milestones, especially impaired expressive language, may indicate HIV encephalopathy, and spastic diplegia that resembles cerebral palsy can develop. The lecture's toddler case shows the same picture of hyperreflexia and clonus with refusal to walk, improving as treatment suppressed the virus.\n\nHIV encephalopathy: correct. Developmental delay with expressive language impairment and spastic diplegia suggest HIV encephalopathy.\n\nCerebral toxoplasmosis: incorrect. Toxoplasmosis causes focal deficits from ring-enhancing lesions, usually in older patients with reactivation.\n\nCryptococcal meningitis: incorrect. Cryptococcal meningitis presents as subacute headache and altered mental status, not developmental delay with diplegia.\n\nA cerebellar tumor: incorrect. Nothing points to a posterior fossa mass, and the findings are spastic rather than cerebellar.\n\nBacterial meningitis sequelae: incorrect. No history of meningitis is given, and the full picture fits untreated HIV."
+  },
+  {
+   "id": "miid2-w08-lec42-q08",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 42 slides",
+   "stem": "A 29-year-old woman with HIV has taken antiretroviral therapy since before conception and has had an undetectable viral load throughout pregnancy. She delivers a healthy term infant. She tells the team that breastfeeding is important to her family and asks what the current U.S. recommendation is.\n\nWhich of the following best reflects current guidance?",
+   "choices": [
+    "Breastfeeding is prohibited for all people with HIV",
+    "Breastfeeding carries no risk when the viral load is undetectable",
+    "Shared decision-making, noting risk below 1% but not zero",
+    "Breastfeed only after the infant's 6-month antibody test is negative",
+    "Breastfeeding is allowed only if the infant takes no prophylaxis"
+   ],
+   "answer": 2,
+   "evidence": [],
+   "note": "**Current U.S. guidance (2023) supports shared decision-making on infant feeding: formula eliminates risk, while breastfeeding with sustained maternal suppression carries a risk below 1% but not zero.**\n\nFrom 1990 to 2023 the U.S. standard was to avoid breastfeeding, unlike many low- and middle-income countries where formula access and safe water are limited. Guidance updated in January 2023 now calls for evidence-based, patient-centered counseling and shared decision-making about infant feeding, starting before conception or early in pregnancy and revisited after delivery.\n\nFormula feeding eliminates the risk of transmission. With maternal viral suppression maintained on ART, breastfeeding transmission falls below 1% but is not zero, estimated at about 0.3% at 6 months and 0.6% at 12 months of exclusive breastfeeding. The team should support whichever informed plan she chooses.\n\nBreastfeeding is prohibited for all people with HIV: incorrect. Avoidance was the old standard; current guidance supports shared decision-making.\n\nBreastfeeding carries no risk when the viral load is undetectable: incorrect. With suppression the risk is below 1% but not zero.\n\nShared decision-making, noting risk below 1% but not zero: correct. Shared decision-making with counseling that suppression lowers risk below 1% but not to zero.\n\nBreastfeed only after the infant's 6-month antibody test is negative: incorrect. Antibody tests are unreliable in infants, and feeding decisions cannot wait 6 months.\n\nBreastfeeding is allowed only if the infant takes no prophylaxis: incorrect. Infant prophylaxis is still given; it is not a reason to forbid breastfeeding."
+  },
+  {
+   "id": "miid2-w08-lec42-q09",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 42 slides",
+   "stem": "A 3-month-old girl is seen for follow-up. Her mother has HIV infection, was virally suppressed throughout pregnancy, and formula feeds. The infant received zidovudine for 2 weeks after birth and is thriving. A rapid HIV antibody test performed on the infant in the emergency department during a minor illness is reactive. HIV nucleic acid tests at 18 days and at 6 weeks were both negative.\n\nWhich of the following best explains the reactive antibody test?",
+   "choices": [
+    "She has acute HIV infection",
+    "Maternal IgG crossed the placenta",
+    "She made antibodies after zidovudine exposure",
+    "Breast milk antibodies were absorbed",
+    "Infant IgM against HIV is being produced"
+   ],
+   "answer": 1,
+   "evidence": [],
+   "note": "**Maternal IgG makes all HIV-exposed infants antibody positive for months, so infants under 18 months are diagnosed with virologic nucleic acid tests, not antibody tests.**\n\nMaternal IgG antibodies, including antibodies against HIV, cross the placenta, so every infant born to a mother with HIV is antibody positive at birth regardless of infection status, and these antibodies can persist for many months. That is why antibody tests cannot diagnose HIV in perinatally exposed infants younger than 18 months.\n\nDiagnosis in this age group requires virologic assays (HIV nucleic acid tests that detect HIV RNA or DNA), recommended at 14 to 21 days, 1 to 2 months, and 4 to 6 months, with extra tests for high-risk infants. Her two negative NATs are reassuring; the reactive antibody test reflects her mother's IgG.\n\nShe has acute HIV infection: incorrect. Two negative virologic tests make infection unlikely; antibody tests cannot diagnose infection at this age.\n\nMaternal IgG crossed the placenta: correct. Transplacental maternal IgG makes exposed infants antibody positive for months.\n\nShe made antibodies after zidovudine exposure: incorrect. Antiretroviral drugs do not provoke HIV antibodies.\n\nBreast milk antibodies were absorbed: incorrect. She is formula fed, and maternal IgG from the placenta explains the result.\n\nInfant IgM against HIV is being produced: incorrect. IgM does not cross the placenta, and the infant has no evidence of infection."
+  },
+  {
+   "id": "miid2-w08-lec42-q10",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 42 slides",
+   "stem": "A 20-year-old woman with no prenatal care arrives in active labor at 39 weeks. Her HIV status is unknown, and an expedited HIV test is reactive. Supplemental confirmatory testing will take more than a day. She had planned to breastfeed. She delivers a healthy term girl by cesarean.\n\nWhich of the following is the most appropriate plan for the newborn?",
+   "choices": [
+    "Await confirmatory maternal testing before giving the infant any medication",
+    "Start zidovudine alone for 2 weeks and allow breastfeeding",
+    "Test the infant for HIV antibody at 18 months before deciding",
+    "Start three-drug ART within 6 hours and hold breastfeeding",
+    "Give a single dose of nevirapine and test the infant at 6 months"
+   ],
+   "answer": 3,
+   "evidence": [],
+   "note": "**With a preliminary positive HIV screen in labor, presume infection: maternal ART and IV zidovudine, hold breastfeeding, infant three-drug ART within 6 hours, and infant NAT at birth.**\n\nA reactive HIV screen during labor requires immediate action: until supplemental testing is conclusive, the mother is presumed to have HIV, and the perinatal prevention cascade is started. For the mother, this means oral ART and intravenous zidovudine around delivery.\n\nAn untreated mother with possible recent infection makes this a high-risk exposure, so the infant should start a three-drug regimen (zidovudine, lamivudine, and nevirapine or raltegravir) within 6 hours of delivery, breastfeeding should be held, and virologic testing (HIV RNA or DNA nucleic acid tests) should be sent at birth. Single-drug zidovudine for 2 weeks is reserved for low-risk exposures.\n\nAwait confirmatory maternal testing before giving the infant any medication: incorrect. Waiting loses the protective window; the mother is presumed positive until confirmed otherwise.\n\nStart zidovudine alone for 2 weeks and allow breastfeeding: incorrect. Zidovudine alone is for low-risk exposures, and breastfeeding should be held here.\n\nTest the infant for HIV antibody at 18 months before deciding: incorrect. Antibody tests cannot be used to diagnose exposed infants, and decisions are needed now.\n\nStart three-drug ART within 6 hours and hold breastfeeding: correct. A high-risk exposure calls for infant three-drug ART within 6 hours, holding breastfeeding, and NAT at birth.\n\nGive a single dose of nevirapine and test the infant at 6 months: incorrect. This is not the regimen the lecture recommends, and testing must begin at birth."
+  },
+  {
+   "id": "miid2-w08-lec42-q11",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 42 slides",
+   "stem": "An 11-month-old boy with perinatally acquired HIV infection is evaluated after recurrent ear infections and thrush that responded poorly to standard treatment. His CD4 results are below. A parent notes that the count \"looks normal for an adult.\"\n\nAbsolute CD4 count: 700/mm3\nCD4 percentage: 20%\n\nWhich of the following best describes his immune status?",
+   "choices": [
+    "Normal, because the absolute count is above 500/mm3",
+    "Mild suppression, because the absolute count is near the adult range",
+    "Unable to judge until he turns 6 years old",
+    "Severe suppression, judged by age-specific cutoffs",
+    "Mild suppression, because the CD4 percentage is above 14%"
+   ],
+   "answer": 3,
+   "evidence": [],
+   "note": "**Young children have higher absolute CD4 counts, so pediatric HIV is staged with age-specific values and often by CD4 percentage, which varies less with age.**\n\nAbsolute CD4 counts are much higher in young children than in adults and vary with age, so adult cutoffs do not apply below age 6. The CD4 percentage varies less with age, which is why it is often used in pediatric HIV management, and staging uses age-specific values.\n\nFor an infant under 1 year, stage 3 (severe immunosuppression) is a count below 750 or a percentage below 26%. His count of 700 would be normal for an adult, and his percentage of 20% would be stage 2 for a child 6 or older, but by the infant cutoffs both values are stage 3, which matches his recurrent bacterial infections and refractory thrush.\n\n**Stage | Under 1 year | 1 to under 6 years | 6 years and older**\n\n- 1: 1,500 or more; 34% or more; 1,000 or more; 30% or more; 500 or more; 26% or more\n- 2: 750 to 1,499; 26 to 33%; 500 to 999; 22 to 29%; 200 to 499; 14 to 25%\n- 3: Under 750; under 26%; Under 500; under 22%; Under 200; under 14%\n\nNormal, because the absolute count is above 500/mm3: incorrect. Adult cutoffs do not apply; young children normally have much higher absolute counts.\n\nMild suppression, because the absolute count is near the adult range: incorrect. Infant cutoffs are much higher than adult ones, and both of his values fall in the severe range.\n\nUnable to judge until he turns 6 years old: incorrect. Age-specific staging exists for children under 6, so his status can be judged now.\n\nSevere suppression, judged by age-specific cutoffs: correct. Under 1 year, a count below 750 and a percentage below 26% indicate severe immunosuppression.\n\nMild suppression, because the CD4 percentage is above 14%: incorrect. The 14% cutoff applies to children 6 and older; under 1 year, below 26% is severe."
+  }
+ ]
+}
