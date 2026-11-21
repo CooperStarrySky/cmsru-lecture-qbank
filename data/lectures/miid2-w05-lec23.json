@@ -19,7 +19,27 @@
    ],
    "answer": 0,
    "evidence": [],
-   "note": "**Viridans streptococci cause subacute endocarditis on damaged valves after dental procedures because their dextrans bind fibrin-platelet aggregates.**\n\nAlpha-hemolytic, catalase-negative streptococci in chains that are optochin resistant belong to the viridans group (for example S. mutans and S. mitis), which live in the mouth. A dental extraction lets them into the bloodstream, and a subacute course on an abnormal valve is their classic picture.\n\nViridans streptococci make dextrans from glucose. Dextran lets them stick to the fibrin-platelet aggregates that build up on damaged valves, which is why they are the most common cause of subacute bacterial endocarditis after dental work.\n\nSynthesis of dextrans from glucose that bind fibrin-platelet aggregates: correct. Dextran synthesis lets viridans streptococci adhere to fibrin-platelet clots on damaged valves.\n\nA polysaccharide capsule that blocks phagocytosis in the bloodstream: incorrect. An essential polysaccharide capsule is the key virulence factor of S. pneumoniae, which is optochin sensitive.\n\nSuperantigen release that activates large numbers of T cells nonspecifically: incorrect. Superantigens (SpeA, SpeB, TSST-1) belong to S. pyogenes and S. aureus and cause toxic shock, not valve adherence.\n\nCoagulase production that converts fibrinogen to a protective fibrin coat: incorrect. Coagulase is a feature of S. aureus, a catalase-positive cluster-forming coccus.\n\nBiofilm slime made of polysaccharide intercellular adhesin on devices: incorrect. Polysaccharide intercellular adhesin is the biofilm slime of S. epidermidis on catheters and prostheses."
+   "explain": {
+    "html": "<p>Alpha-hemolytic, catalase-negative streptococci in chains that are optochin resistant belong to the viridans group (for example S. mutans and S. mitis), which live in the mouth. A dental extraction lets them into the bloodstream, and a subacute course on an abnormal valve is their classic picture.</p><p>Viridans streptococci make dextrans from glucose. Dextran lets them stick to the fibrin-platelet aggregates that build up on damaged valves, which is why they are the most common cause of subacute bacterial endocarditis after dental work.</p>",
+    "table": null,
+    "why": [
+     "",
+     "An essential polysaccharide capsule is the key virulence factor of S. pneumoniae, which is optochin sensitive.",
+     "Superantigens (SpeA, SpeB, TSST-1) belong to S. pyogenes and S. aureus and cause toxic shock, not valve adherence.",
+     "Coagulase is a feature of S. aureus, a catalase-positive cluster-forming coccus.",
+     "Polysaccharide intercellular adhesin is the biofilm slime of S. epidermidis on catheters and prostheses."
+    ],
+    "takeaway": "Viridans streptococci cause subacute endocarditis on damaged valves after dental procedures because their dextrans bind fibrin-platelet aggregates.",
+    "topic": "Viridans streptococci and endocarditis",
+    "subject": "Microbiology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w05-lec23/slide_16.jpg",
+     "slide": 16,
+     "caption": "Lecture 23 slides (2025-26) · Page 16"
+    }
+   ]
   },
   {
    "id": "miid2-w05-lec23-q02",
@@ -35,7 +55,27 @@
    ],
    "answer": 3,
    "evidence": [],
-   "note": "**Enterococci grow in 6.5% NaCl and bile; E. faecium does not grow on mannitol salt agar and is usually the vancomycin-resistant species.**\n\nGrowth in 6.5% NaCl and bile tolerance identify an enterococcus, a hardy gut organism that persists on hospital surfaces and causes catheter-associated urinary infections, peritonitis, wound infections, and bacteremia.\n\nThe two human species are told apart here by mannitol salt agar, on which E. faecalis grows and E. faecium does not, and by vancomycin. E. faecalis is more common overall, but E. faecium is usually the vancomycin-resistant species (VRE) and is one of the ESKAPE pathogens.\n\nEnterococcus faecalis: incorrect. E. faecalis grows on mannitol salt agar and is less often vancomycin resistant.\n\nStreptococcus bovis group: incorrect. S. bovis group does not grow in 6.5% NaCl.\n\nStaphylococcus saprophyticus: incorrect. S. saprophyticus is a catalase-positive staphylococcus that causes urinary infections in young women.\n\nEnterococcus faecium: correct. A salt-tolerant enterococcus that fails on mannitol salt agar and resists vancomycin is E. faecium.\n\nStreptococcus agalactiae: incorrect. S. agalactiae is beta hemolytic and does not grow in 6.5% NaCl."
+   "explain": {
+    "html": "<p>Growth in 6.5% NaCl and bile tolerance identify an enterococcus, a hardy gut organism that persists on hospital surfaces and causes catheter-associated urinary infections, peritonitis, wound infections, and bacteremia.</p><p>The two human species are told apart here by mannitol salt agar, on which E. faecalis grows and E. faecium does not, and by vancomycin. E. faecalis is more common overall, but E. faecium is usually the vancomycin-resistant species (VRE) and is one of the ESKAPE pathogens.</p>",
+    "table": null,
+    "why": [
+     "E. faecalis grows on mannitol salt agar and is less often vancomycin resistant.",
+     "S. bovis group does not grow in 6.5% NaCl.",
+     "S. saprophyticus is a catalase-positive staphylococcus that causes urinary infections in young women.",
+     "",
+     "S. agalactiae is beta hemolytic and does not grow in 6.5% NaCl."
+    ],
+    "takeaway": "Enterococci grow in 6.5% NaCl and bile; E. faecium does not grow on mannitol salt agar and is usually the vancomycin-resistant species.",
+    "topic": "Enterococcus faecium and vancomycin resistance",
+    "subject": "Microbiology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w05-lec23/slide_23.jpg",
+     "slide": 23,
+     "caption": "Lecture 23 slides (2025-26) · Page 23"
+    }
+   ]
   },
   {
    "id": "miid2-w05-lec23-q03",
@@ -51,7 +91,27 @@
    ],
    "answer": 2,
    "evidence": [],
-   "note": "**Among swarming, urease-positive Proteus species, indole production identifies P. vulgaris and separates it from the common urinary pathogen P. mirabilis.**\n\nSwarming motility, hydrogen sulfide and urease place both isolates in the genus Proteus. Indole is the test the lecture uses to separate the two species: P. vulgaris produces indole and P. mirabilis does not.\n\nP. mirabilis is the second most common bacterial cause of urinary tract infection and is usually sensitive to ampicillin and cephalosporins, while P. vulgaris is isolated less often, generally infects immunosuppressed patients, and is not reliably sensitive to those drugs.\n\nIsolate 1 is P. vulgaris, the usual cause of community cystitis: incorrect. P. vulgaris is indole positive and is not the usual community urinary pathogen.\n\nIsolate 2 is P. mirabilis, which typically spares healthy hosts: incorrect. P. mirabilis is indole negative and commonly infects otherwise healthy people.\n\nIsolate 1 is P. mirabilis and is usually sensitive to ampicillin: correct. The indole-negative isolate is P. mirabilis, usually sensitive to ampicillin and cephalosporins.\n\nBoth isolates are Salmonella serovars separated by indole: incorrect. Salmonella makes hydrogen sulfide but does not swarm and is urease negative.\n\nIndole production distinguishes Proteus from Pseudomonas species: incorrect. Pseudomonas is oxidase positive, so oxidase, not indole, separates it from Proteus."
+   "explain": {
+    "html": "<p>Swarming motility, hydrogen sulfide and urease place both isolates in the genus Proteus. Indole is the test the lecture uses to separate the two species: P. vulgaris produces indole and P. mirabilis does not.</p><p>P. mirabilis is the second most common bacterial cause of urinary tract infection and is usually sensitive to ampicillin and cephalosporins, while P. vulgaris is isolated less often, generally infects immunosuppressed patients, and is not reliably sensitive to those drugs.</p>",
+    "table": null,
+    "why": [
+     "P. vulgaris is indole positive and is not the usual community urinary pathogen.",
+     "P. mirabilis is indole negative and commonly infects otherwise healthy people.",
+     "",
+     "Salmonella makes hydrogen sulfide but does not swarm and is urease negative.",
+     "Pseudomonas is oxidase positive, so oxidase, not indole, separates it from Proteus."
+    ],
+    "takeaway": "Among swarming, urease-positive Proteus species, indole production identifies P. vulgaris and separates it from the common urinary pathogen P. mirabilis.",
+    "topic": "Distinguishing Proteus species",
+    "subject": "Microbiology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w05-lec23/file2_p21.jpg",
+     "slide": 21,
+     "caption": "Lecture 23 Bacteria References (2025-26) · Page 21"
+    }
+   ]
   },
   {
    "id": "miid2-w05-lec23-q04",
@@ -67,7 +127,27 @@
    ],
    "answer": 0,
    "evidence": [],
-   "note": "**Salmonella is motile and produces hydrogen sulfide (black colonies on Hektoen agar), which separates it from non-motile, hydrogen sulfide-negative Shigella.**\n\nPoultry and eggs, an incubation of roughly 24 to 48 hours, and fever with cramping diarrhea fit Salmonella gastroenteritis. Both Salmonella and Shigella are non-lactose-fermenting, oxidase-negative Gram-negative rods, so those features cannot separate them.\n\nSalmonella produces hydrogen sulfide, which precipitates as black colonies on Hektoen enteric agar, and it is motile. Shigella makes no hydrogen sulfide and is non-motile. Most Salmonella gastroenteritis is treated supportively.\n\n**Salmonella | Shigella**\n\n- Motility: Motile; Non-motile\n- Hydrogen sulfide: Produced; Not produced\n- Lactose: Not fermented; Not fermented\n\nHydrogen sulfide production: correct. Hydrogen sulfide, seen as black colonies, separates Salmonella from Shigella.\n\nOxidase activity: incorrect. Both organisms are oxidase negative, so this does not distinguish them.\n\nLactose fermentation: incorrect. Neither organism ferments lactose.\n\nGrowth in 6.5% salt: incorrect. Salt tolerance is used for enterococci, not for enteric Gram-negative rods.\n\nUrease production: incorrect. Urease is a feature of Proteus and Helicobacter, not of Salmonella."
+   "explain": {
+    "html": "<p>Poultry and eggs, an incubation of roughly 24 to 48 hours, and fever with cramping diarrhea fit Salmonella gastroenteritis. Both Salmonella and Shigella are non-lactose-fermenting, oxidase-negative Gram-negative rods, so those features cannot separate them.</p><p>Salmonella produces hydrogen sulfide, which precipitates as black colonies on Hektoen enteric agar, and it is motile. Shigella makes no hydrogen sulfide and is non-motile. Most Salmonella gastroenteritis is treated supportively.</p>",
+    "table": "<table><tr><th></th><th>Salmonella</th><th>Shigella</th></tr><tr><td>Motility</td><td>Motile</td><td>Non-motile</td></tr><tr><td>Hydrogen sulfide</td><td>Produced</td><td>Not produced</td></tr><tr><td>Lactose</td><td>Not fermented</td><td>Not fermented</td></tr></table>",
+    "why": [
+     "",
+     "Both organisms are oxidase negative, so this does not distinguish them.",
+     "Neither organism ferments lactose.",
+     "Salt tolerance is used for enterococci, not for enteric Gram-negative rods.",
+     "Urease is a feature of Proteus and Helicobacter, not of Salmonella."
+    ],
+    "takeaway": "Salmonella is motile and produces hydrogen sulfide (black colonies on Hektoen agar), which separates it from non-motile, hydrogen sulfide-negative Shigella.",
+    "topic": "Salmonella laboratory identification",
+    "subject": "Microbiology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w05-lec23/slide_49.jpg",
+     "slide": 49,
+     "caption": "Lecture 23 slides (2025-26) · Page 49"
+    }
+   ]
   },
   {
    "id": "miid2-w05-lec23-q05",
@@ -83,7 +163,27 @@
    ],
    "answer": 4,
    "evidence": [],
-   "note": "**Mycoplasma pneumoniae produces the ADP-ribosylating CARDS toxin, which damages ciliated respiratory epithelium and causes cough and airway dysfunction.**\n\nA small bacterium without a cell wall that attaches to cilia through a terminal organelle is Mycoplasma pneumoniae, and its ADP-ribosylating toxin is the community-acquired respiratory distress syndrome (CARDS) toxin.\n\nCARDS toxin interferes with ciliary action and causes nuclear vacuolization and fragmentation of tracheal epithelial cells, leading to inflammation and desquamation of the mucosa. Clinically that is a tracheobronchitis with a persistent, minimally productive cough and airway dysfunction.\n\nMassive watery diarrhea with fluid and electrolyte loss: incorrect. Watery diarrhea from fluid loss is caused by cholera toxin.\n\nSpastic paralysis beginning in the masseter muscles: incorrect. Spastic paralysis starting with trismus is caused by tetanus toxin.\n\nA necrotic black skin lesion at the inoculation site: incorrect. A black necrotic eschar is cutaneous anthrax.\n\nPseudomembrane formation over the tonsils and pharynx: incorrect. A pharyngeal pseudomembrane is produced by diphtheria toxin from Corynebacterium diphtheriae.\n\nPersistent cough with inflammation and airway dysfunction: correct. CARDS toxin damages ciliated airway epithelium, producing inflammation, cough, and airway dysfunction."
+   "explain": {
+    "html": "<p>A small bacterium without a cell wall that attaches to cilia through a terminal organelle is Mycoplasma pneumoniae, and its ADP-ribosylating toxin is the community-acquired respiratory distress syndrome (CARDS) toxin.</p><p>CARDS toxin interferes with ciliary action and causes nuclear vacuolization and fragmentation of tracheal epithelial cells, leading to inflammation and desquamation of the mucosa. Clinically that is a tracheobronchitis with a persistent, minimally productive cough and airway dysfunction.</p>",
+    "table": null,
+    "why": [
+     "Watery diarrhea from fluid loss is caused by cholera toxin.",
+     "Spastic paralysis starting with trismus is caused by tetanus toxin.",
+     "A black necrotic eschar is cutaneous anthrax.",
+     "A pharyngeal pseudomembrane is produced by diphtheria toxin from Corynebacterium diphtheriae.",
+     ""
+    ],
+    "takeaway": "Mycoplasma pneumoniae produces the ADP-ribosylating CARDS toxin, which damages ciliated respiratory epithelium and causes cough and airway dysfunction.",
+    "topic": "Mycoplasma CARDS toxin",
+    "subject": "Microbiology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w05-lec23/file1_p40.jpg",
+     "slide": 40,
+     "caption": "Lecture 23 23 Introduction to Bacterial Pathogens Syllabus (2025-26) · Page 40"
+    }
+   ]
   },
   {
    "id": "miid2-w05-lec23-q06",
@@ -99,7 +199,27 @@
    ],
    "answer": 0,
    "evidence": [],
-   "note": "**Optochin-sensitive, lancet-shaped alpha-hemolytic diplococci are S. pneumoniae, whose polysaccharide capsule is the essential virulence factor.**\n\nLancet-shaped, catalase-negative, alpha-hemolytic diplococci that are optochin sensitive are Streptococcus pneumoniae, the most frequent cause of pneumonia and a common cause of otitis media, sinusitis, bacteremia and meningitis.\n\nIts polysaccharide capsule is the essential virulence factor, blocking phagocytosis; the one exception taught here is conjunctivitis, caused by unencapsulated strains. The capsular polysaccharides also form the basis of the two available vaccine types.\n\nPolysaccharide capsule: correct. The polysaccharide capsule is the essential virulence factor of S. pneumoniae.\n\nLipopolysaccharide endotoxin: incorrect. Lipopolysaccharide is in the outer membrane of Gram-negative bacteria, which this is not.\n\nProtein A on the cell surface: incorrect. Protein A is a surface protein of S. aureus.\n\nStreptolysin O: incorrect. Streptolysin O is a hemolysin of S. pyogenes, which is beta hemolytic and bacitracin sensitive.\n\nLipoteichoic acid anchoring: incorrect. Lipoteichoic acid anchors wall components in Gram-positives generally and is not the key virulence factor here."
+   "explain": {
+    "html": "<p>Lancet-shaped, catalase-negative, alpha-hemolytic diplococci that are optochin sensitive are Streptococcus pneumoniae, the most frequent cause of pneumonia and a common cause of otitis media, sinusitis, bacteremia and meningitis.</p><p>Its polysaccharide capsule is the essential virulence factor, blocking phagocytosis; the one exception taught here is conjunctivitis, caused by unencapsulated strains. The capsular polysaccharides also form the basis of the two available vaccine types.</p>",
+    "table": null,
+    "why": [
+     "",
+     "Lipopolysaccharide is in the outer membrane of Gram-negative bacteria, which this is not.",
+     "Protein A is a surface protein of S. aureus.",
+     "Streptolysin O is a hemolysin of S. pyogenes, which is beta hemolytic and bacitracin sensitive.",
+     "Lipoteichoic acid anchors wall components in Gram-positives generally and is not the key virulence factor here."
+    ],
+    "takeaway": "Optochin-sensitive, lancet-shaped alpha-hemolytic diplococci are S. pneumoniae, whose polysaccharide capsule is the essential virulence factor.",
+    "topic": "Streptococcus pneumoniae identification",
+    "subject": "Microbiology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w05-lec23/slide_17.jpg",
+     "slide": 17,
+     "caption": "Lecture 23 slides (2025-26) · Page 17"
+    }
+   ]
   },
   {
    "id": "miid2-w05-lec23-q07",
@@ -115,7 +235,27 @@
    ],
    "answer": 4,
    "evidence": [],
-   "note": "**A bacitracin-resistant beta-hemolytic streptococcus in a septic newborn is group B Streptococcus, acquired from maternal genital and gastrointestinal colonization.**\n\nBeta-hemolytic streptococci split by bacitracin: S. pyogenes (group A) is sensitive and S. agalactiae (group B) is resistant. A bacitracin-resistant beta-hemolytic streptococcus causing sepsis and meningitis in a newborn is group B Streptococcus.\n\nGroup B Streptococcus is part of the normal gastrointestinal and urogenital flora, and a sizable fraction of women carry it in the vagina. The newborn acquires it from the mother around delivery, which is why it is a leading cause of neonatal sepsis, pneumonia, and meningitis.\n\n**Beta-hemolytic streptococcus | Bacitracin | Classic setting**\n\n- S. pyogenes (group A): Sensitive; Pharyngitis, cellulitis, necrotizing fasciitis\n- S. agalactiae (group B): Resistant; Neonatal sepsis, pneumonia, meningitis\n\nRespiratory droplets from a household contact with strep throat: incorrect. Strep throat is caused by group A Streptococcus, which is bacitracin sensitive.\n\nSkin flora of the nursery staff entering through the umbilical stump: incorrect. Skin flora suggests staphylococci, which are catalase positive and grow in clusters.\n\nOral flora introduced into the bloodstream during a feeding: incorrect. Oral viridans streptococci are alpha hemolytic and cause endocarditis, not neonatal sepsis.\n\nContaminated soft cheese eaten by the mother during pregnancy: incorrect. Soft cheese in pregnancy points to Listeria, a Gram-positive rod that is catalase positive.\n\nColonization of the mother's vaginal and gastrointestinal tract: correct. Group B Streptococcus colonizes the maternal genital and gastrointestinal tract and is passed to the newborn at birth."
+   "explain": {
+    "html": "<p>Beta-hemolytic streptococci split by bacitracin: S. pyogenes (group A) is sensitive and S. agalactiae (group B) is resistant. A bacitracin-resistant beta-hemolytic streptococcus causing sepsis and meningitis in a newborn is group B Streptococcus.</p><p>Group B Streptococcus is part of the normal gastrointestinal and urogenital flora, and a sizable fraction of women carry it in the vagina. The newborn acquires it from the mother around delivery, which is why it is a leading cause of neonatal sepsis, pneumonia, and meningitis.</p>",
+    "table": "<table><tr><th>Beta-hemolytic streptococcus</th><th>Bacitracin</th><th>Classic setting</th></tr><tr><td>S. pyogenes (group A)</td><td>Sensitive</td><td>Pharyngitis, cellulitis, necrotizing fasciitis</td></tr><tr><td>S. agalactiae (group B)</td><td>Resistant</td><td>Neonatal sepsis, pneumonia, meningitis</td></tr></table>",
+    "why": [
+     "Strep throat is caused by group A Streptococcus, which is bacitracin sensitive.",
+     "Skin flora suggests staphylococci, which are catalase positive and grow in clusters.",
+     "Oral viridans streptococci are alpha hemolytic and cause endocarditis, not neonatal sepsis.",
+     "Soft cheese in pregnancy points to Listeria, a Gram-positive rod that is catalase positive.",
+     ""
+    ],
+    "takeaway": "A bacitracin-resistant beta-hemolytic streptococcus in a septic newborn is group B Streptococcus, acquired from maternal genital and gastrointestinal colonization.",
+    "topic": "Group B Streptococcus in neonates",
+    "subject": "Microbiology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w05-lec23/slide_18.jpg",
+     "slide": 18,
+     "caption": "Lecture 23 slides (2025-26) · Page 18"
+    }
+   ]
   },
   {
    "id": "miid2-w05-lec23-q08",
@@ -131,7 +271,27 @@
    ],
    "answer": 2,
    "evidence": [],
-   "note": "**Group D streptococci that do not grow in 6.5% NaCl are the S. bovis group, whose bacteremia or endocarditis is associated with colorectal cancer.**\n\nGroup D, non-hemolytic, catalase-negative cocci split by salt tolerance: enterococci grow in 6.5% NaCl, while the S. bovis group does not. Failure to grow in high salt identifies the S. bovis group, a gut commensal that causes bacteremia and endocarditis, often on multiple valves.\n\nFecal carriage of S. bovis group organisms is strongly associated with colorectal cancer, so bacteremia or endocarditis with this organism should prompt a search of the colon.\n\nDental examination for caries and recent extractions: incorrect. Dental sources fit viridans streptococci, which are alpha hemolytic and lack the group D antigen.\n\nUrine culture for a catheter-associated infection: incorrect. Catheter-associated urinary infection fits enterococci, which grow in 6.5% NaCl.\n\nColonoscopy to look for a colorectal malignancy: correct. S. bovis group bacteremia is linked to colorectal cancer, so the colon should be examined.\n\nChest imaging to look for a lobar pneumonia: incorrect. Lobar pneumonia points to S. pneumoniae, an optochin-sensitive alpha-hemolytic diplococcus.\n\nEchocardiography of the newborn's family members: incorrect. Screening family members has no role; S. bovis group is a commensal of the patient's own gut."
+   "explain": {
+    "html": "<p>Group D, non-hemolytic, catalase-negative cocci split by salt tolerance: enterococci grow in 6.5% NaCl, while the S. bovis group does not. Failure to grow in high salt identifies the S. bovis group, a gut commensal that causes bacteremia and endocarditis, often on multiple valves.</p><p>Fecal carriage of S. bovis group organisms is strongly associated with colorectal cancer, so bacteremia or endocarditis with this organism should prompt a search of the colon.</p>",
+    "table": null,
+    "why": [
+     "Dental sources fit viridans streptococci, which are alpha hemolytic and lack the group D antigen.",
+     "Catheter-associated urinary infection fits enterococci, which grow in 6.5% NaCl.",
+     "",
+     "Lobar pneumonia points to S. pneumoniae, an optochin-sensitive alpha-hemolytic diplococcus.",
+     "Screening family members has no role; S. bovis group is a commensal of the patient's own gut."
+    ],
+    "takeaway": "Group D streptococci that do not grow in 6.5% NaCl are the S. bovis group, whose bacteremia or endocarditis is associated with colorectal cancer.",
+    "topic": "Group D streptococci versus enterococci",
+    "subject": "Microbiology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w05-lec23/slide_22.jpg",
+     "slide": 22,
+     "caption": "Lecture 23 slides (2025-26) · Page 22"
+    }
+   ]
   },
   {
    "id": "miid2-w05-lec23-q09",
@@ -147,7 +307,27 @@
    ],
    "answer": 0,
    "evidence": [],
-   "note": "**Proteus species are swarming, hydrogen sulfide-producing, urease-positive rods whose urease alkalinizes urine and causes struvite stones.**\n\nA non-lactose-fermenting, oxidase-negative Gram-negative rod that produces hydrogen sulfide and swarms over the plate is Proteus. P. mirabilis is a leading cause of urinary tract infection after E. coli.\n\nProteus makes a very potent urease, which splits urea into ammonia and carbon dioxide. The ammonia alkalinizes the urine, giving the high pH and ammoniacal odor, and alkaline urine precipitates struvite, which forms the large branching stones seen here.\n\nUrease: correct. Urease splits urea into ammonia, alkalinizing urine and precipitating struvite stones.\n\nCatalase: incorrect. Catalase breaks down hydrogen peroxide and does not change urine pH.\n\nCoagulase: incorrect. Coagulase clots plasma and is a marker of S. aureus.\n\nHyaluronidase: incorrect. Hyaluronidase spreads bacteria through connective tissue and does not alter urine chemistry.\n\nBeta-lactamase: incorrect. Beta-lactamase destroys beta-lactam antibiotics but has no role in stone formation."
+   "explain": {
+    "html": "<p>A non-lactose-fermenting, oxidase-negative Gram-negative rod that produces hydrogen sulfide and swarms over the plate is Proteus. P. mirabilis is a leading cause of urinary tract infection after E. coli.</p><p>Proteus makes a very potent urease, which splits urea into ammonia and carbon dioxide. The ammonia alkalinizes the urine, giving the high pH and ammoniacal odor, and alkaline urine precipitates struvite, which forms the large branching stones seen here.</p>",
+    "table": null,
+    "why": [
+     "",
+     "Catalase breaks down hydrogen peroxide and does not change urine pH.",
+     "Coagulase clots plasma and is a marker of S. aureus.",
+     "Hyaluronidase spreads bacteria through connective tissue and does not alter urine chemistry.",
+     "Beta-lactamase destroys beta-lactam antibiotics but has no role in stone formation."
+    ],
+    "takeaway": "Proteus species are swarming, hydrogen sulfide-producing, urease-positive rods whose urease alkalinizes urine and causes struvite stones.",
+    "topic": "Proteus mirabilis and urease",
+    "subject": "Microbiology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w05-lec23/slide_50.jpg",
+     "slide": 50,
+     "caption": "Lecture 23 slides (2025-26) · Page 50"
+    }
+   ]
   },
   {
    "id": "miid2-w05-lec23-q10",
@@ -163,7 +343,27 @@
    ],
    "answer": 3,
    "evidence": [],
-   "note": "**Non-motile, hydrogen sulfide-negative Shigella, especially S. dysenteriae, produces Shiga toxin and can cause dysentery complicated by hemolytic uremic syndrome.**\n\nDysentery (cramps, tenesmus, small-volume bloody mucoid stools) in a crowded setting, with a non-motile, non-lactose-fermenting, hydrogen sulfide-negative Gram-negative rod, points to Shigella. S. dysenteriae is the usual cause of dysentery epidemics in confined populations and is the strongest producer of Shiga toxin.\n\nShiga toxin damages small blood vessels, especially in the gut and kidney, and can lead to hemolytic uremic syndrome: anemia, thrombocytopenia, and renal failure, exactly the triad in this boy.\n\nCampylobacter jejuni: incorrect. C. jejuni is a comma-shaped microaerophile linked to Guillain-Barre syndrome.\n\nVibrio cholerae: incorrect. V. cholerae causes profuse watery diarrhea without blood.\n\nSalmonella enterica serovar Enteritidis: incorrect. Salmonella is motile and produces hydrogen sulfide, giving black colonies on Hektoen agar.\n\nShigella dysenteriae: correct. S. dysenteriae is non-motile, makes Shiga toxin, and causes dysentery with hemolytic uremic syndrome.\n\nYersinia enterocolitica: incorrect. Y. enterocolitica causes mesenteric adenitis mimicking appendicitis, usually after undercooked pork."
+   "explain": {
+    "html": "<p>Dysentery (cramps, tenesmus, small-volume bloody mucoid stools) in a crowded setting, with a non-motile, non-lactose-fermenting, hydrogen sulfide-negative Gram-negative rod, points to Shigella. S. dysenteriae is the usual cause of dysentery epidemics in confined populations and is the strongest producer of Shiga toxin.</p><p>Shiga toxin damages small blood vessels, especially in the gut and kidney, and can lead to hemolytic uremic syndrome: anemia, thrombocytopenia, and renal failure, exactly the triad in this boy.</p>",
+    "table": null,
+    "why": [
+     "C. jejuni is a comma-shaped microaerophile linked to Guillain-Barre syndrome.",
+     "V. cholerae causes profuse watery diarrhea without blood.",
+     "Salmonella is motile and produces hydrogen sulfide, giving black colonies on Hektoen agar.",
+     "",
+     "Y. enterocolitica causes mesenteric adenitis mimicking appendicitis, usually after undercooked pork."
+    ],
+    "takeaway": "Non-motile, hydrogen sulfide-negative Shigella, especially S. dysenteriae, produces Shiga toxin and can cause dysentery complicated by hemolytic uremic syndrome.",
+    "topic": "Shiga toxin and hemolytic uremic syndrome",
+    "subject": "Microbiology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w05-lec23/slide_46.jpg",
+     "slide": 46,
+     "caption": "Lecture 23 slides (2025-26) · Page 46"
+    }
+   ]
   },
   {
    "id": "miid2-w05-lec23-q11",
@@ -179,7 +379,27 @@
    ],
    "answer": 4,
    "evidence": [],
-   "note": "**Salmonella Typhi survives and multiplies within macrophages and disseminates through lymphatics, producing stepwise fever, rose spots and hepatosplenomegaly before any diarrhea.**\n\nA traveler with stepwise fever, a relatively slow pulse, rose spots, hepatosplenomegaly, and a motile hydrogen sulfide-producing Gram-negative rod in blood has typhoid fever from Salmonella Typhi.\n\nUnlike other Salmonella serovars, Typhi inhibits the oxidative burst and keeps replicating inside macrophages rather than killing them. The organisms are carried through the lymphatics to mesenteric nodes, spleen, liver, and bone marrow, producing a mononuclear response with little intestinal irritation, so fever and systemic signs dominate and diarrhea appears only later.\n\nInvasion of colonic epithelium with intense acute inflammation: incorrect. Colonic invasion with acute inflammation describes Shigella dysentery.\n\nAttachment to the gastric mucosa under a urease-generated ammonia cloud: incorrect. Urease and ammonia protection describe Helicobacter pylori in the stomach.\n\nAdherence to fibrin-platelet aggregates on cardiac valves: incorrect. Dextran-mediated adherence to valves describes viridans streptococci.\n\nProduction of a toxin that raises intracellular cAMP in enterocytes: incorrect. Raising cAMP in enterocytes is cholera toxin, which causes watery diarrhea, not prolonged fever.\n\nProlonged replication inside macrophages that carry it through the lymphatics: correct. Salmonella Typhi replicates within macrophages and spreads through lymphatics, producing systemic illness before diarrhea."
+   "explain": {
+    "html": "<p>A traveler with stepwise fever, a relatively slow pulse, rose spots, hepatosplenomegaly, and a motile hydrogen sulfide-producing Gram-negative rod in blood has typhoid fever from Salmonella Typhi.</p><p>Unlike other Salmonella serovars, Typhi inhibits the oxidative burst and keeps replicating inside macrophages rather than killing them. The organisms are carried through the lymphatics to mesenteric nodes, spleen, liver, and bone marrow, producing a mononuclear response with little intestinal irritation, so fever and systemic signs dominate and diarrhea appears only later.</p>",
+    "table": null,
+    "why": [
+     "Colonic invasion with acute inflammation describes Shigella dysentery.",
+     "Urease and ammonia protection describe Helicobacter pylori in the stomach.",
+     "Dextran-mediated adherence to valves describes viridans streptococci.",
+     "Raising cAMP in enterocytes is cholera toxin, which causes watery diarrhea, not prolonged fever.",
+     ""
+    ],
+    "takeaway": "Salmonella Typhi survives and multiplies within macrophages and disseminates through lymphatics, producing stepwise fever, rose spots and hepatosplenomegaly before any diarrhea.",
+    "topic": "Typhoid fever",
+    "subject": "Microbiology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w05-lec23/file1_p48.jpg",
+     "slide": 48,
+     "caption": "Lecture 23 23 Introduction to Bacterial Pathogens Syllabus (2025-26) · Page 48"
+    }
+   ]
   },
   {
    "id": "miid2-w05-lec23-q12",
@@ -195,7 +415,27 @@
    ],
    "answer": 1,
    "evidence": [],
-   "note": "**Legionella pneumophila stains poorly and fails to grow on blood agar; it requires L-cysteine and iron, supplied by buffered charcoal yeast extract agar.**\n\nA severe pneumonia with prominent systemic features (high fever, diarrhea, confusion) acquired in a large building with a cooling tower, where the Gram stain shows neutrophils without visible organisms, is Legionnaires disease. Legionella stains poorly because of its unusual, highly hydrophobic lipopolysaccharide, so silver impregnation methods are used instead.\n\nLegionella will not grow on common media such as blood agar. It needs L-cysteine, iron and slightly acidic conditions, supplied by buffered charcoal yeast extract agar, and growth takes 2 to 5 days.\n\nChocolate agar supplemented with factors V and X: incorrect. Factors V and X on chocolate agar are the requirements of Haemophilus influenzae.\n\nMedium enriched with L-cysteine and iron: correct. Legionella needs L-cysteine and iron, provided by buffered charcoal yeast extract agar.\n\nA cell culture monolayer, since it cannot grow on agar: incorrect. Legionella is a facultative intracellular organism but does grow on the proper agar; Chlamydia is the one that needs host cells.\n\nAnaerobic incubation for 4 to 10 days: incorrect. Legionella is aerobic, not anaerobic.\n\nMedium containing 6.5% sodium chloride: incorrect. High salt medium is used to test enterococci."
+   "explain": {
+    "html": "<p>A severe pneumonia with prominent systemic features (high fever, diarrhea, confusion) acquired in a large building with a cooling tower, where the Gram stain shows neutrophils without visible organisms, is Legionnaires disease. Legionella stains poorly because of its unusual, highly hydrophobic lipopolysaccharide, so silver impregnation methods are used instead.</p><p>Legionella will not grow on common media such as blood agar. It needs L-cysteine, iron and slightly acidic conditions, supplied by buffered charcoal yeast extract agar, and growth takes 2 to 5 days.</p>",
+    "table": null,
+    "why": [
+     "Factors V and X on chocolate agar are the requirements of Haemophilus influenzae.",
+     "",
+     "Legionella is a facultative intracellular organism but does grow on the proper agar; Chlamydia is the one that needs host cells.",
+     "Legionella is aerobic, not anaerobic.",
+     "High salt medium is used to test enterococci."
+    ],
+    "takeaway": "Legionella pneumophila stains poorly and fails to grow on blood agar; it requires L-cysteine and iron, supplied by buffered charcoal yeast extract agar.",
+    "topic": "Legionella diagnosis and growth requirements",
+    "subject": "Microbiology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w05-lec23/slide_58.jpg",
+     "slide": 58,
+     "caption": "Lecture 23 slides (2025-26) · Page 58"
+    }
+   ]
   },
   {
    "id": "miid2-w05-lec23-q13",
@@ -211,7 +451,27 @@
    ],
    "answer": 3,
    "evidence": [],
-   "note": "**Mycoplasma pneumoniae lacks a peptidoglycan cell wall and uses host cholesterol in its membrane, so beta-lactams are ineffective.**\n\nWalking pneumonia in a young adult with headache, sore throat, earache, a dry cough, and fried-egg colonies in culture is Mycoplasma pneumoniae. Its radiographic findings are typically worse than the patient appears.\n\nMycoplasma has no peptidoglycan cell wall. Its membrane is reinforced with sterols including cholesterol taken from the host instead. Since beta-lactams act on cell wall synthesis, they cannot work here, and the preferred agents are doxycycline or azithromycin.\n\nA waxy mycolic acid outer layer: incorrect. Mycolic acids are the waxy barrier of mycobacteria and Nocardia.\n\nAn outer membrane with low-permeability porins: incorrect. Low-permeability porins describe Pseudomonas aeruginosa.\n\nA polysaccharide capsule that blocks drug binding: incorrect. A capsule does not prevent beta-lactams from reaching penicillin-binding proteins.\n\nAbsence of a peptidoglycan cell wall: correct. Mycoplasma has no peptidoglycan cell wall, so cell wall-active drugs are useless.\n\nEfflux pumps that expel beta-lactam drugs: incorrect. Efflux pumps contribute to resistance in other organisms but are not why Mycoplasma resists beta-lactams."
+   "explain": {
+    "html": "<p>Walking pneumonia in a young adult with headache, sore throat, earache, a dry cough, and fried-egg colonies in culture is Mycoplasma pneumoniae. Its radiographic findings are typically worse than the patient appears.</p><p>Mycoplasma has no peptidoglycan cell wall. Its membrane is reinforced with sterols including cholesterol taken from the host instead. Since beta-lactams act on cell wall synthesis, they cannot work here, and the preferred agents are doxycycline or azithromycin.</p>",
+    "table": null,
+    "why": [
+     "Mycolic acids are the waxy barrier of mycobacteria and Nocardia.",
+     "Low-permeability porins describe Pseudomonas aeruginosa.",
+     "A capsule does not prevent beta-lactams from reaching penicillin-binding proteins.",
+     "",
+     "Efflux pumps contribute to resistance in other organisms but are not why Mycoplasma resists beta-lactams."
+    ],
+    "takeaway": "Mycoplasma pneumoniae lacks a peptidoglycan cell wall and uses host cholesterol in its membrane, so beta-lactams are ineffective.",
+    "topic": "Mycoplasma pneumoniae cell wall",
+    "subject": "Microbiology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w05-lec23/slide_57.jpg",
+     "slide": 57,
+     "caption": "Lecture 23 slides (2025-26) · Page 57"
+    }
+   ]
   },
   {
    "id": "miid2-w05-lec23-q14",
@@ -227,7 +487,27 @@
    ],
    "answer": 2,
    "evidence": [],
-   "note": "**Chlamydophila pneumoniae is an obligate intracellular parasite dependent on host amino acids and ATP, so it cannot be cultured on cell-free media.**\n\nA young adult with pharyngitis or laryngitis weeks before a lingering cough and a mild atypical pneumonia, with an agent that stains poorly and forms intracellular inclusions, has Chlamydophila pneumoniae. It lacks peptidoglycan, so it does not take the Gram stain well.\n\nChlamydiae are obligate intracellular parasites because they rely on the host cell for key amino acids and for energy-generating metabolites such as ATP. That dependence, not a nutrient that could simply be added to agar, is why they grow only inside cells.\n\nIt grows only at temperatures above 42 degrees Celsius: incorrect. Growth at 42 degrees is a feature used to identify Campylobacter jejuni.\n\nIt requires L-cysteine and iron that agar lacks: incorrect. L-cysteine and iron are the special needs of Legionella, which does grow on buffered charcoal yeast extract agar.\n\nIt depends on host cells for amino acids and ATP: correct. Chlamydiae depend on host cells for amino acids and ATP, so they require living cells to grow.\n\nIt forms spores that remain dormant on artificial media: incorrect. Chlamydiae do not form spores; spore formers include Bacillus and Clostridioides.\n\nIt is killed by the oxygen tension at an agar surface: incorrect. Oxygen tension is not the limiting factor; Chlamydophila pneumoniae is aerobic."
+   "explain": {
+    "html": "<p>A young adult with pharyngitis or laryngitis weeks before a lingering cough and a mild atypical pneumonia, with an agent that stains poorly and forms intracellular inclusions, has Chlamydophila pneumoniae. It lacks peptidoglycan, so it does not take the Gram stain well.</p><p>Chlamydiae are obligate intracellular parasites because they rely on the host cell for key amino acids and for energy-generating metabolites such as ATP. That dependence, not a nutrient that could simply be added to agar, is why they grow only inside cells.</p>",
+    "table": null,
+    "why": [
+     "Growth at 42 degrees is a feature used to identify Campylobacter jejuni.",
+     "L-cysteine and iron are the special needs of Legionella, which does grow on buffered charcoal yeast extract agar.",
+     "",
+     "Chlamydiae do not form spores; spore formers include Bacillus and Clostridioides.",
+     "Oxygen tension is not the limiting factor; Chlamydophila pneumoniae is aerobic."
+    ],
+    "takeaway": "Chlamydophila pneumoniae is an obligate intracellular parasite dependent on host amino acids and ATP, so it cannot be cultured on cell-free media.",
+    "topic": "Chlamydophila pneumoniae",
+    "subject": "Microbiology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w05-lec23/file1_p41.jpg",
+     "slide": 41,
+     "caption": "Lecture 23 23 Introduction to Bacterial Pathogens Syllabus (2025-26) · Page 41"
+    }
+   ]
   },
   {
    "id": "miid2-w05-lec23-q15",
@@ -243,7 +523,27 @@
    ],
    "answer": 1,
    "evidence": [],
-   "note": "**Streptococcus pyogenes pyrogenic exotoxins (SpeA, SpeB, SpeC) cause the scarlet fever rash and act as superantigens driving nonspecific T cell activation.**\n\nPharyngitis with a sandpaper rash and strawberry tongue in a child, caused by a bacitracin-sensitive, beta-hemolytic chain-forming coccus, is scarlet fever from Streptococcus pyogenes.\n\nMost strains make streptococcal pyrogenic exotoxins. SpeA and SpeC are also called erythrogenic toxins and produce the rash, and SpeA and SpeB act as superantigens, cross-linking many T cell receptors nonspecifically and driving the fever and massive T cell activation that can progress to toxic shock syndrome.\n\nAn enterotoxin that forms pores in epithelial cells: incorrect. Pore-forming enterotoxins describe the B. cereus diarrheal toxin, not scarlet fever.\n\nPyrogenic exotoxins that act as superantigens: correct. Streptococcal pyrogenic exotoxins are superantigens and cause the scarlet fever rash.\n\nAn A-B toxin that blocks neurotransmitter release: incorrect. Blocking neurotransmitter release describes tetanus and botulinum toxins.\n\nA urease that generates ammonia in tissue: incorrect. Urease belongs to Proteus and Helicobacter.\n\nA protease that cleaves immunoglobulin A only: incorrect. An immunoglobulin A protease alone does not produce rash or superantigen activity."
+   "explain": {
+    "html": "<p>Pharyngitis with a sandpaper rash and strawberry tongue in a child, caused by a bacitracin-sensitive, beta-hemolytic chain-forming coccus, is scarlet fever from Streptococcus pyogenes.</p><p>Most strains make streptococcal pyrogenic exotoxins. SpeA and SpeC are also called erythrogenic toxins and produce the rash, and SpeA and SpeB act as superantigens, cross-linking many T cell receptors nonspecifically and driving the fever and massive T cell activation that can progress to toxic shock syndrome.</p>",
+    "table": null,
+    "why": [
+     "Pore-forming enterotoxins describe the B. cereus diarrheal toxin, not scarlet fever.",
+     "",
+     "Blocking neurotransmitter release describes tetanus and botulinum toxins.",
+     "Urease belongs to Proteus and Helicobacter.",
+     "An immunoglobulin A protease alone does not produce rash or superantigen activity."
+    ],
+    "takeaway": "Streptococcus pyogenes pyrogenic exotoxins (SpeA, SpeB, SpeC) cause the scarlet fever rash and act as superantigens driving nonspecific T cell activation.",
+    "topic": "Streptococcus pyogenes superantigens",
+    "subject": "Microbiology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w05-lec23/slide_19.jpg",
+     "slide": 19,
+     "caption": "Lecture 23 slides (2025-26) · Page 19"
+    }
+   ]
   },
   {
    "id": "miid2-w05-lec23-q16",
@@ -259,7 +559,27 @@
    ],
    "answer": 2,
    "evidence": [],
-   "note": "**The three atypical pneumonia agents are separated clinically: Mycoplasma causes walking pneumonia, Legionella a severe water-associated pneumonia with diarrhea and confusion, and Chlamydophila a mild illness preceded by pharyngitis.**\n\nAll three atypical agents fail to appear on Gram stain, so the clinical pattern decides. A young ambulatory patient with earache, headache and a dry cough lasting weeks is Mycoplasma pneumoniae, the walking pneumonia.\n\nAn older patient with high fever, diarrhea and confusion after exposure to aerosols from a building water system has Legionnaires disease, the severe form of atypical pneumonia. Pharyngitis or laryngitis one to three weeks before a mild lower respiratory illness is the pattern of Chlamydophila pneumoniae.\n\n**Agent | Clue | Laboratory**\n\n- Mycoplasma pneumoniae: Young, ambulatory, earache, dry cough; Fried-egg colonies, no cell wall\n- Legionella pneumophila: Water aerosols, diarrhea, confusion; Buffered charcoal yeast extract agar, silver stain\n- Chlamydophila pneumoniae: Pharyngitis or laryngitis then cough; Obligate intracellular, inclusions\n\n1 Legionella, 2 Mycoplasma, 3 Chlamydophila: incorrect. Legionella does not present as a mild ambulatory illness in a young adult.\n\n1 Chlamydophila, 2 Mycoplasma, 3 Legionella: incorrect. Chlamydophila does not cause the severe confusion and diarrhea seen in patient 2.\n\n1 Mycoplasma, 2 Legionella, 3 Chlamydophila: correct. Walking pneumonia is Mycoplasma, the severe water-aerosol case is Legionella, and preceding laryngitis is Chlamydophila.\n\n1 Mycoplasma, 2 Chlamydophila, 3 Legionella: incorrect. Chlamydophila does not fit the severe hotel-associated case.\n\n1 Legionella, 2 Chlamydophila, 3 Mycoplasma: incorrect. This reverses the mild and severe presentations."
+   "explain": {
+    "html": "<p>All three atypical agents fail to appear on Gram stain, so the clinical pattern decides. A young ambulatory patient with earache, headache and a dry cough lasting weeks is Mycoplasma pneumoniae, the walking pneumonia.</p><p>An older patient with high fever, diarrhea and confusion after exposure to aerosols from a building water system has Legionnaires disease, the severe form of atypical pneumonia. Pharyngitis or laryngitis one to three weeks before a mild lower respiratory illness is the pattern of Chlamydophila pneumoniae.</p>",
+    "table": "<table><tr><th>Agent</th><th>Clue</th><th>Laboratory</th></tr><tr><td>Mycoplasma pneumoniae</td><td>Young, ambulatory, earache, dry cough</td><td>Fried-egg colonies, no cell wall</td></tr><tr><td>Legionella pneumophila</td><td>Water aerosols, diarrhea, confusion</td><td>Buffered charcoal yeast extract agar, silver stain</td></tr><tr><td>Chlamydophila pneumoniae</td><td>Pharyngitis or laryngitis then cough</td><td>Obligate intracellular, inclusions</td></tr></table>",
+    "why": [
+     "Legionella does not present as a mild ambulatory illness in a young adult.",
+     "Chlamydophila does not cause the severe confusion and diarrhea seen in patient 2.",
+     "",
+     "Chlamydophila does not fit the severe hotel-associated case.",
+     "This reverses the mild and severe presentations."
+    ],
+    "takeaway": "The three atypical pneumonia agents are separated clinically: Mycoplasma causes walking pneumonia, Legionella a severe water-associated pneumonia with diarrhea and confusion, and Chlamydophila a mild illness preceded by pharyngitis.",
+    "topic": "Comparing the atypical pneumonia agents",
+    "subject": "Microbiology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w05-lec23/slide_57.jpg",
+     "slide": 57,
+     "caption": "Lecture 23 slides (2025-26) · Page 57"
+    }
+   ]
   }
  ]
 }

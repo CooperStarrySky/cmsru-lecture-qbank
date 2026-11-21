@@ -19,7 +19,27 @@
    ],
    "answer": 4,
    "evidence": [],
-   "note": "**PfEMP1 lets falciparum-infected red cells adhere to endothelium, causing microvascular obstruction and cerebral malaria.**\n\nVery high parasitemia, multiple rings per cell, applique forms, and banana-shaped gametocytes identify **P. falciparum**. Falciparum inserts the protein **PfEMP1** into the red cell surface, which lets infected cells stick to the endothelium of small vessels (cytoadherence).\n\nAdherent cells sludge in cerebral capillaries and obstruct flow, producing **cerebral malaria**: confusion, obtundation and seizures. Falciparum also invades red cells of every age, which is why its parasitemia and anemia become so severe.\n\nHypnozoites reactivating within hepatocytes: incorrect. Falciparum does not form hypnozoites; those belong to P. vivax and P. ovale.\n\nImmune complex deposition within small cerebral vessel walls: incorrect. Immune complex injury is tied to P. malariae nephrotic syndrome, not cerebral malaria.\n\nHemoglobinuria causing acute kidney injury: incorrect. Hemoglobinuria (blackwater fever) injures the kidney, not the brain.\n\nDirect invasion of neurons by sporozoites: incorrect. Sporozoites travel to the liver, not into neurons.\n\nInfected red cells adhering to capillary endothelium: correct. PfEMP1-mediated cytoadherence blocks cerebral microvessels."
+   "explain": {
+    "html": "<p>Very high parasitemia, multiple rings per cell, applique forms, and banana-shaped gametocytes identify <b>P. falciparum</b>. Falciparum inserts the protein <b>PfEMP1</b> into the red cell surface, which lets infected cells stick to the endothelium of small vessels (cytoadherence).</p><p>Adherent cells sludge in cerebral capillaries and obstruct flow, producing <b>cerebral malaria</b>: confusion, obtundation and seizures. Falciparum also invades red cells of every age, which is why its parasitemia and anemia become so severe.</p>",
+    "table": null,
+    "why": [
+     "Falciparum does not form hypnozoites; those belong to P. vivax and P. ovale.",
+     "Immune complex injury is tied to P. malariae nephrotic syndrome, not cerebral malaria.",
+     "Hemoglobinuria (blackwater fever) injures the kidney, not the brain.",
+     "Sporozoites travel to the liver, not into neurons.",
+     ""
+    ],
+    "takeaway": "PfEMP1 lets falciparum-infected red cells adhere to endothelium, causing microvascular obstruction and cerebral malaria.",
+    "topic": "P. falciparum virulence and cerebral malaria",
+    "subject": "Microbiology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w07-lec37/slide_20.jpg",
+     "slide": 20,
+     "caption": "Lecture 37 slides (2025-26) · Page 20"
+    }
+   ]
   },
   {
    "id": "miid2-w07-lec37-q02",
@@ -35,7 +55,27 @@
    ],
    "answer": 3,
    "evidence": [],
-   "note": "**Thick smears detect malaria parasites sensitively; thin smears identify the species and quantify parasitemia.**\n\nThe first preparation is a **thick smear**: red cells are lysed, the blood is concentrated, and parasites are easier to find, so it is the more **sensitive** test for whether parasites are present. The second is a **thin smear**, where intact red cells show how the parasite sits inside them.\n\nThe thin smear is used to **identify the species** (ring placement, cell size, Schuffner dots, band forms) and to calculate the **degree of parasitemia**. Because parasitemia can lag behind symptoms, smears can be repeated every 12 hours for three sets.\n\nDetecting low-level parasitemia with higher sensitivity: incorrect. Sensitivity for detection is the strength of the thick smear, the first preparation.\n\nConfirming that hypnozoites are present in the liver: incorrect. Hypnozoites live in hepatocytes and are not seen on a blood smear.\n\nDetecting parasite antigen without a microscope: incorrect. Antigen detection without a microscope is the rapid diagnostic test.\n\nIdentifying the species and the percent of infected cells: correct. The thin smear shows species features and percent parasitemia.\n\nMeasuring antibody titers against the parasite: incorrect. Smears visualize parasites; they do not measure antibodies."
+   "explain": {
+    "html": "<p>The first preparation is a <b>thick smear</b>: red cells are lysed, the blood is concentrated, and parasites are easier to find, so it is the more <b>sensitive</b> test for whether parasites are present. The second is a <b>thin smear</b>, where intact red cells show how the parasite sits inside them.</p><p>The thin smear is used to <b>identify the species</b> (ring placement, cell size, Schuffner dots, band forms) and to calculate the <b>degree of parasitemia</b>. Because parasitemia can lag behind symptoms, smears can be repeated every 12 hours for three sets.</p>",
+    "table": null,
+    "why": [
+     "Sensitivity for detection is the strength of the thick smear, the first preparation.",
+     "Hypnozoites live in hepatocytes and are not seen on a blood smear.",
+     "Antigen detection without a microscope is the rapid diagnostic test.",
+     "",
+     "Smears visualize parasites; they do not measure antibodies."
+    ],
+    "takeaway": "Thick smears detect malaria parasites sensitively; thin smears identify the species and quantify parasitemia.",
+    "topic": "Thick versus thin blood smear",
+    "subject": "Microbiology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w07-lec37/slide_19.jpg",
+     "slide": 19,
+     "caption": "Lecture 37 slides (2025-26) · Page 19"
+    }
+   ]
   },
   {
    "id": "miid2-w07-lec37-q03",
@@ -51,7 +91,27 @@
    ],
    "answer": 0,
    "evidence": [],
-   "note": "**P. malariae causes quartan fevers, band forms and nephrotic syndrome, and recurs by recrudescence from persistent blood-stage parasites.**\n\nFever every 72 hours (quartan), band-form trophozoites, rosette schizonts, and nephrotic-range proteinuria identify **P. malariae**, the least pathogenic species with the longest incubation.\n\nP. malariae has no liver dormant stage. Instead it persists at **low levels in red blood cells** for years, and symptoms recur from that blood reservoir (**recrudescence**). Its classic complication is nephrotic syndrome.\n\nPersistent low-level parasites in red blood cells: correct. Low-grade persistent blood-stage infection causes recrudescence.\n\nDormant hepatic hypnozoites that later mature into merozoites: incorrect. Hypnozoites belong to P. vivax and P. ovale, not P. malariae.\n\nSelective invasion of young reticulocytes: incorrect. Preference for young red cells describes P. vivax.\n\nRapid multiplication in red cells of all ages: incorrect. Invading cells of every age and multiplying fast describes P. falciparum.\n\nCytoadherence of infected cells in glomeruli: incorrect. Cytoadherence is the falciparum PfEMP1 mechanism."
+   "explain": {
+    "html": "<p>Fever every 72 hours (quartan), band-form trophozoites, rosette schizonts, and nephrotic-range proteinuria identify <b>P. malariae</b>, the least pathogenic species with the longest incubation.</p><p>P. malariae has no liver dormant stage. Instead it persists at <b>low levels in red blood cells</b> for years, and symptoms recur from that blood reservoir (<b>recrudescence</b>). Its classic complication is nephrotic syndrome.</p>",
+    "table": null,
+    "why": [
+     "",
+     "Hypnozoites belong to P. vivax and P. ovale, not P. malariae.",
+     "Preference for young red cells describes P. vivax.",
+     "Invading cells of every age and multiplying fast describes P. falciparum.",
+     "Cytoadherence is the falciparum PfEMP1 mechanism."
+    ],
+    "takeaway": "P. malariae causes quartan fevers, band forms and nephrotic syndrome, and recurs by recrudescence from persistent blood-stage parasites.",
+    "topic": "Fever periodicity and P. malariae",
+    "subject": "Microbiology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w07-lec37/slide_17.jpg",
+     "slide": 17,
+     "caption": "Lecture 37 slides (2025-26) · Page 17"
+    }
+   ]
   },
   {
    "id": "miid2-w07-lec37-q04",
@@ -67,7 +127,21 @@
    ],
    "answer": 2,
    "evidence": [],
-   "note": "**Uncomplicated chloroquine-resistant malaria is treated with artemether-lumefantrine (or atovaquone-proguanil); severe malaria gets IV artesunate.**\n\nCrescent gametocytes identify **P. falciparum**, and he acquired it in a chloroquine-resistant area. With low parasitemia, normal mental status and no organ dysfunction, this is **uncomplicated** malaria.\n\nFirst-line treatment for chloroquine-resistant uncomplicated malaria is an **artemisinin-based combination** such as artemether-lumefantrine (atovaquone-proguanil is the alternative). Artemisinins are the most active antimalarials, clear early ring forms quickly and reduce gametocyte carriage. **Intravenous artesunate** is reserved for **severe** malaria.\n\nChloroquine followed by primaquine: incorrect. Chloroquine fails in resistant falciparum, and primaquine is for vivax or ovale liver forms.\n\nIntravenous artesunate: incorrect. IV artesunate is for severe malaria, which this patient does not have.\n\nOral artemether-lumefantrine: correct. Artemether-lumefantrine treats uncomplicated chloroquine-resistant malaria.\n\nBenznidazole for 60 days: incorrect. Benznidazole treats Chagas disease.\n\nDoxycycline for 14 days alone: incorrect. Doxycycline is listed as prophylaxis, not as single-drug treatment of acute falciparum."
+   "explain": {
+    "html": "<p>Crescent gametocytes identify <b>P. falciparum</b>, and he acquired it in a chloroquine-resistant area. With low parasitemia, normal mental status and no organ dysfunction, this is <b>uncomplicated</b> malaria.</p><p>First-line treatment for chloroquine-resistant uncomplicated malaria is an <b>artemisinin-based combination</b> such as artemether-lumefantrine (atovaquone-proguanil is the alternative). Artemisinins are the most active antimalarials, clear early ring forms quickly and reduce gametocyte carriage. <b>Intravenous artesunate</b> is reserved for <b>severe</b> malaria.</p>",
+    "table": null,
+    "why": [
+     "Chloroquine fails in resistant falciparum, and primaquine is for vivax or ovale liver forms.",
+     "IV artesunate is for severe malaria, which this patient does not have.",
+     "",
+     "Benznidazole treats Chagas disease.",
+     "Doxycycline is listed as prophylaxis, not as single-drug treatment of acute falciparum."
+    ],
+    "takeaway": "Uncomplicated chloroquine-resistant malaria is treated with artemether-lumefantrine (or atovaquone-proguanil); severe malaria gets IV artesunate.",
+    "topic": "Malaria treatment by resistance and severity",
+    "subject": "Microbiology"
+   },
+   "figures": []
   },
   {
    "id": "miid2-w07-lec37-q05",
@@ -83,7 +157,27 @@
    ],
    "answer": 4,
    "evidence": [],
-   "note": "**Gametocytes, the sexual blood stage, are ingested by the Anopheles mosquito; sporozoites are what it injects.**\n\nIn the human, sporozoites from the mosquito bite go to the liver, form schizonts, and release merozoites that infect red cells. Inside red cells the parasite becomes ring-form (immature) trophozoites, mature trophozoites and schizonts, and some differentiate into the sexual forms.\n\nThose sexual forms, the **gametocytes**, are what the mosquito ingests during a blood meal; they continue the sexual cycle in the mosquito. A mosquito that cannot handle gametocytes cannot become infected, which is also why reducing gametocyte carriage (an effect of artemisinins) helps limit transmission.\n\nSporozoites: incorrect. Sporozoites are the stage the mosquito injects, not the stage it takes up.\n\nMerozoites: incorrect. Merozoites infect human red cells; they do not continue the cycle in the mosquito.\n\nRing-form trophozoites: incorrect. Ring forms are the early stage inside human red cells.\n\nHepatic schizonts: incorrect. Hepatic schizonts are in the liver and are not in the blood meal.\n\nGametocytes: correct. Gametocytes are the stage ingested by the mosquito."
+   "explain": {
+    "html": "<p>In the human, sporozoites from the mosquito bite go to the liver, form schizonts, and release merozoites that infect red cells. Inside red cells the parasite becomes ring-form (immature) trophozoites, mature trophozoites and schizonts, and some differentiate into the sexual forms.</p><p>Those sexual forms, the <b>gametocytes</b>, are what the mosquito ingests during a blood meal; they continue the sexual cycle in the mosquito. A mosquito that cannot handle gametocytes cannot become infected, which is also why reducing gametocyte carriage (an effect of artemisinins) helps limit transmission.</p>",
+    "table": null,
+    "why": [
+     "Sporozoites are the stage the mosquito injects, not the stage it takes up.",
+     "Merozoites infect human red cells; they do not continue the cycle in the mosquito.",
+     "Ring forms are the early stage inside human red cells.",
+     "Hepatic schizonts are in the liver and are not in the blood meal.",
+     ""
+    ],
+    "takeaway": "Gametocytes, the sexual blood stage, are ingested by the Anopheles mosquito; sporozoites are what it injects.",
+    "topic": "Malaria life cycle",
+    "subject": "Microbiology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w07-lec37/slide_13.jpg",
+     "slide": 13,
+     "caption": "Lecture 37 slides (2025-26) · Page 13"
+    }
+   ]
   },
   {
    "id": "miid2-w07-lec37-q06",
@@ -99,7 +193,27 @@
    ],
    "answer": 1,
    "evidence": [],
-   "note": "**West Nile neuroinvasive disease (Culex mosquito, elderly or comorbid patients, late summer) is diagnosed by IgM in serum and CSF and treated supportively.**\n\nLate summer, mosquito exposure, advanced age with comorbidities, encephalitis, and acute flaccid weakness fit **West Nile neuroinvasive disease**. West Nile virus is carried by the **Culex** mosquito and is the leading arboviral encephalitis in the US; most infections are asymptomatic and fewer than 1% become neuroinvasive, mostly in people over 60 or with conditions such as diabetes, kidney disease, cancer or transplant.\n\nDiagnosis is **West Nile IgM in serum and cerebrospinal fluid**, and treatment is supportive care only.\n\nThin blood smear for intracellular parasites: incorrect. A blood smear looks for malaria or Babesia, not an arbovirus.\n\nIgM antibody against the virus in serum and cerebrospinal fluid: correct. West Nile IgM in serum and CSF confirms the diagnosis.\n\nCard agglutination test followed by lymph node aspiration: incorrect. The card agglutination test screens for African trypanosomiasis.\n\nWright-stained peripheral blood smear examined for intracellular morulae: incorrect. Morulae on Wright stain point to Anaplasma or Ehrlichia.\n\nWestern blot for IgM and IgG bands: incorrect. Western blot banding is the confirmatory step for Lyme serology."
+   "explain": {
+    "html": "<p>Late summer, mosquito exposure, advanced age with comorbidities, encephalitis, and acute flaccid weakness fit <b>West Nile neuroinvasive disease</b>. West Nile virus is carried by the <b>Culex</b> mosquito and is the leading arboviral encephalitis in the US; most infections are asymptomatic and fewer than 1% become neuroinvasive, mostly in people over 60 or with conditions such as diabetes, kidney disease, cancer or transplant.</p><p>Diagnosis is <b>West Nile IgM in serum and cerebrospinal fluid</b>, and treatment is supportive care only.</p>",
+    "table": null,
+    "why": [
+     "A blood smear looks for malaria or Babesia, not an arbovirus.",
+     "",
+     "The card agglutination test screens for African trypanosomiasis.",
+     "Morulae on Wright stain point to Anaplasma or Ehrlichia.",
+     "Western blot banding is the confirmatory step for Lyme serology."
+    ],
+    "takeaway": "West Nile neuroinvasive disease (Culex mosquito, elderly or comorbid patients, late summer) is diagnosed by IgM in serum and CSF and treated supportively.",
+    "topic": "West Nile neuroinvasive disease",
+    "subject": "Microbiology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w07-lec37/slide_36.jpg",
+     "slide": 36,
+     "caption": "Lecture 37 slides (2025-26) · Page 36"
+    }
+   ]
   },
   {
    "id": "miid2-w07-lec37-q07",
@@ -115,7 +229,27 @@
    ],
    "answer": 0,
    "evidence": [],
-   "note": "**Yellow fever (Aedes-borne flavivirus) causes hepatic injury, coagulopathy and renal failure after a brief remission and is prevented by a live, attenuated vaccine.**\n\nA biphasic febrile illness after travel to equatorial South America that recurs with **hepatic injury** (jaundice, high aminotransferases), **coagulopathy** and **renal failure** is **yellow fever**, a flavivirus hemorrhagic fever spread by **Aedes** mosquitoes.\n\nYellow fever is prevented with a **live, attenuated vaccine**. Malaria chemoprophylaxis does nothing against a virus, and Anopheles is the malaria vector, not the yellow fever vector.\n\nA live, attenuated viral vaccine before travel: correct. Yellow fever is prevented by a live, attenuated vaccine.\n\nDaily atovaquone-proguanil during travel: incorrect. Atovaquone-proguanil is malaria prophylaxis and does not prevent a flavivirus.\n\nDoxycycline taken after any insect bite: incorrect. Doxycycline targets bacteria such as rickettsiae, not a virus.\n\nInsect repellent against nighttime-biting Anopheles: incorrect. Anopheles transmits malaria; yellow fever is spread by Aedes.\n\nBoiling water and avoiding raw food: incorrect. Yellow fever is mosquito-borne, not food or water-borne."
+   "explain": {
+    "html": "<p>A biphasic febrile illness after travel to equatorial South America that recurs with <b>hepatic injury</b> (jaundice, high aminotransferases), <b>coagulopathy</b> and <b>renal failure</b> is <b>yellow fever</b>, a flavivirus hemorrhagic fever spread by <b>Aedes</b> mosquitoes.</p><p>Yellow fever is prevented with a <b>live, attenuated vaccine</b>. Malaria chemoprophylaxis does nothing against a virus, and Anopheles is the malaria vector, not the yellow fever vector.</p>",
+    "table": null,
+    "why": [
+     "",
+     "Atovaquone-proguanil is malaria prophylaxis and does not prevent a flavivirus.",
+     "Doxycycline targets bacteria such as rickettsiae, not a virus.",
+     "Anopheles transmits malaria; yellow fever is spread by Aedes.",
+     "Yellow fever is mosquito-borne, not food or water-borne."
+    ],
+    "takeaway": "Yellow fever (Aedes-borne flavivirus) causes hepatic injury, coagulopathy and renal failure after a brief remission and is prevented by a live, attenuated vaccine.",
+    "topic": "Yellow fever",
+    "subject": "Microbiology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w07-lec37/slide_34.jpg",
+     "slide": 34,
+     "caption": "Lecture 37 slides (2025-26) · Page 34"
+    }
+   ]
   },
   {
    "id": "miid2-w07-lec37-q08",
@@ -131,7 +265,27 @@
    ],
    "answer": 3,
    "evidence": [],
-   "note": "**RMSF (centripetal rash including palms and soles after a tick exposure) is diagnosed clinically and treated with doxycycline without delay.**\n\nA rash that begins on the wrists and ankles about 3 days after fever, spreads centrally, involves the palms and soles, spares the face and turns petechial is **Rocky Mountain spotted fever** (Rickettsia rickettsii), carried by Dermacentor (dog) ticks and the Lone Star tick, May through September.\n\nRMSF can kill within days, so the diagnosis is **clinical** and treatment with **doxycycline** starts immediately. A petechial or spotted rash already signals more severe disease; waiting for antibody results risks multiorgan failure and shock.\n\nWait for paired serology before treating: incorrect. Diagnosis is clinical; delaying for serology risks death.\n\nStart chloroquine: incorrect. Chloroquine is an antimalarial.\n\nStart oral amoxicillin: incorrect. Amoxicillin is a Lyme option and does not treat rickettsiae.\n\nStart doxycycline now: correct. Doxycycline is started as soon as RMSF is suspected.\n\nGive supportive care only: incorrect. RMSF has high mortality without antibiotics, so supportive care alone is wrong."
+   "explain": {
+    "html": "<p>A rash that begins on the wrists and ankles about 3 days after fever, spreads centrally, involves the palms and soles, spares the face and turns petechial is <b>Rocky Mountain spotted fever</b> (Rickettsia rickettsii), carried by Dermacentor (dog) ticks and the Lone Star tick, May through September.</p><p>RMSF can kill within days, so the diagnosis is <b>clinical</b> and treatment with <b>doxycycline</b> starts immediately. A petechial or spotted rash already signals more severe disease; waiting for antibody results risks multiorgan failure and shock.</p>",
+    "table": null,
+    "why": [
+     "Diagnosis is clinical; delaying for serology risks death.",
+     "Chloroquine is an antimalarial.",
+     "Amoxicillin is a Lyme option and does not treat rickettsiae.",
+     "",
+     "RMSF has high mortality without antibiotics, so supportive care alone is wrong."
+    ],
+    "takeaway": "RMSF (centripetal rash including palms and soles after a tick exposure) is diagnosed clinically and treated with doxycycline without delay.",
+    "topic": "Rocky Mountain spotted fever",
+    "subject": "Microbiology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w07-lec37/slide_43.jpg",
+     "slide": 43,
+     "caption": "Lecture 37 slides (2025-26) · Page 43"
+    }
+   ]
   },
   {
    "id": "miid2-w07-lec37-q09",
@@ -147,7 +301,27 @@
    ],
    "answer": 1,
    "evidence": [],
-   "note": "**Anaplasma (morulae in granulocytes, Ixodes tick, Northeast) and Ehrlichia (morulae in monocytes, Lone Star tick, Southeast) share leukopenia, thrombocytopenia, transaminitis and doxycycline treatment.**\n\nLeukopenia, thrombocytopenia and elevated liver enzymes after a tick bite, with **morulae inside granulocytes**, identify **human granulocytic anaplasmosis** (Anaplasma phagocytophilum), an obligate intracellular rickettsia. Rash and central nervous system involvement are rare in anaplasmosis.\n\nAnaplasma is carried by **Ixodes scapularis** (deer tick) in the Northeast and Midwest. Ehrlichia chaffeensis, which forms morulae in **monocytes**, is carried by the Lone Star tick in the Southeast. Both are treated with doxycycline.\n\nAmblyomma americanum (Lone Star tick): incorrect. The Lone Star tick carries Ehrlichia, whose morulae sit in monocytes.\n\nIxodes scapularis (deer tick): correct. Ixodes scapularis transmits Anaplasma phagocytophilum.\n\nDermacentor (dog tick): incorrect. The Dermacentor tick is the main RMSF vector.\n\nTriatomine bug: incorrect. Triatomine bugs transmit Trypanosoma cruzi.\n\nAedes mosquito: incorrect. Aedes mosquitoes carry yellow fever, dengue, Zika and chikungunya."
+   "explain": {
+    "html": "<p>Leukopenia, thrombocytopenia and elevated liver enzymes after a tick bite, with <b>morulae inside granulocytes</b>, identify <b>human granulocytic anaplasmosis</b> (Anaplasma phagocytophilum), an obligate intracellular rickettsia. Rash and central nervous system involvement are rare in anaplasmosis.</p><p>Anaplasma is carried by <b>Ixodes scapularis</b> (deer tick) in the Northeast and Midwest. Ehrlichia chaffeensis, which forms morulae in <b>monocytes</b>, is carried by the Lone Star tick in the Southeast. Both are treated with doxycycline.</p>",
+    "table": null,
+    "why": [
+     "The Lone Star tick carries Ehrlichia, whose morulae sit in monocytes.",
+     "",
+     "The Dermacentor tick is the main RMSF vector.",
+     "Triatomine bugs transmit Trypanosoma cruzi.",
+     "Aedes mosquitoes carry yellow fever, dengue, Zika and chikungunya."
+    ],
+    "takeaway": "Anaplasma (morulae in granulocytes, Ixodes tick, Northeast) and Ehrlichia (morulae in monocytes, Lone Star tick, Southeast) share leukopenia, thrombocytopenia, transaminitis and doxycycline treatment.",
+    "topic": "Anaplasmosis versus ehrlichiosis",
+    "subject": "Microbiology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w07-lec37/slide_52.jpg",
+     "slide": 52,
+     "caption": "Lecture 37 slides (2025-26) · Page 52"
+    }
+   ]
   },
   {
    "id": "miid2-w07-lec37-q10",
@@ -163,7 +337,27 @@
    ],
    "answer": 2,
    "evidence": [],
-   "note": "**Erythema migrans makes the diagnosis of Lyme disease clinically; treat without lab testing. Serology then Western blot is only for patients without the rash.**\n\nAn expanding painless lesion with central clearing after a tick bite is **erythema migrans**, the sign of **early localized Lyme disease**, present in about 70% of patients.\n\nIn the slide algorithm, if erythema migrans is present the **diagnosis is made clinically and no laboratory tests are needed**; antibody testing (and Western blot confirmation) is used only when the rash is absent. Early Lyme disease is treated with doxycycline, which also covers anaplasmosis and ehrlichiosis.\n\nOrder serum Lyme antibody before deciding on treatment: incorrect. Serology is the path when erythema migrans is absent; early antibodies may also be negative.\n\nOrder a Western blot for IgM and IgG bands: incorrect. Western blot confirms a positive antibody screen and is not needed with erythema migrans.\n\nTreat with doxycycline without laboratory testing: correct. Erythema migrans establishes the diagnosis, so treat with doxycycline.\n\nPerform a skin biopsy for PCR: incorrect. Skin biopsy PCR is the slide's adjunct test for RMSF, not Lyme.\n\nOrder a peripheral smear for morulae: incorrect. Morulae are sought for Anaplasma or Ehrlichia."
+   "explain": {
+    "html": "<p>An expanding painless lesion with central clearing after a tick bite is <b>erythema migrans</b>, the sign of <b>early localized Lyme disease</b>, present in about 70% of patients.</p><p>In the slide algorithm, if erythema migrans is present the <b>diagnosis is made clinically and no laboratory tests are needed</b>; antibody testing (and Western blot confirmation) is used only when the rash is absent. Early Lyme disease is treated with doxycycline, which also covers anaplasmosis and ehrlichiosis.</p>",
+    "table": null,
+    "why": [
+     "Serology is the path when erythema migrans is absent; early antibodies may also be negative.",
+     "Western blot confirms a positive antibody screen and is not needed with erythema migrans.",
+     "",
+     "Skin biopsy PCR is the slide's adjunct test for RMSF, not Lyme.",
+     "Morulae are sought for Anaplasma or Ehrlichia."
+    ],
+    "takeaway": "Erythema migrans makes the diagnosis of Lyme disease clinically; treat without lab testing. Serology then Western blot is only for patients without the rash.",
+    "topic": "Lyme disease diagnosis",
+    "subject": "Microbiology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w07-lec37/slide_57.jpg",
+     "slide": 57,
+     "caption": "Lecture 37 slides (2025-26) · Page 57"
+    }
+   ]
   },
   {
    "id": "miid2-w07-lec37-q11",
@@ -179,7 +373,21 @@
    ],
    "answer": 4,
    "evidence": [],
-   "note": "**T. brucei rhodesiense (East Africa, animal reservoir) is acute with early CNS disease; T. brucei gambiense (West and Central Africa, human host) is chronic over years.**\n\nA painful **chancre** at a tsetse fly bite, fevers, then CNS involvement after travel to the East African savannah is **East African sleeping sickness**, **Trypanosoma brucei rhodesiense**. The diagnosis follows a positive card agglutination test with lymph node aspiration.\n\nThe East African form has an **animal** reservoir and an **acute** course, with meningoencephalitis within weeks and death within months. The West African form, T. b. gambiense, has humans as the primary host and progresses slowly over about three years with personality change and sleepiness.\n\nChronic course over years with humans as the main host: incorrect. A slow course over years with humans as the host describes T. b. gambiense in West and Central Africa.\n\nDormant liver stage causing relapse years later: incorrect. Liver dormancy is a feature of P. vivax and P. ovale.\n\nSpread by triatomine bugs living in house walls: incorrect. Triatomine bugs transmit T. cruzi.\n\nTransmitted by sandflies, causing skin ulcers: incorrect. Sandflies transmit leishmaniasis.\n\nAcute course with central nervous system disease within weeks: correct. T. b. rhodesiense causes acute disease with CNS involvement within weeks."
+   "explain": {
+    "html": "<p>A painful <b>chancre</b> at a tsetse fly bite, fevers, then CNS involvement after travel to the East African savannah is <b>East African sleeping sickness</b>, <b>Trypanosoma brucei rhodesiense</b>. The diagnosis follows a positive card agglutination test with lymph node aspiration.</p><p>The East African form has an <b>animal</b> reservoir and an <b>acute</b> course, with meningoencephalitis within weeks and death within months. The West African form, T. b. gambiense, has humans as the primary host and progresses slowly over about three years with personality change and sleepiness.</p>",
+    "table": null,
+    "why": [
+     "A slow course over years with humans as the host describes T. b. gambiense in West and Central Africa.",
+     "Liver dormancy is a feature of P. vivax and P. ovale.",
+     "Triatomine bugs transmit T. cruzi.",
+     "Sandflies transmit leishmaniasis.",
+     ""
+    ],
+    "takeaway": "T. brucei rhodesiense (East Africa, animal reservoir) is acute with early CNS disease; T. brucei gambiense (West and Central Africa, human host) is chronic over years.",
+    "topic": "African trypanosomiasis",
+    "subject": "Microbiology"
+   },
+   "figures": []
   },
   {
    "id": "miid2-w07-lec37-q12",
@@ -195,7 +403,27 @@
    ],
    "answer": 0,
    "evidence": [],
-   "note": "**P. vivax and P. ovale relapse from liver hypnozoites that chloroquine does not reach; primaquine or tafenoquine clears them after a G6PD check.**\n\nFever returning months after a chloroquine-treated episode, enlarged red cells, and Schuffner dots point to **P. vivax** (or P. ovale). These species leave dormant liver forms, the **hypnozoites**, which can mature into merozoites months to years later. Chloroquine acts only on the erythrocytic (red blood cell) stage, so it cleared the blood but left the liver reservoir, and the patient relapsed.\n\nTo eradicate hypnozoites, chloroquine is followed by **primaquine or tafenoquine**. Both can cause hemolysis in patients with **G6PD deficiency**, so G6PD activity must be checked before either is given.\n\nRed cell glucose-6-phosphate dehydrogenase activity: correct. Primaquine and tafenoquine require a G6PD check because they can trigger hemolysis.\n\nSerum creatinine for renal clearance: incorrect. Renal function is not the safety check the slides tie to the liver-stage drugs.\n\nBaseline electrocardiogram for QT interval: incorrect. QT monitoring is associated with quinidine in severe malaria, not with the liver-stage drug.\n\nDuffy blood group antigen status: incorrect. Duffy antigen is the P. vivax receptor on red cells; it explains which cells are invaded, not drug safety.\n\nHemoglobin electrophoresis for sickle trait: incorrect. Sickle trait does not decide whether the liver-stage drug can be given."
+   "explain": {
+    "html": "<p>Fever returning months after a chloroquine-treated episode, enlarged red cells, and Schuffner dots point to <b>P. vivax</b> (or P. ovale). These species leave dormant liver forms, the <b>hypnozoites</b>, which can mature into merozoites months to years later. Chloroquine acts only on the erythrocytic (red blood cell) stage, so it cleared the blood but left the liver reservoir, and the patient relapsed.</p><p>To eradicate hypnozoites, chloroquine is followed by <b>primaquine or tafenoquine</b>. Both can cause hemolysis in patients with <b>G6PD deficiency</b>, so G6PD activity must be checked before either is given.</p>",
+    "table": null,
+    "why": [
+     "",
+     "Renal function is not the safety check the slides tie to the liver-stage drugs.",
+     "QT monitoring is associated with quinidine in severe malaria, not with the liver-stage drug.",
+     "Duffy antigen is the P. vivax receptor on red cells; it explains which cells are invaded, not drug safety.",
+     "Sickle trait does not decide whether the liver-stage drug can be given."
+    ],
+    "takeaway": "P. vivax and P. ovale relapse from liver hypnozoites that chloroquine does not reach; primaquine or tafenoquine clears them after a G6PD check.",
+    "topic": "Malaria relapse and liver-stage therapy",
+    "subject": "Microbiology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w07-lec37/slide_11.jpg",
+     "slide": 11,
+     "caption": "Lecture 37 slides (2025-26) · Page 11"
+    }
+   ]
   },
   {
    "id": "miid2-w07-lec37-q13",
@@ -211,7 +439,27 @@
    ],
    "answer": 4,
    "evidence": [],
-   "note": "**Rickettsialpox (R. akari) is an urban, mite-borne infection from rodents with an eschar followed by a papulovesicular rash; treat with doxycycline.**\n\nAn urban patient with house mice, a primary papule that becomes an **eschar**, and a second phase of fever followed by a **papulovesicular** rash that crusts identifies **rickettsialpox**, caused by **Rickettsia akari** of the spotted fever group.\n\nIts reservoir is rodents and its vector is the **mite**, which is why it occurs in cities. It is treated with doxycycline, like the other rickettsial infections.\n\nDermacentor tick: incorrect. The Dermacentor tick transmits Rocky Mountain spotted fever, which has no eschar and involves the palms and soles.\n\nBody louse: incorrect. The body louse transmits R. prowazekii, epidemic typhus.\n\nCulex mosquito: incorrect. Culex mosquitoes transmit West Nile virus.\n\nRat flea: incorrect. Fleas transmit R. typhi (endemic typhus) and plague.\n\nRodent mite: correct. Mites from rodents transmit R. akari."
+   "explain": {
+    "html": "<p>An urban patient with house mice, a primary papule that becomes an <b>eschar</b>, and a second phase of fever followed by a <b>papulovesicular</b> rash that crusts identifies <b>rickettsialpox</b>, caused by <b>Rickettsia akari</b> of the spotted fever group.</p><p>Its reservoir is rodents and its vector is the <b>mite</b>, which is why it occurs in cities. It is treated with doxycycline, like the other rickettsial infections.</p>",
+    "table": null,
+    "why": [
+     "The Dermacentor tick transmits Rocky Mountain spotted fever, which has no eschar and involves the palms and soles.",
+     "The body louse transmits R. prowazekii, epidemic typhus.",
+     "Culex mosquitoes transmit West Nile virus.",
+     "Fleas transmit R. typhi (endemic typhus) and plague.",
+     ""
+    ],
+    "takeaway": "Rickettsialpox (R. akari) is an urban, mite-borne infection from rodents with an eschar followed by a papulovesicular rash; treat with doxycycline.",
+    "topic": "Rickettsialpox",
+    "subject": "Microbiology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w07-lec37/slide_47.jpg",
+     "slide": 47,
+     "caption": "Lecture 37 slides (2025-26) · Page 47"
+    }
+   ]
   },
   {
    "id": "miid2-w07-lec37-q14",
@@ -227,7 +475,27 @@
    ],
    "answer": 0,
    "evidence": [],
-   "note": "**Lyme carditis with high-degree AV block is treated with IV ceftriaxone; early localized Lyme gets oral doxycycline, amoxicillin or cefuroxime.**\n\nErythema migrans followed weeks later by multiple lesions, Bell palsy and heart block is **early disseminated Lyme disease** (stage 2) caused by Borrelia burgdorferi, spread by the Ixodes tick.\n\nEarly localized disease and Lyme arthritis are treated orally with doxycycline, amoxicillin or cefuroxime. **High-degree heart block** (and persistent arthritis) is treated with **intravenous ceftriaxone**.\n\nIntravenous ceftriaxone: correct. High-degree AV block in Lyme carditis calls for IV ceftriaxone.\n\nOral amoxicillin: incorrect. Oral amoxicillin is an early-disease option, not for complete heart block.\n\nOral doxycycline: incorrect. Oral doxycycline is for early Lyme disease without high-degree heart block.\n\nOral cefuroxime: incorrect. Cefuroxime is an oral option for early disease.\n\nAtovaquone plus azithromycin: incorrect. Atovaquone plus azithromycin treats babesiosis."
+   "explain": {
+    "html": "<p>Erythema migrans followed weeks later by multiple lesions, Bell palsy and heart block is <b>early disseminated Lyme disease</b> (stage 2) caused by Borrelia burgdorferi, spread by the Ixodes tick.</p><p>Early localized disease and Lyme arthritis are treated orally with doxycycline, amoxicillin or cefuroxime. <b>High-degree heart block</b> (and persistent arthritis) is treated with <b>intravenous ceftriaxone</b>.</p>",
+    "table": null,
+    "why": [
+     "",
+     "Oral amoxicillin is an early-disease option, not for complete heart block.",
+     "Oral doxycycline is for early Lyme disease without high-degree heart block.",
+     "Cefuroxime is an oral option for early disease.",
+     "Atovaquone plus azithromycin treats babesiosis."
+    ],
+    "takeaway": "Lyme carditis with high-degree AV block is treated with IV ceftriaxone; early localized Lyme gets oral doxycycline, amoxicillin or cefuroxime.",
+    "topic": "Lyme carditis treatment",
+    "subject": "Microbiology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w07-lec37/slide_58.jpg",
+     "slide": 58,
+     "caption": "Lecture 37 slides (2025-26) · Page 58"
+    }
+   ]
   },
   {
    "id": "miid2-w07-lec37-q15",
@@ -243,7 +511,21 @@
    ],
    "answer": 3,
    "evidence": [],
-   "note": "**Babesia microti (Ixodes tick, worse after splenectomy) shows ring forms and Maltese cross tetrads in red cells and is treated with atovaquone and azithromycin.**\n\nIntraerythrocytic rings plus **tetrads (Maltese cross)** on smear identify **Babesia microti**, an intraerythrocytic protozoan spread by **Ixodes** ticks. Prior **splenectomy** (like HIV or TNF inhibitors) is a risk factor for severe disease, and hemolysis explains the anemia and dark urine.\n\nBabesiosis is treated with **atovaquone plus azithromycin**. Ring forms can look like malaria, but the tetrad and the lack of travel point to Babesia.\n\nChloroquine then primaquine: incorrect. Chloroquine and primaquine treat malaria, which the tetrad and no travel argue against.\n\nDoxycycline: incorrect. Doxycycline treats Lyme disease, anaplasmosis and ehrlichiosis, not Babesia.\n\nIntravenous ceftriaxone: incorrect. Ceftriaxone is for Lyme carditis or persistent Lyme arthritis.\n\nAtovaquone and azithromycin: correct. Atovaquone plus azithromycin treats babesiosis.\n\nBenznidazole: incorrect. Benznidazole is used for Chagas disease."
+   "explain": {
+    "html": "<p>Intraerythrocytic rings plus <b>tetrads (Maltese cross)</b> on smear identify <b>Babesia microti</b>, an intraerythrocytic protozoan spread by <b>Ixodes</b> ticks. Prior <b>splenectomy</b> (like HIV or TNF inhibitors) is a risk factor for severe disease, and hemolysis explains the anemia and dark urine.</p><p>Babesiosis is treated with <b>atovaquone plus azithromycin</b>. Ring forms can look like malaria, but the tetrad and the lack of travel point to Babesia.</p>",
+    "table": null,
+    "why": [
+     "Chloroquine and primaquine treat malaria, which the tetrad and no travel argue against.",
+     "Doxycycline treats Lyme disease, anaplasmosis and ehrlichiosis, not Babesia.",
+     "Ceftriaxone is for Lyme carditis or persistent Lyme arthritis.",
+     "",
+     "Benznidazole is used for Chagas disease."
+    ],
+    "takeaway": "Babesia microti (Ixodes tick, worse after splenectomy) shows ring forms and Maltese cross tetrads in red cells and is treated with atovaquone and azithromycin.",
+    "topic": "Babesiosis",
+    "subject": "Microbiology"
+   },
+   "figures": []
   },
   {
    "id": "miid2-w07-lec37-q16",
@@ -259,7 +541,27 @@
    ],
    "answer": 1,
    "evidence": [],
-   "note": "**Trypanosoma cruzi enters through skin breaks contaminated with triatomine feces and decades later causes cardiomyopathy, heart block, megaesophagus and megacolon.**\n\nCardiomyopathy and heart block decades after a childhood in a rural thatched-roof home, plus megaesophagus and megacolon, describe chronic **Chagas disease** from **Trypanosoma cruzi**. Diagnosis requires two different serologic tests, and sudden cardiac death is the most feared outcome.\n\nThe triatomine (kissing) bug bites, then **defecates**; the person scratches, and feces containing trypomastigotes enter through the break in the skin. That is why the infection is linked to poverty and thatched housing. Treatment is benznidazole or nifurtimox.\n\nBite of a female Anopheles mosquito at night: incorrect. Anopheles transmits malaria, which does not cause megacolon or cardiomyopathy decades later.\n\nContamination of a skin break with insect feces: correct. T. cruzi in triatomine feces enters through broken skin.\n\nBite of a tsetse fly with a painful chancre: incorrect. Tsetse flies transmit African trypanosomiasis.\n\nInhalation of spores from contaminated soil: incorrect. Inhaled spores describe anthrax, not a trypanosome.\n\nAn Ixodes tick attached for at least 48 hours: incorrect. Prolonged Ixodes attachment transmits Lyme disease."
+   "explain": {
+    "html": "<p>Cardiomyopathy and heart block decades after a childhood in a rural thatched-roof home, plus megaesophagus and megacolon, describe chronic <b>Chagas disease</b> from <b>Trypanosoma cruzi</b>. Diagnosis requires two different serologic tests, and sudden cardiac death is the most feared outcome.</p><p>The triatomine (kissing) bug bites, then <b>defecates</b>; the person scratches, and feces containing trypomastigotes enter through the break in the skin. That is why the infection is linked to poverty and thatched housing. Treatment is benznidazole or nifurtimox.</p>",
+    "table": null,
+    "why": [
+     "Anopheles transmits malaria, which does not cause megacolon or cardiomyopathy decades later.",
+     "",
+     "Tsetse flies transmit African trypanosomiasis.",
+     "Inhaled spores describe anthrax, not a trypanosome.",
+     "Prolonged Ixodes attachment transmits Lyme disease."
+    ],
+    "takeaway": "Trypanosoma cruzi enters through skin breaks contaminated with triatomine feces and decades later causes cardiomyopathy, heart block, megaesophagus and megacolon.",
+    "topic": "Chagas disease",
+    "subject": "Microbiology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w07-lec37/slide_64.jpg",
+     "slide": 64,
+     "caption": "Lecture 37 slides (2025-26) · Page 64"
+    }
+   ]
   }
  ]
 }

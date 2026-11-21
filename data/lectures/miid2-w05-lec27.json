@@ -19,7 +19,27 @@
    ],
    "answer": 0,
    "evidence": [],
-   "note": "**Levofloxacin and moxifloxacin are respiratory fluoroquinolones active against S. pneumoniae; ciprofloxacin is not used for pneumonia, and moxifloxacin is not used for UTIs.**\n\nLancet-shaped Gram-positive diplococci are *Streptococcus pneumoniae*. The lecture divides the class: ciprofloxacin has poor streptococcal coverage and is not indicated for community-acquired pneumonia; levofloxacin and moxifloxacin are the \"respiratory fluoroquinolones,\" active against *S. pneumoniae* and atypicals.\n\nBetween the two respiratory agents, moxifloxacin is metabolized by the liver and does not reach adequate urinary concentrations, so it cannot treat a urinary tract infection. Levofloxacin covers *S. pneumoniae*, atypicals and some *Pseudomonas*, and is renally excreted, so it fits both needs.\n\nLevofloxacin, a respiratory agent with good streptococcal coverage: correct. Levofloxacin is a respiratory fluoroquinolone with good *S. pneumoniae* coverage and adequate urinary levels.\n\nCiprofloxacin, because it has the strongest Gram-negative activity of the class: incorrect. Ciprofloxacin has poor streptococcal coverage and is not used for community-acquired pneumonia.\n\nMoxifloxacin, because it has the greatest anaerobic activity of the class: incorrect. Moxifloxacin covers pneumonia but cannot be used for urinary tract infections.\n\nCiprofloxacin, because poor urinary levels are not a concern in pneumonia: incorrect. Ciprofloxacin fails the pneumonia indication because of poor *S. pneumoniae* activity.\n\nMoxifloxacin, because it is renally excreted and reaches high urine levels: incorrect. Moxifloxacin is the fluoroquinolone that is not renally excreted and has poor urinary levels."
+   "explain": {
+    "html": "<p>Lancet-shaped Gram-positive diplococci are <i>Streptococcus pneumoniae</i>. The lecture divides the class: ciprofloxacin has poor streptococcal coverage and is not indicated for community-acquired pneumonia; levofloxacin and moxifloxacin are the \"respiratory fluoroquinolones,\" active against <i>S. pneumoniae</i> and atypicals.</p><p>Between the two respiratory agents, moxifloxacin is metabolized by the liver and does not reach adequate urinary concentrations, so it cannot treat a urinary tract infection. Levofloxacin covers <i>S. pneumoniae</i>, atypicals and some <i>Pseudomonas</i>, and is renally excreted, so it fits both needs.</p>",
+    "table": null,
+    "why": [
+     "",
+     "Ciprofloxacin has poor streptococcal coverage and is not used for community-acquired pneumonia.",
+     "Moxifloxacin covers pneumonia but cannot be used for urinary tract infections.",
+     "Ciprofloxacin fails the pneumonia indication because of poor S. pneumoniae activity.",
+     "Moxifloxacin is the fluoroquinolone that is not renally excreted and has poor urinary levels."
+    ],
+    "takeaway": "Levofloxacin and moxifloxacin are respiratory fluoroquinolones active against S. pneumoniae; ciprofloxacin is not used for pneumonia, and moxifloxacin is not used for UTIs.",
+    "topic": "Respiratory versus urinary fluoroquinolones",
+    "subject": "Pharmacology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w05-lec27/slide_10.jpg",
+     "slide": 10,
+     "caption": "Lecture 27 slides (2025-26) · Page 10"
+    }
+   ]
   },
   {
    "id": "miid2-w05-lec27-q02",
@@ -35,7 +55,27 @@
    ],
    "answer": 1,
    "evidence": [],
-   "note": "**Aminoglycosides alone cover Gram-negatives (including Pseudomonas); against Gram-positives they act synergistically with cell wall inhibitors, which increase their entry.**\n\nAminoglycosides irreversibly bind the 30S ribosomal subunit, cause misreading of messenger RNA and are bactericidal. Used alone they have only Gram-negative activity, including *Pseudomonas*. Against Gram-positive organisms such as *Enterococcus* and *S. aureus*, they are used for synergy with a cell wall agent.\n\nThe lecture's explanation is that beta-lactams or vancomycin weaken the cell wall and increase aminoglycoside entry into the bacterium, letting the drug reach its ribosomal target. That is why ampicillin plus gentamicin is a classic regimen for enterococcal endocarditis.\n\nGentamicin inhibits the beta-lactamase that degrades ampicillin in enterococci: incorrect. The mechanism is enhanced uptake, not inhibition of a beta-lactamase.\n\nAmpicillin damage to the cell wall increases gentamicin entry to the 30S ribosomal subunit: correct. Cell wall inhibitors increase aminoglycoside entry, producing synergistic killing of Gram-positives.\n\nAmpicillin and gentamicin bind two different sites on the 50S subunit together: incorrect. Aminoglycosides bind the 30S subunit, and ampicillin does not bind ribosomes.\n\nGentamicin blocks efflux pumps that would otherwise remove ampicillin: incorrect. Aminoglycosides do not inhibit efflux pumps.\n\nThe combination blocks two sequential steps in bacterial folate synthesis: incorrect. Sequential folate blockade describes trimethoprim-sulfamethoxazole."
+   "explain": {
+    "html": "<p>Aminoglycosides irreversibly bind the 30S ribosomal subunit, cause misreading of messenger RNA and are bactericidal. Used alone they have only Gram-negative activity, including <i>Pseudomonas</i>. Against Gram-positive organisms such as <i>Enterococcus</i> and <i>S. aureus</i>, they are used for synergy with a cell wall agent.</p><p>The lecture's explanation is that beta-lactams or vancomycin weaken the cell wall and increase aminoglycoside entry into the bacterium, letting the drug reach its ribosomal target. That is why ampicillin plus gentamicin is a classic regimen for enterococcal endocarditis.</p>",
+    "table": null,
+    "why": [
+     "The mechanism is enhanced uptake, not inhibition of a beta-lactamase.",
+     "",
+     "Aminoglycosides bind the 30S subunit, and ampicillin does not bind ribosomes.",
+     "Aminoglycosides do not inhibit efflux pumps.",
+     "Sequential folate blockade describes trimethoprim-sulfamethoxazole."
+    ],
+    "takeaway": "Aminoglycosides alone cover Gram-negatives (including Pseudomonas); against Gram-positives they act synergistically with cell wall inhibitors, which increase their entry.",
+    "topic": "Aminoglycoside synergy with cell wall agents",
+    "subject": "Pharmacology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w05-lec27/slide_18.jpg",
+     "slide": 18,
+     "caption": "Lecture 27 slides (2025-26) · Page 18"
+    }
+   ]
   },
   {
    "id": "miid2-w05-lec27-q03",
@@ -51,7 +91,27 @@
    ],
    "answer": 4,
    "evidence": [],
-   "note": "**Tetracyclines bind 30S reversibly to block tRNA at the A site; they stain and deform developing teeth and are avoided in pregnancy.**\n\nReversible 30S binding that blocks aminoacyl-tRNA attachment at the A site is the tetracycline mechanism, which halts elongation and is bacteriostatic. Tetracyclines would cover atypical pneumonia, which is why the drug was considered.\n\nThe lecture's tetracycline adverse effects are hepatotoxicity, chelation of cations, photosensitivity, esophagitis, and staining or deformity of teeth, with a clear warning to avoid them in pregnancy. Developing teeth (and bone) bind the drug, which is why tetracyclines are avoided in pregnancy and young children.\n\nIrreversible ototoxicity of the developing inner ear: incorrect. Ototoxicity is the aminoglycoside concern.\n\nNeural tube defects from folate antagonism: incorrect. Folate antagonism belongs to trimethoprim-sulfamethoxazole, not tetracyclines.\n\nNeonatal jaundice from displacement of bilirubin: incorrect. Neonatal jaundice from the drug is the ceftriaxone concern taught in this block.\n\nInterstitial nephritis of the fetal kidney: incorrect. Interstitial nephritis is linked to nafcillin, not tetracyclines.\n\nStaining and deformity of developing teeth: correct. Tetracyclines stain and deform developing teeth and are avoided in pregnancy."
+   "explain": {
+    "html": "<p>Reversible 30S binding that blocks aminoacyl-tRNA attachment at the A site is the tetracycline mechanism, which halts elongation and is bacteriostatic. Tetracyclines would cover atypical pneumonia, which is why the drug was considered.</p><p>The lecture's tetracycline adverse effects are hepatotoxicity, chelation of cations, photosensitivity, esophagitis, and staining or deformity of teeth, with a clear warning to avoid them in pregnancy. Developing teeth (and bone) bind the drug, which is why tetracyclines are avoided in pregnancy and young children.</p>",
+    "table": null,
+    "why": [
+     "Ototoxicity is the aminoglycoside concern.",
+     "Folate antagonism belongs to trimethoprim-sulfamethoxazole, not tetracyclines.",
+     "Neonatal jaundice from the drug is the ceftriaxone concern taught in this block.",
+     "Interstitial nephritis is linked to nafcillin, not tetracyclines.",
+     ""
+    ],
+    "takeaway": "Tetracyclines bind 30S reversibly to block tRNA at the A site; they stain and deform developing teeth and are avoided in pregnancy.",
+    "topic": "Tetracycline adverse effects and distribution",
+    "subject": "Pharmacology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w05-lec27/slide_22.jpg",
+     "slide": 22,
+     "caption": "Lecture 27 slides (2025-26) · Page 22"
+    }
+   ]
   },
   {
    "id": "miid2-w05-lec27-q04",
@@ -67,7 +127,27 @@
    ],
    "answer": 2,
    "evidence": [],
-   "note": "**Tigecycline and eravacycline cover MRSA, VRE, ESBL producers, Acinetobacter and anaerobes but not the \"4 Ps\": Pseudomonas, Proteus, Providencia, Morganella.**\n\nTigecycline (and eravacycline) extend the tetracycline spectrum to ESBL-producing Gram-negatives, *Acinetobacter*, MRSA, VRE, anaerobes and some mycobacteria. The lecture marks its gaps as the \"4 Ps\": no *Pseudomonas*, no *Proteus*, no *Providencia*, no *Morganella* (formerly *Proteus*).\n\nSo in this mixed infection, *Proteus mirabilis* is the organism the drug would leave uncovered.\n\nAcinetobacter baumannii: incorrect. Tigecycline covers *Acinetobacter*, including resistant strains.\n\nBacteroides fragilis: incorrect. Tigecycline has anaerobic activity, including *Bacteroides*.\n\nProteus mirabilis: correct. *Proteus* is one of the \"4 Ps\" that tigecycline does not cover.\n\nStreptococcus pyogenes: incorrect. Tigecycline covers Gram-positive cocci, including resistant ones.\n\nEscherichia coli: incorrect. Tigecycline covers Gram-negatives such as *E. coli*, including ESBL producers."
+   "explain": {
+    "html": "<p>Tigecycline (and eravacycline) extend the tetracycline spectrum to ESBL-producing Gram-negatives, <i>Acinetobacter</i>, MRSA, VRE, anaerobes and some mycobacteria. The lecture marks its gaps as the \"4 Ps\": no <i>Pseudomonas</i>, no <i>Proteus</i>, no <i>Providencia</i>, no <i>Morganella</i> (formerly <i>Proteus</i>).</p><p>So in this mixed infection, <i>Proteus mirabilis</i> is the organism the drug would leave uncovered.</p>",
+    "table": null,
+    "why": [
+     "Tigecycline covers Acinetobacter, including resistant strains.",
+     "Tigecycline has anaerobic activity, including Bacteroides.",
+     "",
+     "Tigecycline covers Gram-positive cocci, including resistant ones.",
+     "Tigecycline covers Gram-negatives such as E. coli, including ESBL producers."
+    ],
+    "takeaway": "Tigecycline and eravacycline cover MRSA, VRE, ESBL producers, Acinetobacter and anaerobes but not the \"4 Ps\": Pseudomonas, Proteus, Providencia, Morganella.",
+    "topic": "Tigecycline spectrum gaps",
+    "subject": "Pharmacology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w05-lec27/slide_53.jpg",
+     "slide": 53,
+     "caption": "Lecture 27 slides (2025-26) · Page 53"
+    }
+   ]
   },
   {
    "id": "miid2-w05-lec27-q05",
@@ -83,7 +163,27 @@
    ],
    "answer": 4,
    "evidence": [],
-   "note": "**Clindamycin (50S, peptidyl transferase, bacteriostatic) covers Gram-positives including MRSA, anaerobes and toxin producers, has no Gram-negative activity, and is strongly linked to C. difficile colitis.**\n\nA 50S binder that inhibits peptidyl transferase, covers MRSA and anaerobes and is used for oropharyngeal and skin infections is clindamycin, a lincosamide. It is bacteriostatic. The lecture lists its spectrum as Gram-positives including MRSA, anaerobes and an anti-toxin effect against toxin-producing Gram-positive organisms, with no Gram-negative activity (intrinsic resistance) and lots of resistance, including cross-resistance with macrolides.\n\nHis diarrhea with pseudomembranes is *C. difficile* colitis, the adverse effect the lecture ties most closely to clindamycin. Clindamycin causes it; it does not treat it (oral vancomycin or fidaxomicin do).\n\nIt is intrinsically active against most Gram-negative rods: incorrect. Gram-negatives are intrinsically resistant to clindamycin.\n\nIt is the oral drug of choice for this patient's colitis: incorrect. Clindamycin causes pseudomembranous colitis; it is not a treatment for it.\n\nIt acts at the 30S subunit and is bactericidal against all MRSA: incorrect. Clindamycin binds the 50S subunit and is bacteriostatic.\n\nIt shows no cross-resistance with macrolide antibiotics: incorrect. There is cross-resistance between clindamycin and macrolides.\n\nIt covers anaerobes and toxin makers but not Gram-negatives: correct. Clindamycin covers Gram-positives (including MRSA), anaerobes and toxin producers, with no Gram-negative activity."
+   "explain": {
+    "html": "<p>A 50S binder that inhibits peptidyl transferase, covers MRSA and anaerobes and is used for oropharyngeal and skin infections is clindamycin, a lincosamide. It is bacteriostatic. The lecture lists its spectrum as Gram-positives including MRSA, anaerobes and an anti-toxin effect against toxin-producing Gram-positive organisms, with no Gram-negative activity (intrinsic resistance) and lots of resistance, including cross-resistance with macrolides.</p><p>His diarrhea with pseudomembranes is <i>C. difficile</i> colitis, the adverse effect the lecture ties most closely to clindamycin. Clindamycin causes it; it does not treat it (oral vancomycin or fidaxomicin do).</p>",
+    "table": null,
+    "why": [
+     "Gram-negatives are intrinsically resistant to clindamycin.",
+     "Clindamycin causes pseudomembranous colitis; it is not a treatment for it.",
+     "Clindamycin binds the 50S subunit and is bacteriostatic.",
+     "There is cross-resistance between clindamycin and macrolides.",
+     ""
+    ],
+    "takeaway": "Clindamycin (50S, peptidyl transferase, bacteriostatic) covers Gram-positives including MRSA, anaerobes and toxin producers, has no Gram-negative activity, and is strongly linked to C. difficile colitis.",
+    "topic": "Clindamycin spectrum and C. difficile",
+    "subject": "Pharmacology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w05-lec27/slide_31.jpg",
+     "slide": 31,
+     "caption": "Lecture 27 slides (2025-26) · Page 31"
+    }
+   ]
   },
   {
    "id": "miid2-w05-lec27-q06",
@@ -99,7 +199,27 @@
    ],
    "answer": 1,
    "evidence": [],
-   "note": "**Macrolides bind 50S and block translocation; clarithromycin is part of H. pylori triple therapy, and erythromycin and clarithromycin inhibit CYP enzymes, raising other drug levels.**\n\nMacrolides bind the 50S subunit, block translocation of the peptide chain from the A site to the P site and are bacteriostatic. The lecture lists clarithromycin as the macrolide used in *H. pylori* triple therapy.\n\nThe protein synthesis inhibitor table flags CYP inhibition, especially with erythromycin and clarithromycin, which raises levels of other drugs metabolized by those enzymes. Azithromycin has much less of this effect. Erythromycin's prokinetic action is a separate feature (it is used for GI motility) and would not double a drug level.\n\nAzithromycin, by chelating the drug in the gut: incorrect. Azithromycin is not the triple therapy macrolide, and chelation is a tetracycline problem.\n\nClarithromycin, by inhibiting hepatic cytochrome P450 enzymes: correct. Clarithromycin is used in *H. pylori* triple therapy and inhibits cytochrome enzymes, raising other drug levels.\n\nErythromycin, by speeding gastric emptying: incorrect. Erythromycin speeds GI motility, but it is not the triple therapy agent and motility does not explain the level.\n\nClarithromycin, by blocking renal tubular secretion: incorrect. The interaction is hepatic CYP inhibition, not renal secretion.\n\nFidaxomicin, by binding bacterial RNA polymerase: incorrect. Fidaxomicin is used only for *C. difficile*."
+   "explain": {
+    "html": "<p>Macrolides bind the 50S subunit, block translocation of the peptide chain from the A site to the P site and are bacteriostatic. The lecture lists clarithromycin as the macrolide used in <i>H. pylori</i> triple therapy.</p><p>The protein synthesis inhibitor table flags CYP inhibition, especially with erythromycin and clarithromycin, which raises levels of other drugs metabolized by those enzymes. Azithromycin has much less of this effect. Erythromycin's prokinetic action is a separate feature (it is used for GI motility) and would not double a drug level.</p>",
+    "table": null,
+    "why": [
+     "Azithromycin is not the triple therapy macrolide, and chelation is a tetracycline problem.",
+     "",
+     "Erythromycin speeds GI motility, but it is not the triple therapy agent and motility does not explain the level.",
+     "The interaction is hepatic CYP inhibition, not renal secretion.",
+     "Fidaxomicin is used only for C. difficile."
+    ],
+    "takeaway": "Macrolides bind 50S and block translocation; clarithromycin is part of H. pylori triple therapy, and erythromycin and clarithromycin inhibit CYP enzymes, raising other drug levels.",
+    "topic": "Macrolides: mechanism, spectrum, CYP interactions",
+    "subject": "Pharmacology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w05-lec27/slide_33.jpg",
+     "slide": 33,
+     "caption": "Lecture 27 slides (2025-26) · Page 33"
+    }
+   ]
   },
   {
    "id": "miid2-w05-lec27-q07",
@@ -115,7 +235,27 @@
    ],
    "answer": 4,
    "evidence": [],
-   "note": "**Fidaxomicin binds bacterial RNA polymerase to block transcription initiation, is used only for C. difficile, and better prevents recurrence.**\n\nThe drug is fidaxomicin, a macrocyclic macrolide used only for *C. difficile* infection and more effective than alternatives at preventing recurrence. Its target is bacterial RNA polymerase: it binds the switch region and prevents the enzyme from opening and closing the DNA clamp, blocking transcription initiation and mRNA synthesis.\n\nThat sets it apart from the classic macrolides, which bind the 50S ribosomal subunit and block translocation. Its main adverse effect is GI disturbance.\n\nTranslocation of the growing peptide chain on the 50S subunit: incorrect. Blocking translocation on the 50S subunit is how azithromycin and other classic macrolides act.\n\nReduction of a nitro group to toxic free radicals in anaerobes: incorrect. Nitro group reduction to free radicals is the metronidazole mechanism.\n\nFormation of the 70S initiation complex at the 23S rRNA: incorrect. Blocking the 70S initiation complex at 23S rRNA is linezolid.\n\nSupercoiling of DNA by DNA gyrase during replication: incorrect. DNA gyrase is the fluoroquinolone target.\n\nOpening and closing of the RNA polymerase clamp at transcription initiation: correct. Fidaxomicin binds the RNA polymerase switch region and blocks transcription initiation."
+   "explain": {
+    "html": "<p>The drug is fidaxomicin, a macrocyclic macrolide used only for <i>C. difficile</i> infection and more effective than alternatives at preventing recurrence. Its target is bacterial RNA polymerase: it binds the switch region and prevents the enzyme from opening and closing the DNA clamp, blocking transcription initiation and mRNA synthesis.</p><p>That sets it apart from the classic macrolides, which bind the 50S ribosomal subunit and block translocation. Its main adverse effect is GI disturbance.</p>",
+    "table": null,
+    "why": [
+     "Blocking translocation on the 50S subunit is how azithromycin and other classic macrolides act.",
+     "Nitro group reduction to free radicals is the metronidazole mechanism.",
+     "Blocking the 70S initiation complex at 23S rRNA is linezolid.",
+     "DNA gyrase is the fluoroquinolone target.",
+     ""
+    ],
+    "takeaway": "Fidaxomicin binds bacterial RNA polymerase to block transcription initiation, is used only for C. difficile, and better prevents recurrence.",
+    "topic": "Fidaxomicin",
+    "subject": "Pharmacology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w05-lec27/slide_36.jpg",
+     "slide": 36,
+     "caption": "Lecture 27 slides (2025-26) · Page 36"
+    }
+   ]
   },
   {
    "id": "miid2-w05-lec27-q08",
@@ -131,7 +271,27 @@
    ],
    "answer": 2,
    "evidence": [],
-   "note": "**Sulfamethoxazole inhibits dihydropteroate synthase and trimethoprim inhibits dihydrofolate reductase; sequential folate blockade makes the combination bactericidal.**\n\nThis is trimethoprim-sulfamethoxazole. Sulfamethoxazole (drug X) inhibits dihydropteroate synthase and blocks formation of dihydrofolic acid. Trimethoprim (drug Y) inhibits dihydrofolate reductase, the later step that converts dihydrofolic acid to tetrahydrofolic acid.\n\nBlocking two sequential steps of folate synthesis starves the cell of the folate needed for DNA synthesis. The lecture notes the synergy: each drug alone is weaker, but the combination is bactericidal.\n\nDNA gyrase, then topoisomerase IV: incorrect. DNA gyrase and topoisomerase IV are fluoroquinolone targets.\n\nDihydrofolate reductase, then dihydropteroate synthase: incorrect. This reverses the order; dihydropteroate synthase acts first, and that is the sulfonamide target.\n\nDihydropteroate synthase, then dihydrofolate reductase: correct. Sulfamethoxazole inhibits dihydropteroate synthase, then trimethoprim inhibits dihydrofolate reductase.\n\nPeptidyl transferase, then RNA polymerase: incorrect. Peptidyl transferase and RNA polymerase are targets of clindamycin and fidaxomicin.\n\nThymidylate synthase, then dihydropteroate synthase: incorrect. Thymidylate synthase is not a target taught for these drugs."
+   "explain": {
+    "html": "<p>This is trimethoprim-sulfamethoxazole. Sulfamethoxazole (drug X) inhibits dihydropteroate synthase and blocks formation of dihydrofolic acid. Trimethoprim (drug Y) inhibits dihydrofolate reductase, the later step that converts dihydrofolic acid to tetrahydrofolic acid.</p><p>Blocking two sequential steps of folate synthesis starves the cell of the folate needed for DNA synthesis. The lecture notes the synergy: each drug alone is weaker, but the combination is bactericidal.</p>",
+    "table": null,
+    "why": [
+     "DNA gyrase and topoisomerase IV are fluoroquinolone targets.",
+     "This reverses the order; dihydropteroate synthase acts first, and that is the sulfonamide target.",
+     "",
+     "Peptidyl transferase and RNA polymerase are targets of clindamycin and fidaxomicin.",
+     "Thymidylate synthase is not a target taught for these drugs."
+    ],
+    "takeaway": "Sulfamethoxazole inhibits dihydropteroate synthase and trimethoprim inhibits dihydrofolate reductase; sequential folate blockade makes the combination bactericidal.",
+    "topic": "TMP-SMX: sequential folate blockade",
+    "subject": "Pharmacology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w05-lec27/slide_39.jpg",
+     "slide": 39,
+     "caption": "Lecture 27 slides (2025-26) · Page 39"
+    }
+   ]
   },
   {
    "id": "miid2-w05-lec27-q09",
@@ -147,7 +307,27 @@
    ],
    "answer": 1,
    "evidence": [],
-   "note": "**Fluoroquinolones inhibit DNA gyrase and topoisomerase IV; tendinopathy and tendon rupture are a key adverse effect, especially in older patients on corticosteroids.**\n\nAn oral agent with oral bioavailability close to intravenous, strong Gram-negative and *Pseudomonas* coverage, poor streptococcal coverage and a role in urinary infections is ciprofloxacin, a fluoroquinolone. The sudden pop and loss of plantar flexion describe Achilles tendon rupture, a fluoroquinolone adverse effect that the lecture flags especially in the elderly and in patients taking corticosteroids.\n\nFluoroquinolones inhibit DNA gyrase (topoisomerase II, mainly in Gram-negatives) and topoisomerase IV (mainly in Gram-positives), blocking DNA replication and repair. Their killing is concentration dependent and bactericidal.\n\nThe 30S ribosomal subunit, causing misreading of messenger RNA: incorrect. 30S binding with misreading is the aminoglycoside mechanism; aminoglycosides cause ototoxicity, not tendon rupture.\n\nDNA gyrase and topoisomerase IV, blocking DNA replication: correct. Fluoroquinolones such as ciprofloxacin inhibit DNA gyrase and topoisomerase IV and can cause tendon rupture.\n\nDihydrofolate reductase, blocking the last step of folate synthesis: incorrect. Dihydrofolate reductase is the trimethoprim target.\n\nPenicillin-binding proteins, blocking peptidoglycan cross-linking: incorrect. PBP binding is the beta-lactam mechanism.\n\nBacterial RNA polymerase, blocking the start of transcription: incorrect. RNA polymerase is the target of fidaxomicin."
+   "explain": {
+    "html": "<p>An oral agent with oral bioavailability close to intravenous, strong Gram-negative and <i>Pseudomonas</i> coverage, poor streptococcal coverage and a role in urinary infections is ciprofloxacin, a fluoroquinolone. The sudden pop and loss of plantar flexion describe Achilles tendon rupture, a fluoroquinolone adverse effect that the lecture flags especially in the elderly and in patients taking corticosteroids.</p><p>Fluoroquinolones inhibit DNA gyrase (topoisomerase II, mainly in Gram-negatives) and topoisomerase IV (mainly in Gram-positives), blocking DNA replication and repair. Their killing is concentration dependent and bactericidal.</p>",
+    "table": null,
+    "why": [
+     "30S binding with misreading is the aminoglycoside mechanism; aminoglycosides cause ototoxicity, not tendon rupture.",
+     "",
+     "Dihydrofolate reductase is the trimethoprim target.",
+     "PBP binding is the beta-lactam mechanism.",
+     "RNA polymerase is the target of fidaxomicin."
+    ],
+    "takeaway": "Fluoroquinolones inhibit DNA gyrase and topoisomerase IV; tendinopathy and tendon rupture are a key adverse effect, especially in older patients on corticosteroids.",
+    "topic": "Fluoroquinolones: tendon rupture",
+    "subject": "Pharmacology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w05-lec27/slide_09.jpg",
+     "slide": 9,
+     "caption": "Lecture 27 slides (2025-26) · Page 9"
+    }
+   ]
   },
   {
    "id": "miid2-w05-lec27-q10",
@@ -163,7 +343,27 @@
    ],
    "answer": 3,
    "evidence": [],
-   "note": "**Fluoroquinolones and macrolides both prolong the QT interval; combining them, especially with antiarrhythmics, risks torsades de pointes.**\n\nThe second drug, a 50S binder that blocks translocation and covers *Mycoplasma*, is a macrolide (such as azithromycin). Both fluoroquinolones and macrolides prolong the QTc interval by inhibiting cardiac repolarization, and the lecture notes QT prolongation with fluoroquinolones especially in combination with macrolides, with caution and closer monitoring when antiarrhythmics are also given.\n\nPolymorphic ventricular tachycardia with twisting complexes is torsades de pointes, the arrhythmia the lecture lists under fluoroquinolone cardiac toxicity. Stacking two QT-prolonging antibiotics on an antiarrhythmic is the setup.\n\nHyperkalemia from blockade of sodium channels in the distal nephron: incorrect. Hyperkalemia is a trimethoprim-sulfamethoxazole effect, and neither drug here causes it.\n\nDirect histamine release that causes vasodilation and hypotension: incorrect. Rate-related histamine release is vancomycin flushing syndrome.\n\nSerotonin excess from weak inhibition of monoamine oxidase: incorrect. Weak MAO inhibition with serotonin syndrome is a linezolid effect.\n\nDelayed cardiac repolarization that prolongs the QT interval: correct. Fluoroquinolones and macrolides both prolong the QT interval, and together they can trigger torsades de pointes.\n\nNeuromuscular blockade that weakens the respiratory muscles: incorrect. Neuromuscular blockade is an aminoglycoside effect."
+   "explain": {
+    "html": "<p>The second drug, a 50S binder that blocks translocation and covers <i>Mycoplasma</i>, is a macrolide (such as azithromycin). Both fluoroquinolones and macrolides prolong the QTc interval by inhibiting cardiac repolarization, and the lecture notes QT prolongation with fluoroquinolones especially in combination with macrolides, with caution and closer monitoring when antiarrhythmics are also given.</p><p>Polymorphic ventricular tachycardia with twisting complexes is torsades de pointes, the arrhythmia the lecture lists under fluoroquinolone cardiac toxicity. Stacking two QT-prolonging antibiotics on an antiarrhythmic is the setup.</p>",
+    "table": null,
+    "why": [
+     "Hyperkalemia is a trimethoprim-sulfamethoxazole effect, and neither drug here causes it.",
+     "Rate-related histamine release is vancomycin flushing syndrome.",
+     "Weak MAO inhibition with serotonin syndrome is a linezolid effect.",
+     "",
+     "Neuromuscular blockade is an aminoglycoside effect."
+    ],
+    "takeaway": "Fluoroquinolones and macrolides both prolong the QT interval; combining them, especially with antiarrhythmics, risks torsades de pointes.",
+    "topic": "QT prolongation with fluoroquinolones and macrolides",
+    "subject": "Pharmacology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w05-lec27/slide_11.jpg",
+     "slide": 11,
+     "caption": "Lecture 27 slides (2025-26) · Page 11"
+    }
+   ]
   },
   {
    "id": "miid2-w05-lec27-q11",
@@ -179,7 +379,27 @@
    ],
    "answer": 3,
    "evidence": [],
-   "note": "**Aminoglycoside class toxicities are ototoxicity, nephrotoxicity (acute tubular necrosis) and neuromuscular blockade, worse in kidney disease and myasthenia gravis.**\n\nIrreversible 30S binding, bactericidal activity and a narrow therapeutic window that requires levels describe an aminoglycoside (gentamicin, tobramycin, amikacin). The class-wide adverse effects in the lecture are ototoxicity (auditory and vestibular, possibly irreversible), nephrotoxicity as acute tubular necrosis, and neuromuscular blockade.\n\nHer history makes each one worse: chronic kidney disease raises nephrotoxicity risk, and myasthenia gravis raises the risk of flaccid paralysis or respiratory depression from neuromuscular blockade.\n\nTendon rupture, QT prolongation and photosensitivity: incorrect. Tendon rupture, QT prolongation and photosensitivity are fluoroquinolone effects.\n\nTooth staining, esophagitis and hepatotoxicity: incorrect. Tooth staining, esophagitis and hepatotoxicity are tetracycline effects.\n\nThrombocytopenia, optic neuritis and lactic acidosis: incorrect. Thrombocytopenia, optic neuritis and lactic acidosis are linezolid effects.\n\nOtotoxicity, nephrotoxicity and neuromuscular blockade: correct. Aminoglycosides cause ototoxicity, nephrotoxicity (acute tubular necrosis) and neuromuscular blockade.\n\nCreatine kinase elevation, myopathy and eosinophilic pneumonia: incorrect. Creatine kinase elevation, myopathy and eosinophilic pneumonia are daptomycin effects."
+   "explain": {
+    "html": "<p>Irreversible 30S binding, bactericidal activity and a narrow therapeutic window that requires levels describe an aminoglycoside (gentamicin, tobramycin, amikacin). The class-wide adverse effects in the lecture are ototoxicity (auditory and vestibular, possibly irreversible), nephrotoxicity as acute tubular necrosis, and neuromuscular blockade.</p><p>Her history makes each one worse: chronic kidney disease raises nephrotoxicity risk, and myasthenia gravis raises the risk of flaccid paralysis or respiratory depression from neuromuscular blockade.</p>",
+    "table": null,
+    "why": [
+     "Tendon rupture, QT prolongation and photosensitivity are fluoroquinolone effects.",
+     "Tooth staining, esophagitis and hepatotoxicity are tetracycline effects.",
+     "Thrombocytopenia, optic neuritis and lactic acidosis are linezolid effects.",
+     "",
+     "Creatine kinase elevation, myopathy and eosinophilic pneumonia are daptomycin effects."
+    ],
+    "takeaway": "Aminoglycoside class toxicities are ototoxicity, nephrotoxicity (acute tubular necrosis) and neuromuscular blockade, worse in kidney disease and myasthenia gravis.",
+    "topic": "Aminoglycoside toxicity",
+    "subject": "Pharmacology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w05-lec27/slide_19.jpg",
+     "slide": 19,
+     "caption": "Lecture 27 slides (2025-26) · Page 19"
+    }
+   ]
   },
   {
    "id": "miid2-w05-lec27-q12",
@@ -195,7 +415,27 @@
    ],
    "answer": 0,
    "evidence": [],
-   "note": "**Doxycycline is the drug of choice for rickettsial infections and Lyme disease; tetracyclines chelate divalent cations (milk, antacids, iron), which blocks absorption.**\n\nFever, headache and a petechial rash moving from wrists and ankles to the trunk after a tick bite describes Rocky Mountain spotted fever, a rickettsial disease. The lecture names doxycycline the drug of choice for most infections caused by rickettsiae and *Borrelia*, because tetracyclines penetrate cells and kill intracellular pathogens.\n\nTetracyclines chelate divalent cations, so milk, antacids and iron supplements bind the drug in the gut and reduce absorption. He should separate doses from these products.\n\nDivalent cations in milk and antacids chelate it in the gut: correct. Doxycycline chelates divalent cations in milk, antacids and iron, which blocks absorption.\n\nMilk and antacids speed its renal clearance and require a higher dose: incorrect. Tetracyclines are mostly cleared by the liver; the interaction is in the gut, not the kidney.\n\nAntacids raise gastric pH and convert the drug to a toxic metabolite: incorrect. Raised gastric pH does not create a toxic metabolite of doxycycline.\n\nCalcium in milk precipitates the drug in the bile and causes sludging: incorrect. Calcium precipitation and biliary sludging are ceftriaxone problems.\n\nMilk proteins bind the drug in plasma and prevent it from entering cells: incorrect. The interaction is chelation in the gut, not plasma protein binding."
+   "explain": {
+    "html": "<p>Fever, headache and a petechial rash moving from wrists and ankles to the trunk after a tick bite describes Rocky Mountain spotted fever, a rickettsial disease. The lecture names doxycycline the drug of choice for most infections caused by rickettsiae and <i>Borrelia</i>, because tetracyclines penetrate cells and kill intracellular pathogens.</p><p>Tetracyclines chelate divalent cations, so milk, antacids and iron supplements bind the drug in the gut and reduce absorption. He should separate doses from these products.</p>",
+    "table": null,
+    "why": [
+     "",
+     "Tetracyclines are mostly cleared by the liver; the interaction is in the gut, not the kidney.",
+     "Raised gastric pH does not create a toxic metabolite of doxycycline.",
+     "Calcium precipitation and biliary sludging are ceftriaxone problems.",
+     "The interaction is chelation in the gut, not plasma protein binding."
+    ],
+    "takeaway": "Doxycycline is the drug of choice for rickettsial infections and Lyme disease; tetracyclines chelate divalent cations (milk, antacids, iron), which blocks absorption.",
+    "topic": "Doxycycline for rickettsial disease and chelation",
+    "subject": "Pharmacology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w05-lec27/slide_37.jpg",
+     "slide": 37,
+     "caption": "Lecture 27 slides (2025-26) · Page 37"
+    }
+   ]
   },
   {
    "id": "miid2-w05-lec27-q13",
@@ -211,7 +451,27 @@
    ],
    "answer": 0,
    "evidence": [],
-   "note": "**Linezolid binds 23S rRNA of the 50S subunit to block initiation, covers MRSA and VRE, and causes serotonin syndrome with serotonergic drugs (weak MAOI), plus thrombocytopenia after about 2 weeks.**\n\nBinding the 23S rRNA of the 50S subunit to block the 70S initiation complex is the linezolid (oxazolidinone) mechanism. Linezolid covers MRSA, VRE and penicillin-resistant *S. pneumoniae*.\n\nAgitation, fever, tachycardia, tremor, hyperreflexia and clonus in a patient taking an SSRI are serotonin syndrome. The lecture warns that linezolid causes serotonin syndrome when combined with other serotonergic agents because of its weak monoamine oxidase inhibitor activity. Its other adverse effects are thrombocytopenia after about 2 weeks, peripheral and optic neuropathy and, rarely, lactic acidosis.\n\nIt has weak monoamine oxidase inhibitor activity: correct. Linezolid is a weak MAO inhibitor and precipitates serotonin syndrome with serotonergic drugs.\n\nIt inhibits hepatic cytochrome enzymes and raises sertraline levels: incorrect. CYP inhibition is the macrolide (erythromycin, clarithromycin) interaction, not linezolid's.\n\nIt prolongs cardiac repolarization and causes sympathetic surge: incorrect. QT prolongation is a fluoroquinolone and macrolide effect and does not produce clonus.\n\nIt suppresses the marrow and causes fever from neutropenia: incorrect. Linezolid myelosuppression is mainly thrombocytopenia after about 2 weeks, not this neuromuscular picture.\n\nIt causes lactic acidosis that stimulates the nervous system: incorrect. Lactic acidosis is a rare linezolid effect but does not explain clonus and hyperreflexia."
+   "explain": {
+    "html": "<p>Binding the 23S rRNA of the 50S subunit to block the 70S initiation complex is the linezolid (oxazolidinone) mechanism. Linezolid covers MRSA, VRE and penicillin-resistant <i>S. pneumoniae</i>.</p><p>Agitation, fever, tachycardia, tremor, hyperreflexia and clonus in a patient taking an SSRI are serotonin syndrome. The lecture warns that linezolid causes serotonin syndrome when combined with other serotonergic agents because of its weak monoamine oxidase inhibitor activity. Its other adverse effects are thrombocytopenia after about 2 weeks, peripheral and optic neuropathy and, rarely, lactic acidosis.</p>",
+    "table": null,
+    "why": [
+     "",
+     "CYP inhibition is the macrolide (erythromycin, clarithromycin) interaction, not linezolid's.",
+     "QT prolongation is a fluoroquinolone and macrolide effect and does not produce clonus.",
+     "Linezolid myelosuppression is mainly thrombocytopenia after about 2 weeks, not this neuromuscular picture.",
+     "Lactic acidosis is a rare linezolid effect but does not explain clonus and hyperreflexia."
+    ],
+    "takeaway": "Linezolid binds 23S rRNA of the 50S subunit to block initiation, covers MRSA and VRE, and causes serotonin syndrome with serotonergic drugs (weak MAOI), plus thrombocytopenia after about 2 weeks.",
+    "topic": "Linezolid and serotonin syndrome",
+    "subject": "Pharmacology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w05-lec27/slide_28.jpg",
+     "slide": 28,
+     "caption": "Lecture 27 slides (2025-26) · Page 28"
+    }
+   ]
   },
   {
    "id": "miid2-w05-lec27-q14",
@@ -227,7 +487,27 @@
    ],
    "answer": 2,
    "evidence": [],
-   "note": "**Trimethoprim-sulfamethoxazole treats PCP and covers MRSA, Nocardia, Listeria and Stenotrophomonas (not Pseudomonas); hyperkalemia is a key adverse effect.**\n\nSilver-staining cysts in an HIV patient with a low CD4 count point to *Pneumocystis jirovecii* pneumonia (PCP), and the lecture lists trimethoprim-sulfamethoxazole for PCP. Hyperkalemia is one of its listed adverse effects, along with crystalluria, marrow suppression, photosensitivity, rash and Stevens-Johnson syndrome.\n\nIts spectrum in the lecture includes Gram-positives including MRSA, Gram-negatives such as *E. coli*, *Klebsiella* and *Stenotrophomonas* (but no *Pseudomonas*), and others: *Pneumocystis*, *Nocardia* and *Listeria*.\n\nPseudomonas aeruginosa: incorrect. TMP-SMX has no *Pseudomonas* activity.\n\nBacteroides fragilis: incorrect. Anaerobes such as *B. fragilis* are not part of its spectrum; metronidazole covers them.\n\nNocardia species: correct. TMP-SMX covers *Nocardia*, along with *Pneumocystis* and *Listeria*.\n\nEnterococcus faecium: incorrect. VRE is not covered by TMP-SMX.\n\nMycoplasma pneumoniae: incorrect. Atypicals such as *Mycoplasma* are covered by macrolides, tetracyclines and respiratory fluoroquinolones."
+   "explain": {
+    "html": "<p>Silver-staining cysts in an HIV patient with a low CD4 count point to <i>Pneumocystis jirovecii</i> pneumonia (PCP), and the lecture lists trimethoprim-sulfamethoxazole for PCP. Hyperkalemia is one of its listed adverse effects, along with crystalluria, marrow suppression, photosensitivity, rash and Stevens-Johnson syndrome.</p><p>Its spectrum in the lecture includes Gram-positives including MRSA, Gram-negatives such as <i>E. coli</i>, <i>Klebsiella</i> and <i>Stenotrophomonas</i> (but no <i>Pseudomonas</i>), and others: <i>Pneumocystis</i>, <i>Nocardia</i> and <i>Listeria</i>.</p>",
+    "table": null,
+    "why": [
+     "TMP-SMX has no Pseudomonas activity.",
+     "Anaerobes such as B. fragilis are not part of its spectrum; metronidazole covers them.",
+     "",
+     "VRE is not covered by TMP-SMX.",
+     "Atypicals such as Mycoplasma are covered by macrolides, tetracyclines and respiratory fluoroquinolones."
+    ],
+    "takeaway": "Trimethoprim-sulfamethoxazole treats PCP and covers MRSA, Nocardia, Listeria and Stenotrophomonas (not Pseudomonas); hyperkalemia is a key adverse effect.",
+    "topic": "TMP-SMX: PCP and hyperkalemia",
+    "subject": "Pharmacology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w05-lec27/slide_29.jpg",
+     "slide": 29,
+     "caption": "Lecture 27 slides (2025-26) · Page 29"
+    }
+   ]
   },
   {
    "id": "miid2-w05-lec27-q15",
@@ -243,7 +523,27 @@
    ],
    "answer": 3,
    "evidence": [],
-   "note": "**Metronidazole is a prodrug reduced in anaerobes and protozoa to DNA-damaging radicals; it treats anaerobic infections, trichomoniasis and C. difficile and causes a disulfiram-like reaction with alcohol.**\n\nMotile flagellated protozoa causing vaginitis are *Trichomonas*, and a nitroimidazole prodrug activated by reduction in anaerobes is metronidazole. Flushing, headache, nausea and palpitations after alcohol is the disulfiram-like reaction the lecture lists for metronidazole.\n\nBecause it needs anaerobic reduction to work, metronidazole covers anaerobes (*Bacteroides fragilis*, *Clostridium*) and protozoa (*Giardia*, *Trichomonas*, *Entamoeba*), and the lecture lists uses including intra-abdominal infection, bacterial vaginosis, trichomoniasis and *C. difficile*. Its other effects are metallic taste, GI upset and peripheral neuropathy with prolonged use.\n\nAn IgE reaction to the drug; it also covers MRSA well: incorrect. Alcohol-triggered flushing is not an allergy, and metronidazole does not cover aerobes such as MRSA.\n\nHistamine release from fast dosing; it also treats Pneumocystis: incorrect. Rate-related histamine release is vancomycin; *Pneumocystis* is treated with TMP-SMX.\n\nSerotonin syndrome; it also covers vancomycin-resistant Enterococcus: incorrect. Serotonin syndrome and VRE coverage describe linezolid.\n\nA disulfiram-like reaction; it also treats C. difficile: correct. Metronidazole causes a disulfiram-like reaction with alcohol and is listed for *C. difficile*.\n\nQT prolongation; it also covers atypical respiratory pathogens: incorrect. Metronidazole has no atypical coverage; QT prolongation belongs to fluoroquinolones and macrolides."
+   "explain": {
+    "html": "<p>Motile flagellated protozoa causing vaginitis are <i>Trichomonas</i>, and a nitroimidazole prodrug activated by reduction in anaerobes is metronidazole. Flushing, headache, nausea and palpitations after alcohol is the disulfiram-like reaction the lecture lists for metronidazole.</p><p>Because it needs anaerobic reduction to work, metronidazole covers anaerobes (<i>Bacteroides fragilis</i>, <i>Clostridium</i>) and protozoa (<i>Giardia</i>, <i>Trichomonas</i>, <i>Entamoeba</i>), and the lecture lists uses including intra-abdominal infection, bacterial vaginosis, trichomoniasis and <i>C. difficile</i>. Its other effects are metallic taste, GI upset and peripheral neuropathy with prolonged use.</p>",
+    "table": null,
+    "why": [
+     "Alcohol-triggered flushing is not an allergy, and metronidazole does not cover aerobes such as MRSA.",
+     "Rate-related histamine release is vancomycin; Pneumocystis is treated with TMP-SMX.",
+     "Serotonin syndrome and VRE coverage describe linezolid.",
+     "",
+     "Metronidazole has no atypical coverage; QT prolongation belongs to fluoroquinolones and macrolides."
+    ],
+    "takeaway": "Metronidazole is a prodrug reduced in anaerobes and protozoa to DNA-damaging radicals; it treats anaerobic infections, trichomoniasis and C. difficile and causes a disulfiram-like reaction with alcohol.",
+    "topic": "Metronidazole: activation and disulfiram-like reaction",
+    "subject": "Pharmacology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w05-lec27/slide_41.jpg",
+     "slide": 41,
+     "caption": "Lecture 27 slides (2025-26) · Page 41"
+    }
+   ]
   }
  ]
 }

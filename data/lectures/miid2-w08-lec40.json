@@ -19,7 +19,27 @@
    ],
    "answer": 3,
    "evidence": [],
-   "note": "**NRTIs are nucleoside analogs that competitively inhibit reverse transcriptase at the active site, while NNRTIs inhibit it allosterically at a separate pocket.**\n\nBoth nucleoside and non-nucleoside reverse transcriptase inhibitors stop the conversion of viral RNA into DNA, but they do it differently. NRTIs are nucleoside analogs that compete with natural nucleotides at the active site and are incorporated into DNA, so adding more natural nucleotide competes them off. NNRTIs bind an alternative (allosteric) site on reverse transcriptase and change its shape, so the inhibition is not overcome by substrate.\n\nDrug X binds a separate pocket and is not affected by nucleotide concentration, which identifies an NNRTI. Of the choices, only doravirine (like efavirenz, nevirapine, etravirine, and rilpivirine) is in that class.\n\n**NRTI | NNRTI**\n\n- Binding site: Active site (competitive); Allosteric pocket\n- Class toxicities: Mitochondrial: lactic acidosis, steatosis, neuropathy, lipoatrophy; Rash (including SJS/TEN), hepatotoxicity\n- Drug interactions: Minimal; CYP3A4 (most are inducers)\n\nTenofovir: incorrect. Tenofovir is a nucleotide analog that competes at the active site, an NRTI.\n\nAbacavir: incorrect. Abacavir is a guanosine analog NRTI that acts by competitive inhibition.\n\nStavudine: incorrect. Stavudine is a thymidine analog NRTI that acts by competitive inhibition.\n\nDoravirine: correct. Doravirine is an NNRTI that binds an allosteric site on reverse transcriptase.\n\nMaraviroc: incorrect. Maraviroc blocks the CCR5 coreceptor, not reverse transcriptase."
+   "explain": {
+    "html": "<p>Both nucleoside and non-nucleoside reverse transcriptase inhibitors stop the conversion of viral RNA into DNA, but they do it differently. NRTIs are nucleoside analogs that compete with natural nucleotides at the active site and are incorporated into DNA, so adding more natural nucleotide competes them off. NNRTIs bind an alternative (allosteric) site on reverse transcriptase and change its shape, so the inhibition is not overcome by substrate.</p><p>Drug X binds a separate pocket and is not affected by nucleotide concentration, which identifies an NNRTI. Of the choices, only doravirine (like efavirenz, nevirapine, etravirine, and rilpivirine) is in that class.</p>",
+    "table": "<table><tr><th></th><th>NRTI</th><th>NNRTI</th></tr><tr><td>Binding site</td><td>Active site (competitive)</td><td>Allosteric pocket</td></tr><tr><td>Class toxicities</td><td>Mitochondrial: lactic acidosis, steatosis, neuropathy, lipoatrophy</td><td>Rash (including SJS/TEN), hepatotoxicity</td></tr><tr><td>Drug interactions</td><td>Minimal</td><td>CYP3A4 (most are inducers)</td></tr></table>",
+    "why": [
+     "Tenofovir is a nucleotide analog that competes at the active site, an NRTI.",
+     "Abacavir is a guanosine analog NRTI that acts by competitive inhibition.",
+     "Stavudine is a thymidine analog NRTI that acts by competitive inhibition.",
+     "",
+     "Maraviroc blocks the CCR5 coreceptor, not reverse transcriptase."
+    ],
+    "takeaway": "NRTIs are nucleoside analogs that competitively inhibit reverse transcriptase at the active site, while NNRTIs inhibit it allosterically at a separate pocket.",
+    "topic": "NRTI versus NNRTI mechanism",
+    "subject": "Pharmacology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w08-lec40/slide_15.jpg",
+     "slide": 15,
+     "caption": "Lecture 40 slides (2025-26) · Page 15"
+    }
+   ]
   },
   {
    "id": "miid2-w08-lec40-q02",
@@ -35,7 +55,27 @@
    ],
    "answer": 3,
    "evidence": [],
-   "note": "**A positive HLA-B*5701 test contraindicates abacavir because of a high risk of hypersensitivity reaction; never rechallenge after a reaction.**\n\nAbacavir requires HLA-B*5701 testing before use. Carriers of this allele have a high risk of a potentially severe abacavir hypersensitivity reaction, so a positive test is a contraindication. The allele is found in about 3 to 5% of people overall and is most common in Scandinavian men. A patient with a prior abacavir hypersensitivity reaction should never be rechallenged.\n\nNormal kidney function is irrelevant here, since abacavir needs no renal dose adjustment. A regimen without abacavir, such as bictegravir with tenofovir alafenamide and emtricitabine, should be chosen instead.\n\nStart it, because his kidney function is normal: incorrect. Abacavir needs no renal adjustment, but renal function does not address the hypersensitivity risk.\n\nStart it but reduce the abacavir dose: incorrect. The reaction is immune mediated and is not prevented by a lower dose.\n\nStart it with a low-dose test challenge: incorrect. Rechallenge or test dosing is not recommended; a positive allele contraindicates abacavir.\n\nAvoid abacavir because of hypersensitivity risk: correct. A positive HLA-B*5701 test contraindicates abacavir because of hypersensitivity risk.\n\nAvoid lamivudine because of the risk of a hepatitis B flare: incorrect. Lamivudine carries a flare risk only on stopping in hepatitis B coinfection, which he does not have."
+   "explain": {
+    "html": "<p>Abacavir requires HLA-B*5701 testing before use. Carriers of this allele have a high risk of a potentially severe abacavir hypersensitivity reaction, so a positive test is a contraindication. The allele is found in about 3 to 5% of people overall and is most common in Scandinavian men. A patient with a prior abacavir hypersensitivity reaction should never be rechallenged.</p><p>Normal kidney function is irrelevant here, since abacavir needs no renal dose adjustment. A regimen without abacavir, such as bictegravir with tenofovir alafenamide and emtricitabine, should be chosen instead.</p>",
+    "table": null,
+    "why": [
+     "Abacavir needs no renal adjustment, but renal function does not address the hypersensitivity risk.",
+     "The reaction is immune mediated and is not prevented by a lower dose.",
+     "Rechallenge or test dosing is not recommended; a positive allele contraindicates abacavir.",
+     "",
+     "Lamivudine carries a flare risk only on stopping in hepatitis B coinfection, which he does not have."
+    ],
+    "takeaway": "A positive HLA-B*5701 test contraindicates abacavir because of a high risk of hypersensitivity reaction; never rechallenge after a reaction.",
+    "topic": "Abacavir and HLA-B*5701",
+    "subject": "Pharmacology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w08-lec40/slide_18.jpg",
+     "slide": 18,
+     "caption": "Lecture 40 slides (2025-26) · Page 18"
+    }
+   ]
   },
   {
    "id": "miid2-w08-lec40-q03",
@@ -51,7 +91,21 @@
    ],
    "answer": 4,
    "evidence": [],
-   "note": "**Zidovudine causes macrocytic anemia, myopathy, and nail pigmentation, and it is still used intravenously during labor and in the newborn to prevent perinatal HIV transmission.**\n\nA macrocytic anemia with normal B12 and folate, myopathy, and nail pigmentation after starting an older regimen points to zidovudine (AZT), the thymidine analog NRTI. Its listed adverse effects include macrocytic anemia, myopathy, gastrointestinal upset, headache, insomnia, nail pigmentation, lipoatrophy, and hyperlipidemia.\n\nZidovudine has both oral and intravenous formulations, and that is why it remains in use: it is given intravenously to the mother during labor and orally to the newborn to prevent mother-to-child transmission. It has minimal drug interactions and is renally eliminated.\n\nBoosting protease inhibitor levels: incorrect. Boosting is done with ritonavir or cobicistat, which inhibit CYP3A4.\n\nLong-acting injectable pre-exposure prophylaxis: incorrect. Long-acting injectable PrEP uses cabotegravir or lenacapavir.\n\nTreatment of chronic hepatitis B infection: incorrect. Tenofovir and lamivudine have hepatitis B activity; zidovudine is not used for HBV.\n\nSalvage therapy for multidrug-resistant virus in adults: incorrect. Salvage agents include enfuvirtide, ibalizumab, fostemsavir, and lenacapavir.\n\nPreventing mother-to-child transmission at delivery: correct. Zidovudine is given intravenously during labor and to the infant to prevent perinatal transmission."
+   "explain": {
+    "html": "<p>A macrocytic anemia with normal B12 and folate, myopathy, and nail pigmentation after starting an older regimen points to zidovudine (AZT), the thymidine analog NRTI. Its listed adverse effects include macrocytic anemia, myopathy, gastrointestinal upset, headache, insomnia, nail pigmentation, lipoatrophy, and hyperlipidemia.</p><p>Zidovudine has both oral and intravenous formulations, and that is why it remains in use: it is given intravenously to the mother during labor and orally to the newborn to prevent mother-to-child transmission. It has minimal drug interactions and is renally eliminated.</p>",
+    "table": null,
+    "why": [
+     "Boosting is done with ritonavir or cobicistat, which inhibit CYP3A4.",
+     "Long-acting injectable PrEP uses cabotegravir or lenacapavir.",
+     "Tenofovir and lamivudine have hepatitis B activity; zidovudine is not used for HBV.",
+     "Salvage agents include enfuvirtide, ibalizumab, fostemsavir, and lenacapavir.",
+     ""
+    ],
+    "takeaway": "Zidovudine causes macrocytic anemia, myopathy, and nail pigmentation, and it is still used intravenously during labor and in the newborn to prevent perinatal HIV transmission.",
+    "topic": "Zidovudine adverse effects and perinatal use",
+    "subject": "Pharmacology"
+   },
+   "figures": []
   },
   {
    "id": "miid2-w08-lec40-q04",
@@ -67,7 +121,21 @@
    ],
    "answer": 1,
    "evidence": [],
-   "note": "**NRTI class toxicity is mitochondrial (lactic acidosis, hepatic steatosis, peripheral neuropathy, lipoatrophy), highest with didanosine and stavudine.**\n\nLactic acidosis, hepatomegaly with steatosis, peripheral neuropathy, and lipoatrophy together are the boxed-warning class toxicity of NRTIs: mitochondrial toxicity. Nucleoside analogs can also inhibit the host polymerase that copies mitochondrial DNA (polymerase gamma), impairing oxidative metabolism, which shifts cells toward anaerobic glycolysis and lactate production.\n\nThe lecture ranks the risk as highest with didanosine and stavudine, which is why they are no longer recommended; lipoatrophy is likewise worst with stavudine, then zidovudine. Newer NRTIs such as tenofovir, emtricitabine, and lamivudine carry far less of this risk.\n\nHepatic CYP3A4: incorrect. CYP3A4 inhibition causes drug interactions, the property used by ritonavir and cobicistat.\n\nMitochondrial DNA polymerase: correct. NRTIs can inhibit mitochondrial DNA polymerase, causing lactic acidosis, steatosis, neuropathy, and lipoatrophy.\n\nViral integrase: incorrect. Integrase is the target of INSTIs, whose class effects are weight gain and creatine kinase elevation.\n\nRenal tubular creatinine secretion: incorrect. Blocking tubular creatinine secretion raises creatinine without injury, as with cobicistat.\n\nHost UGT1A1 glucuronidation: incorrect. UGT1A1 metabolizes integrase inhibitors and is not the mechanism of NRTI toxicity."
+   "explain": {
+    "html": "<p>Lactic acidosis, hepatomegaly with steatosis, peripheral neuropathy, and lipoatrophy together are the boxed-warning class toxicity of NRTIs: mitochondrial toxicity. Nucleoside analogs can also inhibit the host polymerase that copies mitochondrial DNA (polymerase gamma), impairing oxidative metabolism, which shifts cells toward anaerobic glycolysis and lactate production.</p><p>The lecture ranks the risk as highest with didanosine and stavudine, which is why they are no longer recommended; lipoatrophy is likewise worst with stavudine, then zidovudine. Newer NRTIs such as tenofovir, emtricitabine, and lamivudine carry far less of this risk.</p>",
+    "table": null,
+    "why": [
+     "CYP3A4 inhibition causes drug interactions, the property used by ritonavir and cobicistat.",
+     "",
+     "Integrase is the target of INSTIs, whose class effects are weight gain and creatine kinase elevation.",
+     "Blocking tubular creatinine secretion raises creatinine without injury, as with cobicistat.",
+     "UGT1A1 metabolizes integrase inhibitors and is not the mechanism of NRTI toxicity."
+    ],
+    "takeaway": "NRTI class toxicity is mitochondrial (lactic acidosis, hepatic steatosis, peripheral neuropathy, lipoatrophy), highest with didanosine and stavudine.",
+    "topic": "NRTI mitochondrial toxicity",
+    "subject": "Pharmacology"
+   },
+   "figures": []
   },
   {
    "id": "miid2-w08-lec40-q05",
@@ -83,7 +151,21 @@
    ],
    "answer": 0,
    "evidence": [],
-   "note": "**Efavirenz causes CNS and neuropsychiatric effects and false-positive cannabinoid screens; it is taken at bedtime on an empty stomach to limit those effects.**\n\nAbnormal dreams, dizziness, impaired concentration, and depressed mood, plus a false-positive cannabinoid screen, identify efavirenz, the NNRTI known for central nervous system effects. Serious neuropsychiatric symptoms including depression and suicidal ideation are listed warnings, as are seizures, QT prolongation, and hepatotoxicity. Efavirenz can also give false positives for cannabinoids and benzodiazepines.\n\nTaking efavirenz with food raises its peak concentration, worsening side effects without improving efficacy. The recommendation is to take it at bedtime on an empty stomach, which reduces the CNS effects. Mood symptoms still deserve close follow-up, and a switch should be considered if they persist.\n\nTake it at bedtime on an empty stomach: correct. Efavirenz is taken at bedtime on an empty stomach to reduce CNS effects.\n\nTake it with a 500-calorie meal each morning: incorrect. Taking it with a meal is the rule for rilpivirine; food increases efavirenz levels and side effects.\n\nSeparate it from calcium supplements by several hours: incorrect. Separating from polyvalent cations is advice for integrase inhibitors.\n\nTake it with a proton pump inhibitor to aid absorption: incorrect. Acid suppression is irrelevant here, and proton pump inhibitors are contraindicated with rilpivirine.\n\nDouble the dose so the effects resolve sooner: incorrect. A higher dose would worsen concentration-dependent side effects."
+   "explain": {
+    "html": "<p>Abnormal dreams, dizziness, impaired concentration, and depressed mood, plus a false-positive cannabinoid screen, identify efavirenz, the NNRTI known for central nervous system effects. Serious neuropsychiatric symptoms including depression and suicidal ideation are listed warnings, as are seizures, QT prolongation, and hepatotoxicity. Efavirenz can also give false positives for cannabinoids and benzodiazepines.</p><p>Taking efavirenz with food raises its peak concentration, worsening side effects without improving efficacy. The recommendation is to take it at bedtime on an empty stomach, which reduces the CNS effects. Mood symptoms still deserve close follow-up, and a switch should be considered if they persist.</p>",
+    "table": null,
+    "why": [
+     "",
+     "Taking it with a meal is the rule for rilpivirine; food increases efavirenz levels and side effects.",
+     "Separating from polyvalent cations is advice for integrase inhibitors.",
+     "Acid suppression is irrelevant here, and proton pump inhibitors are contraindicated with rilpivirine.",
+     "A higher dose would worsen concentration-dependent side effects."
+    ],
+    "takeaway": "Efavirenz causes CNS and neuropsychiatric effects and false-positive cannabinoid screens; it is taken at bedtime on an empty stomach to limit those effects.",
+    "topic": "Efavirenz neuropsychiatric effects",
+    "subject": "Pharmacology"
+   },
+   "figures": []
   },
   {
    "id": "miid2-w08-lec40-q06",
@@ -99,7 +181,21 @@
    ],
    "answer": 1,
    "evidence": [],
-   "note": "**Rilpivirine needs gastric acid for absorption and must be taken with food; proton pump inhibitors are contraindicated and can cause virologic failure.**\n\nRilpivirine, an NNRTI, needs an acidic stomach to be absorbed. Proton pump inhibitors such as omeprazole or pantoprazole raise gastric pH enough to drop rilpivirine levels, so they are contraindicated with it; H2-receptor antagonists such as famotidine can be used only if separated in time. Rilpivirine should also be taken with food, ideally a 500-calorie meal.\n\nWith rilpivirine levels too low, the regimen is effectively weakened, allowing viral replication and risking NNRTI resistance. She needs a resistance test and a regimen change or removal of the proton pump inhibitor.\n\nOmeprazole induced CYP3A4 metabolism of tenofovir: incorrect. Tenofovir is not a CYP3A4-dependent drug, and omeprazole does not act by inducing CYP3A4 here.\n\nRilpivirine requires gastric acid for absorption: correct. Rilpivirine needs gastric acid for absorption, so a proton pump inhibitor lowers its levels.\n\nOmeprazole chelated rilpivirine in the gut lumen: incorrect. Chelation is the interaction between integrase inhibitors and polyvalent cations.\n\nTaking rilpivirine with food prevented its absorption: incorrect. Rilpivirine should be taken with food, which improves its absorption.\n\nEmtricitabine was antagonized by the newly added drug: incorrect. The antagonistic interaction is between emtricitabine and lamivudine, not with omeprazole."
+   "explain": {
+    "html": "<p>Rilpivirine, an NNRTI, needs an acidic stomach to be absorbed. Proton pump inhibitors such as omeprazole or pantoprazole raise gastric pH enough to drop rilpivirine levels, so they are contraindicated with it; H2-receptor antagonists such as famotidine can be used only if separated in time. Rilpivirine should also be taken with food, ideally a 500-calorie meal.</p><p>With rilpivirine levels too low, the regimen is effectively weakened, allowing viral replication and risking NNRTI resistance. She needs a resistance test and a regimen change or removal of the proton pump inhibitor.</p>",
+    "table": null,
+    "why": [
+     "Tenofovir is not a CYP3A4-dependent drug, and omeprazole does not act by inducing CYP3A4 here.",
+     "",
+     "Chelation is the interaction between integrase inhibitors and polyvalent cations.",
+     "Rilpivirine should be taken with food, which improves its absorption.",
+     "The antagonistic interaction is between emtricitabine and lamivudine, not with omeprazole."
+    ],
+    "takeaway": "Rilpivirine needs gastric acid for absorption and must be taken with food; proton pump inhibitors are contraindicated and can cause virologic failure.",
+    "topic": "Rilpivirine absorption and acid suppression",
+    "subject": "Pharmacology"
+   },
+   "figures": []
   },
   {
    "id": "miid2-w08-lec40-q07",
@@ -115,7 +211,21 @@
    ],
    "answer": 1,
    "evidence": [],
-   "note": "**All integrase inhibitors chelate polyvalent cations (calcium, magnesium, aluminum, iron); separate these products or take them with food.**\n\nIntegrase strand transfer inhibitors (INSTIs) form chelating complexes with polyvalent cations such as calcium, magnesium, aluminum, and iron. Calcium supplements, multivitamins, and aluminum-magnesium antacids taken at the same time on an empty stomach bind dolutegravir in the gut and lower its absorption, which explains her new low-level viremia despite good adherence.\n\nThe lecture's fix is to separate the cation products from the integrase inhibitor or take them together with food. This is a class effect, so switching to another INSTI does not avoid it.\n\nStop dolutegravir and add a protease inhibitor without a booster: incorrect. Protease inhibitors are given boosted; an unboosted protease inhibitor is not appropriate, and the interaction is fixable.\n\nSeparate the supplements from dolutegravir or take them with food: correct. Separating the cations or taking them together with food preserves dolutegravir absorption.\n\nAdd a proton pump inhibitor to replace the antacid and continue the supplements: incorrect. Proton pump inhibitors are a problem for rilpivirine; continuing simultaneous calcium still blocks dolutegravir.\n\nIncrease the calcium dose, because dolutegravir causes bone loss: incorrect. More calcium at the same time would further reduce dolutegravir absorption; bone loss is a TDF effect.\n\nSwitch dolutegravir to raltegravir, which does not interact with cations: incorrect. Chelation is a class effect of all integrase inhibitors, including raltegravir."
+   "explain": {
+    "html": "<p>Integrase strand transfer inhibitors (INSTIs) form chelating complexes with polyvalent cations such as calcium, magnesium, aluminum, and iron. Calcium supplements, multivitamins, and aluminum-magnesium antacids taken at the same time on an empty stomach bind dolutegravir in the gut and lower its absorption, which explains her new low-level viremia despite good adherence.</p><p>The lecture's fix is to separate the cation products from the integrase inhibitor or take them together with food. This is a class effect, so switching to another INSTI does not avoid it.</p>",
+    "table": null,
+    "why": [
+     "Protease inhibitors are given boosted; an unboosted protease inhibitor is not appropriate, and the interaction is fixable.",
+     "",
+     "Proton pump inhibitors are a problem for rilpivirine; continuing simultaneous calcium still blocks dolutegravir.",
+     "More calcium at the same time would further reduce dolutegravir absorption; bone loss is a TDF effect.",
+     "Chelation is a class effect of all integrase inhibitors, including raltegravir."
+    ],
+    "takeaway": "All integrase inhibitors chelate polyvalent cations (calcium, magnesium, aluminum, iron); separate these products or take them with food.",
+    "topic": "Integrase inhibitor chelation with polyvalent cations",
+    "subject": "Pharmacology"
+   },
+   "figures": []
   },
   {
    "id": "miid2-w08-lec40-q08",
@@ -131,7 +241,21 @@
    ],
    "answer": 2,
    "evidence": [],
-   "note": "**Cobicistat (and bictegravir or dolutegravir) raises serum creatinine by blocking tubular secretion, without lowering the true glomerular filtration rate.**\n\nA small, early creatinine rise with a normal urinalysis and an unchanged measured glomerular filtration rate means the kidney is filtering normally. Some of the creatinine in urine normally comes from tubular secretion, and cobicistat (as well as the integrase inhibitors bictegravir and dolutegravir) inhibits that secretion, so serum creatinine rises slightly without true kidney injury.\n\nCobicistat is a pharmacokinetic booster with no antiviral activity; it inhibits CYP3A4 to raise levels of elvitegravir or a protease inhibitor. Its listed adverse effect is exactly this: increased serum creatinine from inhibited creatinine excretion with no effect on GFR.\n\nAcute tubular necrosis from tenofovir: incorrect. Tubular necrosis would lower GFR and usually produce an abnormal urine sediment.\n\nProximal tubular Fanconi syndrome: incorrect. Fanconi syndrome causes glycosuria and proteinuria, which are absent, and is linked to TDF rather than TAF.\n\nInhibition of tubular creatinine secretion: correct. Cobicistat blocks tubular creatinine secretion, raising creatinine without changing GFR.\n\nRhabdomyolysis from the integrase drug: incorrect. Rhabdomyolysis would cause muscle symptoms and pigment in the urine, and is more typical of raltegravir.\n\nPrerenal azotemia from volume depletion: incorrect. Prerenal azotemia lowers GFR and would follow a clinical volume loss, which he has not had."
+   "explain": {
+    "html": "<p>A small, early creatinine rise with a normal urinalysis and an unchanged measured glomerular filtration rate means the kidney is filtering normally. Some of the creatinine in urine normally comes from tubular secretion, and cobicistat (as well as the integrase inhibitors bictegravir and dolutegravir) inhibits that secretion, so serum creatinine rises slightly without true kidney injury.</p><p>Cobicistat is a pharmacokinetic booster with no antiviral activity; it inhibits CYP3A4 to raise levels of elvitegravir or a protease inhibitor. Its listed adverse effect is exactly this: increased serum creatinine from inhibited creatinine excretion with no effect on GFR.</p>",
+    "table": null,
+    "why": [
+     "Tubular necrosis would lower GFR and usually produce an abnormal urine sediment.",
+     "Fanconi syndrome causes glycosuria and proteinuria, which are absent, and is linked to TDF rather than TAF.",
+     "",
+     "Rhabdomyolysis would cause muscle symptoms and pigment in the urine, and is more typical of raltegravir.",
+     "Prerenal azotemia lowers GFR and would follow a clinical volume loss, which he has not had."
+    ],
+    "takeaway": "Cobicistat (and bictegravir or dolutegravir) raises serum creatinine by blocking tubular secretion, without lowering the true glomerular filtration rate.",
+    "topic": "Cobicistat and serum creatinine",
+    "subject": "Pharmacology"
+   },
+   "figures": []
   },
   {
    "id": "miid2-w08-lec40-q09",
@@ -147,7 +271,21 @@
    ],
    "answer": 0,
    "evidence": [],
-   "note": "**Low-dose ritonavir (like cobicistat) boosts protease inhibitors by inhibiting CYP3A4, which raises their levels and creates many drug interactions.**\n\nProtease inhibitors are CYP3A4 substrates and are given boosted to increase their concentrations. Ritonavir is a strong CYP3A4 inhibitor: at low doses it slows the metabolism of the partner protease inhibitor, so darunavir reaches higher, longer-lasting levels with less frequent dosing. Unboosted darunavir is listed as not recommended.\n\nCobicistat does the same job with no antiviral activity at all. Because both boosters inhibit CYP3A4, boosted regimens carry many drug interactions, and ritonavir adds its own adverse effects (gastrointestinal upset, loss of appetite, dyslipidemia, paresthesias).\n\nIt inhibits CYP3A4, raising darunavir levels: correct. Ritonavir inhibits CYP3A4, which boosts darunavir concentrations.\n\nIt induces CYP3A4, shortening darunavir's half-life: incorrect. Induction would lower darunavir levels, the opposite of boosting.\n\nIt blocks CCR5 so darunavir can enter cells: incorrect. CCR5 is blocked by maraviroc, not ritonavir, and darunavir acts inside the cell.\n\nIt chelates cations that would bind darunavir: incorrect. Chelation by cations is an integrase inhibitor problem, not a protease inhibitor one.\n\nIt prevents the hyperlipidemia caused by darunavir: incorrect. Ritonavir itself causes dyslipidemia; it does not prevent it."
+   "explain": {
+    "html": "<p>Protease inhibitors are CYP3A4 substrates and are given boosted to increase their concentrations. Ritonavir is a strong CYP3A4 inhibitor: at low doses it slows the metabolism of the partner protease inhibitor, so darunavir reaches higher, longer-lasting levels with less frequent dosing. Unboosted darunavir is listed as not recommended.</p><p>Cobicistat does the same job with no antiviral activity at all. Because both boosters inhibit CYP3A4, boosted regimens carry many drug interactions, and ritonavir adds its own adverse effects (gastrointestinal upset, loss of appetite, dyslipidemia, paresthesias).</p>",
+    "table": null,
+    "why": [
+     "",
+     "Induction would lower darunavir levels, the opposite of boosting.",
+     "CCR5 is blocked by maraviroc, not ritonavir, and darunavir acts inside the cell.",
+     "Chelation by cations is an integrase inhibitor problem, not a protease inhibitor one.",
+     "Ritonavir itself causes dyslipidemia; it does not prevent it."
+    ],
+    "takeaway": "Low-dose ritonavir (like cobicistat) boosts protease inhibitors by inhibiting CYP3A4, which raises their levels and creates many drug interactions.",
+    "topic": "Ritonavir as a pharmacokinetic booster",
+    "subject": "Pharmacology"
+   },
+   "figures": []
   },
   {
    "id": "miid2-w08-lec40-q10",
@@ -163,7 +301,21 @@
    ],
    "answer": 1,
    "evidence": [],
-   "note": "**Atazanavir commonly causes benign, asymptomatic unconjugated hyperbilirubinemia; protease inhibitors as a class cause dyslipidemia, insulin resistance, lipodystrophy, and GI upset.**\n\nHe has isolated indirect (unconjugated) hyperbilirubinemia with normal liver enzymes and no hemolysis, appearing soon after starting a protease inhibitor. The lecture lists commonly occurring asymptomatic hyperbilirubinemia as a characteristic adverse effect of atazanavir; it reflects reduced bilirubin conjugation rather than liver injury, so it is usually a cosmetic issue.\n\nAtazanavir is otherwise lipid neutral with a low association with lipodystrophy, must be taken with food, is affected by acid-suppressing drugs, and can cause kidney stones. Darunavir, by contrast, causes hyperlipidemia and rash (it has a sulfa moiety), and lopinavir/ritonavir commonly causes gastrointestinal intolerance.\n\nDarunavir: incorrect. Darunavir is associated with hyperlipidemia and rash, not isolated hyperbilirubinemia.\n\nAtazanavir: correct. Atazanavir commonly causes asymptomatic unconjugated hyperbilirubinemia.\n\nLopinavir: incorrect. Lopinavir/ritonavir mainly causes gastrointestinal intolerance and can cause pancreatitis.\n\nFosamprenavir: incorrect. Fosamprenavir is not the protease inhibitor taught for this effect.\n\nTipranavir: incorrect. Tipranavir is not the protease inhibitor taught for this effect."
+   "explain": {
+    "html": "<p>He has isolated indirect (unconjugated) hyperbilirubinemia with normal liver enzymes and no hemolysis, appearing soon after starting a protease inhibitor. The lecture lists commonly occurring asymptomatic hyperbilirubinemia as a characteristic adverse effect of atazanavir; it reflects reduced bilirubin conjugation rather than liver injury, so it is usually a cosmetic issue.</p><p>Atazanavir is otherwise lipid neutral with a low association with lipodystrophy, must be taken with food, is affected by acid-suppressing drugs, and can cause kidney stones. Darunavir, by contrast, causes hyperlipidemia and rash (it has a sulfa moiety), and lopinavir/ritonavir commonly causes gastrointestinal intolerance.</p>",
+    "table": null,
+    "why": [
+     "Darunavir is associated with hyperlipidemia and rash, not isolated hyperbilirubinemia.",
+     "",
+     "Lopinavir/ritonavir mainly causes gastrointestinal intolerance and can cause pancreatitis.",
+     "Fosamprenavir is not the protease inhibitor taught for this effect.",
+     "Tipranavir is not the protease inhibitor taught for this effect."
+    ],
+    "takeaway": "Atazanavir commonly causes benign, asymptomatic unconjugated hyperbilirubinemia; protease inhibitors as a class cause dyslipidemia, insulin resistance, lipodystrophy, and GI upset.",
+    "topic": "Protease inhibitor adverse effects",
+    "subject": "Pharmacology"
+   },
+   "figures": []
   },
   {
    "id": "miid2-w08-lec40-q11",
@@ -179,7 +331,27 @@
    ],
    "answer": 1,
    "evidence": [],
-   "note": "**Enfuvirtide is a subcutaneous gp41 fusion inhibitor used for salvage; it causes injection site nodules in almost all patients and raises the risk of bacterial pneumonia.**\n\nA subcutaneous peptide that binds gp41 and blocks the fusion step is enfuvirtide, a fusion inhibitor. Local injection site reactions occur in about 98% of patients, often as painful cysts and nodules. The lecture also lists an increased risk of bacterial pneumonia and of hypersensitivity reactions.\n\nEnfuvirtide predates the integrase inhibitors and is reserved for treatment-experienced patients with resistance. Other salvage options in the lecture work at different entry steps: ibalizumab is a monoclonal antibody to CD4 domain 2 given intravenously, and fostemsavir is an oral prodrug that binds gp120 to block attachment.\n\nMacrocytic anemia: incorrect. Macrocytic anemia is a zidovudine effect.\n\nBacterial pneumonia: correct. Enfuvirtide is associated with an increased risk of bacterial pneumonia.\n\nFanconi syndrome: incorrect. Fanconi syndrome is a tenofovir DF effect.\n\nHyperbilirubinemia: incorrect. Hyperbilirubinemia is characteristic of atazanavir.\n\nNeural tube defects: incorrect. Neural tube defects were a historical concern with dolutegravir that newer data did not confirm."
+   "explain": {
+    "html": "<p>A subcutaneous peptide that binds gp41 and blocks the fusion step is enfuvirtide, a fusion inhibitor. Local injection site reactions occur in about 98% of patients, often as painful cysts and nodules. The lecture also lists an increased risk of bacterial pneumonia and of hypersensitivity reactions.</p><p>Enfuvirtide predates the integrase inhibitors and is reserved for treatment-experienced patients with resistance. Other salvage options in the lecture work at different entry steps: ibalizumab is a monoclonal antibody to CD4 domain 2 given intravenously, and fostemsavir is an oral prodrug that binds gp120 to block attachment.</p>",
+    "table": null,
+    "why": [
+     "Macrocytic anemia is a zidovudine effect.",
+     "",
+     "Fanconi syndrome is a tenofovir DF effect.",
+     "Hyperbilirubinemia is characteristic of atazanavir.",
+     "Neural tube defects were a historical concern with dolutegravir that newer data did not confirm."
+    ],
+    "takeaway": "Enfuvirtide is a subcutaneous gp41 fusion inhibitor used for salvage; it causes injection site nodules in almost all patients and raises the risk of bacterial pneumonia.",
+    "topic": "Enfuvirtide and other salvage entry agents",
+    "subject": "Pharmacology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w08-lec40/slide_50.jpg",
+     "slide": 50,
+     "caption": "Lecture 40 slides (2025-26) · Page 50"
+    }
+   ]
   },
   {
    "id": "miid2-w08-lec40-q12",
@@ -195,7 +367,21 @@
    ],
    "answer": 3,
    "evidence": [],
-   "note": "**A complete initial regimen is two NRTIs plus one anchor (preferably an integrase inhibitor), such as bictegravir/emtricitabine/tenofovir AF; never two drugs from the same anchor class or emtricitabine with lamivudine.**\n\nThe standard regimen is a backbone of two NRTIs plus an anchor drug from another class: an integrase inhibitor, an NNRTI, or a boosted protease inhibitor. Integrase inhibitor anchors are typically first line because of high potency, a low side-effect burden, and a high barrier to resistance. Bictegravir/emtricitabine/tenofovir alafenamide fits that pattern exactly and is a recommended initial single-tablet regimen.\n\nThe lecture lists what is not recommended: monotherapy or dual NRTIs alone, two drugs from the same anchor class (two NNRTIs, two protease inhibitors, two integrase inhibitors), triple-NRTI therapy, unboosted darunavir, and emtricitabine with lamivudine together, since both are cytosine analogs and interfere with each other.\n\nLamivudine/zidovudine: incorrect. Two NRTIs without an anchor drug is incomplete.\n\nAbacavir/lamivudine/tenofovir disoproxil fumarate: incorrect. Three NRTIs with no anchor drug (triple-NRTI therapy) is not recommended.\n\nDarunavir/ritonavir/atazanavir: incorrect. Two protease inhibitors with no NRTI backbone is not a recommended combination.\n\nBictegravir/emtricitabine/tenofovir AF: correct. Two NRTIs plus an integrase inhibitor anchor is a complete, first-line regimen.\n\nRilpivirine/efavirenz/tenofovir DF: incorrect. Two NNRTIs in one regimen is not recommended."
+   "explain": {
+    "html": "<p>The standard regimen is a backbone of two NRTIs plus an anchor drug from another class: an integrase inhibitor, an NNRTI, or a boosted protease inhibitor. Integrase inhibitor anchors are typically first line because of high potency, a low side-effect burden, and a high barrier to resistance. Bictegravir/emtricitabine/tenofovir alafenamide fits that pattern exactly and is a recommended initial single-tablet regimen.</p><p>The lecture lists what is not recommended: monotherapy or dual NRTIs alone, two drugs from the same anchor class (two NNRTIs, two protease inhibitors, two integrase inhibitors), triple-NRTI therapy, unboosted darunavir, and emtricitabine with lamivudine together, since both are cytosine analogs and interfere with each other.</p>",
+    "table": null,
+    "why": [
+     "Two NRTIs without an anchor drug is incomplete.",
+     "Three NRTIs with no anchor drug (triple-NRTI therapy) is not recommended.",
+     "Two protease inhibitors with no NRTI backbone is not a recommended combination.",
+     "",
+     "Two NNRTIs in one regimen is not recommended."
+    ],
+    "takeaway": "A complete initial regimen is two NRTIs plus one anchor (preferably an integrase inhibitor), such as bictegravir/emtricitabine/tenofovir AF; never two drugs from the same anchor class or emtricitabine with lamivudine.",
+    "topic": "Building a complete regimen",
+    "subject": "Pharmacology"
+   },
+   "figures": []
   },
   {
    "id": "miid2-w08-lec40-q13",
@@ -211,7 +397,21 @@
    ],
    "answer": 4,
    "evidence": [],
-   "note": "**PEP starts within 72 hours of exposure with a preferred complete regimen (bictegravir/FTC/TAF or dolutegravir plus FTC/TDF) and continues for 4 weeks.**\n\nPost-exposure prophylaxis (PEP) should start as soon as possible and within 72 hours of an occupational or non-occupational exposure. Preferred regimens are complete treatment-strength combinations: bictegravir with emtricitabine/tenofovir alafenamide, or dolutegravir with emtricitabine/tenofovir DF; darunavir/ritonavir with emtricitabine/tenofovir DF is the alternative.\n\nPEP continues for 4 weeks, unless the source is proven HIV-negative. Two-drug emtricitabine/tenofovir alone is a pre-exposure prophylaxis regimen, not PEP, and single-drug zidovudine is the low-risk newborn regimen, not adult PEP.\n\nObserve and test again in 6 weeks, since needlestick transmission is rare: incorrect. A significant exposure warrants PEP now; waiting forfeits the 72-hour window.\n\nStart daily emtricitabine/tenofovir DF alone and continue it indefinitely: incorrect. Daily emtricitabine/tenofovir alone is pre-exposure prophylaxis, not a complete PEP regimen.\n\nGive a single intramuscular cabotegravir injection today: incorrect. Injectable cabotegravir is used for pre-exposure prophylaxis, not post-exposure prophylaxis.\n\nStart zidovudine alone for 2 weeks: incorrect. Zidovudine alone is the low-risk newborn prophylaxis regimen, not adult PEP.\n\nStart bictegravir/emtricitabine/tenofovir AF for 4 weeks: correct. A preferred three-drug regimen started within 72 hours and continued for 4 weeks."
+   "explain": {
+    "html": "<p>Post-exposure prophylaxis (PEP) should start as soon as possible and within 72 hours of an occupational or non-occupational exposure. Preferred regimens are complete treatment-strength combinations: bictegravir with emtricitabine/tenofovir alafenamide, or dolutegravir with emtricitabine/tenofovir DF; darunavir/ritonavir with emtricitabine/tenofovir DF is the alternative.</p><p>PEP continues for 4 weeks, unless the source is proven HIV-negative. Two-drug emtricitabine/tenofovir alone is a pre-exposure prophylaxis regimen, not PEP, and single-drug zidovudine is the low-risk newborn regimen, not adult PEP.</p>",
+    "table": null,
+    "why": [
+     "A significant exposure warrants PEP now; waiting forfeits the 72-hour window.",
+     "Daily emtricitabine/tenofovir alone is pre-exposure prophylaxis, not a complete PEP regimen.",
+     "Injectable cabotegravir is used for pre-exposure prophylaxis, not post-exposure prophylaxis.",
+     "Zidovudine alone is the low-risk newborn prophylaxis regimen, not adult PEP.",
+     ""
+    ],
+    "takeaway": "PEP starts within 72 hours of exposure with a preferred complete regimen (bictegravir/FTC/TAF or dolutegravir plus FTC/TDF) and continues for 4 weeks.",
+    "topic": "Post-exposure prophylaxis",
+    "subject": "Pharmacology"
+   },
+   "figures": []
   },
   {
    "id": "miid2-w08-lec40-q14",
@@ -227,7 +427,21 @@
    ],
    "answer": 4,
    "evidence": [],
-   "note": "**Injectable cabotegravir plus rilpivirine every 1 to 2 months is a complete switch regimen for suppressed patients and helps those who struggle with daily oral adherence.**\n\nCabotegravir (an integrase inhibitor) plus rilpivirine (an NNRTI) is a complete two-drug regimen given as separate intramuscular gluteal injections by a health care provider every month or every 2 months. It is approved only as switch therapy for people who are already virologically suppressed, which fits this man, and the lecture calls it a great option for patients who struggle with adherence to oral pills. An optional 1-month oral lead-in checks tolerability.\n\nCabotegravir alone is a PrEP regimen, and lenacapavir and the other injectables listed are reserved for multidrug-resistant virus. Injection site reactions, hepatotoxicity, and depressive symptoms are the adverse effects to watch, and CYP3A4 inducers must be avoided.\n\nEnfuvirtide subcutaneous injections twice daily: incorrect. Enfuvirtide is a twice-daily salvage drug for resistant virus and would add burden, not reduce it.\n\nIbalizumab infusions given in clinic every 2 weeks: incorrect. Ibalizumab is salvage therapy for multidrug-resistant virus.\n\nCabotegravir injections alone every 2 months: incorrect. Cabotegravir alone is used for prophylaxis; it is not a complete treatment regimen.\n\nLenacapavir injections alone every 6 months: incorrect. Lenacapavir as treatment is reserved for multidrug-resistant virus and is not used alone.\n\nCabotegravir plus rilpivirine injections every 1 to 2 months: correct. Injectable cabotegravir plus rilpivirine is a complete switch regimen for suppressed patients."
+   "explain": {
+    "html": "<p>Cabotegravir (an integrase inhibitor) plus rilpivirine (an NNRTI) is a complete two-drug regimen given as separate intramuscular gluteal injections by a health care provider every month or every 2 months. It is approved only as switch therapy for people who are already virologically suppressed, which fits this man, and the lecture calls it a great option for patients who struggle with adherence to oral pills. An optional 1-month oral lead-in checks tolerability.</p><p>Cabotegravir alone is a PrEP regimen, and lenacapavir and the other injectables listed are reserved for multidrug-resistant virus. Injection site reactions, hepatotoxicity, and depressive symptoms are the adverse effects to watch, and CYP3A4 inducers must be avoided.</p>",
+    "table": null,
+    "why": [
+     "Enfuvirtide is a twice-daily salvage drug for resistant virus and would add burden, not reduce it.",
+     "Ibalizumab is salvage therapy for multidrug-resistant virus.",
+     "Cabotegravir alone is used for prophylaxis; it is not a complete treatment regimen.",
+     "Lenacapavir as treatment is reserved for multidrug-resistant virus and is not used alone.",
+     ""
+    ],
+    "takeaway": "Injectable cabotegravir plus rilpivirine every 1 to 2 months is a complete switch regimen for suppressed patients and helps those who struggle with daily oral adherence.",
+    "topic": "Long-acting injectable treatment",
+    "subject": "Pharmacology"
+   },
+   "figures": []
   },
   {
    "id": "miid2-w08-lec40-q15",
@@ -243,7 +457,21 @@
    ],
    "answer": 2,
    "evidence": [],
-   "note": "**Tenofovir DF causes renal toxicity (including Fanconi syndrome) and bone loss; switching to tenofovir alafenamide, which gives much lower plasma tenofovir, reduces these effects.**\n\nGlucose in the urine with a normal serum glucose, low phosphate, proteinuria, and rising creatinine indicate proximal tubular dysfunction (Fanconi syndrome). Together with a fragility fracture, this fits tenofovir disoproxil fumarate (TDF), whose adverse effects are renal toxicity, Fanconi syndrome, and decreased bone mineral density.\n\nTenofovir alafenamide (TAF) is more stable in plasma and stays as the parent compound until it enters cells, producing about 90% less circulating tenofovir than TDF. It therefore has less effect on serum creatinine and bone density, so switching TDF to TAF keeps the same drug activity with less toxicity. TAF can raise lipids, so a lipid panel should be checked.\n\nReplace emtricitabine with lamivudine: incorrect. Emtricitabine is not the cause, and combining the two cytosine analogs is not a fix for tubular toxicity.\n\nAdd ritonavir to boost his current drugs: incorrect. Ritonavir would raise drug exposures and adds interactions without removing the toxic drug.\n\nSwitch the tenofovir to the alafenamide form: correct. TAF produces far lower plasma tenofovir, with less renal and bone toxicity than TDF.\n\nStop all antiretrovirals until the creatinine normalizes: incorrect. Stopping therapy invites rebound and resistance when a safer substitute is available.\n\nReplace efavirenz with a second protease inhibitor: incorrect. Two protease inhibitors is not a recommended regimen and leaves the TDF in place."
+   "explain": {
+    "html": "<p>Glucose in the urine with a normal serum glucose, low phosphate, proteinuria, and rising creatinine indicate proximal tubular dysfunction (Fanconi syndrome). Together with a fragility fracture, this fits tenofovir disoproxil fumarate (TDF), whose adverse effects are renal toxicity, Fanconi syndrome, and decreased bone mineral density.</p><p>Tenofovir alafenamide (TAF) is more stable in plasma and stays as the parent compound until it enters cells, producing about 90% less circulating tenofovir than TDF. It therefore has less effect on serum creatinine and bone density, so switching TDF to TAF keeps the same drug activity with less toxicity. TAF can raise lipids, so a lipid panel should be checked.</p>",
+    "table": null,
+    "why": [
+     "Emtricitabine is not the cause, and combining the two cytosine analogs is not a fix for tubular toxicity.",
+     "Ritonavir would raise drug exposures and adds interactions without removing the toxic drug.",
+     "",
+     "Stopping therapy invites rebound and resistance when a safer substitute is available.",
+     "Two protease inhibitors is not a recommended regimen and leaves the TDF in place."
+    ],
+    "takeaway": "Tenofovir DF causes renal toxicity (including Fanconi syndrome) and bone loss; switching to tenofovir alafenamide, which gives much lower plasma tenofovir, reduces these effects.",
+    "topic": "Tenofovir DF renal and bone toxicity",
+    "subject": "Pharmacology"
+   },
+   "figures": []
   },
   {
    "id": "miid2-w08-lec40-q16",
@@ -259,7 +487,21 @@
    ],
    "answer": 2,
    "evidence": [],
-   "note": "**Emtricitabine, lamivudine, and both forms of tenofovir are active against hepatitis B; stopping them in a coinfected patient can cause a severe hepatitis B flare.**\n\nHe has hepatitis B coinfection and a sudden, severe hepatitis weeks after stopping therapy, with other viral causes excluded. Emtricitabine and tenofovir (as do lamivudine and tenofovir DF) suppress hepatitis B as well as HIV; tenofovir alafenamide is itself approved for hepatitis B. Stopping them removes that suppression, and hepatitis B replication rebounds.\n\nThe lecture flags severe acute exacerbation of hepatitis B on discontinuation as a warning for lamivudine, emtricitabine, TDF, and TAF. This is also why a regimen in a coinfected patient must include HBV-active drugs and should not be stopped abruptly, and why dolutegravir/lamivudine alone is not used when hepatitis B is present.\n\nBictegravir chelation of dietary calcium: incorrect. Chelation with polyvalent cations reduces integrase inhibitor absorption; it does not cause hepatitis after stopping.\n\nMitochondrial toxicity from emtricitabine: incorrect. Mitochondrial toxicity develops while taking the drug, not weeks after stopping it.\n\nActivity of two components against a second virus: correct. Emtricitabine and tenofovir also suppress hepatitis B, which flares when they are stopped.\n\nIdiosyncratic liver injury from integrase inhibition: incorrect. Drug-induced injury would occur during therapy, not after discontinuation.\n\nWithdrawal of CYP3A4 inhibition by the regimen's booster: incorrect. This regimen contains no booster, and booster withdrawal would not cause hepatitis."
+   "explain": {
+    "html": "<p>He has hepatitis B coinfection and a sudden, severe hepatitis weeks after stopping therapy, with other viral causes excluded. Emtricitabine and tenofovir (as do lamivudine and tenofovir DF) suppress hepatitis B as well as HIV; tenofovir alafenamide is itself approved for hepatitis B. Stopping them removes that suppression, and hepatitis B replication rebounds.</p><p>The lecture flags severe acute exacerbation of hepatitis B on discontinuation as a warning for lamivudine, emtricitabine, TDF, and TAF. This is also why a regimen in a coinfected patient must include HBV-active drugs and should not be stopped abruptly, and why dolutegravir/lamivudine alone is not used when hepatitis B is present.</p>",
+    "table": null,
+    "why": [
+     "Chelation with polyvalent cations reduces integrase inhibitor absorption; it does not cause hepatitis after stopping.",
+     "Mitochondrial toxicity develops while taking the drug, not weeks after stopping it.",
+     "",
+     "Drug-induced injury would occur during therapy, not after discontinuation.",
+     "This regimen contains no booster, and booster withdrawal would not cause hepatitis."
+    ],
+    "takeaway": "Emtricitabine, lamivudine, and both forms of tenofovir are active against hepatitis B; stopping them in a coinfected patient can cause a severe hepatitis B flare.",
+    "topic": "Hepatitis B flare after stopping HBV-active NRTIs",
+    "subject": "Pharmacology"
+   },
+   "figures": []
   },
   {
    "id": "miid2-w08-lec40-q17",
@@ -275,7 +517,27 @@
    ],
    "answer": 2,
    "evidence": [],
-   "note": "**Most NNRTIs, including efavirenz, induce CYP3A4 and lower estrogen levels, so progestin-only methods or a copper IUD are preferred for contraception.**\n\nA drug taken at bedtime on an empty stomach because of vivid dreams is efavirenz, an NNRTI. Efavirenz and most NNRTIs (the exceptions are rilpivirine and doravirine) induce CYP3A4, which speeds the metabolism of drugs cleared by that enzyme and lowers their levels.\n\nEstrogen-containing contraceptives are especially affected, so their effectiveness falls and unintended pregnancy can occur. The lecture's advice is to use a progestin-only method or a copper intrauterine device instead. NRTIs, by contrast, have minimal drug interactions.\n\nInhibition of CYP3A4 raising estrogen levels: incorrect. Inhibition would raise hormone levels and would not cause contraceptive failure.\n\nChelation of the hormones in the gut lumen: incorrect. Chelation with polyvalent cations is an integrase inhibitor interaction and does not involve hormones.\n\nInduction of CYP3A4 lowering estrogen levels: correct. Efavirenz induces CYP3A4, lowering estrogen levels and causing contraceptive failure.\n\nCompetition for renal tubular secretion of the progestin: incorrect. NNRTIs need no renal dose adjustment and do not act through renal secretion of hormones.\n\nAntagonism at the estrogen receptor by the NRTI backbone: incorrect. NRTIs have minimal drug interactions and do not act on hormone receptors."
+   "explain": {
+    "html": "<p>A drug taken at bedtime on an empty stomach because of vivid dreams is efavirenz, an NNRTI. Efavirenz and most NNRTIs (the exceptions are rilpivirine and doravirine) induce CYP3A4, which speeds the metabolism of drugs cleared by that enzyme and lowers their levels.</p><p>Estrogen-containing contraceptives are especially affected, so their effectiveness falls and unintended pregnancy can occur. The lecture's advice is to use a progestin-only method or a copper intrauterine device instead. NRTIs, by contrast, have minimal drug interactions.</p>",
+    "table": null,
+    "why": [
+     "Inhibition would raise hormone levels and would not cause contraceptive failure.",
+     "Chelation with polyvalent cations is an integrase inhibitor interaction and does not involve hormones.",
+     "",
+     "NNRTIs need no renal dose adjustment and do not act through renal secretion of hormones.",
+     "NRTIs have minimal drug interactions and do not act on hormone receptors."
+    ],
+    "takeaway": "Most NNRTIs, including efavirenz, induce CYP3A4 and lower estrogen levels, so progestin-only methods or a copper IUD are preferred for contraception.",
+    "topic": "NNRTI enzyme induction and hormonal contraception",
+    "subject": "Pharmacology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w08-lec40/slide_26.jpg",
+     "slide": 26,
+     "caption": "Lecture 40 slides (2025-26) · Page 26"
+    }
+   ]
   },
   {
    "id": "miid2-w08-lec40-q18",
@@ -291,7 +553,27 @@
    ],
    "answer": 1,
    "evidence": [],
-   "note": "**Maraviroc is a CCR5 antagonist that requires a tropism test first; it is used only when the virus is CCR5-tropic, because CXCR4-using or dual-tropic virus escapes it.**\n\nThe drug is maraviroc, a CCR5 inhibitor. The assay described is a phenotypic tropism test (the type first used in the maraviroc trials): envelope-carrying pseudoviruses with a luciferase reporter infect whichever indicator cells bear the coreceptor they can use. His virus infects both CCR5 and CXCR4 cells, meaning it is dual or mixed tropic.\n\nMaraviroc blocks only CCR5. Any virus able to use CXCR4 simply enters through that coreceptor, so maraviroc is used only when the virus is CCR5-tropic alone. Dose adjustments for maraviroc relate to CYP3A4 interactions, not to coreceptor coverage.\n\nIt will work because his virus can use CCR5: incorrect. Some of his virus uses CXCR4 and would escape a CCR5 blocker.\n\nIt should be avoided because his virus can use CXCR4: correct. Maraviroc blocks only CCR5, so virus able to use CXCR4 makes it ineffective.\n\nIt should be given at a doubled dose to cover both coreceptors: incorrect. Maraviroc has no activity at CXCR4 at any dose; its dose depends on interacting drugs.\n\nIt can be used only if he is HLA-B*5701 negative: incorrect. HLA-B*5701 screening applies to abacavir, not maraviroc.\n\nIt will work once combined with a pharmacokinetic booster: incorrect. Boosting changes drug levels but cannot give maraviroc activity at CXCR4."
+   "explain": {
+    "html": "<p>The drug is maraviroc, a CCR5 inhibitor. The assay described is a phenotypic tropism test (the type first used in the maraviroc trials): envelope-carrying pseudoviruses with a luciferase reporter infect whichever indicator cells bear the coreceptor they can use. His virus infects both CCR5 and CXCR4 cells, meaning it is dual or mixed tropic.</p><p>Maraviroc blocks only CCR5. Any virus able to use CXCR4 simply enters through that coreceptor, so maraviroc is used only when the virus is CCR5-tropic alone. Dose adjustments for maraviroc relate to CYP3A4 interactions, not to coreceptor coverage.</p>",
+    "table": null,
+    "why": [
+     "Some of his virus uses CXCR4 and would escape a CCR5 blocker.",
+     "",
+     "Maraviroc has no activity at CXCR4 at any dose; its dose depends on interacting drugs.",
+     "HLA-B*5701 screening applies to abacavir, not maraviroc.",
+     "Boosting changes drug levels but cannot give maraviroc activity at CXCR4."
+    ],
+    "takeaway": "Maraviroc is a CCR5 antagonist that requires a tropism test first; it is used only when the virus is CCR5-tropic, because CXCR4-using or dual-tropic virus escapes it.",
+    "topic": "Maraviroc and tropism",
+    "subject": "Pharmacology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w08-lec40/slide_49.jpg",
+     "slide": 49,
+     "caption": "Lecture 40 slides (2025-26) · Page 49"
+    }
+   ]
   },
   {
    "id": "miid2-w08-lec40-q19",
@@ -307,7 +589,21 @@
    ],
    "answer": 0,
    "evidence": [],
-   "note": "**Daily emtricitabine/tenofovir DF is PrEP for anyone at risk; emtricitabine/tenofovir AF is not approved for risk through receptive vaginal sex; HIV must be excluded before PrEP starts.**\n\nPre-exposure prophylaxis (PrEP) reduces HIV acquisition in people with ongoing risk. HIV must be excluded first, as it was here, because a PrEP regimen given to someone already infected is incomplete therapy and selects resistance; testing is repeated every 2 to 3 months. Her partner is viremic, so her risk is real and ongoing.\n\nDaily emtricitabine/tenofovir DF is recommended for all people with risk factors. Emtricitabine/tenofovir AF is not approved for people at risk through receptive vaginal sex because of concerns about effectiveness, so it is the wrong choice for her. Injectable cabotegravir every 2 months or lenacapavir every 6 months are alternatives she declined. Complete treatment regimens are not used as PrEP.\n\nEmtricitabine/tenofovir DF daily: correct. Daily emtricitabine/tenofovir DF is recommended for all people at risk, including through vaginal sex.\n\nEmtricitabine/tenofovir AF daily: incorrect. Emtricitabine/tenofovir AF is not approved for people at risk from receptive vaginal sex.\n\nBictegravir/emtricitabine/tenofovir AF daily: incorrect. This is a complete treatment regimen, used for treatment or PEP, not as PrEP.\n\nDolutegravir/rilpivirine daily: incorrect. Dolutegravir/rilpivirine is a switch treatment regimen for people already suppressed, not prevention.\n\nNo prophylaxis until her partner's viral load is measured again: incorrect. Her exposure is ongoing now, so delaying prophylaxis leaves her unprotected."
+   "explain": {
+    "html": "<p>Pre-exposure prophylaxis (PrEP) reduces HIV acquisition in people with ongoing risk. HIV must be excluded first, as it was here, because a PrEP regimen given to someone already infected is incomplete therapy and selects resistance; testing is repeated every 2 to 3 months. Her partner is viremic, so her risk is real and ongoing.</p><p>Daily emtricitabine/tenofovir DF is recommended for all people with risk factors. Emtricitabine/tenofovir AF is not approved for people at risk through receptive vaginal sex because of concerns about effectiveness, so it is the wrong choice for her. Injectable cabotegravir every 2 months or lenacapavir every 6 months are alternatives she declined. Complete treatment regimens are not used as PrEP.</p>",
+    "table": null,
+    "why": [
+     "",
+     "Emtricitabine/tenofovir AF is not approved for people at risk from receptive vaginal sex.",
+     "This is a complete treatment regimen, used for treatment or PEP, not as PrEP.",
+     "Dolutegravir/rilpivirine is a switch treatment regimen for people already suppressed, not prevention.",
+     "Her exposure is ongoing now, so delaying prophylaxis leaves her unprotected."
+    ],
+    "takeaway": "Daily emtricitabine/tenofovir DF is PrEP for anyone at risk; emtricitabine/tenofovir AF is not approved for risk through receptive vaginal sex; HIV must be excluded before PrEP starts.",
+    "topic": "Choosing a PrEP regimen",
+    "subject": "Pharmacology"
+   },
+   "figures": []
   },
   {
    "id": "miid2-w08-lec40-q20",
@@ -323,7 +619,21 @@
    ],
    "answer": 0,
    "evidence": [],
-   "note": "**ART is recommended for all people with HIV regardless of CD4 count, but may be briefly deferred during certain acute opportunistic infections such as cryptococcal meningitis.**\n\nThe clinical picture (subacute headache, fever, confusion, very high opening pressure, cerebrospinal fluid positive for encapsulated yeast antigen) is cryptococcal meningitis in a patient with advanced HIV. ART is recommended for everyone with HIV regardless of CD4 count, and it can usually be started at diagnosis.\n\nThe lecture lists a few situations where deferral may be considered, and certain acute opportunistic infections, with cryptococcal meningitis named as the example, are one of them. These are assumed to be temporary: ART is delayed briefly while the infection is treated, not withheld until the CD4 count recovers, which it cannot do without ART.\n\nBriefly defer ART while the acute infection is treated: correct. Cryptococcal meningitis is the example given for a brief deferral of ART.\n\nStart ART today, because all patients start at diagnosis: incorrect. Immediate ART is the general rule, but cryptococcal meningitis is a listed exception.\n\nWithhold ART until the CD4 count rises above 200/mm3: incorrect. CD4 recovery depends on ART, so waiting for 200 would never be reached.\n\nStart only an NRTI pair now and add an anchor later: incorrect. Two NRTIs alone are an incomplete regimen and select resistance.\n\nNever start ART, because his CD4 count is too low to recover: incorrect. ART is indicated for every patient with HIV, and CD4 counts recover on treatment."
+   "explain": {
+    "html": "<p>The clinical picture (subacute headache, fever, confusion, very high opening pressure, cerebrospinal fluid positive for encapsulated yeast antigen) is cryptococcal meningitis in a patient with advanced HIV. ART is recommended for everyone with HIV regardless of CD4 count, and it can usually be started at diagnosis.</p><p>The lecture lists a few situations where deferral may be considered, and certain acute opportunistic infections, with cryptococcal meningitis named as the example, are one of them. These are assumed to be temporary: ART is delayed briefly while the infection is treated, not withheld until the CD4 count recovers, which it cannot do without ART.</p>",
+    "table": null,
+    "why": [
+     "",
+     "Immediate ART is the general rule, but cryptococcal meningitis is a listed exception.",
+     "CD4 recovery depends on ART, so waiting for 200 would never be reached.",
+     "Two NRTIs alone are an incomplete regimen and select resistance.",
+     "ART is indicated for every patient with HIV, and CD4 counts recover on treatment."
+    ],
+    "takeaway": "ART is recommended for all people with HIV regardless of CD4 count, but may be briefly deferred during certain acute opportunistic infections such as cryptococcal meningitis.",
+    "topic": "When to start ART and when to defer",
+    "subject": "Pharmacology"
+   },
+   "figures": []
   }
  ]
 }

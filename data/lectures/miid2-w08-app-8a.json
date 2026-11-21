@@ -19,7 +19,21 @@
    ],
    "answer": 0,
    "evidence": [],
-   "note": "**Hepatitis A vaccine should be given more than 2 weeks before travel; if 2 weeks or less, add immune globulin, and a second dose at 6 to 12 months gives lifelong immunity.**\n\nHepatitis A vaccine is recommended for travelers to all developing destinations and should be given more than two weeks before travel. When departure is two weeks away or less, the lecture says to add immune globulin for immediate passive protection while the vaccine response develops.\n\nA second dose at 6 to 12 months completes the series and gives lifelong immunity, so there is no need for repeated boosters. The four-dose live oral schedule belongs to the typhoid vaccine, not hepatitis A.\n\nVaccine now plus immune globulin, then a second dose at 6 to 12 months: correct. Within 2 weeks of travel, give hepatitis A vaccine plus immune globulin, then the second dose at 6 to 12 months.\n\nSkip the vaccine, since it cannot work in under 2 weeks: incorrect. She can still be protected; the lecture adds immune globulin rather than skipping the vaccine.\n\nGive immune globulin alone and defer the vaccine until she returns home: incorrect. Deferring the vaccine wastes the chance to start the series that gives lifelong immunity.\n\nGive the vaccine now and repeat it every 2 years while traveling: incorrect. Two doses give lifelong immunity; 2-year boosters describe the inactivated typhoid vaccine.\n\nGive the live oral vaccine on days 1, 3, 5 and 7 before she departs the country: incorrect. The live oral 4-dose schedule is the typhoid vaccine."
+   "explain": {
+    "html": "<p>Hepatitis A vaccine is recommended for travelers to all developing destinations and should be given more than two weeks before travel. When departure is two weeks away or less, the lecture says to add immune globulin for immediate passive protection while the vaccine response develops.</p><p>A second dose at 6 to 12 months completes the series and gives lifelong immunity, so there is no need for repeated boosters. The four-dose live oral schedule belongs to the typhoid vaccine, not hepatitis A.</p>",
+    "table": null,
+    "why": [
+     "",
+     "She can still be protected; the lecture adds immune globulin rather than skipping the vaccine.",
+     "Deferring the vaccine wastes the chance to start the series that gives lifelong immunity.",
+     "Two doses give lifelong immunity; 2-year boosters describe the inactivated typhoid vaccine.",
+     "The live oral 4-dose schedule is the typhoid vaccine."
+    ],
+    "takeaway": "Hepatitis A vaccine should be given more than 2 weeks before travel; if 2 weeks or less, add immune globulin, and a second dose at 6 to 12 months gives lifelong immunity.",
+    "topic": "Hepatitis A vaccine timing",
+    "subject": "Microbiology"
+   },
+   "figures": []
   },
   {
    "id": "miid2-w08-app-8a-q02",
@@ -35,7 +49,21 @@
    ],
    "answer": 3,
    "evidence": [],
-   "note": "**Typhoid vaccines (live oral or inactivated injectable) are only 50 to 80% protective, so careful food and water precautions are still required.**\n\nTyphoid fever is caused by *Salmonella* Typhi, spread by the fecal-oral route. The lecture lists two vaccines: a live oral vaccine (days 1, 3, 5 and 7, finished at least 1 week before travel, boosted at 5 years) and an inactivated injectable vaccine (at least 2 weeks before travel, boosted at 2 years). Both are only 50 to 80% protective, so travelers still need to be careful with food and water.\n\nThe vaccine does nothing for travelers' diarrhea from other organisms. The lecture also stresses that freezing does not kill the organisms that cause travelers' diarrhea and alcohol does not sterilize water or ice: \"Boil it, cook it, peel it, or forget it.\"\n\nThe vaccine protects for life, so food precautions are unnecessary: incorrect. Typhoid vaccines need boosters (5 years oral, 2 years injectable) and are only partly protective.\n\nThe live vaccine must be followed by the injectable vaccine to work: incorrect. The two vaccines are alternatives, not a required sequence.\n\nThe vaccine also prevents enterotoxigenic E. coli, so diarrhea risk is low: incorrect. Typhoid vaccine does not protect against ETEC or other causes of travelers' diarrhea.\n\nIt is only partly protective, so food and water care is still needed: correct. Typhoid vaccines are only 50 to 80% protective, so food and water precautions remain essential.\n\nFreezing ice and adding alcohol to drinks will cover any remaining risk: incorrect. Freezing does not kill these organisms, and alcohol does not sterilize water or ice."
+   "explain": {
+    "html": "<p>Typhoid fever is caused by <i>Salmonella</i> Typhi, spread by the fecal-oral route. The lecture lists two vaccines: a live oral vaccine (days 1, 3, 5 and 7, finished at least 1 week before travel, boosted at 5 years) and an inactivated injectable vaccine (at least 2 weeks before travel, boosted at 2 years). Both are only 50 to 80% protective, so travelers still need to be careful with food and water.</p><p>The vaccine does nothing for travelers' diarrhea from other organisms. The lecture also stresses that freezing does not kill the organisms that cause travelers' diarrhea and alcohol does not sterilize water or ice: \"Boil it, cook it, peel it, or forget it.\"</p>",
+    "table": null,
+    "why": [
+     "Typhoid vaccines need boosters (5 years oral, 2 years injectable) and are only partly protective.",
+     "The two vaccines are alternatives, not a required sequence.",
+     "Typhoid vaccine does not protect against ETEC or other causes of travelers' diarrhea.",
+     "",
+     "Freezing does not kill these organisms, and alcohol does not sterilize water or ice."
+    ],
+    "takeaway": "Typhoid vaccines (live oral or inactivated injectable) are only 50 to 80% protective, so careful food and water precautions are still required.",
+    "topic": "Typhoid vaccine limits",
+    "subject": "Microbiology"
+   },
+   "figures": []
   },
   {
    "id": "miid2-w08-app-8a-q03",
@@ -51,7 +79,27 @@
    ],
    "answer": 0,
    "evidence": [],
-   "note": "**The quadrivalent ACWY conjugate meningococcal vaccine is required for the Hajj and recommended for the sub-Saharan meningitis belt, especially in the dry season.**\n\nThe lecture describes meningococcal disease as worldwide but highest in the \"meningitis belt\" of sub-Saharan Africa, especially in the dry season (December to June), spread by respiratory secretions in close contact. The quadrivalent conjugate vaccine (ACWY) is recommended for travel to the meningitis belt and is required for entry to Saudi Arabia during the Hajj, with a booster after 5 years.\n\nSerogroup B is not a travel-related risk, so the B vaccine is not what travel requires. His February visit to Niger also falls in the meningitis belt dry season, another reason for the ACWY vaccine.\n\nMeningococcal conjugate vaccine (ACWY): correct. The ACWY conjugate meningococcal vaccine is required for the Hajj and recommended for the meningitis belt.\n\nYellow fever live-attenuated vaccine: incorrect. Yellow fever vaccine is for endemic areas, not an entry requirement tied to the Hajj.\n\nSerogroup B meningococcal vaccine: incorrect. Serogroup B is not considered a travel-related risk.\n\nJapanese encephalitis vaccine: incorrect. Japanese encephalitis vaccine is for certain Asian destinations, not the Hajj.\n\nInactivated injectable typhoid vaccine given intramuscularly: incorrect. Typhoid vaccine is considered for many destinations but is not the Hajj requirement."
+   "explain": {
+    "html": "<p>The lecture describes meningococcal disease as worldwide but highest in the \"meningitis belt\" of sub-Saharan Africa, especially in the dry season (December to June), spread by respiratory secretions in close contact. The quadrivalent conjugate vaccine (ACWY) is recommended for travel to the meningitis belt and is required for entry to Saudi Arabia during the Hajj, with a booster after 5 years.</p><p>Serogroup B is not a travel-related risk, so the B vaccine is not what travel requires. His February visit to Niger also falls in the meningitis belt dry season, another reason for the ACWY vaccine.</p>",
+    "table": null,
+    "why": [
+     "",
+     "Yellow fever vaccine is for endemic areas, not an entry requirement tied to the Hajj.",
+     "Serogroup B is not considered a travel-related risk.",
+     "Japanese encephalitis vaccine is for certain Asian destinations, not the Hajj.",
+     "Typhoid vaccine is considered for many destinations but is not the Hajj requirement."
+    ],
+    "takeaway": "The quadrivalent ACWY conjugate meningococcal vaccine is required for the Hajj and recommended for the sub-Saharan meningitis belt, especially in the dry season.",
+    "topic": "Meningococcal vaccine for travel",
+    "subject": "Microbiology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w08-app-8a/slide_13.jpg",
+     "slide": 13,
+     "caption": "Session 8A slides (2025-26) · Page 13"
+    }
+   ]
   },
   {
    "id": "miid2-w08-app-8a-q04",
@@ -67,7 +115,21 @@
    ],
    "answer": 1,
    "evidence": [],
-   "note": "**Travelers' diarrhea is mostly bacterial, begins 4 to 14 days after arrival, is self-limited, and is most often caused by enterotoxigenic E. coli.**\n\nTravelers' diarrhea is the most common illness in travelers to developing countries, usually starts 4 to 14 days after arrival and is self-limited over 1 to 5 days. Mexico is a high-risk region, and all-inclusive lodging is a listed risk activity.\n\nBacteria cause more than 90% of cases, and the lecture names enterotoxigenic *E. coli* (ETEC, \"turista\") as the most common offender. Other bacteria (enteroaggregative *E. coli*, *Shigella*, *Campylobacter*, *Salmonella*), viruses and parasites cause the rest.\n\nShigella species: incorrect. *Shigella* is a listed cause but typically causes dysentery with fever and blood, and it is far less common than ETEC.\n\nEnterotoxigenic Escherichia coli: correct. ETEC is the most common cause of travelers' diarrhea.\n\nGiardia lamblia: incorrect. *Giardia* is one of the less common parasitic causes and tends to be more prolonged.\n\nEnteroaggregative Escherichia coli (EAEC): incorrect. EAEC is a listed bacterial cause, but ETEC is named the most common offender.\n\nCampylobacter jejuni: incorrect. *Campylobacter* is a listed bacterial cause but far less common than ETEC."
+   "explain": {
+    "html": "<p>Travelers' diarrhea is the most common illness in travelers to developing countries, usually starts 4 to 14 days after arrival and is self-limited over 1 to 5 days. Mexico is a high-risk region, and all-inclusive lodging is a listed risk activity.</p><p>Bacteria cause more than 90% of cases, and the lecture names enterotoxigenic <i>E. coli</i> (ETEC, \"turista\") as the most common offender. Other bacteria (enteroaggregative <i>E. coli</i>, <i>Shigella</i>, <i>Campylobacter</i>, <i>Salmonella</i>), viruses and parasites cause the rest.</p>",
+    "table": null,
+    "why": [
+     "Shigella is a listed cause but typically causes dysentery with fever and blood, and it is far less common than ETEC.",
+     "",
+     "Giardia is one of the less common parasitic causes and tends to be more prolonged.",
+     "EAEC is a listed bacterial cause, but ETEC is named the most common offender.",
+     "Campylobacter is a listed bacterial cause but far less common than ETEC."
+    ],
+    "takeaway": "Travelers' diarrhea is mostly bacterial, begins 4 to 14 days after arrival, is self-limited, and is most often caused by enterotoxigenic E. coli.",
+    "topic": "Travelers' diarrhea: cause",
+    "subject": "Microbiology"
+   },
+   "figures": []
   },
   {
    "id": "miid2-w08-app-8a-q05",
@@ -83,7 +145,21 @@
    ],
    "answer": 2,
    "evidence": [],
-   "note": "**Malaria prophylaxis continues after exposure; atovaquone-proguanil starts 1 day before and stops 7 days after, while doxycycline, chloroquine and mefloquine continue 4 weeks after.**\n\nMalaria chemoprophylaxis starts before travel, continues during exposure and continues for a period after leaving. Chloroquine is only for chloroquine-susceptible areas, and mefloquine must start 2 to 3 weeks before travel, so both are out for a traveler leaving tomorrow.\n\nDoxycycline and atovaquone-proguanil can both start 1 to 2 days or 1 day before travel. The difference is the tail: doxycycline continues 4 weeks after the last exposure, while atovaquone-proguanil continues only 7 days. Bite prevention (DEET, nets, staying in screened areas) adds to, but does not replace, chemoprophylaxis.\n\nChloroquine weekly, starting 1 to 2 weeks before travel: incorrect. Chloroquine is only for chloroquine-susceptible areas, and it starts 1 to 2 weeks ahead.\n\nMefloquine weekly, starting 2 to 3 weeks before and continued 4 weeks after: incorrect. Mefloquine must start 2 to 3 weeks before travel and continues 4 weeks after.\n\nAtovaquone-proguanil daily, from 1 day before until 7 days after: correct. Atovaquone-proguanil starts 1 day before travel and continues only 7 days after.\n\nDoxycycline daily, starting 1 to 2 days before and continued 4 weeks after: incorrect. Doxycycline can start quickly but continues 4 weeks after the last exposure.\n\nNo pills, using only DEET and bed nets to prevent mosquito bites: incorrect. Bite prevention alone is not enough for falciparum malaria exposure."
+   "explain": {
+    "html": "<p>Malaria chemoprophylaxis starts before travel, continues during exposure and continues for a period after leaving. Chloroquine is only for chloroquine-susceptible areas, and mefloquine must start 2 to 3 weeks before travel, so both are out for a traveler leaving tomorrow.</p><p>Doxycycline and atovaquone-proguanil can both start 1 to 2 days or 1 day before travel. The difference is the tail: doxycycline continues 4 weeks after the last exposure, while atovaquone-proguanil continues only 7 days. Bite prevention (DEET, nets, staying in screened areas) adds to, but does not replace, chemoprophylaxis.</p>",
+    "table": null,
+    "why": [
+     "Chloroquine is only for chloroquine-susceptible areas, and it starts 1 to 2 weeks ahead.",
+     "Mefloquine must start 2 to 3 weeks before travel and continues 4 weeks after.",
+     "",
+     "Doxycycline can start quickly but continues 4 weeks after the last exposure.",
+     "Bite prevention alone is not enough for falciparum malaria exposure."
+    ],
+    "takeaway": "Malaria prophylaxis continues after exposure; atovaquone-proguanil starts 1 day before and stops 7 days after, while doxycycline, chloroquine and mefloquine continue 4 weeks after.",
+    "topic": "Malaria prophylaxis choice",
+    "subject": "Microbiology"
+   },
+   "figures": []
   },
   {
    "id": "miid2-w08-app-8a-q06",
@@ -99,7 +175,21 @@
    ],
    "answer": 2,
    "evidence": [],
-   "note": "**Severe malaria (usually falciparum) includes parasitemia of 5% or more, impaired consciousness, inability to take oral medicine, severe anemia, bleeding or DIC, or shock.**\n\nThe lecture's rule: fever in a traveler returning from a malarious area is malaria until proven otherwise, so order a STAT smear and start therapy promptly. Uncomplicated malaria has parasitemia under 5%, a patient who is not obtunded, can take oral medicines and has no vital organ dysfunction.\n\nSevere or complicated malaria, usually *P. falciparum* (the likely species after travel to Ghana), includes parasitemia of 5% or more, inability to take oral medicines, impaired consciousness, severe anemia, abnormal bleeding or DIC, or shock. He has parasitemia of 7% and impaired consciousness, and death can occur within hours, so waiting for a repeat smear would be dangerous.\n\nUncomplicated malaria, because his blood pressure is normal: incorrect. Normal blood pressure does not make it uncomplicated when parasitemia and mental status meet severe criteria.\n\nUncomplicated malaria, because only falciparum causes severe disease: incorrect. Severe malaria is usually falciparum, which is likely here; that supports severe disease.\n\nSevere malaria, from parasitemia of 5% or more and altered mentation: correct. Parasitemia of 5% or more and impaired consciousness define severe malaria.\n\nSevere malaria only if a repeat smear in 48 hours shows a rising parasite count: incorrect. Severe malaria can kill within hours, so treatment cannot wait for a repeat smear.\n\nDengue with a false-positive smear, because both cause fever and anemia: incorrect. Ring forms in red cells on a smear confirm malaria."
+   "explain": {
+    "html": "<p>The lecture's rule: fever in a traveler returning from a malarious area is malaria until proven otherwise, so order a STAT smear and start therapy promptly. Uncomplicated malaria has parasitemia under 5%, a patient who is not obtunded, can take oral medicines and has no vital organ dysfunction.</p><p>Severe or complicated malaria, usually <i>P. falciparum</i> (the likely species after travel to Ghana), includes parasitemia of 5% or more, inability to take oral medicines, impaired consciousness, severe anemia, abnormal bleeding or DIC, or shock. He has parasitemia of 7% and impaired consciousness, and death can occur within hours, so waiting for a repeat smear would be dangerous.</p>",
+    "table": null,
+    "why": [
+     "Normal blood pressure does not make it uncomplicated when parasitemia and mental status meet severe criteria.",
+     "Severe malaria is usually falciparum, which is likely here; that supports severe disease.",
+     "",
+     "Severe malaria can kill within hours, so treatment cannot wait for a repeat smear.",
+     "Ring forms in red cells on a smear confirm malaria."
+    ],
+    "takeaway": "Severe malaria (usually falciparum) includes parasitemia of 5% or more, impaired consciousness, inability to take oral medicine, severe anemia, bleeding or DIC, or shock.",
+    "topic": "Severe malaria criteria",
+    "subject": "Microbiology"
+   },
+   "figures": []
   },
   {
    "id": "miid2-w08-app-8a-q07",
@@ -115,7 +205,27 @@
    ],
    "answer": 0,
    "evidence": [],
-   "note": "**Typhoid fever presents with step-wise fever and bacteremia, then relative bradycardia, abdominal pain and rose spots, later perforation; diagnose by blood, stool or bone marrow culture.**\n\nStep-wise rising fever, relative bradycardia (a heart rate of 78 with a temperature near 40 C), abdominal pain and rose spots in the second week of illness after travel to South Asia describe typhoid (enteric fever) from *Salmonella enterica* serovar Typhi. In the first week the fever climbs step-wise with bacteremia; in the third week hepatosplenomegaly, intestinal bleeding and perforation can follow.\n\nThe lecture lists diagnosis by blood culture, stool culture and bone marrow culture, with susceptibility testing to guide a fluoroquinolone, cephalosporin or azithromycin. A blood culture is the test that captures the bacteremia.\n\nBlood culture: correct. Typhoid is bacteremic, and blood culture is a key diagnostic test.\n\nDengue serology: incorrect. Dengue causes fever with retro-orbital pain and leukopenia, not step-wise fever with relative bradycardia and rose spots.\n\nStool ova and parasite exam: incorrect. An ova and parasite exam looks for parasites, not *Salmonella* Typhi.\n\nUrine histoplasma antigen: incorrect. Histoplasma antigen tests an endemic mycosis, not a travel-related enteric fever.\n\nZika PCR of urine: incorrect. Zika causes a mild illness with rash and conjunctivitis, not this course."
+   "explain": {
+    "html": "<p>Step-wise rising fever, relative bradycardia (a heart rate of 78 with a temperature near 40 C), abdominal pain and rose spots in the second week of illness after travel to South Asia describe typhoid (enteric fever) from <i>Salmonella enterica</i> serovar Typhi. In the first week the fever climbs step-wise with bacteremia; in the third week hepatosplenomegaly, intestinal bleeding and perforation can follow.</p><p>The lecture lists diagnosis by blood culture, stool culture and bone marrow culture, with susceptibility testing to guide a fluoroquinolone, cephalosporin or azithromycin. A blood culture is the test that captures the bacteremia.</p>",
+    "table": null,
+    "why": [
+     "",
+     "Dengue causes fever with retro-orbital pain and leukopenia, not step-wise fever with relative bradycardia and rose spots.",
+     "An ova and parasite exam looks for parasites, not Salmonella Typhi.",
+     "Histoplasma antigen tests an endemic mycosis, not a travel-related enteric fever.",
+     "Zika causes a mild illness with rash and conjunctivitis, not this course."
+    ],
+    "takeaway": "Typhoid fever presents with step-wise fever and bacteremia, then relative bradycardia, abdominal pain and rose spots, later perforation; diagnose by blood, stool or bone marrow culture.",
+    "topic": "Typhoid fever presentation and diagnosis",
+    "subject": "Microbiology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w08-app-8a/slide_30.jpg",
+     "slide": 30,
+     "caption": "Session 8A slides (2025-26) · Page 30"
+    }
+   ]
   },
   {
    "id": "miid2-w08-app-8a-q08",
@@ -131,7 +241,27 @@
    ],
    "answer": 1,
    "evidence": [],
-   "note": "**Zika (flavivirus) causes mild fever, pruritic rash, small-joint arthralgia and nonpurulent conjunctivitis; it spreads maternal-fetal and sexually and causes congenital microcephaly; there is no vaccine.**\n\nLow-grade fever, a pruritic maculopapular rash, small-joint arthralgia and nonpurulent conjunctivitis with a mild illness lasting 2 to 7 days is Zika virus, a flavivirus spread by *Aedes* mosquitoes. The lecture's comparison table shows rash and conjunctivitis are most prominent in Zika, while dengue brings more fever, myalgia and hemorrhage, and chikungunya more arthralgia and inflammatory arthritis.\n\nZika is neurotropic and spreads maternal-fetal, sexually, by blood products and by transplantation, and congenital microcephaly is its key complication. There is no vaccine; prevention is avoidance, and the lecture advises refraining from unprotected sex after infection (men at least 3 months, women at least 8 weeks).\n\nIt causes chronic inflammatory arthritis that limits fertility: incorrect. Prolonged inflammatory arthritis is a chikungunya feature, not Zika.\n\nIt can pass to a fetus and cause congenital microcephaly: correct. Zika passes from mother to fetus and causes congenital microcephaly.\n\nIt can be prevented in a future pregnancy with a live vaccine: incorrect. There is no Zika vaccine.\n\nIt predisposes to hemorrhagic shock on a second infection: incorrect. Hemorrhage and shock are dengue features.\n\nIt requires a course of antiviral therapy before conception: incorrect. There is no antiviral therapy for Zika."
+   "explain": {
+    "html": "<p>Low-grade fever, a pruritic maculopapular rash, small-joint arthralgia and nonpurulent conjunctivitis with a mild illness lasting 2 to 7 days is Zika virus, a flavivirus spread by <i>Aedes</i> mosquitoes. The lecture's comparison table shows rash and conjunctivitis are most prominent in Zika, while dengue brings more fever, myalgia and hemorrhage, and chikungunya more arthralgia and inflammatory arthritis.</p><p>Zika is neurotropic and spreads maternal-fetal, sexually, by blood products and by transplantation, and congenital microcephaly is its key complication. There is no vaccine; prevention is avoidance, and the lecture advises refraining from unprotected sex after infection (men at least 3 months, women at least 8 weeks).</p>",
+    "table": null,
+    "why": [
+     "Prolonged inflammatory arthritis is a chikungunya feature, not Zika.",
+     "",
+     "There is no Zika vaccine.",
+     "Hemorrhage and shock are dengue features.",
+     "There is no antiviral therapy for Zika."
+    ],
+    "takeaway": "Zika (flavivirus) causes mild fever, pruritic rash, small-joint arthralgia and nonpurulent conjunctivitis; it spreads maternal-fetal and sexually and causes congenital microcephaly; there is no vaccine.",
+    "topic": "Zika versus dengue and chikungunya",
+    "subject": "Microbiology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w08-app-8a/slide_40.jpg",
+     "slide": 40,
+     "caption": "Session 8A slides (2025-26) · Page 40"
+    }
+   ]
   },
   {
    "id": "miid2-w08-app-8a-q09",
@@ -147,7 +277,27 @@
    ],
    "answer": 4,
    "evidence": [],
-   "note": "**Chikungunya is an Aedes-borne alphavirus whose hallmark is severe arthralgia and persistent inflammatory arthritis lasting months; dengue, Zika and yellow fever are flaviviruses.**\n\nHigh fever with severe symmetric arthralgia, rash and then persistent arthritis with prolonged morning stiffness for months is chikungunya. The lecture's comparison table gives chikungunya the strongest arthralgia and is the only one of the three with inflammatory arthritis, and persistent arthritis or arthralgia after the acute illness is its hallmark.\n\nChikungunya is an alphavirus spread by *Aedes aegypti* and *Aedes albopictus*, which sets it apart from dengue, Zika and yellow fever, all flaviviruses. Treatment is supportive, and vaccines now exist (a live-attenuated and a virus-like particle vaccine).\n\nFlavivirus, the family that also includes dengue: incorrect. Dengue is a flavivirus, but chikungunya is not.\n\nPicornavirus, a family that also includes hepatitis A: incorrect. Hepatitis A is a picornavirus spread fecal-orally, unrelated to chikungunya.\n\nFlavivirus, the family that also includes yellow fever: incorrect. Yellow fever is a flavivirus; chikungunya is not.\n\nBunyavirus, a family spread by ticks and sandflies: incorrect. Chikungunya is spread by *Aedes* mosquitoes and is not a bunyavirus.\n\nAlphavirus, a different family from dengue and Zika: correct. Chikungunya is an alphavirus, unlike the flaviviruses dengue, Zika and yellow fever."
+   "explain": {
+    "html": "<p>High fever with severe symmetric arthralgia, rash and then persistent arthritis with prolonged morning stiffness for months is chikungunya. The lecture's comparison table gives chikungunya the strongest arthralgia and is the only one of the three with inflammatory arthritis, and persistent arthritis or arthralgia after the acute illness is its hallmark.</p><p>Chikungunya is an alphavirus spread by <i>Aedes aegypti</i> and <i>Aedes albopictus</i>, which sets it apart from dengue, Zika and yellow fever, all flaviviruses. Treatment is supportive, and vaccines now exist (a live-attenuated and a virus-like particle vaccine).</p>",
+    "table": null,
+    "why": [
+     "Dengue is a flavivirus, but chikungunya is not.",
+     "Hepatitis A is a picornavirus spread fecal-orally, unrelated to chikungunya.",
+     "Yellow fever is a flavivirus; chikungunya is not.",
+     "Chikungunya is spread by Aedes mosquitoes and is not a bunyavirus.",
+     ""
+    ],
+    "takeaway": "Chikungunya is an Aedes-borne alphavirus whose hallmark is severe arthralgia and persistent inflammatory arthritis lasting months; dengue, Zika and yellow fever are flaviviruses.",
+    "topic": "Chikungunya",
+    "subject": "Microbiology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w08-app-8a/slide_37.jpg",
+     "slide": 37,
+     "caption": "Session 8A slides (2025-26) · Page 37"
+    }
+   ]
   },
   {
    "id": "miid2-w08-app-8a-q10",
@@ -163,7 +313,21 @@
    ],
    "answer": 1,
    "evidence": [],
-   "note": "**Endemic mycoses are thermally dimorphic (mold at 25 to 35 C, yeast or spherules at body temperature) and are acquired by inhaling the environmental mold form, except Sporothrix (inoculation).**\n\nThe endemic mycoses share a pattern: each lives in a specific ecologic niche in the environment and is thermally dimorphic, growing as a mold at 25 to 35 C in the environment and as a yeast (or, for *Coccidioides*, spherules) at body temperature. Infection follows inhalation of the mold-phase organism, with *Sporothrix schenckii* as the exception (it enters by inoculation).\n\nSeverity depends on the extent of exposure and the host's immune status, hematogenous dissemination is common, and infection can reactivate years later. This organism, a mold with spiny macroconidia and intracellular yeasts from the Ohio River valley, is *Histoplasma capsulatum*.\n\nInfection follows inhalation of the yeast form shed by infected people: incorrect. The yeast form lives in tissue; infection comes from inhaling the environmental mold form.\n\nInfection usually follows inhaling the mold form from the environment: correct. Endemic mycoses are acquired by inhaling the mold form (except *Sporothrix*, which is inoculated).\n\nThey grow as molds at body temperature and as yeasts in the soil: incorrect. This reverses dimorphism: mold in the environment, yeast or spherules in the body.\n\nThey cause disease only in immunocompromised hosts and never reactivate later: incorrect. Healthy people are infected too, severity depends on exposure and immunity, and reactivation years later occurs.\n\nThey spread from person to person by respiratory droplets in crowds: incorrect. These fungi are acquired from the environment, not from other people."
+   "explain": {
+    "html": "<p>The endemic mycoses share a pattern: each lives in a specific ecologic niche in the environment and is thermally dimorphic, growing as a mold at 25 to 35 C in the environment and as a yeast (or, for <i>Coccidioides</i>, spherules) at body temperature. Infection follows inhalation of the mold-phase organism, with <i>Sporothrix schenckii</i> as the exception (it enters by inoculation).</p><p>Severity depends on the extent of exposure and the host's immune status, hematogenous dissemination is common, and infection can reactivate years later. This organism, a mold with spiny macroconidia and intracellular yeasts from the Ohio River valley, is <i>Histoplasma capsulatum</i>.</p>",
+    "table": null,
+    "why": [
+     "The yeast form lives in tissue; infection comes from inhaling the environmental mold form.",
+     "",
+     "This reverses dimorphism: mold in the environment, yeast or spherules in the body.",
+     "Healthy people are infected too, severity depends on exposure and immunity, and reactivation years later occurs.",
+     "These fungi are acquired from the environment, not from other people."
+    ],
+    "takeaway": "Endemic mycoses are thermally dimorphic (mold at 25 to 35 C, yeast or spherules at body temperature) and are acquired by inhaling the environmental mold form, except Sporothrix (inoculation).",
+    "topic": "Endemic mycoses: thermal dimorphism",
+    "subject": "Microbiology"
+   },
+   "figures": []
   },
   {
    "id": "miid2-w08-app-8a-q11",
@@ -179,7 +343,27 @@
    ],
    "answer": 3,
    "evidence": [],
-   "note": "**Blastomyces dermatitidis comes from soil and decaying wood around the Great Lakes and the Ohio and Mississippi valleys, spreads from lung to skin, and appears as large broad-based budding yeasts.**\n\n*Blastomyces dermatitidis* lives in soil and decaying wood, and its endemic area stretches across the Great Lakes, the Mississippi and Ohio River valleys and the Southeast. It causes pulmonary disease and extrapulmonary disease, with skin lesions a common site of spread, as in this man.\n\nThe lecture's images show the tissue form as a large, thick-walled yeast with a broad-based bud. Diagnosis is by fungal smear and culture (with a DNA probe) and antigen detection, more sensitive in urine than serum, and treatment is amphotericin or itraconazole.\n\nSmall oval yeasts packed inside macrophages: incorrect. Small yeasts inside macrophages are the *Histoplasma* picture.\n\nCigar-shaped yeasts with no hyphae in the lesion: incorrect. Cigar-shaped yeasts are the tissue form of *Sporothrix*.\n\nLarge spherules filled with many small endospores: incorrect. Spherules with endospores are the tissue form of *Coccidioides*.\n\nLarge thick-walled yeasts with one broad-based bud: correct. *Blastomyces* appears as large thick-walled yeasts with a broad-based bud.\n\nRope-like hyphae branching at right angles: incorrect. Branching hyphae are a mold pattern, not the yeast form of a dimorphic fungus at body temperature."
+   "explain": {
+    "html": "<p><i>Blastomyces dermatitidis</i> lives in soil and decaying wood, and its endemic area stretches across the Great Lakes, the Mississippi and Ohio River valleys and the Southeast. It causes pulmonary disease and extrapulmonary disease, with skin lesions a common site of spread, as in this man.</p><p>The lecture's images show the tissue form as a large, thick-walled yeast with a broad-based bud. Diagnosis is by fungal smear and culture (with a DNA probe) and antigen detection, more sensitive in urine than serum, and treatment is amphotericin or itraconazole.</p>",
+    "table": null,
+    "why": [
+     "Small yeasts inside macrophages are the Histoplasma picture.",
+     "Cigar-shaped yeasts are the tissue form of Sporothrix.",
+     "Spherules with endospores are the tissue form of Coccidioides.",
+     "",
+     "Branching hyphae are a mold pattern, not the yeast form of a dimorphic fungus at body temperature."
+    ],
+    "takeaway": "Blastomyces dermatitidis comes from soil and decaying wood around the Great Lakes and the Ohio and Mississippi valleys, spreads from lung to skin, and appears as large broad-based budding yeasts.",
+    "topic": "Blastomycosis",
+    "subject": "Microbiology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w08-app-8a/slide_49.jpg",
+     "slide": 49,
+     "caption": "Session 8A slides (2025-26) · Page 49"
+    }
+   ]
   },
   {
    "id": "miid2-w08-app-8a-q12",
@@ -195,7 +379,27 @@
    ],
    "answer": 4,
    "evidence": [],
-   "note": "**Coccidioides (immitis in California, posadasii elsewhere in the Southwest) forms endospore-filled spherules in tissue and is treated with fluconazole or amphotericin.**\n\nDusty soil exposure in California's Central Valley (the southwestern deserts are the endemic area) with a pneumonia that will not clear points to coccidioidomycosis. *Coccidioides immitis* is found in California and *C. posadasii* outside California. In tissue it forms spherules filled with endospores, rather than a budding yeast.\n\nThe lecture lists diagnosis by fungal smear and culture, serology, histopathology and PCR, and treatment with amphotericin and fluconazole (alternatives itraconazole, voriconazole, posaconazole, isavuconazole). Fluconazole is the oral agent the lecture lists alongside amphotericin for this mycosis.\n\nSmall intracellular yeasts; treat with nafcillin: incorrect. Small intracellular yeasts describe *Histoplasma*, and nafcillin is an antibacterial for MSSA.\n\nGram-negative coccobacilli; treat with doxycycline: incorrect. No bacterial cause fits this fungal biopsy.\n\nBroad-based budding yeasts; treat with metronidazole: incorrect. Broad-based budding describes *Blastomyces*, and metronidazole treats anaerobes and protozoa.\n\nCigar-shaped yeasts; treat with trimethoprim-sulfamethoxazole: incorrect. Cigar-shaped yeasts describe *Sporothrix*, and TMP-SMX is not an antifungal for it.\n\nSpherules filled with endospores; treat with fluconazole: correct. *Coccidioides* forms spherules with endospores and is treated with fluconazole or amphotericin."
+   "explain": {
+    "html": "<p>Dusty soil exposure in California's Central Valley (the southwestern deserts are the endemic area) with a pneumonia that will not clear points to coccidioidomycosis. <i>Coccidioides immitis</i> is found in California and <i>C. posadasii</i> outside California. In tissue it forms spherules filled with endospores, rather than a budding yeast.</p><p>The lecture lists diagnosis by fungal smear and culture, serology, histopathology and PCR, and treatment with amphotericin and fluconazole (alternatives itraconazole, voriconazole, posaconazole, isavuconazole). Fluconazole is the oral agent the lecture lists alongside amphotericin for this mycosis.</p>",
+    "table": null,
+    "why": [
+     "Small intracellular yeasts describe Histoplasma, and nafcillin is an antibacterial for MSSA.",
+     "No bacterial cause fits this fungal biopsy.",
+     "Broad-based budding describes Blastomyces, and metronidazole treats anaerobes and protozoa.",
+     "Cigar-shaped yeasts describe Sporothrix, and TMP-SMX is not an antifungal for it.",
+     ""
+    ],
+    "takeaway": "Coccidioides (immitis in California, posadasii elsewhere in the Southwest) forms endospore-filled spherules in tissue and is treated with fluconazole or amphotericin.",
+    "topic": "Coccidioidomycosis",
+    "subject": "Microbiology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w08-app-8a/slide_52.jpg",
+     "slide": 52,
+     "caption": "Session 8A slides (2025-26) · Page 52"
+    }
+   ]
   },
   {
    "id": "miid2-w08-app-8a-q13",
@@ -211,7 +415,21 @@
    ],
    "answer": 3,
    "evidence": [],
-   "note": "**Sporothrix schenckii causes cutaneous and lymphatic nodules after inoculation from soil, moss or hay (the endemic mycosis not acquired by inhalation) and is treated with itraconazole.**\n\n*Sporothrix schenckii* lives in soil, moss, hay and decaying vegetation, and it is the exception among the endemic mycoses: it is primarily a cutaneous disease after inoculation, not an infection that follows inhalation. Skin nodules after a minor garden injury, with no lung disease, fit that route.\n\nThe lecture lists diagnosis by fungal smear and culture, where the tissue form appears as cigar-shaped yeasts and the room-temperature mold shows flower-like spore clusters. Treatment is itraconazole, with amphotericin for more serious disease.\n\nInhalation of spores from soil; amphotericin is required for all cases: incorrect. *Sporothrix* is the endemic mycosis acquired by inoculation, not inhalation, and itraconazole is used.\n\nMosquito bite; supportive care because no therapy exists: incorrect. Mosquito-borne illnesses with only supportive care are dengue, chikungunya and Zika.\n\nInhalation of bird droppings; urine antigen guides fluconazole: incorrect. Bird and bat droppings and urine antigen point to histoplasmosis.\n\nInoculation through the skin; itraconazole is a treatment of choice: correct. Sporotrichosis follows skin inoculation from moss, hay or soil and is treated with itraconazole.\n\nIngestion of contaminated produce; azithromycin is preferred: incorrect. Ingestion and azithromycin fit travelers' diarrhea, not a fungal skin infection."
+   "explain": {
+    "html": "<p><i>Sporothrix schenckii</i> lives in soil, moss, hay and decaying vegetation, and it is the exception among the endemic mycoses: it is primarily a cutaneous disease after inoculation, not an infection that follows inhalation. Skin nodules after a minor garden injury, with no lung disease, fit that route.</p><p>The lecture lists diagnosis by fungal smear and culture, where the tissue form appears as cigar-shaped yeasts and the room-temperature mold shows flower-like spore clusters. Treatment is itraconazole, with amphotericin for more serious disease.</p>",
+    "table": null,
+    "why": [
+     "Sporothrix is the endemic mycosis acquired by inoculation, not inhalation, and itraconazole is used.",
+     "Mosquito-borne illnesses with only supportive care are dengue, chikungunya and Zika.",
+     "Bird and bat droppings and urine antigen point to histoplasmosis.",
+     "",
+     "Ingestion and azithromycin fit travelers' diarrhea, not a fungal skin infection."
+    ],
+    "takeaway": "Sporothrix schenckii causes cutaneous and lymphatic nodules after inoculation from soil, moss or hay (the endemic mycosis not acquired by inhalation) and is treated with itraconazole.",
+    "topic": "Sporotrichosis",
+    "subject": "Microbiology"
+   },
+   "figures": []
   },
   {
    "id": "miid2-w08-app-8a-q14",
@@ -227,7 +445,21 @@
    ],
    "answer": 4,
    "evidence": [],
-   "note": "**Yellow fever vaccine-associated viscerotropic disease mimics yellow fever, follows a first dose by about 3 days, is often fatal, and is more likely with older age and thymus disease or thymectomy.**\n\nThe disease is yellow fever, prevented by a live-attenuated vaccine that gives lifelong protection after one dose. The lecture describes yellow fever vaccine-associated viscerotropic disease (YEL-AVD): it mimics natural yellow fever, starts a median of 3 days after vaccination, is fatal in about 65% of cases and has occurred only after a first vaccination, never after a booster. Risk factors are older age and thymus disease or thymectomy, both of which he has.\n\nThe vaccine can also cause neurologic disease (YEL-AND), but its Guillain-Barre form is autoimmune, while only the meningoencephalitis comes from direct CNS invasion.\n\nGuillain-Barre syndrome from direct viral invasion of peripheral nerves: incorrect. Guillain-Barre syndrome after the vaccine is autoimmune, and his risk factors point to viscerotropic disease.\n\nAnaphylaxis that becomes more likely with each booster dose given: incorrect. Anaphylaxis is uncommon, and YEL-AVD has not occurred after boosters.\n\nCongenital microcephaly in any child conceived within 3 months after the dose: incorrect. Congenital microcephaly is a Zika virus complication, not a vaccine effect.\n\nChronic inflammatory arthritis lasting months after the vaccine: incorrect. Persistent arthritis is a chikungunya feature.\n\nA multisystem illness like natural disease, days after a first dose: correct. YEL-AVD mimics yellow fever, starts a few days after a first dose, and is more likely with older age and thymectomy."
+   "explain": {
+    "html": "<p>The disease is yellow fever, prevented by a live-attenuated vaccine that gives lifelong protection after one dose. The lecture describes yellow fever vaccine-associated viscerotropic disease (YEL-AVD): it mimics natural yellow fever, starts a median of 3 days after vaccination, is fatal in about 65% of cases and has occurred only after a first vaccination, never after a booster. Risk factors are older age and thymus disease or thymectomy, both of which he has.</p><p>The vaccine can also cause neurologic disease (YEL-AND), but its Guillain-Barre form is autoimmune, while only the meningoencephalitis comes from direct CNS invasion.</p>",
+    "table": null,
+    "why": [
+     "Guillain-Barre syndrome after the vaccine is autoimmune, and his risk factors point to viscerotropic disease.",
+     "Anaphylaxis is uncommon, and YEL-AVD has not occurred after boosters.",
+     "Congenital microcephaly is a Zika virus complication, not a vaccine effect.",
+     "Persistent arthritis is a chikungunya feature.",
+     ""
+    ],
+    "takeaway": "Yellow fever vaccine-associated viscerotropic disease mimics yellow fever, follows a first dose by about 3 days, is often fatal, and is more likely with older age and thymus disease or thymectomy.",
+    "topic": "Yellow fever vaccine viscerotropic disease",
+    "subject": "Microbiology"
+   },
+   "figures": []
   },
   {
    "id": "miid2-w08-app-8a-q15",
@@ -243,7 +475,21 @@
    ],
    "answer": 2,
    "evidence": [],
-   "note": "**Mild travelers' diarrhea gets fluids plus bismuth or antimotility agents; moderate to severe or dysenteric/febrile diarrhea gets azithromycin, and rifaximin is avoided in dysentery or fever.**\n\nFluids come first for all travelers' diarrhea. Mild disease that does not interfere with activities can be managed with bismuth or antimotility agents. Moderate and severe disease, defined as distressing or incapacitating diarrhea or dysentery with bloody stools, is treated with an antibiotic.\n\nThe lecture names azithromycin as preferred for dysentery or febrile diarrhea. Rifaximin and rifamycin should not be used with dysentery or febrile diarrhea, and fluoroquinolones carry adverse effects and resistance concerns, which is especially relevant in Southeast Asia.\n\nRifaximin: incorrect. Rifaximin is not for dysentery or febrile diarrhea.\n\nLoperamide alone: incorrect. Antimotility agents alone fit mild diarrhea, not febrile dysentery.\n\nAzithromycin: correct. Azithromycin is preferred for dysentery or febrile travelers' diarrhea.\n\nBismuth subsalicylate alone: incorrect. Bismuth alone is for mild diarrhea that does not interfere with activities.\n\nNo antibiotic, only fluids: incorrect. Severe, febrile, bloody diarrhea warrants an antibiotic in addition to fluids."
+   "explain": {
+    "html": "<p>Fluids come first for all travelers' diarrhea. Mild disease that does not interfere with activities can be managed with bismuth or antimotility agents. Moderate and severe disease, defined as distressing or incapacitating diarrhea or dysentery with bloody stools, is treated with an antibiotic.</p><p>The lecture names azithromycin as preferred for dysentery or febrile diarrhea. Rifaximin and rifamycin should not be used with dysentery or febrile diarrhea, and fluoroquinolones carry adverse effects and resistance concerns, which is especially relevant in Southeast Asia.</p>",
+    "table": null,
+    "why": [
+     "Rifaximin is not for dysentery or febrile diarrhea.",
+     "Antimotility agents alone fit mild diarrhea, not febrile dysentery.",
+     "",
+     "Bismuth alone is for mild diarrhea that does not interfere with activities.",
+     "Severe, febrile, bloody diarrhea warrants an antibiotic in addition to fluids."
+    ],
+    "takeaway": "Mild travelers' diarrhea gets fluids plus bismuth or antimotility agents; moderate to severe or dysenteric/febrile diarrhea gets azithromycin, and rifaximin is avoided in dysentery or fever.",
+    "topic": "Travelers' diarrhea: treatment by severity",
+    "subject": "Microbiology"
+   },
+   "figures": []
   },
   {
    "id": "miid2-w08-app-8a-q16",
@@ -259,7 +505,27 @@
    ],
    "answer": 1,
    "evidence": [],
-   "note": "**Dengue's critical phase begins at defervescence and lasts 24 to 48 hours; warning signs (abdominal pain, persistent vomiting, mucosal bleeding) signal plasma leakage and possible severe dengue; care is supportive.**\n\nAbrupt fever with retro-orbital pain, myalgias, rash and leukopenia after travel to the Caribbean fits dengue, a flavivirus spread by *Aedes* mosquitoes. The lecture describes three phases. The febrile phase lasts 2 to 7 days. The critical phase begins at defervescence and lasts 24 to 48 hours, and patients with significant plasma leakage can progress to severe dengue during it.\n\nHis abdominal pain, persistent vomiting and mucosal bleeding are warning signs that predict progression, and a rising hematocrit suggests plasma leakage. Feeling better as the fever breaks is exactly when danger peaks. Treatment is supportive; there is no antiviral therapy.\n\nHe is in the convalescent phase and can be discharged with oral fluids: incorrect. Defervescence starts the critical phase, not convalescence, and his warning signs demand close monitoring.\n\nHe is in the critical phase, with warning signs of plasma leakage: correct. The critical phase begins at defervescence, and his warning signs suggest plasma leakage toward severe dengue.\n\nHe needs an antiviral drug started now to prevent severe dengue: incorrect. There is no antiviral therapy for dengue; care is supportive.\n\nHe has developed a bacterial superinfection that broke his fever: incorrect. Fever resolution here is the natural transition to the critical phase, not a sign of superinfection.\n\nHe has typhoid, since fever that resolves then recurs is step-wise: incorrect. Typhoid has a step-wise rising fever over a week and relative bradycardia, not this pattern."
+   "explain": {
+    "html": "<p>Abrupt fever with retro-orbital pain, myalgias, rash and leukopenia after travel to the Caribbean fits dengue, a flavivirus spread by <i>Aedes</i> mosquitoes. The lecture describes three phases. The febrile phase lasts 2 to 7 days. The critical phase begins at defervescence and lasts 24 to 48 hours, and patients with significant plasma leakage can progress to severe dengue during it.</p><p>His abdominal pain, persistent vomiting and mucosal bleeding are warning signs that predict progression, and a rising hematocrit suggests plasma leakage. Feeling better as the fever breaks is exactly when danger peaks. Treatment is supportive; there is no antiviral therapy.</p>",
+    "table": null,
+    "why": [
+     "Defervescence starts the critical phase, not convalescence, and his warning signs demand close monitoring.",
+     "",
+     "There is no antiviral therapy for dengue; care is supportive.",
+     "Fever resolution here is the natural transition to the critical phase, not a sign of superinfection.",
+     "Typhoid has a step-wise rising fever over a week and relative bradycardia, not this pattern."
+    ],
+    "takeaway": "Dengue's critical phase begins at defervescence and lasts 24 to 48 hours; warning signs (abdominal pain, persistent vomiting, mucosal bleeding) signal plasma leakage and possible severe dengue; care is supportive.",
+    "topic": "Dengue phases and warning signs",
+    "subject": "Microbiology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w08-app-8a/slide_35.jpg",
+     "slide": 35,
+     "caption": "Session 8A slides (2025-26) · Page 35"
+    }
+   ]
   },
   {
    "id": "miid2-w08-app-8a-q17",
@@ -275,7 +541,27 @@
    ],
    "answer": 0,
    "evidence": [],
-   "note": "**Histoplasma capsulatum concentrates in bird and bat guano in the Ohio and Mississippi River valleys, appears as small yeasts inside macrophages, and is diagnosed by culture, urine or serum antigen and histopathology.**\n\nHeavy exposure to bat or bird droppings (guano, a nitrogen-rich soil where the mold phase concentrates) in the Ohio and Mississippi River valleys, then pneumonia with hilar adenopathy and small yeasts inside macrophages, is histoplasmosis from *Histoplasma capsulatum*.\n\nThe lecture lists diagnosis by fungal culture, antigen assay in serum or urine, and cytology or histopathology, with treatment by amphotericin or itraconazole. The antigen assay is the noninvasive test that supports the diagnosis while cultures grow.\n\nUrine or serum antigen assay: correct. *Histoplasma* antigen in urine or serum supports the diagnosis.\n\nSerum coccidioidal antibody: incorrect. Coccidioidal serology targets the southwestern mycosis, not this Ohio valley exposure.\n\nMalaria thick and thin smear: incorrect. A malaria smear is for a febrile traveler from a malarious area.\n\nDarkfield microscopy of sputum: incorrect. Darkfield microscopy looks for spirochetes, not fungi.\n\nStool culture for enteric pathogens: incorrect. Stool culture is for enteric bacterial infection, not a fungal pneumonia."
+   "explain": {
+    "html": "<p>Heavy exposure to bat or bird droppings (guano, a nitrogen-rich soil where the mold phase concentrates) in the Ohio and Mississippi River valleys, then pneumonia with hilar adenopathy and small yeasts inside macrophages, is histoplasmosis from <i>Histoplasma capsulatum</i>.</p><p>The lecture lists diagnosis by fungal culture, antigen assay in serum or urine, and cytology or histopathology, with treatment by amphotericin or itraconazole. The antigen assay is the noninvasive test that supports the diagnosis while cultures grow.</p>",
+    "table": null,
+    "why": [
+     "",
+     "Coccidioidal serology targets the southwestern mycosis, not this Ohio valley exposure.",
+     "A malaria smear is for a febrile traveler from a malarious area.",
+     "Darkfield microscopy looks for spirochetes, not fungi.",
+     "Stool culture is for enteric bacterial infection, not a fungal pneumonia."
+    ],
+    "takeaway": "Histoplasma capsulatum concentrates in bird and bat guano in the Ohio and Mississippi River valleys, appears as small yeasts inside macrophages, and is diagnosed by culture, urine or serum antigen and histopathology.",
+    "topic": "Histoplasmosis",
+    "subject": "Microbiology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w08-app-8a/slide_46.jpg",
+     "slide": 46,
+     "caption": "Session 8A slides (2025-26) · Page 46"
+    }
+   ]
   }
  ]
 }

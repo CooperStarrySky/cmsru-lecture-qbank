@@ -19,7 +19,21 @@
    ],
    "answer": 1,
    "evidence": [],
-   "note": "**Once Kawasaki disease is diagnosed, an echocardiogram at presentation is needed because untreated disease can cause coronary aneurysms.**\n\nFever for 5 days with nonexudative conjunctivitis that spares the limbus, cracked red lips and a red tongue, a polymorphous rash, and swelling and redness of the hands and feet meets the criteria for Kawasaki disease. Supporting labs are a neutrophil-predominant leukocytosis, a high platelet count, low albumin, and sterile pyuria.\n\nKawasaki disease is a medium vessel vasculitis, and up to 20% of untreated children develop coronary artery abnormalities including aneurysms. An echocardiogram at presentation sets a baseline for the coronaries and looks for myocarditis, and treatment with intravenous immunoglobulin and aspirin follows.\n\nLumbar puncture with spinal fluid culture: incorrect. A lumbar puncture is not part of the standard workup for this picture, and nothing suggests meningitis.\n\nEchocardiogram to assess the coronary arteries: correct. An echocardiogram at presentation provides a baseline for the coronary arteries and checks for myocarditis in Kawasaki disease.\n\nSkin biopsy of the rash with immunohistochemistry: incorrect. Immunohistochemistry of a skin biopsy is one way to diagnose Rocky Mountain spotted fever, which has a petechial rash after tick exposure.\n\nRapid antigen test for influenza from the nose: incorrect. Influenza testing does not address this child's mucocutaneous findings or the cardiac risk.\n\nSerum IgM antibody against parvovirus B19: incorrect. Parvovirus B19 causes a slapped-cheek rash, not this combination of conjunctival, oral, and extremity changes."
+   "explain": {
+    "html": "<p>Fever for 5 days with nonexudative conjunctivitis that spares the limbus, cracked red lips and a red tongue, a polymorphous rash, and swelling and redness of the hands and feet meets the criteria for Kawasaki disease. Supporting labs are a neutrophil-predominant leukocytosis, a high platelet count, low albumin, and sterile pyuria.</p><p>Kawasaki disease is a medium vessel vasculitis, and up to 20% of untreated children develop coronary artery abnormalities including aneurysms. An echocardiogram at presentation sets a baseline for the coronaries and looks for myocarditis, and treatment with intravenous immunoglobulin and aspirin follows.</p>",
+    "table": null,
+    "why": [
+     "A lumbar puncture is not part of the standard workup for this picture, and nothing suggests meningitis.",
+     "",
+     "Immunohistochemistry of a skin biopsy is one way to diagnose Rocky Mountain spotted fever, which has a petechial rash after tick exposure.",
+     "Influenza testing does not address this child's mucocutaneous findings or the cardiac risk.",
+     "Parvovirus B19 causes a slapped-cheek rash, not this combination of conjunctival, oral, and extremity changes."
+    ],
+    "takeaway": "Once Kawasaki disease is diagnosed, an echocardiogram at presentation is needed because untreated disease can cause coronary aneurysms.",
+    "topic": "Kawasaki disease: baseline echocardiogram",
+    "subject": "Microbiology"
+   },
+   "figures": []
   },
   {
    "id": "miid2-w06-app-6b-q02",
@@ -35,7 +49,21 @@
    ],
    "answer": 3,
    "evidence": [],
-   "note": "**Toxic shock syndrome is more likely in younger people who lack neutralizing antibody to the staphylococcal or streptococcal toxin.**\n\nFever, shock, diffuse erythroderma including the palms and soles, mucosal hyperemia, and multiorgan involvement (low platelets, acidosis) in a menstruating adolescent is staphylococcal toxic shock syndrome, driven by the superantigen toxic shock syndrome toxin-1 from Staphylococcus aureus.\n\nToxic shock is more likely in younger people who have no neutralizing antibody to the toxin made by the infecting Staphylococcus aureus or group A streptococcus. Older adults have usually been exposed to the toxin before and carry antibody that neutralizes it, which is why the staphylococcal form peaks at ages 15 to 35.\n\nThey have fewer T cells that can respond to superantigens: incorrect. Young people do not have fewer responsive T cells; the problem is that nothing neutralizes the toxin before it reaches them.\n\nThey are more often colonized by toxin-producing streptococci: incorrect. The menstrual, tampon-associated form is caused by Staphylococcus aureus, not streptococci.\n\nThey have not yet developed late complement components: incorrect. Late complement components are present from infancy, and their deficiency predisposes to Neisseria, not toxic shock.\n\nThey lack neutralizing antibody against the toxin: correct. Toxic shock is more likely in people with no neutralizing antibody to the toxin, as is common in adolescents.\n\nThey have more P antigen expressed on their red cells: incorrect. The P antigen is the parvovirus B19 receptor and plays no role in toxic shock."
+   "explain": {
+    "html": "<p>Fever, shock, diffuse erythroderma including the palms and soles, mucosal hyperemia, and multiorgan involvement (low platelets, acidosis) in a menstruating adolescent is staphylococcal toxic shock syndrome, driven by the superantigen toxic shock syndrome toxin-1 from Staphylococcus aureus.</p><p>Toxic shock is more likely in younger people who have no neutralizing antibody to the toxin made by the infecting Staphylococcus aureus or group A streptococcus. Older adults have usually been exposed to the toxin before and carry antibody that neutralizes it, which is why the staphylococcal form peaks at ages 15 to 35.</p>",
+    "table": null,
+    "why": [
+     "Young people do not have fewer responsive T cells; the problem is that nothing neutralizes the toxin before it reaches them.",
+     "The menstrual, tampon-associated form is caused by Staphylococcus aureus, not streptococci.",
+     "Late complement components are present from infancy, and their deficiency predisposes to Neisseria, not toxic shock.",
+     "",
+     "The P antigen is the parvovirus B19 receptor and plays no role in toxic shock."
+    ],
+    "takeaway": "Toxic shock syndrome is more likely in younger people who lack neutralizing antibody to the staphylococcal or streptococcal toxin.",
+    "topic": "Staphylococcal toxic shock: who is susceptible",
+    "subject": "Microbiology"
+   },
+   "figures": []
   },
   {
    "id": "miid2-w06-app-6b-q03",
@@ -51,7 +79,21 @@
    ],
    "answer": 0,
    "evidence": [],
-   "note": "**Roseola is diagnosed clinically from high fever followed by rash after the fever breaks in a well infant, and it needs only supportive care.**\n\nAn infant with several days of high fever whose rash appears only after the fever subsides, who is well appearing with occipital nodes and a normal buccal mucosa, has roseola (exanthem subitum) from human herpesvirus 6. HHV-6 accounts for a large share of emergency visits for febrile infants 6 to 12 months old, and infection approaches 100% by age 2.\n\nRoseola is a clinical diagnosis in an otherwise healthy child, and it resolves on its own, so reassurance and supportive care are appropriate. The timing of rash after defervescence is the key feature: in measles and the other viral exanthems, rash appears while the child is still febrile.\n\nReassurance and supportive care: correct. Roseola is a clinical diagnosis in a well infant, and it resolves with supportive care.\n\nSerum measles IgM and airborne isolation: incorrect. Measles is unlikely in an immunized infant with no cough, coryza, conjunctivitis, or Koplik spots, and its rash comes during fever.\n\nBlood culture and intravenous ceftriaxone: incorrect. A well-appearing afebrile infant with a blanching rash does not need empiric treatment for meningococcal sepsis.\n\nEchocardiogram and intravenous immunoglobulin: incorrect. Kawasaki disease needs at least 5 days of fever and mucocutaneous findings this infant does not have.\n\nThroat culture and oral penicillin: incorrect. Scarlet fever is a disease of school-aged children with pharyngitis and a sandpaper rash."
+   "explain": {
+    "html": "<p>An infant with several days of high fever whose rash appears only after the fever subsides, who is well appearing with occipital nodes and a normal buccal mucosa, has roseola (exanthem subitum) from human herpesvirus 6. HHV-6 accounts for a large share of emergency visits for febrile infants 6 to 12 months old, and infection approaches 100% by age 2.</p><p>Roseola is a clinical diagnosis in an otherwise healthy child, and it resolves on its own, so reassurance and supportive care are appropriate. The timing of rash after defervescence is the key feature: in measles and the other viral exanthems, rash appears while the child is still febrile.</p>",
+    "table": null,
+    "why": [
+     "",
+     "Measles is unlikely in an immunized infant with no cough, coryza, conjunctivitis, or Koplik spots, and its rash comes during fever.",
+     "A well-appearing afebrile infant with a blanching rash does not need empiric treatment for meningococcal sepsis.",
+     "Kawasaki disease needs at least 5 days of fever and mucocutaneous findings this infant does not have.",
+     "Scarlet fever is a disease of school-aged children with pharyngitis and a sandpaper rash."
+    ],
+    "takeaway": "Roseola is diagnosed clinically from high fever followed by rash after the fever breaks in a well infant, and it needs only supportive care.",
+    "topic": "Roseola: clinical diagnosis",
+    "subject": "Microbiology"
+   },
+   "figures": []
   },
   {
    "id": "miid2-w06-app-6b-q04",
@@ -67,7 +109,21 @@
    ],
    "answer": 1,
    "evidence": [],
-   "note": "**Measles is most contagious from about 4 days before to 4 days after the rash, so spread starts during the prodrome.**\n\nHigh fever with cough and conjunctivitis followed by a morbilliform rash that starts on the head and spreads downward in an unvaccinated infant is measles. Measles is one of the most contagious infections: about 9 of 10 susceptible contacts develop disease, spread is airborne and by direct contact, and the incubation period is about 10 to 12 days.\n\nPatients are most contagious from about 4 days before to 4 days after the rash appears, so this child was spreading virus during the prodrome, before anyone suspected measles. That is why unvaccinated contacts in the daycare are at risk.\n\nOnly while the rash is visible on the trunk: incorrect. Spread begins days before the rash, during the cough and fever, not only while the rash is visible.\n\nFrom about 4 days before to 4 days after the rash: correct. Measles is most contagious from about 4 days before to 4 days after the rash appears.\n\nOnly after the rash fades and the skin peels: incorrect. Contagiousness falls after the rash, so the recovery phase is not the main risk period.\n\nFor up to 6 weeks, through virus in the stool: incorrect. Prolonged shedding in stool describes the live oral polio vaccine virus, not measles.\n\nOnly during the 10 days before the cough began: incorrect. The incubation period after exposure is not the contagious window; spread peaks around the rash."
+   "explain": {
+    "html": "<p>High fever with cough and conjunctivitis followed by a morbilliform rash that starts on the head and spreads downward in an unvaccinated infant is measles. Measles is one of the most contagious infections: about 9 of 10 susceptible contacts develop disease, spread is airborne and by direct contact, and the incubation period is about 10 to 12 days.</p><p>Patients are most contagious from about 4 days before to 4 days after the rash appears, so this child was spreading virus during the prodrome, before anyone suspected measles. That is why unvaccinated contacts in the daycare are at risk.</p>",
+    "table": null,
+    "why": [
+     "Spread begins days before the rash, during the cough and fever, not only while the rash is visible.",
+     "",
+     "Contagiousness falls after the rash, so the recovery phase is not the main risk period.",
+     "Prolonged shedding in stool describes the live oral polio vaccine virus, not measles.",
+     "The incubation period after exposure is not the contagious window; spread peaks around the rash."
+    ],
+    "takeaway": "Measles is most contagious from about 4 days before to 4 days after the rash, so spread starts during the prodrome.",
+    "topic": "Measles: contagious period",
+    "subject": "Microbiology"
+   },
+   "figures": []
   },
   {
    "id": "miid2-w06-app-6b-q05",
@@ -83,7 +139,21 @@
    ],
    "answer": 2,
    "evidence": [],
-   "note": "**Varicella (lesions in different stages) is treated with acyclovir or valacyclovir in patients ill enough to need therapy.**\n\nFever followed by a vesicular rash that begins centrally and contains papules, vesicles, and crusted lesions at the same time is varicella, primary infection with varicella zoster virus, a DNA herpesvirus. Lesions in different stages separate it from smallpox and mpox, where all lesions are in the same stage. An unvaccinated adolescent with hundreds of lesions and mucosal involvement is ill enough to treat.\n\nVaricella zoster infections are treated with the antiviral acyclovir (or valacyclovir). Antibacterial drugs do not act on the virus.\n\nPenicillin: incorrect. Penicillin treats group A streptococcal infection, such as scarlet fever, and has no activity against varicella zoster virus.\n\nDoxycycline: incorrect. Doxycycline treats rickettsial infection such as Rocky Mountain spotted fever, not a herpesvirus.\n\nAcyclovir: correct. Acyclovir is the antiviral used for varicella zoster virus infection.\n\nAzithromycin: incorrect. Azithromycin is used for pertussis, not viral infections.\n\nClindamycin: incorrect. Clindamycin is added for toxin-mediated staphylococcal and streptococcal disease, not for varicella."
+   "explain": {
+    "html": "<p>Fever followed by a vesicular rash that begins centrally and contains papules, vesicles, and crusted lesions at the same time is varicella, primary infection with varicella zoster virus, a DNA herpesvirus. Lesions in different stages separate it from smallpox and mpox, where all lesions are in the same stage. An unvaccinated adolescent with hundreds of lesions and mucosal involvement is ill enough to treat.</p><p>Varicella zoster infections are treated with the antiviral acyclovir (or valacyclovir). Antibacterial drugs do not act on the virus.</p>",
+    "table": null,
+    "why": [
+     "Penicillin treats group A streptococcal infection, such as scarlet fever, and has no activity against varicella zoster virus.",
+     "Doxycycline treats rickettsial infection such as Rocky Mountain spotted fever, not a herpesvirus.",
+     "",
+     "Azithromycin is used for pertussis, not viral infections.",
+     "Clindamycin is added for toxin-mediated staphylococcal and streptococcal disease, not for varicella."
+    ],
+    "takeaway": "Varicella (lesions in different stages) is treated with acyclovir or valacyclovir in patients ill enough to need therapy.",
+    "topic": "Severe varicella in an adolescent: antiviral therapy",
+    "subject": "Microbiology"
+   },
+   "figures": []
   },
   {
    "id": "miid2-w06-app-6b-q06",
@@ -99,7 +169,21 @@
    ],
    "answer": 2,
    "evidence": [],
-   "note": "**Close contacts exposed to the oral secretions of a meningococcal case receive chemoprophylaxis (rifampin, ciprofloxacin, or ceftriaxone), ideally within 24 hours.**\n\nA petechial and purpuric rash with a gram-negative diplococcus in spinal fluid is invasive meningococcal disease from Neisseria meningitidis, which colonizes the nasopharynx and spreads through respiratory and throat secretions. The friend shared water bottles, so he was directly exposed to the patient's oral secretions in the 7 days before symptoms.\n\nChemoprophylaxis is the main way to prevent secondary cases of sporadic meningococcal disease. It is given to household members, child care contacts, and anyone exposed to the patient's oral secretions, ideally within 24 hours of identifying the index case, using rifampin, ciprofloxacin, or ceftriaxone.\n\nNo action unless he develops a fever: incorrect. Waiting for fever is too late, because invasive disease can progress to shock within hours.\n\nIntravenous immunoglobulin as a single dose: incorrect. Immunoglobulin is used in Kawasaki disease and streptococcal toxic shock, not for meningococcal exposure.\n\nOral ciprofloxacin as soon as possible: correct. A contact exposed to oral secretions should receive chemoprophylaxis such as ciprofloxacin as soon as possible.\n\nOral azithromycin for 5 days: incorrect. Azithromycin is the prophylaxis for pertussis contacts, not for meningococcus.\n\nA pneumococcal conjugate vaccine dose: incorrect. A pneumococcal vaccine does not protect against Neisseria meningitidis."
+   "explain": {
+    "html": "<p>A petechial and purpuric rash with a gram-negative diplococcus in spinal fluid is invasive meningococcal disease from Neisseria meningitidis, which colonizes the nasopharynx and spreads through respiratory and throat secretions. The friend shared water bottles, so he was directly exposed to the patient's oral secretions in the 7 days before symptoms.</p><p>Chemoprophylaxis is the main way to prevent secondary cases of sporadic meningococcal disease. It is given to household members, child care contacts, and anyone exposed to the patient's oral secretions, ideally within 24 hours of identifying the index case, using rifampin, ciprofloxacin, or ceftriaxone.</p>",
+    "table": null,
+    "why": [
+     "Waiting for fever is too late, because invasive disease can progress to shock within hours.",
+     "Immunoglobulin is used in Kawasaki disease and streptococcal toxic shock, not for meningococcal exposure.",
+     "",
+     "Azithromycin is the prophylaxis for pertussis contacts, not for meningococcus.",
+     "A pneumococcal vaccine does not protect against Neisseria meningitidis."
+    ],
+    "takeaway": "Close contacts exposed to the oral secretions of a meningococcal case receive chemoprophylaxis (rifampin, ciprofloxacin, or ceftriaxone), ideally within 24 hours.",
+    "topic": "Meningococcal disease: contact chemoprophylaxis",
+    "subject": "Microbiology"
+   },
+   "figures": []
   },
   {
    "id": "miid2-w06-app-6b-q07",
@@ -115,7 +199,21 @@
    ],
    "answer": 4,
    "evidence": [],
-   "note": "**In toxic shock syndrome, a protein synthesis inhibitor such as clindamycin is added to stop toxin production, and IVIG neutralizes toxin in the group A strep form.**\n\nShock, a spreading erythematous rash, and multiorgan failure with beta-hemolytic streptococci in the blood and a septic joint after a sore throat is streptococcal toxic shock syndrome from group A streptococcus. Its exotoxins act as superantigens, driving T cell proliferation and an overwhelming release of interleukin 1, interleukin 2, interferon gamma, and tumor necrosis factor alpha that causes shock.\n\nTreatment of toxic shock uses anti-streptococcal or anti-staphylococcal antibiotics usually including one that inhibits protein synthesis, such as clindamycin, because it shuts down production of the toxin itself. Toxin that is already circulating is addressed by intravenous immunoglobulin, which is added for the group A streptococcal form.\n\nCover methicillin-resistant Staphylococcus aureus in the joint: incorrect. The culture shows streptococci in chains, not staphylococci, so resistant Staphylococcus aureus coverage is not the reason.\n\nNeutralize toxin that is already circulating in the blood: incorrect. Neutralizing circulating toxin is the role of intravenous immunoglobulin, not clindamycin.\n\nImprove penetration of the antibiotic into spinal fluid: incorrect. Nothing here suggests meningitis, and spinal fluid penetration is not why clindamycin is added.\n\nPrevent rheumatic fever after the throat infection: incorrect. Rheumatic fever prevention is not the purpose; the goal is to stop toxin production during shock.\n\nStop the bacteria from making new superantigen toxin: correct. A protein synthesis inhibitor such as clindamycin stops the bacteria from making more superantigen toxin."
+   "explain": {
+    "html": "<p>Shock, a spreading erythematous rash, and multiorgan failure with beta-hemolytic streptococci in the blood and a septic joint after a sore throat is streptococcal toxic shock syndrome from group A streptococcus. Its exotoxins act as superantigens, driving T cell proliferation and an overwhelming release of interleukin 1, interleukin 2, interferon gamma, and tumor necrosis factor alpha that causes shock.</p><p>Treatment of toxic shock uses anti-streptococcal or anti-staphylococcal antibiotics usually including one that inhibits protein synthesis, such as clindamycin, because it shuts down production of the toxin itself. Toxin that is already circulating is addressed by intravenous immunoglobulin, which is added for the group A streptococcal form.</p>",
+    "table": null,
+    "why": [
+     "The culture shows streptococci in chains, not staphylococci, so resistant Staphylococcus aureus coverage is not the reason.",
+     "Neutralizing circulating toxin is the role of intravenous immunoglobulin, not clindamycin.",
+     "Nothing here suggests meningitis, and spinal fluid penetration is not why clindamycin is added.",
+     "Rheumatic fever prevention is not the purpose; the goal is to stop toxin production during shock.",
+     ""
+    ],
+    "takeaway": "In toxic shock syndrome, a protein synthesis inhibitor such as clindamycin is added to stop toxin production, and IVIG neutralizes toxin in the group A strep form.",
+    "topic": "Streptococcal toxic shock: why add a protein synthesis inhibitor",
+    "subject": "Microbiology"
+   },
+   "figures": []
   }
  ]
 }

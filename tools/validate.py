@@ -21,6 +21,7 @@ SOURCES = {"slide", "notes", "formative", "said", "practice"}
 # the course, so it needs no verbatim evidence, but it must explain itself in
 # `note` and say which slides it was written from in `source_ref`.
 EVTYPES = {"transcript", "notes", "slide"}
+SAFE_TAGS = {"p", "b", "i", "strong", "em", "sup", "sub", "br", "ul", "ol", "li", "table", "thead", "tbody", "tr", "th", "td"}
 
 
 def norm(s):
@@ -87,8 +88,18 @@ def main():
                 errs.append(f"{w}: missing stem_image {q['stem_image']}")
             ev = q.get("evidence", [])
             if q.get("source") == "practice":
-                if not q.get("note"):
-                    errs.append(f"{w}: practice questions need an explanation in note")
+                x = q.get("explain") or {}
+                if not x.get("html") or not x.get("takeaway"):
+                    errs.append(f"{w}: practice questions need explain.html and explain.takeaway")
+                for k in ("html", "table"):
+                    bad = {m.lower() for m in re.findall(r"<\s*/?\s*([a-zA-Z0-9]+)", x.get(k) or "")} - SAFE_TAGS
+                    if bad or re.search(r"<[a-zA-Z]+\s+[^>]*>", x.get(k) or ""):
+                        errs.append(f"{w}: explain.{k} may use only plain {sorted(SAFE_TAGS)} tags, no attributes")
+                if not isinstance(x.get("why", []), list) or (x.get("why") and len(x["why"]) != len(q.get("choices") or [])):
+                    errs.append(f"{w}: explain.why needs one entry per choice")
+                for fg in q.get("figures", []):
+                    if not (ROOT / fg.get("image", "")).exists():
+                        errs.append(f"{w}: missing figure {fg.get('image')}")
                 if not q.get("source_ref"):
                     errs.append(f"{w}: practice questions need source_ref (which slides they were written from)")
             elif not ev:

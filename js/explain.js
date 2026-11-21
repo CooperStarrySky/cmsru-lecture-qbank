@@ -23,7 +23,29 @@
     }).join("");
   }
 
+  // practice questions carry our own answer key: explanation, figure, teaching table,
+  // why each wrong choice is wrong, then the takeaway. HTML is limited to a small
+  // allowlist by tools/validate.py.
+  function practiceHTML(q) {
+    const x = q.explain || {}, L = "ABCDEFGH";
+    let h = `<div class="pq">`;
+    h += x.html || "";
+    if ((q.figures || []).length) {
+      h += `<div class="qf-figures pq-figs">` + q.figures.map(f => {
+        const cap = f.caption || `${lecName(q.lecture)} · Slide ${f.slide}`;
+        return `<button class="qf-figure" data-img="${esc(f.image)}" data-cap="${esc(cap)}"><img loading="lazy" src="${esc(f.image)}" alt="${esc(cap)}"><span class="qf-figure__cap">${esc(cap)}</span></button>`;
+      }).join("") + `</div>`;
+    }
+    if (x.table) h += `<div class="pq-table">${x.table}</div>`;
+    h += (x.why || []).map((w, i) => i === q.answer || !w ? "" : `<p class="pq-why"><b>Choice ${L[i]}.</b> ${esc(w)}</p>`).join("");
+    if (x.takeaway) h += `<div class="pq-take"><b>The takeaway</b>${esc(x.takeaway)}</div>`;
+    h += `</div>`;
+    h += `<div class="qf-cite">Practice question written from the slides${q.source_ref ? " · " + esc(q.source_ref) : ""} · ${esc(lecName(q.lecture, q))}${x.topic ? " · Topic: " + esc(x.topic) : ""}</div>`;
+    return h;
+  }
+
   function evidenceHTML(q) {
+    if (q.source === "practice") return practiceHTML(q);
     const quotes = (q.evidence || []).filter(e => e.type !== "slide");
     const slides = (q.evidence || []).filter(e => e.type === "slide");
     let h = "";
@@ -46,10 +68,9 @@
       }).join("") + `</div>`;
     }
     if (q.note) {
-      const sum = q.source === "practice" ? "Explanation (written by a student, not the professor's words)" : "Contributor's note (paraphrase, not the professor's words)";
-      h += `<details class="ev-note"${q.source === "practice" ? " open" : ""}><summary>${sum}</summary><div class="ev-note-body">${mdLite(q.note)}</div></details>`;
+      h += `<details class="ev-note"><summary>Contributor's note (paraphrase, not the professor's words)</summary><div class="ev-note-body">${mdLite(q.note)}</div></details>`;
     }
-    const lab = { slide: "Lecture slide question", notes: "Lecture notes question", formative: "Formative quiz question", said: "Asked in lecture", practice: "Practice question written from the slides" }[q.source] || "";
+    const lab = { slide: "Lecture slide question", notes: "Lecture notes question", formative: "Formative quiz question", said: "Asked in lecture" }[q.source] || "";
     h += `<div class="qf-cite">${esc(lab)}${q.source_ref ? " · " + esc(q.source_ref) : ""} · ${esc(lecName(q.lecture, q))}</div>`;
     return h;
   }

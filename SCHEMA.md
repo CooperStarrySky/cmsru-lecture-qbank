@@ -49,5 +49,11 @@ Run `python3 tools/validate.py` before every commit. It checks all of this and r
 Board-style questions a student wrote from the slides, kept apart from the collected ones. They show up as their own "Practice questions (written)" source on the Create Test page, so anyone can turn them off.
 
 - No verbatim evidence needed (`evidence` may be `[]`), since nothing is quoted.
-- `note` is required and holds the full explanation; it opens by default and is labeled as written by a student, not the professor.
 - `source_ref` is required and names the slides it was written from, e.g. `Written from the 2025-26 Lecture 23 slides`.
+- `explain` holds the answer key, shown after answering in this order:
+  - `html`: the explanation, paragraphs in `<p>`; only plain `p b i strong em sup sub br ul ol li table thead tbody tr th td` tags, no attributes (the validator checks).
+  - `figures` (on the question, not inside `explain`): optional list of `{"image", "slide", "caption"}`, a lecture slide that shows the concept, under `img/<lecture_id>/`, each under ~400 KB.
+  - `table`: optional teaching table, same tag rules.
+  - `why`: one string per choice saying why it is wrong (empty for the answer).
+  - `takeaway`: the one-sentence point, shown in a box at the end.
+  - `topic`, `subject`: shown in the footer.

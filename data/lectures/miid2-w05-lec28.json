@@ -19,7 +19,21 @@
    ],
    "answer": 0,
    "evidence": [],
-   "note": "**Intrinsic resistance is a species trait: aerobes resist metronidazole (cannot reduce it), anaerobes resist aminoglycosides (no uptake), Gram-negatives resist vancomycin, and Gram-positives resist aztreonam.**\n\nWith no acquired genes, this is intrinsic resistance: a normal structural or functional trait of the species. The lecture's examples include metronidazole, a prodrug that must be reduced anaerobically to become active, so aerobic bacteria are intrinsically resistant to it. Organism 2, an anaerobe, activates and is killed by it.\n\nThe other examples run the opposite way or concern other barriers: anaerobes resist aminoglycosides because they lack the oxidative metabolism to take them up, vancomycin cannot cross the Gram-negative outer membrane, and aztreonam does not bind Gram-positive PBPs. None of those fits a drug that kills the anaerobe and spares the aerobe.\n\nMetronidazole, because the aerobe cannot reduce the drug to its active form: correct. Metronidazole needs anaerobic reduction to its active form, so aerobes are intrinsically resistant.\n\nGentamicin, because the aerobe lacks the oxidative metabolism to take it up: incorrect. Aminoglycoside uptake needs oxidative metabolism, so they kill aerobes and spare anaerobes, the reverse of this result.\n\nVancomycin, because the aerobe's outer membrane keeps the drug from its target: incorrect. The vancomycin barrier is the Gram-negative outer membrane, which has nothing to do with oxygen use.\n\nAztreonam, because the aerobe's penicillin-binding proteins do not bind it: incorrect. Aztreonam's barrier is Gram-positive PBPs, not aerobic metabolism.\n\nCeftriaxone, because the aerobe produces a chromosomal carbapenemase: incorrect. A carbapenemase is an acquired enzyme, and the stem rules out resistance genes."
+   "explain": {
+    "html": "<p>With no acquired genes, this is intrinsic resistance: a normal structural or functional trait of the species. The lecture's examples include metronidazole, a prodrug that must be reduced anaerobically to become active, so aerobic bacteria are intrinsically resistant to it. Organism 2, an anaerobe, activates and is killed by it.</p><p>The other examples run the opposite way or concern other barriers: anaerobes resist aminoglycosides because they lack the oxidative metabolism to take them up, vancomycin cannot cross the Gram-negative outer membrane, and aztreonam does not bind Gram-positive PBPs. None of those fits a drug that kills the anaerobe and spares the aerobe.</p>",
+    "table": null,
+    "why": [
+     "",
+     "Aminoglycoside uptake needs oxidative metabolism, so they kill aerobes and spare anaerobes, the reverse of this result.",
+     "The vancomycin barrier is the Gram-negative outer membrane, which has nothing to do with oxygen use.",
+     "Aztreonam's barrier is Gram-positive PBPs, not aerobic metabolism.",
+     "A carbapenemase is an acquired enzyme, and the stem rules out resistance genes."
+    ],
+    "takeaway": "Intrinsic resistance is a species trait: aerobes resist metronidazole (cannot reduce it), anaerobes resist aminoglycosides (no uptake), Gram-negatives resist vancomycin, and Gram-positives resist aztreonam.",
+    "topic": "Intrinsic resistance",
+    "subject": "Microbiology"
+   },
+   "figures": []
   },
   {
    "id": "miid2-w05-lec28-q02",
@@ -35,7 +49,27 @@
    ],
    "answer": 3,
    "evidence": [],
-   "note": "**Enterobacteriaceae become carbapenem resistant by producing carbapenemases (such as KPC) and by reducing or altering outer membrane porins that carbapenems pass through.**\n\nA carbapenem-resistant, encapsulated, lactose-fermenting Gram-negative rod in a catheterized nursing home resident is a carbapenem-resistant Enterobacteriaceae (CRE), most likely *Klebsiella pneumoniae*. The lecture names two mechanisms of carbapenem resistance in Enterobacteriaceae: production of a carbapenemase (such as KPC, *Klebsiella pneumoniae* carbapenemase, which hydrolyzes all beta-lactams) and alteration or reduction of porins.\n\nPorins are beta-barrel channels in the Gram-negative outer membrane through which beta-lactams passively diffuse to reach their PBPs. Fewer or narrower porins mean less drug reaches the periplasm, and together with an enzyme that destroys the drug that does get in, resistance is high.\n\nIt alters the penicillin-binding proteins so the drug no longer binds: incorrect. Altered PBPs are a resistance mechanism, but the stem describes fewer outer membrane channels.\n\nIt adds acetyl groups to the drug so that it no longer binds its target: incorrect. Acetylating enzymes are aminoglycoside-modifying enzymes, not porin changes.\n\nIt actively pumps the drug from the cytoplasm back out of the cell: incorrect. Efflux pumps actively expel drug; porins are passive entry channels.\n\nIt slows passive entry of the drug across the outer membrane: correct. Reduced porins limit passive diffusion of carbapenems to their PBP targets.\n\nIt replaces terminal D-alanine with D-lactate in the cell wall precursors: incorrect. D-Ala-D-Lac substitution is the vancomycin resistance mechanism in VRE."
+   "explain": {
+    "html": "<p>A carbapenem-resistant, encapsulated, lactose-fermenting Gram-negative rod in a catheterized nursing home resident is a carbapenem-resistant Enterobacteriaceae (CRE), most likely <i>Klebsiella pneumoniae</i>. The lecture names two mechanisms of carbapenem resistance in Enterobacteriaceae: production of a carbapenemase (such as KPC, <i>Klebsiella pneumoniae</i> carbapenemase, which hydrolyzes all beta-lactams) and alteration or reduction of porins.</p><p>Porins are beta-barrel channels in the Gram-negative outer membrane through which beta-lactams passively diffuse to reach their PBPs. Fewer or narrower porins mean less drug reaches the periplasm, and together with an enzyme that destroys the drug that does get in, resistance is high.</p>",
+    "table": null,
+    "why": [
+     "Altered PBPs are a resistance mechanism, but the stem describes fewer outer membrane channels.",
+     "Acetylating enzymes are aminoglycoside-modifying enzymes, not porin changes.",
+     "Efflux pumps actively expel drug; porins are passive entry channels.",
+     "",
+     "D-Ala-D-Lac substitution is the vancomycin resistance mechanism in VRE."
+    ],
+    "takeaway": "Enterobacteriaceae become carbapenem resistant by producing carbapenemases (such as KPC) and by reducing or altering outer membrane porins that carbapenems pass through.",
+    "topic": "CRE mechanisms: porins and carbapenemase",
+    "subject": "Microbiology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w05-lec28/slide_12.jpg",
+     "slide": 12,
+     "caption": "Lecture 28 slides (2025-26) · Page 12"
+    }
+   ]
   },
   {
    "id": "miid2-w05-lec28-q03",
@@ -51,7 +85,27 @@
    ],
    "answer": 2,
    "evidence": [],
-   "note": "**ESBLs confer resistance to penicillins, cephalosporins and aztreonam, are inhibited by clavulanate, tazobactam or sulbactam, and leave carbapenems active.**\n\nThe lecture describes extended-spectrum beta-lactamases (ESBLs) as enzymes that confer resistance to penicillins, cephalosporins and the monobactam aztreonam, can be inhibited by clavulanic acid, tazobactam or sulbactam, and spare the carbapenems. This isolate matches every feature: resistant to ampicillin, third- and fourth-generation cephalosporins and aztreonam, susceptible to meropenem, with activity restored by clavulanate.\n\nA carbapenemase or metallo-beta-lactamase would also destroy meropenem, a simple penicillinase would leave cephalosporins active, and PBP2a is a *Staphylococcus aureus* target change, not a Gram-negative enzyme.\n\nA penicillinase that hydrolyzes only penicillins: incorrect. A penicillinase would leave ceftriaxone, cefepime and aztreonam active.\n\nA metallo-beta-lactamase that requires zinc: incorrect. Metallo-beta-lactamases are carbapenemases and would make meropenem fail.\n\nAn extended-spectrum beta-lactamase: correct. ESBLs hydrolyze penicillins, cephalosporins and aztreonam, spare carbapenems and are inhibited by clavulanate.\n\nA carbapenemase such as KPC: incorrect. A carbapenemase such as KPC would hydrolyze meropenem too.\n\nAn altered penicillin-binding protein 2a: incorrect. PBP2a is the MRSA target alteration, not a Gram-negative enzyme."
+   "explain": {
+    "html": "<p>The lecture describes extended-spectrum beta-lactamases (ESBLs) as enzymes that confer resistance to penicillins, cephalosporins and the monobactam aztreonam, can be inhibited by clavulanic acid, tazobactam or sulbactam, and spare the carbapenems. This isolate matches every feature: resistant to ampicillin, third- and fourth-generation cephalosporins and aztreonam, susceptible to meropenem, with activity restored by clavulanate.</p><p>A carbapenemase or metallo-beta-lactamase would also destroy meropenem, a simple penicillinase would leave cephalosporins active, and PBP2a is a <i>Staphylococcus aureus</i> target change, not a Gram-negative enzyme.</p>",
+    "table": null,
+    "why": [
+     "A penicillinase would leave ceftriaxone, cefepime and aztreonam active.",
+     "Metallo-beta-lactamases are carbapenemases and would make meropenem fail.",
+     "",
+     "A carbapenemase such as KPC would hydrolyze meropenem too.",
+     "PBP2a is the MRSA target alteration, not a Gram-negative enzyme."
+    ],
+    "takeaway": "ESBLs confer resistance to penicillins, cephalosporins and aztreonam, are inhibited by clavulanate, tazobactam or sulbactam, and leave carbapenems active.",
+    "topic": "ESBL phenotype",
+    "subject": "Microbiology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w05-lec28/slide_13.jpg",
+     "slide": 13,
+     "caption": "Lecture 28 slides (2025-26) · Page 13"
+    }
+   ]
   },
   {
    "id": "miid2-w05-lec28-q04",
@@ -67,7 +121,21 @@
    ],
    "answer": 4,
    "evidence": [],
-   "note": "**CRE treatment is limited to tigecycline, fosfomycin, aminoglycosides and newer combinations such as ceftazidime-avibactam and meropenem-vaborbactam.**\n\nCarbapenem-resistant Enterobacteriaceae that produce a carbapenemase leave very few options. The lecture lists tigecycline, fosfomycin and aminoglycosides, plus newer beta-lactam/beta-lactamase inhibitor combinations: ceftazidime-avibactam and meropenem-vaborbactam, both with activity against KPC producers.\n\nOlder inhibitors (clavulanate, sulbactam, tazobactam) do not protect against carbapenemases, and cilastatin is not a beta-lactamase inhibitor at all; it blocks renal dehydropeptidase.\n\nAmoxicillin-clavulanate: incorrect. Clavulanate does not inhibit carbapenemases such as KPC.\n\nAmpicillin-sulbactam: incorrect. Sulbactam does not protect ampicillin from a KPC enzyme.\n\nPiperacillin-tazobactam: incorrect. Tazobactam does not overcome KPC carbapenemases.\n\nImipenem-cilastatin: incorrect. Cilastatin blocks renal dehydropeptidase, and imipenem is hydrolyzed by the carbapenemase.\n\nCeftazidime-avibactam: correct. Ceftazidime-avibactam is a newer combination with activity against KPC-producing CRE."
+   "explain": {
+    "html": "<p>Carbapenem-resistant Enterobacteriaceae that produce a carbapenemase leave very few options. The lecture lists tigecycline, fosfomycin and aminoglycosides, plus newer beta-lactam/beta-lactamase inhibitor combinations: ceftazidime-avibactam and meropenem-vaborbactam, both with activity against KPC producers.</p><p>Older inhibitors (clavulanate, sulbactam, tazobactam) do not protect against carbapenemases, and cilastatin is not a beta-lactamase inhibitor at all; it blocks renal dehydropeptidase.</p>",
+    "table": null,
+    "why": [
+     "Clavulanate does not inhibit carbapenemases such as KPC.",
+     "Sulbactam does not protect ampicillin from a KPC enzyme.",
+     "Tazobactam does not overcome KPC carbapenemases.",
+     "Cilastatin blocks renal dehydropeptidase, and imipenem is hydrolyzed by the carbapenemase.",
+     ""
+    ],
+    "takeaway": "CRE treatment is limited to tigecycline, fosfomycin, aminoglycosides and newer combinations such as ceftazidime-avibactam and meropenem-vaborbactam.",
+    "topic": "CRE treatment",
+    "subject": "Microbiology"
+   },
+   "figures": []
   },
   {
    "id": "miid2-w05-lec28-q05",
@@ -83,7 +151,27 @@
    ],
    "answer": 3,
    "evidence": [],
-   "note": "**Vancomycin is first choice for serious MRSA infection; oral home options include TMP-SMX, clindamycin, doxycycline and minocycline; all standard beta-lactams fail.**\n\nA draining abscess in a contact-sport athlete with affected teammates, growing oxacillin-resistant *S. aureus*, is community-acquired MRSA. Crowded living, athletics and close contact are risk factors the lecture lists. Intravenous vancomycin is the first-choice drug for serious MRSA infection, but for home use the lecture lists the oral options trimethoprim-sulfamethoxazole, clindamycin, minocycline and doxycycline.\n\nAll beta-lactams, including dicloxacillin, cephalexin and inhibitor combinations, fail against MRSA because of PBP2a. Oral vancomycin is not absorbed and treats only *C. difficile*.\n\nDicloxacillin: incorrect. Dicloxacillin is an anti-staphylococcal penicillin; MRSA resists it through PBP2a.\n\nCephalexin: incorrect. Cephalexin is a first-generation cephalosporin and does not cover MRSA.\n\nAmoxicillin-clavulanate: incorrect. Clavulanate blocks beta-lactamases but does not overcome PBP2a.\n\nTrimethoprim-sulfamethoxazole: correct. TMP-SMX is one of the oral drugs used at home for MRSA skin infections.\n\nVancomycin capsules taken by mouth: incorrect. Oral vancomycin is not absorbed and is used only for *C. difficile*."
+   "explain": {
+    "html": "<p>A draining abscess in a contact-sport athlete with affected teammates, growing oxacillin-resistant <i>S. aureus</i>, is community-acquired MRSA. Crowded living, athletics and close contact are risk factors the lecture lists. Intravenous vancomycin is the first-choice drug for serious MRSA infection, but for home use the lecture lists the oral options trimethoprim-sulfamethoxazole, clindamycin, minocycline and doxycycline.</p><p>All beta-lactams, including dicloxacillin, cephalexin and inhibitor combinations, fail against MRSA because of PBP2a. Oral vancomycin is not absorbed and treats only <i>C. difficile</i>.</p>",
+    "table": null,
+    "why": [
+     "Dicloxacillin is an anti-staphylococcal penicillin; MRSA resists it through PBP2a.",
+     "Cephalexin is a first-generation cephalosporin and does not cover MRSA.",
+     "Clavulanate blocks beta-lactamases but does not overcome PBP2a.",
+     "",
+     "Oral vancomycin is not absorbed and is used only for C. difficile."
+    ],
+    "takeaway": "Vancomycin is first choice for serious MRSA infection; oral home options include TMP-SMX, clindamycin, doxycycline and minocycline; all standard beta-lactams fail.",
+    "topic": "MRSA treatment options",
+    "subject": "Microbiology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w05-lec28/slide_24.jpg",
+     "slide": 24,
+     "caption": "Lecture 28 slides (2025-26) · Page 24"
+    }
+   ]
   },
   {
    "id": "miid2-w05-lec28-q06",
@@ -99,7 +187,21 @@
    ],
    "answer": 1,
    "evidence": [],
-   "note": "**VRE is treated with ampicillin if susceptible, otherwise daptomycin, linezolid, tigecycline or eravacycline.**\n\nFor vancomycin-resistant *Enterococcus* (VRE), the lecture's approach is ampicillin first if the isolate is still ampicillin susceptible, and otherwise daptomycin, linezolid, tigecycline or eravacycline. This isolate is ampicillin resistant, so daptomycin (a good choice for bacteremia without pneumonia) fits.\n\nEnterococci are intrinsically resistant to cephalosporins (no reliable enterococcal coverage) and to clindamycin, and aztreonam has no Gram-positive activity.\n\nCeftriaxone: incorrect. Cephalosporins have no reliable enterococcal activity.\n\nDaptomycin: correct. Daptomycin is one of the listed options for VRE when ampicillin cannot be used.\n\nAztreonam: incorrect. Aztreonam has no Gram-positive activity.\n\nCefazolin: incorrect. Cefazolin, like all cephalosporins, does not reliably cover *Enterococcus*.\n\nClindamycin: incorrect. Enterococci are intrinsically resistant to clindamycin."
+   "explain": {
+    "html": "<p>For vancomycin-resistant <i>Enterococcus</i> (VRE), the lecture's approach is ampicillin first if the isolate is still ampicillin susceptible, and otherwise daptomycin, linezolid, tigecycline or eravacycline. This isolate is ampicillin resistant, so daptomycin (a good choice for bacteremia without pneumonia) fits.</p><p>Enterococci are intrinsically resistant to cephalosporins (no reliable enterococcal coverage) and to clindamycin, and aztreonam has no Gram-positive activity.</p>",
+    "table": null,
+    "why": [
+     "Cephalosporins have no reliable enterococcal activity.",
+     "",
+     "Aztreonam has no Gram-positive activity.",
+     "Cefazolin, like all cephalosporins, does not reliably cover Enterococcus.",
+     "Enterococci are intrinsically resistant to clindamycin."
+    ],
+    "takeaway": "VRE is treated with ampicillin if susceptible, otherwise daptomycin, linezolid, tigecycline or eravacycline.",
+    "topic": "VRE treatment",
+    "subject": "Microbiology"
+   },
+   "figures": []
   },
   {
    "id": "miid2-w05-lec28-q07",
@@ -115,7 +217,27 @@
    ],
    "answer": 2,
    "evidence": [],
-   "note": "**Target site mutations that lower drug binding but preserve enzyme function cause fluoroquinolone resistance (DNA gyrase, topoisomerase IV) and trimethoprim resistance (dihydrofolate reductase).**\n\nCiprofloxacin targets DNA gyrase and topoisomerase IV; trimethoprim targets dihydrofolate reductase. The lecture describes target site alteration in *A. baumannii*: point mutations in DNA gyrase and topoisomerase IV cause fluoroquinolone resistance, and mutations in dihydrofolate reductase cause trimethoprim resistance.\n\nThe key principle is in the stem: these mutations sharply reduce drug binding while leaving the enzyme's normal activity mostly intact, so the bacterium keeps the function and loses the vulnerability.\n\nPenicillin-binding protein and porin genes: incorrect. PBP and porin changes cause beta-lactam resistance, not fluoroquinolone or trimethoprim resistance.\n\n30S ribosomal protein and efflux pump genes: incorrect. Efflux can contribute, but efflux pumps and 30S proteins are not the targets of these two drugs.\n\nDNA gyrase and dihydrofolate reductase genes: correct. Gyrase mutations cause fluoroquinolone resistance and dihydrofolate reductase mutations cause trimethoprim resistance.\n\nDihydropteroate synthase and RNA polymerase genes: incorrect. Dihydropteroate synthase is the sulfonamide target, and RNA polymerase is not targeted by either drug.\n\nBeta-lactamase and aminoglycoside-modifying enzyme genes: incorrect. Beta-lactamases and AMEs are drug-destroying or drug-modifying enzymes, not altered targets."
+   "explain": {
+    "html": "<p>Ciprofloxacin targets DNA gyrase and topoisomerase IV; trimethoprim targets dihydrofolate reductase. The lecture describes target site alteration in <i>A. baumannii</i>: point mutations in DNA gyrase and topoisomerase IV cause fluoroquinolone resistance, and mutations in dihydrofolate reductase cause trimethoprim resistance.</p><p>The key principle is in the stem: these mutations sharply reduce drug binding while leaving the enzyme's normal activity mostly intact, so the bacterium keeps the function and loses the vulnerability.</p>",
+    "table": null,
+    "why": [
+     "PBP and porin changes cause beta-lactam resistance, not fluoroquinolone or trimethoprim resistance.",
+     "Efflux can contribute, but efflux pumps and 30S proteins are not the targets of these two drugs.",
+     "",
+     "Dihydropteroate synthase is the sulfonamide target, and RNA polymerase is not targeted by either drug.",
+     "Beta-lactamases and AMEs are drug-destroying or drug-modifying enzymes, not altered targets."
+    ],
+    "takeaway": "Target site mutations that lower drug binding but preserve enzyme function cause fluoroquinolone resistance (DNA gyrase, topoisomerase IV) and trimethoprim resistance (dihydrofolate reductase).",
+    "topic": "Target site mutations: fluoroquinolones and trimethoprim",
+    "subject": "Microbiology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w05-lec28/slide_42.jpg",
+     "slide": 42,
+     "caption": "Lecture 28 slides (2025-26) · Page 42"
+    }
+   ]
   },
   {
    "id": "miid2-w05-lec28-q08",
@@ -131,7 +253,21 @@
    ],
    "answer": 4,
    "evidence": [],
-   "note": "**MDR is non-susceptibility in 3 or more categories, XDR leaves only 1 or 2 categories active, and PDR is non-susceptibility to all categories.**\n\nThe lecture defines three tiers. Multidrug resistant (MDR) is acquired non-susceptibility to at least one agent in three or more categories. Extensively drug resistant (XDR) is non-susceptibility to at least one agent in all but two or fewer categories, meaning only one or two categories still work. Pan-drug resistant (PDR) is non-susceptibility to every agent in every category.\n\nThis isolate is non-susceptible in six of seven categories and susceptible only to tigecycline, so it is XDR. It also technically meets the MDR threshold, but XDR is the more specific label. That matches the lecture's note that tigecycline is often a last option against carbapenem-resistant *Acinetobacter*.\n\nSusceptible, because one category still works: incorrect. Non-susceptibility in six categories is far beyond a susceptible isolate.\n\nMultidrug resistant but not extensively drug resistant: incorrect. It exceeds the MDR threshold; with only one category left, XDR is the correct label.\n\nIntrinsically resistant: incorrect. This is acquired resistance across many classes, not a species trait.\n\nPan-drug resistant: incorrect. PDR requires non-susceptibility to all agents in all categories, and tigecycline still works.\n\nExtensively drug resistant: correct. Susceptible in only one or two categories defines extensively drug resistant."
+   "explain": {
+    "html": "<p>The lecture defines three tiers. Multidrug resistant (MDR) is acquired non-susceptibility to at least one agent in three or more categories. Extensively drug resistant (XDR) is non-susceptibility to at least one agent in all but two or fewer categories, meaning only one or two categories still work. Pan-drug resistant (PDR) is non-susceptibility to every agent in every category.</p><p>This isolate is non-susceptible in six of seven categories and susceptible only to tigecycline, so it is XDR. It also technically meets the MDR threshold, but XDR is the more specific label. That matches the lecture's note that tigecycline is often a last option against carbapenem-resistant <i>Acinetobacter</i>.</p>",
+    "table": null,
+    "why": [
+     "Non-susceptibility in six categories is far beyond a susceptible isolate.",
+     "It exceeds the MDR threshold; with only one category left, XDR is the correct label.",
+     "This is acquired resistance across many classes, not a species trait.",
+     "PDR requires non-susceptibility to all agents in all categories, and tigecycline still works.",
+     ""
+    ],
+    "takeaway": "MDR is non-susceptibility in 3 or more categories, XDR leaves only 1 or 2 categories active, and PDR is non-susceptibility to all categories.",
+    "topic": "MDR, XDR and PDR definitions",
+    "subject": "Microbiology"
+   },
+   "figures": []
   },
   {
    "id": "miid2-w05-lec28-q09",
@@ -147,7 +283,27 @@
    ],
    "answer": 1,
    "evidence": [],
-   "note": "**MDR Acinetobacter overexpresses multidrug efflux pumps that expel aminoglycosides, fluoroquinolones, tetracyclines, erythromycin, trimethoprim and tigecycline.**\n\nWhen resistance to many unrelated classes collapses at once after blocking a transporter that spans both membranes, the mechanism is efflux. The lecture notes that overproduction of multidrug efflux pumps is common in *A. baumannii*; they remove drug from the cytoplasm or periplasm and reduce its effective concentration. The drugs listed as effluxed include aminoglycosides, fluoroquinolones, tetracyclines, chloramphenicol, erythromycin, trimethoprim and tigecycline.\n\nBecause one pump handles many structurally different drugs, efflux pump inhibitors are an attractive future strategy, which is the point the lecture makes about future drugs.\n\nA single enzyme that hydrolyzes all of these drug classes at once: incorrect. No single enzyme destroys fluoroquinolones, tetracyclines and macrolides; beta-lactamases act on beta-lactams.\n\nOverexpressed multidrug efflux pumps that expel the drugs: correct. Overexpressed multidrug efflux pumps expel many unrelated drugs, and blocking them restores activity.\n\nLow-affinity penicillin-binding proteins that ignore the drugs: incorrect. Low-affinity PBPs affect beta-lactams only, and none of these drugs binds PBPs.\n\nLoss of porins that these drugs need to cross the outer membrane: incorrect. Porin loss limits entry but would not be reversed by blocking an export transporter.\n\nPoint mutations in one shared ribosomal target of these drugs: incorrect. These drugs have different targets (gyrase, 30S, 50S), so one shared target mutation is impossible."
+   "explain": {
+    "html": "<p>When resistance to many unrelated classes collapses at once after blocking a transporter that spans both membranes, the mechanism is efflux. The lecture notes that overproduction of multidrug efflux pumps is common in <i>A. baumannii</i>; they remove drug from the cytoplasm or periplasm and reduce its effective concentration. The drugs listed as effluxed include aminoglycosides, fluoroquinolones, tetracyclines, chloramphenicol, erythromycin, trimethoprim and tigecycline.</p><p>Because one pump handles many structurally different drugs, efflux pump inhibitors are an attractive future strategy, which is the point the lecture makes about future drugs.</p>",
+    "table": null,
+    "why": [
+     "No single enzyme destroys fluoroquinolones, tetracyclines and macrolides; beta-lactamases act on beta-lactams.",
+     "",
+     "Low-affinity PBPs affect beta-lactams only, and none of these drugs binds PBPs.",
+     "Porin loss limits entry but would not be reversed by blocking an export transporter.",
+     "These drugs have different targets (gyrase, 30S, 50S), so one shared target mutation is impossible."
+    ],
+    "takeaway": "MDR Acinetobacter overexpresses multidrug efflux pumps that expel aminoglycosides, fluoroquinolones, tetracyclines, erythromycin, trimethoprim and tigecycline.",
+    "topic": "Efflux pumps in MDR Acinetobacter",
+    "subject": "Microbiology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w05-lec28/slide_41.jpg",
+     "slide": 41,
+     "caption": "Lecture 28 slides (2025-26) · Page 41"
+    }
+   ]
   },
   {
    "id": "miid2-w05-lec28-q10",
@@ -163,7 +319,27 @@
    ],
    "answer": 0,
    "evidence": [],
-   "note": "**S. aureus resists beta-lactams by the plasmid-borne PC1 penicillinase (blocked by inhibitors) and by mecA-encoded PBP2a, an altered target that makes MRSA resistant to all beta-lactams.**\n\nThe lecture gives *S. aureus* two beta-lactam resistance mechanisms. The first is PC1, a penicillinase carried on a transposon on a plasmid, nearly universal in staphylococci and susceptible to beta-lactamase inhibitors. That explains isolate 1: penicillin fails, but oxacillin, cefazolin and amoxicillin-clavulanate still work (MSSA).\n\nThe second is acquisition of the *mecA* gene encoding PBP2a, an altered PBP with an extra loop that blocks the transpeptidase active site from molecules the size of typical beta-lactams while keeping normal enzyme function. That makes isolate 2 MRSA, resistant to all beta-lactams, and because the problem is the target and not an enzyme, adding a beta-lactamase inhibitor does not help.\n\nA penicillin-binding protein whose active site is shielded from typical beta-lactams: correct. *mecA* encodes PBP2a, whose shielded active site ignores typical beta-lactams, so inhibitors cannot help.\n\nA carbapenemase that hydrolyzes every beta-lactam, even inhibitor-protected ones: incorrect. Carbapenemases are a Gram-negative (CRE) mechanism, not how MRSA resists.\n\nAn efflux pump that removes beta-lactams from the periplasm before they act: incorrect. Efflux is a Gram-negative strategy in this lecture, and staphylococci have no periplasm or outer membrane.\n\nA ligase that makes D-alanyl-D-lactate precursors the drugs cannot bind: incorrect. D-Ala-D-Lac precursors cause vancomycin resistance, not beta-lactam resistance.\n\nA porin mutation that keeps beta-lactams from crossing the outer membrane: incorrect. *S. aureus* is Gram-positive and has no outer membrane porins."
+   "explain": {
+    "html": "<p>The lecture gives <i>S. aureus</i> two beta-lactam resistance mechanisms. The first is PC1, a penicillinase carried on a transposon on a plasmid, nearly universal in staphylococci and susceptible to beta-lactamase inhibitors. That explains isolate 1: penicillin fails, but oxacillin, cefazolin and amoxicillin-clavulanate still work (MSSA).</p><p>The second is acquisition of the <i>mecA</i> gene encoding PBP2a, an altered PBP with an extra loop that blocks the transpeptidase active site from molecules the size of typical beta-lactams while keeping normal enzyme function. That makes isolate 2 MRSA, resistant to all beta-lactams, and because the problem is the target and not an enzyme, adding a beta-lactamase inhibitor does not help.</p>",
+    "table": null,
+    "why": [
+     "",
+     "Carbapenemases are a Gram-negative (CRE) mechanism, not how MRSA resists.",
+     "Efflux is a Gram-negative strategy in this lecture, and staphylococci have no periplasm or outer membrane.",
+     "D-Ala-D-Lac precursors cause vancomycin resistance, not beta-lactam resistance.",
+     "S. aureus is Gram-positive and has no outer membrane porins."
+    ],
+    "takeaway": "S. aureus resists beta-lactams by the plasmid-borne PC1 penicillinase (blocked by inhibitors) and by mecA-encoded PBP2a, an altered target that makes MRSA resistant to all beta-lactams.",
+    "topic": "MRSA: PBP2a versus PC1 penicillinase",
+    "subject": "Microbiology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w05-lec28/slide_23.jpg",
+     "slide": 23,
+     "caption": "Lecture 28 slides (2025-26) · Page 23"
+    }
+   ]
   },
   {
    "id": "miid2-w05-lec28-q11",
@@ -179,7 +355,27 @@
    ],
    "answer": 2,
    "evidence": [],
-   "note": "**VRE (mostly E. faecium) replace D-Ala-D-Ala with D-Ala-D-Lac in peptidoglycan precursors, lowering vancomycin binding about 1,000-fold.**\n\nCatalase-negative, gamma-hemolytic cocci in pairs and chains that tolerate 6.5% NaCl are enterococci, and *E. faecium* is the species that accounts for most vancomycin-resistant *Enterococcus* (VRE). Prior vancomycin, cephalosporins, long ICU stays and invasive devices are listed risk factors.\n\nVancomycin binds the D-Ala-D-Ala terminus of peptidoglycan precursors. VRE carry a gene cluster that builds D-Ala-D-Lac instead and incorporates it into the wall, which lowers vancomycin binding about 1,000-fold while cell wall synthesis continues normally.\n\nProduction of a beta-lactamase that hydrolyzes the drug: incorrect. Vancomycin is not a beta-lactam, so beta-lactamases do not affect it.\n\nMutation of PBP2a so that the drug cannot reach the active site: incorrect. PBP2a is the MRSA beta-lactam mechanism; vancomycin does not bind PBPs.\n\nPeptidoglycan precursors ending in D-alanyl-D-lactate: correct. D-Ala-D-Lac precursors lower vancomycin binding about 1,000-fold.\n\nAminoglycoside-modifying enzymes that acetylate the drug: incorrect. Aminoglycoside-modifying enzymes act on aminoglycosides, mainly in Gram-negatives.\n\nLoss of outer membrane porins that the drug uses for entry: incorrect. Enterococci are Gram-positive and have no outer membrane porins."
+   "explain": {
+    "html": "<p>Catalase-negative, gamma-hemolytic cocci in pairs and chains that tolerate 6.5% NaCl are enterococci, and <i>E. faecium</i> is the species that accounts for most vancomycin-resistant <i>Enterococcus</i> (VRE). Prior vancomycin, cephalosporins, long ICU stays and invasive devices are listed risk factors.</p><p>Vancomycin binds the D-Ala-D-Ala terminus of peptidoglycan precursors. VRE carry a gene cluster that builds D-Ala-D-Lac instead and incorporates it into the wall, which lowers vancomycin binding about 1,000-fold while cell wall synthesis continues normally.</p>",
+    "table": null,
+    "why": [
+     "Vancomycin is not a beta-lactam, so beta-lactamases do not affect it.",
+     "PBP2a is the MRSA beta-lactam mechanism; vancomycin does not bind PBPs.",
+     "",
+     "Aminoglycoside-modifying enzymes act on aminoglycosides, mainly in Gram-negatives.",
+     "Enterococci are Gram-positive and have no outer membrane porins."
+    ],
+    "takeaway": "VRE (mostly E. faecium) replace D-Ala-D-Ala with D-Ala-D-Lac in peptidoglycan precursors, lowering vancomycin binding about 1,000-fold.",
+    "topic": "VRE: D-Ala-D-Lac",
+    "subject": "Microbiology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w05-lec28/slide_32.jpg",
+     "slide": 32,
+     "caption": "Lecture 28 slides (2025-26) · Page 32"
+    }
+   ]
   },
   {
    "id": "miid2-w05-lec28-q12",
@@ -195,7 +391,27 @@
    ],
    "answer": 1,
    "evidence": [],
-   "note": "**Aminoglycoside-modifying enzymes (acetyl-, phospho-, adenyltransferases) are the main mode of aminoglycoside resistance in MDR Acinetobacter baumannii.**\n\nAn oxidase-negative Gram-negative coccobacillus that causes ventilator-associated pneumonia in burn patients and survives disinfectants is *Acinetobacter baumannii*, an ESKAPE pathogen. The drug itself carries new acetyl and phosphate groups, which identifies aminoglycoside-modifying enzymes (AMEs), acetyltransferases, phosphotransferases and adenyltransferases often carried on transposable elements.\n\nThe lecture calls AMEs the main mode of aminoglycoside resistance in multidrug-resistant *A. baumannii*, with efflux pumps and rRNA-modifying enzymes as other mechanisms. A chemically altered drug can no longer bind its target properly.\n\nIt is caused by mutation of the 30S subunit so the drug cannot bind: incorrect. Ribosomal changes exist, but the stem shows the drug itself was chemically modified.\n\nIt is the main mode of aminoglycoside resistance in this organism: correct. Aminoglycoside-modifying enzymes are the main mode of aminoglycoside resistance in *A. baumannii*.\n\nIt is caused by D-alanyl-D-lactate precursors in the cell wall: incorrect. D-Ala-D-Lac is the vancomycin resistance mechanism.\n\nIt is intrinsic, because aerobes cannot take up aminoglycosides: incorrect. Intrinsic aminoglycoside resistance belongs to anaerobes, which lack oxidative uptake; this aerobe acquired enzymes.\n\nIt can be reversed by adding clavulanic acid to the aminoglycoside: incorrect. Clavulanate inhibits beta-lactamases and has no effect on aminoglycoside-modifying enzymes."
+   "explain": {
+    "html": "<p>An oxidase-negative Gram-negative coccobacillus that causes ventilator-associated pneumonia in burn patients and survives disinfectants is <i>Acinetobacter baumannii</i>, an ESKAPE pathogen. The drug itself carries new acetyl and phosphate groups, which identifies aminoglycoside-modifying enzymes (AMEs), acetyltransferases, phosphotransferases and adenyltransferases often carried on transposable elements.</p><p>The lecture calls AMEs the main mode of aminoglycoside resistance in multidrug-resistant <i>A. baumannii</i>, with efflux pumps and rRNA-modifying enzymes as other mechanisms. A chemically altered drug can no longer bind its target properly.</p>",
+    "table": null,
+    "why": [
+     "Ribosomal changes exist, but the stem shows the drug itself was chemically modified.",
+     "",
+     "D-Ala-D-Lac is the vancomycin resistance mechanism.",
+     "Intrinsic aminoglycoside resistance belongs to anaerobes, which lack oxidative uptake; this aerobe acquired enzymes.",
+     "Clavulanate inhibits beta-lactamases and has no effect on aminoglycoside-modifying enzymes."
+    ],
+    "takeaway": "Aminoglycoside-modifying enzymes (acetyl-, phospho-, adenyltransferases) are the main mode of aminoglycoside resistance in MDR Acinetobacter baumannii.",
+    "topic": "MDR Acinetobacter: aminoglycoside-modifying enzymes",
+    "subject": "Microbiology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w05-lec28/slide_40.jpg",
+     "slide": 40,
+     "caption": "Lecture 28 slides (2025-26) · Page 40"
+    }
+   ]
   },
   {
    "id": "miid2-w05-lec28-q13",
@@ -211,7 +427,21 @@
    ],
    "answer": 0,
    "evidence": [],
-   "note": "**High-risk patients with possible MDR Pseudomonas are treated empirically with two antipseudomonal drugs from different classes (for example, an aminoglycoside plus piperacillin-tazobactam).**\n\nThe described organism is *Pseudomonas aeruginosa*: motile, oxidase positive, non-lactose fermenting, blue-green pigment (pyocyanin). Risk factors for multidrug-resistant *Pseudomonas* include a prolonged ICU stay, invasive devices, underlying disease such as diabetes and COPD, and older age, and this patient has all of them.\n\nThe lecture recommends that high-risk patients be treated empirically with two different drug classes that both cover *Pseudomonas*, for example an aminoglycoside plus piperacillin-tazobactam, so that at least one will likely work while susceptibilities are pending. Resistance mechanisms parallel *Acinetobacter*: beta-lactamases, AMEs, efflux, porin loss and target changes.\n\nTwo drugs from different classes, each with activity against Pseudomonas: correct. High-risk patients get two antipseudomonal drugs from different classes, such as an aminoglycoside plus piperacillin-tazobactam.\n\nA single carbapenem, since it covers every Gram-negative rod: incorrect. MDR *Pseudomonas* can be carbapenem resistant, so one agent alone risks failure.\n\nVancomycin plus daptomycin to cover any resistant organism: incorrect. Vancomycin and daptomycin have no Gram-negative activity.\n\nCeftriaxone plus metronidazole for Gram-negatives and anaerobes: incorrect. Ceftriaxone has no *Pseudomonas* activity.\n\nTigecycline alone, as the last-option agent for MDR rods: incorrect. Tigecycline does not cover *Pseudomonas* (one of the \"4 Ps\")."
+   "explain": {
+    "html": "<p>The described organism is <i>Pseudomonas aeruginosa</i>: motile, oxidase positive, non-lactose fermenting, blue-green pigment (pyocyanin). Risk factors for multidrug-resistant <i>Pseudomonas</i> include a prolonged ICU stay, invasive devices, underlying disease such as diabetes and COPD, and older age, and this patient has all of them.</p><p>The lecture recommends that high-risk patients be treated empirically with two different drug classes that both cover <i>Pseudomonas</i>, for example an aminoglycoside plus piperacillin-tazobactam, so that at least one will likely work while susceptibilities are pending. Resistance mechanisms parallel <i>Acinetobacter</i>: beta-lactamases, AMEs, efflux, porin loss and target changes.</p>",
+    "table": null,
+    "why": [
+     "",
+     "MDR Pseudomonas can be carbapenem resistant, so one agent alone risks failure.",
+     "Vancomycin and daptomycin have no Gram-negative activity.",
+     "Ceftriaxone has no Pseudomonas activity.",
+     "Tigecycline does not cover Pseudomonas (one of the \"4 Ps\")."
+    ],
+    "takeaway": "High-risk patients with possible MDR Pseudomonas are treated empirically with two antipseudomonal drugs from different classes (for example, an aminoglycoside plus piperacillin-tazobactam).",
+    "topic": "MDR Pseudomonas: empiric two-class therapy",
+    "subject": "Microbiology"
+   },
+   "figures": []
   }
  ]
 }

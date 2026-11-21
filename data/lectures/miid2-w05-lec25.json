@@ -19,7 +19,27 @@
    ],
    "answer": 0,
    "evidence": [],
-   "note": "**Empiric therapy covers likely pathogens before culture results, while directed therapy narrows treatment once the organism and susceptibilities are known.**\n\nTreatment started before an organism is known, chosen to cover the likely pathogens, is empiric therapy, and broad coverage is expected until cultures return. The initial two-drug regimen here is the standard empiric choice for community-acquired pneumonia.\n\nOnce the site, the organism and its susceptibilities are known, therapy is narrowed to the best agent for that isolate. That is directed or targeted therapy, and narrow spectrum is preferred.\n\n**Use | When | Example**\n\n- Empiric: Before culture results; Ceftriaxone plus azithromycin for community-acquired pneumonia\n- Directed: Organism and susceptibilities known; Oxacillin for methicillin-susceptible S. aureus\n- Prophylactic: High-risk procedure or state; Preoperative cefazolin\n\nDirected therapy: correct. Narrowing therapy once the organism and susceptibilities are known is directed therapy.\n\nCombination therapy for synergy: incorrect. Synergy is a reason to combine drugs, not a description of narrowing to one.\n\nCombination therapy to prevent resistance: incorrect. Preventing resistance with combinations is used mainly in tuberculosis.\n\nEmpiric therapy: incorrect. Empiric therapy describes the initial regimen started before culture results.\n\nProphylactic therapy: incorrect. Prophylaxis prevents infection in a high-risk situation, such as a preoperative dose."
+   "explain": {
+    "html": "<p>Treatment started before an organism is known, chosen to cover the likely pathogens, is empiric therapy, and broad coverage is expected until cultures return. The initial two-drug regimen here is the standard empiric choice for community-acquired pneumonia.</p><p>Once the site, the organism and its susceptibilities are known, therapy is narrowed to the best agent for that isolate. That is directed or targeted therapy, and narrow spectrum is preferred.</p>",
+    "table": "<table><tr><th>Use</th><th>When</th><th>Example</th></tr><tr><td>Empiric</td><td>Before culture results</td><td>Ceftriaxone plus azithromycin for community-acquired pneumonia</td></tr><tr><td>Directed</td><td>Organism and susceptibilities known</td><td>Oxacillin for methicillin-susceptible S. aureus</td></tr><tr><td>Prophylactic</td><td>High-risk procedure or state</td><td>Preoperative cefazolin</td></tr></table>",
+    "why": [
+     "",
+     "Synergy is a reason to combine drugs, not a description of narrowing to one.",
+     "Preventing resistance with combinations is used mainly in tuberculosis.",
+     "Empiric therapy describes the initial regimen started before culture results.",
+     "Prophylaxis prevents infection in a high-risk situation, such as a preoperative dose."
+    ],
+    "takeaway": "Empiric therapy covers likely pathogens before culture results, while directed therapy narrows treatment once the organism and susceptibilities are known.",
+    "topic": "Empiric versus directed therapy",
+    "subject": "Pharmacology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w05-lec25/slide_06.jpg",
+     "slide": 6,
+     "caption": "Lecture 25 slides (2025-26) · Page 6"
+    }
+   ]
   },
   {
    "id": "miid2-w05-lec25-q02",
@@ -35,7 +55,21 @@
    ],
    "answer": 1,
    "evidence": [],
-   "note": "**A susceptible minimum inhibitory concentration can coexist with clinical failure because the test does not capture biofilm, efflux, host factors, or tissue penetration.**\n\nThe minimum inhibitory concentration is a standardized in vitro measure of potency against planktonic organisms under fixed conditions. It is a static measurement and does not capture how drug levels change over time in the patient.\n\nAmong its listed shortcomings, it may fail to reflect resistance mechanisms such as biofilm formation and efflux pumps, and it does not account for host factors or tissue penetration. A biofilm on a device is exactly the setting where a susceptible result and clinical failure can coexist.\n\nIt is measured at 37 degrees Celsius: incorrect. Standard incubation temperature is part of the method, not the reason for failure.\n\nIt does not reflect biofilm or efflux mechanisms: correct. The value may not reflect biofilm formation or efflux pumps, which can cause failure despite a susceptible result.\n\nIt is reported in mg/L rather than in micromoles per liter: incorrect. The units used do not affect clinical interpretation.\n\nIt requires 18 to 24 hours of incubation: incorrect. The turnaround time delays the result but does not explain failure of a susceptible drug.\n\nIt is determined by broth microdilution: incorrect. Broth microdilution is the reference method and is not itself a limitation."
+   "explain": {
+    "html": "<p>The minimum inhibitory concentration is a standardized in vitro measure of potency against planktonic organisms under fixed conditions. It is a static measurement and does not capture how drug levels change over time in the patient.</p><p>Among its listed shortcomings, it may fail to reflect resistance mechanisms such as biofilm formation and efflux pumps, and it does not account for host factors or tissue penetration. A biofilm on a device is exactly the setting where a susceptible result and clinical failure can coexist.</p>",
+    "table": null,
+    "why": [
+     "Standard incubation temperature is part of the method, not the reason for failure.",
+     "",
+     "The units used do not affect clinical interpretation.",
+     "The turnaround time delays the result but does not explain failure of a susceptible drug.",
+     "Broth microdilution is the reference method and is not itself a limitation."
+    ],
+    "takeaway": "A susceptible minimum inhibitory concentration can coexist with clinical failure because the test does not capture biofilm, efflux, host factors, or tissue penetration.",
+    "topic": "Limitations of the minimum inhibitory concentration",
+    "subject": "Pharmacology"
+   },
+   "figures": []
   },
   {
    "id": "miid2-w05-lec25-q03",
@@ -51,7 +85,27 @@
    ],
    "answer": 0,
    "evidence": [],
-   "note": "**Beta-lactams are time dependent, aminoglycosides concentration dependent, and vancomycin and fluoroquinolones follow the free area under the curve to minimum inhibitory concentration ratio.**\n\nBeta-lactams are the classic time-dependent agents, predicted by the fraction of time free drug stays above the minimum inhibitory concentration. Aminoglycosides are concentration dependent, predicted by the free peak to minimum inhibitory concentration ratio.\n\nVancomycin and the fluoroquinolones are best predicted by the ratio of free area under the concentration-time curve to the minimum inhibitory concentration, an index that mixes time and concentration dependence, which is why a drug can appear in more than one category.\n\n**Agent | Index | Post-antibiotic effect | Dosing**\n\n- Beta-lactams: fT above MIC; Minimal; Frequent or prolonged infusion\n- Aminoglycosides: fCmax to MIC; Prolonged; High dose, low frequency\n- Vancomycin: fAUC to MIC; Not listed; Flexible\n- Fluoroquinolones: fAUC to MIC; Prolonged; Flexible, high dose\n\nAgent 1 fT above MIC and agent 2 fCmax to MIC: correct. Beta-lactams are time dependent and aminoglycosides are concentration dependent.\n\nAgent 3 fCmax to MIC and agent 4 fT above MIC: incorrect. Vancomycin and fluoroquinolones both follow the area under the curve index.\n\nAll four agents are best predicted by fCmax to MIC: incorrect. Only aminoglycosides among these are predicted chiefly by the peak ratio.\n\nAgent 1 fAUC to MIC and agent 3 fT above MIC: incorrect. This reverses the beta-lactam and vancomycin indices.\n\nAgent 2 fT above MIC and agent 4 fCmax to MIC: incorrect. Aminoglycosides are concentration dependent and fluoroquinolones follow the area under the curve index."
+   "explain": {
+    "html": "<p>Beta-lactams are the classic time-dependent agents, predicted by the fraction of time free drug stays above the minimum inhibitory concentration. Aminoglycosides are concentration dependent, predicted by the free peak to minimum inhibitory concentration ratio.</p><p>Vancomycin and the fluoroquinolones are best predicted by the ratio of free area under the concentration-time curve to the minimum inhibitory concentration, an index that mixes time and concentration dependence, which is why a drug can appear in more than one category.</p>",
+    "table": "<table><tr><th>Agent</th><th>Index</th><th>Post-antibiotic effect</th><th>Dosing</th></tr><tr><td>Beta-lactams</td><td>fT above MIC</td><td>Minimal</td><td>Frequent or prolonged infusion</td></tr><tr><td>Aminoglycosides</td><td>fCmax to MIC</td><td>Prolonged</td><td>High dose, low frequency</td></tr><tr><td>Vancomycin</td><td>fAUC to MIC</td><td>Not listed</td><td>Flexible</td></tr><tr><td>Fluoroquinolones</td><td>fAUC to MIC</td><td>Prolonged</td><td>Flexible, high dose</td></tr></table>",
+    "why": [
+     "",
+     "Vancomycin and fluoroquinolones both follow the area under the curve index.",
+     "Only aminoglycosides among these are predicted chiefly by the peak ratio.",
+     "This reverses the beta-lactam and vancomycin indices.",
+     "Aminoglycosides are concentration dependent and fluoroquinolones follow the area under the curve index."
+    ],
+    "takeaway": "Beta-lactams are time dependent, aminoglycosides concentration dependent, and vancomycin and fluoroquinolones follow the free area under the curve to minimum inhibitory concentration ratio.",
+    "topic": "Matching the pharmacodynamic index to the drug",
+    "subject": "Pharmacology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w05-lec25/slide_27.jpg",
+     "slide": 27,
+     "caption": "Lecture 25 slides (2025-26) · Page 27"
+    }
+   ]
   },
   {
    "id": "miid2-w05-lec25-q04",
@@ -67,7 +121,27 @@
    ],
    "answer": 1,
    "evidence": [],
-   "note": "**A preoperative antibiotic dose given to prevent surgical site infection is prophylactic therapy, distinct from empiric and directed therapy.**\n\nAntibiotics given to prevent infection during a procedure or in an immunocompromised state are prophylactic. Examples taught here include a preoperative dose before incision and agents given to prevent infection in specific high-risk patients.\n\nCefazolin is the standard preoperative choice in most procedures because it covers common skin flora and is effective, safe and inexpensive. Nothing here is being treated, so this is neither empiric nor directed therapy.\n\nDirected therapy guided by susceptibility results: incorrect. Nothing has been cultured, so this cannot be directed therapy.\n\nProphylaxis to prevent surgical site infection at a high-risk time: correct. A single dose before incision to prevent surgical site infection is prophylaxis.\n\nEmpiric therapy for a suspected but unproven infection: incorrect. Empiric therapy treats a suspected infection; this patient has none.\n\nCombination therapy chosen for a synergistic effect: incorrect. Only one agent is used, and no synergy is involved.\n\nTherapy chosen to prevent emergence of resistance: incorrect. Preventing resistance with combinations applies mainly to tuberculosis treatment."
+   "explain": {
+    "html": "<p>Antibiotics given to prevent infection during a procedure or in an immunocompromised state are prophylactic. Examples taught here include a preoperative dose before incision and agents given to prevent infection in specific high-risk patients.</p><p>Cefazolin is the standard preoperative choice in most procedures because it covers common skin flora and is effective, safe and inexpensive. Nothing here is being treated, so this is neither empiric nor directed therapy.</p>",
+    "table": null,
+    "why": [
+     "Nothing has been cultured, so this cannot be directed therapy.",
+     "",
+     "Empiric therapy treats a suspected infection; this patient has none.",
+     "Only one agent is used, and no synergy is involved.",
+     "Preventing resistance with combinations applies mainly to tuberculosis treatment."
+    ],
+    "takeaway": "A preoperative antibiotic dose given to prevent surgical site infection is prophylactic therapy, distinct from empiric and directed therapy.",
+    "topic": "Prophylactic therapy",
+    "subject": "Pharmacology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w05-lec25/slide_06.jpg",
+     "slide": 6,
+     "caption": "Lecture 25 slides (2025-26) · Page 6"
+    }
+   ]
   },
   {
    "id": "miid2-w05-lec25-q05",
@@ -83,7 +157,21 @@
    ],
    "answer": 0,
    "evidence": [],
-   "note": "**Host factors such as allergies, age, organ function and cost guide initial selection, while serum concentrations, duration and response assessment are monitoring.**\n\nHost factors shape the initial choice and dose: allergies, age, pregnancy and nursing, renal and hepatic function, concomitant drugs, underlying disease and cost.\n\nMonitoring is what happens after therapy starts: measuring serum concentrations, deciding duration, and assessing response or therapeutic failure. Vancomycin trough measurement is the example used for both efficacy and toxicity.\n\nMeasuring serum drug concentrations at intervals during therapy: correct. Measuring serum drug concentrations during therapy is monitoring.\n\nChecking for interactions with her other medications: incorrect. Drug interactions are a host factor influencing the initial choice.\n\nAccounting for her age when selecting the agent: incorrect. Age is a host factor used in selecting and dosing the agent.\n\nConsidering the cost of the chosen regimen: incorrect. Cost is listed among host factors influencing selection.\n\nReviewing her allergy history before the first dose: incorrect. Allergy history is a host factor considered before starting."
+   "explain": {
+    "html": "<p>Host factors shape the initial choice and dose: allergies, age, pregnancy and nursing, renal and hepatic function, concomitant drugs, underlying disease and cost.</p><p>Monitoring is what happens after therapy starts: measuring serum concentrations, deciding duration, and assessing response or therapeutic failure. Vancomycin trough measurement is the example used for both efficacy and toxicity.</p>",
+    "table": null,
+    "why": [
+     "",
+     "Drug interactions are a host factor influencing the initial choice.",
+     "Age is a host factor used in selecting and dosing the agent.",
+     "Cost is listed among host factors influencing selection.",
+     "Allergy history is a host factor considered before starting."
+    ],
+    "takeaway": "Host factors such as allergies, age, organ function and cost guide initial selection, while serum concentrations, duration and response assessment are monitoring.",
+    "topic": "Host factors and monitoring",
+    "subject": "Pharmacology"
+   },
+   "figures": []
   },
   {
    "id": "miid2-w05-lec25-q06",
@@ -99,7 +187,27 @@
    ],
    "answer": 1,
    "evidence": [],
-   "note": "**Cell wall agents plus aminoglycosides are synergistic against enterococci, while a bacteriostatic drug antagonizes a bactericidal cell wall agent that requires active growth.**\n\nPair 1 is the classic synergistic combination: penicillin or ampicillin damages the enterococcal cell wall, which lets gentamicin enter, and the pair becomes bactericidal in serious infections such as enterococcal endocarditis.\n\nPair 2 is the classic antagonistic combination. A bactericidal cell wall agent needs actively growing bacteria that are building wall, and a bacteriostatic drug such as tetracycline stops that growth, so the combination performs worse than the cell wall agent alone.\n\nThe second drug increases uptake of the first into the cell: incorrect. Increased uptake describes the synergy of pair 1, not the loss of activity in pair 2.\n\nThe bacteriostatic drug halts the growth the other drug needs: correct. The bacteriostatic drug stops the growth that cell wall-active killing depends on.\n\nThe two drugs bind the same ribosomal subunit and compete: incorrect. These drugs do not act at the same ribosomal site; one acts on the cell wall.\n\nThe combination rapidly selects for efflux pump expression in vitro: incorrect. Rapid efflux selection is not the mechanism taught for this antagonism.\n\nThe pneumococcus inactivates both drugs with a single enzyme: incorrect. A single inactivating enzyme does not explain the loss of activity in this pair."
+   "explain": {
+    "html": "<p>Pair 1 is the classic synergistic combination: penicillin or ampicillin damages the enterococcal cell wall, which lets gentamicin enter, and the pair becomes bactericidal in serious infections such as enterococcal endocarditis.</p><p>Pair 2 is the classic antagonistic combination. A bactericidal cell wall agent needs actively growing bacteria that are building wall, and a bacteriostatic drug such as tetracycline stops that growth, so the combination performs worse than the cell wall agent alone.</p>",
+    "table": null,
+    "why": [
+     "Increased uptake describes the synergy of pair 1, not the loss of activity in pair 2.",
+     "",
+     "These drugs do not act at the same ribosomal site; one acts on the cell wall.",
+     "Rapid efflux selection is not the mechanism taught for this antagonism.",
+     "A single inactivating enzyme does not explain the loss of activity in this pair."
+    ],
+    "takeaway": "Cell wall agents plus aminoglycosides are synergistic against enterococci, while a bacteriostatic drug antagonizes a bactericidal cell wall agent that requires active growth.",
+    "topic": "Synergy and antagonism",
+    "subject": "Pharmacology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w05-lec25/slide_07.jpg",
+     "slide": 7,
+     "caption": "Lecture 25 slides (2025-26) · Page 7"
+    }
+   ]
   },
   {
    "id": "miid2-w05-lec25-q07",
@@ -115,7 +223,21 @@
    ],
    "answer": 4,
    "evidence": [],
-   "note": "**Minimum inhibitory concentrations reflect potency against one drug's own breakpoint and cannot be compared between different antibiotics.**\n\nThe minimum inhibitory concentration is the lowest drug concentration that prevents visible growth in vitro. It reflects potency, but breakpoints for susceptible, intermediate and resistant are set separately for each drug using its own pharmacokinetic and pharmacodynamic data and clinical outcome data.\n\nBecause breakpoints differ across classes and even between drugs in one class, the numbers cannot be compared between antibiotics. The value must be read against that drug's own breakpoint, together with the site of infection and achievable concentrations.\n\nGradient diffusion does not generate these values: incorrect. Gradient diffusion strips are a standard way to obtain these values.\n\nValues below 1 mg/L always indicate resistance: incorrect. A low value generally suggests susceptibility, not resistance.\n\nOnly broth microdilution results have clinical meaning: incorrect. Broth microdilution is the reference method, but gradient diffusion and automated systems also give clinically used values.\n\nLower values always indicate greater clinical efficacy: incorrect. A lower number does not by itself mean better clinical results, since each drug has its own breakpoint.\n\nValues cannot be compared across different antibiotics: correct. These values must be interpreted against each drug's own breakpoint and cannot be compared between antibiotics."
+   "explain": {
+    "html": "<p>The minimum inhibitory concentration is the lowest drug concentration that prevents visible growth in vitro. It reflects potency, but breakpoints for susceptible, intermediate and resistant are set separately for each drug using its own pharmacokinetic and pharmacodynamic data and clinical outcome data.</p><p>Because breakpoints differ across classes and even between drugs in one class, the numbers cannot be compared between antibiotics. The value must be read against that drug's own breakpoint, together with the site of infection and achievable concentrations.</p>",
+    "table": null,
+    "why": [
+     "Gradient diffusion strips are a standard way to obtain these values.",
+     "A low value generally suggests susceptibility, not resistance.",
+     "Broth microdilution is the reference method, but gradient diffusion and automated systems also give clinically used values.",
+     "A lower number does not by itself mean better clinical results, since each drug has its own breakpoint.",
+     ""
+    ],
+    "takeaway": "Minimum inhibitory concentrations reflect potency against one drug's own breakpoint and cannot be compared between different antibiotics.",
+    "topic": "Interpreting minimum inhibitory concentrations",
+    "subject": "Pharmacology"
+   },
+   "figures": []
   },
   {
    "id": "miid2-w05-lec25-q08",
@@ -131,7 +253,27 @@
    ],
    "answer": 3,
    "evidence": [],
-   "note": "**Aminoglycosides are hydrophilic and cleared by glomerular filtration, so the dosing interval must be extended when renal function is reduced.**\n\nAminoglycosides are hydrophilic drugs that stay largely in extracellular fluid, undergo minimal hepatic metabolism, and are excreted almost entirely by renal glomerular filtration, with a short half-life when kidney function is normal.\n\nWhen glomerular filtration falls, the drug accumulates, so the interval must be extended to avoid toxicity. That is why renal function, not metabolism or protein binding, drives aminoglycoside dosing decisions.\n\nPoor oral bioavailability requiring parenteral use: incorrect. Poor oral absorption explains the parenteral route but not the dosing interval.\n\nExtensive hepatic metabolism: incorrect. Aminoglycosides undergo minimal hepatic metabolism.\n\nHigh lipid solubility with a large volume of distribution: incorrect. They are hydrophilic with a low volume of distribution, the opposite of this choice.\n\nElimination by renal glomerular filtration: correct. Renal glomerular filtration is the elimination route, so impaired filtration requires interval adjustment.\n\nExtensive binding to plasma proteins: incorrect. Protein binding is not the property that drives interval changes here."
+   "explain": {
+    "html": "<p>Aminoglycosides are hydrophilic drugs that stay largely in extracellular fluid, undergo minimal hepatic metabolism, and are excreted almost entirely by renal glomerular filtration, with a short half-life when kidney function is normal.</p><p>When glomerular filtration falls, the drug accumulates, so the interval must be extended to avoid toxicity. That is why renal function, not metabolism or protein binding, drives aminoglycoside dosing decisions.</p>",
+    "table": null,
+    "why": [
+     "Poor oral absorption explains the parenteral route but not the dosing interval.",
+     "Aminoglycosides undergo minimal hepatic metabolism.",
+     "They are hydrophilic with a low volume of distribution, the opposite of this choice.",
+     "",
+     "Protein binding is not the property that drives interval changes here."
+    ],
+    "takeaway": "Aminoglycosides are hydrophilic and cleared by glomerular filtration, so the dosing interval must be extended when renal function is reduced.",
+    "topic": "Aminoglycoside pharmacokinetics in renal impairment",
+    "subject": "Pharmacology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w05-lec25/slide_26.jpg",
+     "slide": 26,
+     "caption": "Lecture 25 slides (2025-26) · Page 26"
+    }
+   ]
   },
   {
    "id": "miid2-w05-lec25-q09",
@@ -147,7 +289,27 @@
    ],
    "answer": 2,
    "evidence": [],
-   "note": "**Bone drug concentration is estimated as the serum concentration times the bone to serum ratio, and lipophilic fluoroquinolones penetrate bone better than hydrophilic agents.**\n\nAn antibiotic only works if it reaches the infected site at adequate concentration, and penetration differs by tissue and by drug. Bone penetration is expressed as a bone to serum ratio.\n\nWith a serum concentration of 40 mg/L and a bone to serum ratio of 0.75, the estimated bone concentration is 40 times 0.75, which is 30 mg/L. Lipophilic fluoroquinolones penetrate bone far better than hydrophilic beta-lactams and aminoglycosides, which is why the class matters in osteomyelitis.\n\n10 mg/L: incorrect. This would correspond to a ratio of 0.25.\n\n20 mg/L: incorrect. This would correspond to a ratio of 0.5.\n\n30 mg/L: correct. 40 mg/L multiplied by a bone to serum ratio of 0.75 gives 30 mg/L.\n\n40 mg/L: incorrect. This assumes complete equilibration with serum, a ratio of 1.\n\n80 mg/L: incorrect. Bone concentrations do not exceed serum concentrations for this drug."
+   "explain": {
+    "html": "<p>An antibiotic only works if it reaches the infected site at adequate concentration, and penetration differs by tissue and by drug. Bone penetration is expressed as a bone to serum ratio.</p><p>With a serum concentration of 40 mg/L and a bone to serum ratio of 0.75, the estimated bone concentration is 40 times 0.75, which is 30 mg/L. Lipophilic fluoroquinolones penetrate bone far better than hydrophilic beta-lactams and aminoglycosides, which is why the class matters in osteomyelitis.</p>",
+    "table": null,
+    "why": [
+     "This would correspond to a ratio of 0.25.",
+     "This would correspond to a ratio of 0.5.",
+     "",
+     "This assumes complete equilibration with serum, a ratio of 1.",
+     "Bone concentrations do not exceed serum concentrations for this drug."
+    ],
+    "takeaway": "Bone drug concentration is estimated as the serum concentration times the bone to serum ratio, and lipophilic fluoroquinolones penetrate bone better than hydrophilic agents.",
+    "topic": "Tissue penetration and bone concentrations",
+    "subject": "Pharmacology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w05-lec25/slide_18.jpg",
+     "slide": 18,
+     "caption": "Lecture 25 slides (2025-26) · Page 18"
+    }
+   ]
   },
   {
    "id": "miid2-w05-lec25-q10",
@@ -163,7 +325,27 @@
    ],
    "answer": 1,
    "evidence": [],
-   "note": "**Beta-lactams kill in a time-dependent manner, so dosing is optimized by keeping free drug above the minimum inhibitory concentration for 40 to 70% of the interval.**\n\nThis drug shows time-dependent killing, the pattern of beta-lactams and also clindamycin, macrolides and vancomycin. The relevant index is the fraction of the dosing interval during which free drug remains above the minimum inhibitory concentration.\n\nBecause higher peaks add little, dosing is optimized by extending exposure: more frequent dosing or prolonged and continuous infusions, aiming for roughly 40 to 70% of the interval above the value depending on the drug and organism.\n\nGive larger doses less often to raise the peak: incorrect. Large infrequent doses optimize concentration-dependent agents, not time-dependent ones.\n\nUse prolonged or continuous infusion of the same daily amount: correct. Prolonged or continuous infusion maximizes the time that free drug stays above the minimum inhibitory concentration.\n\nAdd a second drug with the same mechanism: incorrect. Adding a second drug with the same mechanism does not address the time above that value.\n\nShorten the total duration of therapy: incorrect. Shortening therapy does not improve killing during each interval.\n\nTarget a peak to minimum inhibitory concentration ratio of 10 to 1: incorrect. A high peak to minimum inhibitory concentration ratio is the target for aminoglycosides."
+   "explain": {
+    "html": "<p>This drug shows time-dependent killing, the pattern of beta-lactams and also clindamycin, macrolides and vancomycin. The relevant index is the fraction of the dosing interval during which free drug remains above the minimum inhibitory concentration.</p><p>Because higher peaks add little, dosing is optimized by extending exposure: more frequent dosing or prolonged and continuous infusions, aiming for roughly 40 to 70% of the interval above the value depending on the drug and organism.</p>",
+    "table": null,
+    "why": [
+     "Large infrequent doses optimize concentration-dependent agents, not time-dependent ones.",
+     "",
+     "Adding a second drug with the same mechanism does not address the time above that value.",
+     "Shortening therapy does not improve killing during each interval.",
+     "A high peak to minimum inhibitory concentration ratio is the target for aminoglycosides."
+    ],
+    "takeaway": "Beta-lactams kill in a time-dependent manner, so dosing is optimized by keeping free drug above the minimum inhibitory concentration for 40 to 70% of the interval.",
+    "topic": "Time-dependent killing",
+    "subject": "Pharmacology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w05-lec25/slide_24.jpg",
+     "slide": 24,
+     "caption": "Lecture 25 slides (2025-26) · Page 24"
+    }
+   ]
   },
   {
    "id": "miid2-w05-lec25-q11",
@@ -179,7 +361,27 @@
    ],
    "answer": 4,
    "evidence": [],
-   "note": "**Aminoglycosides are concentration dependent with a prolonged post-antibiotic effect, which permits high-dose once-daily regimens.**\n\nAminoglycosides kill in a concentration-dependent way, with a target peak to minimum inhibitory concentration ratio of about 8 to 10 to 1, so large infrequent doses are preferred and keeping levels above that value throughout the interval is unnecessary and raises toxicity.\n\nTheir prolonged post-antibiotic effect, the delay before bacteria resume growth after drug exposure, provides a buffer period during which concentrations can fall below the minimum inhibitory concentration without regrowth. That is what makes once-daily dosing effective.\n\nExtensive hepatic metabolism that produces active metabolites: incorrect. Aminoglycosides undergo minimal hepatic metabolism and do not rely on active metabolites.\n\nHigh protein binding that creates a drug reservoir: incorrect. Protein binding reduces the free, active fraction rather than sustaining activity.\n\nLipophilicity that allows accumulation in tissue: incorrect. Aminoglycosides are hydrophilic and penetrate tissue poorly.\n\nMinimal renal clearance at high doses: incorrect. They are cleared renally, which is why renal function guides dosing.\n\nA prolonged post-antibiotic effect on Gram-negative rods: correct. A prolonged post-antibiotic effect allows concentrations to fall below the value between doses without regrowth."
+   "explain": {
+    "html": "<p>Aminoglycosides kill in a concentration-dependent way, with a target peak to minimum inhibitory concentration ratio of about 8 to 10 to 1, so large infrequent doses are preferred and keeping levels above that value throughout the interval is unnecessary and raises toxicity.</p><p>Their prolonged post-antibiotic effect, the delay before bacteria resume growth after drug exposure, provides a buffer period during which concentrations can fall below the minimum inhibitory concentration without regrowth. That is what makes once-daily dosing effective.</p>",
+    "table": null,
+    "why": [
+     "Aminoglycosides undergo minimal hepatic metabolism and do not rely on active metabolites.",
+     "Protein binding reduces the free, active fraction rather than sustaining activity.",
+     "Aminoglycosides are hydrophilic and penetrate tissue poorly.",
+     "They are cleared renally, which is why renal function guides dosing.",
+     ""
+    ],
+    "takeaway": "Aminoglycosides are concentration dependent with a prolonged post-antibiotic effect, which permits high-dose once-daily regimens.",
+    "topic": "Concentration-dependent killing and once-daily dosing",
+    "subject": "Pharmacology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w05-lec25/slide_29.jpg",
+     "slide": 29,
+     "caption": "Lecture 25 slides (2025-26) · Page 29"
+    }
+   ]
   },
   {
    "id": "miid2-w05-lec25-q12",
@@ -195,7 +397,27 @@
    ],
    "answer": 3,
    "evidence": [],
-   "note": "**Beta-lactams have a minimal post-antibiotic effect, so frequent dosing or prolonged infusion is required rather than longer intervals.**\n\nOxacillin is a beta-lactam, so killing depends on the time free drug stays above the minimum inhibitory concentration, and the post-antibiotic effect against Gram-positive organisms is minimal, about 2 hours.\n\nWith little buffer after levels fall, lengthening the interval would allow regrowth between doses, so frequent dosing must continue. Prolonged infusions are the other way beta-lactams are given for this reason.\n\nStop therapy now that blood cultures are negative: incorrect. Negative cultures do not mean the planned course should stop.\n\nLengthen the interval, since the effect lasts beyond 6 hours: incorrect. The effect for this class is short, not longer than the proposed interval.\n\nLengthen the interval to every 8 hours for the same reason: incorrect. An even longer interval worsens the same problem.\n\nKeep the current interval, since the effect is short: correct. The short post-antibiotic effect of beta-lactams requires the frequent dosing interval to be maintained.\n\nSwitch to a single large daily dose of the same drug: incorrect. Single large daily doses suit concentration-dependent drugs with a long post-antibiotic effect."
+   "explain": {
+    "html": "<p>Oxacillin is a beta-lactam, so killing depends on the time free drug stays above the minimum inhibitory concentration, and the post-antibiotic effect against Gram-positive organisms is minimal, about 2 hours.</p><p>With little buffer after levels fall, lengthening the interval would allow regrowth between doses, so frequent dosing must continue. Prolonged infusions are the other way beta-lactams are given for this reason.</p>",
+    "table": null,
+    "why": [
+     "Negative cultures do not mean the planned course should stop.",
+     "The effect for this class is short, not longer than the proposed interval.",
+     "An even longer interval worsens the same problem.",
+     "",
+     "Single large daily doses suit concentration-dependent drugs with a long post-antibiotic effect."
+    ],
+    "takeaway": "Beta-lactams have a minimal post-antibiotic effect, so frequent dosing or prolonged infusion is required rather than longer intervals.",
+    "topic": "Post-antibiotic effect and dosing interval",
+    "subject": "Pharmacology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w05-lec25/slide_29.jpg",
+     "slide": 29,
+     "caption": "Lecture 25 slides (2025-26) · Page 29"
+    }
+   ]
   },
   {
    "id": "miid2-w05-lec25-q13",
@@ -211,7 +433,21 @@
    ],
    "answer": 4,
    "evidence": [],
-   "note": "**Only free, unbound drug exerts antimicrobial activity, which is why pharmacodynamic indices are expressed in terms of free drug.**\n\nOnly free, unbound drug is capable of exerting an antimicrobial effect, which is why the pharmacodynamic indices are written with free drug: fT above MIC, fCmax to MIC, and fAUC to MIC.\n\nWith equal total concentrations, the drug with less protein binding has a larger unbound fraction available to reach the site of infection and act on the organism, so drug 2 is the more active of the two here.\n\nDrug 1 is more active, since binding prolongs its presence: incorrect. Binding holds drug in a form that cannot act on the organism.\n\nActivity depends only on the route of elimination: incorrect. Elimination route matters for dosing but does not determine the active fraction here.\n\nProtein binding changes the organism's minimum inhibitory concentration: incorrect. Protein binding is a drug property and does not change the organism's minimum inhibitory concentration.\n\nThey are equally active, since total concentrations match: incorrect. Equal total concentrations do not mean equal free concentrations.\n\nDrug 2 is more active, since only unbound drug acts: correct. Only the unbound fraction is active, so the less bound drug has more active drug available."
+   "explain": {
+    "html": "<p>Only free, unbound drug is capable of exerting an antimicrobial effect, which is why the pharmacodynamic indices are written with free drug: fT above MIC, fCmax to MIC, and fAUC to MIC.</p><p>With equal total concentrations, the drug with less protein binding has a larger unbound fraction available to reach the site of infection and act on the organism, so drug 2 is the more active of the two here.</p>",
+    "table": null,
+    "why": [
+     "Binding holds drug in a form that cannot act on the organism.",
+     "Elimination route matters for dosing but does not determine the active fraction here.",
+     "Protein binding is a drug property and does not change the organism's minimum inhibitory concentration.",
+     "Equal total concentrations do not mean equal free concentrations.",
+     ""
+    ],
+    "takeaway": "Only free, unbound drug exerts antimicrobial activity, which is why pharmacodynamic indices are expressed in terms of free drug.",
+    "topic": "Free drug and protein binding",
+    "subject": "Pharmacology"
+   },
+   "figures": []
   }
  ]
 }

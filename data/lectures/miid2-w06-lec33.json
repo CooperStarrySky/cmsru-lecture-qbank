@@ -19,7 +19,27 @@
    ],
    "answer": 3,
    "evidence": [],
-   "note": "**Diphtheria (pharyngeal pseudomembrane, myocarditis) is caused by a protein synthesis-inhibiting exotoxin and is treated with antitoxin plus penicillin.**\n\nA gray adherent pseudomembrane on the pharynx and tonsils with gram-positive rods in an unvaccinated child is diphtheria, caused by toxigenic Corynebacterium diphtheriae acquired in the nasopharynx. Its exotoxin inhibits cellular protein synthesis, destroying local tissue to form the pseudomembrane, and spreads to distant organs; myocarditis is the most frequent fatal complication, which fits her new conduction changes.\n\nBecause the damage is done by the toxin, treatment is diphtheria antitoxin to neutralize toxin that has not yet bound cells, together with penicillin (or erythromycin) to eliminate the organism. Prevention is the routine DTaP series.\n\nIntravenous immunoglobulin with high-dose aspirin: incorrect. Immunoglobulin with aspirin treats Kawasaki disease, a vasculitis, not a toxin-producing infection.\n\nInactivated whole-cell vaccine given today in clinic: incorrect. Vaccinating during active disease does not neutralize the toxin already causing damage.\n\nOral rifampin for 4 days for her and her household: incorrect. Rifampin is used as prophylaxis for contacts of Haemophilus influenzae type b disease.\n\nAntitoxin directed at the bacterial exotoxin: correct. Diphtheria is toxin mediated, so antitoxin is given together with penicillin or erythromycin.\n\nVitamin A supplementation: incorrect. Vitamin A improves outcomes in measles, not diphtheria."
+   "explain": {
+    "html": "<p>A gray adherent pseudomembrane on the pharynx and tonsils with gram-positive rods in an unvaccinated child is diphtheria, caused by toxigenic Corynebacterium diphtheriae acquired in the nasopharynx. Its exotoxin inhibits cellular protein synthesis, destroying local tissue to form the pseudomembrane, and spreads to distant organs; myocarditis is the most frequent fatal complication, which fits her new conduction changes.</p><p>Because the damage is done by the toxin, treatment is diphtheria antitoxin to neutralize toxin that has not yet bound cells, together with penicillin (or erythromycin) to eliminate the organism. Prevention is the routine DTaP series.</p>",
+    "table": null,
+    "why": [
+     "Immunoglobulin with aspirin treats Kawasaki disease, a vasculitis, not a toxin-producing infection.",
+     "Vaccinating during active disease does not neutralize the toxin already causing damage.",
+     "Rifampin is used as prophylaxis for contacts of Haemophilus influenzae type b disease.",
+     "",
+     "Vitamin A improves outcomes in measles, not diphtheria."
+    ],
+    "takeaway": "Diphtheria (pharyngeal pseudomembrane, myocarditis) is caused by a protein synthesis-inhibiting exotoxin and is treated with antitoxin plus penicillin.",
+    "topic": "Diphtheria: toxin and treatment",
+    "subject": "Immunology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w06-lec33/slide_11.jpg",
+     "slide": 11,
+     "caption": "Lecture 33 slides (2025-26) · Page 11"
+    }
+   ]
   },
   {
    "id": "miid2-w06-lec33-q02",
@@ -35,7 +55,27 @@
    ],
    "answer": 1,
    "evidence": [],
-   "note": "**Tetanus toxin blocks inhibitory neurotransmitter release in the central nervous system, causing unopposed muscle contraction (trismus, rigidity, spasms).**\n\nTrismus (lockjaw), neck stiffness, difficulty swallowing, abdominal rigidity, and convulsive spasms in an alert patient after a puncture wound is generalized tetanus. Clostridium tetani is an anaerobic gram-positive spore-forming rod; spores in soil enter through a wound, germinate in anaerobic conditions, and produce exotoxin.\n\nThe toxin binds in the central nervous system and interferes with neurotransmitter release so that inhibitory impulses are blocked. Without inhibition, motor neurons fire unopposed, causing sustained muscle contraction and spasm that can last 3 to 4 weeks. Vaccination with the tetanus component of DTaP and Tdap prevents it.\n\nInhibiting protein synthesis in muscle fibers: incorrect. Inhibition of protein synthesis is the action of diphtheria toxin, which causes a pseudomembrane and myocarditis.\n\nBlocking inhibitory neurotransmitter release centrally: correct. Tetanus toxin blocks release of inhibitory neurotransmitters in the central nervous system, so muscles contract without opposition.\n\nDestroying motor neurons in the anterior horn of the spinal cord: incorrect. Anterior horn destruction is the poliovirus lesion, which causes flaccid, not rigid, paralysis.\n\nCross-linking T cell receptors to MHC class II molecules: incorrect. Cross-linking T cell receptors to MHC class II is the action of superantigens in toxic shock.\n\nBinding the acetylcholine receptor at the motor end plate: incorrect. Blocking the acetylcholine receptor would cause weakness, not rigidity and spasm."
+   "explain": {
+    "html": "<p>Trismus (lockjaw), neck stiffness, difficulty swallowing, abdominal rigidity, and convulsive spasms in an alert patient after a puncture wound is generalized tetanus. Clostridium tetani is an anaerobic gram-positive spore-forming rod; spores in soil enter through a wound, germinate in anaerobic conditions, and produce exotoxin.</p><p>The toxin binds in the central nervous system and interferes with neurotransmitter release so that inhibitory impulses are blocked. Without inhibition, motor neurons fire unopposed, causing sustained muscle contraction and spasm that can last 3 to 4 weeks. Vaccination with the tetanus component of DTaP and Tdap prevents it.</p>",
+    "table": null,
+    "why": [
+     "Inhibition of protein synthesis is the action of diphtheria toxin, which causes a pseudomembrane and myocarditis.",
+     "",
+     "Anterior horn destruction is the poliovirus lesion, which causes flaccid, not rigid, paralysis.",
+     "Cross-linking T cell receptors to MHC class II is the action of superantigens in toxic shock.",
+     "Blocking the acetylcholine receptor would cause weakness, not rigidity and spasm."
+    ],
+    "takeaway": "Tetanus toxin blocks inhibitory neurotransmitter release in the central nervous system, causing unopposed muscle contraction (trismus, rigidity, spasms).",
+    "topic": "Tetanus: toxin mechanism",
+    "subject": "Immunology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w06-lec33/slide_12.jpg",
+     "slide": 12,
+     "caption": "Lecture 33 slides (2025-26) · Page 12"
+    }
+   ]
   },
   {
    "id": "miid2-w06-lec33-q03",
@@ -51,7 +91,21 @@
    ],
    "answer": 1,
    "evidence": [],
-   "note": "**MenACWY is given at 11 to 12 with a booster at 16 because protection wanes before the peak-risk years of late adolescence.**\n\nAll adolescents receive the MenACWY vaccine at 11 to 12 years. Vaccine effectiveness is high in the first year (about 91%) but falls to about 58% by 2 to 5 years, because protection wanes. A booster at 16 restores protection during the ages when adolescents are at highest risk of meningococcal disease.\n\nSerogroup B is covered by a separate vaccine (MenB), offered on a shared decision basis at 16 to 23 years and now required by many colleges. Extra series and frequent boosters are reserved for high-risk people, such as those with late complement deficiency or asplenia.\n\nThe first dose did not cover serogroup Y: incorrect. MenACWY covers serogroups A, C, W, and Y, including Y.\n\nProtection wanes, and the risk peaks in later adolescence: correct. Protection from the dose at 11 to 12 wanes, so a booster at 16 covers the peak-risk years of late adolescence.\n\nThe first dose is given only to prime the response to serogroup B: incorrect. MenACWY does not cover serogroup B, which needs a separate vaccine.\n\nA booster is required only for travel to the African meningitis belt: incorrect. The booster at 16 is routine for all adolescents, not only for travelers.\n\nA booster is needed only if she has a late complement deficiency: incorrect. Late complement deficiency calls for a more intense schedule, but the booster at 16 is recommended for everyone."
+   "explain": {
+    "html": "<p>All adolescents receive the MenACWY vaccine at 11 to 12 years. Vaccine effectiveness is high in the first year (about 91%) but falls to about 58% by 2 to 5 years, because protection wanes. A booster at 16 restores protection during the ages when adolescents are at highest risk of meningococcal disease.</p><p>Serogroup B is covered by a separate vaccine (MenB), offered on a shared decision basis at 16 to 23 years and now required by many colleges. Extra series and frequent boosters are reserved for high-risk people, such as those with late complement deficiency or asplenia.</p>",
+    "table": null,
+    "why": [
+     "MenACWY covers serogroups A, C, W, and Y, including Y.",
+     "",
+     "MenACWY does not cover serogroup B, which needs a separate vaccine.",
+     "The booster at 16 is routine for all adolescents, not only for travelers.",
+     "Late complement deficiency calls for a more intense schedule, but the booster at 16 is recommended for everyone."
+    ],
+    "takeaway": "MenACWY is given at 11 to 12 with a booster at 16 because protection wanes before the peak-risk years of late adolescence.",
+    "topic": "Meningococcal vaccine: booster at 16",
+    "subject": "Immunology"
+   },
+   "figures": []
   },
   {
    "id": "miid2-w06-lec33-q04",
@@ -67,7 +121,27 @@
    ],
    "answer": 4,
    "evidence": [],
-   "note": "**Live oral polio vaccine gave herd immunity through stool shedding but caused vaccine-associated paralytic polio, so the US uses inactivated polio vaccine only.**\n\nThe live attenuated oral polio vaccine contains all three vaccine serotypes and is shed in stool for up to 6 weeks after vaccination. That shedding spreads vaccine virus to contacts and created herd immunity, which helped end wild virus transmission. Rarely, though, the live vaccine virus causes vaccine-associated paralytic polio (VAPP), damaging anterior horn motor neurons as wild virus does.\n\nOnce wild polio was gone, VAPP was the main source of paralytic cases, so in 2000 the US switched exclusively to the inactivated polio vaccine (IPV), which cannot cause paralysis and makes more than 99% of recipients immune after 3 doses.\n\nInactivated virus that had to be given by injection: incorrect. The earlier vaccine was oral and live; inactivated injected vaccine is what replaced it.\n\nOnly one of the three poliovirus serotypes was included: incorrect. The oral vaccine contained all three serotypes, not one.\n\nAntibodies were made in the blood but not in the gut: incorrect. Gut immunity and spread to contacts were strengths of the oral vaccine, not its weakness.\n\nA recombinant viral surface protein made in the laboratory: incorrect. A recombinant surface protein describes the hepatitis B vaccine antigen, not polio vaccine.\n\nLive virus shed in stool that rarely caused paralysis: correct. Live oral polio vaccine is shed in stool, giving herd immunity but rarely causing vaccine-associated paralytic polio."
+   "explain": {
+    "html": "<p>The live attenuated oral polio vaccine contains all three vaccine serotypes and is shed in stool for up to 6 weeks after vaccination. That shedding spreads vaccine virus to contacts and created herd immunity, which helped end wild virus transmission. Rarely, though, the live vaccine virus causes vaccine-associated paralytic polio (VAPP), damaging anterior horn motor neurons as wild virus does.</p><p>Once wild polio was gone, VAPP was the main source of paralytic cases, so in 2000 the US switched exclusively to the inactivated polio vaccine (IPV), which cannot cause paralysis and makes more than 99% of recipients immune after 3 doses.</p>",
+    "table": null,
+    "why": [
+     "The earlier vaccine was oral and live; inactivated injected vaccine is what replaced it.",
+     "The oral vaccine contained all three serotypes, not one.",
+     "Gut immunity and spread to contacts were strengths of the oral vaccine, not its weakness.",
+     "A recombinant surface protein describes the hepatitis B vaccine antigen, not polio vaccine.",
+     ""
+    ],
+    "takeaway": "Live oral polio vaccine gave herd immunity through stool shedding but caused vaccine-associated paralytic polio, so the US uses inactivated polio vaccine only.",
+    "topic": "Polio: why inactivated vaccine",
+    "subject": "Immunology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w06-lec33/slide_28.jpg",
+     "slide": 28,
+     "caption": "Lecture 33 slides (2025-26) · Page 28"
+    }
+   ]
   },
   {
    "id": "miid2-w06-lec33-q05",
@@ -83,7 +157,27 @@
    ],
    "answer": 1,
    "evidence": [],
-   "note": "**Rotavirus vaccine is live and oral; the first dose must be given before 15 weeks and the series finished before 8 months.**\n\nThe virus described is rotavirus, a segmented double-stranded RNA virus of the Reoviridae family, spread fecal-orally and replicating in small intestinal epithelium. Before the vaccine it infected nearly every child by age 5 and caused more than 500,000 diarrheal deaths a year worldwide.\n\nThe vaccine is a live oral vaccine given routinely to all infants, with timing limits: the first dose must be given before 15 weeks of age, and all doses should be finished before 8 months. This 18-week-old is past the window to start the series.\n\nGive the first dose today and complete the series before 2 years: incorrect. The series must be completed before 8 months, and it cannot be started after 15 weeks.\n\nDo not start it; the first dose must come before 15 weeks: correct. The first rotavirus dose must be given before 15 weeks of age, so this 18-week-old cannot start the series.\n\nGive it only after he turns 12 months, with the measles vaccine: incorrect. Rotavirus vaccine is an infant vaccine, not one given at 12 months with MMR.\n\nGive an inactivated injectable form instead of the oral vaccine: incorrect. The routine rotavirus vaccine is live and oral; no injectable form is used.\n\nStart the series today, because there is no upper age limit: incorrect. There is an upper age limit: start before 15 weeks, finish before 8 months."
+   "explain": {
+    "html": "<p>The virus described is rotavirus, a segmented double-stranded RNA virus of the Reoviridae family, spread fecal-orally and replicating in small intestinal epithelium. Before the vaccine it infected nearly every child by age 5 and caused more than 500,000 diarrheal deaths a year worldwide.</p><p>The vaccine is a live oral vaccine given routinely to all infants, with timing limits: the first dose must be given before 15 weeks of age, and all doses should be finished before 8 months. This 18-week-old is past the window to start the series.</p>",
+    "table": null,
+    "why": [
+     "The series must be completed before 8 months, and it cannot be started after 15 weeks.",
+     "",
+     "Rotavirus vaccine is an infant vaccine, not one given at 12 months with MMR.",
+     "The routine rotavirus vaccine is live and oral; no injectable form is used.",
+     "There is an upper age limit: start before 15 weeks, finish before 8 months."
+    ],
+    "takeaway": "Rotavirus vaccine is live and oral; the first dose must be given before 15 weeks and the series finished before 8 months.",
+    "topic": "Rotavirus vaccine timing",
+    "subject": "Immunology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w06-lec33/slide_29.jpg",
+     "slide": 29,
+     "caption": "Lecture 33 slides (2025-26) · Page 29"
+    }
+   ]
   },
   {
    "id": "miid2-w06-lec33-q06",
@@ -99,7 +193,21 @@
    ],
    "answer": 2,
    "evidence": [],
-   "note": "**The HPV vaccine is recombinant L1 capsid protein that self-assembles into noninfectious virus-like particles, preventing (not treating) infection with vaccine types.**\n\nThe HPV vaccine antigen is L1, the major capsid protein, made by recombinant technology. L1 proteins self-assemble into virus-like particles that are noninfectious and non-oncogenic because they contain no viral DNA. The particles look like the real virus to the immune system and induce antibodies that block infection by the vaccine types.\n\nThe 9-valent vaccine includes the high-risk types 16 and 18, which cause about 70% of cervical cancers, and types 6 and 11, which cause about 90% of genital warts. Because it prevents infection rather than treating it, there is no evidence of efficacy against a vaccine type the person is already infected with, which is why it is routinely given at 11 to 12 years.\n\nE6 and E7 oncoproteins that teach T cells to kill tumor cells: incorrect. The vaccine does not contain the E6 and E7 oncoproteins; it is built from the L1 capsid protein.\n\nLive attenuated virus that establishes a harmless latent infection: incorrect. The HPV vaccine is not live, and it does not establish any infection.\n\nL1 capsid protein particles that induce neutralizing antibodies: correct. L1 capsid proteins self-assemble into noninfectious virus-like particles that induce neutralizing antibody.\n\nKilled whole virus that is effective even in people already infected: incorrect. The vaccine is not a killed whole virus and shows no efficacy against types already acquired.\n\nA capsular polysaccharide linked to a carrier protein: incorrect. A polysaccharide linked to a protein describes conjugate bacterial vaccines such as the pneumococcal conjugate vaccine."
+   "explain": {
+    "html": "<p>The HPV vaccine antigen is L1, the major capsid protein, made by recombinant technology. L1 proteins self-assemble into virus-like particles that are noninfectious and non-oncogenic because they contain no viral DNA. The particles look like the real virus to the immune system and induce antibodies that block infection by the vaccine types.</p><p>The 9-valent vaccine includes the high-risk types 16 and 18, which cause about 70% of cervical cancers, and types 6 and 11, which cause about 90% of genital warts. Because it prevents infection rather than treating it, there is no evidence of efficacy against a vaccine type the person is already infected with, which is why it is routinely given at 11 to 12 years.</p>",
+    "table": null,
+    "why": [
+     "The vaccine does not contain the E6 and E7 oncoproteins; it is built from the L1 capsid protein.",
+     "The HPV vaccine is not live, and it does not establish any infection.",
+     "",
+     "The vaccine is not a killed whole virus and shows no efficacy against types already acquired.",
+     "A polysaccharide linked to a protein describes conjugate bacterial vaccines such as the pneumococcal conjugate vaccine."
+    ],
+    "takeaway": "The HPV vaccine is recombinant L1 capsid protein that self-assembles into noninfectious virus-like particles, preventing (not treating) infection with vaccine types.",
+    "topic": "HPV vaccine: virus-like particles",
+    "subject": "Immunology"
+   },
+   "figures": []
   },
   {
    "id": "miid2-w06-lec33-q07",
@@ -115,7 +223,21 @@
    ],
    "answer": 1,
    "evidence": [],
-   "note": "**For the first dose at 12 to 47 months, separate MMR and varicella vaccines are suggested because MMRV slightly raises febrile seizure risk.**\n\nMMR and varicella vaccines are live attenuated virus vaccines given at a minimum age of 12 months, in a 2-dose series at 12 to 15 months and 4 to 6 years. A combined MMRV product exists, but after the first dose in young toddlers it carries a slightly higher risk of febrile seizures than separate injections given at the same visit.\n\nFor that reason, between 12 and 47 months, separate MMR and varicella vaccines are suggested for the first dose. Delaying vaccination is not the answer, since it leaves the child exposed to measles and varicella.\n\nDelay both vaccines until she is 4 years old: incorrect. Delaying both vaccines leaves her unprotected against measles and varicella during the years of highest exposure.\n\nGive separate MMR and varicella vaccines for this first dose: correct. For the first dose at 12 to 47 months, separate MMR and varicella vaccines are suggested because of the higher febrile seizure risk with MMRV.\n\nGive MMR now and varicella only after age 13: incorrect. Varicella vaccine is routinely given at 12 to 15 months; there is no reason to wait until adolescence.\n\nGive the combined vaccine, as seizures are equally common: incorrect. The data show twice as many febrile seizures with the combined product, so they are not equal.\n\nGive only the measles component now, the rest at 18 months: incorrect. MMR is given as one combined vaccine; it is not split into separate components."
+   "explain": {
+    "html": "<p>MMR and varicella vaccines are live attenuated virus vaccines given at a minimum age of 12 months, in a 2-dose series at 12 to 15 months and 4 to 6 years. A combined MMRV product exists, but after the first dose in young toddlers it carries a slightly higher risk of febrile seizures than separate injections given at the same visit.</p><p>For that reason, between 12 and 47 months, separate MMR and varicella vaccines are suggested for the first dose. Delaying vaccination is not the answer, since it leaves the child exposed to measles and varicella.</p>",
+    "table": null,
+    "why": [
+     "Delaying both vaccines leaves her unprotected against measles and varicella during the years of highest exposure.",
+     "",
+     "Varicella vaccine is routinely given at 12 to 15 months; there is no reason to wait until adolescence.",
+     "The data show twice as many febrile seizures with the combined product, so they are not equal.",
+     "MMR is given as one combined vaccine; it is not split into separate components."
+    ],
+    "takeaway": "For the first dose at 12 to 47 months, separate MMR and varicella vaccines are suggested because MMRV slightly raises febrile seizure risk.",
+    "topic": "MMR and varicella: febrile seizure risk",
+    "subject": "Immunology"
+   },
+   "figures": []
   },
   {
    "id": "miid2-w06-lec33-q08",
@@ -131,7 +253,21 @@
    ],
    "answer": 0,
    "evidence": [],
-   "note": "**RSV protection for newborns comes from a single maternal RSV vaccine dose at 32 to 36 weeks during the season, or a monoclonal antibody for the infant.**\n\nThe older child's illness was bronchiolitis, and respiratory syncytial virus (RSV) is the leading cause of bronchiolitis and viral pneumonia in young children. It is most dangerous for infants, premature babies, and children with underlying conditions.\n\nPregnant people should receive a single dose of RSV vaccine between 32 and 36 weeks of pregnancy, in most of the US from September through January, so that maternal antibody protects the newborn. If the mother does not receive the vaccine, a monoclonal antibody is available for the newborn.\n\nA single dose of RSV vaccine for her now, at 32 to 36 weeks: correct. A single maternal dose of RSV vaccine at 32 to 36 weeks during the season protects the newborn, and an infant monoclonal antibody is the alternative.\n\nTdap for her now, since it prevents bronchiolitis in infants: incorrect. Tdap in pregnancy protects against pertussis, not RSV bronchiolitis.\n\nLive attenuated nasal influenza vaccine for the newborn at birth: incorrect. Influenza vaccine is not given to newborns (it starts at 6 months) and does not prevent RSV.\n\nTwo doses of RSV vaccine for the infant at 2 and 4 months: incorrect. The RSV strategy is maternal vaccination or a monoclonal antibody for the newborn, not an infant vaccine series.\n\nNo option, since immunity to the virus cannot be given to infants: incorrect. Infants can be protected passively, either through maternal vaccination or a monoclonal antibody."
+   "explain": {
+    "html": "<p>The older child's illness was bronchiolitis, and respiratory syncytial virus (RSV) is the leading cause of bronchiolitis and viral pneumonia in young children. It is most dangerous for infants, premature babies, and children with underlying conditions.</p><p>Pregnant people should receive a single dose of RSV vaccine between 32 and 36 weeks of pregnancy, in most of the US from September through January, so that maternal antibody protects the newborn. If the mother does not receive the vaccine, a monoclonal antibody is available for the newborn.</p>",
+    "table": null,
+    "why": [
+     "",
+     "Tdap in pregnancy protects against pertussis, not RSV bronchiolitis.",
+     "Influenza vaccine is not given to newborns (it starts at 6 months) and does not prevent RSV.",
+     "The RSV strategy is maternal vaccination or a monoclonal antibody for the newborn, not an infant vaccine series.",
+     "Infants can be protected passively, either through maternal vaccination or a monoclonal antibody."
+    ],
+    "takeaway": "RSV protection for newborns comes from a single maternal RSV vaccine dose at 32 to 36 weeks during the season, or a monoclonal antibody for the infant.",
+    "topic": "RSV: maternal vaccine or infant monoclonal antibody",
+    "subject": "Immunology"
+   },
+   "figures": []
   },
   {
    "id": "miid2-w06-lec33-q09",
@@ -147,7 +283,21 @@
    ],
    "answer": 2,
    "evidence": [],
-   "note": "**Annual influenza vaccine is for everyone 6 months and older; children under 8 receiving it for the first time need 2 doses that season.**\n\nEveryone 6 months and older should receive an annual influenza vaccine, especially children under 5 and children of any age with high-risk conditions. Influenza in young children can be complicated by otitis media, croup, bronchiolitis, pneumonia, and neurologic disease, and infants can present with a sepsis-like illness.\n\nChildren younger than 8 years who are receiving influenza vaccine for the first time need 2 doses in that first season. After that, one dose each year is enough.\n\nOne dose now, then a dose every 5 years: incorrect. Influenza vaccine is given every year, not every 5 years, because the virus changes.\n\nNo dose, since vaccination starts at age 5: incorrect. Vaccination starts at 6 months of age, not 5 years.\n\nTwo doses during this first season: correct. Children under 8 receiving influenza vaccine for the first time need 2 doses in the first season.\n\nOne dose now, with no further doses needed: incorrect. A single dose is enough only for children who have already been vaccinated before or are 8 or older.\n\nA single dose only if she has asthma: incorrect. Annual vaccination is recommended for all children 6 months and older, not only those with asthma."
+   "explain": {
+    "html": "<p>Everyone 6 months and older should receive an annual influenza vaccine, especially children under 5 and children of any age with high-risk conditions. Influenza in young children can be complicated by otitis media, croup, bronchiolitis, pneumonia, and neurologic disease, and infants can present with a sepsis-like illness.</p><p>Children younger than 8 years who are receiving influenza vaccine for the first time need 2 doses in that first season. After that, one dose each year is enough.</p>",
+    "table": null,
+    "why": [
+     "Influenza vaccine is given every year, not every 5 years, because the virus changes.",
+     "Vaccination starts at 6 months of age, not 5 years.",
+     "",
+     "A single dose is enough only for children who have already been vaccinated before or are 8 or older.",
+     "Annual vaccination is recommended for all children 6 months and older, not only those with asthma."
+    ],
+    "takeaway": "Annual influenza vaccine is for everyone 6 months and older; children under 8 receiving it for the first time need 2 doses that season.",
+    "topic": "Influenza vaccine in young children",
+    "subject": "Immunology"
+   },
+   "figures": []
   },
   {
    "id": "miid2-w06-lec33-q10",
@@ -163,7 +313,27 @@
    ],
    "answer": 4,
    "evidence": [],
-   "note": "**Tdap during every pregnancy at 27 to 36 weeks protects young infants from pertussis, which adults often carry unrecognized.**\n\nA catarrhal stage followed by paroxysms of cough with post-tussive vomiting and apnea in a young infant, with a gram-negative coccobacillus on culture, is pertussis from Bordetella pertussis. Infants are at greatest risk of serious complications, including apnea, hypoxia, seizures, pneumonia, and pulmonary hypertension. Adolescents and adults lose immunity without boosting and act as the reservoir, as the father did here.\n\nInfants are too young to have received the pertussis vaccine series, so the strategy is a single dose of Tdap during every pregnancy at 27 to 36 weeks. Maternal antibody then protects the newborn through the first months of life.\n\nA dose of pertussis vaccine for the infant at birth: incorrect. Pertussis vaccine is not given at birth; protection for the youngest infants comes from maternal vaccination.\n\nOral rifampin for the father once his cough began: incorrect. Rifampin is used for Haemophilus influenzae type b and meningococcal contacts; pertussis contacts receive azithromycin.\n\nThe 2-month DTaP dose given 3 weeks early: incorrect. An early 2-month dose would still leave the first weeks of life unprotected, when this infant fell ill.\n\nAnnual inactivated influenza vaccine for the mother: incorrect. Influenza vaccine does not protect against Bordetella pertussis.\n\nTdap for the mother at 27 to 36 weeks of each pregnancy: correct. Tdap during every pregnancy at 27 to 36 weeks protects infants too young to be vaccinated."
+   "explain": {
+    "html": "<p>A catarrhal stage followed by paroxysms of cough with post-tussive vomiting and apnea in a young infant, with a gram-negative coccobacillus on culture, is pertussis from Bordetella pertussis. Infants are at greatest risk of serious complications, including apnea, hypoxia, seizures, pneumonia, and pulmonary hypertension. Adolescents and adults lose immunity without boosting and act as the reservoir, as the father did here.</p><p>Infants are too young to have received the pertussis vaccine series, so the strategy is a single dose of Tdap during every pregnancy at 27 to 36 weeks. Maternal antibody then protects the newborn through the first months of life.</p>",
+    "table": null,
+    "why": [
+     "Pertussis vaccine is not given at birth; protection for the youngest infants comes from maternal vaccination.",
+     "Rifampin is used for Haemophilus influenzae type b and meningococcal contacts; pertussis contacts receive azithromycin.",
+     "An early 2-month dose would still leave the first weeks of life unprotected, when this infant fell ill.",
+     "Influenza vaccine does not protect against Bordetella pertussis.",
+     ""
+    ],
+    "takeaway": "Tdap during every pregnancy at 27 to 36 weeks protects young infants from pertussis, which adults often carry unrecognized.",
+    "topic": "Pertussis: maternal Tdap to protect the infant",
+    "subject": "Immunology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w06-lec33/slide_13.jpg",
+     "slide": 13,
+     "caption": "Lecture 33 slides (2025-26) · Page 13"
+    }
+   ]
   },
   {
    "id": "miid2-w06-lec33-q11",
@@ -179,7 +349,27 @@
    ],
    "answer": 0,
    "evidence": [],
-   "note": "**Haemophilus influenzae type b grows on chocolate agar (factors V and X), and close contacts of invasive disease receive rifampin prophylaxis.**\n\nMeningitis in an unvaccinated toddler with small gram-negative coccobacilli that grow on chocolate agar is Haemophilus influenzae type b (Hib). The organism needs factor V (NAD) and factor X (hematin), which chocolate agar supplies. Its type b polysaccharide capsule caused 95% of invasive disease before the vaccine, and meningitis was the most common result; the mnemonic HaEMOPhilus recalls epiglottitis, meningitis, otitis media, and pneumonia.\n\nClose contacts such as household members and day care contacts of a patient with invasive Hib disease receive rifampin prophylaxis for 4 days. Routine Hib vaccination at 2, 4, 6, and 12 to 15 months has reduced incidence by 99%.\n\nFactors V and X; rifampin for 4 days: correct. Haemophilus influenzae needs factors V and X from chocolate agar, and household contacts receive rifampin.\n\nCysteine and iron; oral doxycycline: incorrect. Cysteine and iron are not the growth requirements of Haemophilus, and doxycycline is not used for Hib contacts.\n\nFactors V and X; oral azithromycin for 5 days: incorrect. The growth factors are right, but azithromycin is the prophylaxis for pertussis contacts, not Hib.\n\nCholesterol; a single dose of penicillin: incorrect. Haemophilus does not need cholesterol, and penicillin is not the prophylaxis for Hib contacts.\n\nCysteine and iron; ceftriaxone for 10 days: incorrect. Cysteine and iron are wrong, and a 10-day course of intravenous antibiotics is treatment of disease, not prophylaxis."
+   "explain": {
+    "html": "<p>Meningitis in an unvaccinated toddler with small gram-negative coccobacilli that grow on chocolate agar is Haemophilus influenzae type b (Hib). The organism needs factor V (NAD) and factor X (hematin), which chocolate agar supplies. Its type b polysaccharide capsule caused 95% of invasive disease before the vaccine, and meningitis was the most common result; the mnemonic HaEMOPhilus recalls epiglottitis, meningitis, otitis media, and pneumonia.</p><p>Close contacts such as household members and day care contacts of a patient with invasive Hib disease receive rifampin prophylaxis for 4 days. Routine Hib vaccination at 2, 4, 6, and 12 to 15 months has reduced incidence by 99%.</p>",
+    "table": null,
+    "why": [
+     "",
+     "Cysteine and iron are not the growth requirements of Haemophilus, and doxycycline is not used for Hib contacts.",
+     "The growth factors are right, but azithromycin is the prophylaxis for pertussis contacts, not Hib.",
+     "Haemophilus does not need cholesterol, and penicillin is not the prophylaxis for Hib contacts.",
+     "Cysteine and iron are wrong, and a 10-day course of intravenous antibiotics is treatment of disease, not prophylaxis."
+    ],
+    "takeaway": "Haemophilus influenzae type b grows on chocolate agar (factors V and X), and close contacts of invasive disease receive rifampin prophylaxis.",
+    "topic": "Haemophilus influenzae type b: culture and contacts",
+    "subject": "Immunology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w06-lec33/slide_16.jpg",
+     "slide": 16,
+     "caption": "Lecture 33 slides (2025-26) · Page 16"
+    }
+   ]
   },
   {
    "id": "miid2-w06-lec33-q12",
@@ -195,7 +385,21 @@
    ],
    "answer": 3,
    "evidence": [],
-   "note": "**Conjugating pneumococcal capsular polysaccharide to a carrier protein recruits T cell help, so conjugate vaccines work in infants while the plain polysaccharide vaccine does not before age 2.**\n\nPolysaccharide antigens alone stimulate B cells without T cell help. That response is weak in children under 2 years, produces little class switching, and creates no memory, which is why the 23-valent polysaccharide vaccine (PPSV23) is not effective in young children.\n\nConjugating the capsular polysaccharide to a protein carrier (the nontoxic diphtheria toxin CRM197) lets B cells that bind the polysaccharide present carrier peptides to helper T cells. T cell help then drives class switching to IgG and memory. That is why the pneumococcal conjugate vaccines are highly immunogenic in infants and are given as a 4-dose series at 2, 4, 6, and 12 to 15 months.\n\nInfants make more polysaccharide-specific IgM than adults: incorrect. Young infants respond poorly to polysaccharide alone, so a larger IgM response does not explain the result.\n\nDiphtheria toxin directly activates B cells as a superantigen: incorrect. CRM197 is a nontoxic carrier protein, not a superantigen, and superantigens do not create specific antibody.\n\nThe polysaccharide is presented on MHC class I to CD8 T cells: incorrect. Polysaccharides are not presented on MHC class I; the carrier peptides are presented on MHC class II to helper T cells.\n\nThe carrier recruits helper T cells for switching and memory: correct. The protein carrier recruits helper T cells, so infants make class-switched IgG and memory against the capsule.\n\nLinkage to protein raises antibody only against diphtheria toxin: incorrect. The key result is high antibody against the capsule, the part that protects against pneumococcus."
+   "explain": {
+    "html": "<p>Polysaccharide antigens alone stimulate B cells without T cell help. That response is weak in children under 2 years, produces little class switching, and creates no memory, which is why the 23-valent polysaccharide vaccine (PPSV23) is not effective in young children.</p><p>Conjugating the capsular polysaccharide to a protein carrier (the nontoxic diphtheria toxin CRM197) lets B cells that bind the polysaccharide present carrier peptides to helper T cells. T cell help then drives class switching to IgG and memory. That is why the pneumococcal conjugate vaccines are highly immunogenic in infants and are given as a 4-dose series at 2, 4, 6, and 12 to 15 months.</p>",
+    "table": null,
+    "why": [
+     "Young infants respond poorly to polysaccharide alone, so a larger IgM response does not explain the result.",
+     "CRM197 is a nontoxic carrier protein, not a superantigen, and superantigens do not create specific antibody.",
+     "Polysaccharides are not presented on MHC class I; the carrier peptides are presented on MHC class II to helper T cells.",
+     "",
+     "The key result is high antibody against the capsule, the part that protects against pneumococcus."
+    ],
+    "takeaway": "Conjugating pneumococcal capsular polysaccharide to a carrier protein recruits T cell help, so conjugate vaccines work in infants while the plain polysaccharide vaccine does not before age 2.",
+    "topic": "Pneumococcal conjugate vs polysaccharide vaccine",
+    "subject": "Immunology"
+   },
+   "figures": []
   },
   {
    "id": "miid2-w06-lec33-q13",
@@ -211,7 +415,27 @@
    ],
    "answer": 3,
    "evidence": [],
-   "note": "**Newborns of hepatitis B surface antigen positive mothers receive hepatitis B vaccine plus HBIG at separate sites at birth.**\n\nThe mother is chronically infected (surface antigen positive) and highly infectious (e antigen positive). Infants of such mothers are infected 70 to 90% of the time, and about 90% of infected infants become chronically infected. Hepatitis B causes chronic hepatitis and cirrhosis and about 80% of hepatocellular carcinomas.\n\nThe vaccine is recombinant hepatitis B surface antigen and is given to every newborn within 24 hours. When the mother is surface antigen positive, the infant receives both hepatitis B vaccine for active immunity and hepatitis B immune globulin (HBIG) for immediate passive protection, at separate sites.\n\nHepatitis B vaccine alone, with a second dose at 1 month: incorrect. Vaccine alone is the plan when the mother is surface antigen negative; an infected mother's infant also needs immune globulin.\n\nHepatitis B immune globulin alone, with vaccine at 2 months: incorrect. Immune globulin without the vaccine gives only temporary protection and delays active immunity.\n\nInactivated hepatitis A vaccine together with immune globulin: incorrect. Hepatitis A vaccine does not protect against hepatitis B and is given starting at 12 months.\n\nHepatitis B vaccine plus immune globulin, at separate sites: correct. Infants of surface antigen positive mothers receive both hepatitis B vaccine and immune globulin, at separate sites.\n\nNo intervention until the infant's own surface antigen is checked: incorrect. Waiting allows infection to establish; prevention must start at birth."
+   "explain": {
+    "html": "<p>The mother is chronically infected (surface antigen positive) and highly infectious (e antigen positive). Infants of such mothers are infected 70 to 90% of the time, and about 90% of infected infants become chronically infected. Hepatitis B causes chronic hepatitis and cirrhosis and about 80% of hepatocellular carcinomas.</p><p>The vaccine is recombinant hepatitis B surface antigen and is given to every newborn within 24 hours. When the mother is surface antigen positive, the infant receives both hepatitis B vaccine for active immunity and hepatitis B immune globulin (HBIG) for immediate passive protection, at separate sites.</p>",
+    "table": null,
+    "why": [
+     "Vaccine alone is the plan when the mother is surface antigen negative; an infected mother's infant also needs immune globulin.",
+     "Immune globulin without the vaccine gives only temporary protection and delays active immunity.",
+     "Hepatitis A vaccine does not protect against hepatitis B and is given starting at 12 months.",
+     "",
+     "Waiting allows infection to establish; prevention must start at birth."
+    ],
+    "takeaway": "Newborns of hepatitis B surface antigen positive mothers receive hepatitis B vaccine plus HBIG at separate sites at birth.",
+    "topic": "Hepatitis B: perinatal prevention",
+    "subject": "Immunology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w06-lec33/slide_31.jpg",
+     "slide": 31,
+     "caption": "Lecture 33 slides (2025-26) · Page 31"
+    }
+   ]
   },
   {
    "id": "miid2-w06-lec33-q14",
@@ -227,7 +451,27 @@
    ],
    "answer": 1,
    "evidence": [],
-   "note": "**Subacute sclerosing panencephalitis is a late fatal complication of measles, especially in infancy, prevented by two doses of MMR.**\n\nThe infant illness, a high fever with cough, coryza, and conjunctivitis followed by a descending rash, was measles. Years later, progressive behavioral and intellectual decline with seizures is subacute sclerosing panencephalitis (SSPE), a rare degenerative central nervous system disease that appears 7 to 10 years after measles, especially when measles occurred in infancy.\n\nThere is no antiviral that prevents it. Prevention is the live attenuated measles, mumps, and rubella vaccine in two doses, at 12 to 15 months and 4 to 6 years, with an early dose from 6 months in outbreaks or before international travel, which then still requires the two routine doses.\n\nAcyclovir given at the time of the infant rash: incorrect. Acyclovir targets herpesviruses and has no effect on measles virus.\n\nTwo doses of a live attenuated childhood vaccine: correct. Two doses of the live attenuated measles vaccine (MMR) prevent measles and therefore its late complication, SSPE.\n\nInactivated polio vaccine given in the first year of life: incorrect. Polio vaccine does not protect against measles.\n\nRifampin prophylaxis given right after his infant illness: incorrect. Rifampin is antibacterial prophylaxis and has no effect on a viral infection.\n\nHepatitis B vaccine given within 24 hours of birth: incorrect. Hepatitis B vaccine prevents hepatitis B, not measles."
+   "explain": {
+    "html": "<p>The infant illness, a high fever with cough, coryza, and conjunctivitis followed by a descending rash, was measles. Years later, progressive behavioral and intellectual decline with seizures is subacute sclerosing panencephalitis (SSPE), a rare degenerative central nervous system disease that appears 7 to 10 years after measles, especially when measles occurred in infancy.</p><p>There is no antiviral that prevents it. Prevention is the live attenuated measles, mumps, and rubella vaccine in two doses, at 12 to 15 months and 4 to 6 years, with an early dose from 6 months in outbreaks or before international travel, which then still requires the two routine doses.</p>",
+    "table": null,
+    "why": [
+     "Acyclovir targets herpesviruses and has no effect on measles virus.",
+     "",
+     "Polio vaccine does not protect against measles.",
+     "Rifampin is antibacterial prophylaxis and has no effect on a viral infection.",
+     "Hepatitis B vaccine prevents hepatitis B, not measles."
+    ],
+    "takeaway": "Subacute sclerosing panencephalitis is a late fatal complication of measles, especially in infancy, prevented by two doses of MMR.",
+    "topic": "Measles: subacute sclerosing panencephalitis",
+    "subject": "Immunology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w06-lec33/slide_39.jpg",
+     "slide": 39,
+     "caption": "Lecture 33 slides (2025-26) · Page 39"
+    }
+   ]
   }
  ]
 }

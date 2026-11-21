@@ -19,7 +19,27 @@
    ],
    "answer": 1,
    "evidence": [],
-   "note": "**Neuraminidase inhibitors (oseltamivir, zanamivir, peramivir) prevent release of influenza A and B virions from infected cells.**\n\nThe drug is oseltamivir, an oral neuraminidase inhibitor given twice daily for 5 days as treatment (once daily for 10 days as prophylaxis). Influenza hemagglutinin attaches the virus to host cells, and neuraminidase lets newly formed virus leave by cleaving sialic acid from glycoproteins on the cell surface.\n\nBy blocking neuraminidase, oseltamivir, zanamivir, and peramivir prevent release of virus from infected cells, so virions stay tethered and cannot spread. They act on influenza A and B, and resistance arises from mutations in neuraminidase, more often in influenza A.\n\nHemagglutinin, which attaches the virus to host cells: incorrect. Hemagglutinin is the attachment protein; the drug did not block entry.\n\nNeuraminidase, which cleaves sialic acid to release progeny virus: correct. Oseltamivir inhibits neuraminidase, so new virions cannot be released from the infected cell.\n\nPolymerase acidic protein, which has endonuclease activity: incorrect. The polymerase acidic endonuclease is the target of baloxavir, which blocks viral transcription and replication.\n\nThymidine kinase, which phosphorylates nucleoside analogs: incorrect. Thymidine kinase is a herpesvirus enzyme that activates acyclovir, not an influenza protein.\n\nDNA terminase complex, which packages new viral genomes: incorrect. The DNA terminase complex is a cytomegalovirus target of letermovir."
+   "explain": {
+    "html": "<p>The drug is oseltamivir, an oral neuraminidase inhibitor given twice daily for 5 days as treatment (once daily for 10 days as prophylaxis). Influenza hemagglutinin attaches the virus to host cells, and neuraminidase lets newly formed virus leave by cleaving sialic acid from glycoproteins on the cell surface.</p><p>By blocking neuraminidase, oseltamivir, zanamivir, and peramivir prevent release of virus from infected cells, so virions stay tethered and cannot spread. They act on influenza A and B, and resistance arises from mutations in neuraminidase, more often in influenza A.</p>",
+    "table": null,
+    "why": [
+     "Hemagglutinin is the attachment protein; the drug did not block entry.",
+     "",
+     "The polymerase acidic endonuclease is the target of baloxavir, which blocks viral transcription and replication.",
+     "Thymidine kinase is a herpesvirus enzyme that activates acyclovir, not an influenza protein.",
+     "The DNA terminase complex is a cytomegalovirus target of letermovir."
+    ],
+    "takeaway": "Neuraminidase inhibitors (oseltamivir, zanamivir, peramivir) prevent release of influenza A and B virions from infected cells.",
+    "topic": "Neuraminidase inhibitors: mechanism",
+    "subject": "Pharmacology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w06-lec34/slide_08.jpg",
+     "slide": 8,
+     "caption": "Lecture 34 slides (2025-26) · Page 8"
+    }
+   ]
   },
   {
    "id": "miid2-w06-lec34-q02",
@@ -35,7 +55,27 @@
    ],
    "answer": 4,
    "evidence": [],
-   "note": "**Inhaled zanamivir can cause bronchospasm, so oral oseltamivir is preferred for influenza in patients with asthma.**\n\nThe inhaled neuraminidase inhibitor is zanamivir. All neuraminidase inhibitors share effects such as insomnia, vertigo, and neuropsychiatric events, but zanamivir's unique adverse effect is bronchospasm because it is delivered to the airways, which makes it a poor choice in a patient with asthma.\n\nOral oseltamivir has the same mechanism and covers influenza A and B without the inhaled route, so it is the better option for her. The other drugs listed target herpesviruses, not influenza.\n\nInhaled zanamivir at a lower dose: incorrect. Lowering the dose of zanamivir keeps the inhaled route that triggers bronchospasm.\n\nOral acyclovir: incorrect. Acyclovir treats herpes simplex and varicella zoster virus, not influenza.\n\nIntravenous foscarnet: incorrect. Foscarnet treats cytomegalovirus and resistant herpesvirus infections, not influenza.\n\nOral valganciclovir: incorrect. Valganciclovir is used for cytomegalovirus, not influenza.\n\nOral oseltamivir: correct. Oral oseltamivir inhibits neuraminidase like zanamivir but avoids inhaled delivery and bronchospasm."
+   "explain": {
+    "html": "<p>The inhaled neuraminidase inhibitor is zanamivir. All neuraminidase inhibitors share effects such as insomnia, vertigo, and neuropsychiatric events, but zanamivir's unique adverse effect is bronchospasm because it is delivered to the airways, which makes it a poor choice in a patient with asthma.</p><p>Oral oseltamivir has the same mechanism and covers influenza A and B without the inhaled route, so it is the better option for her. The other drugs listed target herpesviruses, not influenza.</p>",
+    "table": null,
+    "why": [
+     "Lowering the dose of zanamivir keeps the inhaled route that triggers bronchospasm.",
+     "Acyclovir treats herpes simplex and varicella zoster virus, not influenza.",
+     "Foscarnet treats cytomegalovirus and resistant herpesvirus infections, not influenza.",
+     "Valganciclovir is used for cytomegalovirus, not influenza.",
+     ""
+    ],
+    "takeaway": "Inhaled zanamivir can cause bronchospasm, so oral oseltamivir is preferred for influenza in patients with asthma.",
+    "topic": "Zanamivir: bronchospasm",
+    "subject": "Pharmacology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w06-lec34/slide_09.jpg",
+     "slide": 9,
+     "caption": "Lecture 34 slides (2025-26) · Page 9"
+    }
+   ]
   },
   {
    "id": "miid2-w06-lec34-q03",
@@ -51,7 +91,27 @@
    ],
    "answer": 3,
    "evidence": [],
-   "note": "**Baloxavir is a single-dose oral endonuclease inhibitor for influenza whose absorption is reduced by dairy products and cations.**\n\nThe drug is baloxavir marboxil, a prodrug converted to baloxavir, which inhibits the endonuclease of the polymerase acidic protein needed for influenza A and B transcription. It is given orally as one dose because of its long half-life (about 79 hours) and is approved for uncomplicated influenza or post-exposure prophylaxis in people older than 12.\n\nIts absorption is affected by dairy products and cations such as those in antacids, so taking it with milk and an antacid lowers the amount absorbed and can make the single dose less effective. Its main adverse effects are diarrhea and nasopharyngitis.\n\nBronchospasm from airway delivery: incorrect. Bronchospasm is the unique adverse effect of inhaled zanamivir.\n\nIncreased conversion to the active drug: incorrect. Food and cations do not increase conversion of the prodrug; they lower absorption.\n\nNephrotoxicity from crystal formation: incorrect. Nephrotoxicity is a concern with intravenous acyclovir, cidofovir, and foscarnet, not baloxavir.\n\nReduced drug absorption: correct. Dairy products and cations reduce baloxavir absorption.\n\nVisual disturbances and hallucinations: incorrect. Visual hallucinations are a unique adverse effect of voriconazole."
+   "explain": {
+    "html": "<p>The drug is baloxavir marboxil, a prodrug converted to baloxavir, which inhibits the endonuclease of the polymerase acidic protein needed for influenza A and B transcription. It is given orally as one dose because of its long half-life (about 79 hours) and is approved for uncomplicated influenza or post-exposure prophylaxis in people older than 12.</p><p>Its absorption is affected by dairy products and cations such as those in antacids, so taking it with milk and an antacid lowers the amount absorbed and can make the single dose less effective. Its main adverse effects are diarrhea and nasopharyngitis.</p>",
+    "table": null,
+    "why": [
+     "Bronchospasm is the unique adverse effect of inhaled zanamivir.",
+     "Food and cations do not increase conversion of the prodrug; they lower absorption.",
+     "Nephrotoxicity is a concern with intravenous acyclovir, cidofovir, and foscarnet, not baloxavir.",
+     "",
+     "Visual hallucinations are a unique adverse effect of voriconazole."
+    ],
+    "takeaway": "Baloxavir is a single-dose oral endonuclease inhibitor for influenza whose absorption is reduced by dairy products and cations.",
+    "topic": "Baloxavir: mechanism and absorption",
+    "subject": "Pharmacology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w06-lec34/slide_10.jpg",
+     "slide": 10,
+     "caption": "Lecture 34 slides (2025-26) · Page 10"
+    }
+   ]
   },
   {
    "id": "miid2-w06-lec34-q04",
@@ -67,7 +127,21 @@
    ],
    "answer": 1,
    "evidence": [],
-   "note": "**Intravenous acyclovir can cause nephrotoxicity and neurotoxicity; valacyclovir is the preferred oral prodrug because of better bioavailability and dosing.**\n\nAcyclovir and valacyclovir can cause neurotoxicity, gastrointestinal upset, myelosuppression, rash, and, with intravenous acyclovir, nephrotoxicity, which explains this patient's rising creatinine and confusion during high-dose therapy.\n\nOral acyclovir has poor bioavailability (15 to 30%) and must be dosed many times a day. Valacyclovir is a prodrug hydrolyzed to acyclovir by first-pass and hepatic metabolism, with oral bioavailability of about 55%. It gives higher serum levels, which also lowers the risk of resistance, and it is more convenient, so it is the usual oral choice for herpes simplex and varicella zoster.\n\nOral acyclovir, because it has the highest bioavailability: incorrect. Oral acyclovir has low bioavailability (15 to 30%), which is why it must be dosed several times a day.\n\nValacyclovir, a prodrug giving higher levels: correct. Valacyclovir is an acyclovir prodrug with better bioavailability, higher levels, and more convenient dosing.\n\nValganciclovir, because it avoids bone marrow suppression: incorrect. Valganciclovir is for cytomegalovirus and causes, rather than avoids, myelosuppression.\n\nOseltamivir, because it does not need renal adjustment: incorrect. Oseltamivir treats influenza and has no activity against varicella zoster virus.\n\nLetermovir, because it does not affect the kidneys at all: incorrect. Letermovir is used only for cytomegalovirus prophylaxis."
+   "explain": {
+    "html": "<p>Acyclovir and valacyclovir can cause neurotoxicity, gastrointestinal upset, myelosuppression, rash, and, with intravenous acyclovir, nephrotoxicity, which explains this patient's rising creatinine and confusion during high-dose therapy.</p><p>Oral acyclovir has poor bioavailability (15 to 30%) and must be dosed many times a day. Valacyclovir is a prodrug hydrolyzed to acyclovir by first-pass and hepatic metabolism, with oral bioavailability of about 55%. It gives higher serum levels, which also lowers the risk of resistance, and it is more convenient, so it is the usual oral choice for herpes simplex and varicella zoster.</p>",
+    "table": null,
+    "why": [
+     "Oral acyclovir has low bioavailability (15 to 30%), which is why it must be dosed several times a day.",
+     "",
+     "Valganciclovir is for cytomegalovirus and causes, rather than avoids, myelosuppression.",
+     "Oseltamivir treats influenza and has no activity against varicella zoster virus.",
+     "Letermovir is used only for cytomegalovirus prophylaxis."
+    ],
+    "takeaway": "Intravenous acyclovir can cause nephrotoxicity and neurotoxicity; valacyclovir is the preferred oral prodrug because of better bioavailability and dosing.",
+    "topic": "Acyclovir and valacyclovir: adverse effects and dosing",
+    "subject": "Pharmacology"
+   },
+   "figures": []
   },
   {
    "id": "miid2-w06-lec34-q05",
@@ -83,7 +157,27 @@
    ],
    "answer": 4,
    "evidence": [],
-   "note": "**Ganciclovir and valganciclovir (activated by CMV UL97 kinase) treat CMV, and their main adverse effect is myelosuppression.**\n\nThe drug is ganciclovir, the drug of choice (with its oral prodrug valganciclovir) for cytomegalovirus (CMV) treatment and prophylaxis. It is triphosphorylated first by the CMV UL97 kinase and then by cellular kinases, and it is incorporated during viral DNA synthesis, causing chain termination. Oral ganciclovir is almost not absorbed (about 5%), so it is given intravenously, while valganciclovir is given orally.\n\nThe main adverse effect of ganciclovir and valganciclovir is myelosuppression, affecting neutrophils and platelets, with anemia also possible. Other effects include fever, nephrotoxicity, and gastrointestinal symptoms, and combining it with zidovudine or flucytosine adds to marrow toxicity.\n\nRising absolute neutrophil count: incorrect. Ganciclovir suppresses the marrow, so neutrophils fall rather than rise.\n\nSerum calcium well above the normal range: incorrect. Ganciclovir does not raise calcium; foscarnet causes low calcium.\n\nVery high serum potassium from cell lysis: incorrect. Ganciclovir does not cause high potassium.\n\nIsolated rise in hemoglobin: incorrect. Ganciclovir lowers marrow output and can cause anemia rather than raise hemoglobin.\n\nFalling absolute neutrophil and platelet counts: correct. Ganciclovir commonly causes myelosuppression, with low neutrophils and platelets."
+   "explain": {
+    "html": "<p>The drug is ganciclovir, the drug of choice (with its oral prodrug valganciclovir) for cytomegalovirus (CMV) treatment and prophylaxis. It is triphosphorylated first by the CMV UL97 kinase and then by cellular kinases, and it is incorporated during viral DNA synthesis, causing chain termination. Oral ganciclovir is almost not absorbed (about 5%), so it is given intravenously, while valganciclovir is given orally.</p><p>The main adverse effect of ganciclovir and valganciclovir is myelosuppression, affecting neutrophils and platelets, with anemia also possible. Other effects include fever, nephrotoxicity, and gastrointestinal symptoms, and combining it with zidovudine or flucytosine adds to marrow toxicity.</p>",
+    "table": null,
+    "why": [
+     "Ganciclovir suppresses the marrow, so neutrophils fall rather than rise.",
+     "Ganciclovir does not raise calcium; foscarnet causes low calcium.",
+     "Ganciclovir does not cause high potassium.",
+     "Ganciclovir lowers marrow output and can cause anemia rather than raise hemoglobin.",
+     ""
+    ],
+    "takeaway": "Ganciclovir and valganciclovir (activated by CMV UL97 kinase) treat CMV, and their main adverse effect is myelosuppression.",
+    "topic": "Ganciclovir: activation and myelosuppression",
+    "subject": "Pharmacology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w06-lec34/slide_22.jpg",
+     "slide": 22,
+     "caption": "Lecture 34 slides (2025-26) · Page 22"
+    }
+   ]
   },
   {
    "id": "miid2-w06-lec34-q06",
@@ -99,7 +193,21 @@
    ],
    "answer": 3,
    "evidence": [],
-   "note": "**Foscarnet causes nephrotoxicity and losses of calcium, potassium, phosphate, and magnesium; perioral tingling signals hypocalcemia.**\n\nFoscarnet inhibits the pyrophosphate binding site of viral DNA polymerase without needing thymidine kinase or UL97, which is why it is used for resistant herpesvirus and CMV infections. Its main adverse effects are nephrotoxicity, myelosuppression (especially anemia), and electrolyte losses: low calcium, potassium, phosphate, and magnesium.\n\nPerioral and fingertip tingling with facial twitching are signs of low calcium. Patients on foscarnet need extra hydration and electrolyte correction, and the dose must be adjusted for kidney function.\n\nHigh serum calcium: incorrect. Foscarnet lowers, rather than raises, serum calcium.\n\nLow serum sodium: incorrect. Low sodium is not one of foscarnet's characteristic electrolyte effects.\n\nHigh serum glucose: incorrect. Foscarnet does not characteristically raise glucose; hyperglycemia was listed for peramivir.\n\nLow serum ionized calcium: correct. Foscarnet causes hypocalcemia, which produces perioral tingling and facial twitching.\n\nHigh serum phosphate: incorrect. Foscarnet lowers phosphate rather than raising it."
+   "explain": {
+    "html": "<p>Foscarnet inhibits the pyrophosphate binding site of viral DNA polymerase without needing thymidine kinase or UL97, which is why it is used for resistant herpesvirus and CMV infections. Its main adverse effects are nephrotoxicity, myelosuppression (especially anemia), and electrolyte losses: low calcium, potassium, phosphate, and magnesium.</p><p>Perioral and fingertip tingling with facial twitching are signs of low calcium. Patients on foscarnet need extra hydration and electrolyte correction, and the dose must be adjusted for kidney function.</p>",
+    "table": null,
+    "why": [
+     "Foscarnet lowers, rather than raises, serum calcium.",
+     "Low sodium is not one of foscarnet's characteristic electrolyte effects.",
+     "Foscarnet does not characteristically raise glucose; hyperglycemia was listed for peramivir.",
+     "",
+     "Foscarnet lowers phosphate rather than raising it."
+    ],
+    "takeaway": "Foscarnet causes nephrotoxicity and losses of calcium, potassium, phosphate, and magnesium; perioral tingling signals hypocalcemia.",
+    "topic": "Foscarnet: electrolyte adverse effects",
+    "subject": "Pharmacology"
+   },
+   "figures": []
   },
   {
    "id": "miid2-w06-lec34-q07",
@@ -115,7 +223,21 @@
    ],
    "answer": 1,
    "evidence": [],
-   "note": "**Cidofovir is nephrotoxic, so it is given with probenecid (reduces renal excretion and nephrotoxicity) and saline hydration.**\n\nThe antiviral is cidofovir, a nucleotide analog converted to cidofovir diphosphate that incorporates into viral DNA and reduces DNA synthesis. Its major adverse effects are nephrotoxicity and myelosuppression, with ocular hypotony and uveitis when given into the eye.\n\nProbenecid reduces renal excretion of cidofovir, which raises drug levels and lowers its nephrotoxicity, and generous hydration of more than 1 L before and during the infusion protects the kidneys further.\n\nBone marrow suppression: incorrect. Cidofovir can suppress the marrow, but probenecid and saline are given to protect the kidneys.\n\nNephrotoxicity: correct. Probenecid and saline hydration are given with cidofovir to reduce its nephrotoxicity.\n\nVisual hallucinations: incorrect. Visual hallucinations are a unique adverse effect of voriconazole.\n\nBronchospasm: incorrect. Bronchospasm is the unique adverse effect of inhaled zanamivir.\n\nProlonged QT interval: incorrect. QT prolongation is an azole adverse effect, not the reason for probenecid and saline with cidofovir."
+   "explain": {
+    "html": "<p>The antiviral is cidofovir, a nucleotide analog converted to cidofovir diphosphate that incorporates into viral DNA and reduces DNA synthesis. Its major adverse effects are nephrotoxicity and myelosuppression, with ocular hypotony and uveitis when given into the eye.</p><p>Probenecid reduces renal excretion of cidofovir, which raises drug levels and lowers its nephrotoxicity, and generous hydration of more than 1 L before and during the infusion protects the kidneys further.</p>",
+    "table": null,
+    "why": [
+     "Cidofovir can suppress the marrow, but probenecid and saline are given to protect the kidneys.",
+     "",
+     "Visual hallucinations are a unique adverse effect of voriconazole.",
+     "Bronchospasm is the unique adverse effect of inhaled zanamivir.",
+     "QT prolongation is an azole adverse effect, not the reason for probenecid and saline with cidofovir."
+    ],
+    "takeaway": "Cidofovir is nephrotoxic, so it is given with probenecid (reduces renal excretion and nephrotoxicity) and saline hydration.",
+    "topic": "Cidofovir: probenecid and hydration",
+    "subject": "Pharmacology"
+   },
+   "figures": []
   },
   {
    "id": "miid2-w06-lec34-q08",
@@ -131,7 +253,27 @@
    ],
    "answer": 0,
    "evidence": [],
-   "note": "**Letermovir blocks the CMV DNA terminase complex, is approved for prophylaxis, avoids marrow toxicity, and has many drug interactions.**\n\nThe drug is letermovir, which inhibits CMV replication by targeting the DNA terminase complex. Without terminase, viral DNA is not processed into genome-length units and packaged, and virion maturation fails. Because it does not act on DNA polymerase, it avoids the myelosuppression of ganciclovir, which matters while a stem cell graft engrafts.\n\nLetermovir is approved for CMV prophylaxis. Its adverse effects are gastrointestinal upset, peripheral edema, fatigue, cough, and headache, and it has many drug interactions, including with immunosuppressants, amiodarone, warfarin, phenytoin, voriconazole, statins, and rifampin.\n\nIt is used for prophylaxis and has many drug interactions: correct. Letermovir targets the CMV terminase complex, is approved for prophylaxis, and interacts with many drugs including immunosuppressants.\n\nIt is mainly used to treat recurrent herpes simplex genital ulcers: incorrect. Herpes simplex ulcers are treated with acyclovir, valacyclovir, or famciclovir, not letermovir.\n\nIt needs phosphorylation by the UL97 kinase to act: incorrect. Needing UL97 phosphorylation describes ganciclovir; letermovir works without it.\n\nIt is given by inhalation and can cause bronchospasm: incorrect. Inhaled delivery and bronchospasm describe zanamivir.\n\nIt is used with amphotericin for cryptococcal meningitis: incorrect. Flucytosine, not letermovir, is combined with amphotericin for cryptococcal meningitis."
+   "explain": {
+    "html": "<p>The drug is letermovir, which inhibits CMV replication by targeting the DNA terminase complex. Without terminase, viral DNA is not processed into genome-length units and packaged, and virion maturation fails. Because it does not act on DNA polymerase, it avoids the myelosuppression of ganciclovir, which matters while a stem cell graft engrafts.</p><p>Letermovir is approved for CMV prophylaxis. Its adverse effects are gastrointestinal upset, peripheral edema, fatigue, cough, and headache, and it has many drug interactions, including with immunosuppressants, amiodarone, warfarin, phenytoin, voriconazole, statins, and rifampin.</p>",
+    "table": null,
+    "why": [
+     "",
+     "Herpes simplex ulcers are treated with acyclovir, valacyclovir, or famciclovir, not letermovir.",
+     "Needing UL97 phosphorylation describes ganciclovir; letermovir works without it.",
+     "Inhaled delivery and bronchospasm describe zanamivir.",
+     "Flucytosine, not letermovir, is combined with amphotericin for cryptococcal meningitis."
+    ],
+    "takeaway": "Letermovir blocks the CMV DNA terminase complex, is approved for prophylaxis, avoids marrow toxicity, and has many drug interactions.",
+    "topic": "Letermovir: CMV prophylaxis and interactions",
+    "subject": "Pharmacology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w06-lec34/slide_27.jpg",
+     "slide": 27,
+     "caption": "Lecture 34 slides (2025-26) · Page 27"
+    }
+   ]
   },
   {
    "id": "miid2-w06-lec34-q09",
@@ -147,7 +289,27 @@
    ],
    "answer": 2,
    "evidence": [],
-   "note": "**Voriconazole treats aspergillosis, needs level monitoring because of nonlinear kinetics, and uniquely causes visual disturbances and hallucinations.**\n\nAmong the azoles, voriconazole is active against Candida and Aspergillus, has nonlinear pharmacokinetics, and is monitored by drug levels. Its unique adverse effect is visual disturbance, including visual hallucinations, in addition to the azole class effects of elevated liver enzymes, hepatitis, gastrointestinal upset, and QT prolongation.\n\nIsavuconazole is also used for Aspergillus, but its unique effect is QT shortening rather than prolongation. Fluconazole does not cover Aspergillus, and micafungin is an echinocandin used only as salvage therapy for Aspergillus.\n\nFluconazole: incorrect. Fluconazole covers Candida but not Aspergillus and is not known for visual hallucinations.\n\nIsavuconazole: incorrect. Isavuconazole covers Aspergillus, but its unique adverse effect is QT shortening.\n\nVoriconazole: correct. Voriconazole has nonlinear pharmacokinetics, treats aspergillosis, and causes visual disturbances and hallucinations.\n\nMicafungin: incorrect. Micafungin is an echinocandin whose adverse effects are raised liver enzymes and infusion reactions.\n\nFlucytosine: incorrect. Flucytosine is not an azole, does not treat Aspergillus, and mainly causes marrow suppression."
+   "explain": {
+    "html": "<p>Among the azoles, voriconazole is active against Candida and Aspergillus, has nonlinear pharmacokinetics, and is monitored by drug levels. Its unique adverse effect is visual disturbance, including visual hallucinations, in addition to the azole class effects of elevated liver enzymes, hepatitis, gastrointestinal upset, and QT prolongation.</p><p>Isavuconazole is also used for Aspergillus, but its unique effect is QT shortening rather than prolongation. Fluconazole does not cover Aspergillus, and micafungin is an echinocandin used only as salvage therapy for Aspergillus.</p>",
+    "table": null,
+    "why": [
+     "Fluconazole covers Candida but not Aspergillus and is not known for visual hallucinations.",
+     "Isavuconazole covers Aspergillus, but its unique adverse effect is QT shortening.",
+     "",
+     "Micafungin is an echinocandin whose adverse effects are raised liver enzymes and infusion reactions.",
+     "Flucytosine is not an azole, does not treat Aspergillus, and mainly causes marrow suppression."
+    ],
+    "takeaway": "Voriconazole treats aspergillosis, needs level monitoring because of nonlinear kinetics, and uniquely causes visual disturbances and hallucinations.",
+    "topic": "Voriconazole: unique adverse effect",
+    "subject": "Pharmacology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w06-lec34/slide_32.jpg",
+     "slide": 32,
+     "caption": "Lecture 34 slides (2025-26) · Page 32"
+    }
+   ]
   },
   {
    "id": "miid2-w06-lec34-q10",
@@ -163,7 +325,27 @@
    ],
    "answer": 4,
    "evidence": [],
-   "note": "**Echinocandins do not penetrate the urine or central nervous system and are cleared by the liver, so they are not used for urinary or CNS fungal infections.**\n\nMicafungin is an echinocandin. Echinocandins are given only intravenously and distribute widely to tissues, but they have no penetration into the central nervous system or the urine, and they are eliminated mostly by hepatic metabolism rather than by the kidney.\n\nThat is why a drug active against the isolate in the laboratory fails to clear a urinary Candida infection. An echinocandin is a poor choice for fungal infection of the urinary tract or the central nervous system.\n\nRapid renal clearance before it reaches the bladder wall: incorrect. Echinocandins are cleared mostly by the liver, not by the kidney, so little reaches the urine.\n\nBacterial contamination of the urine sample: incorrect. The culture grows Candida, and the problem is drug delivery, not contamination.\n\nInactivation of the drug by stomach acid: incorrect. Micafungin is given intravenously, so stomach acid does not affect it.\n\nResistance caused by thymidine kinase loss: incorrect. Thymidine kinase loss causes acyclovir resistance in herpes simplex, not echinocandin failure.\n\nPoor penetration into the urinary tract: correct. Echinocandins do not penetrate the urinary tract or the central nervous system, so they fail in urinary infections."
+   "explain": {
+    "html": "<p>Micafungin is an echinocandin. Echinocandins are given only intravenously and distribute widely to tissues, but they have no penetration into the central nervous system or the urine, and they are eliminated mostly by hepatic metabolism rather than by the kidney.</p><p>That is why a drug active against the isolate in the laboratory fails to clear a urinary Candida infection. An echinocandin is a poor choice for fungal infection of the urinary tract or the central nervous system.</p>",
+    "table": null,
+    "why": [
+     "Echinocandins are cleared mostly by the liver, not by the kidney, so little reaches the urine.",
+     "The culture grows Candida, and the problem is drug delivery, not contamination.",
+     "Micafungin is given intravenously, so stomach acid does not affect it.",
+     "Thymidine kinase loss causes acyclovir resistance in herpes simplex, not echinocandin failure.",
+     ""
+    ],
+    "takeaway": "Echinocandins do not penetrate the urine or central nervous system and are cleared by the liver, so they are not used for urinary or CNS fungal infections.",
+    "topic": "Echinocandins: no CNS or urinary penetration",
+    "subject": "Pharmacology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w06-lec34/slide_44.jpg",
+     "slide": 44,
+     "caption": "Lecture 34 slides (2025-26) · Page 44"
+    }
+   ]
   },
   {
    "id": "miid2-w06-lec34-q11",
@@ -179,7 +361,27 @@
    ],
    "answer": 0,
    "evidence": [],
-   "note": "**Amphotericin B causes dose-limiting nephrotoxicity (low GFR, RTA, potassium and magnesium wasting, anemia), reduced by liposomal formulations and saline loading.**\n\nAn antifungal that binds ergosterol in the fungal cell membrane is amphotericin B, a polyene. Its nephrotoxic effects are dose limiting: it decreases the glomerular filtration rate and causes renal tubular acidosis with potassium and magnesium wasting, and anemia can result from reduced renal production of erythropoietin. This patient shows every one of those findings.\n\nSaline infusion may reduce renal damage, and liposomal formulations of amphotericin B have reduced nephrotoxic effects. Pre-medication with diphenhydramine, acetaminophen or an NSAID, and hydrocortisone, with a slower infusion, addresses infusion reactions (fever, chills, rigors), not kidney injury.\n\nSwitching to a liposomal formulation and giving saline: correct. Liposomal amphotericin B and saline loading both lower amphotericin nephrotoxicity.\n\nAdding probenecid before each infusion to slow renal excretion: incorrect. Probenecid is given with cidofovir to reduce its nephrotoxicity, not with amphotericin.\n\nGiving the drug orally instead of intravenously: incorrect. Amphotericin B is given only intravenously.\n\nAdding flucytosine to lower the dose: incorrect. Flucytosine is paired with amphotericin for cryptococcal meningitis, not as a kidney-sparing strategy, and it adds marrow toxicity.\n\nPre-medicating with diphenhydramine: incorrect. Diphenhydramine pre-medication prevents infusion reactions such as chills and rigors, not kidney injury."
+   "explain": {
+    "html": "<p>An antifungal that binds ergosterol in the fungal cell membrane is amphotericin B, a polyene. Its nephrotoxic effects are dose limiting: it decreases the glomerular filtration rate and causes renal tubular acidosis with potassium and magnesium wasting, and anemia can result from reduced renal production of erythropoietin. This patient shows every one of those findings.</p><p>Saline infusion may reduce renal damage, and liposomal formulations of amphotericin B have reduced nephrotoxic effects. Pre-medication with diphenhydramine, acetaminophen or an NSAID, and hydrocortisone, with a slower infusion, addresses infusion reactions (fever, chills, rigors), not kidney injury.</p>",
+    "table": null,
+    "why": [
+     "",
+     "Probenecid is given with cidofovir to reduce its nephrotoxicity, not with amphotericin.",
+     "Amphotericin B is given only intravenously.",
+     "Flucytosine is paired with amphotericin for cryptococcal meningitis, not as a kidney-sparing strategy, and it adds marrow toxicity.",
+     "Diphenhydramine pre-medication prevents infusion reactions such as chills and rigors, not kidney injury."
+    ],
+    "takeaway": "Amphotericin B causes dose-limiting nephrotoxicity (low GFR, RTA, potassium and magnesium wasting, anemia), reduced by liposomal formulations and saline loading.",
+    "topic": "Amphotericin B: nephrotoxicity",
+    "subject": "Pharmacology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w06-lec34/slide_41.jpg",
+     "slide": 41,
+     "caption": "Lecture 34 slides (2025-26) · Page 41"
+    }
+   ]
   },
   {
    "id": "miid2-w06-lec34-q12",
@@ -195,7 +397,27 @@
    ],
    "answer": 2,
    "evidence": [],
-   "note": "**Acyclovir needs viral thymidine kinase for activation; TK-deficient herpes simplex is treated with foscarnet, which does not need TK.**\n\nAcyclovir, and valacyclovir, its prodrug, are guanosine analogs that are first phosphorylated by viral thymidine kinase (TK), then by human enzymes, to acyclovir triphosphate, which competes for viral DNA polymerase and terminates viral DNA synthesis. Resistance comes from viral mutants deficient in TK or with reduced affinity of the polymerase for acyclovir triphosphate.\n\nA TK-deficient virus cannot activate acyclovir or other drugs that depend on viral TK, such as famciclovir and penciclovir. Foscarnet inhibits the pyrophosphate binding site of viral DNA polymerase directly and does not require TK for activation, so it remains active.\n\nFamciclovir: incorrect. Famciclovir is converted to penciclovir, which also needs viral thymidine kinase, so the mutant resists it.\n\nGanciclovir: incorrect. Ganciclovir also depends on viral kinase phosphorylation and is the drug of choice for cytomegalovirus, not thymidine kinase-deficient herpes simplex.\n\nFoscarnet: correct. Foscarnet acts directly on viral DNA polymerase without needing thymidine kinase.\n\nPenciclovir cream: incorrect. Penciclovir needs viral thymidine kinase, and the cream is only for oral lesions.\n\nOseltamivir: incorrect. Oseltamivir inhibits influenza neuraminidase and has no activity against herpes simplex."
+   "explain": {
+    "html": "<p>Acyclovir, and valacyclovir, its prodrug, are guanosine analogs that are first phosphorylated by viral thymidine kinase (TK), then by human enzymes, to acyclovir triphosphate, which competes for viral DNA polymerase and terminates viral DNA synthesis. Resistance comes from viral mutants deficient in TK or with reduced affinity of the polymerase for acyclovir triphosphate.</p><p>A TK-deficient virus cannot activate acyclovir or other drugs that depend on viral TK, such as famciclovir and penciclovir. Foscarnet inhibits the pyrophosphate binding site of viral DNA polymerase directly and does not require TK for activation, so it remains active.</p>",
+    "table": null,
+    "why": [
+     "Famciclovir is converted to penciclovir, which also needs viral thymidine kinase, so the mutant resists it.",
+     "Ganciclovir also depends on viral kinase phosphorylation and is the drug of choice for cytomegalovirus, not thymidine kinase-deficient herpes simplex.",
+     "",
+     "Penciclovir needs viral thymidine kinase, and the cream is only for oral lesions.",
+     "Oseltamivir inhibits influenza neuraminidase and has no activity against herpes simplex."
+    ],
+    "takeaway": "Acyclovir needs viral thymidine kinase for activation; TK-deficient herpes simplex is treated with foscarnet, which does not need TK.",
+    "topic": "Acyclovir resistance: thymidine kinase and foscarnet",
+    "subject": "Pharmacology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w06-lec34/slide_16.jpg",
+     "slide": 16,
+     "caption": "Lecture 34 slides (2025-26) · Page 16"
+    }
+   ]
   },
   {
    "id": "miid2-w06-lec34-q13",
@@ -211,7 +433,27 @@
    ],
    "answer": 2,
    "evidence": [],
-   "note": "**CMV resistant to ganciclovir through a UL97 mutation remains sensitive to foscarnet and cidofovir, which do not need UL97 for activation.**\n\nGanciclovir must first be phosphorylated by the CMV kinase encoded by UL97. Resistance comes from mutations in UL97, or in UL54, which encodes the viral DNA polymerase. Valganciclovir is a prodrug of ganciclovir and shares the same resistance mechanisms, so a UL97 mutant resists both.\n\nDrugs that do not need UL97 remain active. Foscarnet inhibits the pyrophosphate binding site of viral DNA polymerase directly, and cidofovir is a nucleotide analog that needs only cellular enzymes to reach its active diphosphate form. With a normal polymerase gene, both should still work.\n\nValganciclovir: incorrect. Valganciclovir is converted to ganciclovir and shares its UL97 resistance.\n\nValacyclovir: incorrect. Valacyclovir is an acyclovir prodrug for herpes simplex and varicella zoster, and it also depends on viral kinase activation.\n\nFoscarnet: correct. Foscarnet acts directly on viral DNA polymerase and does not need UL97, so a UL97 mutant remains sensitive.\n\nFamciclovir: incorrect. Famciclovir is converted to penciclovir, which depends on viral kinase activation and is not a CMV drug.\n\nOseltamivir: incorrect. Oseltamivir targets influenza neuraminidase, not CMV."
+   "explain": {
+    "html": "<p>Ganciclovir must first be phosphorylated by the CMV kinase encoded by UL97. Resistance comes from mutations in UL97, or in UL54, which encodes the viral DNA polymerase. Valganciclovir is a prodrug of ganciclovir and shares the same resistance mechanisms, so a UL97 mutant resists both.</p><p>Drugs that do not need UL97 remain active. Foscarnet inhibits the pyrophosphate binding site of viral DNA polymerase directly, and cidofovir is a nucleotide analog that needs only cellular enzymes to reach its active diphosphate form. With a normal polymerase gene, both should still work.</p>",
+    "table": null,
+    "why": [
+     "Valganciclovir is converted to ganciclovir and shares its UL97 resistance.",
+     "Valacyclovir is an acyclovir prodrug for herpes simplex and varicella zoster, and it also depends on viral kinase activation.",
+     "",
+     "Famciclovir is converted to penciclovir, which depends on viral kinase activation and is not a CMV drug.",
+     "Oseltamivir targets influenza neuraminidase, not CMV."
+    ],
+    "takeaway": "CMV resistant to ganciclovir through a UL97 mutation remains sensitive to foscarnet and cidofovir, which do not need UL97 for activation.",
+    "topic": "CMV with UL97 mutation: drugs that bypass the viral kinase",
+    "subject": "Pharmacology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w06-lec34/slide_24.jpg",
+     "slide": 24,
+     "caption": "Lecture 34 slides (2025-26) · Page 24"
+    }
+   ]
   },
   {
    "id": "miid2-w06-lec34-q14",
@@ -227,7 +469,27 @@
    ],
    "answer": 1,
    "evidence": [],
-   "note": "**Azoles inhibit lanosterol 14-alpha demethylase and also inhibit CYP3A4, raising levels of substrates such as tacrolimus and warfarin.**\n\nInhibiting 14-alpha demethylation of lanosterol blocks ergosterol synthesis and disrupts the fungal cell membrane: this is the mechanism of the azoles. For aspergillosis the azole is voriconazole (also posaconazole or isavuconazole).\n\nAzoles are inhibitors of cytochrome P450 3A4 (CYP3A4), so they raise levels of drugs that are CYP3A4 substrates, such as immunosuppressants, warfarin, phenytoin, and direct oral anticoagulants. Here, the azole slowed tacrolimus metabolism, and the high tacrolimus level caused tremor and kidney injury. Azole starts in transplant patients require a check for drug interactions.\n\nThe antifungal binds ergosterol and damages the renal tubules: incorrect. Binding ergosterol is the mechanism of amphotericin B, a polyene, not of the azoles, and it does not change tacrolimus levels.\n\nThe antifungal inhibits the enzyme that metabolizes tacrolimus: correct. Azoles inhibit CYP3A4, the enzyme that metabolizes tacrolimus, so its levels rise.\n\nThe antifungal displaces tacrolimus from albumin binding sites in blood: incorrect. Protein-binding displacement is not the mechanism of this azole interaction.\n\nThe antifungal induces the enzyme that clears tacrolimus: incorrect. Azoles inhibit, rather than induce, CYP3A4; induction would lower tacrolimus levels.\n\nAspergillus infection directly blocks tacrolimus excretion: incorrect. The infection itself does not block tacrolimus excretion; the drug interaction explains the change."
+   "explain": {
+    "html": "<p>Inhibiting 14-alpha demethylation of lanosterol blocks ergosterol synthesis and disrupts the fungal cell membrane: this is the mechanism of the azoles. For aspergillosis the azole is voriconazole (also posaconazole or isavuconazole).</p><p>Azoles are inhibitors of cytochrome P450 3A4 (CYP3A4), so they raise levels of drugs that are CYP3A4 substrates, such as immunosuppressants, warfarin, phenytoin, and direct oral anticoagulants. Here, the azole slowed tacrolimus metabolism, and the high tacrolimus level caused tremor and kidney injury. Azole starts in transplant patients require a check for drug interactions.</p>",
+    "table": null,
+    "why": [
+     "Binding ergosterol is the mechanism of amphotericin B, a polyene, not of the azoles, and it does not change tacrolimus levels.",
+     "",
+     "Protein-binding displacement is not the mechanism of this azole interaction.",
+     "Azoles inhibit, rather than induce, CYP3A4; induction would lower tacrolimus levels.",
+     "The infection itself does not block tacrolimus excretion; the drug interaction explains the change."
+    ],
+    "takeaway": "Azoles inhibit lanosterol 14-alpha demethylase and also inhibit CYP3A4, raising levels of substrates such as tacrolimus and warfarin.",
+    "topic": "Azoles: CYP3A4 inhibition",
+    "subject": "Pharmacology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w06-lec34/slide_30.jpg",
+     "slide": 30,
+     "caption": "Lecture 34 slides (2025-26) · Page 30"
+    }
+   ]
   },
   {
    "id": "miid2-w06-lec34-q15",
@@ -243,7 +505,27 @@
    ],
    "answer": 0,
    "evidence": [],
-   "note": "**Fluconazole does not reliably cover Candida glabrata or auris; echinocandins, which inhibit beta-1,3-glucan synthesis, treat invasive candidiasis caused by them.**\n\nFluconazole covers most Candida species, but Candida glabrata (and Candida auris) are spectrum exceptions, which explains the persistent candidemia. Echinocandins (micafungin, caspofungin, anidulafungin, rezafungin) are active against Candida including glabrata and are used for invasive candidiasis.\n\nEchinocandins inhibit the synthesis of beta-1,3-glucan, a critical component of the fungal cell wall. They are given intravenously, distribute widely, and are cleared by the liver, with raised liver enzymes and infusion reactions as adverse effects.\n\nEchinocandin; inhibits beta-1,3-glucan synthase in the cell wall: correct. Echinocandins inhibit beta-1,3-glucan synthase in the fungal cell wall and are active against Candida glabrata.\n\nPolyene; inhibits 14-alpha demethylation of lanosterol: incorrect. Polyenes bind ergosterol; inhibiting lanosterol demethylation is the azole mechanism.\n\nNeuraminidase inhibitor; prevents release from infected cells: incorrect. Neuraminidase inhibitors are influenza antivirals and have no antifungal activity.\n\nAntimetabolite; used alone as monotherapy for yeasts: incorrect. Flucytosine is an antimetabolite that is avoided as monotherapy for any fungus.\n\nHigher-dose fluconazole; binds ergosterol to form membrane pores: incorrect. Fluconazole fails against Candida glabrata, and binding ergosterol describes amphotericin B, not azoles."
+   "explain": {
+    "html": "<p>Fluconazole covers most Candida species, but Candida glabrata (and Candida auris) are spectrum exceptions, which explains the persistent candidemia. Echinocandins (micafungin, caspofungin, anidulafungin, rezafungin) are active against Candida including glabrata and are used for invasive candidiasis.</p><p>Echinocandins inhibit the synthesis of beta-1,3-glucan, a critical component of the fungal cell wall. They are given intravenously, distribute widely, and are cleared by the liver, with raised liver enzymes and infusion reactions as adverse effects.</p>",
+    "table": null,
+    "why": [
+     "",
+     "Polyenes bind ergosterol; inhibiting lanosterol demethylation is the azole mechanism.",
+     "Neuraminidase inhibitors are influenza antivirals and have no antifungal activity.",
+     "Flucytosine is an antimetabolite that is avoided as monotherapy for any fungus.",
+     "Fluconazole fails against Candida glabrata, and binding ergosterol describes amphotericin B, not azoles."
+    ],
+    "takeaway": "Fluconazole does not reliably cover Candida glabrata or auris; echinocandins, which inhibit beta-1,3-glucan synthesis, treat invasive candidiasis caused by them.",
+    "topic": "Candidemia with C. glabrata: echinocandin",
+    "subject": "Pharmacology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w06-lec34/slide_34.jpg",
+     "slide": 34,
+     "caption": "Lecture 34 slides (2025-26) · Page 34"
+    }
+   ]
   },
   {
    "id": "miid2-w06-lec34-q16",
@@ -259,7 +541,21 @@
    ],
    "answer": 3,
    "evidence": [],
-   "note": "**Cryptococcal meningitis is treated with amphotericin B plus flucytosine, an antimetabolite avoided as monotherapy that causes marrow suppression.**\n\nEncapsulated budding yeast in the spinal fluid of an immunocompromised patient is cryptococcal meningitis, which is treated with amphotericin B combined with flucytosine (5-FC). Flucytosine is an antimetabolite active against Candida and Cryptococcus. It is the one antifungal that does not target the fungal membrane or cell wall.\n\nFlucytosine is typically avoided as monotherapy for any fungus. Its adverse effects include gastrointestinal upset, leukopenia and thrombocytopenia, hepatotoxicity, aplastic anemia, and photosensitivity, and its marrow toxicity is worse when combined with zidovudine or ganciclovir.\n\nIt is an echinocandin that reaches the spinal fluid well: incorrect. Echinocandins do not penetrate the central nervous system, and the second drug here is an antimetabolite.\n\nIt inhibits lanosterol demethylation and causes visual hallucinations: incorrect. Lanosterol demethylase inhibition with visual hallucinations describes voriconazole.\n\nIt inhibits the viral DNA terminase complex: incorrect. Terminase inhibition is the mechanism of the CMV drug letermovir.\n\nIt is avoided as monotherapy and can suppress the bone marrow: correct. Flucytosine is used with amphotericin for cryptococcal meningitis, avoided alone, and causes leukopenia and thrombocytopenia.\n\nIt binds ergosterol and causes potassium wasting: incorrect. Binding ergosterol with potassium wasting describes amphotericin B, the first drug, not the second."
+   "explain": {
+    "html": "<p>Encapsulated budding yeast in the spinal fluid of an immunocompromised patient is cryptococcal meningitis, which is treated with amphotericin B combined with flucytosine (5-FC). Flucytosine is an antimetabolite active against Candida and Cryptococcus. It is the one antifungal that does not target the fungal membrane or cell wall.</p><p>Flucytosine is typically avoided as monotherapy for any fungus. Its adverse effects include gastrointestinal upset, leukopenia and thrombocytopenia, hepatotoxicity, aplastic anemia, and photosensitivity, and its marrow toxicity is worse when combined with zidovudine or ganciclovir.</p>",
+    "table": null,
+    "why": [
+     "Echinocandins do not penetrate the central nervous system, and the second drug here is an antimetabolite.",
+     "Lanosterol demethylase inhibition with visual hallucinations describes voriconazole.",
+     "Terminase inhibition is the mechanism of the CMV drug letermovir.",
+     "",
+     "Binding ergosterol with potassium wasting describes amphotericin B, the first drug, not the second."
+    ],
+    "takeaway": "Cryptococcal meningitis is treated with amphotericin B plus flucytosine, an antimetabolite avoided as monotherapy that causes marrow suppression.",
+    "topic": "Cryptococcal meningitis: amphotericin plus flucytosine",
+    "subject": "Pharmacology"
+   },
+   "figures": []
   }
  ]
 }

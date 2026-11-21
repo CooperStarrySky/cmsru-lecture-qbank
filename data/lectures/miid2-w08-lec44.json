@@ -19,7 +19,21 @@
    ],
    "answer": 4,
    "evidence": [],
-   "note": "**Bacillus cereus spores survive cooking of rice; held rice develops a heat-stable emetic toxin that causes vomiting 1 to 6 hours after eating.**\n\nVomiting 1 to 6 hours after eating rice that was cooked, held, then briefly stir-fried is the **emetic syndrome of Bacillus cereus**, a gram-positive, spore-forming rod common in the environment and on grains.\n\nThe spores **survive the first cooking**. If the rice is held without refrigeration, they germinate into bacteria that make the **heat-stable emetic toxin**, and stir-frying does not destroy it. B. cereus also has a diarrheal form, 8 to 16 hours after viable spores are eaten and make toxin in the intestine.\n\nGram-negative rod producing Shiga-like toxin: incorrect. Shiga-like toxin describes EHEC, which causes bloody diarrhea days later.\n\nGram-negative curved rod that grows best at 42 C: incorrect. A curved rod that grows at 42 C is Campylobacter, which causes later-onset diarrhea.\n\nGram-positive coccus in clusters from a food handler's skin: incorrect. Staph aureus causes a similar syndrome, but the fried-rice holding story points to B. cereus.\n\nAnaerobic gram-positive rod whose toxin blocks acetylcholine release: incorrect. Neurotoxin blocking acetylcholine release describes Clostridium botulinum.\n\nGram-positive spore-forming rod with a heat-stable emetic toxin: correct. B. cereus is a spore-forming gram-positive rod with a heat-stable emetic toxin."
+   "explain": {
+    "html": "<p>Vomiting 1 to 6 hours after eating rice that was cooked, held, then briefly stir-fried is the <b>emetic syndrome of Bacillus cereus</b>, a gram-positive, spore-forming rod common in the environment and on grains.</p><p>The spores <b>survive the first cooking</b>. If the rice is held without refrigeration, they germinate into bacteria that make the <b>heat-stable emetic toxin</b>, and stir-frying does not destroy it. B. cereus also has a diarrheal form, 8 to 16 hours after viable spores are eaten and make toxin in the intestine.</p>",
+    "table": null,
+    "why": [
+     "Shiga-like toxin describes EHEC, which causes bloody diarrhea days later.",
+     "A curved rod that grows at 42 C is Campylobacter, which causes later-onset diarrhea.",
+     "Staph aureus causes a similar syndrome, but the fried-rice holding story points to B. cereus.",
+     "Neurotoxin blocking acetylcholine release describes Clostridium botulinum.",
+     ""
+    ],
+    "takeaway": "Bacillus cereus spores survive cooking of rice; held rice develops a heat-stable emetic toxin that causes vomiting 1 to 6 hours after eating.",
+    "topic": "Bacillus cereus emetic syndrome",
+    "subject": "Microbiology"
+   },
+   "figures": []
   },
   {
    "id": "miid2-w08-lec44-q02",
@@ -35,7 +49,21 @@
    ],
    "answer": 2,
    "evidence": [],
-   "note": "**Clostridium perfringens causes afebrile watery diarrhea 8 to 16 hours after large-batch meats and gravies cooled slowly.**\n\nWatery diarrhea 8 to 16 hours after a large-batch meat and gravy meal served at a cafeteria, prison or banquet is the signature of **Clostridium perfringens**, a spore-forming gram-positive rod. Spores survive cooking and germinate in slowly cooled meats and gravies, and the ingested **enterotoxin** causes diarrhea.\n\nThe incubation is longer than Staph aureus (3 to 4 hours, vomiting), and the illness is brief and afebrile, unlike invasive pathogens. A distinct type C toxin causes the severe, possibly bloody syndrome called pigbel.\n\nStaphylococcus aureus: incorrect. Staph aureus causes vomiting within 3 to 4 hours, not diarrhea at 8 to 16 hours.\n\nSalmonella enterica serovar Typhi: incorrect. Typhoid has a 5 to 21 day incubation with fever.\n\nClostridium perfringens: correct. C. perfringens enterotoxin causes diarrhea 8 to 16 hours after large-batch meat and gravy.\n\nVibrio cholerae: incorrect. Cholera comes from contaminated water and causes massive watery diarrhea.\n\nListeria monocytogenes: incorrect. Listeria is linked to deli meats and cheese, with invasive disease in high-risk hosts."
+   "explain": {
+    "html": "<p>Watery diarrhea 8 to 16 hours after a large-batch meat and gravy meal served at a cafeteria, prison or banquet is the signature of <b>Clostridium perfringens</b>, a spore-forming gram-positive rod. Spores survive cooking and germinate in slowly cooled meats and gravies, and the ingested <b>enterotoxin</b> causes diarrhea.</p><p>The incubation is longer than Staph aureus (3 to 4 hours, vomiting), and the illness is brief and afebrile, unlike invasive pathogens. A distinct type C toxin causes the severe, possibly bloody syndrome called pigbel.</p>",
+    "table": null,
+    "why": [
+     "Staph aureus causes vomiting within 3 to 4 hours, not diarrhea at 8 to 16 hours.",
+     "Typhoid has a 5 to 21 day incubation with fever.",
+     "",
+     "Cholera comes from contaminated water and causes massive watery diarrhea.",
+     "Listeria is linked to deli meats and cheese, with invasive disease in high-risk hosts."
+    ],
+    "takeaway": "Clostridium perfringens causes afebrile watery diarrhea 8 to 16 hours after large-batch meats and gravies cooled slowly.",
+    "topic": "Clostridium perfringens",
+    "subject": "Microbiology"
+   },
+   "figures": []
   },
   {
    "id": "miid2-w08-lec44-q03",
@@ -51,7 +79,21 @@
    ],
    "answer": 2,
    "evidence": [],
-   "note": "**In uncomplicated nontyphoidal Salmonella, antibiotics may prolong carriage, and food handlers and health care workers return only after a negative stool culture.**\n\nNontyphoidal **Salmonella** gastroenteritis in a healthy adult is managed supportively. Antibiotics are usually not necessary for GI illness except in the very young, the very old and the immunocompromised, and they **may lengthen the period of carriage**, which matters most for food handlers and health care workers.\n\nFor that reason, **food handlers and health care workers cannot return to work until a stool culture is negative**. Prevention otherwise relies on proper food preparation and storage.\n\nReturn to work now, since symptoms have resolved: incorrect. Resolution of symptoms does not mean he has stopped shedding the organism.\n\nTake ciprofloxacin to shorten carriage, then return: incorrect. Antibiotics may prolong carriage, not shorten it, in uncomplicated Salmonella.\n\nReturn once a stool culture is negative: correct. Food handlers return only after a negative stool culture.\n\nReturn after 1 dose of the oral typhoid vaccine: incorrect. The typhoid vaccine does not clear an existing nontyphoidal Salmonella infection.\n\nReturn after 12 months of negative cultures: incorrect. Twelve months of positive cultures defines chronic typhoid carriage, not a return-to-work rule."
+   "explain": {
+    "html": "<p>Nontyphoidal <b>Salmonella</b> gastroenteritis in a healthy adult is managed supportively. Antibiotics are usually not necessary for GI illness except in the very young, the very old and the immunocompromised, and they <b>may lengthen the period of carriage</b>, which matters most for food handlers and health care workers.</p><p>For that reason, <b>food handlers and health care workers cannot return to work until a stool culture is negative</b>. Prevention otherwise relies on proper food preparation and storage.</p>",
+    "table": null,
+    "why": [
+     "Resolution of symptoms does not mean he has stopped shedding the organism.",
+     "Antibiotics may prolong carriage, not shorten it, in uncomplicated Salmonella.",
+     "",
+     "The typhoid vaccine does not clear an existing nontyphoidal Salmonella infection.",
+     "Twelve months of positive cultures defines chronic typhoid carriage, not a return-to-work rule."
+    ],
+    "takeaway": "In uncomplicated nontyphoidal Salmonella, antibiotics may prolong carriage, and food handlers and health care workers return only after a negative stool culture.",
+    "topic": "Salmonella and food handlers",
+    "subject": "Microbiology"
+   },
+   "figures": []
   },
   {
    "id": "miid2-w08-lec44-q04",
@@ -67,7 +109,21 @@
    ],
    "answer": 4,
    "evidence": [],
-   "note": "**Typhoid fever (S. typhi: rising fever, relative bradycardia, rose spots) is diagnosed by blood cultures and treated with antibiotics such as ceftriaxone.**\n\nA gradually climbing fever with **relative bradycardia**, abdominal pain, **rose spots** and splenomegaly after travel to an area with poor sanitation is **typhoid fever**, caused by **Salmonella typhi**, a human-only pathogen with a 5 to 21 day incubation. By the third week it can cause intestinal bleeding, perforation and sepsis.\n\nTyphoid is diagnosed by **blood cultures**. Unlike nontyphoidal Salmonella, it is **treated with antibiotics** (ceftriaxone, with susceptibility checks in travelers), and a vaccine is available.\n\nRepeat stool culture on a selective medium: incorrect. Stool culture is the test for Salmonella enterocolitis; typhoid is a bloodstream illness.\n\nModified acid-fast stain of stool: incorrect. Modified acid-fast stain detects Cryptosporidium and Cyclospora.\n\nStool assay for Shiga toxin: incorrect. Shiga toxin assays are for EHEC.\n\nSerum IgM for hepatitis A: incorrect. Hepatitis A causes jaundice and very high liver enzymes, not rose spots.\n\nBlood cultures: correct. Blood cultures diagnose typhoid fever."
+   "explain": {
+    "html": "<p>A gradually climbing fever with <b>relative bradycardia</b>, abdominal pain, <b>rose spots</b> and splenomegaly after travel to an area with poor sanitation is <b>typhoid fever</b>, caused by <b>Salmonella typhi</b>, a human-only pathogen with a 5 to 21 day incubation. By the third week it can cause intestinal bleeding, perforation and sepsis.</p><p>Typhoid is diagnosed by <b>blood cultures</b>. Unlike nontyphoidal Salmonella, it is <b>treated with antibiotics</b> (ceftriaxone, with susceptibility checks in travelers), and a vaccine is available.</p>",
+    "table": null,
+    "why": [
+     "Stool culture is the test for Salmonella enterocolitis; typhoid is a bloodstream illness.",
+     "Modified acid-fast stain detects Cryptosporidium and Cyclospora.",
+     "Shiga toxin assays are for EHEC.",
+     "Hepatitis A causes jaundice and very high liver enzymes, not rose spots.",
+     ""
+    ],
+    "takeaway": "Typhoid fever (S. typhi: rising fever, relative bradycardia, rose spots) is diagnosed by blood cultures and treated with antibiotics such as ceftriaxone.",
+    "topic": "Typhoid fever",
+    "subject": "Microbiology"
+   },
+   "figures": []
   },
   {
    "id": "miid2-w08-lec44-q05",
@@ -83,7 +139,21 @@
    ],
    "answer": 2,
    "evidence": [],
-   "note": "**Shigella has a human reservoir and a very low infectious dose (about 10 organisms), so it spreads person to person (daycares) and causes invasive dysentery.**\n\nDysentery (fever, tenesmus, bloody mucoid stools) spreading person to person in a **daycare** is classic **Shigella sonnei**. Humans are the usual reservoir, and spread is by direct or indirect contact with feces, or through food or water contaminated by a food handler.\n\nIts **infectious dose is very low** (about 10 organisms), so small lapses in hygiene are enough. The bacteria invade the bowel wall, causing more severe illness than many food-associated pathogens. Shiga toxin was first isolated from Shigella. Diagnosis is by stool culture.\n\nSpores that resist hand sanitizer: incorrect. Shigella is not a spore former.\n\nLarge reservoir in poultry and wild birds that contaminates food: incorrect. Poultry and wild birds are reservoirs for Campylobacter and Salmonella.\n\nVery low infectious dose with a human reservoir: correct. A tiny infectious dose and human reservoir let Shigella spread easily.\n\nGrowth at refrigerator temperatures: incorrect. Cold tolerance describes Listeria.\n\nPreformed toxin in shared food: incorrect. No shared food was involved, and Shigella invades rather than acting through preformed toxin."
+   "explain": {
+    "html": "<p>Dysentery (fever, tenesmus, bloody mucoid stools) spreading person to person in a <b>daycare</b> is classic <b>Shigella sonnei</b>. Humans are the usual reservoir, and spread is by direct or indirect contact with feces, or through food or water contaminated by a food handler.</p><p>Its <b>infectious dose is very low</b> (about 10 organisms), so small lapses in hygiene are enough. The bacteria invade the bowel wall, causing more severe illness than many food-associated pathogens. Shiga toxin was first isolated from Shigella. Diagnosis is by stool culture.</p>",
+    "table": null,
+    "why": [
+     "Shigella is not a spore former.",
+     "Poultry and wild birds are reservoirs for Campylobacter and Salmonella.",
+     "",
+     "Cold tolerance describes Listeria.",
+     "No shared food was involved, and Shigella invades rather than acting through preformed toxin."
+    ],
+    "takeaway": "Shigella has a human reservoir and a very low infectious dose (about 10 organisms), so it spreads person to person (daycares) and causes invasive dysentery.",
+    "topic": "Shigella",
+    "subject": "Microbiology"
+   },
+   "figures": []
   },
   {
    "id": "miid2-w08-lec44-q06",
@@ -99,7 +169,21 @@
    ],
    "answer": 1,
    "evidence": [],
-   "note": "**Cholera toxin acts on adenylate cyclase to cause massive secretory diarrhea, and oral rehydration with salt, sugar and water is the mainstay of treatment.**\n\nMassive, nonbloody watery diarrhea causing dehydration, acidosis and shock after drinking contaminated water is **cholera**, caused by **Vibrio cholerae** (serogroups O1 and O139 cause outbreaks). Its enterotoxin interferes with **adenylate cyclase** in mucosal cells, driving large-volume secretion without inflammation.\n\nThe bowel wall is not damaged, so it can still absorb salt and water when glucose is present. **Oral rehydration solution** (salt, sugar and water) is a very effective treatment and is the mainstay.\n\nAntitoxin: incorrect. Antitoxin is used for botulism.\n\nOral rehydration with salt, sugar and water: correct. Oral rehydration is the mainstay of cholera treatment.\n\nIntravenous ceftriaxone: incorrect. Ceftriaxone is used for typhoid fever.\n\nAn antimotility agent given alone to slow the stool output: incorrect. Stopping motility does not replace the liters of fluid lost.\n\nAmpicillin: incorrect. Ampicillin is used for invasive Listeria."
+   "explain": {
+    "html": "<p>Massive, nonbloody watery diarrhea causing dehydration, acidosis and shock after drinking contaminated water is <b>cholera</b>, caused by <b>Vibrio cholerae</b> (serogroups O1 and O139 cause outbreaks). Its enterotoxin interferes with <b>adenylate cyclase</b> in mucosal cells, driving large-volume secretion without inflammation.</p><p>The bowel wall is not damaged, so it can still absorb salt and water when glucose is present. <b>Oral rehydration solution</b> (salt, sugar and water) is a very effective treatment and is the mainstay.</p>",
+    "table": null,
+    "why": [
+     "Antitoxin is used for botulism.",
+     "",
+     "Ceftriaxone is used for typhoid fever.",
+     "Stopping motility does not replace the liters of fluid lost.",
+     "Ampicillin is used for invasive Listeria."
+    ],
+    "takeaway": "Cholera toxin acts on adenylate cyclase to cause massive secretory diarrhea, and oral rehydration with salt, sugar and water is the mainstay of treatment.",
+    "topic": "Cholera",
+    "subject": "Microbiology"
+   },
+   "figures": []
   },
   {
    "id": "miid2-w08-lec44-q07",
@@ -115,7 +199,21 @@
    ],
    "answer": 3,
    "evidence": [],
-   "note": "**Norovirus (calicivirus, 12 to 72 hour incubation, 24 to 48 hour illness) is highly infectious and keeps spreading through contaminated surfaces in cruise ships and hospitals.**\n\nExplosive vomiting and diarrhea lasting 24 to 48 hours after a 12 to 72 hour incubation, with huge outbreaks on cruise ships and in hospitals, is **norovirus**, a calicivirus (formerly Norwalk-like virus). It probably causes the largest number of foodborne cases.\n\nNorovirus is **highly infectious**, and **surface contamination** keeps it spreading person to person after the original food is gone. Molecular testing of stool can detect it.\n\nChronic carriers among the crew shed bacteria from the gallbladder: incorrect. Gallbladder carriage describes S. typhi.\n\nSpores germinated in food held at room temperature: incorrect. Spore germination in held food explains B. cereus or C. perfringens, which do not keep spreading person to person.\n\nA heat-stable toxin persisted in reheated food: incorrect. A preformed toxin causes illness only in those who ate the food.\n\nContaminated surfaces spread a highly infectious virus: correct. Highly infectious norovirus spreads on contaminated surfaces.\n\nMosquitoes on board transmitted the virus: incorrect. Norovirus is not mosquito-borne."
+   "explain": {
+    "html": "<p>Explosive vomiting and diarrhea lasting 24 to 48 hours after a 12 to 72 hour incubation, with huge outbreaks on cruise ships and in hospitals, is <b>norovirus</b>, a calicivirus (formerly Norwalk-like virus). It probably causes the largest number of foodborne cases.</p><p>Norovirus is <b>highly infectious</b>, and <b>surface contamination</b> keeps it spreading person to person after the original food is gone. Molecular testing of stool can detect it.</p>",
+    "table": null,
+    "why": [
+     "Gallbladder carriage describes S. typhi.",
+     "Spore germination in held food explains B. cereus or C. perfringens, which do not keep spreading person to person.",
+     "A preformed toxin causes illness only in those who ate the food.",
+     "",
+     "Norovirus is not mosquito-borne."
+    ],
+    "takeaway": "Norovirus (calicivirus, 12 to 72 hour incubation, 24 to 48 hour illness) is highly infectious and keeps spreading through contaminated surfaces in cruise ships and hospitals.",
+    "topic": "Norovirus",
+    "subject": "Microbiology"
+   },
+   "figures": []
   },
   {
    "id": "miid2-w08-lec44-q08",
@@ -131,7 +229,21 @@
    ],
    "answer": 4,
    "evidence": [],
-   "note": "**Yersinia enterocolitica (cold climates, pork and chitterlings) causes fever with mesenteric adenitis that mimics appendicitis.**\n\nFever and right lower quadrant pain that mimic appendicitis, with **large mesenteric lymph nodes** and a normal appendix, after eating pork intestines (chitterlings) in a cold climate, is **Yersinia enterocolitica**, a gram-negative rod.\n\nSymptoms start 16 to 48 hours after ingestion. Diarrhea is more common in younger children and may be absent in older children and adults, which is why it can look like appendicitis. Diagnosis is by stool culture.\n\nBacillus cereus: incorrect. B. cereus causes vomiting or diarrhea from toxin, without fever and node enlargement.\n\nShigella sonnei: incorrect. Shigella causes dysentery with tenesmus and bloody stools, not pseudoappendicitis.\n\nVibrio cholerae: incorrect. Cholera causes massive watery diarrhea without localized pain.\n\nEnterotoxigenic E. coli: incorrect. ETEC causes watery traveler's diarrhea.\n\nYersinia enterocolitica: correct. Y. enterocolitica causes mesenteric adenitis that mimics appendicitis after pork products."
+   "explain": {
+    "html": "<p>Fever and right lower quadrant pain that mimic appendicitis, with <b>large mesenteric lymph nodes</b> and a normal appendix, after eating pork intestines (chitterlings) in a cold climate, is <b>Yersinia enterocolitica</b>, a gram-negative rod.</p><p>Symptoms start 16 to 48 hours after ingestion. Diarrhea is more common in younger children and may be absent in older children and adults, which is why it can look like appendicitis. Diagnosis is by stool culture.</p>",
+    "table": null,
+    "why": [
+     "B. cereus causes vomiting or diarrhea from toxin, without fever and node enlargement.",
+     "Shigella causes dysentery with tenesmus and bloody stools, not pseudoappendicitis.",
+     "Cholera causes massive watery diarrhea without localized pain.",
+     "ETEC causes watery traveler's diarrhea.",
+     ""
+    ],
+    "takeaway": "Yersinia enterocolitica (cold climates, pork and chitterlings) causes fever with mesenteric adenitis that mimics appendicitis.",
+    "topic": "Yersinia enterocolitica",
+    "subject": "Microbiology"
+   },
+   "figures": []
   },
   {
    "id": "miid2-w08-lec44-q09",
@@ -147,7 +259,21 @@
    ],
    "answer": 0,
    "evidence": [],
-   "note": "**Scombroid is histamine fish poisoning from bacterial breakdown of histidine in poorly refrigerated fish, causing flushing, mouth burning and headache within minutes.**\n\nFlushing, mouth burning, headache and dizziness within minutes of eating poorly refrigerated fish, in more than one diner and without allergy, is **scombroid** (histamine fish poisoning). Marine bacteria in fish flesh convert histidine to histamine when the fish is not kept cold, producing a histamine reaction.\n\nOther seafood toxins look different: **ciguatera** (dinoflagellate toxins) gives GI symptoms then numbness and paresthesias of the lips, tongue and throat, and **saxitoxin** from bivalve mollusks causes paralytic, neurotoxic or amnesic shellfish poisoning.\n\nHistamine formed by bacteria acting on fish histidine: correct. Scombroid is histamine produced by bacteria from histidine in poorly chilled fish.\n\nDinoflagellate toxin accumulated in reef fish: incorrect. Ciguatera causes GI symptoms followed by perioral numbness and paresthesias.\n\nSaxitoxin concentrated in bivalve mollusks: incorrect. Saxitoxin causes shellfish poisoning with paralysis or neurotoxicity.\n\nPreformed staphylococcal enterotoxin introduced into the fish by a handler: incorrect. Staph enterotoxin causes vomiting after hours, not flushing in minutes.\n\nIgE-mediated allergy to fish protein: incorrect. Two diners with no allergy history fit a toxin, not an individual allergy."
+   "explain": {
+    "html": "<p>Flushing, mouth burning, headache and dizziness within minutes of eating poorly refrigerated fish, in more than one diner and without allergy, is <b>scombroid</b> (histamine fish poisoning). Marine bacteria in fish flesh convert histidine to histamine when the fish is not kept cold, producing a histamine reaction.</p><p>Other seafood toxins look different: <b>ciguatera</b> (dinoflagellate toxins) gives GI symptoms then numbness and paresthesias of the lips, tongue and throat, and <b>saxitoxin</b> from bivalve mollusks causes paralytic, neurotoxic or amnesic shellfish poisoning.</p>",
+    "table": null,
+    "why": [
+     "",
+     "Ciguatera causes GI symptoms followed by perioral numbness and paresthesias.",
+     "Saxitoxin causes shellfish poisoning with paralysis or neurotoxicity.",
+     "Staph enterotoxin causes vomiting after hours, not flushing in minutes.",
+     "Two diners with no allergy history fit a toxin, not an individual allergy."
+    ],
+    "takeaway": "Scombroid is histamine fish poisoning from bacterial breakdown of histidine in poorly refrigerated fish, causing flushing, mouth burning and headache within minutes.",
+    "topic": "Scombroid and ciguatera",
+    "subject": "Microbiology"
+   },
+   "figures": []
   },
   {
    "id": "miid2-w08-lec44-q10",
@@ -163,7 +289,21 @@
    ],
    "answer": 3,
    "evidence": [],
-   "note": "**Staph aureus food poisoning causes vomiting 3 to 4 hours after a contaminated high-protein food; its preformed enterotoxin is heat stable, so reheating does not help.**\n\nVomiting within a few hours of eating, no fever, resolution within 24 hours, a creamy egg and mayonnaise dish left at room temperature, and a food handler with a skin infection point to **Staphylococcus aureus** food poisoning. The **short incubation** means a **preformed toxin** was eaten, rather than bacteria that had to replicate in the gut.\n\nS. aureus enterotoxins are **heat stable** and resist stomach acid and enzymes. Once the toxin has formed in the food, heating will not destroy it, even if it kills the bacteria. The diagnosis is confirmed by detecting toxin in the food.\n\nSpores that germinate only after the food cools: incorrect. Spore germination describes Bacillus cereus and Clostridium species, which are not linked to an infected food handler.\n\nA non-enveloped virus that resists drying on surfaces: incorrect. A hardy non-enveloped virus describes norovirus, with a 12 to 72 hour incubation.\n\nAn organism that multiplies at refrigerator temperatures: incorrect. Growth in the cold is a feature of Listeria.\n\nA toxin that resists heat once it has formed: correct. S. aureus enterotoxin is heat stable once formed.\n\nCysts that are resistant to chlorine in the water: incorrect. Chlorine-resistant cysts or oocysts describe Cryptosporidium in water."
+   "explain": {
+    "html": "<p>Vomiting within a few hours of eating, no fever, resolution within 24 hours, a creamy egg and mayonnaise dish left at room temperature, and a food handler with a skin infection point to <b>Staphylococcus aureus</b> food poisoning. The <b>short incubation</b> means a <b>preformed toxin</b> was eaten, rather than bacteria that had to replicate in the gut.</p><p>S. aureus enterotoxins are <b>heat stable</b> and resist stomach acid and enzymes. Once the toxin has formed in the food, heating will not destroy it, even if it kills the bacteria. The diagnosis is confirmed by detecting toxin in the food.</p>",
+    "table": null,
+    "why": [
+     "Spore germination describes Bacillus cereus and Clostridium species, which are not linked to an infected food handler.",
+     "A hardy non-enveloped virus describes norovirus, with a 12 to 72 hour incubation.",
+     "Growth in the cold is a feature of Listeria.",
+     "",
+     "Chlorine-resistant cysts or oocysts describe Cryptosporidium in water."
+    ],
+    "takeaway": "Staph aureus food poisoning causes vomiting 3 to 4 hours after a contaminated high-protein food; its preformed enterotoxin is heat stable, so reheating does not help.",
+    "topic": "Staphylococcus aureus food poisoning",
+    "subject": "Microbiology"
+   },
+   "figures": []
   },
   {
    "id": "miid2-w08-lec44-q11",
@@ -179,7 +319,21 @@
    ],
    "answer": 3,
    "evidence": [],
-   "note": "**Foodborne botulism (home-canned food, afebrile descending flaccid paralysis with cranial nerve signs) is treated with antitoxin and supportive care.**\n\nCranial nerve palsies followed by a **descending flaccid paralysis**, with **no fever**, a clear sensorium, no sensory deficits and a dry mouth, 12 to 36 hours after eating home-canned food, is **foodborne botulism**. Clostridium botulinum spores germinate in low-oxygen canned food and produce an exotoxin that is absorbed from the gut and blocks neurotransmission at peripheral nerve synapses.\n\nTreatment is **antitoxin** plus supportive care, including breathing support; recovery may take up to 100 days. Diagnosis is by toxin detection in blood, stool or vomit. Infant botulism follows honey, and wound botulism follows soil contamination of a wound.\n\nAmpicillin: incorrect. Ampicillin is the treatment for invasive Listeria.\n\nOral rehydration: incorrect. Oral rehydration is the mainstay for cholera, not a neuroparalytic toxin.\n\nDoxycycline: incorrect. Doxycycline does not neutralize circulating botulinum toxin.\n\nAntitoxin: correct. Botulinum antitoxin is the specific treatment.\n\nCeftriaxone: incorrect. Ceftriaxone treats typhoid and gonorrhea, not botulism."
+   "explain": {
+    "html": "<p>Cranial nerve palsies followed by a <b>descending flaccid paralysis</b>, with <b>no fever</b>, a clear sensorium, no sensory deficits and a dry mouth, 12 to 36 hours after eating home-canned food, is <b>foodborne botulism</b>. Clostridium botulinum spores germinate in low-oxygen canned food and produce an exotoxin that is absorbed from the gut and blocks neurotransmission at peripheral nerve synapses.</p><p>Treatment is <b>antitoxin</b> plus supportive care, including breathing support; recovery may take up to 100 days. Diagnosis is by toxin detection in blood, stool or vomit. Infant botulism follows honey, and wound botulism follows soil contamination of a wound.</p>",
+    "table": null,
+    "why": [
+     "Ampicillin is the treatment for invasive Listeria.",
+     "Oral rehydration is the mainstay for cholera, not a neuroparalytic toxin.",
+     "Doxycycline does not neutralize circulating botulinum toxin.",
+     "",
+     "Ceftriaxone treats typhoid and gonorrhea, not botulism."
+    ],
+    "takeaway": "Foodborne botulism (home-canned food, afebrile descending flaccid paralysis with cranial nerve signs) is treated with antitoxin and supportive care.",
+    "topic": "Botulism",
+    "subject": "Microbiology"
+   },
+   "figures": []
   },
   {
    "id": "miid2-w08-lec44-q12",
@@ -195,7 +349,21 @@
    ],
    "answer": 4,
    "evidence": [],
-   "note": "**ETEC causes afebrile watery traveler's diarrhea through a heat-labile toxin that, like cholera toxin, alters adenylate cyclase and drives fluid secretion.**\n\nAfebrile watery diarrhea without stool white cells in a traveler after uncooked food or contaminated water is **traveler's diarrhea** from **enterotoxigenic E. coli (ETEC)**. Watery, large-volume diarrhea without white cells signals a secretory, toxin-mediated process rather than invasion.\n\nETEC makes a **heat-labile toxin similar to cholera toxin**, which alters **adenylate cyclase** in intestinal mucosal cells, and a heat-stable toxin; both increase fluid secretion. The illness is brief, and antibiotics are usually not needed (one dose, with or without an antimotility agent, is an option).\n\nShiga toxin, which halts protein synthesis in endothelium: incorrect. Shiga or verotoxin belongs to EHEC and Shigella, which cause bloody diarrhea.\n\nHistamine formed in fish by marine bacteria: incorrect. Histamine causes scombroid flushing, not secretory diarrhea.\n\nBotulinum toxin, which blocks acetylcholine release: incorrect. Botulinum toxin causes paralysis, not diarrhea.\n\nStaphylococcal enterotoxin, which acts on central vomiting centers: incorrect. Staphylococcal enterotoxin causes early vomiting, not traveler's diarrhea.\n\nCholera toxin, which alters adenylate cyclase in enterocytes: correct. ETEC heat-labile toxin works like cholera toxin on adenylate cyclase."
+   "explain": {
+    "html": "<p>Afebrile watery diarrhea without stool white cells in a traveler after uncooked food or contaminated water is <b>traveler's diarrhea</b> from <b>enterotoxigenic E. coli (ETEC)</b>. Watery, large-volume diarrhea without white cells signals a secretory, toxin-mediated process rather than invasion.</p><p>ETEC makes a <b>heat-labile toxin similar to cholera toxin</b>, which alters <b>adenylate cyclase</b> in intestinal mucosal cells, and a heat-stable toxin; both increase fluid secretion. The illness is brief, and antibiotics are usually not needed (one dose, with or without an antimotility agent, is an option).</p>",
+    "table": null,
+    "why": [
+     "Shiga or verotoxin belongs to EHEC and Shigella, which cause bloody diarrhea.",
+     "Histamine causes scombroid flushing, not secretory diarrhea.",
+     "Botulinum toxin causes paralysis, not diarrhea.",
+     "Staphylococcal enterotoxin causes early vomiting, not traveler's diarrhea.",
+     ""
+    ],
+    "takeaway": "ETEC causes afebrile watery traveler's diarrhea through a heat-labile toxin that, like cholera toxin, alters adenylate cyclase and drives fluid secretion.",
+    "topic": "Enterotoxigenic E. coli",
+    "subject": "Microbiology"
+   },
+   "figures": []
   },
   {
    "id": "miid2-w08-lec44-q13",
@@ -211,7 +379,21 @@
    ],
    "answer": 2,
    "evidence": [],
-   "note": "**EHEC O157:H7 (beef, cattle exposure) makes a Shiga-like verotoxin, causes bloody diarrhea and HUS, and is managed without antibiotics.**\n\nBloody diarrhea without much fever in a child after undercooked beef and contact with cattle, with a positive stool toxin assay, is **enterohemorrhagic E. coli**, most often **O157:H7**. It produces **verotoxin**, almost identical to Shiga toxin; cattle and other livestock carry it in their gut.\n\nEHEC can cause **hemolytic uremic syndrome**: thrombocytopenia, hemolytic anemia and renal failure that may be permanent, with children most severely affected. **Antibiotics are not recommended**; management is supportive.\n\nCiprofloxacin; watch for reactive arthritis: incorrect. Antibiotics are not recommended for EHEC, and reactive arthritis is linked to Campylobacter.\n\nAzithromycin; watch for Guillain-Barre syndrome: incorrect. Guillain-Barre syndrome follows Campylobacter, and antibiotics are not used for EHEC.\n\nSupportive care only; watch for hemolytic uremic syndrome: correct. Supportive care without antibiotics, watching for HUS.\n\nCeftriaxone; watch for intestinal perforation: incorrect. Ceftriaxone and perforation risk belong to typhoid fever.\n\nOral metronidazole; watch for liver abscess: incorrect. Metronidazole and liver abscess are not part of EHEC care."
+   "explain": {
+    "html": "<p>Bloody diarrhea without much fever in a child after undercooked beef and contact with cattle, with a positive stool toxin assay, is <b>enterohemorrhagic E. coli</b>, most often <b>O157:H7</b>. It produces <b>verotoxin</b>, almost identical to Shiga toxin; cattle and other livestock carry it in their gut.</p><p>EHEC can cause <b>hemolytic uremic syndrome</b>: thrombocytopenia, hemolytic anemia and renal failure that may be permanent, with children most severely affected. <b>Antibiotics are not recommended</b>; management is supportive.</p>",
+    "table": null,
+    "why": [
+     "Antibiotics are not recommended for EHEC, and reactive arthritis is linked to Campylobacter.",
+     "Guillain-Barre syndrome follows Campylobacter, and antibiotics are not used for EHEC.",
+     "",
+     "Ceftriaxone and perforation risk belong to typhoid fever.",
+     "Metronidazole and liver abscess are not part of EHEC care."
+    ],
+    "takeaway": "EHEC O157:H7 (beef, cattle exposure) makes a Shiga-like verotoxin, causes bloody diarrhea and HUS, and is managed without antibiotics.",
+    "topic": "EHEC and hemolytic uremic syndrome",
+    "subject": "Microbiology"
+   },
+   "figures": []
   },
   {
    "id": "miid2-w08-lec44-q14",
@@ -227,7 +409,21 @@
    ],
    "answer": 3,
    "evidence": [],
-   "note": "**Salmonella enteritidis (poultry, eggs, reptiles) usually causes self-limited enterocolitis but invades in sickle cell disease, HIV and the elderly, causing sepsis and osteomyelitis.**\n\nA non-lactose-fermenting gram-negative rod causing febrile, sometimes bloody enterocolitis after reptile contact is **Salmonella enteritidis**. It invades through the terminal small intestine in the ileocecal region to the lamina propria, producing inflammation; reptiles and poultry are major reservoirs.\n\nThe usual illness is self-limited, but in patients with **sickle cell disease**, HIV or older age it can become **invasive**, causing septicemia, **osteomyelitis** and mycotic aneurysms. In uncomplicated GI illness antibiotics are usually not needed and can prolong carriage.\n\nThe organism makes a preformed toxin that travels to and injures bone directly: incorrect. Salmonella invades the bowel; bone disease comes from bacteremia, not a preformed toxin.\n\nInfection was spread from the turtle by a tick: incorrect. Reptile Salmonella is acquired by handling the animal or its feces, not by ticks.\n\nThe organism forms spores that travel to bone: incorrect. Salmonella is not a spore former.\n\nSickle cell disease predisposes to invasive infection by this organism: correct. Sickle cell disease predisposes to invasive Salmonella, including osteomyelitis.\n\nAntibiotics given for the diarrhea caused bacteremia: incorrect. Antibiotics do not cause bacteremia; they are given in high-risk hosts."
+   "explain": {
+    "html": "<p>A non-lactose-fermenting gram-negative rod causing febrile, sometimes bloody enterocolitis after reptile contact is <b>Salmonella enteritidis</b>. It invades through the terminal small intestine in the ileocecal region to the lamina propria, producing inflammation; reptiles and poultry are major reservoirs.</p><p>The usual illness is self-limited, but in patients with <b>sickle cell disease</b>, HIV or older age it can become <b>invasive</b>, causing septicemia, <b>osteomyelitis</b> and mycotic aneurysms. In uncomplicated GI illness antibiotics are usually not needed and can prolong carriage.</p>",
+    "table": null,
+    "why": [
+     "Salmonella invades the bowel; bone disease comes from bacteremia, not a preformed toxin.",
+     "Reptile Salmonella is acquired by handling the animal or its feces, not by ticks.",
+     "Salmonella is not a spore former.",
+     "",
+     "Antibiotics do not cause bacteremia; they are given in high-risk hosts."
+    ],
+    "takeaway": "Salmonella enteritidis (poultry, eggs, reptiles) usually causes self-limited enterocolitis but invades in sickle cell disease, HIV and the elderly, causing sepsis and osteomyelitis.",
+    "topic": "Salmonella enteritidis and invasive disease",
+    "subject": "Microbiology"
+   },
+   "figures": []
   },
   {
    "id": "miid2-w08-lec44-q15",
@@ -243,7 +439,21 @@
    ],
    "answer": 0,
    "evidence": [],
-   "note": "**Chronic S. typhi carriage (stool positive more than 12 months, more common in women) is usually in the gallbladder with gallstones.**\n\nChronic carriage of **Salmonella typhi** is defined by positive stool cultures for more than 12 months and occurs in 1 to 6% of infections, more often in women. Because S. typhi has **no animal reservoir**, human carriers sustain spread through food and water.\n\nThe **gallbladder**, especially with **gallstones**, is the classic reservoir; a urinary carrier state is linked to stones or schistosomiasis.\n\nGallbladder: correct. The gallbladder, often with stones, is the chronic carrier reservoir.\n\nTerminal ileum mucosa: incorrect. The terminal small intestine is where acute Salmonella infection invades, not the long-term carrier reservoir.\n\nBone marrow: incorrect. Bone marrow persistence is characteristic of Brucella.\n\nMesenteric lymph nodes: incorrect. Large mesenteric nodes mimicking appendicitis are a Yersinia enterocolitica feature.\n\nSplenic red pulp: incorrect. The spleen is not the slide-listed site of chronic carriage."
+   "explain": {
+    "html": "<p>Chronic carriage of <b>Salmonella typhi</b> is defined by positive stool cultures for more than 12 months and occurs in 1 to 6% of infections, more often in women. Because S. typhi has <b>no animal reservoir</b>, human carriers sustain spread through food and water.</p><p>The <b>gallbladder</b>, especially with <b>gallstones</b>, is the classic reservoir; a urinary carrier state is linked to stones or schistosomiasis.</p>",
+    "table": null,
+    "why": [
+     "",
+     "The terminal small intestine is where acute Salmonella infection invades, not the long-term carrier reservoir.",
+     "Bone marrow persistence is characteristic of Brucella.",
+     "Large mesenteric nodes mimicking appendicitis are a Yersinia enterocolitica feature.",
+     "The spleen is not the slide-listed site of chronic carriage."
+    ],
+    "takeaway": "Chronic S. typhi carriage (stool positive more than 12 months, more common in women) is usually in the gallbladder with gallstones.",
+    "topic": "Chronic typhoid carriage",
+    "subject": "Microbiology"
+   },
+   "figures": []
   },
   {
    "id": "miid2-w08-lec44-q16",
@@ -259,7 +469,21 @@
    ],
    "answer": 3,
    "evidence": [],
-   "note": "**Campylobacter jejuni (poultry; microaerophilic, grows at 42 C) causes bloody diarrhea and can be followed by Guillain-Barre syndrome or reactive arthritis.**\n\nA curved gram-negative rod that needs microaerophilic, thermophilic (42 C) culture after contact with raw poultry is **Campylobacter jejuni**, one of the two most common causes of food-associated diarrhea in developed countries. Its diarrhea resembles Salmonella but can incubate and last longer.\n\nWeeks later, an **ascending** symmetric weakness with areflexia is **Guillain-Barre syndrome**, a recognized post-infectious complication of Campylobacter, along with reactive arthritis. Severe Campylobacter diarrhea has been treated with erythromycin.\n\nReactivation of a latent virus residing in the dorsal root ganglia: incorrect. Latent virus in dorsal root ganglia describes herpesviruses, not this picture.\n\nDirect bacterial invasion of the spinal cord: incorrect. Campylobacter does not directly invade the spinal cord.\n\nA preformed toxin absorbed from undercooked chicken: incorrect. The weakness began weeks later and ascends, which does not fit a preformed toxin.\n\nA post-infectious complication of this enteric infection: correct. Guillain-Barre syndrome is a post-infectious complication of Campylobacter.\n\nA descending paralysis from an exotoxin: incorrect. Descending paralysis from an exotoxin is botulism, which starts with cranial nerves."
+   "explain": {
+    "html": "<p>A curved gram-negative rod that needs microaerophilic, thermophilic (42 C) culture after contact with raw poultry is <b>Campylobacter jejuni</b>, one of the two most common causes of food-associated diarrhea in developed countries. Its diarrhea resembles Salmonella but can incubate and last longer.</p><p>Weeks later, an <b>ascending</b> symmetric weakness with areflexia is <b>Guillain-Barre syndrome</b>, a recognized post-infectious complication of Campylobacter, along with reactive arthritis. Severe Campylobacter diarrhea has been treated with erythromycin.</p>",
+    "table": null,
+    "why": [
+     "Latent virus in dorsal root ganglia describes herpesviruses, not this picture.",
+     "Campylobacter does not directly invade the spinal cord.",
+     "The weakness began weeks later and ascends, which does not fit a preformed toxin.",
+     "",
+     "Descending paralysis from an exotoxin is botulism, which starts with cranial nerves."
+    ],
+    "takeaway": "Campylobacter jejuni (poultry; microaerophilic, grows at 42 C) causes bloody diarrhea and can be followed by Guillain-Barre syndrome or reactive arthritis.",
+    "topic": "Campylobacter and Guillain-Barre syndrome",
+    "subject": "Microbiology"
+   },
+   "figures": []
   },
   {
    "id": "miid2-w08-lec44-q17",
@@ -275,7 +499,27 @@
    ],
    "answer": 4,
    "evidence": [],
-   "note": "**Vibrio vulnificus from raw oysters or seawater wounds causes sepsis with bullous skin lesions in patients with liver disease or iron overload, with mortality above 80%.**\n\nSeptic shock with **bullous skin lesions** after eating raw oysters from warm coastal water is **Vibrio vulnificus**. Vibrio species can cause disease by ingestion or through wounds exposed to contaminated water, and are associated with shellfish, especially oysters.\n\nIn most people V. vulnificus causes diarrhea, but in patients with **liver disease or iron storage disorders** it causes severe systemic illness with fever, hypotension and bullae, and mortality exceeds 80%. Treatment is surgery and a tetracycline. Cases are moving north as coastal waters warm.\n\nGallstones: incorrect. Gallstones are linked to chronic typhoid carriage.\n\nSickle cell disease with functional asplenia: incorrect. Sickle cell disease predisposes to invasive Salmonella.\n\nPrior splenectomy: incorrect. Splenectomy is the slide risk factor for severe babesiosis.\n\nPregnancy: incorrect. Pregnancy is a risk factor for invasive Listeria.\n\nLiver disease or iron overload: correct. Liver disease and iron storage disorders predispose to severe V. vulnificus."
+   "explain": {
+    "html": "<p>Septic shock with <b>bullous skin lesions</b> after eating raw oysters from warm coastal water is <b>Vibrio vulnificus</b>. Vibrio species can cause disease by ingestion or through wounds exposed to contaminated water, and are associated with shellfish, especially oysters.</p><p>In most people V. vulnificus causes diarrhea, but in patients with <b>liver disease or iron storage disorders</b> it causes severe systemic illness with fever, hypotension and bullae, and mortality exceeds 80%. Treatment is surgery and a tetracycline. Cases are moving north as coastal waters warm.</p>",
+    "table": null,
+    "why": [
+     "Gallstones are linked to chronic typhoid carriage.",
+     "Sickle cell disease predisposes to invasive Salmonella.",
+     "Splenectomy is the slide risk factor for severe babesiosis.",
+     "Pregnancy is a risk factor for invasive Listeria.",
+     ""
+    ],
+    "takeaway": "Vibrio vulnificus from raw oysters or seawater wounds causes sepsis with bullous skin lesions in patients with liver disease or iron overload, with mortality above 80%.",
+    "topic": "Vibrio vulnificus",
+    "subject": "Microbiology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w08-lec44/slide_34.jpg",
+     "slide": 34,
+     "caption": "Lecture 44 slides (2025-26) · Page 34"
+    }
+   ]
   },
   {
    "id": "miid2-w08-lec44-q18",
@@ -291,7 +535,21 @@
    ],
    "answer": 2,
    "evidence": [],
-   "note": "**Listeria (cold-tolerant, deli meats and soft cheese) causes bacteremia in pregnancy that can infect the fetus; treat invasive disease with ampicillin.**\n\nA motile gram-positive rod that **tolerates cold**, acquired from deli meats and cheeses, causing bacteremia in a pregnant woman is **Listeria monocytogenes**. It causes illness in neonates, pregnant women, the elderly and immunocompromised patients, and invasive disease has a long incubation (average 30 days, up to 6 weeks).\n\nIn pregnancy it can cross the placenta and cause fetal death, premature birth or an infected baby; in adults it causes sepsis or meningitis. Diagnosis is by blood or CSF culture, and treatment is **ampicillin**.\n\nCeftriaxone: incorrect. Ceftriaxone is used for typhoid and is not the slide drug for Listeria.\n\nErythromycin: incorrect. Erythromycin is the slide option for severe Campylobacter diarrhea.\n\nAmpicillin: correct. Ampicillin treats invasive Listeria.\n\nCiprofloxacin: incorrect. Ciprofloxacin is used for anthrax.\n\nMetronidazole: incorrect. Metronidazole treats anaerobes and protozoa."
+   "explain": {
+    "html": "<p>A motile gram-positive rod that <b>tolerates cold</b>, acquired from deli meats and cheeses, causing bacteremia in a pregnant woman is <b>Listeria monocytogenes</b>. It causes illness in neonates, pregnant women, the elderly and immunocompromised patients, and invasive disease has a long incubation (average 30 days, up to 6 weeks).</p><p>In pregnancy it can cross the placenta and cause fetal death, premature birth or an infected baby; in adults it causes sepsis or meningitis. Diagnosis is by blood or CSF culture, and treatment is <b>ampicillin</b>.</p>",
+    "table": null,
+    "why": [
+     "Ceftriaxone is used for typhoid and is not the slide drug for Listeria.",
+     "Erythromycin is the slide option for severe Campylobacter diarrhea.",
+     "",
+     "Ciprofloxacin is used for anthrax.",
+     "Metronidazole treats anaerobes and protozoa."
+    ],
+    "takeaway": "Listeria (cold-tolerant, deli meats and soft cheese) causes bacteremia in pregnancy that can infect the fetus; treat invasive disease with ampicillin.",
+    "topic": "Listeria in pregnancy",
+    "subject": "Microbiology"
+   },
+   "figures": []
   }
  ]
 }
