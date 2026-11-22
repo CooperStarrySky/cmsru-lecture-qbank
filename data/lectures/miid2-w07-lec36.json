@@ -20,18 +20,58 @@
    "answer": 2,
    "evidence": [],
    "explain": {
-    "html": "<p>Seizures and parenchymal brain cysts in a man raised on a pig farm in an endemic area, with positive serology, is neurocysticercosis. The two most common presentations are seizures and raised intracranial pressure; diagnosis is imaging, serology, and sometimes biopsy.</p><p>Treatment is complicated, but the slides list steroids plus albendazole. Killing the cysts provokes inflammation and edema around them, which the steroids blunt. A single dose of praziquantel is the treatment for intestinal taeniasis, not cysts in the brain.</p>",
+    "html": "<p><b>Neurocysticercosis</b> (NCC) is infection of the central nervous system after ingestion of <i>Taenia solium</i> eggs, and its picture depends on cyst size, stage, location, viability and the host response. The <b>two most common presentations are seizures and raised intracranial pressure</b>. Intraparenchymal disease (over 60% of cases) causes seizures and headache, while ventricular or subarachnoid cysts cause hydrocephalus and carry higher mortality. Diagnosis rests on <b>imaging and serology</b>, sometimes biopsy.</p><p>This man grew up on a pig farm in an endemic area and now has seizures, headaches, several viable parenchymal cysts with edema and positive serology. Treatment is complicated, but the regimen is <b>corticosteroids plus albendazole</b>: killing viable cysts provokes inflammation around them, which the steroids blunt. <b>Single-dose praziquantel</b> is the treatment for the intestinal adult (taeniasis), not for cysts in the brain.</p>",
     "table": null,
     "why": [
-     "Single-dose praziquantel treats the adult tapeworm in the intestine (taeniasis).",
-     "Ivermectin with doxycycline is the approach for Onchocerca.",
+     "Single-dose praziquantel treats the adult tapeworm in the intestine, not cysticerci in the brain.",
+     "Ivermectin with doxycycline is the regimen for onchocerciasis.",
      "",
-     "Triclabendazole treats Fasciola.",
+     "Triclabendazole is a fluke drug and is not part of the cestode regimens taught for NCC.",
      "Metronidazole with paromomycin treats amebiasis."
     ],
-    "takeaway": "Neurocysticercosis is diagnosed by imaging and serology and treated with steroids plus albendazole.",
+    "takeaway": "Neurocysticercosis presents with seizures or raised intracranial pressure, is diagnosed by imaging and serology, and is treated with corticosteroids plus albendazole; praziquantel is for intestinal taeniasis.",
     "topic": "Neurocysticercosis: treatment",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "Describe the presentation, diagnosis and treatment of neurocysticercosis.",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Single-dose praziquantel treats the adult tapeworm in the intestine, not cysticerci in the brain.",
+      "if_right": "proglottids in the stool with only mild GI symptoms (intestinal taeniasis)"
+     },
+     {
+      "choice": 1,
+      "why": "Ivermectin with doxycycline is the regimen for onchocerciasis.",
+      "if_right": "skin nodules, severe itching and eye scarring in a West African farmer (river blindness)"
+     },
+     {
+      "choice": 3,
+      "why": "Triclabendazole is a fluke drug and is not part of the cestode regimens taught for NCC.",
+      "if_right": "a liver fluke infection acquired from raw watercress"
+     },
+     {
+      "choice": 4,
+      "why": "Metronidazole with paromomycin treats amebiasis.",
+      "if_right": "bloody diarrhea with a liver abscess and flask-shaped colonic ulcers"
+     }
+    ],
+    "slides": {
+     "stem": [
+      7,
+      10
+     ],
+     "answer": [
+      10,
+      12
+     ],
+     "distractors": [
+      4,
+      56,
+      10,
+      11
+     ]
+    },
+    "deck": "36 Parasitology II"
    },
    "figures": [
     {
@@ -56,18 +96,60 @@
    "answer": 0,
    "evidence": [],
    "explain": {
-    "html": "<p>A large liver cyst with daughter cysts in someone raised around sheep and dogs is a hydatid cyst of <i>Echinococcus granulosus</i>. Dogs pass eggs in feces, sheep (or humans, as incidental hosts) ingest them, and larvae travel through the blood to the liver or lung, where the cyst slowly grows and is usually asymptomatic until it is large.</p><p>Trauma can rupture the cyst. The released cyst fluid is highly antigenic and triggers an allergic reaction that can progress to anaphylaxis, which is exactly what happened here before any drug was given.</p>",
+    "html": "<p><i>Echinococcus</i> causes <b>hydatid cyst disease</b>. Dogs carry the adult tapeworm in the small intestine and pass eggs in feces; sheep (and goats, camels, cattle, swine) ingest the eggs, and <b>humans are incidental hosts</b> who do the same. The larvae migrate from the GI tract through the blood to the <b>liver or lung</b>, where they grow into a large cyst with <b>daughter vesicles</b>; most cysts are asymptomatic until about 10 cm.</p><p>The danger is <b>rupture after trauma</b>, which spills highly antigenic cyst fluid and causes an <b>allergic reaction that can progress to anaphylaxis</b>. This sheep herder who worked with dogs took a blow to the right upper abdomen, has a liver cyst with daughter cysts and free fluid, and develops hives, lip swelling, wheeze and hypotension within minutes without any drug or contrast. That timing and the allergic features point to cyst fluid, not infection or bleeding.</p>",
     "table": null,
     "why": [
      "",
-     "Septic shock would not produce hives, lip swelling, and wheezing within minutes.",
-     "An amebic abscess has no daughter cysts and its rupture is not an allergic event.",
-     "Cholangiocarcinoma is linked to liver flukes and does not cause anaphylaxis.",
-     "Larvae carrying enteric bacteria into the blood describes Strongyloides hyperinfection."
+     "Septic shock develops over hours with fever and does not cause hives, lip swelling and wheeze within minutes.",
+     "An amebic abscess has no daughter cysts and its rupture causes peritonitis, not an allergic reaction.",
+     "A hilar cholangiocarcinoma does not explain daughter cysts, and hemorrhage causes pallor and shock without urticaria.",
+     "Larvae carrying enteric bacteria into the blood is disseminated Strongyloides, which follows immunosuppression, not trauma."
     ],
-    "takeaway": "Trauma or rupture of an Echinococcus hydatid cyst releases antigenic fluid that can cause anaphylaxis.",
+    "takeaway": "Traumatic rupture of an Echinococcus hydatid cyst releases antigenic fluid that can cause anaphylaxis, so cysts are not punctured or ruptured casually.",
     "topic": "Echinococcus: anaphylaxis from cyst rupture",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "Describe the life cycle and complications of Echinococcus hydatid cyst disease, including anaphylaxis after cyst rupture.",
+    "rows": [
+     {
+      "choice": 1,
+      "why": "Septic shock develops over hours with fever and does not cause hives, lip swelling and wheeze within minutes.",
+      "if_right": "fever and rigors days after a cyst became secondarily infected"
+     },
+     {
+      "choice": 2,
+      "why": "An amebic abscess has no daughter cysts and its rupture causes peritonitis, not an allergic reaction.",
+      "if_right": "bloody diarrhea followed by a single liver abscess with anchovy paste contents"
+     },
+     {
+      "choice": 3,
+      "why": "A hilar cholangiocarcinoma does not explain daughter cysts, and hemorrhage causes pallor and shock without urticaria.",
+      "if_right": "painless jaundice with a hilar mass in a patient with long-standing liver fluke infection"
+     },
+     {
+      "choice": 4,
+      "why": "Larvae carrying enteric bacteria into the blood is disseminated Strongyloides, which follows immunosuppression, not trauma.",
+      "if_right": "gram-negative bacteremia after high-dose steroids in a patient with chronic larva currens"
+     }
+    ],
+    "slides": {
+     "stem": [
+      13,
+      16,
+      17
+     ],
+     "answer": [
+      14,
+      16,
+      17
+     ],
+     "distractors": [
+      17,
+      11,
+      16,
+      40
+     ]
+    },
+    "deck": "36 Parasitology II"
    },
    "figures": [
     {
@@ -92,18 +174,57 @@
    "answer": 2,
    "evidence": [],
    "explain": {
-    "html": "<p>Nocturnal perianal itching in a young child, spreading within the household, is pinworm (<i>Enterobius vermicularis</i>), the most common helminth in the United States. Adults live in the cecum, and females exit the anus at night to lay eggs on the perianal skin, which causes the itching.</p><p>Because eggs are laid on the skin and not in the stool, O&amp;P is not helpful. The test is the scotch tape test, done in the morning or a few hours after sleep, which picks up transparent eggs flattened on one side. Treatment is albendazole, a single dose repeated 2 weeks later, with hot-water laundering for the household.</p>",
+    "html": "<p><b>Pinworm</b> (<i>Enterobius vermicularis</i>) is the <b>most common helminth in the United States</b>, affecting children, institutionalized adults and caretakers, and humans are its only host. Ingested eggs mature into adults in the <b>cecum</b>, and the females <b>exit the anus at night to lay eggs</b> on the perianal skin, which causes the intense nocturnal itching. Eggs then sit on hands, toys, bedding and toilets for 1 to 2 weeks, so the infection spreads through households and classrooms.</p><p>Because the eggs are on the skin and <b>not in the stool, O&amp;P is not helpful</b>, which explains this girl's negative test. The diagnosis is the <b>scotch tape test</b>, which picks up transparent eggs flattened on one side, collected from the perianal skin on waking or 2 to 3 hours after sleep. Treatment is <b>albendazole, repeated 2 weeks later</b>, with hot-water laundering and drying.</p>",
     "table": null,
     "why": [
-     "Stool O&P misses pinworm because eggs are deposited on the perianal skin.",
-     "Serology is not the test for pinworm.",
+     "Repeating stool exams does not help because pinworm eggs are laid on the perianal skin, not passed in feces.",
+     "Serology is not the test for pinworm, which is found by collecting eggs from the skin.",
      "",
-     "A midnight blood smear finds Wuchereria or Brugia microfilariae.",
-     "Biopsy is invasive and unnecessary; the eggs are on the skin surface."
+     "A midnight blood smear finds Wuchereria or Brugia microfilariae, not pinworm.",
+     "Biopsy is invasive and unnecessary because the eggs sit on the skin surface."
     ],
-    "takeaway": "Pinworm causes nocturnal perianal itching; diagnose with the scotch tape test (not stool O&P) and treat with albendazole, repeated in 2 weeks.",
+    "takeaway": "Pinworm causes nocturnal perianal itching; diagnose it with the scotch tape test (stool O&P is negative) and treat with albendazole repeated in 2 weeks.",
     "topic": "Enterobius: diagnosis and treatment",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "Describe the transmission, diagnosis and treatment of Enterobius vermicularis (pinworm).",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Repeating stool exams does not help because pinworm eggs are laid on the perianal skin, not passed in feces.",
+      "if_right": "Strongyloides, where O&P has poor sensitivity and three samples are needed"
+     },
+     {
+      "choice": 1,
+      "why": "Serology is not the test for pinworm, which is found by collecting eggs from the skin.",
+      "if_right": "Toxocara or Strongyloides, which are diagnosed by antibody testing"
+     },
+     {
+      "choice": 3,
+      "why": "A midnight blood smear finds Wuchereria or Brugia microfilariae, not pinworm.",
+      "if_right": "progressive leg lymphedema after mosquito exposure in an endemic region"
+     },
+     {
+      "choice": 4,
+      "why": "Biopsy is invasive and unnecessary because the eggs sit on the skin surface.",
+      "if_right": "a skin nodule needing a skin snip, as in onchocerciasis"
+     }
+    ],
+    "slides": {
+     "stem": [
+      23,
+      24
+     ],
+     "answer": [
+      25
+     ],
+     "distractors": [
+      25,
+      25,
+      60,
+      25
+     ]
+    },
+    "deck": "36 Parasitology II"
    },
    "figures": [
     {
@@ -128,18 +249,56 @@
    "answer": 3,
    "evidence": [],
    "explain": {
-    "html": "<p>Bloody diarrhea, weight loss, and rectal prolapse in a child, with eggs that have plugged ends, identify the whipworm, <i>Trichuris trichiura</i>. It is acquired by eating food, water, or soil contaminated with feces containing eggs.</p><p>The adults (3 to 5 cm) live in the large intestine, cecum, and appendix, where heavy infection irritates the mucosa and leads to rectal prolapse. Diagnosis is stool O&amp;P and treatment is albendazole plus avoiding contaminated food and water.</p>",
+    "html": "<p>The <b>whipworm</b>, <i>Trichuris trichiura</i>, is acquired by ingesting food, water or soil contaminated with feces that contain eggs. The adults are 3 to 5 cm and live in the <b>large intestine, cecum and appendix</b>. Infection causes <b>abdominal pain, bloody stool, diarrhea and weight loss</b>, and heavy infection in children can lead to <b>rectal prolapse</b>.</p><p>This girl has bloody diarrhea, weight loss and a worm-studded rectal prolapse, and her stool shows barrel-shaped <b>eggs with plugged ends</b>, which identifies whipworm. Diagnosis is stool O&amp;P, and treatment is <b>albendazole</b> together with avoiding contaminated food and water.</p>",
     "table": null,
     "why": [
-     "A scolex attaching to the small intestine describes the tapeworms.",
-     "Lymphatics house Wuchereria and Brugia.",
-     "Bile ducts house liver flukes such as Clonorchis.",
+     "A scolex attaching to the small intestine is how tapeworms live; whipworm is a roundworm of the colon.",
+     "Lymphatic vessels house Wuchereria and Brugia, which cause lymphedema, not bloody diarrhea.",
+     "Bile ducts are not the home of whipworm and would cause biliary, not colonic, disease.",
      "",
-     "Alveoli hold migrating larvae of Ascaris, hookworm, and Strongyloides, not adult whipworms."
+     "The alveoli hold migrating larvae of Ascaris, hookworm and Strongyloides, never adult whipworms."
     ],
-    "takeaway": "Whipworm (Trichuris) lives in the large intestine and cecum, has eggs with plugged ends, and can cause rectal prolapse in children.",
+    "takeaway": "Trichuris adults live in the large intestine, cecum and appendix, cause bloody diarrhea and rectal prolapse in children, and have eggs with plugged ends; treat with albendazole.",
     "topic": "Trichuris: rectal prolapse",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "Describe Trichuris trichiura (whipworm): habitat, presentation, egg morphology and treatment.",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "A scolex attaching to the small intestine is how tapeworms live; whipworm is a roundworm of the colon.",
+      "if_right": "flat proglottids in the stool after eating undercooked pork, beef or fish"
+     },
+     {
+      "choice": 1,
+      "why": "Lymphatic vessels house Wuchereria and Brugia, which cause lymphedema, not bloody diarrhea.",
+      "if_right": "progressive leg swelling with microfilariae in blood drawn at night"
+     },
+     {
+      "choice": 2,
+      "why": "Bile ducts are not the home of whipworm and would cause biliary, not colonic, disease.",
+      "if_right": "jaundice from a fluke living in the biliary tree"
+     },
+     {
+      "choice": 4,
+      "why": "The alveoli hold migrating larvae of Ascaris, hookworm and Strongyloides, never adult whipworms.",
+      "if_right": "wheeze with transient infiltrates and eosinophilia (Loeffler syndrome)"
+     }
+    ],
+    "slides": {
+     "stem": [
+      30
+     ],
+     "answer": [
+      30
+     ],
+     "distractors": [
+      4,
+      59,
+      30,
+      38
+     ]
+    },
+    "deck": "36 Parasitology II"
    },
    "figures": [
     {
@@ -164,18 +323,56 @@
    "answer": 0,
    "evidence": [],
    "explain": {
-    "html": "<p>A moving, itchy, serpiginous track on the foot after walking barefoot on a beach is cutaneous larva migrans, usually caused by dog or cat hookworm larvae (Ancylostoma species) that penetrate human skin.</p><p>Humans are not their natural host, so the larvae wander in the skin and die within about 5 to 6 weeks without reaching the lungs or gut. The lesion appears 1 to 5 days after penetration and leaves no long-term effects, which is why she has no cough, diarrhea, or anemia.</p>",
+    "html": "<p>Hookworm larvae in soil or sand penetrate bare skin. The <b>human hookworms</b> (<i>Necator</i>, <i>Ancylostoma duodenale</i>) go on through the blood and lungs to the gut, but <b>dog or cat hookworm larvae</b> (usually <i>Ancylostoma</i> species) cannot complete their cycle in people. They <b>wander in the skin</b>, producing <b>cutaneous larva migrans</b>: an itchy, raised, erythematous <b>serpiginous track that moves</b>.</p><p>The track appears 1 to 5 days (up to a month) after penetration, the larva dies within 5 to 6 weeks, and there are <b>no long-term effects</b>. This woman walked barefoot on a Caribbean beach and has a moving foot track with no cough, diarrhea or anemia, which fits an animal hookworm stuck in the skin rather than a human hookworm reaching the gut.</p>",
     "table": null,
     "why": [
      "",
-     "Human hookworms (Necator, A. duodenale) go on to the lungs and gut and cause anemia, which she does not have.",
-     "Strongyloides autoinfection causes larva currens, a fast-moving perianal or trunk rash in chronic infection, not a foot track after one beach trip.",
-     "Subcutaneous migrating adult worms describe Loa loa.",
-     "Cercariae cause schistosomiasis, whose disease comes from eggs in viscera."
+     "Human hookworms travel to the lungs and gut and cause anemia, which she does not have.",
+     "Strongyloides autoinfection causes larva currens, recurrent fast streaks on the trunk or buttocks in chronic infection.",
+     "Filarial adults migrating in subcutaneous tissue (Loa loa) cause painless Calabar swellings, not a thin track on the sole.",
+     "Schistosome cercariae are a freshwater, not beach sand, exposure, and their disease comes from eggs in viscera."
     ],
-    "takeaway": "Cutaneous larva migrans is a self-limited, migrating skin track from dog or cat hookworm larvae that cannot mature in humans.",
+    "takeaway": "Cutaneous larva migrans is a self-limited, migrating, itchy skin track from dog or cat hookworm larvae that cannot mature in humans and die in 5 to 6 weeks.",
     "topic": "Cutaneous larva migrans: humans as dead-end hosts",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "Describe cutaneous larva migrans caused by dog or cat hookworm larvae.",
+    "rows": [
+     {
+      "choice": 1,
+      "why": "Human hookworms travel to the lungs and gut and cause anemia, which she does not have.",
+      "if_right": "months later, iron deficiency anemia and eggs in the stool after the skin rash"
+     },
+     {
+      "choice": 2,
+      "why": "Strongyloides autoinfection causes larva currens, recurrent fast streaks on the trunk or buttocks in chronic infection.",
+      "if_right": "years of recurrent linear streaks on the buttocks with epigastric pain after living in Appalachia"
+     },
+     {
+      "choice": 3,
+      "why": "Filarial adults migrating in subcutaneous tissue (Loa loa) cause painless Calabar swellings, not a thin track on the sole.",
+      "if_right": "migrating painless swellings and a worm crossing the eye in a Central African resident"
+     },
+     {
+      "choice": 4,
+      "why": "Schistosome cercariae are a freshwater, not beach sand, exposure, and their disease comes from eggs in viscera.",
+      "if_right": "hematuria months after swimming in Lake Victoria"
+     }
+    ],
+    "slides": {
+     "stem": [
+      31
+     ],
+     "answer": [
+      31
+     ],
+     "distractors": [
+      33,
+      39,
+      52,
+      31
+     ]
+    },
+    "deck": "36 Parasitology II"
    },
    "figures": [
     {
@@ -200,18 +397,57 @@
    "answer": 3,
    "evidence": [],
    "explain": {
-    "html": "<p>Larva currens (recurrent, fast-moving itchy linear streaks), vague GI symptoms, and mild eosinophilia years after leaving the tropics suggest chronic <i>Strongyloides</i>, which persists for decades through autoinfection. HTLV-1 and the planned biologic are both risk factors for hyperinfection and dissemination.</p><p>Stool O&amp;P has poor sensitivity (three samples are needed), so one negative exam does not exclude it. Serology is the better test, and the treatment is ivermectin, given before immunosuppression to prevent a fatal disseminated infection.</p>",
-    "table": null,
+    "html": "<p>Chronic <i>Strongyloides</i> infection can last for decades through autoinfection and is often mild: epigastric pain, intermittent diarrhea or constipation, about 75% with mild eosinophilia, and recurrent <b>larva currens</b>. The danger appears when immunosuppression begins, because <b>HTLV-1, high-dose corticosteroids, biologics</b>, chemotherapy, malignancy and HIV are <b>risk factors for dissemination</b>, which is fatal in 50 to 90%.</p><p>The diagnostic trap is that <b>stool O&amp;P has poor sensitivity (three are needed)</b>, so one negative exam excludes nothing. <b>Serology</b> is the better test, and treatment is <b>ivermectin</b>. This woman from the tropics has larva currens, eosinophilia, HTLV-1 and a planned biologic, so she needs testing and treatment first, because <b>prevention</b> is the whole point.</p>",
+    "table": "<table><tr><th>Organism</th><th>Why stool O&amp;P fails</th><th>Test to use</th></tr><tr><td><i>Echinococcus</i></td><td>Humans carry only the larval cyst</td><td>Imaging (US, CT) and serology</td></tr><tr><td><i>Enterobius</i></td><td>Eggs laid on perianal skin</td><td>Scotch tape test</td></tr><tr><td><i>Toxocara</i></td><td>Larvae never mature in the human gut</td><td>Serology (ELISA)</td></tr><tr><td><i>Strongyloides</i></td><td>Poor sensitivity, needs 3 samples</td><td>Serology</td></tr><tr><td><i>Trichinella</i></td><td>Larvae encyst in muscle</td><td>Serum antibody, muscle biopsy</td></tr></table>",
     "why": [
-     "A single stool exam is insensitive for Strongyloides, and missing it before a biologic risks dissemination.",
-     "Praziquantel treats flukes and tapeworms, not Strongyloides.",
-     "Albendazole repeated at 2 weeks is the pinworm regimen.",
+     "One negative stool exam is insensitive for Strongyloides, and starting a biologic on an untreated infection risks fatal dissemination.",
+     "Praziquantel treats tapeworms and flukes, not Strongyloides.",
+     "Albendazole repeated after 2 weeks is the pinworm regimen.",
      "",
      "Diethylcarbamazine after a daytime smear is the approach to Loa loa."
     ],
-    "takeaway": "Chronic Strongyloides is best diagnosed by serology (stool O&P is insensitive) and treated with ivermectin, especially before steroids, biologics, or with HTLV-1.",
+    "takeaway": "Chronic Strongyloides is best diagnosed by serology because stool O&P is insensitive, and it is treated with ivermectin before steroids or biologics, especially with HTLV-1.",
     "topic": "Strongyloides: diagnosis and treatment of chronic infection",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "Describe the diagnosis, treatment and prevention of Strongyloides infection before immunosuppression.",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "One negative stool exam is insensitive for Strongyloides, and starting a biologic on an untreated infection risks fatal dissemination.",
+      "if_right": "no symptoms, no eosinophilia and no epidemiologic risk for Strongyloides"
+     },
+     {
+      "choice": 1,
+      "why": "Praziquantel treats tapeworms and flukes, not Strongyloides.",
+      "if_right": "proglottids in the stool from an intestinal tapeworm"
+     },
+     {
+      "choice": 2,
+      "why": "Albendazole repeated after 2 weeks is the pinworm regimen.",
+      "if_right": "a child with nocturnal perianal itching and a positive scotch tape test"
+     },
+     {
+      "choice": 4,
+      "why": "Diethylcarbamazine after a daytime smear is the approach to Loa loa.",
+      "if_right": "Calabar swellings and daytime microfilariae in a Central African resident"
+     }
+    ],
+    "slides": {
+     "stem": [
+      36,
+      39
+     ],
+     "answer": [
+      40
+     ],
+     "distractors": [
+      40,
+      4,
+      25,
+      53
+     ]
+    },
+    "deck": "36 Parasitology II"
    },
    "figures": [
     {
@@ -225,7 +461,7 @@
    "id": "miid2-w07-lec36-q07",
    "source": "practice",
    "source_ref": "Written from the 2025-26 Lecture 36 slides",
-   "stem": "A 26-year-old man living in Hawaii is brought to the emergency department with 2 days of severe headache, neck stiffness, fever, and burning paresthesias in his legs. Five days earlier he ate a salad made from lettuce from his backyard garden, where slugs and snails are common. Laboratory studies show:\n\nPeripheral eosinophils: 14% (1 to 4)\nCSF nucleated cells: 380/microL (0 to 5)\nCSF eosinophils: 18% (0)\nCSF protein: 58 mg/dL (15 to 45)\nCSF glucose: 60 mg/dL (40 to 70)\n\nWhich of the following is the most likely cause?",
+   "stem": "A 26-year-old man living in Hawaii is brought to the emergency department with 2 days of severe headache, neck stiffness, fever, and burning paresthesias in his legs. Five days earlier he ate a salad made from lettuce from his backyard garden, where slugs and snails are common. Laboratory studies show:\n\n[[labs 0]]\n\nWhich of the following is the most likely cause?",
    "choices": [
     "Naegleria fowleri",
     "Angiostrongylus cantonensis",
@@ -236,18 +472,57 @@
    "answer": 1,
    "evidence": [],
    "explain": {
-    "html": "<p>More than 10% eosinophils in the cerebrospinal fluid defines eosinophilic meningitis. Exposure to snails or slugs on garden vegetables in Hawaii points to <i>Angiostrongylus cantonensis</i>, the rat lungworm, which is found in Southeast Asia, the Caribbean, Hawaii, and the southern United States.</p><p>Humans are accidental hosts: ingested larvae travel to the CNS, get stuck, die, and provoke eosinophilic inflammation. Most cases are self-limited, and all treatment is supportive. The leading causes of eosinophilic meningitis are Angiostrongylus and Baylisascaris, ahead of Toxocara.</p>",
-    "table": null,
+    "html": "<p><b>Eosinophilic meningitis</b> is defined as more than 10 eosinophils/mm3 or <b>more than 10% eosinophils in the CSF</b>. Its main causes are <i>Angiostrongylus</i> and <i>Baylisascaris</i>, ahead of <i>Toxocara</i>. In each, humans are <b>accidental hosts</b>: ingested larvae travel to the CNS, get stuck, die and trigger eosinophilic inflammation, and <b>all treatment is supportive</b>.</p><p>The exposure picks the worm. <i>Angiostrongylus cantonensis</i>, the <b>rat lungworm</b>, comes from <b>snails or slugs on produce</b>, or infected crab or shrimp, in Southeast Asia, the Caribbean, <b>Hawaii</b> and the southern US, and most cases are self-limited. This man in Hawaii ate lettuce from a garden full of slugs and snails, and has headache, neck stiffness, paresthesias and 18% CSF eosinophils.</p>",
+    "table": "<table><tr><th>Cause</th><th>Exposure</th><th>Main syndrome</th></tr><tr><td><i>Angiostrongylus cantonensis</i> (rat lungworm)</td><td>Snails, slugs, produce, crab, shrimp; SE Asia, Caribbean, Hawaii, southern US</td><td>Eosinophilic (aseptic) meningitis, usually self-limited</td></tr><tr><td><i>Baylisascaris procyonis</i> (raccoon roundworm)</td><td>Raccoon feces, sandboxes, garbage; northeast and Midwest US, Canada</td><td>Eosinophilic meningitis; neural, ocular, visceral larva migrans</td></tr><tr><td><i>Toxocara</i> (dog, cat roundworm)</td><td>Soil, sand, puppies, pica</td><td>Visceral, ocular, neural larva migrans; less often meningitis</td></tr></table>",
     "why": [
-     "Naegleria causes fulminant meningoencephalitis after warm freshwater swimming, without CSF eosinophilia.",
+     "Naegleria causes fulminant meningoencephalitis after freshwater swimming, without CSF eosinophilia.",
      "",
-     "Taenia solium causes neurocysticercosis with seizures and brain cysts.",
-     "Toxocara is a less common cause and fits a young child with pica and puppies.",
-     "Trichinella causes myalgia and periorbital edema after eating wild-game meat."
+     "Taenia solium causes neurocysticercosis with seizures and brain cysts, not eosinophilic meningitis after a salad.",
+     "Toxocara is a less common cause of eosinophilic meningitis and fits a young child with pica and puppies.",
+     "Trichinella causes myalgia, periorbital edema and eosinophilia after undercooked wild-game meat."
     ],
-    "takeaway": "Eosinophilic meningitis after eating produce contaminated by snails or slugs (Hawaii, Caribbean, southern US) is Angiostrongylus; treatment is supportive.",
+    "takeaway": "Eosinophilic meningitis after eating produce contaminated by snails or slugs in Hawaii, the Caribbean or the southern US is Angiostrongylus cantonensis, and treatment is supportive.",
     "topic": "Eosinophilic meningitis: Angiostrongylus",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "Identify the causes of eosinophilic meningitis and their exposures.",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Naegleria causes fulminant meningoencephalitis after freshwater swimming, without CSF eosinophilia.",
+      "if_right": "rapid deterioration after lake swimming with amebae seen in the CSF"
+     },
+     {
+      "choice": 2,
+      "why": "Taenia solium causes neurocysticercosis with seizures and brain cysts, not eosinophilic meningitis after a salad.",
+      "if_right": "seizures with ring-enhancing parenchymal cysts in someone from a pig-raising area"
+     },
+     {
+      "choice": 3,
+      "why": "Toxocara is a less common cause of eosinophilic meningitis and fits a young child with pica and puppies.",
+      "if_right": "a toddler with pica, puppies, hepatomegaly and very high blood eosinophils"
+     },
+     {
+      "choice": 4,
+      "why": "Trichinella causes myalgia, periorbital edema and eosinophilia after undercooked wild-game meat.",
+      "if_right": "fever, severe myalgia and periorbital edema after eating rare bear meat"
+     }
+    ],
+    "slides": {
+     "stem": [
+      46,
+      47
+     ],
+     "answer": [
+      47
+     ],
+     "distractors": [
+      47,
+      10,
+      48,
+      49
+     ]
+    },
+    "deck": "36 Parasitology II"
    },
    "figures": [
     {
@@ -255,6 +530,30 @@
      "slide": 47,
      "caption": "Lecture 36 slides (2025-26) · Page 47"
     }
+   ],
+   "labs": [
+    [
+     [
+      "Peripheral eosinophils",
+      "14% (1 to 4)"
+     ],
+     [
+      "CSF nucleated cells",
+      "380/microL (0 to 5)"
+     ],
+     [
+      "CSF eosinophils",
+      "18% (0)"
+     ],
+     [
+      "CSF protein",
+      "58 mg/dL (15 to 45)"
+     ],
+     [
+      "CSF glucose",
+      "60 mg/dL (40 to 70)"
+     ]
+    ]
    ]
   },
   {
@@ -272,18 +571,57 @@
    "answer": 0,
    "evidence": [],
    "explain": {
-    "html": "<p>Unilateral loss of vision with a retinal mass and chorioretinitis in a school-age child who plays in soil or sand contaminated by dogs and cats is ocular toxocariasis (ocular larva migrans), which mostly affects children 5 to 10 years old. A single larva penetrates one eye, dies, and provokes inflammation.</p><p>It can be misdiagnosed as retinoblastoma, and there is often no systemic involvement, so a normal eosinophil count does not exclude it. Treatment focuses on minimizing damage to the eye; albendazole is the antiparasitic.</p>",
-    "table": null,
+    "html": "<p><i>Toxocara</i> larvae from dog or cat feces in soil and sand cause three forms of disease. <b>Ocular toxocariasis</b> (ocular larva migrans) mostly affects <b>children 5 to 10 years old</b> and is <b>usually unilateral</b>: a single larva penetrates one eye and causes decreased vision, uveitis and chorioretinitis.</p><p>Two features make it a trap. It <b>can be misdiagnosed as retinoblastoma</b>, and there is <b>often no systemic involvement</b>, so a normal eosinophil count does not exclude it. This 7-year-old who plays in a sandbox shared with cats and dogs has vision loss in one eye with a whitish retinal mass and chorioretinitis, and the oncology consult reflects exactly that mimicry. Treatment aims to <b>minimize damage to the eye</b>, with albendazole as the antiparasitic.</p>",
+    "table": "<table><tr><th>Form</th><th>Typical age</th><th>Features</th></tr><tr><td>Visceral (VLM)</td><td>Under 5</td><td>Fever, wheeze, hepatomegaly, eosinophilia up to 70%</td></tr><tr><td>Ocular (OLM)</td><td>5 to 10</td><td>Unilateral vision loss, uveitis, chorioretinitis, mimics retinoblastoma, often no systemic signs</td></tr><tr><td>Neural (CNS)</td><td>Rare</td><td>Seizures, neuropsychiatric symptoms, encephalopathy</td></tr></table>",
     "why": [
      "",
-     "Black fly-borne Onchocerca causes river blindness in adults living near rivers in endemic areas, with skin findings.",
-     "A worm migrating under the conjunctiva is Loa loa in an adult from Central Africa.",
-     "Free-living amebae infect the cornea in contact lens wearers (Acanthamoeba keratitis).",
-     "Cysticerci of T. solium come from ingesting eggs, not pork, and do not fit this pet exposure."
+     "Black fly-borne Onchocerca causes river blindness in adults near rivers in endemic areas, with skin nodules and itch.",
+     "An adult worm migrating under the conjunctiva is Loa loa in an adult from Central Africa.",
+     "Free-living amebae infect the cornea of contact lens wearers and cause a painful ulcer, not a retinal mass.",
+     "Cysticerci come from ingesting T. solium eggs, not from eating pork, and do not fit this pet exposure."
     ],
-    "takeaway": "Ocular toxocariasis, a unilateral retinal lesion in a child 5 to 10 years old exposed to dog or cat feces, can be mistaken for retinoblastoma and often lacks systemic signs.",
+    "takeaway": "Ocular toxocariasis is a unilateral retinal lesion in a child 5 to 10 years old exposed to dog or cat feces; it can mimic retinoblastoma and often lacks eosinophilia.",
     "topic": "Ocular toxocariasis",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "Describe ocular toxocariasis and how it differs from the other forms of toxocariasis.",
+    "rows": [
+     {
+      "choice": 1,
+      "why": "Black fly-borne Onchocerca causes river blindness in adults near rivers in endemic areas, with skin nodules and itch.",
+      "if_right": "years of itching and skin nodules in an adult from a West African river village"
+     },
+     {
+      "choice": 2,
+      "why": "An adult worm migrating under the conjunctiva is Loa loa in an adult from Central Africa.",
+      "if_right": "Calabar swellings and a worm seen crossing the eye"
+     },
+     {
+      "choice": 3,
+      "why": "Free-living amebae infect the cornea of contact lens wearers and cause a painful ulcer, not a retinal mass.",
+      "if_right": "a contact lens wearer rinsing lenses in tap water with a corneal ulcer"
+     },
+     {
+      "choice": 4,
+      "why": "Cysticerci come from ingesting T. solium eggs, not from eating pork, and do not fit this pet exposure.",
+      "if_right": "a household tapeworm carrier and cysts in the brain or eye"
+     }
+    ],
+    "slides": {
+     "stem": [
+      44
+     ],
+     "answer": [
+      44,
+      43
+     ],
+     "distractors": [
+      55,
+      52,
+      44,
+      8
+     ]
+    },
+    "deck": "36 Parasitology II"
    },
    "figures": [
     {
@@ -308,18 +646,58 @@
    "answer": 3,
    "evidence": [],
    "explain": {
-    "html": "<p>Ring-enhancing brain cysts with seizures are neurocysticercosis (NCC) from <i>Taenia solium</i>, the pork tapeworm. The route decides the disease: eating pork that contains cysticerci leaves an adult tapeworm in the intestine (taeniasis), while ingesting the eggs lets larvae travel to muscle, eyes, and brain and form cysticerci there.</p><p>So NCC does not require eating pork. A household contact carrying the adult tapeworm sheds eggs in feces, and fecal contamination of food or hands transmits them; household contacts have about a 3-fold higher risk. The housekeeper with taeniasis is the source.</p>",
-    "table": null,
+    "html": "<p>With <i>Taenia solium</i>, the <b>form that is swallowed decides the disease</b>. Eating undercooked pork that contains <b>cysticerci</b> lets the larva attach by its scolex and grow into an adult tapeworm in the intestine (<b>taeniasis</b>), and that carrier then passes proglottids full of eggs in the stool. When a person instead <b>ingests the eggs</b>, the larvae cross the gut, enter the blood and lodge in muscle, eyes and brain, where they form cysticerci (<b>neurocysticercosis</b>). Neurocysticercosis therefore does not require eating pork, and household contacts of a carrier have about a 3-fold higher risk.</p><p>This patient never traveled and eats no meat, yet has seizures with ring-enhancing brain cysts. The decisive clue is her <b>housekeeper with tapeworm segments in the stool</b>: fecal contamination of food or hands carried that carrier's eggs to her. Finding and treating the tapeworm carrier in the household is what stops further cases.</p>",
+    "table": "<table><tr><th>What is ingested</th><th>Where the parasite ends up</th><th>Disease</th><th>Treatment</th></tr><tr><td>Cysticerci (larvae) in undercooked pork</td><td>Adult tapeworm attached to the intestine by its scolex</td><td>Taeniasis</td><td>Praziquantel</td></tr><tr><td>Eggs or proglottids from human feces</td><td>Cysticerci in muscle, eyes and brain</td><td>(Neuro)cysticercosis</td><td>Steroids and albendazole</td></tr></table>",
     "why": [
-     "Eating pork with cysticerci causes intestinal taeniasis, not brain cysts, and she does not eat meat.",
-     "Fly bites transmit filarial worms such as Loa loa and Onchocerca.",
-     "Skin penetration from soil is the route of hookworm and Strongyloides.",
+     "Pork containing cysticerci produces an intestinal tapeworm (taeniasis), not brain cysts, and she does not eat meat.",
+     "Fly bites transmit filarial worms, which cause skin, eye or blood findings rather than brain cysts.",
+     "Skin penetration from soil is the route of hookworm and Strongyloides, which do not form brain cysts.",
      "",
-     "Raw fish transmits the fish tapeworm and liver flukes, not cysticercosis."
+     "Raw fish transmits the fish tapeworm, which stays in the intestine."
     ],
-    "takeaway": "Neurocysticercosis comes from ingesting T. solium eggs (fecal-oral, often from a household tapeworm carrier); eating larvae in pork causes only intestinal taeniasis.",
+    "takeaway": "Neurocysticercosis follows ingestion of T. solium eggs shed by a human tapeworm carrier, so it occurs in people who never eat pork; eating cysticerci in pork causes only intestinal taeniasis.",
     "topic": "Neurocysticercosis: acquisition without eating pork",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "Distinguish taeniasis, from eating cysticerci in pork, from neurocysticercosis, from ingesting Taenia solium eggs.",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Pork containing cysticerci produces an intestinal tapeworm (taeniasis), not brain cysts, and she does not eat meat.",
+      "if_right": "an intestinal tapeworm with proglottids in her own stool after eating undercooked pork"
+     },
+     {
+      "choice": 1,
+      "why": "Fly bites transmit filarial worms, which cause skin, eye or blood findings rather than brain cysts.",
+      "if_right": "Calabar swellings or a worm crossing the eye after years in a Central African rainforest (Loa loa)"
+     },
+     {
+      "choice": 2,
+      "why": "Skin penetration from soil is the route of hookworm and Strongyloides, which do not form brain cysts.",
+      "if_right": "a barefoot patient with an itchy foot track, cough, then iron deficiency anemia"
+     },
+     {
+      "choice": 4,
+      "why": "Raw fish transmits the fish tapeworm, which stays in the intestine.",
+      "if_right": "megaloblastic anemia in someone who eats raw fish from cold northern lakes"
+     }
+    ],
+    "slides": {
+     "stem": [
+      9,
+      5
+     ],
+     "answer": [
+      8,
+      5
+     ],
+     "distractors": [
+      8,
+      50,
+      21,
+      4
+     ]
+    },
+    "deck": "36 Parasitology II"
    },
    "figures": [
     {
@@ -344,18 +722,56 @@
    "answer": 4,
    "evidence": [],
    "explain": {
-    "html": "<p>Eating raw fish from cold lakes of Northern Europe with passage of flat worm segments and eggs in stool identifies <i>Diphyllobothrium latum</i>, the fish tapeworm. It is the longest of the intestinal tapeworms (about 10 meters) and can live 25 years.</p><p>The worm takes up vitamin B12 in the gut, and about 40% of patients develop megaloblastic anemia, which fits the high MCV, hypersegmented neutrophils, and neuropathy. Like the other intestinal tapeworms it is diagnosed by eggs on stool O&amp;P and treated with praziquantel.</p>",
-    "table": null,
+    "html": "<p>Intestinal tapeworms are acquired as <b>larvae in undercooked food</b>, attach to the intestine by the scolex and usually cause only mild epigastric discomfort, nausea, flatulence or diarrhea. Proglottids release eggs that pass in feces, so <b>stool O&amp;P</b> finds them, and <b>praziquantel</b> treats them. <i>Diphyllobothrium latum</i>, the <b>fish tapeworm</b>, comes from cold bodies of water in Northern Europe, North America and Japan; it reaches about 10 meters and can live 25 years.</p><p>What sets it apart is that the worm takes up <b>vitamin B12</b> in the gut, and about <b>40% of patients develop megaloblastic anemia</b>. This Finnish man who eats raw lake fish has passed flat segments and has a macrocytic anemia with hypersegmented neutrophils and neuropathy, which is exactly the B12 picture. The anemia type separates this worm from hookworm, which causes a microcytic iron deficiency.</p>",
+    "table": "<table><tr><th>Tapeworm</th><th>Source</th><th>Distinguishing feature</th></tr><tr><td><i>Diphyllobothrium latum</i></td><td>Raw fish from cold water (N. Europe, N. America, Japan)</td><td>Up to 10 m, lives 25 years, megaloblastic anemia in 40%</td></tr><tr><td><i>Taenia solium</i></td><td>Pork (larvae) or human feces (eggs)</td><td>Humans can be definitive or intermediate host; neurocysticercosis</td></tr><tr><td><i>Taenia saginata</i></td><td>Beef</td><td>Humans are definitive host only; longest Taenia, more symptoms from length</td></tr></table>",
     "why": [
-     "Red cell ingestion in the small intestine is how hookworms cause iron deficiency (microcytic) anemia.",
-     "Parasite-filled splenic macrophages describe visceral leishmaniasis.",
-     "Tapeworm larvae do not replace the bone marrow.",
-     "Colonic blood loss would give a microcytic picture and fits Trichuris or amebiasis, not this macrocytosis.",
+     "Blood feeding by adult worms in the small intestine is hookworm and causes a microcytic iron deficiency anemia, not macrocytosis.",
+     "Parasite-filled splenic macrophages are not a tapeworm feature and would not give hypersegmented neutrophils.",
+     "Intestinal tapeworm larvae do not invade the bone marrow; the adult stays attached in the gut.",
+     "Colonic blood loss gives iron deficiency with a low MCV, not an MCV of 118 fL.",
      ""
     ],
-    "takeaway": "The fish tapeworm Diphyllobothrium latum (raw fish from cold lakes) causes megaloblastic anemia from vitamin B12 deficiency.",
+    "takeaway": "Diphyllobothrium latum, acquired from raw fish in cold northern waters, absorbs vitamin B12 and causes megaloblastic anemia in about 40% of infected patients.",
     "topic": "Diphyllobothrium latum: vitamin B12 deficiency",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "Compare the intestinal tapeworms: Diphyllobothrium latum, Taenia solium and Taenia saginata.",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Blood feeding by adult worms in the small intestine is hookworm and causes a microcytic iron deficiency anemia, not macrocytosis.",
+      "if_right": "a barefoot child with microcytic anemia, low ferritin and low albumin"
+     },
+     {
+      "choice": 1,
+      "why": "Parasite-filled splenic macrophages are not a tapeworm feature and would not give hypersegmented neutrophils.",
+      "if_right": "a protozoan infection of macrophages with massive splenomegaly"
+     },
+     {
+      "choice": 2,
+      "why": "Intestinal tapeworm larvae do not invade the bone marrow; the adult stays attached in the gut.",
+      "if_right": "a parasite known to infiltrate the marrow with pancytopenia"
+     },
+     {
+      "choice": 3,
+      "why": "Colonic blood loss gives iron deficiency with a low MCV, not an MCV of 118 fL.",
+      "if_right": "bloody diarrhea and rectal prolapse from whipworm with a microcytic anemia"
+     }
+    ],
+    "slides": {
+     "stem": [
+      4
+     ],
+     "answer": [
+      4
+     ],
+     "distractors": [
+      33,
+      4,
+      4,
+      30
+     ]
+    },
+    "deck": "36 Parasitology II"
    },
    "figures": [
     {
@@ -380,18 +796,58 @@
    "answer": 2,
    "evidence": [],
    "explain": {
-    "html": "<p>A large liver cyst with internal daughter cysts in a person from a sheep-raising area, with positive serology, is hydatid disease from <i>Echinococcus</i>. The adult tapeworm lives in the small intestine of dogs, the definitive host; humans are incidental hosts that ingest eggs and develop only the larval hydatid cyst in liver or lung.</p><p>Because no adult worm lives in the human gut, no eggs appear in stool, and O&amp;P is not a useful test. Diagnosis is imaging (ultrasound, CT) plus serology, and treatment depends on the cyst stage: resection if curative, and albendazole.</p>",
-    "table": null,
+    "html": "<p>Whether stool O&amp;P can find a helminth depends on <b>whether an egg-laying adult lives in the human gut</b>. For <i>Echinococcus</i>, the adult tapeworm lives in the small intestine of <b>dogs, the definitive host</b>. Humans are <b>incidental hosts</b> who swallow eggs and develop only the <b>larval hydatid cyst</b> in liver or lung, so no eggs ever reach human stool.</p><p>This woman from a sheep-raising region has a 12-cm liver cyst with internal daughter cysts and positive serology, and her three negative stool exams are exactly what is expected. The diagnosis is made by <b>imaging (ultrasound, CT) and serology</b>, not O&amp;P. Treatment depends on the stage of the liver cyst: <b>resection if curative, and albendazole</b>.</p>",
+    "table": "<table><tr><th>Organism</th><th>Why stool O&amp;P fails</th><th>Test to use</th></tr><tr><td><i>Echinococcus</i></td><td>Humans carry only the larval cyst</td><td>Imaging (US, CT) and serology</td></tr><tr><td><i>Enterobius</i></td><td>Eggs laid on perianal skin</td><td>Scotch tape test</td></tr><tr><td><i>Toxocara</i></td><td>Larvae never mature in the human gut</td><td>Serology (ELISA)</td></tr><tr><td><i>Strongyloides</i></td><td>Poor sensitivity, needs 3 samples</td><td>Serology</td></tr><tr><td><i>Trichinella</i></td><td>Larvae encyst in muscle</td><td>Serum antibody, muscle biopsy</td></tr></table>",
     "why": [
-     "Nocturnal perianal egg laying describes the pinworm.",
-     "More samples help for Strongyloides, but no number of stool samples finds Echinococcus eggs in humans.",
+     "Nocturnal perianal egg laying is pinworm, which causes itching, not a liver cyst.",
+     "No number of stool samples finds Echinococcus eggs in humans; the multiple-sample rule belongs to Strongyloides.",
      "",
-     "Gastric acid is not the reason; there is simply no adult worm in the human intestine.",
-     "Eggs in urine describe urinary schistosomiasis."
+     "Gastric acid is not the reason; there is simply no adult worm in the human intestine to make eggs.",
+     "Eggs in urine describe urinary schistosomiasis, which presents with hematuria."
     ],
-    "takeaway": "Humans are incidental hosts of Echinococcus carrying only the hydatid cyst, so stool O&P is negative; diagnose by imaging and serology.",
+    "takeaway": "Humans carry only the larval hydatid cyst of Echinococcus, so stool O&P is negative; diagnose with imaging and serology and treat by stage with resection and albendazole.",
     "topic": "Echinococcus: why stool testing fails and humans are dead-end hosts",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "Explain why stool O&amp;P is negative in echinococcosis and state how it is diagnosed and treated.",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Nocturnal perianal egg laying is pinworm, which causes itching, not a liver cyst.",
+      "if_right": "a child with nighttime perianal itching and a positive scotch tape test"
+     },
+     {
+      "choice": 1,
+      "why": "No number of stool samples finds Echinococcus eggs in humans; the multiple-sample rule belongs to Strongyloides.",
+      "if_right": "chronic larva currens where one stool exam is negative and more samples are needed"
+     },
+     {
+      "choice": 3,
+      "why": "Gastric acid is not the reason; there is simply no adult worm in the human intestine to make eggs.",
+      "if_right": "none; eggs do reach stool intact in intestinal tapeworm, Ascaris and hookworm infection"
+     },
+     {
+      "choice": 4,
+      "why": "Eggs in urine describe urinary schistosomiasis, which presents with hematuria.",
+      "if_right": "painless hematuria after swimming in an African lake"
+     }
+    ],
+    "slides": {
+     "stem": [
+      15,
+      17
+     ],
+     "answer": [
+      17,
+      16
+     ],
+     "distractors": [
+      25,
+      40,
+      17,
+      17
+     ]
+    },
+    "deck": "36 Parasitology II"
    },
    "figures": [
     {
@@ -416,18 +872,58 @@
    "answer": 4,
    "evidence": [],
    "explain": {
-    "html": "<p>A 15 to 30 cm roundworm passed in stool, with obstruction in a heavily infected child, is <i>Ascaris lumbricoides</i>, a soil-transmitted helminth acquired by swallowing eggs from contaminated soil or vegetation.</p><p>The ingested eggs hatch into larvae in the gut, which cross the mucosa, travel in the blood to the liver, then to the lungs, ascend the bronchi, and are swallowed to mature in the intestine (GUT, LIVER, LUNGS, GUT). Passage through the lungs causes Loeffler syndrome, an eosinophilic pneumonitis with wheeze, dry cough, and transient infiltrates. Diagnosis is mammillated eggs on stool O&amp;P, and treatment is albendazole.</p>",
-    "table": null,
+    "html": "<p><i>Ascaris lumbricoides</i> is a <b>soil-transmitted helminth</b> acquired by swallowing eggs from contaminated soil or vegetation. The eggs hatch in the gut, and the larvae cross the GI mucosa into the blood, reach the liver, then the lungs, climb the bronchi and are swallowed to become adult worms (15 to 30 cm) in the intestine: <b>GUT, LIVER, LUNGS, GUT</b>. When larvae reach the lungs, a few days to a week after infection, they cause <b>Loeffler syndrome</b>, an <b>eosinophilic pneumonitis</b> with wheeze, dyspnea, dry cough and <b>transient pulmonary infiltrates</b>.</p><p>This boy passed a 20-cm worm and now has obstructive symptoms, which heavy infection causes in children. His earlier week of wheeze with transient infiltrates and eosinophilia was the larval lung passage. Diagnosis is mammillated eggs on stool O&amp;P, and treatment is albendazole.</p>",
+    "table": "<table><tr><th>Nematode</th><th>Entry</th><th>Migration</th></tr><tr><td><i>Ascaris</i></td><td>Ingested eggs</td><td>GUT, LIVER, LUNGS, GUT</td></tr><tr><td>Hookworm (<i>Necator</i>, <i>Ancylostoma</i>)</td><td>Larvae penetrate skin</td><td>SKIN, LUNGS, GUT</td></tr><tr><td><i>Strongyloides</i></td><td>Larvae penetrate skin</td><td>SKIN, LUNGS, GUT, plus autoinfection</td></tr><tr><td><i>Enterobius</i>, <i>Trichuris</i></td><td>Ingested eggs</td><td>No lung phase</td></tr></table>",
     "why": [
-     "Skin penetration followed by lung passage is the route of hookworm and Strongyloides, not Ascaris.",
-     "Loeffler syndrome reflects migrating larvae and eosinophils, not cross-reacting antibodies.",
-     "Ascaris eggs are swallowed, not inhaled.",
-     "Adults live in the intestine; the lung phase is larval.",
+     "Skin penetration followed by lung passage is the route of hookworm and Strongyloides; Ascaris enters by swallowed eggs.",
+     "Loeffler syndrome comes from migrating larvae and eosinophils in the lung, not antibody cross-reactivity.",
+     "Ascaris eggs are swallowed and hatch in the gut; they are not inhaled.",
+     "Adult worms live in the intestine; the lung phase is larval and happened weeks earlier.",
      ""
     ],
-    "takeaway": "Ascaris larvae follow GUT, LIVER, LUNGS, GUT; their lung passage causes Loeffler syndrome (eosinophilic pneumonitis with transient infiltrates).",
+    "takeaway": "Ascaris larvae migrate GUT, LIVER, LUNGS, GUT, and their lung passage causes Loeffler syndrome: eosinophilic pneumonitis with wheeze and transient infiltrates.",
     "topic": "Ascaris: larval migration through the lungs",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "Trace the life cycle of Ascaris lumbricoides and explain Loeffler syndrome.",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Skin penetration followed by lung passage is the route of hookworm and Strongyloides; Ascaris enters by swallowed eggs.",
+      "if_right": "a barefoot child with an itchy foot rash before the cough, then microcytic anemia"
+     },
+     {
+      "choice": 1,
+      "why": "Loeffler syndrome comes from migrating larvae and eosinophils in the lung, not antibody cross-reactivity.",
+      "if_right": "a post-streptococcal illness with cross-reacting antibodies"
+     },
+     {
+      "choice": 2,
+      "why": "Ascaris eggs are swallowed and hatch in the gut; they are not inhaled.",
+      "if_right": "a fungal spore illness acquired by inhaling dust"
+     },
+     {
+      "choice": 3,
+      "why": "Adult worms live in the intestine; the lung phase is larval and happened weeks earlier.",
+      "if_right": "a heavy infection where an adult worm is coughed up or vomited"
+     }
+    ],
+    "slides": {
+     "stem": [
+      27,
+      29
+     ],
+     "answer": [
+      29,
+      38
+     ],
+     "distractors": [
+      38,
+      38,
+      29,
+      29
+     ]
+    },
+    "deck": "36 Parasitology II"
    },
    "figures": [
     {
@@ -441,7 +937,7 @@
    "id": "miid2-w07-lec36-q13",
    "source": "practice",
    "source_ref": "Written from the 2025-26 Lecture 36 slides",
-   "stem": "A 12-year-old boy from a rural community with outdoor latrines and no indoor plumbing is brought to the clinic because of fatigue, poor school performance, and pallor. He usually goes barefoot. He has had no blood in his stool. Laboratory studies show:\n\nHemoglobin: 8.2 g/dL (12 to 16)\nMean corpuscular volume: 66 fL (80 to 100)\nFerritin: 5 ng/mL (15 to 200)\nSerum albumin: 3.0 g/dL (3.5 to 5.5)\nEosinophils: 9% (1 to 4)\n\nStool microscopy shows thin-shelled oval eggs.\n\nWhich of the following is the most likely mechanism of his anemia?",
+   "stem": "A 12-year-old boy from a rural community with outdoor latrines and no indoor plumbing is brought to the clinic because of fatigue, poor school performance, and pallor. He usually goes barefoot. He has had no blood in his stool. Laboratory studies show:\n\n[[labs 0]]\n\nStool microscopy shows thin-shelled oval eggs.\n\nWhich of the following is the most likely mechanism of his anemia?",
    "choices": [
     "Vitamin B12 absorbed by a long intestinal tapeworm",
     "Bleeding from flask-shaped ulcers in the colon",
@@ -452,18 +948,58 @@
    "answer": 4,
    "evidence": [],
    "explain": {
-    "html": "<p>Microcytic iron deficiency anemia with low albumin and eosinophilia in a barefoot child in an area with poor sanitation points to hookworm (<i>Necator americanus</i> or <i>Ancylostoma duodenale</i>). Larvae in soil penetrate the skin, travel to the lungs, are coughed up and swallowed, and mature in the small intestine (SKIN, LUNGS, GUT).</p><p>The adults attach to the small intestinal wall and constantly suck blood, producing iron deficiency anemia, and chronic heavy infection adds protein deficiency (low albumin). Diagnosis is eggs in stool, and treatment is albendazole. In the United States, campaigns against hookworm improved school attendance and literacy.</p>",
-    "table": null,
+    "html": "<p>The human hookworms, <i>Necator americanus</i> and <i>Ancylostoma duodenale</i>, are <b>soil-transmitted helminths</b> spread where sanitation is poor: people defecating outside or using human feces as fertilizer, and others walking barefoot. Larvae <b>penetrate the skin</b>, enter the circulation, reach the alveoli, climb the trachea and are swallowed to mature in the <b>small intestine (SKIN, LUNGS, GUT)</b>. The adults attach to the intestinal wall and <b>constantly suck blood</b>, producing <b>iron deficiency anemia</b>, and chronic heavy infection adds <b>protein deficiency</b>.</p><p>This barefoot boy from a community with outdoor latrines has a microcytic anemia with very low ferritin, low albumin, eosinophilia and thin-shelled oval eggs in stool. Diagnosis is eggs in stool and treatment is albendazole. In the southern United States, mass treatment once raised school enrollment, attendance, literacy and income.</p>",
+    "table": "<table><tr><th>Worm</th><th>Mechanism</th><th>Anemia type</th></tr><tr><td><i>Diphyllobothrium latum</i></td><td>Takes up vitamin B12 in the gut</td><td>Megaloblastic (macrocytic)</td></tr><tr><td>Hookworm</td><td>Adults suck blood in the small intestine</td><td>Iron deficiency (microcytic), plus protein loss</td></tr><tr><td><i>Trichuris</i></td><td>Colonic mucosal bleeding (bloody stool)</td><td>Blood loss</td></tr></table>",
     "why": [
-     "B12 uptake by the fish tapeworm causes a macrocytic, not microcytic, anemia.",
-     "Flask-shaped ulcers cause bloody diarrhea from amebiasis, which he does not have.",
-     "Intraerythrocytic protozoa are not part of this picture, and hemolysis would not deplete ferritin.",
-     "Microfilariae circulate in blood but do not suppress the marrow.",
+     "Vitamin B12 uptake by the fish tapeworm causes a macrocytic anemia, not an MCV of 66 fL with low ferritin.",
+     "Flask-shaped colonic ulcers are amebiasis and cause bloody diarrhea, which he does not have.",
+     "Hemolysis from parasitized red cells is a protozoan picture and would not deplete ferritin or albumin.",
+     "Microfilariae circulate in the blood but do not suppress the bone marrow.",
      ""
     ],
-    "takeaway": "Hookworm larvae enter through bare skin (SKIN, LUNGS, GUT) and adults in the small intestine feed on blood, causing iron deficiency anemia and protein deficiency.",
+    "takeaway": "Hookworm larvae enter through bare skin (SKIN, LUNGS, GUT), and adults in the small intestine feed on blood, causing iron deficiency anemia and protein deficiency.",
     "topic": "Hookworm: iron deficiency anemia",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "Describe hookworm transmission, life cycle and disease, including iron deficiency anemia.",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Vitamin B12 uptake by the fish tapeworm causes a macrocytic anemia, not an MCV of 66 fL with low ferritin.",
+      "if_right": "raw lake fish, a high MCV and hypersegmented neutrophils"
+     },
+     {
+      "choice": 1,
+      "why": "Flask-shaped colonic ulcers are amebiasis and cause bloody diarrhea, which he does not have.",
+      "if_right": "bloody diarrhea with a liver abscess and anchovy paste pus"
+     },
+     {
+      "choice": 2,
+      "why": "Hemolysis from parasitized red cells is a protozoan picture and would not deplete ferritin or albumin.",
+      "if_right": "fever cycles after travel with parasites seen inside red cells"
+     },
+     {
+      "choice": 3,
+      "why": "Microfilariae circulate in the blood but do not suppress the bone marrow.",
+      "if_right": "leg lymphedema with microfilariae in a night blood smear"
+     }
+    ],
+    "slides": {
+     "stem": [
+      32,
+      35
+     ],
+     "answer": [
+      33,
+      35
+     ],
+     "distractors": [
+      4,
+      11,
+      35,
+      59
+     ]
+    },
+    "deck": "36 Parasitology II"
    },
    "figures": [
     {
@@ -471,6 +1007,30 @@
      "slide": 33,
      "caption": "Lecture 36 slides (2025-26) · Page 33"
     }
+   ],
+   "labs": [
+    [
+     [
+      "Hemoglobin",
+      "8.2 g/dL (12 to 16)"
+     ],
+     [
+      "Mean corpuscular volume",
+      "66 fL (80 to 100)"
+     ],
+     [
+      "Ferritin",
+      "5 ng/mL (15 to 200)"
+     ],
+     [
+      "Serum albumin",
+      "3.0 g/dL (3.5 to 5.5)"
+     ],
+     [
+      "Eosinophils",
+      "9% (1 to 4)"
+     ]
+    ]
    ]
   },
   {
@@ -488,18 +1048,57 @@
    "answer": 2,
    "evidence": [],
    "explain": {
-    "html": "<p>Years of mild GI symptoms with recurrent linear perianal streaks (larva currens) in a coal miner from Appalachia is chronic <i>Strongyloides stercoralis</i>. Its unique autoinfection cycle lets larvae penetrate the gut mucosa or perianal skin and keeps the infection going for decades.</p><p>When high-dose corticosteroids are started, larval migration increases enormously (hyperinfection). Larvae penetrating the bowel wall carry gut bacteria with them, causing gram-negative rod bacteremia and meningitis in disseminated strongyloidiasis, which is fatal in 50 to 90%. Screening and treating with ivermectin before immunosuppression is the prevention.</p>",
+    "html": "<p><i>Strongyloides stercoralis</i> has an <b>autoinfection cycle</b>: rhabditiform larvae become filariform larvae inside the host and penetrate the gut mucosa or perianal skin, so infection can <b>persist for decades</b>. Chronic infection causes epigastric pain, intermittent diarrhea and constipation, mild eosinophilia, and recurrent itchy linear streaks (<b>larva currens</b>). Risk factors for acquiring it include contact with soil in farming or <b>coal mining</b> and living in Appalachia.</p><p>If <b>high-dose corticosteroids</b>, biologics, chemotherapy, HTLV-1, malignancy or HIV enter the picture, larval migration increases and larvae <b>penetrate the bowel</b>. Hyperinfection keeps them in the lungs and GI tract, while <b>disseminated strongyloidiasis</b> brings <b>gram-negative rod bacteremia and meningitis</b>, with 50 to 90% fatality. This retired coal miner with years of larva currens started prednisone and now has wheeze, hemoptysis, <i>E. coli</i> bacteremia and gram-negative meningitis: the larvae carried gut bacteria with them.</p>",
     "table": null,
     "why": [
-     "Steroids raise neutrophil counts, and this pattern of enteric gram-negative rods after larva currens points to the worm.",
-     "Hydatid cyst rupture causes anaphylaxis, not gram-negative meningitis.",
+     "Steroids do not remove neutrophils, and enteric gram-negative bacteremia after years of larva currens points to the worm carrying gut flora.",
+     "Hydatid cyst rupture causes an allergic reaction or anaphylaxis, not gram-negative meningitis.",
      "",
-     "Intestinal obstruction from adult worms is an Ascaris complication in children.",
+     "Intestinal obstruction from adult worms is an Ascaris complication of heavy infection in children.",
      "Nocturnal microfilariae belong to lymphatic filariasis and do not cause bacteremia."
     ],
-    "takeaway": "In chronic Strongyloides, corticosteroids trigger hyperinfection and dissemination; larvae crossing the bowel carry gram-negative rods into the blood and meninges.",
+    "takeaway": "In chronic Strongyloides infection, corticosteroids trigger hyperinfection and dissemination, and larvae crossing the bowel carry gram-negative rods into the blood and meninges.",
     "topic": "Strongyloides: hyperinfection after immunosuppression",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "Explain Strongyloides autoinfection, hyperinfection and dissemination, and their risk factors.",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Steroids do not remove neutrophils, and enteric gram-negative bacteremia after years of larva currens points to the worm carrying gut flora.",
+      "if_right": "neutropenia after chemotherapy with no history suggesting a helminth"
+     },
+     {
+      "choice": 1,
+      "why": "Hydatid cyst rupture causes an allergic reaction or anaphylaxis, not gram-negative meningitis.",
+      "if_right": "sudden hives and hypotension after trauma over a liver cyst with daughter cysts"
+     },
+     {
+      "choice": 3,
+      "why": "Intestinal obstruction from adult worms is an Ascaris complication of heavy infection in children.",
+      "if_right": "a young child with colicky pain and distension who passes a 20-cm worm"
+     },
+     {
+      "choice": 4,
+      "why": "Nocturnal microfilariae belong to lymphatic filariasis and do not cause bacteremia.",
+      "if_right": "years of leg lymphedema with microfilariae on a midnight smear"
+     }
+    ],
+    "slides": {
+     "stem": [
+      36,
+      39
+     ],
+     "answer": [
+      40
+     ],
+     "distractors": [
+      40,
+      16,
+      29,
+      59
+     ]
+    },
+    "deck": "36 Parasitology II"
    },
    "figures": [
     {
@@ -524,18 +1123,57 @@
    "answer": 0,
    "evidence": [],
    "explain": {
-    "html": "<p>A young child with pica, puppies in the yard, fever, wheezing, hepatomegaly, and very high eosinophilia has visceral larva migrans from <i>Toxocara canis</i> (or <i>T. cati</i>). Dogs and cats are the definitive hosts; humans are incidental hosts who swallow eggs from soil, and the larvae disseminate, die, and provoke eosinophilic inflammation and granulomas.</p><p>The larvae never mature in the human gut, so no eggs are released and stool O&amp;P is not helpful. Diagnosis is serology (ELISA, sensitivity about 70 to 75%) or histology showing granulomas, and treatment is albendazole.</p>",
-    "table": null,
+    "html": "<p><i>Toxocara canis</i> and <i>T. cati</i> have <b>dogs (puppies far more than older dogs) and cats as definitive hosts</b>, and <b>humans are incidental hosts</b>. People ingest eggs from soil, sand, food or water, and the larvae disseminate, die and provoke <b>eosinophilic inflammation</b>. <b>Visceral larva migrans</b>, usually in children under 5, brings fever, cough and bronchospasm, abdominal pain, hepatomegaly and eosinophilia up to 70%.</p><p>This 3-year-old with pica, new puppies in the yard, wheeze, hepatomegaly and 52% eosinophils fits that picture. The larvae never mature in the human gut, so <b>no eggs are released and stool O&amp;P is not helpful</b>. Diagnosis is <b>serology by ELISA</b> (sensitivity about 70 to 75%) or histology showing granulomas, and treatment is albendazole.</p>",
+    "table": "<table><tr><th>Form</th><th>Typical age</th><th>Features</th></tr><tr><td>Visceral (VLM)</td><td>Under 5</td><td>Fever, wheeze, hepatomegaly, eosinophilia up to 70%</td></tr><tr><td>Ocular (OLM)</td><td>5 to 10</td><td>Unilateral vision loss, uveitis, chorioretinitis, mimics retinoblastoma, often no systemic signs</td></tr><tr><td>Neural (CNS)</td><td>Rare</td><td>Seizures, neuropsychiatric symptoms, encephalopathy</td></tr></table>",
     "why": [
      "",
-     "Stool exams cannot find Toxocara because no eggs are released in the human gut.",
-     "The scotch tape test finds pinworm eggs.",
-     "A night smear finds Wuchereria and Brugia microfilariae.",
-     "Eggs in sputum suggest Paragonimus."
+     "More stool exams cannot find Toxocara because no eggs are released in the human gut.",
+     "The scotch tape test collects pinworm eggs from perianal skin.",
+     "A night smear finds Wuchereria and Brugia microfilariae, not Toxocara larvae.",
+     "Operculated eggs in sputum are a lung fluke feature and do not fit puppies, pica and hepatomegaly."
     ],
-    "takeaway": "Toxocara (puppies, pica, eosinophilia, hepatomegaly) cannot mature in humans, so stool O&P is negative; diagnosis is by serology.",
+    "takeaway": "Toxocara visceral larva migrans (puppies, pica, hepatomegaly, marked eosinophilia) is diagnosed by serology, because the larvae never mature in humans and stool O&P is negative.",
     "topic": "Visceral toxocariasis: diagnosis",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "Describe Toxocara epidemiology, visceral larva migrans and its diagnosis.",
+    "rows": [
+     {
+      "choice": 1,
+      "why": "More stool exams cannot find Toxocara because no eggs are released in the human gut.",
+      "if_right": "an intestinal nematode with adults in the gut, such as Strongyloides"
+     },
+     {
+      "choice": 2,
+      "why": "The scotch tape test collects pinworm eggs from perianal skin.",
+      "if_right": "nocturnal perianal itching spreading through a household"
+     },
+     {
+      "choice": 3,
+      "why": "A night smear finds Wuchereria and Brugia microfilariae, not Toxocara larvae.",
+      "if_right": "mosquito exposure in an endemic region with lymphedema"
+     },
+     {
+      "choice": 4,
+      "why": "Operculated eggs in sputum are a lung fluke feature and do not fit puppies, pica and hepatomegaly.",
+      "if_right": "chronic cough with hemoptysis after eating raw freshwater crab"
+     }
+    ],
+    "slides": {
+     "stem": [
+      43,
+      44
+     ],
+     "answer": [
+      45
+     ],
+     "distractors": [
+      45,
+      25,
+      60,
+      45
+     ]
+    },
+    "deck": "36 Parasitology II"
    },
    "figures": [
     {
@@ -560,10 +1198,10 @@
    "answer": 4,
    "evidence": [],
    "explain": {
-    "html": "<p>Fever, eosinophilia, severe myalgia, and periorbital edema after eating undercooked bear (or pig or cougar) meat is trichinellosis from <i>Trichinella spiralis</i>. Larvae ingested in the meat mature in the gut and their offspring travel to striated muscle and encyst; involvement of the muscles around the eye produces periorbital edema.</p><p>The diagnosis is made by serum antibody or muscle biopsy showing the encysted larvae, and treatment is albendazole, with steroids if severe. Cooking meat to an internal temperature of at least 165 F (74 C) kills the parasite.</p>",
+    "html": "<p><i>Trichinella spiralis</i> is acquired by <b>ingesting larvae in undercooked bear, pig or cougar meat</b>. Early manifestations are fever, urticaria, <b>eosinophilia</b>, <b>severe myalgias</b>, abdominal pain and <b>periorbital edema</b>. The larvae travel to striated muscle and encyst, and involvement of the muscles around the eye produces the periorbital swelling.</p><p>Three hunters who shared rare bear meat now have fever, muscle pain, swelling around both eyes, 26% eosinophils and a high creatine kinase. Because the parasite lives in muscle, the diagnosis is <b>serum antibody or muscle biopsy</b>, and treatment is <b>albendazole, plus steroids if severe</b>. Cooking meat to an internal temperature of at least 165 F (74 C) prevents it.</p>",
     "table": null,
     "why": [
-     "The disease lives in muscle, so stool O&P is not a reliable way to confirm it.",
+     "Trichinella is on the list of helminths whose eggs are not found in stool; the disease lives in muscle.",
      "CSF eosinophils point to Angiostrongylus or Baylisascaris, not this myositis picture.",
      "The scotch tape test is for pinworm.",
      "A skin snip in saline is the test for Onchocerca.",
@@ -571,7 +1209,45 @@
     ],
     "takeaway": "Trichinella (undercooked bear or pork: fever, myalgia, periorbital edema, eosinophilia) is confirmed by serology or muscle biopsy and treated with albendazole, plus steroids if severe.",
     "topic": "Trichinella: periorbital edema and myalgia",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "Describe Trichinella spiralis transmission, presentation, diagnosis and treatment.",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Trichinella is on the list of helminths whose eggs are not found in stool; the disease lives in muscle.",
+      "if_right": "an intestinal nematode whose eggs are passed in feces, such as Ascaris"
+     },
+     {
+      "choice": 1,
+      "why": "CSF eosinophils point to Angiostrongylus or Baylisascaris, not this myositis picture.",
+      "if_right": "headache, stiff neck and paresthesias after eating snail-contaminated produce"
+     },
+     {
+      "choice": 2,
+      "why": "The scotch tape test is for pinworm.",
+      "if_right": "nocturnal perianal itching in a child"
+     },
+     {
+      "choice": 3,
+      "why": "A skin snip in saline is the test for Onchocerca.",
+      "if_right": "itchy skin nodules and eye scarring near a fast-flowing African river"
+     }
+    ],
+    "slides": {
+     "stem": [
+      49
+     ],
+     "answer": [
+      49
+     ],
+     "distractors": [
+      61,
+      47,
+      25,
+      56
+     ]
+    },
+    "deck": "36 Parasitology II"
    },
    "figures": [
     {
@@ -596,18 +1272,57 @@
    "answer": 0,
    "evidence": [],
    "explain": {
-    "html": "<p>Migrating painless swellings (Calabar swellings), a worm crossing the eye, and microfilariae in blood drawn during the day identify <i>Loa loa</i>, the African eye worm, transmitted by Chrysops flies in the rainforests of West and Central Africa. Adults move through subcutaneous connective tissue and release microfilariae into the blood during the day.</p><p>Diethylcarbamazine (DEC) kills both microfilariae and adults, but with a heavy microfilarial load it carries a risk of brain inflammation after administration, and it should not be used where Onchocerca is endemic. That caution is the key decision here.</p>",
-    "table": null,
+    "html": "<p><i>Loa loa</i>, the <b>African eye worm</b>, is transmitted by the <b>Chrysops fly</b> in the rainforests of West and Central Africa and develops into adults only in humans. Adults move through subcutaneous connective tissue, causing transient <b>Calabar swellings</b>, and can <b>migrate across the eye</b>. They release <b>microfilariae into the blood during the day</b>, so diagnosis is the removed worm or a daytime blood smear.</p><p><b>Diethylcarbamazine (DEC)</b> kills both microfilariae and adult worms, but with a heavy infection it carries a <b>risk of brain inflammation</b> after administration, and it should not be used where Onchocerca is endemic. This man has Calabar swellings, an eye worm and a high-density noon smear, so the heavy microfilarial load is the treatment decision that matters most.</p>",
+    "table": "<table><tr><th>Filaria</th><th>Vector</th><th>Adults</th><th>Microfilariae</th><th>Treatment</th></tr><tr><td><i>Wuchereria</i>, <i>Brugia</i></td><td>Mosquito</td><td>Lymphatics</td><td>Blood at night</td><td>DEC; albendazole plus ivermectin if Onchocerca present</td></tr><tr><td><i>Loa loa</i></td><td>Chrysops fly</td><td>Subcutaneous, moving</td><td>Blood during the day</td><td>DEC (brain inflammation risk if heavy)</td></tr><tr><td><i>Onchocerca volvulus</i></td><td>Black fly</td><td>Skin nodules</td><td>Skin</td><td>Ivermectin plus doxycycline</td></tr></table>",
     "why": [
      "",
      "Hydatid cysts belong to Echinococcus, which this patient does not have.",
-     "Antihelminthics do not reverse lymphedema, and lymphedema is a feature of Wuchereria, not Loa loa.",
-     "Doxycycline kills Onchocerca adults by targeting Wolbachia; it is not part of the Loa loa regimen on the slides.",
-     "Steroid-triggered dissemination is a Strongyloides problem."
+     "Antihelminthics do not reverse lymphedema, and lymphedema belongs to Wuchereria and Brugia, not Loa loa.",
+     "Doxycycline acting on Wolbachia is the strategy for Onchocerca adults and is not the Loa loa concern here.",
+     "Steroid-triggered dissemination of autoinfecting larvae is a Strongyloides problem."
     ],
-    "takeaway": "Loa loa (Chrysops fly, Calabar swellings, eye worm) is diagnosed by a daytime blood smear; DEC treats it but risks brain inflammation with heavy infection.",
+    "takeaway": "Loa loa (Chrysops fly, Calabar swellings, eye worm) is diagnosed by a daytime blood smear, and DEC treats it but can cause brain inflammation in heavy infection.",
     "topic": "Loa loa: daytime smear and risk with diethylcarbamazine",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "Describe Loa loa transmission, presentation, diagnosis and the risks of treatment.",
+    "rows": [
+     {
+      "choice": 1,
+      "why": "Hydatid cysts belong to Echinococcus, which this patient does not have.",
+      "if_right": "a liver cyst with daughter cysts in someone raised with sheep and dogs"
+     },
+     {
+      "choice": 2,
+      "why": "Antihelminthics do not reverse lymphedema, and lymphedema belongs to Wuchereria and Brugia, not Loa loa.",
+      "if_right": "years of leg lymphedema from lymphatic filariasis"
+     },
+     {
+      "choice": 3,
+      "why": "Doxycycline acting on Wolbachia is the strategy for Onchocerca adults and is not the Loa loa concern here.",
+      "if_right": "river blindness with skin nodules, where doxycycline kills the adult worms"
+     },
+     {
+      "choice": 4,
+      "why": "Steroid-triggered dissemination of autoinfecting larvae is a Strongyloides problem.",
+      "if_right": "larva currens and eosinophilia in a patient about to start high-dose prednisone"
+     }
+    ],
+    "slides": {
+     "stem": [
+      51,
+      52
+     ],
+     "answer": [
+      53
+     ],
+     "distractors": [
+      16,
+      60,
+      56,
+      40
+     ]
+    },
+    "deck": "36 Parasitology II"
    },
    "figures": [
     {
@@ -632,18 +1347,57 @@
    "answer": 1,
    "evidence": [],
    "explain": {
-    "html": "<p>Severe itching, skin nodules, a skin snip that releases microfilariae, and eye inflammation that progresses to blindness in a villager near a fast river is onchocerciasis (river blindness) from <i>Onchocerca volvulus</i>, transmitted by black flies. Adults live in skin nodules and release microfilariae into the skin and eyes.</p><p>Ivermectin kills microfilariae and sterilizes the female worms but does not kill the adults. Doxycycline kills the adults indirectly: it eliminates the <i>Wolbachia</i> bacteria that live in the adult worms and are essential to their development, and without Wolbachia the adult worm dies.</p>",
-    "table": null,
+    "html": "<p><i>Onchocerca volvulus</i> is transmitted by <b>black flies</b>; larvae enter the bite wound and mature into adults that <b>live in skin nodules</b> and release microfilariae into the skin and eyes. In the skin they cause <b>severe pruritus</b>, sometimes so intense that people cannot work, and in the eyes inflammation and scarring cause <b>river blindness</b>. Diagnosis is a <b>skin snip biopsy</b> and a slit-lamp eye exam.</p><p>Treatment divides the work. <b>Ivermectin kills microfilariae and sterilizes female worms</b> but does not kill the adults. <b>Doxycycline kills the adults</b> indirectly by eliminating <b><i>Wolbachia</i></b>, the bacteria that live in adult worms and are essential to their development. This farmer has nodules, disabling itch, corneal scarring and microfilariae from a skin snip, and doxycycline is in his regimen to kill the adults through their endosymbiont.</p>",
+    "table": "<table><tr><th>Drug</th><th>Target in onchocerciasis</th></tr><tr><td>Ivermectin</td><td>Kills microfilariae, sterilizes female worms</td></tr><tr><td>Doxycycline</td><td>Kills <i>Wolbachia</i>, so the adult worms die</td></tr><tr><td>Surgery</td><td>Removes nodules containing adults</td></tr></table>",
     "why": [
-     "Onchocerca microfilariae live in the skin, not the night blood, and doxycycline does not target them.",
+     "Onchocerca microfilariae live in the skin, not night blood, and doxycycline does not target them.",
      "",
-     "Superinfection is not the reason doxycycline is part of the antiparasitic regimen.",
-     "The brain inflammation warning on the slides applies to diethylcarbamazine in heavy Loa loa infection.",
-     "Doxycycline does not act on the fly vector."
+     "Bacterial superinfection of scratched skin is not why doxycycline is part of this antiparasitic regimen.",
+     "The brain inflammation warning applies to diethylcarbamazine in heavy Loa loa infection.",
+     "Doxycycline acts on bacteria inside the worm, not on the black fly vector."
     ],
-    "takeaway": "In onchocerciasis, ivermectin kills microfilariae and sterilizes females, while doxycycline kills adult worms by eliminating their Wolbachia endosymbionts.",
+    "takeaway": "In onchocerciasis, ivermectin kills microfilariae and sterilizes females, while doxycycline kills the adult worms by eliminating their Wolbachia endosymbionts.",
     "topic": "Onchocerca: doxycycline and Wolbachia",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "Describe Onchocerca volvulus (river blindness): transmission, disease, diagnosis and treatment.",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Onchocerca microfilariae live in the skin, not night blood, and doxycycline does not target them.",
+      "if_right": "nighttime microfilaremia from Wuchereria or Brugia"
+     },
+     {
+      "choice": 2,
+      "why": "Bacterial superinfection of scratched skin is not why doxycycline is part of this antiparasitic regimen.",
+      "if_right": "cellulitis with purulent drainage over excoriated skin"
+     },
+     {
+      "choice": 3,
+      "why": "The brain inflammation warning applies to diethylcarbamazine in heavy Loa loa infection.",
+      "if_right": "Calabar swellings with a heavy daytime microfilaremia before DEC"
+     },
+     {
+      "choice": 4,
+      "why": "Doxycycline acts on bacteria inside the worm, not on the black fly vector.",
+      "if_right": "a vector control measure such as larviciding fly breeding sites"
+     }
+    ],
+    "slides": {
+     "stem": [
+      55,
+      56
+     ],
+     "answer": [
+      56
+     ],
+     "distractors": [
+      50,
+      55,
+      53,
+      55
+     ]
+    },
+    "deck": "36 Parasitology II"
    },
    "figures": [
     {
@@ -668,18 +1422,58 @@
    "answer": 1,
    "evidence": [],
    "explain": {
-    "html": "<p>Years of leg lymphedema progressing toward elephantiasis, mosquito exposure, and microfilariae in blood drawn at night (nighttime periodicity) identify lymphatic filariasis, 90% caused by <i>Wuchereria bancrofti</i> (with <i>Brugia malayi</i>). Adults live in the lymphatics, and in about 30% of infected people the lymphatics are damaged.</p><p>The treatment depends on whether Onchocerca is also present. Without it, DEC is used; where Onchocerca is present, albendazole plus ivermectin is given instead, since DEC should not be used where onchocerciasis is endemic. Antihelminthics will not reverse the existing lymphedema because the lymphatic damage is permanent.</p>",
-    "table": null,
+    "html": "<p><b>Lymphatic filariasis</b> (elephantiasis) is caused 90% by <i>Wuchereria bancrofti</i>, with <i>Brugia malayi</i>, and is transmitted by <b>mosquitoes</b>. Adults live in the lymphatics and release microfilariae that circulate in lymph and blood <b>at night (nighttime periodicity)</b>. Most people are asymptomatic, but in about 30% the lymphatics are damaged, and over years this produces <b>lymphedema</b>, mainly of the legs. Diagnosis is a night blood smear or an antifilarial antibody test.</p><p>Treatment depends on <b>whether Onchocerca is also present</b>. Without it, DEC is used; where Onchocerca is present, <b>albendazole plus ivermectin</b> is given. This man from a region where both are common has a midnight smear with microfilariae and leg lymphedema, so DEC is avoided. <b>Antihelminthics will not reverse the lymphedema</b>, because the lymphatic damage is permanent.</p>",
+    "table": "<table><tr><th>Filaria</th><th>Vector</th><th>Adults</th><th>Microfilariae</th><th>Treatment</th></tr><tr><td><i>Wuchereria</i>, <i>Brugia</i></td><td>Mosquito</td><td>Lymphatics</td><td>Blood at night</td><td>DEC; albendazole plus ivermectin if Onchocerca present</td></tr><tr><td><i>Loa loa</i></td><td>Chrysops fly</td><td>Subcutaneous, moving</td><td>Blood during the day</td><td>DEC (brain inflammation risk if heavy)</td></tr><tr><td><i>Onchocerca volvulus</i></td><td>Black fly</td><td>Skin nodules</td><td>Skin</td><td>Ivermectin plus doxycycline</td></tr></table>",
     "why": [
-     "DEC is the choice only when Onchocerca is absent, and this region has both.",
+     "DEC alone is the choice only when Onchocerca is absent, and this region has both.",
      "",
-     "Praziquantel treats flukes and tapeworms.",
-     "Triclabendazole treats Fasciola.",
+     "Praziquantel treats tapeworms and flukes, not filarial worms.",
+     "Triclabendazole is a fluke drug and has no role in filariasis.",
      "Metronidazole plus paromomycin treats amebiasis."
     ],
-    "takeaway": "Lymphatic filariasis (mosquito, night blood smear) is treated with DEC if Onchocerca is absent or albendazole plus ivermectin if present; neither reverses lymphedema.",
+    "takeaway": "Lymphatic filariasis (mosquito, night blood smear) is treated with DEC if Onchocerca is absent or albendazole plus ivermectin if present, and neither reverses lymphedema.",
     "topic": "Lymphatic filariasis: diagnosis and treatment choice",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "Describe lymphatic filariasis (Wuchereria bancrofti, Brugia malayi): transmission, disease, diagnosis and treatment.",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "DEC alone is the choice only when Onchocerca is absent, and this region has both.",
+      "if_right": "lymphatic filariasis in a region with no onchocerciasis"
+     },
+     {
+      "choice": 2,
+      "why": "Praziquantel treats tapeworms and flukes, not filarial worms.",
+      "if_right": "proglottids in the stool from an intestinal tapeworm"
+     },
+     {
+      "choice": 3,
+      "why": "Triclabendazole is a fluke drug and has no role in filariasis.",
+      "if_right": "a liver fluke infection from raw aquatic plants"
+     },
+     {
+      "choice": 4,
+      "why": "Metronidazole plus paromomycin treats amebiasis.",
+      "if_right": "bloody diarrhea with a liver abscess and flask-shaped ulcers"
+     }
+    ],
+    "slides": {
+     "stem": [
+      58,
+      59,
+      60
+     ],
+     "answer": [
+      60
+     ],
+     "distractors": [
+      60,
+      4,
+      60,
+      11
+     ]
+    },
+    "deck": "36 Parasitology II"
    },
    "figures": [
     {

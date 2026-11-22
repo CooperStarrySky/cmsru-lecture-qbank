@@ -20,18 +20,57 @@
    "answer": 0,
    "evidence": [],
    "explain": {
-    "html": "<p>Migrating painless swellings of the limbs and eyelid (Calabar swellings) and a worm moving across the eye in a person from West or Central Africa is loiasis, from <i>Loa loa</i>, transmitted by Chrysops flies. Adults live in subcutaneous tissue.</p><p>The diagnostic form in blood is the microfilaria, which <i>Loa loa</i> releases into the blood during the day. A smear collected around midday is therefore the test, besides identifying an adult worm removed from the eye. Microfilariae of Wuchereria and Brugia appear at night, and Onchocerca microfilariae are found in the skin.</p>",
+    "html": "<p>Filarial worms are diagnosed by <b>finding microfilariae where and when they circulate</b>, and that differs by species. <i>Loa loa</i>, transmitted by <b>Chrysops flies</b> in West and Central Africa, has adults that move through subcutaneous tissue, causing painless, nonred <b>Calabar swellings</b> of the limbs or eyelid and sometimes a worm <b>crossing the eye</b>. It releases microfilariae into the <b>blood during the day</b>.</p><p>This woman in Cameroon has migrating swellings of the wrist and eyelid and the sensation of something moving across her eye, so the test is a <b>blood smear collected around midday</b>, which shows the microfilaria as the diagnostic form. An adult removed from the eye also confirms it. <b>Wuchereria and Brugia appear in blood at night</b>, and <b>Onchocerca microfilariae are found in the skin</b>, which is why timing and specimen matter.</p>",
     "table": "<table><tr><th>Filaria</th><th>Vector</th><th>Adults</th><th>Microfilariae</th></tr><tr><td>Wuchereria, Brugia</td><td>Mosquito</td><td>Lymphatics</td><td>Blood at night</td></tr><tr><td>Loa loa</td><td>Chrysops fly</td><td>Subcutaneous, moving</td><td>Blood during the day</td></tr><tr><td>Onchocerca</td><td>Black fly</td><td>Skin nodules</td><td>Skin</td></tr></table>",
     "why": [
      "",
      "Nighttime periodicity belongs to Wuchereria and Brugia, not Loa loa.",
-     "A skin snip is the test for Onchocerca, whose microfilariae live in the skin.",
-     "Filarial worms do not release eggs into stool.",
+     "A skin snip finds Onchocerca, whose microfilariae live in the skin.",
+     "Filarial worms do not release eggs into the stool.",
      "Eggs in midday urine are the test for urinary schistosomiasis."
     ],
-    "takeaway": "Loa loa microfilariae appear in the blood during the day, so diagnosis uses a midday blood smear (Wuchereria and Brugia: night; Onchocerca: skin snip).",
+    "takeaway": "Loa loa microfilariae circulate in the blood during the day, so diagnosis uses a midday blood smear; Wuchereria and Brugia need a night smear and Onchocerca a skin snip.",
     "topic": "Loa loa: collecting the diagnostic specimen",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "Identify Loa loa from its presentation and choose the diagnostic test based on when and where its life cycle stage is found.",
+    "rows": [
+     {
+      "choice": 1,
+      "why": "Nighttime periodicity belongs to Wuchereria and Brugia, not Loa loa.",
+      "if_right": "progressive leg lymphedema after mosquito exposure (lymphatic filariasis)"
+     },
+     {
+      "choice": 2,
+      "why": "A skin snip finds Onchocerca, whose microfilariae live in the skin.",
+      "if_right": "intense itching, skin nodules and eye scarring near a fast-flowing river"
+     },
+     {
+      "choice": 3,
+      "why": "Filarial worms do not release eggs into the stool.",
+      "if_right": "an intestinal helminth whose eggs pass in feces, such as Ascaris"
+     },
+     {
+      "choice": 4,
+      "why": "Eggs in midday urine are the test for urinary schistosomiasis.",
+      "if_right": "painless hematuria after swimming in Lake Victoria"
+     }
+    ],
+    "slides": {
+     "stem": [
+      3
+     ],
+     "answer": [
+      3,
+      4
+     ],
+     "distractors": [
+      3,
+      3,
+      7,
+      8
+     ]
+    },
+    "deck": "Parasitology Flip Cases without answers 12.2025"
    },
    "figures": []
   },
@@ -50,18 +89,56 @@
    "answer": 3,
    "evidence": [],
    "explain": {
-    "html": "<p>Meningitis with more than 10% eosinophils in the CSF, in a gardener from Hawaii, is eosinophilic meningitis from <i>Angiostrongylus cantonensis</i>, the rat lungworm. Gardening brings contact with snails and slugs on vegetables, and Hawaii is an endemic area.</p><p>Humans are accidental hosts. The ingested larvae travel to the CNS, get stuck, and die, triggering eosinophilic inflammation; they never become egg-laying adults in the human gut, so stool studies cannot find them. Treatment is supportive, and most cases are self-limited.</p>",
+    "html": "<p><b>Eosinophilic meningitis</b> is meningitis with a CSF eosinophilic pleocytosis (more than 10% eosinophils; normal is zero). In a person from <b>Hawaii</b>, the classic cause is <i>Angiostrongylus cantonensis</i>, the <b>rat lungworm</b>, and <b>gardening</b> matters because snails and slugs on vegetables carry the larvae.</p><p>Humans are <b>accidental hosts</b>. Ingested larvae travel to the CNS, get stuck and die, triggering eosinophilic inflammation, and they <b>never become egg-laying adults in the human gut</b>, so <b>stool studies cannot find them</b>. This avid gardener from Hawaii has fever, headache, stiff neck, paresthesias, 13% blood eosinophils and 17% CSF eosinophils with normal glucose. Treatment is <b>supportive</b>, and most cases are self-limited.</p>",
     "table": null,
     "why": [
-     "Perianal egg laying at night is the pinworm.",
+     "Perianal egg laying at night is pinworm, which causes itching, not meningitis.",
      "Angiostrongylus is a nematode, not a blood protozoan.",
      "Intermittent shedding needing three samples applies to Strongyloides, which does have intestinal adults.",
      "",
-     "Eggs in sputum are a feature of the lung fluke Paragonimus."
+     "Eggs in sputum are a feature of the lung fluke, not of a worm stuck in the CNS."
     ],
-    "takeaway": "Humans are accidental hosts of Angiostrongylus; larvae die in the CNS causing eosinophilic meningitis, and stool studies are not useful.",
+    "takeaway": "Humans are accidental hosts of Angiostrongylus; larvae die in the CNS and cause eosinophilic meningitis, and stool studies are not useful because no adults form in the gut.",
     "topic": "Angiostrongylus: humans as accidental hosts",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "Diagnose eosinophilic meningitis, name its helminth cause from the exposure history, and explain why stool studies do not help.",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Perianal egg laying at night is pinworm, which causes itching, not meningitis.",
+      "if_right": "a child with nocturnal perianal itching and a positive scotch tape test"
+     },
+     {
+      "choice": 1,
+      "why": "Angiostrongylus is a nematode, not a blood protozoan.",
+      "if_right": "a protozoan seen inside red cells on a blood smear"
+     },
+     {
+      "choice": 2,
+      "why": "Intermittent shedding needing three samples applies to Strongyloides, which does have intestinal adults.",
+      "if_right": "chronic larva currens and eosinophilia with one negative stool exam"
+     },
+     {
+      "choice": 4,
+      "why": "Eggs in sputum are a feature of the lung fluke, not of a worm stuck in the CNS.",
+      "if_right": "chronic cough and hemoptysis after eating raw freshwater crab"
+     }
+    ],
+    "slides": {
+     "stem": [
+      7
+     ],
+     "answer": [
+      7
+     ],
+     "distractors": [
+      7,
+      7,
+      7,
+      7
+     ]
+    },
+    "deck": "Parasitology Flip Cases without answers 12.2025"
    },
    "figures": []
   },
@@ -69,7 +146,7 @@
    "id": "miid2-w07-app-7b-q03",
    "source": "practice",
    "source_ref": "Written from the 2025-26 Session 7B slides",
-   "stem": "A 20-year-old woman who recently immigrated from Tanzania is referred for several weeks of painless hematuria. She grew up swimming and washing clothes in Lake Victoria. Laboratory studies show:\n\nLeukocyte count: 12,000/microL (4,500 to 11,000)\nEosinophils: 15% (1 to 4)\nHemoglobin: 10.6 g/dL (12 to 16)\nUrine red blood cells: More than 180 per high-power field (0 to 2)\n\nMicroscopy of a urine specimen shows large eggs with a terminal spine.\n\nHow did she most likely acquire this infection?",
+   "stem": "A 20-year-old woman who recently immigrated from Tanzania is referred for several weeks of painless hematuria. She grew up swimming and washing clothes in Lake Victoria. Laboratory studies show:\n\n[[labs 0]]\n\nMicroscopy of a urine specimen shows large eggs with a terminal spine.\n\nHow did she most likely acquire this infection?",
    "choices": [
     "Swallowing eggs in lake water",
     "Eating raw aquatic vegetation such as watercress",
@@ -80,20 +157,79 @@
    "answer": 4,
    "evidence": [],
    "explain": {
-    "html": "<p>Painless hematuria with eosinophilia and eggs in urine in someone who swam in an East African lake is urinary schistosomiasis. Trematode life cycles always involve water and snails: eggs passed by people hatch in fresh water, larvae infect snails, and the snails release cercariae.</p><p>The cercariae penetrate intact human skin during swimming, bathing, or washing, then mature into adult blood flukes that live in veins. Diagnosis is eggs in the specimen (or serum antibody 6 to 8 weeks after exposure), treatment is praziquantel, and untreated chronic disease can lead to squamous cell carcinoma of the bladder.</p>",
+    "html": "<p>Trematode (fluke) life cycles always involve <b>fresh water and snails</b>. In schistosomiasis, eggs passed by people hatch in fresh water, the larvae infect <b>snails</b>, and the snails release <b>cercariae</b>. The cercariae <b>penetrate intact skin</b> during swimming, bathing or washing and mature into adult blood flukes that live in veins.</p><p>This woman from Tanzania who swam and washed clothes in <b>Lake Victoria</b> has painless <b>hematuria</b>, eosinophilia, anemia and large <b>eggs with a terminal spine in urine</b>, which is urinary schistosomiasis acquired through her skin in the lake. Diagnosis is eggs in the specimen, treatment is praziquantel, and untreated chronic disease can lead to <b>squamous cell carcinoma of the bladder</b>.</p>",
     "table": null,
     "why": [
-     "Schistosoma eggs hatch in water and are not the infective form for people.",
-     "Raw aquatic plants transmit Fasciola and Fasciolopsis.",
-     "Undercooked freshwater fish transmits Clonorchis and the fish tapeworm.",
+     "Schistosoma eggs hatch in water and infect snails; they are not the infective form for people.",
+     "Raw aquatic vegetation such as watercress transmits plant-borne flukes, not Schistosoma.",
+     "Undercooked freshwater fish transmits the fish tapeworm and some liver flukes.",
      "Mosquitoes transmit lymphatic filariasis, which causes lymphedema, not hematuria.",
      ""
     ],
-    "takeaway": "Schistosoma is acquired when cercariae released by freshwater snails penetrate the skin; urinary disease shows eggs in urine and hematuria.",
+    "takeaway": "Schistosoma is acquired when cercariae released by freshwater snails penetrate the skin; urinary disease shows eggs in urine with hematuria and can lead to bladder squamous cell carcinoma.",
     "topic": "Schistosomiasis: mode of infection",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "Identify urinary schistosomiasis, its mode of infection, diagnostic finding and long-term consequence.",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Schistosoma eggs hatch in water and infect snails; they are not the infective form for people.",
+      "if_right": "an organism acquired by swallowing eggs in contaminated water or food"
+     },
+     {
+      "choice": 1,
+      "why": "Raw aquatic vegetation such as watercress transmits plant-borne flukes, not Schistosoma.",
+      "if_right": "a liver fluke infection after eating raw watercress"
+     },
+     {
+      "choice": 2,
+      "why": "Undercooked freshwater fish transmits the fish tapeworm and some liver flukes.",
+      "if_right": "megaloblastic anemia or biliary disease after eating raw lake fish"
+     },
+     {
+      "choice": 3,
+      "why": "Mosquitoes transmit lymphatic filariasis, which causes lymphedema, not hematuria.",
+      "if_right": "leg lymphedema with microfilariae on a night blood smear"
+     }
+    ],
+    "slides": {
+     "stem": [
+      8
+     ],
+     "answer": [
+      8,
+      9
+     ],
+     "distractors": [
+      8,
+      8,
+      8,
+      8
+     ]
+    },
+    "deck": "Parasitology Flip Cases without answers 12.2025"
    },
-   "figures": []
+   "figures": [],
+   "labs": [
+    [
+     [
+      "Leukocyte count",
+      "12,000/microL (4,500 to 11,000)"
+     ],
+     [
+      "Eosinophils",
+      "15% (1 to 4)"
+     ],
+     [
+      "Hemoglobin",
+      "10.6 g/dL (12 to 16)"
+     ],
+     [
+      "Urine red blood cells",
+      "More than 180 per high-power field (0 to 2)"
+     ]
+    ]
+   ]
   },
   {
    "id": "miid2-w07-app-7b-q04",
@@ -110,18 +246,56 @@
    "answer": 0,
    "evidence": [],
    "explain": {
-    "html": "<p>Corneal ulceration in a contact lens wearer who rinses lenses in tap water is <i>Acanthamoeba</i> keratitis. Acanthamoeba is a free-living ameba ubiquitous in water that encysts in harsh conditions, so it survives in tap water and lens cases and enters through the eye.</p><p>Diagnosis is made directly from the eye, by PCR (or identifying the organism) in corneal scrapings or biopsy. There is no defined treatment regimen. In immunocompromised patients the same organism can cause granulomatous amebic encephalitis.</p>",
+    "html": "<p><b>Free-living amebae</b> live in water and soil and cause disease when they reach a vulnerable site. <i>Acanthamoeba</i> is <b>ubiquitous in water</b> and <b>encysts in harsh conditions</b>, so it survives in tap water and contact lens cases and enters through the eye. Overlong wear of contact lenses and <b>rinsing them in tap water</b> are the classic risks for <b>Acanthamoeba keratitis</b>.</p><p>This man wore soft lenses far too long, cleaned them with tap water, and now has severe eye pain, photophobia, blurred vision and a <b>corneal ulcer</b>. The diagnosis is made directly from the eye, by <b>PCR or identifying the organism in corneal scrapings</b> or biopsy. In immunocompromised patients the same organism can cause granulomatous amebic encephalitis, while lake-swimming meningoencephalitis points instead to <i>Naegleria</i>.</p>",
     "table": null,
     "why": [
      "",
-     "Acanthamoeba keratitis is not an intestinal infection, so stool antigen does not help.",
+     "Acanthamoeba keratitis is not an intestinal infection, so a stool antigen test does not help.",
      "A midday blood smear is the test for Loa loa microfilariae.",
-     "A CSF wet mount is used for Naegleria meningoencephalitis, not a corneal ulcer.",
-     "Serology at 6 weeks is used for schistosomiasis, not amebic keratitis."
+     "A CSF wet mount finds Naegleria in meningoencephalitis, not a corneal infection.",
+     "Serology after 6 weeks is used for schistosomiasis, not amebic keratitis."
     ],
-    "takeaway": "Acanthamoeba keratitis (contact lenses rinsed in tap water) is diagnosed by PCR or identification of organisms in corneal scrapings.",
+    "takeaway": "Acanthamoeba keratitis, seen in contact lens wearers who rinse lenses in tap water, is confirmed by PCR or identification of the organism in corneal scrapings.",
     "topic": "Acanthamoeba keratitis: diagnosis",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "Diagnose Acanthamoeba keratitis, explain how it is acquired, and choose the confirmatory test.",
+    "rows": [
+     {
+      "choice": 1,
+      "why": "Acanthamoeba keratitis is not an intestinal infection, so a stool antigen test does not help.",
+      "if_right": "an intestinal protozoan causing diarrhea, such as Giardia or Cryptosporidium"
+     },
+     {
+      "choice": 2,
+      "why": "A midday blood smear is the test for Loa loa microfilariae.",
+      "if_right": "Calabar swellings and a worm crossing the eye in a Central African resident"
+     },
+     {
+      "choice": 3,
+      "why": "A CSF wet mount finds Naegleria in meningoencephalitis, not a corneal infection.",
+      "if_right": "fever, stiff neck and seizures days after swimming in a warm lake"
+     },
+     {
+      "choice": 4,
+      "why": "Serology after 6 weeks is used for schistosomiasis, not amebic keratitis.",
+      "if_right": "hematuria with eosinophilia months after freshwater exposure in Africa"
+     }
+    ],
+    "slides": {
+     "stem": [
+      11
+     ],
+     "answer": [
+      11
+     ],
+     "distractors": [
+      11,
+      3,
+      12,
+      8
+     ]
+    },
+    "deck": "Parasitology Flip Cases without answers 12.2025"
    },
    "figures": []
   },
@@ -140,18 +314,58 @@
    "answer": 2,
    "evidence": [],
    "explain": {
-    "html": "<p>A large round worm passed in stool, mammillated eggs, and an earlier episode of wheeze with transient infiltrates and eosinophilia identify <i>Ascaris lumbricoides</i>. Swallowed eggs hatch in the gut, and the larvae go GUT, LIVER, LUNGS, GUT; the lung passage caused his \"asthma,\" which is Loeffler syndrome.</p><p>Strongyloides and the hookworms also pass through the lungs and can cause Loeffler syndrome, but they enter through the skin, so their route is SKIN, LUNGS, GUT. The other choices have no lung phase on the way to the intestine.</p>",
-    "table": null,
+    "html": "<p>Several intestinal nematodes <b>pass through the lungs</b> before settling in the gut, and the lung passage causes <b>Loeffler syndrome</b>: wheeze, dry cough and <b>transient infiltrates</b> with eosinophilia. They differ in how they get in. <i>Ascaris lumbricoides</i> enters as <b>swallowed eggs</b>, and its larvae travel <b>GUT, LIVER, LUNGS, GUT</b>. <i>Strongyloides</i> and the hookworms enter as larvae that <b>penetrate the skin</b>, so their route is <b>SKIN, LUNGS, GUT</b>.</p><p>This trekker ate food prepared by local families, had an \"asthma\" episode with transient infiltrates soon after returning, and now passed a 25-cm round worm with <b>mammillated eggs</b> in the stool and 18% eosinophils, which is Ascaris. The nematode that shares the lung passage but enters through the skin is Strongyloides. Worms that are swallowed and stay in the gut, or that head to muscle, have no lung phase.</p>",
+    "table": "<table><tr><th>Organism</th><th>Entry</th><th>Route</th></tr><tr><td><i>Ascaris</i></td><td>Swallowed eggs</td><td>GUT, LIVER, LUNGS, GUT</td></tr><tr><td><i>Strongyloides</i>, hookworm</td><td>Larvae through skin</td><td>SKIN, LUNGS, GUT</td></tr><tr><td><i>Enterobius</i>, <i>Trichuris</i></td><td>Swallowed eggs</td><td>Gut only, no lung phase</td></tr><tr><td><i>Trichinella</i></td><td>Larvae in meat</td><td>Gut to striated muscle</td></tr><tr><td><i>Taenia saginata</i></td><td>Larvae in beef</td><td>Gut only (cestode)</td></tr></table>",
     "why": [
      "Pinworm eggs are swallowed and hatch directly in the gut, with no lung phase.",
-     "Whipworm eggs are swallowed and the adults live in the large intestine, without lung migration.",
+     "Whipworm eggs are swallowed and the adults live in the large intestine without lung migration.",
      "",
      "Taenia saginata is a cestode acquired from beef larvae, with no lung phase.",
      "Trichinella larvae go from the gut to striated muscle, not through the lungs to the intestine."
     ],
-    "takeaway": "Ascaris (GUT, LIVER, LUNGS, GUT) and Strongyloides or hookworm (SKIN, LUNGS, GUT) all pass through the lungs and can cause Loeffler syndrome, but enter by different routes.",
+    "takeaway": "Ascaris (GUT, LIVER, LUNGS, GUT) and Strongyloides or hookworm (SKIN, LUNGS, GUT) all pass through the lungs and can cause Loeffler syndrome, but Ascaris is swallowed while the others penetrate skin.",
     "topic": "Helminth migration through the lungs: shared pathways",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "Use a returning traveler's history, eosinophilia and the worm passed to identify an intestinal nematode and explain its lung phase.",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Pinworm eggs are swallowed and hatch directly in the gut, with no lung phase.",
+      "if_right": "a nematode causing nocturnal perianal itching with no respiratory illness"
+     },
+     {
+      "choice": 1,
+      "why": "Whipworm eggs are swallowed and the adults live in the large intestine without lung migration.",
+      "if_right": "bloody diarrhea and rectal prolapse with plugged-end eggs"
+     },
+     {
+      "choice": 3,
+      "why": "Taenia saginata is a cestode acquired from beef larvae, with no lung phase.",
+      "if_right": "flat proglottids in the stool after eating undercooked beef"
+     },
+     {
+      "choice": 4,
+      "why": "Trichinella larvae go from the gut to striated muscle, not through the lungs to the intestine.",
+      "if_right": "fever, myalgia and periorbital edema after eating rare bear meat"
+     }
+    ],
+    "slides": {
+     "stem": [
+      1,
+      2
+     ],
+     "answer": [
+      1,
+      2
+     ],
+     "distractors": [
+      2,
+      2,
+      1,
+      2
+     ]
+    },
+    "deck": "Parasitology Flip Cases without answers 12.2025"
    },
    "figures": []
   },
@@ -170,18 +384,57 @@
    "answer": 2,
    "evidence": [],
    "explain": {
-    "html": "<p>A large liver cyst with daughter cysts in a man raised around sheep and dogs, with positive serology, is hydatid disease from <i>Echinococcus granulosus</i>. The adult tapeworm lives in the dog intestine and the dog passes the eggs; sheep (and incidentally humans) ingest the eggs and develop cysts in the liver or lung.</p><p>Humans are incidental, dead-end hosts. No adult worm develops in a person, so he sheds no eggs and cannot infect his family. Any family member who is infected would have acquired it from the same dog exposure, not from him. Abdominal trauma to his cyst could cause rupture and anaphylaxis.</p>",
+    "html": "<p>In <i>Echinococcus granulosus</i>, the <b>adult tapeworm lives in the dog intestine</b>, and the dog passes the eggs in its feces. Sheep, and incidentally humans, ingest the eggs and develop <b>hydatid cysts</b> in the liver or lung. Humans are <b>incidental, dead-end hosts</b>: <b>no adult worm develops in a person</b>, so a patient sheds no eggs.</p><p>This man raised on a farm with sheep and working dogs has a slowly enlarging liver cyst with <b>daughter cysts</b>, mild icterus and positive serology. He <b>cannot infect his family</b>; anyone in the family who is infected acquired it from the same dog exposure. The one acute danger to remember is that <b>abdominal trauma can rupture the cyst</b> and cause anaphylaxis.</p>",
     "table": null,
     "why": [
-     "No eggs are shed by humans with hydatid disease, so stool contacts are not at risk.",
-     "Echinococcus is not spread by insects, and cysts do not release transmissible larvae into the blood.",
+     "Humans with hydatid disease shed no eggs, so stool contacts are not at risk.",
+     "Echinococcus is not spread by insects, and the cyst does not release transmissible larvae into the blood.",
      "",
-     "Pork transmits Taenia solium larvae (taeniasis), not Echinococcus.",
+     "Pork transmits Taenia solium larvae (taeniasis), not Echinococcus, and humans with hydatid disease are not infectious either way.",
      "Hydatid cysts are not spread by respiratory droplets."
     ],
-    "takeaway": "Humans are dead-end hosts for Echinococcus: they carry only the hydatid cyst and cannot pass the infection to others; dogs shed the eggs.",
+    "takeaway": "Humans are dead-end hosts for Echinococcus: they carry only the hydatid cyst and cannot pass the infection to others, because only dogs harbor the egg-laying adult.",
     "topic": "Echinococcus: transmission risk to household contacts",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "Explain how hydatid disease is acquired, how it is diagnosed, and why an infected person cannot transmit it.",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Humans with hydatid disease shed no eggs, so stool contacts are not at risk.",
+      "if_right": "an intestinal tapeworm carrier, such as a person with Taenia solium taeniasis"
+     },
+     {
+      "choice": 1,
+      "why": "Echinococcus is not spread by insects, and the cyst does not release transmissible larvae into the blood.",
+      "if_right": "a filarial worm whose microfilariae in blood are taken up by biting flies or mosquitoes"
+     },
+     {
+      "choice": 3,
+      "why": "Pork transmits Taenia solium larvae (taeniasis), not Echinococcus, and humans with hydatid disease are not infectious either way.",
+      "if_right": "a family that shares undercooked pork containing cysticerci"
+     },
+     {
+      "choice": 4,
+      "why": "Hydatid cysts are not spread by respiratory droplets.",
+      "if_right": "a respiratory pathogen such as tuberculosis in a lung cavity"
+     }
+    ],
+    "slides": {
+     "stem": [
+      4,
+      5
+     ],
+     "answer": [
+      6
+     ],
+     "distractors": [
+      6,
+      6,
+      5,
+      6
+     ]
+    },
+    "deck": "Parasitology Flip Cases without answers 12.2025"
    },
    "figures": []
   },
@@ -200,18 +453,56 @@
    "answer": 1,
    "evidence": [],
    "explain": {
-    "html": "<p>Diarrhea traced to imported fresh produce with 8 to 10 micrometer acid-fast oocysts is <i>Cyclospora</i>. It and Cryptosporidium are both acid-fast coccidian protozoa, so the stain alone does not separate them.</p><p>Size and treatment do. Cryptosporidium oocysts are smaller (4 to 7 micrometers), resist chlorination and spread in pools, and need nitazoxanide only in immunocompromised hosts. Cyclospora oocysts are larger (8 to 10), come on vegetation such as lettuce, herbs, and berries, can cause diarrhea lasting up to 3 months, and are treated with trimethoprim-sulfamethoxazole.</p>",
-    "table": null,
+    "html": "<p><i>Cyclospora</i> and <i>Cryptosporidium</i> are both <b>acid-fast coccidian protozoa</b> that cause watery, nonbloody diarrhea, so the stain alone does not separate them. <b>Size and treatment do.</b> <i>Cryptosporidium</i> oocysts are smaller (4 to 7 micrometers), resist chlorination and spread in swimming pools, and nitazoxanide is used mainly in immunocompromised hosts.</p><p><i>Cyclospora</i> oocysts are <b>larger, 8 to 10 micrometers</b>, and arrive on <b>fresh produce</b> such as lettuce, herbs and berries; diarrhea can be prolonged, and treatment is <b>trimethoprim-sulfamethoxazole</b>. This outbreak traced to a bagged salad mix of imported greens, with subacute nonbloody diarrhea, little fever and 8 to 10 micrometer acid-fast oocysts, is Cyclospora.</p>",
+    "table": "<table><tr><th>Feature</th><th><i>Cyclospora</i></th><th><i>Cryptosporidium</i></th></tr><tr><td>Oocyst size</td><td>8 to 10 micrometers</td><td>4 to 7 micrometers</td></tr><tr><td>Acid-fast</td><td>Yes</td><td>Yes</td></tr><tr><td>Typical source</td><td>Fresh produce (lettuce, herbs, berries)</td><td>Water, pools (chlorine resistant)</td></tr><tr><td>Treatment</td><td>Trimethoprim-sulfamethoxazole</td><td>Nitazoxanide (mainly if immunocompromised)</td></tr></table>",
     "why": [
-     "Smaller oocysts and nitazoxanide describe Cryptosporidium itself.",
+     "Smaller oocysts and nitazoxanide describe Cryptosporidium itself, not the organism in this outbreak.",
      "",
-     "Chlorine resistance and pool outbreaks are Cryptosporidium features.",
-     "Tiny fungal spores treated with albendazole are microsporidia.",
+     "Chlorine resistance and pool outbreaks are Cryptosporidium features, and this outbreak came from produce.",
+     "Tiny fungal spores treated with albendazole are microsporidia, not acid-fast oocysts of 8 to 10 micrometers.",
      "Flagellated trophozoites treated with tinidazole describe Giardia, which is not acid-fast."
     ],
-    "takeaway": "Cyclospora (8 to 10 micrometers, imported produce, trimethoprim-sulfamethoxazole) is distinguished from Cryptosporidium (4 to 7 micrometers, pools, nitazoxanide) by size and treatment.",
+    "takeaway": "Cyclospora (8 to 10 micrometer acid-fast oocysts, fresh produce, trimethoprim-sulfamethoxazole) is distinguished from Cryptosporidium (4 to 7 micrometers, pools, nitazoxanide) by size and treatment.",
     "topic": "Cyclospora versus Cryptosporidium",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "Identify Cyclospora in a produce-linked diarrheal outbreak and distinguish it from other intestinal protozoa.",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Smaller oocysts and nitazoxanide describe Cryptosporidium itself, not the organism in this outbreak.",
+      "if_right": "4 to 7 micrometer acid-fast oocysts in a swimming pool outbreak"
+     },
+     {
+      "choice": 2,
+      "why": "Chlorine resistance and pool outbreaks are Cryptosporidium features, and this outbreak came from produce.",
+      "if_right": "diarrhea traced to a chlorinated swimming pool"
+     },
+     {
+      "choice": 3,
+      "why": "Tiny fungal spores treated with albendazole are microsporidia, not acid-fast oocysts of 8 to 10 micrometers.",
+      "if_right": "very small spores in an immunocompromised patient with chronic diarrhea"
+     },
+     {
+      "choice": 4,
+      "why": "Flagellated trophozoites treated with tinidazole describe Giardia, which is not acid-fast.",
+      "if_right": "greasy, foul diarrhea after drinking stream water, with flagellated trophozoites"
+     }
+    ],
+    "slides": {
+     "stem": [
+      10
+     ],
+     "answer": [
+      10
+     ],
+     "distractors": [
+      10,
+      10,
+      10,
+      10
+     ]
+    },
+    "deck": "Parasitology Flip Cases without answers 12.2025"
    },
    "figures": []
   }

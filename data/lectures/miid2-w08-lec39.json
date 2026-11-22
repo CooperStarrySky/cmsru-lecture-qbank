@@ -9,7 +9,7 @@
    "id": "miid2-w08-lec39-q01",
    "source": "practice",
    "source_ref": "Written from the 2025-26 Lecture 39 slides",
-   "stem": "A 27-year-old man comes to the emergency department with 5 days of fever, sore throat, myalgias, and a faint macular rash over his trunk. He reports condomless sex with a new male partner 3 weeks ago. Temperature is 38.6 C (101.5 F). He has tender cervical and axillary lymphadenopathy. Laboratory testing follows the standard serum algorithm:\n\nHIV-1/2 antigen/antibody combination immunoassay: Reactive\nHIV-1/HIV-2 antibody differentiation immunoassay: HIV-1 indeterminate, HIV-2 nonreactive\n\nWhich of the following is the most appropriate next step to establish the diagnosis?",
+   "stem": "A 27-year-old man comes to the emergency department with 5 days of fever, sore throat, myalgias, and a faint macular rash over his trunk. He reports condomless sex with a new male partner 3 weeks ago. Temperature is 38.6 C (101.5 F). He has tender cervical and axillary lymphadenopathy. Laboratory testing follows the standard serum algorithm:\n\n[[labs 0]]\n\nWhich of the following is the most appropriate next step to establish the diagnosis?",
    "choices": [
     "Repeat the combination immunoassay in 3 months",
     "Measure the CD4 T-cell count",
@@ -20,18 +20,57 @@
    "answer": 2,
    "evidence": [],
    "explain": {
-    "html": "<p>This man has a mononucleosis-like illness (fever, pharyngitis, rash, lymphadenopathy) a few weeks after a high-risk exposure, the classic picture of acute HIV infection. The screening combination assay is reactive, but the antibody differentiation assay is indeterminate for HIV-1. That pattern fits a patient caught before full seroconversion: the screen turned positive because it also detects p24 antigen, while antibodies are not yet fully formed.</p><p>In the CDC fourth-generation algorithm, a reactive screen followed by an HIV-1 negative or indeterminate differentiation result is resolved with an HIV-1 nucleic acid test (NAT). A positive NAT confirms acute HIV-1 infection; a negative NAT means the screen was a false positive. Waiting months would delay treatment during the period of highest viral load and transmission risk.</p>",
-    "table": "<table><tr><th>Screen (Ag/Ab)</th><th>Differentiation assay</th><th>Next / meaning</th></tr><tr><td>Nonreactive</td><td>Not done</td><td>Negative for HIV-1/2 antibodies and p24</td></tr><tr><td>Reactive</td><td>HIV-1 positive</td><td>HIV-1 antibodies detected</td></tr><tr><td>Reactive</td><td>HIV-1 negative or indeterminate</td><td>HIV-1 NAT: positive = acute HIV-1; negative = no HIV-1</td></tr></table>",
+    "html": "<p>The CDC <b>fourth-generation algorithm</b> starts with an HIV-1/2 antigen/antibody combination immunoassay. A nonreactive screen means no HIV-1 or HIV-2 antibodies and no p24 antigen. A reactive screen goes to an HIV-1/HIV-2 antibody differentiation immunoassay, which can show HIV-1 antibodies, HIV-2 antibodies, or both. When the differentiation assay is <b>HIV-1 negative or indeterminate</b> with HIV-2 negative, the tie is broken by an <b>HIV-1 nucleic acid test (NAT)</b>: a positive NAT means acute HIV-1 infection and a negative NAT means no HIV-1.</p><p>This man has the acute retroviral syndrome (fever, pharyngitis, rash, lymphadenopathy) 3 weeks after a high-risk exposure. His screen is reactive because the fourth-generation test also detects <b>p24 antigen</b>, while his antibodies are not yet mature enough to read clearly on the differentiation assay, which is the <b>seroconversion window</b>. Sending HIV-1 NAT now confirms the diagnosis at the moment viral load and transmission risk are highest, so treatment and counseling are not delayed.</p>",
+    "table": "<table><tr><th>Ag/Ab screen</th><th>Differentiation assay</th><th>Interpretation</th></tr><tr><td>Nonreactive</td><td>Not done</td><td>Negative for HIV-1/2 antibodies and p24 antigen</td></tr><tr><td>Reactive</td><td>HIV-1 positive, HIV-2 negative</td><td>HIV-1 antibodies detected</td></tr><tr><td>Reactive</td><td>HIV-1 negative, HIV-2 positive</td><td>HIV-2 antibodies detected</td></tr><tr><td>Reactive</td><td>HIV-1 and HIV-2 positive</td><td>HIV antibodies detected</td></tr><tr><td>Reactive</td><td>HIV-1 negative or indeterminate, HIV-2 negative</td><td>HIV-1 NAT: positive = acute HIV-1; negative = no HIV-1</td></tr></table>",
     "why": [
-     "Waiting delays diagnosis during peak infectiousness when a definitive test is available now.",
-     "The CD4 count stages disease but cannot confirm or exclude HIV infection.",
+     "Waiting months leaves a likely acute infection undiagnosed during peak infectiousness when NAT can answer the question today.",
+     "A CD4 count stages immune damage but cannot confirm or exclude HIV infection.",
      "",
-     "HIV-2 was nonreactive on the differentiation assay, so nothing supports HIV-2.",
-     "Tropism testing is done before starting a CCR5 antagonist, not to diagnose infection."
+     "HIV-2 was nonreactive on the differentiation assay, so nothing points to HIV-2.",
+     "Tropism testing decides whether a CCR5 antagonist can be used; it plays no part in diagnosis."
     ],
-    "takeaway": "A reactive fourth-generation screen with a negative or indeterminate HIV-1 differentiation assay is resolved with an HIV-1 nucleic acid test, which identifies acute infection before seroconversion.",
+    "takeaway": "A reactive fourth-generation Ag/Ab screen with an HIV-1 negative or indeterminate differentiation assay is resolved by HIV-1 NAT, which detects acute infection before antibodies are fully formed.",
     "topic": "Fourth-generation testing algorithm",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "To develop familiarity with the different methods used to diagnose HIV infection",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Waiting months leaves a likely acute infection undiagnosed during peak infectiousness when NAT can answer the question today.",
+      "if_right": "a nonreactive screen in someone tested too soon after an exposure, with no NAT available"
+     },
+     {
+      "choice": 1,
+      "why": "A CD4 count stages immune damage but cannot confirm or exclude HIV infection.",
+      "if_right": "an already confirmed HIV diagnosis that now needs baseline staging"
+     },
+     {
+      "choice": 3,
+      "why": "HIV-2 was nonreactive on the differentiation assay, so nothing points to HIV-2.",
+      "if_right": "a differentiation assay reading HIV-1 negative and HIV-2 positive"
+     },
+     {
+      "choice": 4,
+      "why": "Tropism testing decides whether a CCR5 antagonist can be used; it plays no part in diagnosis.",
+      "if_right": "a confirmed patient about to start a CCR5 antagonist"
+     }
+    ],
+    "slides": {
+     "stem": [
+      7,
+      28
+     ],
+     "answer": [
+      26
+     ],
+     "distractors": [
+      28,
+      32,
+      26,
+      32
+     ]
+    },
+    "deck": "39 HIV Diagnosis and Monitoring"
    },
    "figures": [
     {
@@ -39,13 +78,25 @@
      "slide": 29,
      "caption": "Lecture 39 slides (2025-26) · Page 29"
     }
+   ],
+   "labs": [
+    [
+     [
+      "HIV-1/2 antigen/antibody combination immunoassay",
+      "Reactive"
+     ],
+     [
+      "HIV-1/HIV-2 antibody differentiation immunoassay",
+      "HIV-1 indeterminate, HIV-2 nonreactive"
+     ]
+    ]
    ]
   },
   {
    "id": "miid2-w08-lec39-q02",
    "source": "practice",
    "source_ref": "Written from the 2025-26 Lecture 39 slides",
-   "stem": "Two untreated men with chronic HIV infection, both 35 years old and asymptomatic, are seen in clinic on the same day. Their baseline results are:\n\nPatient 1: Patient 2\nCD4 count (normal 500 to 1,500/mm3): 720/mm3: 700/mm3\nPlasma HIV-1 RNA: 350 copies/mL: 95,000 copies/mL\n\nWhich of the following statements best describes the expected course over the next several years if neither is treated?",
+   "stem": "Two untreated men with chronic HIV infection, both 35 years old and asymptomatic, are seen in clinic on the same day. Their baseline results are:\n\n[[labs 0]]\n\nWhich of the following statements best describes the expected course over the next several years if neither is treated?",
    "choices": [
     "Both have the same risk because their CD4 counts are similar",
     "Patient 1 has the higher risk because his virus replicates more slowly",
@@ -56,18 +107,58 @@
    "answer": 3,
    "evidence": [],
    "explain": {
-    "html": "<p>The CD4 count describes how damaged the immune system is right now, and it predicts the near-term risk of opportunistic infection. The plasma viral load describes how fast the virus is replicating and destroying CD4 cells, so it predicts the speed of future decline.</p><p>In the cohort data the lecture shows (patients with baseline CD4 above 500), the proportion remaining AIDS-free over 10 years separated sharply by viral load stratum: low viral loads stayed AIDS-free for years, high viral loads progressed quickly. With nearly identical CD4 counts, Patient 2's viral load of 95,000 copies/mL predicts much faster progression.</p>",
-    "table": null,
+    "html": "<p>Untreated HIV follows a predictable course: a burst of viremia at primary infection, a set point during years of clinical latency, and a <b>steady decline in CD4 cells</b> until opportunistic diseases appear. Two markers describe that course differently. The <b>CD4 count</b> shows how much immune damage has already happened, while the <b>plasma viral load</b> shows how fast the virus is driving the decline. In the Mellors cohort, patients with baseline CD4 counts above 500 separated sharply by viral load stratum, and within any CD4 band the risk of AIDS at 3, 6 and 9 years rose with viral load.</p><p>These two men have nearly identical CD4 counts, so their current damage is the same. Patient 2's viral load of <b>95,000 copies/mL</b> puts him in the highest stratum, so he is expected to reach AIDS much sooner than Patient 1 at 350 copies/mL. This is why <b>viral load predicts progression</b> and is followed alongside the CD4 count.</p>",
+    "table": "<table><tr><th>Marker</th><th>What it tells you</th><th>Use</th></tr><tr><td>CD4 count</td><td>Current immune damage</td><td>Staging; AIDS when below 200</td></tr><tr><td>Plasma viral load</td><td>Rate of viral replication</td><td>Predicts speed of progression; marks treatment response</td></tr></table>",
     "why": [
-     "Similar CD4 counts show similar current damage, not similar rates of future decline.",
-     "A lower viral load means slower CD4 loss and lower risk, not higher.",
-     "Viral load predicts progression even when the CD4 count is above 500.",
+     "Similar CD4 counts reflect similar current damage, not similar speed of future decline.",
+     "A lower viral load means slower progression, so Patient 1 has the lower risk.",
+     "Viral load predicts progression even when the CD4 count is above 500, as the cohort data show.",
      "",
-     "Resistance testing guides drug choice; it does not stage the natural history of untreated infection."
+     "Resistance testing guides drug choice and does not stage untreated natural history."
     ],
-    "takeaway": "In untreated HIV, the CD4 count reflects current immune damage while the plasma viral load predicts how fast the disease will progress to AIDS.",
+    "takeaway": "In untreated HIV the CD4 count measures current immune damage, while the plasma viral load predicts how fast the patient will progress to AIDS.",
     "topic": "Viral load and CD4 as prognostic markers",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "Describe the natural history of HIV-1 infection and transmission risk",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Similar CD4 counts reflect similar current damage, not similar speed of future decline.",
+      "if_right": "two patients matched for both CD4 count and viral load"
+     },
+     {
+      "choice": 1,
+      "why": "A lower viral load means slower progression, so Patient 1 has the lower risk.",
+      "if_right": "Patient 1 having the higher viral load, which would predict faster progression"
+     },
+     {
+      "choice": 2,
+      "why": "Viral load predicts progression even when the CD4 count is above 500, as the cohort data show.",
+      "if_right": "a patient whose CD4 count has fallen below 200, the threshold for stage 3 (AIDS)"
+     },
+     {
+      "choice": 4,
+      "why": "Resistance testing guides drug choice and does not stage untreated natural history.",
+      "if_right": "a patient failing therapy who needs a new regimen chosen"
+     }
+    ],
+    "slides": {
+     "stem": [
+      11,
+      12
+     ],
+     "answer": [
+      11,
+      12
+     ],
+     "distractors": [
+      12,
+      11,
+      12,
+      45
+     ]
+    },
+    "deck": "39 HIV Diagnosis and Monitoring"
    },
    "figures": [
     {
@@ -75,6 +166,25 @@
      "slide": 12,
      "caption": "Lecture 39 slides (2025-26) · Page 12"
     }
+   ],
+   "labs": [
+    [
+     [
+      "",
+      "Patient 1",
+      "Patient 2"
+     ],
+     [
+      "CD4 count (normal 500 to 1,500/mm3)",
+      "720/mm3",
+      "700/mm3"
+     ],
+     [
+      "Plasma HIV-1 RNA",
+      "350 copies/mL",
+      "95,000 copies/mL"
+     ]
+    ]
    ]
   },
   {
@@ -92,18 +202,56 @@
    "answer": 3,
    "evidence": [],
    "explain": {
-    "html": "<p>CDC recommends routine, voluntary HIV screening for everyone aged 13 to 64 in health care settings, regardless of reported risk. Risk-based testing misses many infections, and roughly one in eight people living with HIV in the United States do not know they are infected; unaware people account for a disproportionate share of new transmissions.</p><p>The recommended model is opt-out testing: the patient is told the test will be done and may decline, and no separate written consent for HIV is required. Pregnancy, an STD, or active tuberculosis are additional indications to screen, but they are not prerequisites. Repeat testing beyond the first screen is left to clinician judgment based on risk.</p>",
+    "html": "<p>CDC recommends <b>routine voluntary HIV testing for everyone aged 13 to 64</b> in health care settings, and the recommendation is <b>not based on patient risk</b>. The model is <b>opt-out</b>: the patient is told the test will be done and may decline, and no separate consent for HIV is needed. Pregnant women, patients with an STD and patients with active tuberculosis should all be screened, and repeat testing is left to the provider based on risk. The reason is that a meaningful share of people with HIV do not know they are infected, and that unaware group accounts for a disproportionate share of new infections.</p><p>This 24-year-old has no reported risk factors and has never been tested, but her age alone places her in the screening group. The right approach is to tell her an HIV test is part of routine care and that she may decline. Finding infections early leads to timely treatment and a public health benefit.</p>",
     "table": null,
     "why": [
-     "Screening for ages 13 to 64 is recommended regardless of reported risk.",
-     "Separate written consent for HIV testing is not required under the CDC model.",
-     "A one-time screen is indicated now; risk only guides whether to repeat it.",
+     "Screening for ages 13 to 64 does not depend on reported risk.",
+     "The CDC model requires no separate signed consent for HIV testing.",
+     "A first screen is indicated now; risk only guides whether to repeat it.",
      "",
-     "Pregnancy and STDs are additional indications, not conditions that must be met before screening."
+     "Pregnancy and STDs are additional reasons to screen, not prerequisites."
     ],
     "takeaway": "CDC recommends routine opt-out HIV screening for all patients aged 13 to 64 in health care settings, without separate consent and regardless of risk.",
     "topic": "CDC screening recommendations",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "To describe current recommendations for HIV testing and the use of laboratory markers in patient management",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Screening for ages 13 to 64 does not depend on reported risk.",
+      "if_right": "a patient outside the 13 to 64 range with no risk factors or other indication"
+     },
+     {
+      "choice": 1,
+      "why": "The CDC model requires no separate signed consent for HIV testing.",
+      "if_right": "a setting whose own law still required written HIV-specific consent"
+     },
+     {
+      "choice": 2,
+      "why": "A first screen is indicated now; risk only guides whether to repeat it.",
+      "if_right": "a patient already screened once, where the question is when to repeat"
+     },
+     {
+      "choice": 4,
+      "why": "Pregnancy and STDs are additional reasons to screen, not prerequisites.",
+      "if_right": "a patient outside the age range who is now pregnant or has an STD"
+     }
+    ],
+    "slides": {
+     "stem": [
+      24
+     ],
+     "answer": [
+      24
+     ],
+     "distractors": [
+      24,
+      24,
+      24,
+      24
+     ]
+    },
+    "deck": "39 HIV Diagnosis and Monitoring"
    },
    "figures": []
   },
@@ -111,7 +259,7 @@
    "id": "miid2-w08-lec39-q04",
    "source": "practice",
    "source_ref": "Written from the 2025-26 Lecture 39 slides",
-   "stem": "A 38-year-old man is diagnosed with HIV infection after a routine screening test. He feels well and has had no opportunistic infections, unexplained weight loss, or malignancies. Examination is normal except for mild generalized lymphadenopathy.\n\nCD4 count (normal 500 to 1,500/mm3): 170/mm3\nPlasma HIV-1 RNA: 210,000 copies/mL\n\nWhich of the following best describes this patient's disease stage?",
+   "stem": "A 38-year-old man is diagnosed with HIV infection after a routine screening test. He feels well and has had no opportunistic infections, unexplained weight loss, or malignancies. Examination is normal except for mild generalized lymphadenopathy.\n\n[[labs 0]]\n\nWhich of the following best describes this patient's disease stage?",
    "choices": [
     "Acute HIV infection, because he has lymphadenopathy",
     "Clinical latency, because he has no opportunistic illness",
@@ -122,18 +270,57 @@
    "answer": 2,
    "evidence": [],
    "explain": {
-    "html": "<p>AIDS is the stage of severe immunodeficiency that usually follows years of untreated HIV infection. It can be defined either by an AIDS-defining illness (most are opportunistic infections) or by the CD4 count: by definition, a CD4 count below 200 cells/mm<sup>3</sup> is AIDS (stage 3, systemic immunodeficiency).</p><p>This man has no opportunistic illness, but his CD4 count of 170 meets the definition on its own. The count matters clinically because the risk of opportunistic infection climbs steeply below 200, which is also the threshold for starting prophylaxis. Staging uses the CD4 count, not the viral load.</p>",
-    "table": null,
+    "html": "<p>Without therapy, HIV causes a <b>steady decline in CD4 cells over years</b>, and the risk of opportunistic infection rises as the count falls, especially <b>below 200</b>. <b>AIDS</b> marks severe immunodeficiency, usually from late untreated infection. It can be reached two ways: an AIDS-defining illness (most are opportunistic infections), or a CD4 count alone, since <b>by definition a CD4 count below 200 is AIDS</b> (stage 3, systemic immunodeficiency).</p><p>This man feels well and has no opportunistic illness, but his CD4 count of 170 meets the definition by itself. His high viral load says the decline is active but does not set the stage. Recognizing AIDS by the count matters because his risk of opportunistic infection is already high even though he has no symptoms.</p>",
+    "table": "<table><tr><th>Phase</th><th>Typical features</th></tr><tr><td>Acute (primary) infection</td><td>Weeks after exposure: fever, rash, pharyngitis, lymphadenopathy; very high viremia</td></tr><tr><td>Clinical latency</td><td>Years, few symptoms, steady CD4 decline</td></tr><tr><td>AIDS (stage 3)</td><td>CD4 below 200 or an AIDS-defining illness</td></tr></table>",
     "why": [
-     "Acute infection is a febrile syndrome within weeks of exposure, not asymptomatic disease with a low CD4 count.",
+     "Acute infection is a febrile illness within weeks of exposure, not asymptomatic disease with a low CD4 count.",
      "Being asymptomatic does not exclude AIDS when the CD4 count is below 200.",
      "",
-     "An AIDS-defining illness is one route to the diagnosis, but a CD4 count below 200 is sufficient on its own.",
-     "Staging is based on the CD4 count, and viral load does not set the stage."
+     "An AIDS-defining illness is one route to the diagnosis, but a CD4 count below 200 is enough by itself.",
+     "Staging uses the CD4 count; viral load does not set the stage."
     ],
     "takeaway": "A CD4 count below 200 cells/mm3 defines AIDS (stage 3) even in a patient with no opportunistic infection.",
     "topic": "AIDS definition and CD4 count",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "Describe the natural history of HIV-1 infection and transmission risk",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Acute infection is a febrile illness within weeks of exposure, not asymptomatic disease with a low CD4 count.",
+      "if_right": "fever, rash and pharyngitis a few weeks after a high-risk exposure"
+     },
+     {
+      "choice": 1,
+      "why": "Being asymptomatic does not exclude AIDS when the CD4 count is below 200.",
+      "if_right": "the same well patient with a CD4 count above 200"
+     },
+     {
+      "choice": 3,
+      "why": "An AIDS-defining illness is one route to the diagnosis, but a CD4 count below 200 is enough by itself.",
+      "if_right": "a patient with a CD4 count above 200 who is labeled AIDS only after an opportunistic infection"
+     },
+     {
+      "choice": 4,
+      "why": "Staging uses the CD4 count; viral load does not set the stage.",
+      "if_right": "a staging system based on viral load, which this one is not"
+     }
+    ],
+    "slides": {
+     "stem": [
+      9,
+      10
+     ],
+     "answer": [
+      10
+     ],
+     "distractors": [
+      7,
+      6,
+      10,
+      9
+     ]
+    },
+    "deck": "39 HIV Diagnosis and Monitoring"
    },
    "figures": [
     {
@@ -141,6 +328,18 @@
      "slide": 9,
      "caption": "Lecture 39 slides (2025-26) · Page 9"
     }
+   ],
+   "labs": [
+    [
+     [
+      "CD4 count (normal 500 to 1,500/mm3)",
+      "170/mm3"
+     ],
+     [
+      "Plasma HIV-1 RNA",
+      "210,000 copies/mL"
+     ]
+    ]
    ]
   },
   {
@@ -158,18 +357,57 @@
    "answer": 1,
    "evidence": [],
    "explain": {
-    "html": "<p>A CCR5 antagonist works only if the patient's virus enters cells through CCR5. Some patients carry virus that uses CXCR4 (X4) or both coreceptors (dual/mixed), and a CCR5 blocker does nothing against those variants. The lecture lists tropism testing among the routine baseline tests specifically \"if considering a CCR5 antagonist.\"</p><p>Tropism assays read the envelope: the third variable (V3) loop of gp120 is the main determinant of coreceptor use. Phenotypic assays (such as Trofile) test whether pseudoviruses carrying the patient's envelope infect CCR5-bearing or CXCR4-bearing cells, while genotypic assays sequence V3. The other baseline tests on the list do not address whether this drug can work.</p>",
-    "table": null,
+    "html": "<p>A newly diagnosed patient gets a standard baseline panel: CBC, CD4 count and viral load, chemistries, fasting lipids, HIV resistance testing, STD and hepatitis screening, urinalysis, TB screening, and for women a Pap smear and pregnancy test. Two tests on the list are <b>conditional on the drug being considered</b>: <b>HLA-B*5701 if considering abacavir</b>, and <b>tropism testing if considering a CCR5 antagonist</b>. A CCR5 antagonist works only if the patient's virus enters through CCR5, so virus that uses CXCR4 or both coreceptors escapes it.</p><p>This man's physician is considering a drug that blocks CCR5, so his virus must be shown to use CCR5 before it is prescribed. Tropism is read from the envelope, where the <b>V3 loop of gp120</b> is the main determinant; phenotypic assays such as Trofile test infection of CCR5-bearing versus CXCR4-bearing cells, and genotypic assays sequence the region. Skipping this step risks giving a drug that has no activity against his virus.</p>",
+    "table": "<table><tr><th>Test</th><th>Required before</th><th>Why</th></tr><tr><td>HLA-B*5701</td><td>Abacavir</td><td>Hypersensitivity risk in carriers</td></tr><tr><td>Tropism assay</td><td>CCR5 antagonist</td><td>Drug works only against CCR5-using virus</td></tr></table>",
     "why": [
      "HLA-B*5701 testing is required before abacavir, not before a CCR5 antagonist.",
      "",
-     "P24 antigen is a diagnostic marker in early or late disease, not a guide to coreceptor use.",
-     "TB screening is part of the baseline panel but does not determine whether this drug will work.",
-     "The diagnosis is already established, and repeating the screen gives no coreceptor information."
+     "p24 antigen is a diagnostic marker in early or late disease and says nothing about coreceptor use.",
+     "TB screening is part of the baseline panel but does not decide whether this drug can work.",
+     "The diagnosis is already established, and a repeat screen gives no coreceptor information."
     ],
-    "takeaway": "Before a CCR5 antagonist is prescribed, a tropism assay must show that the patient's virus uses CCR5; HLA-B*5701 is the analogous required test before abacavir.",
+    "takeaway": "Before a CCR5 antagonist is prescribed, a tropism assay must show the virus uses CCR5, just as HLA-B*5701 testing must precede abacavir.",
     "topic": "Baseline tests before choosing a regimen",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "To describe current recommendations for HIV testing and the use of laboratory markers in patient management",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "HLA-B*5701 testing is required before abacavir, not before a CCR5 antagonist.",
+      "if_right": "a regimen being built around abacavir"
+     },
+     {
+      "choice": 2,
+      "why": "p24 antigen is a diagnostic marker in early or late disease and says nothing about coreceptor use.",
+      "if_right": "a suspected acute infection where an early antigen marker is needed"
+     },
+     {
+      "choice": 3,
+      "why": "TB screening is part of the baseline panel but does not decide whether this drug can work.",
+      "if_right": "baseline screening for latent tuberculosis at a new HIV diagnosis, unrelated to a CCR5 antagonist"
+     },
+     {
+      "choice": 4,
+      "why": "The diagnosis is already established, and a repeat screen gives no coreceptor information.",
+      "if_right": "an unconfirmed diagnosis that still needs a screening result"
+     }
+    ],
+    "slides": {
+     "stem": [
+      32
+     ],
+     "answer": [
+      32,
+      53
+     ],
+     "distractors": [
+      32,
+      25,
+      32,
+      26
+     ]
+    },
+    "deck": "39 HIV Diagnosis and Monitoring"
    },
    "figures": []
   },
@@ -188,18 +426,58 @@
    "answer": 3,
    "evidence": [],
    "explain": {
-    "html": "<p>Growing a recombinant virus that carries the patient's drug-target genes in increasing drug concentrations is a phenotypic resistance assay. It directly measures the virus's ability to replicate in the presence of a drug, compared with a reference strain. The result is reported as fold change: the patient's inhibitory concentration 50 (IC50) divided by the control IC50, here 14-fold.</p><p>A genotypic assay, by contrast, sequences the genes and infers susceptibility from known mutations, an indirect measure that requires interpretation. Phenotyping shows the summed effect of all mutations at once, which is why it becomes useful after multiple regimen failures.</p>",
-    "table": null,
+    "html": "<p>HIV resistance assays come in two kinds. A <b>genotypic assay</b> sequences the protease and reverse transcriptase genes from plasma and infers susceptibility from known mutations, an <b>indirect measure</b> that needs interpretation. A <b>phenotypic assay</b> inserts the patient's gag/protease/RT fragment into a deleted proviral clone, grows the recombinant virus in culture, and <b>directly measures</b> its ability to replicate in drug compared with a reference strain. The result is a <b>fold change</b>: the patient IC50 divided by the control IC50.</p><p>Here the patient's virus needs 14 times the reference concentration for 50% inhibition, a 14-fold change, which is a direct measure of reduced susceptibility. Because the phenotype shows the summed effect of all mutations at once, it is most useful after multiple failures when the genotype is hard to read.</p>",
+    "table": "<table><tr><th></th><th>Genotypic assay</th><th>Phenotypic assay</th></tr><tr><td>What it measures</td><td>Gene sequence (mutations)</td><td>Viral growth in drug</td></tr><tr><td>Direct or indirect</td><td>Indirect, needs interpretation</td><td>Direct</td></tr><tr><td>Result</td><td>List of mutations</td><td>Fold change in IC50 vs reference</td></tr><tr><td>Speed and cost</td><td>Faster, cheaper</td><td>Slower, more expensive</td></tr></table>",
     "why": [
-     "A genotype reports sequence changes; this assay measured growth in drug, not sequence.",
+     "A genotype reports sequence changes; this assay measured growth in drug.",
      "Tropism assays test coreceptor use with envelope genes, not drug susceptibility with protease and RT genes.",
-     "Transmitted resistance describes when resistance was acquired, which this assay cannot determine.",
+     "Transmitted resistance describes when resistance was acquired, which a culture assay cannot tell.",
      "",
      "Viral load is measured by quantitative RNA testing on plasma, not by culture in drug."
     ],
-    "takeaway": "Phenotypic resistance assays directly measure viral growth in drug and report fold change in IC50 versus a reference strain; genotypic assays infer susceptibility indirectly from mutations.",
+    "takeaway": "Phenotypic resistance assays directly measure viral growth in drug and report fold change in IC50 versus a reference strain, while genotypic assays infer susceptibility indirectly from mutations.",
     "topic": "Phenotypic resistance assay",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "To have a basic understanding of HIV drug resistance & viral tropism testing",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "A genotype reports sequence changes; this assay measured growth in drug.",
+      "if_right": "a report listing codon changes in the protease and RT genes"
+     },
+     {
+      "choice": 1,
+      "why": "Tropism assays test coreceptor use with envelope genes, not drug susceptibility with protease and RT genes.",
+      "if_right": "pseudoviruses carrying envelope genes tested on CCR5 and CXCR4 cell lines"
+     },
+     {
+      "choice": 2,
+      "why": "Transmitted resistance describes when resistance was acquired, which a culture assay cannot tell.",
+      "if_right": "resistance found in a newly infected, treatment-naive patient"
+     },
+     {
+      "choice": 4,
+      "why": "Viral load is measured by quantitative RNA testing on plasma, not by culture in drug.",
+      "if_right": "serial plasma HIV RNA values after starting therapy"
+     }
+    ],
+    "slides": {
+     "stem": [
+      47,
+      48
+     ],
+     "answer": [
+      45,
+      48
+     ],
+     "distractors": [
+      46,
+      53,
+      42,
+      33
+     ]
+    },
+    "deck": "39 HIV Diagnosis and Monitoring"
    },
    "figures": [
     {
@@ -224,18 +502,58 @@
    "answer": 0,
    "evidence": [],
    "explain": {
-    "html": "<p>She has never been exposed to any antiretroviral drug, so there has been no drug pressure in her body to select a resistant variant. The resistant virus must therefore have come from her source partner, who was likely on a failing regimen. Transmission of drug-resistant HIV at the time of initial infection is called transmitted drug resistance.</p><p>The lecture's international data show transmitted resistance in about 10% of treatment-naive people overall and about 13% in the United States, with NNRTI resistance the most common class in the U.S. This is why resistance testing is recommended at diagnosis, including in acute and chronic infection before treatment starts.</p>",
-    "table": null,
+    "html": "<p>Resistance can arise in two ways. <b>Acquired resistance</b> develops in a patient on therapy when incomplete suppression selects resistant quasispecies. <b>Transmitted drug resistance (TDR)</b> is the transmission of drug-resistant HIV at the time of initial infection, so the patient carries resistant virus before ever taking a drug. In the START study of treatment-naive persons, TDR was present in about <b>10% overall and 12.6% in the USA</b>, with NNRTI resistance the most common class in the USA (8.4%).</p><p>This woman has never taken an antiretroviral drug, including PrEP, so nothing in her body could have selected an <b>NNRTI-resistant</b> variant. She must have acquired a virus that was already resistant. This is why <b>resistance testing is recommended in acute and chronic infection before therapy</b>, so the first regimen avoids drugs the virus already escapes.</p>",
+    "table": "<table><tr><th>Term</th><th>Meaning</th></tr><tr><td>Primary mutation</td><td>Selected early; usually decreases drug susceptibility</td></tr><tr><td>Secondary mutation</td><td>Selected after primary mutations; may have a limited effect</td></tr><tr><td>Transmitted drug resistance</td><td>Resistant HIV transmitted at initial infection</td></tr></table>",
     "why": [
      "",
-     "Secondary mutations are selected after primary mutations under drug pressure, which she has never had.",
-     "Adherence-related resistance requires that she be taking therapy, and she has not.",
-     "A reference strain is drug susceptible, so contamination would not create a resistance mutation.",
-     "Tropism concerns coreceptor use and does not cause NNRTI resistance."
+     "Secondary mutations are selected under drug pressure after primary mutations, and she has had no drug exposure.",
+     "Adherence-related resistance requires that she be taking therapy, and she never has.",
+     "A reference strain is drug susceptible, so contamination could not create a resistance mutation.",
+     "A tropism switch changes coreceptor use and does not cause NNRTI resistance."
     ],
-    "takeaway": "Drug resistance in a newly infected, treatment-naive patient is transmitted drug resistance, which is why genotypic testing is recommended at diagnosis before therapy.",
+    "takeaway": "Drug resistance in a newly infected, treatment-naive patient is transmitted drug resistance, which is why genotypic resistance testing is done at diagnosis before therapy.",
     "topic": "Transmitted drug resistance",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "To have a basic understanding of HIV drug resistance & viral tropism testing",
+    "rows": [
+     {
+      "choice": 1,
+      "why": "Secondary mutations are selected under drug pressure after primary mutations, and she has had no drug exposure.",
+      "if_right": "a treated patient whose genotype shows added mutations after a primary resistance mutation"
+     },
+     {
+      "choice": 2,
+      "why": "Adherence-related resistance requires that she be taking therapy, and she never has.",
+      "if_right": "a patient on therapy who missed doses and then rebounded with resistant virus"
+     },
+     {
+      "choice": 3,
+      "why": "A reference strain is drug susceptible, so contamination could not create a resistance mutation.",
+      "if_right": "an unexpected wild-type result in a patient known to carry resistant virus"
+     },
+     {
+      "choice": 4,
+      "why": "A tropism switch changes coreceptor use and does not cause NNRTI resistance.",
+      "if_right": "a newer sample whose virus now infects CXCR4-bearing cells"
+     }
+    ],
+    "slides": {
+     "stem": [
+      42,
+      43
+     ],
+     "answer": [
+      42,
+      43
+     ],
+     "distractors": [
+      42,
+      41,
+      47,
+      51
+     ]
+    },
+    "deck": "39 HIV Diagnosis and Monitoring"
    },
    "figures": []
   },
@@ -254,18 +572,56 @@
    "answer": 2,
    "evidence": [],
    "explain": {
-    "html": "<p>HIV reverse transcriptase is error prone, and with a 10-kilobase genome and billions of virions made each day, essentially every possible single mutation arises somewhere in the body daily. The virus therefore exists as a swarm of quasispecies, and variants resistant to any one drug are present before treatment begins.</p><p>A single drug suppresses the susceptible majority but leaves those resistant variants free to replicate, so they are selected and the viral load rebounds. The same selection happens with inadequate potency, low drug levels, poor adherence, or preexisting resistance. Combining at least two drugs from different classes means a single mutation cannot rescue the virus.</p>",
+    "html": "<p>HIV reverse transcriptase is <b>error prone</b>: a new mutation arises in about every third newly infected cell, and with a 10 kb genome, <b>every possible single mutation arises once a day</b> somewhere in the body. The virus therefore exists as a swarm of <b>quasispecies</b>, and variants with reduced susceptibility are present before treatment begins. When therapy suppresses incompletely (inadequate potency, inadequate drug levels, inadequate adherence, or preexisting resistance), the susceptible majority falls while the resistant variants are <b>selected</b> and take over.</p><p>A single drug given alone is exactly that kind of incomplete suppression. The susceptible population drops, the rare preexisting resistant variants expand, and viremia rebounds. This is why therapy combines drugs from different classes, so no single mutation can rescue the virus.</p>",
     "table": null,
     "why": [
      "Rare resistant variants expand quickly once the drug removes their susceptible competitors.",
-     "Drugs select variants that already exist; they do not create mutations by damaging RNA.",
+     "Drugs select variants that already exist; they do not create mutations by damaging viral RNA.",
      "",
-     "Resistant variants persist, and integrated provirus also prevents clearance.",
-     "Without viral suppression, CD4 recovery does not occur."
+     "Resistant variants persist and keep replicating, so the virus is not cleared.",
+     "Without viral suppression the CD4 count does not durably recover."
     ],
     "takeaway": "Error-prone reverse transcription means resistant variants exist before treatment; any incomplete suppression, including monotherapy, selects them and leads to virologic rebound.",
     "topic": "Mutation rate and selection under incomplete suppression",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "To have a basic understanding of HIV drug resistance & viral tropism testing",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Rare resistant variants expand quickly once the drug removes their susceptible competitors.",
+      "if_right": "a fully suppressive combination regimen taken with good adherence"
+     },
+     {
+      "choice": 1,
+      "why": "Drugs select variants that already exist; they do not create mutations by damaging viral RNA.",
+      "if_right": "never; new mutations come from error-prone reverse transcriptase, not from the drug"
+     },
+     {
+      "choice": 3,
+      "why": "Resistant variants persist and keep replicating, so the virus is not cleared.",
+      "if_right": "never with current drugs; therapy suppresses HIV but does not clear it"
+     },
+     {
+      "choice": 4,
+      "why": "Without viral suppression the CD4 count does not durably recover.",
+      "if_right": "a patient whose viral load falls below detection on effective combination therapy"
+     }
+    ],
+    "slides": {
+     "stem": [
+      40
+     ],
+     "answer": [
+      41
+     ],
+     "distractors": [
+      41,
+      40,
+      41,
+      34
+     ]
+    },
+    "deck": "39 HIV Diagnosis and Monitoring"
    },
    "figures": [
     {
@@ -290,18 +646,57 @@
    "answer": 1,
    "evidence": [],
    "explain": {
-    "html": "<p>The lecture separates factors that make a person with HIV more infectious from factors that make a partner more susceptible. On the infectiousness side, the level of virus in blood and genital secretions is the dominant driver, together with stage of infection, genital ulcers, inflammatory STDs, and lack of circumcision; antiretroviral therapy lowers infectiousness by lowering viral load.</p><p>Sustained viral suppression on therapy reduces sexual transmission to effectively zero, the basis of the message undetectable equals untransmittable (U=U). His years of undetectable virus are what make his risk so low, not his CD4 count or duration of infection.</p>",
-    "table": null,
+    "html": "<p>The lecture divides biologic determinants of sexual transmission into two sides. <b>Acquisition</b> factors make the exposed partner more susceptible: viral load in the index case, lack of circumcision, genital ulcers, inflammatory STDs, cervical ectopy, HLA haplotype and the CCR5 Δ32 deletion. <b>Infectiousness</b> factors make the person with HIV more likely to transmit: the <b>level of blood viral load</b>, the <b>genital viral load</b>, stage of infection, genital ulcers, inflammatory STDs, viral subtype, R5 tropism, and antiretroviral therapy.</p><p>This man has had undetectable plasma virus for 2 years on therapy, and neither partner has ulcers or another STI. His suppressed blood and genital viral load is the factor that drives his risk toward zero, the basis of <b>U=U</b> (undetectable equals untransmittable). His CD4 count and years since diagnosis matter far less than the amount of virus he carries.</p>",
+    "table": "<table><tr><th>Acquisition (partner)</th><th>Infectiousness (person with HIV)</th></tr><tr><td>Viral load in index case</td><td>Blood and genital viral load</td></tr><tr><td>Lack of circumcision</td><td>Stage of infection</td></tr><tr><td>Genital ulcers, inflammatory STDs</td><td>Genital ulcers, inflammatory STDs</td></tr><tr><td>Cervical ectopy, HLA haplotype, CCR5 Δ32</td><td>Viral subtype, R5 tropism, antiretroviral therapy</td></tr></table>",
     "why": [
      "CD4 count reflects his immune status, not how much virus he can transmit.",
      "",
-     "HLA haplotype is a host susceptibility factor with a smaller effect than the source partner's viral load.",
-     "R5 virus, not X4, is associated with transmission, and suppressed virus of either type is not transmitted.",
-     "Time since diagnosis matters only through stage and viral load, which therapy has controlled."
+     "HLA haplotype is a susceptibility factor on her side and does not outweigh his suppressed viral load.",
+     "R5 virus, not X4, is the phenotype tied to infectiousness, and suppressed virus is not transmitted either way.",
+     "Duration matters only through stage and viral load, and therapy has controlled his viral load."
     ],
-    "takeaway": "Viral load in blood and genital secretions is the main determinant of HIV infectiousness; durable suppression on therapy makes sexual transmission effectively zero (U=U).",
+    "takeaway": "Blood and genital viral load are the main determinants of HIV infectiousness, so durable suppression on therapy makes sexual transmission effectively zero (U=U).",
     "topic": "Determinants of sexual transmission",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "Describe the natural history of HIV-1 infection and transmission risk",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "CD4 count reflects his immune status, not how much virus he can transmit.",
+      "if_right": "a patient asking his own risk of opportunistic infection, which rises below 200"
+     },
+     {
+      "choice": 2,
+      "why": "HLA haplotype is a susceptibility factor on her side and does not outweigh his suppressed viral load.",
+      "if_right": "an exposed partner whose own genetics, such as a CCR5 delta-32 deletion, change susceptibility"
+     },
+     {
+      "choice": 3,
+      "why": "R5 virus, not X4, is the phenotype tied to infectiousness, and suppressed virus is not transmitted either way.",
+      "if_right": "a patient being screened with a tropism assay before a CCR5 antagonist such as maraviroc"
+     },
+     {
+      "choice": 4,
+      "why": "Duration matters only through stage and viral load, and therapy has controlled his viral load.",
+      "if_right": "an untreated patient where stage of infection changes his viral load"
+     }
+    ],
+    "slides": {
+     "stem": [
+      14
+     ],
+     "answer": [
+      14,
+      56
+     ],
+     "distractors": [
+      10,
+      14,
+      14,
+      14
+     ]
+    },
+    "deck": "39 HIV Diagnosis and Monitoring"
    },
    "figures": []
   },
@@ -320,18 +715,57 @@
    "answer": 0,
    "evidence": [],
    "explain": {
-    "html": "<p>Sixteen days after exposure, with symptoms and a very high plasma RNA, she is in acute HIV infection, the window between detectable virus and seroconversion. An antibody-only (third-generation) assay is negative in this window because antibodies have not yet appeared.</p><p>The fourth-generation assay adds detection of p24, a core (capsid) antigen that becomes detectable in blood before antibodies. That antigen arm is why the fourth-generation test shortens the window period and turns positive here while the antibody-only test does not. The lecture's marker timeline runs RNA first, then p24 antigen, then antibodies.</p>",
-    "table": null,
+    "html": "<p>After infection, HIV laboratory markers appear in a fixed order. <b>HIV RNA</b> becomes detectable by nucleic acid testing at about 10 days, <b>p24 antigen</b> follows a few days later, and <b>antibodies</b> appear only at seroconversion. The gap between detectable virus and seroconversion is the <b>window period</b>, during which a third-generation antibody-only assay is negative. The fourth-generation assay detects p24 antigen as well as antibody, so it turns positive earlier and shortens the window.</p><p>This woman is 16 days out from a high-risk exposure, symptomatic, with 2.4 million copies/mL of plasma RNA, so she is in acute infection. The antibody-only test is nonreactive because she has not seroconverted, and the combination test is reactive because its antigen arm picks up <b>p24</b>, a viral protein that circulates before antibodies form. Recognizing this window keeps an early infection from being missed by an older assay.</p>",
+    "table": "<table><tr><th>Marker</th><th>Order of appearance</th><th>Test that detects it</th></tr><tr><td>HIV RNA</td><td>First (about day 10)</td><td>Nucleic acid test (NAT)</td></tr><tr><td>p24 antigen</td><td>Second</td><td>Fourth-generation Ag/Ab immunoassay</td></tr><tr><td>HIV antibody</td><td>Last (seroconversion)</td><td>Third-generation (and fourth-generation) immunoassay</td></tr></table>",
     "why": [
      "",
-     "Any antibody, including early low-avidity IgG, would also have been detected by the third-generation assay.",
-     "Proviral DNA in cells is detected by nucleic acid testing, not by a serum immunoassay.",
-     "Cross-reacting HIV-2 antibodies would still be antibodies and would not explain a negative antibody-only test.",
-     "Screening immunoassays do not measure enzymatic activity."
+     "Any antibody, even early low-avidity IgG, would also have made the antibody-only assay reactive.",
+     "Proviral DNA sits inside blood cells and is detected by PCR on cells, not by a serum immunoassay.",
+     "Cross-reacting HIV-2 antibodies are still antibodies and would have been seen by the antibody-only test.",
+     "Screening immunoassays detect antigen and antibody; they do not measure enzyme activity."
     ],
-    "takeaway": "Fourth-generation assays detect p24 antigen as well as antibody, so they turn positive during the acute window when antibody-only tests are still negative; viral RNA is the earliest marker of all.",
+    "takeaway": "Fourth-generation assays detect p24 antigen, which appears before antibodies, so they are positive in the acute window when antibody-only tests are still negative; HIV RNA is the earliest marker.",
     "topic": "Window period and p24 antigen",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "To develop familiarity with the different methods used to diagnose HIV infection",
+    "rows": [
+     {
+      "choice": 1,
+      "why": "Any antibody, even early low-avidity IgG, would also have made the antibody-only assay reactive.",
+      "if_right": "a reactive third-generation assay in a patient early in seroconversion"
+     },
+     {
+      "choice": 2,
+      "why": "Proviral DNA sits inside blood cells and is detected by PCR on cells, not by a serum immunoassay.",
+      "if_right": "a PCR test run on peripheral blood mononuclear cells"
+     },
+     {
+      "choice": 3,
+      "why": "Cross-reacting HIV-2 antibodies are still antibodies and would have been seen by the antibody-only test.",
+      "if_right": "an antibody-only assay that is reactive with a differentiation result pointing to HIV-2"
+     },
+     {
+      "choice": 4,
+      "why": "Screening immunoassays detect antigen and antibody; they do not measure enzyme activity.",
+      "if_right": "an assay built to measure viral enzyme function rather than antigen or antibody"
+     }
+    ],
+    "slides": {
+     "stem": [
+      28
+     ],
+     "answer": [
+      28,
+      29
+     ],
+     "distractors": [
+      29,
+      25,
+      25,
+      25
+     ]
+    },
+    "deck": "39 HIV Diagnosis and Monitoring"
    },
    "figures": []
   },
@@ -350,18 +784,58 @@
    "answer": 2,
    "evidence": [],
    "explain": {
-    "html": "<p>The selective pattern (resistant to an R5 virus, susceptible to an X4 virus) and the homozygous 32-base-pair deletion identify the CCR5 delta32 genotype, which the lecture lists as a host factor that reduces HIV acquisition. The deletion produces a truncated CCR5 protein that never reaches the cell surface.</p><p>HIV entry requires gp120 to bind CD4 and then a coreceptor (CCR5 or CXCR4); this triggers gp41-mediated fusion. Without surface CCR5, an R5-tropic virus cannot complete coreceptor binding, so fusion never happens. An X4 virus bypasses the defect by using CXCR4, which is why the protection is not absolute.</p>",
+    "html": "<p>HIV enters a CD4 cell in ordered steps. Envelope <b>gp120</b> binds CD4 and then a <b>coreceptor</b>, CCR5 or CXCR4, and only after coreceptor binding does <b>gp41</b> mediate fusion of viral and cell membranes. Reverse transcription, integration, assembly and budding all depend on that entry. The lecture lists the <b>CCR5 gene Δ32 deletion</b> among the host factors that lower the chance of acquiring HIV.</p><p>This man's cells resist his partner's CCR5-only (R5) virus but are infected by a CXCR4-using strain, and he carries a homozygous 32-base-pair deletion. Without functional CCR5, an R5 virus cannot complete coreceptor engagement, so fusion never happens and the cycle stops at entry. The CXCR4 result shows the rest of his cells' machinery works, which is why the protection applies to <b>R5 virus</b> and not to X4 virus.</p>",
     "table": null,
     "why": [
-     "Reverse transcription occurs after entry, which never happens for the R5 virus here.",
-     "Integration is downstream of entry and is the target of integrase inhibitors, not this host defect.",
+     "Reverse transcription happens only after entry, which the R5 virus never achieves here.",
+     "Integration is downstream of entry and is the target of integrase inhibitors.",
      "",
-     "Gag-Pol cleavage by protease is a late step and is unaffected by a coreceptor deletion.",
-     "Budding is a late step; the CXCR4 result shows his cells support the rest of the cycle normally."
+     "Gag-Pol cleavage by protease is a late maturation step and is unaffected by a coreceptor defect.",
+     "Budding is a late step, and the CXCR4 result shows his cells support the late cycle normally."
     ],
-    "takeaway": "Homozygous CCR5 delta32 removes the CCR5 coreceptor from the cell surface, blocking entry of R5-tropic HIV and conferring resistance to infection, though X4 virus can still enter.",
+    "takeaway": "Homozygous CCR5 Δ32 removes the CCR5 coreceptor, blocking gp120 coreceptor binding and entry of R5-tropic HIV, while X4 virus can still enter through CXCR4.",
     "topic": "CCR5 delta32 and resistance to infection",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "Describe the natural history of HIV-1 infection and transmission risk",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Reverse transcription happens only after entry, which the R5 virus never achieves here.",
+      "if_right": "a cell that admits the virus but contains an agent blocking RNA-to-DNA conversion, such as an NRTI or NNRTI"
+     },
+     {
+      "choice": 1,
+      "why": "Integration is downstream of entry and is the target of integrase inhibitors.",
+      "if_right": "a cell exposed to an integrase inhibitor such as dolutegravir"
+     },
+     {
+      "choice": 3,
+      "why": "Gag-Pol cleavage by protease is a late maturation step and is unaffected by a coreceptor defect.",
+      "if_right": "virions made in the presence of a protease inhibitor"
+     },
+     {
+      "choice": 4,
+      "why": "Budding is a late step, and the CXCR4 result shows his cells support the late cycle normally.",
+      "if_right": "a defect that lets the virus replicate inside the cell but blocks release of new virions"
+     }
+    ],
+    "slides": {
+     "stem": [
+      14,
+      52
+     ],
+     "answer": [
+      52,
+      14
+     ],
+     "distractors": [
+      46,
+      46,
+      47,
+      52
+     ]
+    },
+    "deck": "39 HIV Diagnosis and Monitoring"
    },
    "figures": []
   },
@@ -380,18 +854,56 @@
    "answer": 0,
    "evidence": [],
    "explain": {
-    "html": "<p>Viral load testing guidelines advise against measuring HIV RNA within 4 weeks of an acute illness or a vaccination, because immune activation stimulates infected cells and can cause a transient, low-level rise (a blip) that does not reflect drug failure. This patient had both within the last 10 days, after 6 years of continuous suppression with good adherence and a stable CD4 count.</p><p>The appropriate move is to repeat the viral load once that window has passed. Persistent or rising viremia on repeat testing would then define virologic failure and prompt a genotypic resistance assay; acting on a single value drawn at the wrong time risks an unnecessary regimen change.</p>",
+    "html": "<p>Guidelines for plasma HIV RNA testing set the schedule: two tests at baseline, a test <b>4 to 8 weeks after starting or changing therapy</b>, then every 3 to 4 months on therapy. They also say <b>do not test within 4 weeks of an acute illness or following vaccination</b>, because a value drawn then is not a reliable read of drug activity. The goal of therapy is a viral load below the detection limit of current tests, and <b>complete suppression</b> is maintained to prevent resistance.</p><p>This woman has 6 years of undetectable virus, excellent adherence and an unchanged CD4 count, and her single value of 310 copies/mL was drawn <b>10 days after a febrile illness and a vaccine</b>. That timing makes the result uninterpretable, so the next step is to repeat it once the 4-week window has passed. Acting on a mistimed value risks an unnecessary regimen change, while a persistent rise on repeat testing would be handled as virologic failure.</p>",
     "table": null,
     "why": [
      "",
-     "Resistance testing is for confirmed virologic failure, not a single blip drawn at the wrong time.",
-     "Adding a single drug to a possibly failing regimen invites resistance and is not indicated here.",
-     "Therapy is lifelong; a normal CD4 count is a reason to continue, not to stop.",
+     "Resistance testing and a switch are for confirmed failure, not one value drawn inside the 4-week window.",
+     "Adding a single drug to a possibly failing regimen is not how failure is managed and is not indicated here.",
+     "Therapy is continued for life, and a good CD4 count is a reason to continue.",
      "Tropism testing matters only when a CCR5 antagonist is being considered."
     ],
-    "takeaway": "Avoid interpreting a viral load drawn within 4 weeks of an acute illness or vaccination; a low-level blip in a long-suppressed adherent patient should be repeated before calling it failure.",
+    "takeaway": "Do not interpret an HIV viral load drawn within 4 weeks of an acute illness or vaccination; repeat it before calling a low-level rise treatment failure.",
     "topic": "Timing of viral load testing",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "To describe current recommendations for HIV testing and the use of laboratory markers in patient management",
+    "rows": [
+     {
+      "choice": 1,
+      "why": "Resistance testing and a switch are for confirmed failure, not one value drawn inside the 4-week window.",
+      "if_right": "a repeat viral load, drawn at the right time, that confirms persistent or rising viremia"
+     },
+     {
+      "choice": 2,
+      "why": "Adding a single drug to a possibly failing regimen is not how failure is managed and is not indicated here.",
+      "if_right": "confirmed failure where resistance testing guides a whole new combination, not a single added drug"
+     },
+     {
+      "choice": 3,
+      "why": "Therapy is continued for life, and a good CD4 count is a reason to continue.",
+      "if_right": "never; therapy continues for life even with a normal CD4 count"
+     },
+     {
+      "choice": 4,
+      "why": "Tropism testing matters only when a CCR5 antagonist is being considered.",
+      "if_right": "a planned switch to a CCR5 antagonist"
+     }
+    ],
+    "slides": {
+     "stem": [
+      33
+     ],
+     "answer": [
+      33
+     ],
+     "distractors": [
+      44,
+      41,
+      38,
+      32
+     ]
+    },
+    "deck": "39 HIV Diagnosis and Monitoring"
    },
    "figures": []
   },
@@ -399,7 +911,7 @@
    "id": "miid2-w08-lec39-q13",
    "source": "practice",
    "source_ref": "Written from the 2025-26 Lecture 39 slides",
-   "stem": "A 29-year-old man started his first antiretroviral regimen 7 months ago. He admits he often skipped doses during a period of unstable housing. His results are:\n\nBaseline: 4 months: 7 months\nCD4 count (/mm3): 410: 460: 390\nHIV-1 RNA (copies/mL): 88,000: 1,900: 24,000\n\nHe is now taking his medications reliably again.\n\nWhich of the following is the preferred test to guide the next regimen?",
+   "stem": "A 29-year-old man started his first antiretroviral regimen 7 months ago. He admits he often skipped doses during a period of unstable housing. His results are:\n\n[[labs 0]]\n\nHe is now taking his medications reliably again.\n\nWhich of the following is the preferred test to guide the next regimen?",
    "choices": [
     "Phenotypic tropism assay",
     "Genotypic resistance assay",
@@ -410,20 +922,82 @@
    "answer": 1,
    "evidence": [],
    "explain": {
-    "html": "<p>With effective therapy and good adherence, the viral load should fall steeply within weeks and be undetectable by about 4 months. This patient never fully suppressed and then rebounded to 24,000 copies/mL, which is virologic failure. Incomplete suppression from missed doses lets drug-resistant variants already present in his viral swarm outgrow the susceptible virus, so resistance must be measured before a new regimen is chosen.</p><p>At first regimen failure the mutation pattern is usually simple and easy to interpret, so the genotypic assay (sequencing the protease and reverse transcriptase genes) is preferred: it is faster, cheaper, and more sensitive for minor populations. The phenotypic assay becomes comparable after multiple failures, when complex mutation patterns are hard to read.</p>",
-    "table": "<table><tr><th>Situation</th><th>Genotype</th><th>Phenotype</th></tr><tr><td>Before ART or acute infection</td><td>Preferred</td><td>Less preferred</td></tr><tr><td>First failure</td><td>Preferred</td><td>Less preferred</td></tr><tr><td>Multiple failures</td><td>Comparable; consider both</td><td>Comparable; shows the summed effect of mutations</td></tr></table>",
+    "html": "<p>With effective therapy and good adherence, the viral load falls steeply within weeks and is <b>below 20 copies/mL by about 4 months</b>. Failure to suppress, or a rebound, signals a problem, and the classic driver is <b>incomplete suppression</b> (inadequate potency, drug levels or adherence, or preexisting resistance), which selects drug-resistant quasispecies. Resistance testing is recommended at <b>first regimen failure</b>. At that point the mutation pattern is usually straightforward and easy to interpret, so the <b>genotypic assay is preferred</b>; it is also cheaper, faster and more sensitive. The phenotypic assay is less preferred here because it is more expensive and slower, and it becomes comparable only after multiple failures.</p><p>This man never fully suppressed, then rebounded to 24,000 copies/mL during a period of missed doses, which is first regimen failure. A genotype now identifies which drugs the selected virus can still be treated with.</p>",
+    "table": "<table><tr><th>Situation</th><th>Genotype</th><th>Phenotype</th></tr><tr><td>Primary infection or before ART</td><td>Preferred: cost-effective, rapid</td><td>Less preferred: expensive, slower</td></tr><tr><td>First failure</td><td>Preferred: simple mutation pattern</td><td>Less preferred</td></tr><tr><td>Multiple failures</td><td>Comparable; consider both</td><td>Comparable; shows summed effect of mutations</td></tr></table>",
     "why": [
      "Tropism testing applies only when a CCR5 antagonist is being considered.",
      "",
-     "Phenotyping is slower and more expensive and is reserved mainly for multiple failures with complex patterns.",
-     "Waiting allows further resistance to accumulate while viremia continues.",
-     "The differentiation assay is part of diagnosis and gives no information about drug susceptibility."
+     "Phenotyping is less preferred at first failure because it is slower and more expensive.",
+     "Waiting lets viremia continue and resistance accumulate.",
+     "The differentiation assay is part of diagnosis and says nothing about drug susceptibility."
     ],
-    "takeaway": "Virologic failure on a first regimen is evaluated with a genotypic resistance assay, which is preferred because the mutation pattern is usually simple; phenotyping is comparable only after multiple failures.",
+    "takeaway": "Virologic failure on a first regimen is evaluated with a genotypic resistance assay, preferred because the mutation pattern is usually simple; phenotyping becomes comparable after multiple failures.",
     "topic": "Resistance testing at first regimen failure",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "To have a basic understanding of HIV drug resistance & viral tropism testing",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Tropism testing applies only when a CCR5 antagonist is being considered.",
+      "if_right": "a plan to add a CCR5 antagonist to his next regimen"
+     },
+     {
+      "choice": 2,
+      "why": "Phenotyping is less preferred at first failure because it is slower and more expensive.",
+      "if_right": "a patient after multiple regimen failures with a complex mutation pattern"
+     },
+     {
+      "choice": 3,
+      "why": "Waiting lets viremia continue and resistance accumulate.",
+      "if_right": "a suppressed, adherent patient due for routine monitoring"
+     },
+     {
+      "choice": 4,
+      "why": "The differentiation assay is part of diagnosis and says nothing about drug susceptibility.",
+      "if_right": "a reactive screening test in someone not yet diagnosed"
+     }
+    ],
+    "slides": {
+     "stem": [
+      34,
+      41
+     ],
+     "answer": [
+      71,
+      44
+     ],
+     "distractors": [
+      32,
+      71,
+      41,
+      26
+     ]
+    },
+    "deck": "39 HIV Diagnosis and Monitoring"
    },
-   "figures": []
+   "figures": [],
+   "labs": [
+    [
+     [
+      "",
+      "Baseline",
+      "4 months",
+      "7 months"
+     ],
+     [
+      "CD4 count (/mm3)",
+      "410",
+      "460",
+      "390"
+     ],
+     [
+      "HIV-1 RNA (copies/mL)",
+      "88,000",
+      "1,900",
+      "24,000"
+     ]
+    ]
+   ]
   },
   {
    "id": "miid2-w08-lec39-q14",
@@ -440,18 +1014,57 @@
    "answer": 2,
    "evidence": [],
    "explain": {
-    "html": "<p>Most transmitted virus is R5 (CCR5-using). In some patients, late in infection, X4 or dual-tropic virus emerges, and the lecture's cohort data show that this transition point is followed by an accelerated fall in CD4 count. The change in coreceptor use is a property of the envelope.</p><p>Envelope gp120 binds CD4 and the coreceptor; gp41 mediates fusion. Within gp120, the third variable (V3) loop, about 35 amino acids, is the main determinant of tropism. CXCR4 use is associated with basic residues at positions 11 and 25 and a higher net positive charge in V3, exactly the change described. Genotypic tropism assays read this region.</p>",
-    "table": null,
+    "html": "<p>HIV uses CD4 plus a coreceptor to enter cells, and the coreceptor a virus uses is its <b>tropism</b>. Envelope <b>gp120</b> mediates CD4 and coreceptor binding and has five conserved and five variable domains, while <b>gp41</b> mediates fusion. The <b>third variable (V3) loop of gp120</b>, about 35 amino acids, is the primary determinant of tropism, and <b>CXCR4 use</b> goes with basic residues at positions 11 and 25 and a <b>higher net positive charge</b>. In cohort data, the transition from R5 to X4 virus is followed by a <b>faster fall in CD4 count</b>.</p><p>This man's early virus used only CCR5, his newer virus also uses CXCR4, his CD4 decline accelerated afterward, and the envelope change is a higher positive charge in one short region. That describes a shift in the V3 loop. Tropism matters clinically because a CCR5 antagonist cannot block virus that has learned to use CXCR4.</p>",
+    "table": "<table><tr><th>Envelope protein</th><th>Role</th></tr><tr><td>gp120</td><td>Binds CD4 and coreceptor; V3 loop sets tropism</td></tr><tr><td>gp41</td><td>Mediates fusion with the cell membrane</td></tr></table>",
     "why": [
-     "Gp41 mediates fusion after coreceptor binding; it does not determine which coreceptor is used.",
-     "P24 is a core protein inside the virion and does not contact host receptors.",
+     "gp41 mediates fusion after coreceptor binding; it does not decide which coreceptor is used.",
+     "p24 is a core protein inside the virion and does not contact host receptors.",
      "",
      "Reverse transcriptase mutations cause drug resistance, not a change in coreceptor use.",
-     "Protease cleavage sites affect maturation, not entry or tropism."
+     "Protease cleavage affects maturation, not entry or tropism."
     ],
-    "takeaway": "Emergence of CXCR4-using virus is associated with faster CD4 decline, and tropism is determined mainly by the V3 loop of gp120, where a higher positive charge favors CXCR4 use.",
+    "takeaway": "Emergence of CXCR4-using virus is followed by faster CD4 decline, and tropism is determined mainly by the V3 loop of gp120, where a higher net positive charge favors CXCR4 use.",
     "topic": "Tropism switch and disease progression",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "To have a basic understanding of HIV drug resistance & viral tropism testing",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "gp41 mediates fusion after coreceptor binding; it does not decide which coreceptor is used.",
+      "if_right": "a change that altered membrane fusion after coreceptor binding"
+     },
+     {
+      "choice": 1,
+      "why": "p24 is a core protein inside the virion and does not contact host receptors.",
+      "if_right": "a change in the antigen detected by fourth-generation screening assays"
+     },
+     {
+      "choice": 3,
+      "why": "Reverse transcriptase mutations cause drug resistance, not a change in coreceptor use.",
+      "if_right": "a new resistance mutation found on a genotype after treatment failure"
+     },
+     {
+      "choice": 4,
+      "why": "Protease cleavage affects maturation, not entry or tropism.",
+      "if_right": "a change affecting virion maturation and protease inhibitor susceptibility"
+     }
+    ],
+    "slides": {
+     "stem": [
+      51,
+      52
+     ],
+     "answer": [
+      52
+     ],
+     "distractors": [
+      52,
+      25,
+      46,
+      46
+     ]
+    },
+    "deck": "39 HIV Diagnosis and Monitoring"
    },
    "figures": [
     {

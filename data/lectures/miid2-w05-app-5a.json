@@ -20,18 +20,56 @@
    "answer": 1,
    "evidence": [],
    "explain": {
-    "html": "<p>Large yeast with a single bud attached across a broad base is the characteristic tissue form of Blastomyces dermatitidis. Infection follows inhalation of spores and primarily involves the lung, where it can produce an indolent or progressive pneumonia.</p><p>The width of the attachment is the discriminating detail: Cryptococcus buds on a narrow base and is encapsulated, and Histoplasma is small and lives inside macrophages.</p>",
-    "table": null,
+    "html": "<p>Several yeasts appear in the case set, and the <b>way they bud</b> is what separates them. <i>Blastomyces dermatitidis</i> is a <b>large round yeast</b> with a <b>single daughter cell attached across a broad base</b>, easy to see on Giemsa and silver stains. <i>Cryptococcus</i> buds on a <b>narrow base</b> and carries a capsule. <i>Histoplasma</i> is small and sits inside macrophages. <i>Coccidioides</i> does not bud in tissue at all, since it forms spherules. Blastomycosis is acquired by <b>inhaling spores</b> and mainly involves the lung.</p><p>This man had a flu-like illness that progressed over weeks to respiratory distress, and his lung biopsy shows large yeast with wide, flat bud attachments and no hyphae. That broad-based budding identifies <i>Blastomyces</i>.</p>",
+    "table": "<table><tr><th>Case morphology</th><th>Organism</th><th>Clinical picture in the case set</th></tr><tr><td>Round yeast with a clear halo on India ink</td><td>Cryptococcus</td><td>Headache and seizures after chemotherapy for lymphoma</td></tr><tr><td>Small yeast packed inside marrow macrophages</td><td>Histoplasma capsulatum</td><td>Fever, pancytopenia, hepatosplenomegaly after Central America</td></tr><tr><td>Septate hyphae, acute-angle branching</td><td>Aspergillus</td><td>Hemoptysis after bone marrow transplant</td></tr><tr><td>Thick-walled spherules with endospores</td><td>Coccidioides</td><td>Lung nodule after the Sonoran Desert</td></tr><tr><td>Budding yeast with pseudohyphae</td><td>Candida</td><td>Painful swallowing, white plaques</td></tr><tr><td>Broad aseptate hyphae, wide-angle branching</td><td>Mucormycosis agents</td><td>Necrotic facial lesion in poorly controlled diabetes</td></tr><tr><td>Large yeast with a broad-based bud</td><td>Blastomyces</td><td>Flu-like illness progressing to respiratory distress</td></tr></table>",
     "why": [
-     "Cryptococcus has narrow-based budding and a thick capsule.",
+     "Cryptococcus buds on a narrow base and has a thick capsule.",
      "",
-     "Coccidioides forms thick-walled spherules filled with endospores, not budding yeast.",
-     "Aspergillus is a mold with septate hyphae, not a budding yeast.",
-     "Histoplasma yeast is small and found within macrophages."
+     "Coccidioides forms thick-walled spherules with endospores, not budding yeast.",
+     "Aspergillus is a mold with septate hyphae, and no hyphae are seen here.",
+     "Histoplasma yeast is small and found inside macrophages."
     ],
-    "takeaway": "Large yeast with a single broad-based bud in lung tissue identifies Blastomyces dermatitidis.",
+    "takeaway": "Large yeast with a single broad-based bud in lung tissue identify Blastomyces dermatitidis.",
     "topic": "Morphology to diagnosis: broad-based budding",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "Recognize the gross and microscopic morphology associated with various fungal organisms and correlate this morphology with the clinical presentation of each disease",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Cryptococcus buds on a narrow base and has a thick capsule.",
+      "if_right": "round yeast with narrow-based buds and halos on India ink"
+     },
+     {
+      "choice": 2,
+      "why": "Coccidioides forms thick-walled spherules with endospores, not budding yeast.",
+      "if_right": "spherules packed with endospores on lung biopsy"
+     },
+     {
+      "choice": 3,
+      "why": "Aspergillus is a mold with septate hyphae, and no hyphae are seen here.",
+      "if_right": "septate acute-angle hyphae in the lung biopsy"
+     },
+     {
+      "choice": 4,
+      "why": "Histoplasma yeast is small and found inside macrophages.",
+      "if_right": "small yeast clustered inside macrophages on a marrow aspirate"
+     }
+    ],
+    "slides": {
+     "stem": [
+      21
+     ],
+     "answer": [
+      22
+     ],
+     "distractors": [
+      7,
+      14,
+      12,
+      10
+     ]
+    },
+    "deck": "05A Mycology Case Studies"
    },
    "figures": [
     {
@@ -56,18 +94,60 @@
    "answer": 1,
    "evidence": [],
    "explain": {
-    "html": "<p>These are the staining methods used across the case set. Silver stains outline fungal cell walls and are the standard way to find fungi in tissue sections, including both yeast and hyphal forms.</p><p>India ink is a negative stain: the ink particles cannot enter the capsule, so the organism and its capsule appear light against a dark background. Romanowsky-type stains such as Wright-Giemsa show organisms inside phagocytes on marrow and blood films, and periodic acid-Schiff highlights fungal wall carbohydrate in tissue.</p>",
-    "table": null,
+    "html": "<p>The case set uses several stains, and each shows the fungus in its own way. <b>Silver stains</b> (GMS) outline <b>fungal cell walls</b> in dark brown to black against a pale background, so they are the standard way to find both yeast and hyphae in tissue sections. <b>India ink</b> is a <b>negative stain</b>: ink particles cannot enter the capsule, so the organism looks light on a dark field. <b>Wright-Giemsa</b>, a Romanowsky-type stain, shows yeast <b>inside phagocytes</b> on marrow and blood films. <b>Periodic acid-Schiff</b> highlights carbohydrate in fungal walls, staining them magenta in tissue.</p><p>Of the statements offered, only the one about silver outlining fungal walls in tissue is correct.</p>",
+    "table": "<table><tr><th>Stain</th><th>What it shows</th><th>Case example</th></tr><tr><td>Silver (GMS)</td><td>Fungal walls dark against a pale background</td><td>Lung biopsies, marrow yeast</td></tr><tr><td>India ink</td><td>Negative stain; capsule seen as a clear halo</td><td>Cryptococcus in spinal fluid</td></tr><tr><td>Wright-Giemsa</td><td>Yeast inside phagocytes</td><td>Histoplasma in bone marrow</td></tr><tr><td>Periodic acid-Schiff</td><td>Fungal wall carbohydrate in tissue</td><td>Candida esophagitis, mucormycosis</td></tr></table>",
     "why": [
-     "India ink is a negative stain; the organism is not darkened by it.",
+     "India ink is a negative stain, so the organism stays light and is not darkened.",
      "",
-     "Wright-Giemsa is exactly how intracellular yeast forms are seen on a marrow aspirate.",
+     "Wright-Giemsa is exactly how intracellular yeast are seen on a marrow aspirate.",
      "Periodic acid-Schiff highlights carbohydrate in fungal walls, not bacterial peptidoglycan.",
-     "These are morphologic stains and do not require living organisms."
+     "These are morphologic stains and work on organisms that are no longer alive."
     ],
-    "takeaway": "Silver and periodic acid-Schiff stains show fungal walls in tissue, India ink is a negative stain for capsule, and Wright-Giemsa shows yeast inside phagocytes.",
+    "takeaway": "Silver and periodic acid-Schiff stains show fungal walls in tissue, India ink is a negative stain that reveals a capsule, and Wright-Giemsa shows yeast inside phagocytes.",
     "topic": "Stains used to show fungi in tissue",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "Recognize the gross and microscopic morphology associated with various fungal organisms and correlate this morphology with the clinical presentation of each disease",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "India ink is a negative stain, so the organism stays light and is not darkened.",
+      "if_right": "a stain that colors the organism itself, such as silver"
+     },
+     {
+      "choice": 2,
+      "why": "Wright-Giemsa is exactly how intracellular yeast are seen on a marrow aspirate.",
+      "if_right": "none; Wright-Giemsa is the stain that shows Histoplasma yeast inside macrophages"
+     },
+     {
+      "choice": 3,
+      "why": "Periodic acid-Schiff highlights carbohydrate in fungal walls, not bacterial peptidoglycan.",
+      "if_right": "a Gram stain, which separates bacteria by their peptidoglycan wall"
+     },
+     {
+      "choice": 4,
+      "why": "These are morphologic stains and work on organisms that are no longer alive.",
+      "if_right": "a culture, which does require viable organisms"
+     }
+    ],
+    "slides": {
+     "stem": [
+      6,
+      8,
+      9,
+      16
+     ],
+     "answer": [
+      6,
+      12
+     ],
+     "distractors": [
+      8,
+      10,
+      16,
+      6
+     ]
+    },
+    "deck": "05A Mycology Case Studies"
    },
    "figures": [
     {
@@ -92,18 +172,57 @@
    "answer": 3,
    "evidence": [],
    "explain": {
-    "html": "<p>India ink is a negative stain: the particles cannot enter the thick polysaccharide capsule, so the capsule appears as a clear halo around the yeast. Combined with narrow-based budding and a central nervous system presentation in an immunocompromised patient, this identifies Cryptococcus.</p><p>The other morphologies on this slide set point elsewhere, which is the skill being tested: match what is seen under the microscope to the organism and then to the clinical picture.</p>",
-    "table": null,
+    "html": "<p>The skill in these cases is to read the morphology first and then match it to the organism and the clinical picture. <i>Cryptococcus</i> is a round <b>yeast of varying size with narrow-based budding</b> and a thick <b>polysaccharide capsule</b>. An <b>India ink preparation</b> is a negative stain: the ink particles cannot enter the capsule, so the capsule shows as a <b>wide unstained halo</b> around each cell. A Giemsa stain shows the yeast but does not set it apart from other round cells nearly as well. The halo is therefore the single finding that makes the diagnosis.</p><p>This man had chemotherapy for Hodgkin lymphoma, which weakens <b>cell-mediated immunity</b>, and now has fever, severe headache and seizures. Haloed yeast in the cerebrospinal fluid places the infection in the <b>central nervous system</b>.</p>",
+    "table": "<table><tr><th>Case morphology</th><th>Organism</th><th>Clinical picture in the case set</th></tr><tr><td>Round yeast with a clear halo on India ink</td><td>Cryptococcus</td><td>Headache and seizures after chemotherapy for lymphoma</td></tr><tr><td>Small yeast packed inside marrow macrophages</td><td>Histoplasma capsulatum</td><td>Fever, pancytopenia, hepatosplenomegaly after Central America</td></tr><tr><td>Septate hyphae, acute-angle branching</td><td>Aspergillus</td><td>Hemoptysis after bone marrow transplant</td></tr><tr><td>Thick-walled spherules with endospores</td><td>Coccidioides</td><td>Lung nodule after the Sonoran Desert</td></tr><tr><td>Budding yeast with pseudohyphae</td><td>Candida</td><td>Painful swallowing, white plaques</td></tr><tr><td>Broad aseptate hyphae, wide-angle branching</td><td>Mucormycosis agents</td><td>Necrotic facial lesion in poorly controlled diabetes</td></tr><tr><td>Large yeast with a broad-based bud</td><td>Blastomyces</td><td>Flu-like illness progressing to respiratory distress</td></tr></table>",
     "why": [
-     "Small cells packed inside phagocytes describe Histoplasma.",
-     "Thick-walled structures filled with endospores are Coccidioides spherules.",
-     "Septate hyphae indicate a mold such as Aspergillus, not a yeast in cerebrospinal fluid.",
+     "Small cells packed inside leukocytes describe Histoplasma, not haloed yeast in spinal fluid.",
+     "Thick-walled structures with endospores are Coccidioides spherules, a tissue form in the lung.",
+     "Hyphae with regular cross walls mean a mold such as Aspergillus, not a yeast in spinal fluid.",
      "",
-     "Broad-based budding describes Blastomyces, which does not typically present this way."
+     "A single bud across a wide base is Blastomyces, which does not show a capsule halo."
     ],
-    "takeaway": "A clear halo on India ink preparation of cerebrospinal fluid represents the cryptococcal capsule and identifies Cryptococcus in an immunocompromised host.",
+    "takeaway": "A wide clear halo around yeast on India ink is the Cryptococcus capsule, which identifies cryptococcal meningitis in a host with impaired cell-mediated immunity.",
     "topic": "Morphology to diagnosis: encapsulated yeast",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "Recognize the gross and microscopic morphology associated with various fungal organisms and correlate this morphology with the clinical presentation of each disease",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Small cells packed inside leukocytes describe Histoplasma, not haloed yeast in spinal fluid.",
+      "if_right": "small oval yeast clustered inside macrophages on a bone marrow aspirate"
+     },
+     {
+      "choice": 1,
+      "why": "Thick-walled structures with endospores are Coccidioides spherules, a tissue form in the lung.",
+      "if_right": "spherules on lung biopsy after desert travel"
+     },
+     {
+      "choice": 2,
+      "why": "Hyphae with regular cross walls mean a mold such as Aspergillus, not a yeast in spinal fluid.",
+      "if_right": "septate acute-angle hyphae in a lung biopsy after transplant"
+     },
+     {
+      "choice": 4,
+      "why": "A single bud across a wide base is Blastomyces, which does not show a capsule halo.",
+      "if_right": "large yeast with broad-based buds on lung biopsy"
+     }
+    ],
+    "slides": {
+     "stem": [
+      7,
+      8
+     ],
+     "answer": [
+      8
+     ],
+     "distractors": [
+      10,
+      14,
+      12,
+      22
+     ]
+    },
+    "deck": "05A Mycology Case Studies"
    },
    "figures": [
     {
@@ -128,18 +247,56 @@
    "answer": 4,
    "evidence": [],
    "explain": {
-    "html": "<p>Small oval yeast forms packed inside mononuclear phagocytes on a bone marrow aspirate, in a patient with fever, weight loss, pancytopenia and hepatosplenomegaly, are the hallmark of disseminated histoplasmosis.</p><p>Histoplasma is a dimorphic fungus that survives and multiplies inside macrophages, which is why marrow, liver and spleen are involved and why the peripheral counts fall.</p>",
-    "table": null,
+    "html": "<p>On a bone marrow aspirate, small fungal forms can sit inside host cells, and their size and location give the diagnosis. <i>Histoplasma capsulatum</i> appears as <b>many small oval yeast packed inside macrophages</b>. A <b>Wright-Giemsa</b> stain shows them within the cytoplasm, and a <b>silver stain</b> outlines the same small forms in black. Because the yeast <b>multiplies inside macrophages</b>, it travels to the marrow, liver and spleen. That spread explains the <b>pancytopenia</b> and <b>hepatosplenomegaly</b> of disseminated disease.</p><p>This returning missionary has fever, weight loss, falling counts, an enlarged liver and spleen and confusion, and the marrow shows exactly this intracellular pattern. No other organism in the case set looks like small yeast inside macrophages.</p>",
+    "table": "<table><tr><th>Case morphology</th><th>Organism</th><th>Clinical picture in the case set</th></tr><tr><td>Round yeast with a clear halo on India ink</td><td>Cryptococcus</td><td>Headache and seizures after chemotherapy for lymphoma</td></tr><tr><td>Small yeast packed inside marrow macrophages</td><td>Histoplasma capsulatum</td><td>Fever, pancytopenia, hepatosplenomegaly after Central America</td></tr><tr><td>Septate hyphae, acute-angle branching</td><td>Aspergillus</td><td>Hemoptysis after bone marrow transplant</td></tr><tr><td>Thick-walled spherules with endospores</td><td>Coccidioides</td><td>Lung nodule after the Sonoran Desert</td></tr><tr><td>Budding yeast with pseudohyphae</td><td>Candida</td><td>Painful swallowing, white plaques</td></tr><tr><td>Broad aseptate hyphae, wide-angle branching</td><td>Mucormycosis agents</td><td>Necrotic facial lesion in poorly controlled diabetes</td></tr><tr><td>Large yeast with a broad-based bud</td><td>Blastomyces</td><td>Flu-like illness progressing to respiratory distress</td></tr></table>",
     "why": [
-     "Sporothrix produces lymphocutaneous lesions after skin inoculation.",
-     "Rhizopus forms broad aseptate hyphae in tissue.",
-     "Blastomyces is a large yeast with broad-based budding, not a small intracellular form.",
-     "Aspergillus is a mold with septate hyphae and does not reside inside macrophages.",
+     "Sporothrix causes skin nodules along lymphatics after an inoculation injury, not marrow infection.",
+     "Rhizopus forms broad aseptate hyphae in tissue, not small intracellular yeast.",
+     "Blastomyces is a large yeast with a broad-based bud, not small forms inside macrophages.",
+     "Aspergillus is a mold with septate hyphae and does not live inside macrophages.",
      ""
     ],
-    "takeaway": "Small yeast forms within macrophages on a bone marrow aspirate, with pancytopenia and hepatosplenomegaly, indicate disseminated histoplasmosis.",
+    "takeaway": "Small yeast multiplying inside macrophages on a marrow aspirate, with pancytopenia and hepatosplenomegaly, indicate disseminated histoplasmosis.",
     "topic": "Morphology to diagnosis: intracellular yeast",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "Recognize the gross and microscopic morphology associated with various fungal organisms and correlate this morphology with the clinical presentation of each disease",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Sporothrix causes skin nodules along lymphatics after an inoculation injury, not marrow infection.",
+      "if_right": "a landscaper with a foot lesion followed by nodules up the leg"
+     },
+     {
+      "choice": 1,
+      "why": "Rhizopus forms broad aseptate hyphae in tissue, not small intracellular yeast.",
+      "if_right": "ribbon-like aseptate hyphae in a necrotic facial lesion of a diabetic patient"
+     },
+     {
+      "choice": 2,
+      "why": "Blastomyces is a large yeast with a broad-based bud, not small forms inside macrophages.",
+      "if_right": "large yeast with a single broad-based bud on lung biopsy"
+     },
+     {
+      "choice": 3,
+      "why": "Aspergillus is a mold with septate hyphae and does not live inside macrophages.",
+      "if_right": "septate acute-angle hyphae invading vessels after transplant"
+     }
+    ],
+    "slides": {
+     "stem": [
+      9
+     ],
+     "answer": [
+      10
+     ],
+     "distractors": [
+      18,
+      20,
+      22,
+      12
+     ]
+    },
+    "deck": "05A Mycology Case Studies"
    },
    "figures": [
     {
@@ -164,18 +321,56 @@
    "answer": 0,
    "evidence": [],
    "explain": {
-    "html": "<p>A rapidly progressive facial infection with necrotic tissue in a patient with poorly controlled diabetes is mucormycosis. On histology the agents of mucormycosis form broad, irregular, ribbon-like hyphae with no septa that branch at roughly right angles.</p><p>Aspergillus, the other common invasive mold, is the look-alike: its hyphae are narrower, regularly septate, and branch at acute angles. Separating them on biopsy matters because the management differs.</p>",
-    "table": "<table><tr><th></th><th>Mucormycosis agents</th><th>Aspergillus</th></tr><tr><td>Septa</td><td>Absent</td><td>Present</td></tr><tr><td>Branching</td><td>Wide (right) angles</td><td>Acute (45 degree) angles</td></tr><tr><td>Hyphal shape</td><td>Broad, ribbon-like, irregular</td><td>Narrow, uniform</td></tr></table>",
+    "html": "<p>Two molds cause most invasive mold disease, and the biopsy tells them apart by the shape of the hyphae. The agents of <b>mucormycosis</b> form <b>broad, irregular, ribbon-like hyphae</b> that have <b>no septa</b> and branch at <b>wide, near right angles</b>. <i>Aspergillus</i> forms narrower, uniform hyphae with <b>regular septa</b> and acute-angle branching. Mucormycosis classically strikes patients with <b>poorly controlled diabetes</b> and spreads fast, leaving black, dead tissue.</p><p>This woman has poorly controlled diabetes and a facial lesion with a necrotic center that grew noticeably in 48 hours. The PAS-stained biopsy shows aseptate ribbon-like hyphae with wide branching, which is what separates the mucormycosis agents from <i>Aspergillus</i>.</p>",
+    "table": "<table><tr><th>Feature</th><th>Mucormycosis agents</th><th>Aspergillus</th></tr><tr><td>Septa</td><td>Absent</td><td>Present</td></tr><tr><td>Branching</td><td>Wide (right) angles</td><td>Acute (45 degree) angles</td></tr><tr><td>Hyphal shape</td><td>Broad, ribbon-like, irregular</td><td>Narrow, uniform</td></tr><tr><td>Classic host in the cases</td><td>Poorly controlled diabetes</td><td>Transplant or leukemia</td></tr></table>",
     "why": [
      "",
-     "Budding yeast beside hyphae suggests Candida, not a mold invading tissue.",
-     "Hyphae are not encapsulated; a capsule is a feature of Cryptococcus yeast.",
-     "Arthrospores form in soil cultures of Coccidioides, not in this tissue.",
-     "Pigmented granules are not the distinguishing feature here."
+     "Budding yeast beside the hyphae would suggest Candida, not a mold invading tissue.",
+     "Hyphae do not carry a capsule; a capsule belongs to the yeast Cryptococcus.",
+     "Arthrospores form on Coccidioides filaments in soil, not in this tissue.",
+     "Granules belong to the branching bacteria Nocardia and Actinomyces, not to these two molds."
     ],
-    "takeaway": "Broad aseptate ribbon-like hyphae branching at wide angles identify mucormycosis and distinguish it from septate, acute-angle Aspergillus.",
+    "takeaway": "Broad, aseptate, ribbon-like hyphae branching at wide angles identify mucormycosis and separate it from septate, acute-angle Aspergillus.",
     "topic": "Morphology to diagnosis: aseptate hyphae",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "Recognize the gross and microscopic morphology associated with various fungal organisms and correlate this morphology with the clinical presentation of each disease",
+    "rows": [
+     {
+      "choice": 1,
+      "why": "Budding yeast beside the hyphae would suggest Candida, not a mold invading tissue.",
+      "if_right": "budding yeast with pseudohyphae in an esophageal biopsy"
+     },
+     {
+      "choice": 2,
+      "why": "Hyphae do not carry a capsule; a capsule belongs to the yeast Cryptococcus.",
+      "if_right": "round yeast with a halo on India ink of spinal fluid"
+     },
+     {
+      "choice": 3,
+      "why": "Arthrospores form on Coccidioides filaments in soil, not in this tissue.",
+      "if_right": "a desert soil culture rather than a facial biopsy"
+     },
+     {
+      "choice": 4,
+      "why": "Granules belong to the branching bacteria Nocardia and Actinomyces, not to these two molds.",
+      "if_right": "a draining lesion with sulfur granules, pointing to Nocardia or Actinomyces"
+     }
+    ],
+    "slides": {
+     "stem": [
+      19
+     ],
+     "answer": [
+      20
+     ],
+     "distractors": [
+      16,
+      8,
+      14,
+      20
+     ]
+    },
+    "deck": "05A Mycology Case Studies"
    },
    "figures": [
     {
@@ -200,18 +395,56 @@
    "answer": 2,
    "evidence": [],
    "explain": {
-    "html": "<p>Thick-walled structures filled with small internal bodies are spherules containing endospores, the tissue form of Coccidioides, and the Sonoran Desert travel history fits the endemic area of the southwestern United States.</p><p>In soil the organism grows as filaments that reproduce by forming arthrospores, which become airborne when dry alkaline soil is disturbed and are inhaled. A solitary nodule weeks after exposure is a typical primary pulmonary presentation.</p>",
-    "table": null,
+    "html": "<p><i>Coccidioides</i> looks different in soil and in the body, and the tissue form is distinctive. In tissue it forms <b>large, thick-walled spherules</b> packed with many small <b>endospores</b>, which H&amp;E and silver stains both show well, often within granulomas. In soil it grows as filaments that break into <b>arthrospores</b>. When dry desert soil is disturbed, the arthrospores become airborne and are <b>inhaled</b>, so infection begins in the lung. A primary infection can appear weeks after exposure as fever, cough and chest pain, sometimes with a <b>solitary nodule</b>.</p><p>This woman fell ill about 3 weeks after a trip through the <b>Sonoran Desert</b>, has a single upper lobe nodule, and her biopsy shows spherules with endospores. All of that points to inhaled arthrospores.</p>",
+    "table": "<table><tr><th>Case morphology</th><th>Organism</th><th>Clinical picture in the case set</th></tr><tr><td>Round yeast with a clear halo on India ink</td><td>Cryptococcus</td><td>Headache and seizures after chemotherapy for lymphoma</td></tr><tr><td>Small yeast packed inside marrow macrophages</td><td>Histoplasma capsulatum</td><td>Fever, pancytopenia, hepatosplenomegaly after Central America</td></tr><tr><td>Septate hyphae, acute-angle branching</td><td>Aspergillus</td><td>Hemoptysis after bone marrow transplant</td></tr><tr><td>Thick-walled spherules with endospores</td><td>Coccidioides</td><td>Lung nodule after the Sonoran Desert</td></tr><tr><td>Budding yeast with pseudohyphae</td><td>Candida</td><td>Painful swallowing, white plaques</td></tr><tr><td>Broad aseptate hyphae, wide-angle branching</td><td>Mucormycosis agents</td><td>Necrotic facial lesion in poorly controlled diabetes</td></tr><tr><td>Large yeast with a broad-based bud</td><td>Blastomyces</td><td>Flu-like illness progressing to respiratory distress</td></tr></table>",
     "why": [
-     "Pigeon droppings are linked to Cryptococcus neoformans.",
-     "Lymphatic spread from an abscess does not describe primary pulmonary infection.",
+     "Pigeon droppings during demolition are the classic source of Cryptococcus neoformans.",
+     "Spread along lymphatics from a distant abscess does not describe a primary lung nodule.",
      "",
-     "Waterborne ingestion is not how this organism is acquired.",
-     "Skin inoculation describes sporotrichosis and mycetoma."
+     "Swallowing contaminated water is not how this fungus is acquired.",
+     "Inoculation into a skin wound describes subcutaneous infections such as sporotrichosis."
     ],
-    "takeaway": "Spherules filled with endospores in lung tissue identify Coccidioides, acquired by inhaling arthrospores from dry desert soil.",
+    "takeaway": "Thick-walled spherules filled with endospores in lung tissue identify Coccidioides, which is acquired by inhaling arthrospores from dry desert soil.",
     "topic": "Morphology to diagnosis: spherules",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "Recognize the gross and microscopic morphology associated with various fungal organisms and correlate this morphology with the clinical presentation of each disease",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Pigeon droppings during demolition are the classic source of Cryptococcus neoformans.",
+      "if_right": "encapsulated yeast in a worker exposed to pigeon roosts"
+     },
+     {
+      "choice": 1,
+      "why": "Spread along lymphatics from a distant abscess does not describe a primary lung nodule.",
+      "if_right": "skin nodules tracking up a limb from an inoculation site"
+     },
+     {
+      "choice": 3,
+      "why": "Swallowing contaminated water is not how this fungus is acquired.",
+      "if_right": "a waterborne intestinal infection"
+     },
+     {
+      "choice": 4,
+      "why": "Inoculation into a skin wound describes subcutaneous infections such as sporotrichosis.",
+      "if_right": "a landscaper whose foot lesion spread along lymphatics"
+     }
+    ],
+    "slides": {
+     "stem": [
+      13
+     ],
+     "answer": [
+      14
+     ],
+     "distractors": [
+      8,
+      17,
+      13,
+      17
+     ]
+    },
+    "deck": "05A Mycology Case Studies"
    },
    "figures": [
     {
@@ -236,18 +469,56 @@
    "answer": 0,
    "evidence": [],
    "explain": {
-    "html": "<p>White plaques on the tongue and esophagus with budding yeast on biopsy indicate candidiasis. Candida forms pseudohyphae, which are chains of elongated budding cells that stay attached rather than true hyphae with continuous cytoplasm.</p><p>Recognizing budding yeast with pseudohyphae on a mucosal biopsy is the morphologic step that distinguishes Candida from the molds and from the dimorphic fungi in tissue.</p>",
-    "table": null,
+    "html": "<p><i>Candida</i> grows on mucosal surfaces as <b>budding yeast</b>, and when it invades it also forms <b>pseudohyphae</b>. Pseudohyphae are chains of elongated budding cells that stay attached end to end, pinched at each junction. <b>True hyphae</b> of a mold have continuous walls divided by septa. On a PAS-stained mucosal biopsy, budding yeast together with pseudohyphae is the pattern that sets <i>Candida</i> apart from the molds and the dimorphic fungi. Clinically it shows up as <b>white plaques</b> on the tongue and esophagus with <b>painful swallowing</b>.</p><p>This man has risk factors for immunosuppression, white material on the tongue that scrapes off, esophageal plaques, and a biopsy with budding yeast plus attached elongated chains. Those chains are pseudohyphae.</p>",
+    "table": "<table><tr><th>Case morphology</th><th>Organism</th><th>Clinical picture in the case set</th></tr><tr><td>Round yeast with a clear halo on India ink</td><td>Cryptococcus</td><td>Headache and seizures after chemotherapy for lymphoma</td></tr><tr><td>Small yeast packed inside marrow macrophages</td><td>Histoplasma capsulatum</td><td>Fever, pancytopenia, hepatosplenomegaly after Central America</td></tr><tr><td>Septate hyphae, acute-angle branching</td><td>Aspergillus</td><td>Hemoptysis after bone marrow transplant</td></tr><tr><td>Thick-walled spherules with endospores</td><td>Coccidioides</td><td>Lung nodule after the Sonoran Desert</td></tr><tr><td>Budding yeast with pseudohyphae</td><td>Candida</td><td>Painful swallowing, white plaques</td></tr><tr><td>Broad aseptate hyphae, wide-angle branching</td><td>Mucormycosis agents</td><td>Necrotic facial lesion in poorly controlled diabetes</td></tr><tr><td>Large yeast with a broad-based bud</td><td>Blastomyces</td><td>Flu-like illness progressing to respiratory distress</td></tr></table>",
     "why": [
      "",
-     "Arthrospores are formed in soil by Coccidioides filaments.",
-     "Endospores come from Coccidioides spherules in tissue.",
-     "Sporangiospores are spores contained within a sporangium, not seen here.",
-     "True septate hyphae belong to molds such as Aspergillus."
+     "Arthrospores form when Coccidioides filaments fragment in soil, not on an esophageal biopsy.",
+     "Endospores are released from Coccidioides spherules in lung tissue.",
+     "Sporangiospores are held inside a sac (sporangium), which is not seen here.",
+     "Septate true hyphae belong to molds such as Aspergillus, not budding yeast."
     ],
-    "takeaway": "Budding yeast with pseudohyphae on a mucosal biopsy identifies Candida as the cause of thrush and esophagitis.",
+    "takeaway": "Budding yeast with pseudohyphae on a mucosal biopsy identify Candida as the cause of thrush and esophagitis.",
     "topic": "Morphology to diagnosis: yeast with pseudohyphae",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "Recognize the gross and microscopic morphology associated with various fungal organisms and correlate this morphology with the clinical presentation of each disease",
+    "rows": [
+     {
+      "choice": 1,
+      "why": "Arthrospores form when Coccidioides filaments fragment in soil, not on an esophageal biopsy.",
+      "if_right": "a soil culture of a desert fungus breaking into barrel-shaped spores"
+     },
+     {
+      "choice": 2,
+      "why": "Endospores are released from Coccidioides spherules in lung tissue.",
+      "if_right": "thick-walled spherules packed with endospores on lung biopsy"
+     },
+     {
+      "choice": 3,
+      "why": "Sporangiospores are held inside a sac (sporangium), which is not seen here.",
+      "if_right": "spores contained within a terminal sac on a mold culture"
+     },
+     {
+      "choice": 4,
+      "why": "Septate true hyphae belong to molds such as Aspergillus, not budding yeast.",
+      "if_right": "narrow septate hyphae branching at acute angles in lung tissue"
+     }
+    ],
+    "slides": {
+     "stem": [
+      15
+     ],
+     "answer": [
+      16
+     ],
+     "distractors": [
+      14,
+      14,
+      16,
+      12
+     ]
+    },
+    "deck": "05A Mycology Case Studies"
    },
    "figures": [
     {
@@ -272,18 +543,60 @@
    "answer": 3,
    "evidence": [],
    "explain": {
-    "html": "<p>Septate hyphae branching at acute angles that invade vessels in a profoundly neutropenic patient are invasive aspergillosis; prolonged, profound neutropenia is the classic setting.</p><p>Round cells with a wide clear zone on a negative stain in cerebrospinal fluid are encapsulated Cryptococcus, which disseminates to the central nervous system when cell-mediated immunity fails, as in lymphoma treated with chemotherapy or in advanced human immunodeficiency virus infection.</p>",
-    "table": null,
+    "html": "<p>The host's immune defect predicts which fungal form turns up, and these two cases show the contrast. <i>Aspergillus</i> forms <b>narrow septate hyphae with acute-angle branching</b> and invades blood vessels. Its classic setting is <b>prolonged, profound neutropenia</b>, as after induction chemotherapy or bone marrow transplant, with hemoptysis from infarcted lung. <i>Cryptococcus</i> is a round yeast whose capsule leaves a <b>wide clear zone on a negative stain</b>. It disseminates to the central nervous system when <b>cell-mediated immunity</b> fails, as in lymphoma treated with chemotherapy.</p><p>Patient 1, neutropenic with hemoptysis and vessel-invading septate hyphae, has invasive aspergillosis. Patient 2, with lymphoma, headache, seizures and haloed yeast in the CSF, has cryptococcal meningitis.</p>",
+    "table": "<table><tr><th>Host defect</th><th>Organism</th><th>Morphology</th><th>Presentation</th></tr><tr><td>Prolonged profound neutropenia</td><td>Aspergillus</td><td>Septate hyphae, acute-angle branching, vessel invasion</td><td>Hemoptysis, lung infarction</td></tr><tr><td>Impaired cell-mediated immunity</td><td>Cryptococcus</td><td>Encapsulated yeast, halo on India ink</td><td>Headache, seizures, meningitis</td></tr></table>",
     "why": [
-     "Arthrospores from desert soil are the route for Coccidioides.",
+     "Inhaled desert arthrospores are the route for Coccidioides, which forms spherules, not these forms.",
      "Both organisms cause invasive disease mainly in impaired hosts.",
      "This reverses the two host defects.",
      "",
-     "Neither infection began at a skin wound; both followed inhalation."
+     "Neither infection started at a skin wound; both began with inhalation."
     ],
     "takeaway": "Invasive aspergillosis follows prolonged neutropenia, while disseminated cryptococcosis follows impaired cell-mediated immunity.",
     "topic": "Host defect predicts the fungal morphology found",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "Recognize the gross and microscopic morphology associated with various fungal organisms and correlate this morphology with the clinical presentation of each disease",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Inhaled desert arthrospores are the route for Coccidioides, which forms spherules, not these forms.",
+      "if_right": "spherules with endospores after travel through the Sonoran Desert"
+     },
+     {
+      "choice": 1,
+      "why": "Both organisms cause invasive disease mainly in impaired hosts.",
+      "if_right": "a previously healthy patient with a mild, self-limited infection"
+     },
+     {
+      "choice": 2,
+      "why": "This reverses the two host defects.",
+      "if_right": "Patient 1 with encapsulated yeast and Patient 2 with septate hyphae"
+     },
+     {
+      "choice": 4,
+      "why": "Neither infection started at a skin wound; both began with inhalation.",
+      "if_right": "a landscaper whose infection began at a foot lesion"
+     }
+    ],
+    "slides": {
+     "stem": [
+      11,
+      12,
+      7,
+      8
+     ],
+     "answer": [
+      12,
+      8
+     ],
+     "distractors": [
+      14,
+      12,
+      8,
+      17
+     ]
+    },
+    "deck": "05A Mycology Case Studies"
    },
    "figures": []
   }

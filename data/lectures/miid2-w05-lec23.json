@@ -333,7 +333,7 @@
    "id": "miid2-w05-lec23-q10",
    "source": "practice",
    "source_ref": "Written from the 2025-26 Lecture 23 slides",
-   "stem": "A 6-year-old boy in a refugee camp has 4 days of fever, cramping abdominal pain, painful straining at stool, and frequent small-volume bloody, mucoid stools. He now has pallor and decreased urine output. Laboratory results are shown.\n\nHemoglobin: 7.9 g/dL (11.5 to 15.5)\nPlatelets: 48,000/microL (150,000 to 400,000)\nCreatinine: 2.6 mg/dL (0.3 to 0.7)\n\nStool culture grows a non-motile, non-lactose-fermenting, oxidase-negative Gram-negative rod that does not produce hydrogen sulfide.\n\nWhich organism is the most likely cause?",
+   "stem": "A 6-year-old boy in a refugee camp has 4 days of fever, cramping abdominal pain, painful straining at stool, and frequent small-volume bloody, mucoid stools. He now has pallor and decreased urine output. Laboratory results are shown.\n\n[[labs 0]]\n\nStool culture grows a non-motile, non-lactose-fermenting, oxidase-negative Gram-negative rod that does not produce hydrogen sulfide.\n\nWhich organism is the most likely cause?",
    "choices": [
     "Campylobacter jejuni",
     "Vibrio cholerae",
@@ -363,6 +363,22 @@
      "slide": 46,
      "caption": "Lecture 23 slides (2025-26) · Page 46"
     }
+   ],
+   "labs": [
+    [
+     [
+      "Hemoglobin",
+      "7.9 g/dL (11.5 to 15.5)"
+     ],
+     [
+      "Platelets",
+      "48,000/microL (150,000 to 400,000)"
+     ],
+     [
+      "Creatinine",
+      "2.6 mg/dL (0.3 to 0.7)"
+     ]
+    ]
    ]
   },
   {

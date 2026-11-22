@@ -20,18 +20,57 @@
    "answer": 1,
    "evidence": [],
    "explain": {
-    "html": "<p>Mycobacteria are technically Gram-positive rods, but they stain poorly on Gram stain because their thick, hydrophobic, waxy wall is full of mycolic acids. The same wall is the basis for the acid-fast stain: once carbol fuchsin is driven in (Ziehl-Neelsen with heat, or Kinyoun), the waxy wall holds it even through acid alcohol, so acid-fast bacilli look fuchsia (the classic red snappers) on a blue background.</p><p>The lecture notes that the mycolic acid wall also makes mycobacteria resistant to drying, and that a fluorochrome (auramine-rhodamine) stain, which binds mycolic acids, is about 10 times more sensitive than the carbol fuchsin stain.</p>",
-    "table": null,
+    "html": "<p>Mycobacteria are aerobic, non-motile bacteria that are <b>technically Gram-positive rods but stain poorly on Gram stain</b>. The reason is their <b>thick, hydrophobic, waxy cell wall full of mycolic acids</b>, which keeps ordinary dyes from getting in. The same wall is the basis for the <b>acid-fast stain</b>: carbol fuchsin is driven in (with heat in Ziehl-Neelsen, or by the Kinyoun method), and the waxy wall then <b>holds the dye even through acid alcohol</b>, so the bacilli look fuchsia on a blue background, the \"red snappers.\" A fluorochrome (auramine-rhodamine) stain binds mycolic acids directly and is about 10 times more sensitive. The wall also makes mycobacteria resistant to drying.</p><p>This man's Gram stain showed faint beaded forms that would not commit to either color, and the carbol fuchsin smear showed thin beaded rods holding the fuchsia dye. One property, the mycolic acid wall, explains both results.</p>",
+    "table": "<table><tr><th>Stain</th><th>How it works</th><th>Appearance</th><th>Sensitivity</th></tr><tr><td>Ziehl-Neelsen or Kinyoun (carbol fuchsin)</td><td>Waxy wall retains carbol fuchsin after acid alcohol</td><td>Fuchsia rods on blue</td><td>About 10<sup>4</sup> organisms/mL</td></tr><tr><td>Fluorochrome (auramine-rhodamine)</td><td>Dye binds mycolic acids</td><td>Yellow-green on dark</td><td>About 10 times more sensitive</td></tr><tr><td>Gram stain</td><td>Dyes poorly penetrate the waxy wall</td><td>Faint, beaded, poorly staining</td><td>Not useful for mycobacteria</td></tr></table>",
     "why": [
-     "A thick peptidoglycan layer explains ordinary Gram positivity, not acid fastness.",
+     "A thick peptidoglycan layer explains ordinary Gram positivity, but these organisms stained poorly and their acid fastness comes from mycolic acids.",
      "",
-     "Lipopolysaccharide belongs to Gram-negative organisms and does not explain acid fastness.",
-     "Mycobacteria are identified by their wall, not a capsule.",
-     "Organisms without a cell wall do not retain carbol fuchsin."
+     "A lipopolysaccharide outer membrane makes an organism Gram negative and has nothing to do with retaining carbol fuchsin.",
+     "Mycobacteria are defined by their waxy wall, not a capsule, and a capsule would not make them hold carbol fuchsin.",
+     "Mycobacteria have a very thick wall, and an organism without a wall could not retain carbol fuchsin."
     ],
-    "takeaway": "The mycolic acid-rich waxy wall makes mycobacteria stain poorly on Gram stain and retain carbol fuchsin after acid alcohol (acid fast).",
+    "takeaway": "Mycolic acids make the mycobacterial wall waxy, so the organisms stain poorly on Gram stain but retain carbol fuchsin through acid alcohol (acid fast).",
     "topic": "Mycobacterial cell wall and acid-fast staining",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "Understand Diagnostics for Mycobacterial Disease: AFB Stains",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "A thick peptidoglycan layer explains ordinary Gram positivity, but these organisms stained poorly and their acid fastness comes from mycolic acids.",
+      "if_right": "an organism that stains strongly purple on Gram stain and is not acid fast"
+     },
+     {
+      "choice": 2,
+      "why": "A lipopolysaccharide outer membrane makes an organism Gram negative and has nothing to do with retaining carbol fuchsin.",
+      "if_right": "an organism that stains pink on Gram stain and loses carbol fuchsin with acid alcohol"
+     },
+     {
+      "choice": 3,
+      "why": "Mycobacteria are defined by their waxy wall, not a capsule, and a capsule would not make them hold carbol fuchsin.",
+      "if_right": "an encapsulated yeast showing a clear halo on India ink of spinal fluid"
+     },
+     {
+      "choice": 4,
+      "why": "Mycobacteria have a very thick wall, and an organism without a wall could not retain carbol fuchsin.",
+      "if_right": "Mycoplasma, the smallest self-replicating organism, which has no cell wall"
+     }
+    ],
+    "slides": {
+     "stem": [
+      9
+     ],
+     "answer": [
+      5,
+      9
+     ],
+     "distractors": [
+      5,
+      5,
+      5,
+      5
+     ]
+    },
+    "deck": "06A Mycobacterial Diagnostics and Therapeutics"
    },
    "figures": [
     {
@@ -56,18 +95,57 @@
    "answer": 3,
    "evidence": [],
    "explain": {
-    "html": "<p>A positive acid-fast smear shows mycobacteria but cannot tell <i>M. tuberculosis</i> from nontuberculous mycobacteria (NTM). The NAAT is specific for <i>M. tuberculosis</i> and has a good negative predictive value in respiratory samples with enough organisms to be smear positive.</p><p>The lecture's rule: if the NAAT is negative while the smear is positive, the presumptive diagnosis is NTM. Her bronchiectasis and lack of TB risk fit, since NTM pulmonary disease is now more common in the US than pulmonary TB. Culture will identify the species.</p>",
+    "html": "<p>A <b>positive acid-fast smear shows mycobacteria but cannot separate <i>M. tuberculosis</i> (MTB) from nontuberculous mycobacteria (NTM)</b>, so for infection control it is presumed MTB until shown otherwise. The <b>nucleic acid amplification test (NAAT)</b>, such as Xpert MTB/RIF, is <b>specific for MTB</b>, with a very high positive predictive value and a good negative predictive value in respiratory samples. Read together, the two tests sort the patient: smear and NAAT both positive means MTB, NAAT positive with a negative smear still means MTB, and <b>NAAT negative with a positive smear means presumptive NTM</b>. Culture then names the species.</p><p>This woman has bronchiectasis, no TB exposure and was born in the US, two of her smears show AFB, and two NAATs are negative. In the US the <b>incidence of NTM pulmonary disease is now higher than that of pulmonary TB</b>, so this pattern points to NTM.</p>",
     "table": "<table><tr><th>Smear</th><th>NAAT</th><th>Presumptive reading</th></tr><tr><td>Positive</td><td>Positive</td><td>MTB (over 95% positive predictive value)</td></tr><tr><td>Negative</td><td>Positive</td><td>MTB</td></tr><tr><td>Positive</td><td>Negative</td><td>NTM</td></tr><tr><td>Negative</td><td>Negative</td><td>TB not excluded, but infectivity low</td></tr></table>",
     "why": [
-     "When enough organisms are present to be smear positive, the NAAT rarely misses M. tuberculosis.",
-     "Xpert detects M. tuberculosis regardless of rifampin resistance, and it was negative.",
-     "Two separate specimens were smear positive, which argues against an artifact.",
+     "With enough organisms to be smear positive, the NAAT has a good negative predictive value and rarely misses MTB, and two NAATs were negative.",
+     "Xpert detects MTB whether or not a rifampin mutation is present, and it found no MTB at all.",
+     "Two separate specimens were smear positive, which argues against a staining artifact.",
      "",
-     "Dead M. tuberculosis would still make the NAAT positive."
+     "The NAAT detects DNA from dead organisms too, so dead MTB would still make it positive."
     ],
-    "takeaway": "A positive AFB smear with a negative TB NAAT points to a nontuberculous mycobacterium; a positive NAAT, even with a negative smear, points to M. tuberculosis.",
+    "takeaway": "A positive AFB smear with a negative TB NAAT points to a nontuberculous mycobacterium, while a positive NAAT, even with a negative smear, points to M. tuberculosis.",
     "topic": "Interpreting AFB smear with NAAT",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "Understand Diagnostics for Mycobacterial Disease: Molecular testing: Nucleic Acid Amplification Tests",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "With enough organisms to be smear positive, the NAAT has a good negative predictive value and rarely misses MTB, and two NAATs were negative.",
+      "if_right": "a smear-positive patient with a positive NAAT"
+     },
+     {
+      "choice": 1,
+      "why": "Xpert detects MTB whether or not a rifampin mutation is present, and it found no MTB at all.",
+      "if_right": "a positive Xpert result that also reports a rifampin resistance mutation"
+     },
+     {
+      "choice": 2,
+      "why": "Two separate specimens were smear positive, which argues against a staining artifact.",
+      "if_right": "a single faintly positive smear that does not repeat on later specimens"
+     },
+     {
+      "choice": 4,
+      "why": "The NAAT detects DNA from dead organisms too, so dead MTB would still make it positive.",
+      "if_right": "a positive NAAT that stays positive after treatment kills the organisms"
+     }
+    ],
+    "slides": {
+     "stem": [
+      12,
+      6
+     ],
+     "answer": [
+      14
+     ],
+     "distractors": [
+      13,
+      13,
+      12,
+      14
+     ]
+    },
+    "deck": "06A Mycobacterial Diagnostics and Therapeutics"
    },
    "figures": []
   },
@@ -86,18 +164,56 @@
    "answer": 1,
    "evidence": [],
    "explain": {
-    "html": "<p>A hand nodule after a scrape while cleaning a fish tank, with lymphatic spread up the arm, is the lecture's classic association for <i>Mycobacterium marinum</i>, a slower-growing nontuberculous mycobacterium (NTM).</p><p>NTM are ubiquitous in water and soil, form biofilms at water and surface interfaces, and have no human or animal reservoir, so there is no person-to-person transmission. This contrasts with the <i>M. tuberculosis</i> complex, which has human reservoirs and spreads through the air, which is why TB is a public health concern and NTM disease is not.</p>",
-    "table": null,
+    "html": "<p>Mycobacteria fall into three groups. The <b>MTB complex</b> (MTB, <i>M. bovis</i>, <i>M. africanum</i>) causes tuberculosis, has human reservoirs and spreads through the air, which makes it a public health concern. <b>Nontuberculous mycobacteria (NTM)</b> are <b>ubiquitous in water and soil</b>, form <b>biofilms</b> at water and surface interfaces, and have <b>no human or animal reservoir, so there is no person-to-person transmission</b>. The third group, the non-cultivatable mycobacteria, includes <i>M. leprae</i>. Among the slower-growing NTM, <b><i>M. marinum</i> is linked to fish tanks and aquariums</b>.</p><p>This man scraped his hand cleaning an aquarium and now has a granulomatous nodule with new nodules tracking up the forearm, and a mycobacterium grew slowly at a lower temperature. That is <i>M. marinum</i>, an environmental NTM, so his wife is not at risk from him.</p>",
+    "table": "<table><tr><th>Group</th><th>Examples</th><th>Reservoir and spread</th><th>Growth</th></tr><tr><td>MTB complex</td><td>MTB, <i>M. bovis</i> (BCG), <i>M. africanum</i></td><td>Human; airborne person to person</td><td>Slow (2 to 8 weeks)</td></tr><tr><td>NTM</td><td>MAC, <i>M. kansasii</i>, <i>M. marinum</i>, rapid growers</td><td>Water and soil; no person-to-person spread</td><td>Rapid (under 7 days) to slow</td></tr><tr><td>Non-cultivatable</td><td><i>M. leprae</i></td><td>Causes leprosy</td><td>Cannot be cultured</td></tr></table>",
     "why": [
-     "The TB complex has human reservoirs and airborne spread; this is an environmental NTM.",
+     "The TB complex spreads by the airborne route from human cases, while this is an environmental NTM from an aquarium.",
      "",
-     "It took 2 weeks to grow, which fits a slower grower, not a rapid grower.",
-     "NTM have no human reservoir.",
-     "It grew in culture; the non-cultivatable mycobacterium in the lecture is M. leprae."
+     "It needed 2 weeks to grow, which fits a slower grower, not a rapid grower under 7 days.",
+     "NTM have no human reservoir and do not pass between household members.",
+     "It grew in culture; the non-cultivatable mycobacterium is M. leprae."
     ],
-    "takeaway": "Nontuberculous mycobacteria live in water and soil and do not spread person to person; M. marinum is linked to fish tanks.",
+    "takeaway": "Nontuberculous mycobacteria live in water and soil with no human reservoir, so they do not spread person to person; M. marinum is linked to fish tanks.",
     "topic": "NTM: habitat and species associations",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "Introduction to Non-Tuberculous Mycobacteria: NTM",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "The TB complex spreads by the airborne route from human cases, while this is an environmental NTM from an aquarium.",
+      "if_right": "a cavitary lung infection in a contact of a coughing TB patient"
+     },
+     {
+      "choice": 2,
+      "why": "It needed 2 weeks to grow, which fits a slower grower, not a rapid grower under 7 days.",
+      "if_right": "an organism growing on routine bacterial media within 5 days"
+     },
+     {
+      "choice": 3,
+      "why": "NTM have no human reservoir and do not pass between household members.",
+      "if_right": "an infection from the MTB complex in a household contact"
+     },
+     {
+      "choice": 4,
+      "why": "It grew in culture; the non-cultivatable mycobacterium is M. leprae.",
+      "if_right": "a skin infection by M. leprae, which cannot be grown"
+     }
+    ],
+    "slides": {
+     "stem": [
+      20
+     ],
+     "answer": [
+      18
+     ],
+     "distractors": [
+      17,
+      16,
+      18,
+      17
+     ]
+    },
+    "deck": "06A Mycobacterial Diagnostics and Therapeutics"
    },
    "figures": [
     {
@@ -122,18 +238,57 @@
    "answer": 4,
    "evidence": [],
    "explain": {
-    "html": "<p>Rapid-growing NTM (for example <i>M. abscessus</i>, <i>M. chelonae</i> and <i>M. fortuitum</i>) grow in under 7 days on solid media and can even grow on routine bacterial media, where they look like filamentous Gram-positive rods. On acid-fast stains they look atypical: longer and more filamentous than the small beaded rods of <i>M. tuberculosis</i>.</p><p>They live in water, and the lecture lists clusters of surgical wound infections as one of their disease associations. Tap water rinsing of instruments is the shared source here.</p>",
-    "table": null,
+    "html": "<p>Mycobacteria are traditionally sorted by growth rate on solid media: <b>rapid growers in under 7 days</b>, intermediate growers in 1 to 2 weeks, and slow growers in 2 to 8 weeks, a group that includes MTB and MAC. <b>Rapid-growing NTM</b>, such as <i>M. abscessus</i>, <i>M. chelonae</i> and <i>M. fortuitum</i>, look <b>atypical on AFB stain: longer and filamentous</b>, unlike the small beaded rods of MTB. They <b>may grow on routine bacterial media</b>, where they appear as <b>filamentous Gram-positive rods</b> and are easily mistaken for contaminants. Their disease associations include pulmonary, focal and disseminated infection and <b>clusters of surgical wound infections</b>.</p><p>Six cosmetic surgery patients have draining wounds, routine cultures grew filamentous Gram-positive rods in 5 days, and the AFB stain shows long filamentous acid-fast rods. With instruments rinsed in tap water, a water-dwelling rapid grower is the culprit.</p>",
+    "table": "<table><tr><th>Growth group</th><th>Time on solid media</th><th>Examples</th></tr><tr><td>Rapid growers</td><td>Under 7 days</td><td><i>M. abscessus</i>, <i>M. chelonae</i>, <i>M. fortuitum</i></td></tr><tr><td>Intermediate growers</td><td>1 to 2 weeks</td><td></td></tr><tr><td>Slow growers</td><td>2 to 8 weeks</td><td>MTB, MAC, <i>M. kansasii</i>, <i>M. marinum</i></td></tr><tr><td>Non-cultivatable</td><td>No growth</td><td><i>M. leprae</i></td></tr></table>",
     "why": [
-     "MAC is a slow grower, mainly a lung or disseminated pathogen, and would not grow in 5 days.",
-     "M. tuberculosis is a slow grower that takes weeks and does not cause instrument-linked wound clusters.",
-     "M. leprae cannot be cultured at all.",
-     "M. kansasii is a slow grower.",
+     "MAC is a slow grower and mainly a lung or disseminated pathogen, so it would not grow in 5 days.",
+     "MTB is a slow grower that takes weeks and is not linked to instrument-borne wound clusters.",
+     "M. leprae cannot be cultured at all, and these grew in 5 days.",
+     "M. kansasii is a pigmented slow grower that would take weeks.",
      ""
     ],
-    "takeaway": "Rapid-growing NTM grow in under 7 days, can appear on routine bacterial media as filamentous Gram-positive rods, and cause clusters of surgical wound infections.",
+    "takeaway": "Rapid-growing NTM grow in under 7 days, can appear on routine media as filamentous Gram-positive rods, look long and filamentous on AFB stain, and cause surgical wound clusters.",
     "topic": "Rapid-growing NTM",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "Introduction to Non-Tuberculous Mycobacteria: NTM",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "MAC is a slow grower and mainly a lung or disseminated pathogen, so it would not grow in 5 days.",
+      "if_right": "an advanced HIV patient with disseminated mycobacterial infection"
+     },
+     {
+      "choice": 1,
+      "why": "MTB is a slow grower that takes weeks and is not linked to instrument-borne wound clusters.",
+      "if_right": "a cluster of cavitary lung disease among household contacts"
+     },
+     {
+      "choice": 2,
+      "why": "M. leprae cannot be cultured at all, and these grew in 5 days.",
+      "if_right": "skin lesions with organisms that never grow in culture"
+     },
+     {
+      "choice": 3,
+      "why": "M. kansasii is a pigmented slow grower that would take weeks.",
+      "if_right": "pigmented colonies growing after several weeks from a lung specimen"
+     }
+    ],
+    "slides": {
+     "stem": [
+      19,
+      11
+     ],
+     "answer": [
+      19
+     ],
+     "distractors": [
+      20,
+      17,
+      17,
+      20
+     ]
+    },
+    "deck": "06A Mycobacterial Diagnostics and Therapeutics"
    },
    "figures": [
     {
@@ -158,18 +313,57 @@
    "answer": 0,
    "evidence": [],
    "explain": {
-    "html": "<p>A single-drug latent regimen that inhibits mycolic acid synthesis is isoniazid (INH). Its two main toxicities are hepatitis (mild chemical hepatitis is common, clinical hepatitis is rare, and risk rises with age, alcohol and chronic liver disease) and a dose-related peripheral neuropathy.</p><p>The neuropathy is prevented by giving vitamin B6 (pyridoxine) with INH, which the lecture writes as INH plus B6. Malnourished patients and heavy drinkers are among those most at risk, so this patient should have received it from the start.</p>",
-    "table": null,
+    "html": "<p><b>Isoniazid (INH)</b> <b>inhibits mycolic acid synthesis</b> and is active against replicating organisms in all tissues; it is metabolized in the liver with few drug interactions. Its two main toxicities are <b>hepatitis</b> and <b>peripheral neuropathy</b>. Mild chemical hepatitis is common (10 to 20%), clinical hepatitis is rare, and risk rises with age, alcohol and chronic hepatitis. The neuropathy is uncommon and <b>dose related</b>, and <b>vitamin B6 (pyridoxine) helps prevent it</b>, which is why the drug is paired as INH plus B6. On latent TB treatment, monitoring covers both hepatotoxicity and neurotoxicity.</p><p>This man with alcohol use disorder and poor nutrition took single-drug INH for latent infection without a supplement and now has ascending burning in his feet, with mildly elevated liver enzymes. Pyridoxine with each dose would most likely have prevented the neuropathy.</p>",
+    "table": "<table><tr><th>Drug</th><th>Mechanism</th><th>Key adverse effects</th><th>Resistance gene</th></tr><tr><td>Isoniazid</td><td>Inhibits mycolic acid synthesis</td><td>Hepatitis, peripheral neuropathy (prevent with B6)</td><td><i>katG</i>, <i>inhA</i></td></tr><tr><td>Rifampin (rifamycins)</td><td>RNA polymerase</td><td>Orange fluids, rash, flu-like illness; induces P450 and P-glycoprotein</td><td><i>rpoB</i></td></tr><tr><td>Pyrazinamide</td><td>Semi-dormant organisms at acid pH</td><td>Hepatotoxicity, high uric acid and gout, arthralgia</td><td><i>pnc</i></td></tr><tr><td>Ethambutol</td><td>Cell wall (arabinogalactan) synthesis</td><td>Dose-dependent optic neuritis; renal dose adjustment</td><td><i>embB</i></td></tr></table>",
     "why": [
      "",
-     "Folic acid does not protect against INH neurotoxicity.",
-     "Visual monitoring is for ethambutol optic neuritis.",
-     "Food does not prevent neuropathy.",
-     "Uric acid monitoring is for pyrazinamide, not INH."
+     "Folic acid is not what protects against INH neuropathy; vitamin B6 is.",
+     "Visual acuity and color vision testing is for ethambutol optic neuritis.",
+     "Taking the drug with food does not prevent neuropathy.",
+     "Uric acid monitoring belongs to pyrazinamide, which causes hyperuricemia and gout."
     ],
-    "takeaway": "Isoniazid inhibits mycolic acid synthesis and causes hepatitis and a peripheral neuropathy that vitamin B6 prevents.",
+    "takeaway": "Isoniazid inhibits mycolic acid synthesis and causes hepatitis and a dose-related peripheral neuropathy that vitamin B6 prevents.",
     "topic": "Isoniazid: mechanism and toxicity",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "Pharmacology of Anti-Tuberculous Medications",
+    "rows": [
+     {
+      "choice": 1,
+      "why": "Folic acid is not what protects against INH neuropathy; vitamin B6 is.",
+      "if_right": "a patient on pyrimethamine who needs protection from neutropenia"
+     },
+     {
+      "choice": 2,
+      "why": "Visual acuity and color vision testing is for ethambutol optic neuritis.",
+      "if_right": "a patient on ethambutol, especially with kidney disease"
+     },
+     {
+      "choice": 3,
+      "why": "Taking the drug with food does not prevent neuropathy.",
+      "if_right": "rilpivirine, an HIV drug that must be taken with a meal for absorption"
+     },
+     {
+      "choice": 4,
+      "why": "Uric acid monitoring belongs to pyrazinamide, which causes hyperuricemia and gout.",
+      "if_right": "a patient on four-drug therapy who develops gout"
+     }
+    ],
+    "slides": {
+     "stem": [
+      30,
+      38
+     ],
+     "answer": [
+      30
+     ],
+     "distractors": [
+      30,
+      33,
+      30,
+      32
+     ]
+    },
+    "deck": "06A Mycobacterial Diagnostics and Therapeutics"
    },
    "figures": [
     {
@@ -194,18 +388,56 @@
    "answer": 3,
    "evidence": [],
    "explain": {
-    "html": "<p>Gout with a high uric acid in a patient on standard four-drug therapy points to pyrazinamide (PZA), which raises uric acid and causes gout and arthralgias. PZA is active against semi-dormant organisms inside cells at acid pH, and adding it gives faster sterilization.</p><p>When rifampin and PZA are both given during the 2-month initial phase, the total course can be 6 months. Without PZA in those 2 months, the minimum duration rises to 9 months.</p>",
-    "table": null,
+    "html": "<p>The standard regimen for drug-susceptible TB is <b>RIPE</b>: rifampin, isoniazid, pyrazinamide and ethambutol for a 2-month initial phase, then isoniazid and rifampin in the continuation phase. Each drug has a role. INH and rifampin are the best drugs, <b>ethambutol is the hedge against INH resistance</b>, and <b>pyrazinamide (PZA)</b>, which acts on <b>semi-dormant organisms inside cells at acid pH</b>, gives more rapid sterilization. <b>If rifampin plus PZA are given in the first 2 months, the total course can be 6 months</b>; without them, the <b>minimum duration is 9 months</b>.</p><p>This man developed acute gout of the first MTP joint with needle-shaped crystals and a uric acid of 10.4 three weeks into therapy, and PZA is the drug that <b>raises uric acid</b> and causes gout. Stopping it would take away the drug that makes a 6-month course possible.</p>",
+    "table": "<table><tr><th>Drug in RIPE</th><th>Why it is there</th></tr><tr><td>Rifampin</td><td>Most important drug; cidal for replicating and semi-dormant organisms</td></tr><tr><td>Isoniazid</td><td>Cidal against replicating organisms in all tissues</td></tr><tr><td>Pyrazinamide</td><td>Faster sterilization; with rifampin in months 1 to 2, allows a 6-month course</td></tr><tr><td>Ethambutol</td><td>Hedge in case of isoniazid resistance</td></tr></table>",
     "why": [
-     "CNS penetration is not the reason PZA is valued in the regimen; ethambutol is the drug with poor CNS penetration.",
-     "Mycolic acid synthesis is blocked by isoniazid.",
-     "Ethambutol is the hedge against isoniazid resistance.",
+     "CNS activity is not what PZA contributes, and ethambutol is the drug noted for poor CNS penetration.",
+     "Mycolic acid synthesis is blocked by isoniazid, which is not the drug causing gout.",
+     "Ethambutol, not PZA, is the hedge against isoniazid resistance.",
      "",
-     "Isoniazid and rifampin are also bactericidal."
+     "Isoniazid and rifampin are also bactericidal, so PZA is not the only one."
     ],
-    "takeaway": "Pyrazinamide raises uric acid and can cause gout; given with rifampin in the first 2 months it shortens TB treatment to 6 months.",
+    "takeaway": "Pyrazinamide raises uric acid and can cause gout, and when given with rifampin in the first 2 months it allows a 6-month course instead of at least 9 months.",
     "topic": "Pyrazinamide: role and adverse effect",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "Treatment of TB Disease: Treatment Regimens",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "CNS activity is not what PZA contributes, and ethambutol is the drug noted for poor CNS penetration.",
+      "if_right": "stopping a drug whose value lies in reaching protected sites like the brain"
+     },
+     {
+      "choice": 1,
+      "why": "Mycolic acid synthesis is blocked by isoniazid, which is not the drug causing gout.",
+      "if_right": "a patient who must stop isoniazid because of hepatitis"
+     },
+     {
+      "choice": 2,
+      "why": "Ethambutol, not PZA, is the hedge against isoniazid resistance.",
+      "if_right": "a patient who must stop ethambutol because of optic neuritis"
+     },
+     {
+      "choice": 4,
+      "why": "Isoniazid and rifampin are also bactericidal, so PZA is not the only one.",
+      "if_right": "a regimen in which every other drug is bacteriostatic"
+     }
+    ],
+    "slides": {
+     "stem": [
+      32
+     ],
+     "answer": [
+      41
+     ],
+     "distractors": [
+      33,
+      30,
+      41,
+      31
+     ]
+    },
+    "deck": "06A Mycobacterial Diagnostics and Therapeutics"
    },
    "figures": []
   },
@@ -224,18 +456,56 @@
    "answer": 2,
    "evidence": [],
    "explain": {
-    "html": "<p>Loss of visual acuity and color discrimination on TB therapy is retrobulbar (optic) neuritis from ethambutol, a dose-dependent toxicity. That is why patients on ethambutol have their visual acuity and color vision monitored.</p><p>Ethambutol is cleared by the kidneys and needs dose adjustment in renal insufficiency. Without adjustment, her levels rose and so did the risk of this dose-related effect. Ethambutol inhibits cell wall synthesis and is usually bacteriostatic.</p>",
+    "html": "<p><b>Ethambutol</b> inhibits cell wall synthesis, is active against replicating organisms, and is <b>usually bacteriostatic</b>, cidal only at high doses, with poor CNS penetration. Its key toxicity is <b>retrobulbar (optic) neuritis</b>, which is <b>dose dependent</b>, so patients have their <b>visual acuity and red/green color discrimination monitored</b>. Unlike isoniazid, rifampin and pyrazinamide, which depend on the liver for metabolism, ethambutol <b>needs renal dosage adjustment</b>.</p><p>This woman with chronic kidney disease has been on four-drug therapy for 7 weeks with doses never adjusted for her kidneys, and she now has blurred vision, washed-out colors and acuity down to 20/60 with a normal fundus. Ethambutol accumulated because her kidneys could not clear it, and the dose-dependent optic neuritis followed.</p>",
     "table": null,
     "why": [
-     "Isoniazid causes peripheral neuropathy and hepatitis, not optic neuritis.",
-     "Rifampin causes drug interactions, orange fluids, rash and flu-like illness.",
+     "Isoniazid causes peripheral neuropathy and hepatitis, not optic neuritis, and its metabolism is hepatic.",
+     "Rifampin causes orange fluids, rash, a flu-like illness and drug interactions, not loss of color vision.",
      "",
-     "Pyrazinamide causes hyperuricemia and gout, not vision loss.",
-     "Rifabutin does not cause this optic picture."
+     "Pyrazinamide raises uric acid and causes gout, not vision loss.",
+     "Rifabutin is not linked to this visual picture."
     ],
-    "takeaway": "Ethambutol causes dose-dependent optic neuritis (acuity and color vision loss) and is renally cleared, so its dose is adjusted in kidney disease.",
+    "takeaway": "Ethambutol causes dose-dependent optic neuritis with loss of acuity and color vision and is renally cleared, so its dose must be adjusted in kidney disease.",
     "topic": "Ethambutol: optic toxicity",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "Pharmacology of Anti-Tuberculous Medications",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Isoniazid causes peripheral neuropathy and hepatitis, not optic neuritis, and its metabolism is hepatic.",
+      "if_right": "a patient on isoniazid with burning feet and no B6"
+     },
+     {
+      "choice": 1,
+      "why": "Rifampin causes orange fluids, rash, a flu-like illness and drug interactions, not loss of color vision.",
+      "if_right": "a transplant patient whose immunosuppressant level drops on TB therapy"
+     },
+     {
+      "choice": 3,
+      "why": "Pyrazinamide raises uric acid and causes gout, not vision loss.",
+      "if_right": "a patient on four-drug therapy with acute gout"
+     },
+     {
+      "choice": 4,
+      "why": "Rifabutin is not linked to this visual picture.",
+      "if_right": "a patient on rifampin who needs a substitute with fewer drug interactions"
+     }
+    ],
+    "slides": {
+     "stem": [
+      33
+     ],
+     "answer": [
+      33
+     ],
+     "distractors": [
+      30,
+      31,
+      32,
+      31
+     ]
+    },
+    "deck": "06A Mycobacterial Diagnostics and Therapeutics"
    },
    "figures": []
   },
@@ -254,18 +524,56 @@
    "answer": 4,
    "evidence": [],
    "explain": {
-    "html": "<p>Standard therapy is a 2-month initial phase of four drugs followed by a 4-month continuation phase of isoniazid and rifampin, for 6 months in all. The goal of the continuation phase is durable cure, meaning no relapse after therapy stops.</p><p>Some patients have a higher risk of relapse after the shorter course, and the lecture names cavitary disease plus a sputum culture still positive at 2 months as a main reason to give a longer continuation phase. His isolate is susceptible and he took his drugs under observation, so the plan is to extend isoniazid and rifampin, not to change drugs.</p>",
+    "html": "<p>Treatment of drug-susceptible TB disease has two phases. The <b>initial phase</b> is 2 months of four drugs including rifampin and pyrazinamide, and the <b>continuation phase</b> is <b>isoniazid and rifampin for 4 to 7 months</b>. The aims are to rapidly cut the number of growing bacilli and to <b>eradicate persisting bacilli for a durable cure</b>, meaning no relapse. Patients at <b>higher risk of relapse after the shorter course get a longer continuation phase</b>, and the main reasons are <b>cavitary disease plus a sputum culture still positive at 2 months</b>, missing PZA plus rifampin in the initial phase, some extrapulmonary disease, and sometimes drug resistance.</p><p>This man has a large cavity and a positive 2-month culture, yet his isolate is fully susceptible and he took every dose under directly observed therapy. The plan is to continue isoniazid and rifampin for a longer continuation phase, not to stop, restart or change drugs.</p>",
     "table": null,
     "why": [
-     "The continuation phase is still needed to eradicate persisting organisms.",
-     "Single-drug therapy is never used for TB disease.",
-     "Repeating the initial phase is not the response; the continuation phase is extended.",
+     "The continuation phase is what eradicates persisting bacilli, so stopping after 2 months invites relapse.",
+     "TB disease is never treated with a single drug.",
+     "Repeating the initial phase is not the response; the continuation phase is lengthened.",
      "His isolate is fully susceptible, so there is no resistance to act on.",
      ""
     ],
-    "takeaway": "TB disease is treated with a 2-month initial phase of RIPE then isoniazid and rifampin; cavitary disease with a positive 2-month culture earns a longer continuation phase.",
+    "takeaway": "Drug-susceptible TB is treated with a 2-month RIPE initial phase then isoniazid and rifampin, and cavitary disease with a positive 2-month culture calls for a longer continuation phase.",
     "topic": "Treatment phases and longer continuation",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "Treatment of TB Disease: Treatment Regimens",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "The continuation phase is what eradicates persisting bacilli, so stopping after 2 months invites relapse.",
+      "if_right": "none; even uncomplicated disease needs at least 4 more months of isoniazid and rifampin"
+     },
+     {
+      "choice": 1,
+      "why": "TB disease is never treated with a single drug.",
+      "if_right": "a patient with latent infection, where single-drug therapy is acceptable"
+     },
+     {
+      "choice": 2,
+      "why": "Repeating the initial phase is not the response; the continuation phase is lengthened.",
+      "if_right": "a patient whose initial phase was interrupted and never completed"
+     },
+     {
+      "choice": 3,
+      "why": "His isolate is fully susceptible, so there is no resistance to act on.",
+      "if_right": "an isolate showing resistance to isoniazid and rifampin"
+     }
+    ],
+    "slides": {
+     "stem": [
+      41
+     ],
+     "answer": [
+      42
+     ],
+     "distractors": [
+      39,
+      26,
+      41,
+      43
+     ]
+    },
+    "deck": "06A Mycobacterial Diagnostics and Therapeutics"
    },
    "figures": []
   },
@@ -284,18 +592,57 @@
    "answer": 2,
    "evidence": [],
    "explain": {
-    "html": "<p>Latent TB infection is treated with a single drug or two drugs. The preferred regimens are 3 months of weekly isoniazid plus rifapentine, 4 months of daily rifampin, and 3 months of daily isoniazid plus rifampin; 6 or 9 months of isoniazid alone are alternatives.</p><p>Isoniazid hepatitis is the main safety concern on latent treatment, and its risk rises with age, alcohol, chronic liver disease and other liver toxins. Rifampin alone avoids isoniazid, is preferred, and is shorter. Drug interactions are the main concern with rifampin, and she takes no other medications.</p>",
-    "table": "<table><tr><th>LTBI regimen</th><th>Rank</th></tr><tr><td>3HP: isoniazid plus rifapentine once weekly for 3 months</td><td>Preferred</td></tr><tr><td>4R: rifampin daily for 4 months</td><td>Preferred</td></tr><tr><td>3HR: isoniazid plus rifampin daily for 3 months</td><td>Preferred</td></tr><tr><td>6H or 9H: isoniazid for 6 or 9 months</td><td>Alternative</td></tr></table>",
+    "html": "<p><b>Latent TB infection is treated with single or two-drug regimens</b>. The <b>preferred</b> regimens are <b>3HP</b> (isoniazid plus rifapentine once weekly for 3 months), <b>4R</b> (rifampin daily for 4 months) and <b>3HR</b> (isoniazid plus rifampin daily for 3 months); 6 or 9 months of isoniazid are alternatives. Monitoring follows each drug's toxicity. <b>Isoniazid hepatitis</b> rises with age (up to 2% at 50 to 64) and with <b>underlying liver disease, alcohol and other hepatotoxins</b>, while with rifampin the major concern is <b>drug interactions</b>.</p><p>This 52-year-old drinks daily and has chronic hepatitis C with abnormal enzymes, which stacks every isoniazid hepatitis risk factor, and she takes no other medications. Rifampin daily for 4 months is preferred, short and avoids isoniazid entirely, and with no other drugs its interaction problem does not apply.</p>",
+    "table": "<table><tr><th>LTBI regimen</th><th>Rank</th><th>Main concern</th></tr><tr><td>3HP: isoniazid plus rifapentine weekly, 3 months</td><td>Preferred</td><td>Less hepatotoxicity than INH alone</td></tr><tr><td>4R: rifampin daily, 4 months</td><td>Preferred</td><td>Drug interactions</td></tr><tr><td>3HR: isoniazid plus rifampin daily, 3 months</td><td>Preferred</td><td>INH hepatitis, rifampin interactions</td></tr><tr><td>6H or 9H: isoniazid, 6 or 9 months</td><td>Alternative</td><td>INH hepatitis and neuropathy</td></tr></table>",
     "why": [
-     "Nine months of isoniazid carries the most isoniazid liver exposure.",
-     "Six months of isoniazid still carries isoniazid hepatitis risk in a woman with liver disease and alcohol use.",
+     "Nine months of isoniazid is an alternative regimen with the most isoniazid liver exposure.",
+     "Six months of isoniazid still carries isoniazid hepatitis risk in a woman who drinks and has liver disease.",
      "",
-     "Four drugs are for TB disease, not latent infection.",
+     "Four drugs are for TB disease, not latent infection with a normal chest radiograph.",
      "This is not a latent treatment regimen, and pyrazinamide is itself hepatotoxic."
     ],
-    "takeaway": "Preferred LTBI regimens are 3HP, 4R and 3HR; in someone at high risk of isoniazid hepatitis, rifampin alone avoids isoniazid.",
+    "takeaway": "Preferred LTBI regimens are 3HP, 4R and 3HR, and in a patient at high risk of isoniazid hepatitis, 4 months of rifampin avoids isoniazid.",
     "topic": "Choosing an LTBI regimen",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "Treatment of LTBI: Regimens and monitoring",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Nine months of isoniazid is an alternative regimen with the most isoniazid liver exposure.",
+      "if_right": "a patient who cannot take rifamycins because of an unavoidable drug interaction"
+     },
+     {
+      "choice": 1,
+      "why": "Six months of isoniazid still carries isoniazid hepatitis risk in a woman who drinks and has liver disease.",
+      "if_right": "a young healthy patient with no liver risk who cannot take rifamycins"
+     },
+     {
+      "choice": 3,
+      "why": "Four drugs are for TB disease, not latent infection with a normal chest radiograph.",
+      "if_right": "active pulmonary TB with symptoms and an abnormal chest radiograph"
+     },
+     {
+      "choice": 4,
+      "why": "This is not a latent treatment regimen, and pyrazinamide is itself hepatotoxic.",
+      "if_right": "the 2-month initial phase of active TB, where they join isoniazid and rifampin"
+     }
+    ],
+    "slides": {
+     "stem": [
+      37,
+      38
+     ],
+     "answer": [
+      37
+     ],
+     "distractors": [
+      37,
+      37,
+      26,
+      32
+     ]
+    },
+    "deck": "06A Mycobacterial Diagnostics and Therapeutics"
    },
    "figures": [
     {
@@ -320,18 +667,57 @@
    "answer": 2,
    "evidence": [],
    "explain": {
-    "html": "<p>Bedaquiline, a diarylquinoline, inhibits mycobacterial ATP synthase, a site of action unique to antimycobacterial agents. It was the first drug developed and approved for MDR TB and is part of the 6-month bedaquiline, linezolid and pretomanid regimen.</p><p>Its toxicities in the lecture are QT prolongation, hepatotoxicity, nausea and arthralgias, so the ECG is checked before and during therapy. The other targets belong to other agents: isoniazid (mycolic acid), rifamycins (RNA polymerase), clofazimine (NADH dehydrogenase) and fluoroquinolones.</p>",
-    "table": null,
+    "html": "<p>Antimycobacterial drugs hit several targets, and <b>some sites of action are unique to mycobacterial agents</b>: <b>ATP synthase</b> (bedaquiline), NADH dehydrogenase (clofazimine), intracellular acidification (pyrazinamide), arabinogalactan (ethambutol) and mycolic acids (isoniazid). Other targets are shared with ordinary antibiotics: RNA polymerase (rifamycins), DNA gyrase (fluoroquinolones) and the ribosome (aminoglycosides, linezolid). <b>Bedaquiline</b> is a <b>diarylquinoline</b> and the <b>first drug developed and approved for MDR TB</b>, and it is part of the 6-month bedaquiline, linezolid and pretomanid regimen.</p><p>Its toxicities are <b>QT prolongation</b>, hepatotoxicity, nausea and arthralgias, which is why this woman gets a baseline ECG, repeat tracings and liver tests.</p>",
+    "table": "<table><tr><th>Target</th><th>Drug</th></tr><tr><td>ATP synthase</td><td>Bedaquiline</td></tr><tr><td>NADH dehydrogenase</td><td>Clofazimine</td></tr><tr><td>Mycolic acids</td><td>Isoniazid</td></tr><tr><td>Arabinogalactan</td><td>Ethambutol</td></tr><tr><td>RNA polymerase</td><td>Rifampin, rifabutin, rifapentine</td></tr><tr><td>DNA gyrase</td><td>Levofloxacin, moxifloxacin</td></tr></table>",
     "why": [
-     "Mycolic acid synthesis is the isoniazid target.",
-     "RNA polymerase is the rifamycin target.",
+     "Mycolic acid synthesis is the isoniazid target, and heart block is not the bedaquiline concern.",
+     "RNA polymerase is the rifamycin target, not a diarylquinoline target.",
      "",
      "NADH dehydrogenase is the clofazimine target.",
      "DNA gyrase is the fluoroquinolone target."
     ],
-    "takeaway": "Bedaquiline inhibits mycobacterial ATP synthase, is used for MDR TB, and prolongs the QT interval.",
+    "takeaway": "Bedaquiline, a diarylquinoline approved for MDR TB, inhibits mycobacterial ATP synthase and prolongs the QT interval.",
     "topic": "Second-line agents: bedaquiline",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "Pharmacology of Anti-Tuberculous Medications",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Mycolic acid synthesis is the isoniazid target, and heart block is not the bedaquiline concern.",
+      "if_right": "a patient on isoniazid, the mycolic acid synthesis inhibitor"
+     },
+     {
+      "choice": 1,
+      "why": "RNA polymerase is the rifamycin target, not a diarylquinoline target.",
+      "if_right": "a patient on rifampin, the RNA polymerase inhibitor"
+     },
+     {
+      "choice": 3,
+      "why": "NADH dehydrogenase is the clofazimine target.",
+      "if_right": "a patient on clofazimine, the NADH dehydrogenase drug in MDR TB regimens"
+     },
+     {
+      "choice": 4,
+      "why": "DNA gyrase is the fluoroquinolone target.",
+      "if_right": "a patient on moxifloxacin or levofloxacin, the gyrase inhibitors in MDR TB regimens"
+     }
+    ],
+    "slides": {
+     "stem": [
+      35
+     ],
+     "answer": [
+      35,
+      28
+     ],
+     "distractors": [
+      28,
+      28,
+      35,
+      28
+     ]
+    },
+    "deck": "06A Mycobacterial Diagnostics and Therapeutics"
    },
    "figures": [
     {
@@ -356,18 +742,57 @@
    "answer": 0,
    "evidence": [],
    "explain": {
-    "html": "<p>The NAAT detects mycobacterial DNA, whether the organisms are dead or alive. It can stay positive after organisms are no longer viable, so a positive NAAT should not be repeated and cannot track response to treatment.</p><p>Xpert MTB/RIF also detects only most rifampin resistance mutations. A result without a rifampin mutation says nothing about isoniazid or the other drugs, and molecular tests do not detect every resistance locus. That is why a positive NAAT still needs cultures: growth is required for phenotypic susceptibility testing to every drug in the regimen.</p>",
+    "html": "<p>NAATs like <b>Xpert MTB/RIF detect MTB DNA and most rifampin resistance mutations</b>, and they speed early diagnosis. They have limits that shape how they are used. The NAAT <b>detects DNA whether organisms are alive or dead</b>, so it can stay positive after the bacilli are no longer viable; a <b>positive NAAT is not repeated</b> and cannot track response to treatment. It also looks only at rifampin resistance, and <b>molecular tests do not know every resistance locus</b>, so a negative molecular result does not exclude resistance. That is why, <b>even with a positive NAAT, cultures are still needed for susceptibility data</b>.</p><p>The resident's plan fails on both counts. A repeat NAAT could be positive from dead organisms and could never prove cure, and canceling cultures would throw away the only route to phenotypic susceptibility testing for isoniazid, pyrazinamide and ethambutol. Keep the cultures.</p>",
     "table": null,
     "why": [
      "",
-     "Xpert tests rifampin resistance mutations only, not resistance to the other drugs.",
-     "A positive NAAT on therapy could reflect DNA from killed organisms, not resistance.",
+     "Xpert reports only rifampin resistance mutations and cannot exclude resistance to the other drugs.",
+     "A positive NAAT on therapy may come from dead organisms and says nothing new about resistance.",
      "The NAAT detects DNA from dead organisms too, so it cannot confirm cure.",
-     "Smears count organisms but give no susceptibility information."
+     "Smears count organisms and mark infectivity but give no susceptibility information."
     ],
-    "takeaway": "A TB NAAT detects DNA from viable or dead organisms and only most rifampin mutations, so it is not repeated to monitor therapy and cultures are still needed for susceptibility.",
+    "takeaway": "A TB NAAT detects DNA from live or dead organisms and only most rifampin mutations, so it is not repeated to monitor therapy and cultures are still required for susceptibility testing.",
     "topic": "Limits of NAAT and the need for culture",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "Understand Diagnostics for Mycobacterial Disease: Molecular testing: Nucleic Acid Amplification Tests",
+    "rows": [
+     {
+      "choice": 1,
+      "why": "Xpert reports only rifampin resistance mutations and cannot exclude resistance to the other drugs.",
+      "if_right": "an isolate whose culture-based susceptibility testing is already complete"
+     },
+     {
+      "choice": 2,
+      "why": "A positive NAAT on therapy may come from dead organisms and says nothing new about resistance.",
+      "if_right": "a new specimen sent at diagnosis to screen for rifampin resistance"
+     },
+     {
+      "choice": 3,
+      "why": "The NAAT detects DNA from dead organisms too, so it cannot confirm cure.",
+      "if_right": "a test that measures viable organisms, such as a culture"
+     },
+     {
+      "choice": 4,
+      "why": "Smears count organisms and mark infectivity but give no susceptibility information.",
+      "if_right": "a smear-positive patient whose infectiousness, not drug susceptibility, is being judged"
+     }
+    ],
+    "slides": {
+     "stem": [
+      13
+     ],
+     "answer": [
+      13,
+      14
+     ],
+     "distractors": [
+      13,
+      14,
+      14,
+      22
+     ]
+    },
+    "deck": "06A Mycobacterial Diagnostics and Therapeutics"
    },
    "figures": []
   },
@@ -386,18 +811,56 @@
    "answer": 0,
    "evidence": [],
    "explain": {
-    "html": "<p>Orange body fluids identify rifampin. Rifampin inhibits bacterial RNA polymerase (encoded by <i>rpoB</i>) and is the most important first-line drug, but it strongly induces hepatic cytochrome P450 enzymes and P-glycoprotein transport. That lowers the levels of many co-administered drugs, here her calcineurin inhibitor, which threatens her graft.</p><p>The lecture's solution is rifabutin, which has less enzyme-inducing effect and can replace rifampin, so she keeps the benefit of a rifamycin. Rifapentine is still a rifamycin inducer, and dropping the rifamycin class entirely would weaken the regimen and lengthen therapy.</p>",
+    "html": "<p>The <b>rifamycins</b> (rifampin, rifabutin, rifapentine) act on the bacterial <b>RNA polymerase (<i>rpoB</i>)</b>, are cidal for replicating and semi-dormant organisms, and rifampin is called the <b>most important first-line drug</b>. Their adverse effects include <b>orange staining of body fluids</b>, rash, a flu-like syndrome and occasional hepatotoxicity. The big practical problem is drug interactions: rifampin <b>induces cytochrome P450 and P-glycoprotein transport</b>, lowering the levels of many co-administered drugs. <b>Rifabutin has less enzyme-inducing effect and can replace rifampin</b>, keeping rifamycin activity in the regimen.</p><p>Orange tears and urine identify rifampin, and her calcineurin inhibitor level fell with a rising creatinine, a threat to her graft. Swapping to rifabutin solves the interaction while keeping the most important drug class.</p>",
     "table": null,
     "why": [
      "",
-     "Rifapentine is also a rifamycin that induces drug metabolism.",
-     "Ethambutol is mostly static and cannot replace the most important first-line drug.",
-     "Isoniazid is already in the regimen and cannot replace a rifamycin.",
-     "Pyrazinamide adds its benefit together with rifampin, not as a replacement for it."
+     "Rifapentine is still a rifamycin inducer and does not solve the interaction.",
+     "Ethambutol is usually bacteriostatic and cannot stand in for the most important first-line drug.",
+     "Isoniazid is already in the regimen and cannot replace a rifamycin's activity.",
+     "Pyrazinamide earns its benefit together with rifampin in the first 2 months, not as a substitute for it."
     ],
-    "takeaway": "Rifampin induces cytochrome P450 and P-glycoprotein and lowers levels of many drugs; rifabutin induces less and can replace it.",
+    "takeaway": "Rifampin induces cytochrome P450 and P-glycoprotein and lowers levels of drugs such as calcineurin inhibitors, and rifabutin induces less and can replace it.",
     "topic": "Rifamycins: drug interactions",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "Pharmacology of Anti-Tuberculous Medications",
+    "rows": [
+     {
+      "choice": 1,
+      "why": "Rifapentine is still a rifamycin inducer and does not solve the interaction.",
+      "if_right": "a latent TB regimen given once weekly with isoniazid"
+     },
+     {
+      "choice": 2,
+      "why": "Ethambutol is usually bacteriostatic and cannot stand in for the most important first-line drug.",
+      "if_right": "a regimen that needs a hedge against isoniazid resistance"
+     },
+     {
+      "choice": 3,
+      "why": "Isoniazid is already in the regimen and cannot replace a rifamycin's activity.",
+      "if_right": "a patient on rifampin alone for latent infection who needs a second drug"
+     },
+     {
+      "choice": 4,
+      "why": "Pyrazinamide earns its benefit together with rifampin in the first 2 months, not as a substitute for it.",
+      "if_right": "an initial phase of pyrazinamide plus rifampin, which lets total therapy shorten to 6 months"
+     }
+    ],
+    "slides": {
+     "stem": [
+      31
+     ],
+     "answer": [
+      31
+     ],
+     "distractors": [
+      31,
+      33,
+      30,
+      41
+     ]
+    },
+    "deck": "06A Mycobacterial Diagnostics and Therapeutics"
    },
    "figures": []
   },
@@ -416,18 +879,57 @@
    "answer": 3,
    "evidence": [],
    "explain": {
-    "html": "<p>Resistance arises from spontaneous chromosomal mutations at a low, fixed rate (around 1 in 10 million to 100 million organisms for isoniazid and 1 in 100 million to 1 billion for rifampin). A cavity can hold up to 100 billion organisms per milliliter, so mutants resistant to any one drug are almost certainly present before treatment starts. A single drug would kill the susceptible majority and select the resistant mutants.</p><p>Resistance to two drugs at once requires both mutations in the same organism, about 1 in 10<sup>15</sup>, so a combination regimen prevents this. In latent infection the organism count is low (under 10 million) and not actively replicating, so the risk of selecting resistance with a single drug is low.</p>",
-    "table": null,
+    "html": "<p>Drug resistance in TB starts with <b>spontaneous chromosomal mutations at a low, fixed rate</b>: about 1 in 10<sup>7</sup> to 10<sup>8</sup> organisms for isoniazid and 1 in 10<sup>8</sup> to 10<sup>9</sup> for rifampin. A pulmonary lesion holds about 10<sup>8</sup> actively replicating organisms per mL, and <b>a cavity up to 10<sup>11</sup> per mL</b>, so <b>mutants resistant to any single drug are already present before treatment</b>. One drug would kill the susceptible majority and select the resistant mutants. Resistance to both INH and rifampin at once needs both mutations in one organism, about <b>1 in 10<sup>15</sup></b>, which is why <b>TB disease is always treated with multi-drug regimens</b>. In <b>latent infection the organism count is low (under 10<sup>7</sup>) and not actively replicating</b>, so single-drug therapy carries little risk.</p><p>Patient 2's large cavity holds a huge bacillary population, while Patient 1 has latent infection with very few organisms. Burden, not penetration or prior resistance, is the difference.</p>",
+    "table": "<table><tr><th>Setting</th><th>Organisms</th><th>Spontaneous single-drug mutants present?</th><th>Therapy</th></tr><tr><td>Cavity</td><td>Up to 10<sup>11</sup> per mL</td><td>Yes (INH 1 in 10<sup>7</sup> to 10<sup>8</sup>, RIF 1 in 10<sup>8</sup> to 10<sup>9</sup>)</td><td>Multi-drug regimen</td></tr><tr><td>Latent infection</td><td>Under 10<sup>7</sup>, not replicating</td><td>Unlikely</td><td>One or two drugs</td></tr></table>",
     "why": [
-     "Penetration is not the explanation; the size of the organism population is.",
-     "Nothing indicates Patient 2's strain is resistant; the concern is mutants within a large population.",
-     "TB regimens combine drugs to prevent resistance, not to lower doses.",
+     "Penetration is not the reason; the size of the organism population is.",
+     "Nothing shows Patient 2's strain is resistant; the issue is pre-existing mutants within a large susceptible population.",
+     "TB drugs are combined to prevent resistance, not to lower doses and toxicity.",
      "",
-     "Latent organisms are few and not actively replicating."
+     "Latent organisms are few and not actively replicating, not fast growing."
     ],
-    "takeaway": "TB disease is always treated with drug combinations because large bacillary populations contain spontaneously resistant mutants; low-burden latent infection can be treated with one or two drugs.",
+    "takeaway": "TB disease is always treated with combinations because a large bacillary burden already contains spontaneously resistant mutants, while low-burden latent infection can be treated with one or two drugs.",
     "topic": "Why combination therapy for disease but not LTBI",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "Treatment of TB Disease: Principles of Treatment and role of Directly Observed Therapy",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Penetration is not the reason; the size of the organism population is.",
+      "if_right": "choosing drugs for TB meningitis, where poor CNS penetration (ethambutol) matters"
+     },
+     {
+      "choice": 1,
+      "why": "Nothing shows Patient 2's strain is resistant; the issue is pre-existing mutants within a large susceptible population.",
+      "if_right": "Patient 2's isolate already testing resistant to isoniazid"
+     },
+     {
+      "choice": 2,
+      "why": "TB drugs are combined to prevent resistance, not to lower doses and toxicity.",
+      "if_right": "none; TB drugs are combined because dual isoniazid and rifampin resistance is about 1 in 1015"
+     },
+     {
+      "choice": 4,
+      "why": "Latent organisms are few and not actively replicating, not fast growing.",
+      "if_right": "none; latent infection holds few, slowly replicating organisms"
+     }
+    ],
+    "slides": {
+     "stem": [
+      26,
+      40
+     ],
+     "answer": [
+      40
+     ],
+     "distractors": [
+      40,
+      40,
+      40,
+      40
+     ]
+    },
+    "deck": "06A Mycobacterial Diagnostics and Therapeutics"
    },
    "figures": []
   },
@@ -446,18 +948,58 @@
    "answer": 1,
    "evidence": [],
    "explain": {
-    "html": "<p>Resistance to at least both isoniazid and rifampin defines multidrug-resistant (MDR) TB. Pre-XDR adds fluoroquinolone resistance, and extensively drug-resistant (XDR) TB adds resistance to other key drugs as well; his isolate is fluoroquinolone susceptible, so it is MDR.</p><p>Primary resistance means a person was infected with a resistant strain; secondary (acquired) resistance develops during treatment. Prior treatment that was irregular, unobserved and stopped early, now relapsing, is the classic setting for acquired resistance and one of the lecture's main reasons to worry about MDR, along with contact with an MDR case and failure to respond to standard therapy. This is why directly observed therapy is used.</p>",
-    "table": null,
+    "html": "<p>TB resistance has its own terms. <b>Mono-resistant</b> TB is resistant to any single drug, most often isoniazid. <b>MDR TB is resistant to at least both isoniazid and rifampin</b>. <b>Pre-XDR</b> is MDR plus fluoroquinolone resistance, and <b>XDR</b> is MDR plus fluoroquinolone resistance plus resistance to other key drugs. Resistance is <b>primary</b> when a person is infected with a resistant strain and <b>secondary (acquired)</b> when it develops during treatment. The main reasons to worry about MDR are <b>prior treatment now relapsing, especially if not well monitored</b>, contact with an MDR case and failure to respond to standard therapy.</p><p>This man took his first course irregularly, without observation, and stopped at 3 months, and now he has relapsed with resistance to rifampin and isoniazid but susceptibility to fluoroquinolones. That is MDR TB, most likely acquired during his poorly supervised treatment, which is exactly what directly observed therapy is meant to prevent.</p>",
+    "table": "<table><tr><th>Term</th><th>Definition</th></tr><tr><td>Mono-resistant</td><td>Resistant to any single drug (most often isoniazid)</td></tr><tr><td>MDR</td><td>Resistant to at least isoniazid and rifampin</td></tr><tr><td>Pre-XDR</td><td>MDR plus fluoroquinolone resistance</td></tr><tr><td>XDR</td><td>MDR plus fluoroquinolone resistance plus resistance to other key drugs</td></tr><tr><td>Primary resistance</td><td>Infected with a resistant strain</td></tr><tr><td>Secondary (acquired) resistance</td><td>Develops during treatment</td></tr></table>",
     "why": [
-     "He is resistant to two drugs, not one, and his history points to acquired resistance.",
+     "He is resistant to two drugs, not one, and his history points to resistance acquired on treatment.",
      "",
-     "XDR requires fluoroquinolone resistance plus other key drugs; his isolate is fluoroquinolone susceptible.",
-     "Pre-XDR requires fluoroquinolone resistance.",
+     "XDR requires fluoroquinolone resistance plus other key drugs, and his isolate is fluoroquinolone susceptible.",
+     "Pre-XDR requires fluoroquinolone resistance, and his history points to acquired, not primary, resistance.",
      "Culture-based testing confirmed the resistance, so it is not a false-positive molecular result."
     ],
-    "takeaway": "MDR TB is resistance to at least isoniazid and rifampin; irregular, unobserved prior treatment is the main setting for acquired resistance.",
+    "takeaway": "MDR TB is resistance to at least isoniazid and rifampin, and irregular, unobserved prior treatment is the classic setting for acquired resistance.",
     "topic": "Drug-resistant TB: risk and terminology",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "Drug-Resistant and Multi-drug resistant Tuberculosis",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "He is resistant to two drugs, not one, and his history points to resistance acquired on treatment.",
+      "if_right": "an untreated patient resistant only to isoniazid"
+     },
+     {
+      "choice": 2,
+      "why": "XDR requires fluoroquinolone resistance plus other key drugs, and his isolate is fluoroquinolone susceptible.",
+      "if_right": "an MDR isolate also resistant to fluoroquinolones and other key drugs"
+     },
+     {
+      "choice": 3,
+      "why": "Pre-XDR requires fluoroquinolone resistance, and his history points to acquired, not primary, resistance.",
+      "if_right": "a newly infected contact whose MDR isolate is also fluoroquinolone resistant"
+     },
+     {
+      "choice": 4,
+      "why": "Culture-based testing confirmed the resistance, so it is not a false-positive molecular result.",
+      "if_right": "a molecular resistance call that phenotypic testing does not confirm"
+     }
+    ],
+    "slides": {
+     "stem": [
+      45,
+      43
+     ],
+     "answer": [
+      43,
+      44
+     ],
+     "distractors": [
+      43,
+      43,
+      43,
+      25
+     ]
+    },
+    "deck": "06A Mycobacterial Diagnostics and Therapeutics"
    },
    "figures": [
     {

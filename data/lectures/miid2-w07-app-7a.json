@@ -20,18 +20,57 @@
    "answer": 1,
    "evidence": [],
    "explain": {
-    "html": "<p>A painful vesicular rash limited to one dermatome, in an older adult who had chickenpox as a child, is herpes zoster (shingles). It is not a new infection or a hypersensitivity reaction; it is reactivation after a latency period.</p><p>After primary varicella, the virus travels up sensory nerves and remains latent in neurons of the dorsal root (or cranial nerve) ganglia. When cell-mediated immunity wanes with age or immunosuppression, it reactivates and travels down that one nerve to the skin, which is why the rash follows a dermatome and stops at the midline.</p>",
+    "html": "<p>After primary <b>varicella</b> (chickenpox), varicella-zoster virus travels up sensory nerves and becomes <b>latent in neurons of the dorsal root or cranial nerve ganglia</b>. When <b>cell-mediated immunity wanes</b> with age or immunosuppression, the virus reactivates and travels back down that one nerve to the skin. The result is <b>herpes zoster</b> (shingles): burning pain followed by grouped vesicles on a red base <b>confined to a single dermatome</b>.</p><p>This 71-year-old had chickenpox as a child and now has a painful vesicular band that <b>stops at the midline</b>, with multinucleated giant cells on Tzanck smear. That is <b>reactivation after a latency period</b>, not a primary infection or a hypersensitivity reaction. The dermatomal distribution is the giveaway to where the virus was hiding.</p>",
     "table": null,
     "why": [
-     "Latency in B lymphocytes is characteristic of Epstein-Barr virus.",
+     "Latency in B lymphocytes is characteristic of Epstein-Barr virus, not varicella-zoster.",
      "",
-     "The skin is where the virus causes vesicles, not where it hides between episodes.",
-     "Alveolar macrophages are not a site of VZV latency.",
+     "The skin is where the virus causes vesicles during an episode, not where it hides between episodes.",
+     "Alveolar macrophages are not a site of varicella-zoster latency.",
      "Integration into hepatocyte DNA describes hepatitis B virus."
     ],
-    "takeaway": "Herpes zoster is reactivation of varicella-zoster virus latent in sensory ganglion neurons, producing a painful dermatomal vesicular rash.",
+    "takeaway": "Herpes zoster is reactivation of varicella-zoster virus latent in sensory (dorsal root) ganglion neurons, producing a painful vesicular rash limited to one dermatome.",
     "topic": "Varicella-zoster virus: latency and reactivation",
-    "subject": "Pathology"
+    "subject": "Pathology",
+    "objective": "Explain herpes zoster as reactivation of varicella-zoster virus after latency.",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Latency in B lymphocytes is characteristic of Epstein-Barr virus, not varicella-zoster.",
+      "if_right": "a lymphoma-like proliferation after transplant or a jaw mass in an African child"
+     },
+     {
+      "choice": 2,
+      "why": "The skin is where the virus causes vesicles during an episode, not where it hides between episodes.",
+      "if_right": "a virus that persists in keratinocytes, such as one causing warts"
+     },
+     {
+      "choice": 3,
+      "why": "Alveolar macrophages are not a site of varicella-zoster latency.",
+      "if_right": "an intracellular pathogen of lung macrophages such as Legionella or tuberculosis"
+     },
+     {
+      "choice": 4,
+      "why": "Integration into hepatocyte DNA describes hepatitis B virus.",
+      "if_right": "chronic hepatitis progressing to hepatocellular carcinoma"
+     }
+    ],
+    "slides": {
+     "stem": [
+      2
+     ],
+     "answer": [
+      2,
+      1
+     ],
+     "distractors": [
+      3,
+      2,
+      19,
+      3
+     ]
+    },
+    "deck": "Pathology of ID Questions 2025"
    },
    "figures": [
     {
@@ -45,7 +84,7 @@
    "id": "miid2-w07-app-7a-q02",
    "source": "practice",
    "source_ref": "Written from the 2025-26 Session 7A slides",
-   "stem": "A 4-year-old girl is brought to the emergency department with pallor, decreased urine output, and lethargy. One week ago, 2 days after eating an undercooked hamburger at a cookout, she developed crampy abdominal pain and bloody diarrhea without fever, which has since resolved. Laboratory studies show:\n\nHemoglobin: 7.2 g/dL (11.5 to 15.5)\nPlatelet count: 38,000/microL (150,000 to 400,000)\nSerum creatinine: 2.6 mg/dL (0.3 to 0.7)\nPeripheral smear: Fragmented red blood cells (schistocytes)\n\nWhich of the following is the primary mechanism of her current illness?",
+   "stem": "A 4-year-old girl is brought to the emergency department with pallor, decreased urine output, and lethargy. One week ago, 2 days after eating an undercooked hamburger at a cookout, she developed crampy abdominal pain and bloody diarrhea without fever, which has since resolved. Laboratory studies show:\n\n[[labs 0]]\n\nWhich of the following is the primary mechanism of her current illness?",
    "choices": [
     "Bacteria invading the bloodstream and the kidneys",
     "Antibodies directed against platelet surface proteins",
@@ -56,18 +95,56 @@
    "answer": 3,
    "evidence": [],
    "explain": {
-    "html": "<p>Bloody diarrhea after eating undercooked ground beef points to enterohemorrhagic <i>Escherichia coli</i> (such as O157:H7). A week later she has the triad of hemolytic uremic syndrome: anemia with schistocytes (microangiopathic hemolysis), thrombocytopenia, and acute kidney injury.</p><p>The bacteria stay in the colon. Shiga-like toxin is absorbed and damages endothelial cells, especially in the glomeruli, leading to microthrombi that consume platelets, shear red cells, and injure the kidney.</p>",
+    "html": "<p><b>Enterohemorrhagic <i>Escherichia coli</i></b> (such as O157:H7) is acquired from <b>undercooked ground beef</b> and causes crampy pain and bloody diarrhea, often without fever. The bacteria stay in the colon and do not invade the blood. Instead, <b>Shiga-like toxin</b> is absorbed and <b>damages endothelial cells</b>, especially in the glomeruli.</p><p>Microthrombi form on the injured endothelium, consuming platelets, shearing red cells and injuring the kidney. The result is <b>hemolytic uremic syndrome</b>: <b>microangiopathic hemolytic anemia with schistocytes</b>, <b>thrombocytopenia</b> and <b>acute kidney injury</b>, mostly in children. This 4-year-old had bloody diarrhea after a hamburger and now has hemoglobin 7.2, platelets 38,000, creatinine 2.6 and schistocytes, the full triad.</p>",
     "table": null,
     "why": [
      "EHEC does not invade the bloodstream; the damage is toxin-mediated.",
-     "Antiplatelet antibodies would not cause schistocytes or kidney failure.",
-     "Immune complex glomerular deposition after a throat infection is poststreptococcal glomerulonephritis, which does not cause schistocytes and thrombocytopenia.",
+     "Antiplatelet antibodies lower platelets but do not cause schistocytes or kidney failure.",
+     "Immune complex deposition after a throat infection is poststreptococcal glomerulonephritis, which does not cause schistocytes and thrombocytopenia.",
      "",
-     "Simple dehydration does not produce schistocytes and thrombocytopenia."
+     "Dehydration reduces kidney perfusion but does not produce schistocytes and thrombocytopenia."
     ],
     "takeaway": "EHEC Shiga-like toxin damages endothelium, producing hemolytic uremic syndrome (microangiopathic anemia, thrombocytopenia, acute kidney injury), mostly in children.",
     "topic": "Enterohemorrhagic E. coli: hemolytic uremic syndrome",
-    "subject": "Pathology"
+    "subject": "Pathology",
+    "objective": "Explain how enterohemorrhagic E. coli causes hemolytic uremic syndrome.",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "EHEC does not invade the bloodstream; the damage is toxin-mediated.",
+      "if_right": "positive blood cultures with an invasive enteric pathogen such as Salmonella Typhi"
+     },
+     {
+      "choice": 1,
+      "why": "Antiplatelet antibodies lower platelets but do not cause schistocytes or kidney failure.",
+      "if_right": "isolated thrombocytopenia with normal hemoglobin and creatinine"
+     },
+     {
+      "choice": 2,
+      "why": "Immune complex deposition after a throat infection is poststreptococcal glomerulonephritis, which does not cause schistocytes and thrombocytopenia.",
+      "if_right": "hematuria and edema weeks after strep pharyngitis, with low complement"
+     },
+     {
+      "choice": 4,
+      "why": "Dehydration reduces kidney perfusion but does not produce schistocytes and thrombocytopenia.",
+      "if_right": "a rise in creatinine with a normal smear and platelets after diarrhea"
+     }
+    ],
+    "slides": {
+     "stem": [
+      10
+     ],
+     "answer": [
+      10
+     ],
+     "distractors": [
+      10,
+      10,
+      5,
+      10
+     ]
+    },
+    "deck": "Pathology of ID Questions 2025"
    },
    "figures": [
     {
@@ -75,6 +152,26 @@
      "slide": 10,
      "caption": "Session 7A slides (2025-26) · Page 10"
     }
+   ],
+   "labs": [
+    [
+     [
+      "Hemoglobin",
+      "7.2 g/dL (11.5 to 15.5)"
+     ],
+     [
+      "Platelet count",
+      "38,000/microL (150,000 to 400,000)"
+     ],
+     [
+      "Serum creatinine",
+      "2.6 mg/dL (0.3 to 0.7)"
+     ],
+     [
+      "Peripheral smear",
+      "Fragmented red blood cells (schistocytes)"
+     ]
+    ]
    ]
   },
   {
@@ -92,18 +189,56 @@
    "answer": 1,
    "evidence": [],
    "explain": {
-    "html": "<p>Neonatal rigidity, trismus, and opisthotonic spasms after an unsterile umbilical cut in a baby whose mother was unvaccinated is neonatal tetanus from <i>Clostridium tetani</i>, a spore-forming gram-positive rod found in soil.</p><p>Tetanospasmin travels retrograde to the spinal cord and blocks release of the inhibitory neurotransmitters GABA and glycine from Renshaw cells and other inhibitory interneurons. Without inhibition, motor neurons fire continuously, producing spastic paralysis. Maternal vaccination prevents neonatal tetanus.</p>",
-    "table": null,
+    "html": "<p><i>Clostridium tetani</i> is a <b>spore-forming gram-positive rod</b> in soil that enters through wounds, including an unsterile umbilical cut in a newborn. Its toxin, <b>tetanospasmin</b>, travels retrograde to the spinal cord and <b>blocks release of the inhibitory neurotransmitters GABA and glycine</b> from Renshaw cells and other inhibitory interneurons. Without inhibition, motor neurons fire continuously, producing <b>spastic paralysis</b>: trismus, rigidity and opisthotonic spasms triggered by touch or noise.</p><p>The contrast that matters is <b>botulinum toxin</b>, which <b>blocks acetylcholine release</b> at the neuromuscular junction and causes <b>flaccid</b> paralysis. This 9-day-old with whole-body stiffness and arching after a soil-dressed umbilical stump, born to an unvaccinated mother, has neonatal tetanus. <b>Maternal vaccination</b> prevents it.</p>",
+    "table": "<table><tr><th>Toxin</th><th>Mechanism</th><th>Result</th></tr><tr><td>Tetanus (tetanospasmin)</td><td>Blocks GABA and glycine release from spinal inhibitory interneurons</td><td>Spastic paralysis</td></tr><tr><td>Botulinum</td><td>Blocks acetylcholine release at the neuromuscular junction</td><td>Flaccid paralysis</td></tr><tr><td>Diphtheria</td><td>ADP-ribosylates elongation factor 2</td><td>Cell death, myocarditis</td></tr><tr><td><i>C. perfringens</i> alpha toxin</td><td>Lecithinase damages membranes</td><td>Gas gangrene, myonecrosis</td></tr><tr><td>Cholera, heat-labile <i>E. coli</i></td><td>Raises cAMP in enterocytes</td><td>Watery diarrhea</td></tr></table>",
     "why": [
      "Blocking acetylcholine release is botulinum toxin, which causes flaccid, not spastic, paralysis.",
      "",
-     "Elongation factor 2 inactivation is diphtheria toxin.",
-     "Lecithinase that damages membranes is the alpha toxin of C. perfringens (gas gangrene).",
-     "Raising cyclic AMP in enterocytes is cholera and heat-labile E. coli toxin."
+     "Inactivating elongation factor 2 is diphtheria toxin, which damages myocytes and nerves without rigidity.",
+     "A lecithinase that damages membranes is C. perfringens alpha toxin, which causes myonecrosis and gas gangrene.",
+     "Raising cAMP in intestinal cells is cholera or heat-labile E. coli toxin, which causes watery diarrhea."
     ],
-    "takeaway": "Tetanus toxin blocks release of inhibitory neurotransmitters (GABA, glycine) from spinal interneurons, causing spastic paralysis; botulinum toxin blocks acetylcholine release and causes flaccid paralysis.",
+    "takeaway": "Tetanus toxin blocks release of GABA and glycine from spinal inhibitory interneurons, causing spastic paralysis, whereas botulinum toxin blocks acetylcholine release and causes flaccid paralysis.",
     "topic": "Tetanus: toxin mechanism",
-    "subject": "Pathology"
+    "subject": "Pathology",
+    "objective": "Compare bacterial toxins by mechanism, including tetanus and botulinum toxins.",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Blocking acetylcholine release is botulinum toxin, which causes flaccid, not spastic, paralysis.",
+      "if_right": "a floppy infant with poor feeding, weak cry and constipation after eating honey"
+     },
+     {
+      "choice": 2,
+      "why": "Inactivating elongation factor 2 is diphtheria toxin, which damages myocytes and nerves without rigidity.",
+      "if_right": "a gray pharyngeal pseudomembrane followed by myocarditis"
+     },
+     {
+      "choice": 3,
+      "why": "A lecithinase that damages membranes is C. perfringens alpha toxin, which causes myonecrosis and gas gangrene.",
+      "if_right": "a crepitant, rapidly spreading wound infection with muscle necrosis"
+     },
+     {
+      "choice": 4,
+      "why": "Raising cAMP in intestinal cells is cholera or heat-labile E. coli toxin, which causes watery diarrhea.",
+      "if_right": "profuse rice-water diarrhea with dehydration"
+     }
+    ],
+    "slides": {
+     "stem": [
+      12
+     ],
+     "answer": [
+      12
+     ],
+     "distractors": [
+      12,
+      7,
+      12,
+      12
+     ]
+    },
+    "deck": "Pathology of ID Questions 2025"
    },
    "figures": [
     {
@@ -128,18 +263,57 @@
    "answer": 2,
    "evidence": [],
    "explain": {
-    "html": "<p>Subacute dyspnea with exertional desaturation, dry cough, and diffuse interstitial infiltrates in a patient with a CD4 count below 200/microL who is not on prophylaxis is <i>Pneumocystis jirovecii</i> pneumonia, a fungal opportunistic infection.</p><p>Histologically the alveoli are filled with a foamy, frothy eosinophilic exudate, and a silver stain shows the cup-shaped cysts within it. Prophylaxis with trimethoprim-sulfamethoxazole is given when the CD4 count falls below 200/microL.</p>",
-    "table": null,
+    "html": "<p>In a patient with AIDS, the pattern of lung disease and its histology point to specific organisms. <b><i>Pneumocystis jirovecii</i> pneumonia</b> is a fungal opportunistic infection that appears when the <b>CD4 count is below 200/microL</b>, particularly without prophylaxis. It causes subacute progressive dyspnea, dry cough, low-grade fever, <b>exertional desaturation</b> and <b>bilateral diffuse interstitial infiltrates</b>.</p><p>Histologically the alveoli are filled with a <b>foamy, frothy eosinophilic exudate</b>, and a <b>silver stain shows cup-shaped cysts</b> within it. This man with untreated HIV, a CD4 count of 60 and no prophylaxis fits exactly. <b>Trimethoprim-sulfamethoxazole prophylaxis</b> is started when the CD4 count falls below 200/microL.</p>",
+    "table": "<table><tr><th>Infection</th><th>Lung histology</th></tr><tr><td><i>Pneumocystis</i></td><td>Foamy eosinophilic alveolar exudate, cysts on silver stain</td></tr><tr><td>Cytomegalovirus</td><td>Large cells with intranuclear inclusions and a halo</td></tr><tr><td><i>Cryptococcus</i></td><td>Thick-capsuled budding yeasts</td></tr><tr><td>Tuberculosis</td><td>Caseating granulomas with acid-fast bacilli</td></tr><tr><td>Pneumococcus</td><td>Alveoli packed with neutrophils in a lobe</td></tr></table>",
     "why": [
-     "Neutrophil-packed alveoli in one lobe describes bacterial lobar pneumonia such as pneumococcus.",
-     "Caseating granulomas with acid-fast bacilli describe tuberculosis.",
+     "Neutrophil-packed alveoli in one lobe describe bacterial lobar pneumonia, which presents acutely with lobar consolidation.",
+     "Caseating granulomas with acid-fast bacilli describe tuberculosis, which typically gives cavitary or nodular disease rather than diffuse haze.",
      "",
-     "Large cells with owl's-eye intranuclear inclusions describe cytomegalovirus pneumonitis.",
-     "Thick-capsuled budding yeasts describe Cryptococcus."
+     "Large cells with intranuclear inclusions and a halo describe cytomegalovirus pneumonitis.",
+     "Thick-capsuled budding yeasts describe Cryptococcus, which more often presents with meningitis."
     ],
-    "takeaway": "Pneumocystis pneumonia in AIDS (CD4 below 200) shows foamy eosinophilic intra-alveolar exudate with silver-staining cysts.",
+    "takeaway": "Pneumocystis pneumonia in AIDS (CD4 below 200) shows a foamy eosinophilic intra-alveolar exudate with cysts on silver stain and is prevented with trimethoprim-sulfamethoxazole.",
     "topic": "Pneumocystis pneumonia: histology",
-    "subject": "Pathology"
+    "subject": "Pathology",
+    "objective": "Identify the histologic features of opportunistic lung infections in patients with AIDS.",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Neutrophil-packed alveoli in one lobe describe bacterial lobar pneumonia, which presents acutely with lobar consolidation.",
+      "if_right": "sudden fever, chills and lobar consolidation, as in pneumococcal pneumonia"
+     },
+     {
+      "choice": 1,
+      "why": "Caseating granulomas with acid-fast bacilli describe tuberculosis, which typically gives cavitary or nodular disease rather than diffuse haze.",
+      "if_right": "cavitary upper lobe lesions or hilar adenopathy with positive acid-fast stains"
+     },
+     {
+      "choice": 3,
+      "why": "Large cells with intranuclear inclusions and a halo describe cytomegalovirus pneumonitis.",
+      "if_right": "a very low CD4 count with CMV inclusions on biopsy or concurrent CMV retinitis"
+     },
+     {
+      "choice": 4,
+      "why": "Thick-capsuled budding yeasts describe Cryptococcus, which more often presents with meningitis.",
+      "if_right": "a positive cryptococcal antigen with encapsulated yeasts in the lung"
+     }
+    ],
+    "slides": {
+     "stem": [
+      4
+     ],
+     "answer": [
+      4,
+      19
+     ],
+     "distractors": [
+      6,
+      19,
+      4,
+      4
+     ]
+    },
+    "deck": "Pathology of ID Questions 2025"
    },
    "figures": [
     {
@@ -164,18 +338,56 @@
    "answer": 3,
    "evidence": [],
    "explain": {
-    "html": "<p>Fever, cough, coryza, conjunctivitis, a rash that spreads from the face downward, and gray-white buccal spots (Koplik spots) in an unvaccinated toddler is measles. Years later, a child who had measles early in life can develop subacute sclerosing panencephalitis (SSPE), a chronic, progressive neurodegenerative disease.</p><p>SSPE is caused by persistent, defective measles virus in the brain rather than a new infection, which is why antimeasles antibody is very high in the cerebrospinal fluid. It presents with cognitive decline, behavior change, and myoclonic jerks, and vaccination prevents it.</p>",
+    "html": "<p>Some viruses leave consequences years after the acute illness, and the mechanism differs by virus. <b>Measles</b> presents with fever, cough, coryza and conjunctivitis, then a <b>rash that starts on the face and spreads downward</b>, with gray-white <b>Koplik spots</b> on the buccal mucosa. A child infected early in life can later develop <b>subacute sclerosing panencephalitis (SSPE)</b>, a chronic, progressive neurodegenerative disease.</p><p>SSPE is a <b>persistent, defective measles infection of the brain</b>, not a new infection and not reactivation from a ganglion. That is why <b>antimeasles antibody is very high in the CSF</b>. This unvaccinated boy who had measles at 18 months now has falling grades, personality change and <b>myoclonic jerks</b>, which is the classic course, and measles vaccination prevents it.</p>",
     "table": null,
     "why": [
-     "There is no new exposure, and the high measles antibody in the CSF points to the earlier infection.",
-     "Streptococcal cross-reactivity explains rheumatic fever and Sydenham chorea, not SSPE.",
-     "Latency in sensory ganglia with reactivation describes varicella-zoster virus and herpes simplex.",
+     "There is no new exposure, and very high measles antibody in the CSF points back to the old infection.",
+     "Streptococcal cross-reactivity explains rheumatic fever and Sydenham chorea, not progressive dementia with myoclonus.",
+     "Latency in sensory ganglia with reactivation describes varicella-zoster and herpes simplex, which cause dermatomal or mucocutaneous lesions.",
      "",
-     "Prion disease is not linked to a prior measles infection or measles antibody."
+     "Prion disease is not linked to prior measles or to measles antibody in the CSF."
     ],
-    "takeaway": "Subacute sclerosing panencephalitis is a chronic neurodegenerative complication of persistent measles virus in the brain, years after early-childhood measles.",
+    "takeaway": "Subacute sclerosing panencephalitis is a chronic neurodegenerative disease from persistent defective measles virus in the brain years after early-childhood measles, with high CSF measles antibody.",
     "topic": "Measles: subacute sclerosing panencephalitis",
-    "subject": "Pathology"
+    "subject": "Pathology",
+    "objective": "Recognize the late neurologic consequence of childhood measles infection.",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "There is no new exposure, and very high measles antibody in the CSF points back to the old infection.",
+      "if_right": "acute fever and encephalitis after mosquito bites with no prior measles history"
+     },
+     {
+      "choice": 1,
+      "why": "Streptococcal cross-reactivity explains rheumatic fever and Sydenham chorea, not progressive dementia with myoclonus.",
+      "if_right": "chorea weeks after untreated streptococcal pharyngitis"
+     },
+     {
+      "choice": 2,
+      "why": "Latency in sensory ganglia with reactivation describes varicella-zoster and herpes simplex, which cause dermatomal or mucocutaneous lesions.",
+      "if_right": "a painful dermatomal vesicular rash in an adult who had chickenpox"
+     },
+     {
+      "choice": 4,
+      "why": "Prion disease is not linked to prior measles or to measles antibody in the CSF.",
+      "if_right": "rapidly progressive dementia with myoclonus and no history of measles"
+     }
+    ],
+    "slides": {
+     "stem": [
+      1
+     ],
+     "answer": [
+      1
+     ],
+     "distractors": [
+      1,
+      5,
+      2,
+      1
+     ]
+    },
+    "deck": "Pathology of ID Questions 2025"
    },
    "figures": []
   },
@@ -194,18 +406,56 @@
    "answer": 4,
    "evidence": [],
    "explain": {
-    "html": "<p>Nasopharyngeal carcinoma in a man from southern China, with viral RNA in the tumor from the herpesvirus that causes infectious mononucleosis in adolescents, points to Epstein-Barr virus (EBV).</p><p>EBV is also involved in endemic Burkitt lymphoma, an aggressive B-cell lymphoma that classically presents as a jaw mass in African children, and in lymphoma-like proliferations in transplant recipients. The other cancers listed are each linked to a different virus.</p>",
-    "table": null,
+    "html": "<p>Several viruses drive specific cancers, and each cancer points to one virus. <b>Epstein-Barr virus (EBV)</b> is the herpesvirus behind infectious mononucleosis (fever, pharyngitis, posterior cervical lymphadenopathy in adolescents), and it persists in B cells. EBV is linked to <b>nasopharyngeal carcinoma</b>, <b>endemic Burkitt lymphoma</b> (an aggressive B-cell lymphoma presenting as a <b>jaw mass in African children</b>) and <b>lymphoma-like proliferations after organ transplant</b>.</p><p>This man from southern China has an undifferentiated nasopharyngeal carcinoma with viral RNA from the mononucleosis herpesvirus in the tumor cells, so the virus is EBV. The same virus is involved in endemic Burkitt lymphoma. Each of the other cancers listed is caused by a <b>different virus</b>, which is what the question tests.</p>",
+    "table": "<table><tr><th>Virus</th><th>Associated cancer</th></tr><tr><td>Epstein-Barr virus</td><td>Nasopharyngeal carcinoma, endemic Burkitt lymphoma, post-transplant lymphoproliferation</td></tr><tr><td>Human herpesvirus 8</td><td>Kaposi sarcoma</td></tr><tr><td>High-risk HPV</td><td>Squamous cell carcinoma of the cervix</td></tr><tr><td>Hepatitis B and C</td><td>Hepatocellular carcinoma</td></tr><tr><td>HTLV-1</td><td>Adult T-cell leukemia/lymphoma</td></tr></table>",
     "why": [
      "Kaposi sarcoma is caused by human herpesvirus 8, not EBV.",
      "Cervical squamous cell carcinoma is caused by high-risk human papillomavirus.",
      "Hepatocellular carcinoma follows chronic hepatitis B or C infection.",
-     "Adult T-cell leukemia is caused by HTLV-1.",
+     "Adult T-cell leukemia is caused by HTLV-1, a retrovirus.",
      ""
     ],
-    "takeaway": "Epstein-Barr virus is associated with nasopharyngeal carcinoma and endemic Burkitt lymphoma (and post-transplant lymphoproliferative disease).",
+    "takeaway": "Epstein-Barr virus is associated with nasopharyngeal carcinoma, endemic Burkitt lymphoma and post-transplant lymphoproliferative disease.",
     "topic": "Epstein-Barr virus: associated malignancies",
-    "subject": "Pathology"
+    "subject": "Pathology",
+    "objective": "Match oncogenic viruses with the cancers they cause.",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Kaposi sarcoma is caused by human herpesvirus 8, not EBV.",
+      "if_right": "a tumor positive for HHV-8 instead of EBV"
+     },
+     {
+      "choice": 1,
+      "why": "Cervical squamous cell carcinoma is caused by high-risk human papillomavirus.",
+      "if_right": "a tumor containing high-risk HPV DNA"
+     },
+     {
+      "choice": 2,
+      "why": "Hepatocellular carcinoma follows chronic hepatitis B or C infection.",
+      "if_right": "a tumor in a patient with chronic hepatitis B integrated into hepatocyte DNA"
+     },
+     {
+      "choice": 3,
+      "why": "Adult T-cell leukemia is caused by HTLV-1, a retrovirus.",
+      "if_right": "a T-cell malignancy in a patient positive for HTLV-1"
+     }
+    ],
+    "slides": {
+     "stem": [
+      3
+     ],
+     "answer": [
+      3
+     ],
+     "distractors": [
+      3,
+      3,
+      3,
+      3
+     ]
+    },
+    "deck": "Pathology of ID Questions 2025"
    },
    "figures": [
     {
@@ -230,18 +480,56 @@
    "answer": 2,
    "evidence": [],
    "explain": {
-    "html": "<p>A gray, adherent pharyngeal pseudomembrane in an unvaccinated child with club-shaped gram-positive rods is diphtheria, from toxigenic <i>Corynebacterium diphtheriae</i>. The organism stays in the throat; it does not invade the heart, which is why the biopsy shows damage but no bacteria.</p><p>Diphtheria toxin is absorbed into the blood and ADP-ribosylates elongation factor 2, halting protein synthesis and killing cells. Myocytes are a major target, producing myocarditis and arrhythmias that can be fatal. Vaccination with the toxoid prevents disease.</p>",
+    "html": "<p>Some bacteria injure distant organs without ever reaching them, through a <b>circulating exotoxin</b>. Toxigenic <i>Corynebacterium diphtheriae</i>, a <b>club-shaped gram-positive rod</b>, stays in the throat and forms a thick <b>gray, adherent pseudomembrane</b> that bleeds when scraped. Diphtheria toxin is absorbed into the blood and <b>ADP-ribosylates elongation factor 2</b>, halting protein synthesis and killing cells.</p><p>Myocytes are a major target, so <b>myocarditis and arrhythmias</b> appear days after the throat illness and can be fatal. This unvaccinated girl has the pseudomembrane, then arrhythmia and heart failure, and her biopsy shows <b>myocyte degeneration without organisms</b>, which rules out invasion and fits a toxin. <b>Vaccination with the toxoid</b> prevents it.</p>",
     "table": null,
     "why": [
-     "Diphtheria does not spread to the heart; the biopsy shows no organisms.",
-     "Cross-reacting antibodies against cardiac myosin describe rheumatic fever after group A streptococcus.",
+     "Diphtheria bacteria remain in the throat, and the biopsy shows damage without organisms.",
+     "Antibodies that cross-react with cardiac myosin cause rheumatic fever after group A streptococcal pharyngitis.",
      "",
-     "Superantigens are produced by S. aureus and group A streptococcus in toxic shock syndrome.",
-     "Septic emboli are a complication of endocarditis, not diphtheria."
+     "Superantigens from S. aureus and group A streptococcus cause toxic shock syndrome, not focal myocyte degeneration.",
+     "Septic emboli come from infected heart valves in endocarditis, which this child does not have."
     ],
     "takeaway": "Diphtheria myocarditis is caused by circulating toxin that ADP-ribosylates elongation factor 2, not by bacterial invasion of the heart.",
     "topic": "Diphtheria: toxin-mediated myocarditis",
-    "subject": "Pathology"
+    "subject": "Pathology",
+    "objective": "Explain how diphtheria toxin causes myocarditis.",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Diphtheria bacteria remain in the throat, and the biopsy shows damage without organisms.",
+      "if_right": "organisms seen in the myocardium on biopsy"
+     },
+     {
+      "choice": 1,
+      "why": "Antibodies that cross-react with cardiac myosin cause rheumatic fever after group A streptococcal pharyngitis.",
+      "if_right": "carditis weeks after a beta-hemolytic gram-positive coccus pharyngitis"
+     },
+     {
+      "choice": 3,
+      "why": "Superantigens from S. aureus and group A streptococcus cause toxic shock syndrome, not focal myocyte degeneration.",
+      "if_right": "fever, diffuse rash, hypotension and multiorgan failure with a tampon or wound"
+     },
+     {
+      "choice": 4,
+      "why": "Septic emboli come from infected heart valves in endocarditis, which this child does not have.",
+      "if_right": "valve vegetations with embolic infarcts in the heart"
+     }
+    ],
+    "slides": {
+     "stem": [
+      7
+     ],
+     "answer": [
+      7
+     ],
+     "distractors": [
+      7,
+      7,
+      7,
+      7
+     ]
+    },
+    "deck": "Pathology of ID Questions 2025"
    },
    "figures": [
     {
@@ -255,7 +543,7 @@
    "id": "miid2-w07-app-7a-q08",
    "source": "practice",
    "source_ref": "Written from the 2025-26 Session 7A slides",
-   "stem": "An 18-year-old college freshman living in a dormitory is brought to the emergency department with fever, severe headache, neck stiffness, and a rapidly spreading purple rash on his legs and trunk that does not blanch. Gram stain of cerebrospinal fluid shows gram-negative diplococci. Despite antibiotics and fluids, his blood pressure stays low. Laboratory studies show:\n\nSerum sodium: 128 mEq/L (135 to 145)\nSerum potassium: 6.0 mEq/L (3.5 to 5.0)\nSerum glucose: 52 mg/dL (70 to 100)\n\nWhich of the following is the most likely cause of these laboratory findings?",
+   "stem": "An 18-year-old college freshman living in a dormitory is brought to the emergency department with fever, severe headache, neck stiffness, and a rapidly spreading purple rash on his legs and trunk that does not blanch. Gram stain of cerebrospinal fluid shows gram-negative diplococci. Despite antibiotics and fluids, his blood pressure stays low. Laboratory studies show:\n\n[[labs 0]]\n\nWhich of the following is the most likely cause of these laboratory findings?",
    "choices": [
     "Bilateral hemorrhagic destruction of the adrenal glands",
     "Syndrome of inappropriate antidiuretic hormone from meningitis",
@@ -266,20 +554,74 @@
    "answer": 0,
    "evidence": [],
    "explain": {
-    "html": "<p>Meningitis with gram-negative diplococci and a nonblanching purpuric rash in a young adult in a dormitory is <i>Neisseria meningitidis</i>. Endotoxin (lipooligosaccharide) drives septic shock and disseminated intravascular coagulation.</p><p>A classic autopsy finding is bilateral adrenal hemorrhage (Waterhouse-Friderichsen syndrome). Loss of cortisol and aldosterone produces refractory hypotension, low sodium, high potassium, and low glucose, which is the pattern on this panel.</p>",
+    "html": "<p><i>Neisseria meningitidis</i> is a <b>gram-negative diplococcus</b> that spreads in close quarters such as dormitories and military barracks, causing meningitis and a <b>nonblanching purpuric rash</b>. Its <b>endotoxin (lipooligosaccharide)</b> drives septic shock and disseminated intravascular coagulation. A classic consequence, and a classic autopsy finding, is <b>bilateral adrenal hemorrhage (Waterhouse-Friderichsen syndrome)</b>.</p><p>Destroying both adrenals removes <b>cortisol and aldosterone</b> together. Loss of cortisol causes refractory hypotension and hypoglycemia, and loss of aldosterone causes hyponatremia with <b>hyperkalemia</b>. This dormitory student with meningococcal meningitis has shock unresponsive to fluids, sodium 128, potassium 6.0 and glucose 52, which is acute adrenal insufficiency.</p>",
     "table": null,
     "why": [
      "",
-     "SIADH lowers sodium but does not raise potassium, lower glucose, or cause refractory shock.",
-     "Toxin-induced microangiopathy with kidney injury fits Shiga toxin and hemolytic uremic syndrome.",
-     "Pituitary infarction would lower cortisol but would not cause high potassium, since aldosterone is preserved.",
+     "SIADH lowers sodium but does not raise potassium, lower glucose or cause refractory shock.",
+     "Toxin-induced microangiopathy with kidney injury is Shiga toxin and hemolytic uremic syndrome.",
+     "Pituitary infarction would lower cortisol but not cause high potassium, because aldosterone is preserved.",
      "He has no diarrhea, and stool losses do not explain high potassium with low glucose."
     ],
-    "takeaway": "Fulminant meningococcemia can cause bilateral adrenal hemorrhage (Waterhouse-Friderichsen syndrome) with acute adrenal insufficiency.",
+    "takeaway": "Fulminant meningococcemia can cause bilateral adrenal hemorrhage (Waterhouse-Friderichsen syndrome), producing refractory shock, hyponatremia, hyperkalemia and hypoglycemia.",
     "topic": "Meningococcemia: adrenal hemorrhage",
-    "subject": "Pathology"
+    "subject": "Pathology",
+    "objective": "Recognize Waterhouse-Friderichsen syndrome as a complication of meningococcal infection.",
+    "rows": [
+     {
+      "choice": 1,
+      "why": "SIADH lowers sodium but does not raise potassium, lower glucose or cause refractory shock.",
+      "if_right": "low sodium with normal potassium, euvolemia and concentrated urine"
+     },
+     {
+      "choice": 2,
+      "why": "Toxin-induced microangiopathy with kidney injury is Shiga toxin and hemolytic uremic syndrome.",
+      "if_right": "bloody diarrhea, schistocytes, thrombocytopenia and rising creatinine in a child"
+     },
+     {
+      "choice": 3,
+      "why": "Pituitary infarction would lower cortisol but not cause high potassium, because aldosterone is preserved.",
+      "if_right": "low cortisol with normal potassium after postpartum hemorrhage"
+     },
+     {
+      "choice": 4,
+      "why": "He has no diarrhea, and stool losses do not explain high potassium with low glucose.",
+      "if_right": "profuse watery diarrhea with hypokalemia"
+     }
+    ],
+    "slides": {
+     "stem": [
+      8
+     ],
+     "answer": [
+      8
+     ],
+     "distractors": [
+      8,
+      10,
+      8,
+      10
+     ]
+    },
+    "deck": "Pathology of ID Questions 2025"
    },
-   "figures": []
+   "figures": [],
+   "labs": [
+    [
+     [
+      "Serum sodium",
+      "128 mEq/L (135 to 145)"
+     ],
+     [
+      "Serum potassium",
+      "6.0 mEq/L (3.5 to 5.0)"
+     ],
+     [
+      "Serum glucose",
+      "52 mg/dL (70 to 100)"
+     ]
+    ]
+   ]
   },
   {
    "id": "miid2-w07-app-7a-q09",
@@ -296,18 +638,56 @@
    "answer": 0,
    "evidence": [],
    "explain": {
-    "html": "<p>A single anesthetic hypopigmented patch with a thickened nerve, well-formed granulomas destroying dermal nerves, and no visible acid-fast bacilli is tuberculoid leprosy from <i>Mycobacterium leprae</i>.</p><p>Leprosy forms a spectrum set by the host's T cell response. In tuberculoid leprosy, a strong Th1 cell-mediated response forms tight granulomas that contain the bacteria, so lesions are few and organisms are scarce, while nerves are damaged by the inflammation. In lepromatous leprosy, a weak cell-mediated (Th2-skewed) response lets macrophages fill with bacilli and produces widespread lesions.</p>",
-    "table": null,
+    "html": "<p><i>Mycobacterium leprae</i> infects skin and peripheral nerves, and the disease forms a <b>spectrum set by the host's T cell response</b>. In <b>tuberculoid leprosy</b>, a <b>strong Th1 cell-mediated response</b> builds tight granulomas that contain the bacteria, so lesions are few, organisms are scarce on acid-fast stain, and nerves are damaged by the inflammation. In <b>lepromatous leprosy</b>, a <b>weak cell-mediated (Th2-skewed) response</b> lets macrophages fill with bacilli and produces widespread lesions.</p><p>This young man from Brazil has a single well-demarcated, hypopigmented, <b>anesthetic patch</b> with a thickened nearby nerve. Biopsy shows well-formed <b>noncaseating granulomas destroying dermal nerve twigs</b> and no acid-fast organisms. That is tuberculoid disease, reflecting an immune system that is controlling the bacteria at the cost of nerve damage.</p>",
+    "table": "<table><tr><th>Feature</th><th>Tuberculoid</th><th>Lepromatous</th></tr><tr><td>Immune response</td><td>Strong Th1, cell-mediated</td><td>Weak cell-mediated, Th2-skewed</td></tr><tr><td>Lesions</td><td>Few, well-demarcated, anesthetic</td><td>Many, widespread</td></tr><tr><td>Histology</td><td>Well-formed granulomas destroying nerves</td><td>Macrophages full of bacilli</td></tr><tr><td>Acid-fast organisms</td><td>Scarce or absent</td><td>Abundant</td></tr></table>",
     "why": [
      "",
      "Abundant organisms in macrophages with a weak cell-mediated response describes lepromatous leprosy.",
      "Leprosy is not caused by a B cell defect, and antibodies do not control mycobacteria.",
-     "IgE and mast cells do not form granulomas.",
-     "Neutrophil abscesses are not the reaction to M. leprae."
+     "IgE and mast cells cause immediate hypersensitivity and do not form granulomas.",
+     "Neutrophil-rich abscesses are an acute pyogenic response, not the reaction to M. leprae."
     ],
-    "takeaway": "Tuberculoid leprosy (few lesions, granulomas, nerve damage, few bacilli) reflects strong Th1 immunity; lepromatous leprosy reflects weak cell-mediated immunity with many bacilli.",
+    "takeaway": "Tuberculoid leprosy (few anesthetic lesions, granulomas destroying nerves, scarce bacilli) reflects strong Th1 immunity, whereas lepromatous leprosy reflects weak cell-mediated immunity with abundant bacilli.",
     "topic": "Leprosy: tuberculoid versus lepromatous",
-    "subject": "Pathology"
+    "subject": "Pathology",
+    "objective": "Relate the leprosy spectrum to the host's cell-mediated immune response.",
+    "rows": [
+     {
+      "choice": 1,
+      "why": "Abundant organisms in macrophages with a weak cell-mediated response describes lepromatous leprosy.",
+      "if_right": "many widespread lesions with foamy macrophages full of acid-fast bacilli"
+     },
+     {
+      "choice": 2,
+      "why": "Leprosy is not caused by a B cell defect, and antibodies do not control mycobacteria.",
+      "if_right": "recurrent bacterial infections from absent immunoglobulins"
+     },
+     {
+      "choice": 3,
+      "why": "IgE and mast cells cause immediate hypersensitivity and do not form granulomas.",
+      "if_right": "hives or wheezing within minutes of an allergen exposure"
+     },
+     {
+      "choice": 4,
+      "why": "Neutrophil-rich abscesses are an acute pyogenic response, not the reaction to M. leprae.",
+      "if_right": "a pus-forming bacterial infection with neutrophil-filled lesions"
+     }
+    ],
+    "slides": {
+     "stem": [
+      20
+     ],
+     "answer": [
+      20
+     ],
+     "distractors": [
+      20,
+      20,
+      20,
+      6
+     ]
+    },
+    "deck": "Pathology of ID Questions 2025"
    },
    "figures": [
     {
@@ -332,18 +712,56 @@
    "answer": 4,
    "evidence": [],
    "explain": {
-    "html": "<p>Fever, headache, and myalgias after a tick bite, followed by a rash that starts on the wrists and ankles and spreads centrally to the trunk and onto the palms and soles, with thrombocytopenia and hyponatremia, is Rocky Mountain spotted fever from <i>Rickettsia rickettsii</i>.</p><p>Rickettsiae are obligate intracellular bacteria that infect vascular endothelial cells, causing a systemic vasculitis of vessels of all sizes. Leaky, damaged vessels explain the petechial rash, platelet consumption, edema, and in severe cases respiratory failure and shock. Doxycycline is the treatment.</p>",
+    "html": "<p><b>Rocky Mountain spotted fever</b> follows a <b>tick bite</b> with fever, severe headache and myalgias, then a rash of red macules that <b>starts on the wrists and ankles</b> and spreads centrally to the trunk and onto the <b>palms and soles</b>, often becoming petechial. The cause is <i>Rickettsia rickettsii</i>, an <b>obligate intracellular bacterium</b>.</p><p>Rickettsiae infect <b>vascular endothelial cells</b>, producing a <b>systemic vasculitis of vessels of all sizes</b>. Leaky, damaged vessels explain the petechial rash, platelet consumption, edema, hyponatremia and, in severe cases, respiratory failure and shock. This man from North Carolina has the full sequence with platelets of 70,000 and sodium of 129. <b>Doxycycline</b> is the treatment.</p>",
     "table": null,
     "why": [
-     "Infection of red cells is the strategy of Babesia and malaria parasites, not Rickettsia.",
-     "Schwann cells are the target of Mycobacterium leprae.",
+     "Infecting erythrocytes is the strategy of Babesia and malaria parasites, which cause hemolysis rather than vasculitis.",
+     "Schwann cells are the target of Mycobacterium leprae, which causes anesthetic skin lesions.",
      "Hepatocytes are not the primary target, and this is not a hepatitis picture.",
      "Alveolar macrophages are the niche of Legionella and tuberculosis.",
      ""
     ],
-    "takeaway": "Rocky Mountain spotted fever (tick bite, rash from wrists and ankles to trunk, palms and soles) is caused by Rickettsia rickettsii infecting endothelium, producing systemic vasculitis.",
+    "takeaway": "Rocky Mountain spotted fever (tick bite, rash from wrists and ankles to trunk, palms and soles) results from Rickettsia rickettsii infecting endothelium and causing systemic vasculitis.",
     "topic": "Rocky Mountain spotted fever: endothelial infection",
-    "subject": "Pathology"
+    "subject": "Pathology",
+    "objective": "Explain how Rickettsia rickettsii causes the findings of Rocky Mountain spotted fever.",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Infecting erythrocytes is the strategy of Babesia and malaria parasites, which cause hemolysis rather than vasculitis.",
+      "if_right": "hemolytic anemia with intraerythrocytic parasites after a tick bite in the Northeast"
+     },
+     {
+      "choice": 1,
+      "why": "Schwann cells are the target of Mycobacterium leprae, which causes anesthetic skin lesions.",
+      "if_right": "a hypopigmented anesthetic patch with a thickened nerve"
+     },
+     {
+      "choice": 2,
+      "why": "Hepatocytes are not the primary target, and this is not a hepatitis picture.",
+      "if_right": "jaundice and markedly elevated transaminases after a viral exposure"
+     },
+     {
+      "choice": 3,
+      "why": "Alveolar macrophages are the niche of Legionella and tuberculosis.",
+      "if_right": "pneumonia with hyponatremia after exposure to contaminated water systems"
+     }
+    ],
+    "slides": {
+     "stem": [
+      18
+     ],
+     "answer": [
+      18
+     ],
+     "distractors": [
+      18,
+      20,
+      18,
+      19
+     ]
+    },
+    "deck": "Pathology of ID Questions 2025"
    },
    "figures": [
     {

@@ -20,18 +20,59 @@
    "answer": 0,
    "evidence": [],
    "explain": {
-    "html": "<p>Subacute dry cough with exertional dyspnea, hypoxia that drops sharply with minimal exertion, a nearly normal lung exam, bilateral interstitial infiltrates, and elevated LDH and beta-D-glucan in a patient with a CD4 count below 200 is Pneumocystis jirovecii pneumonia (PCP), the most common opportunistic infection in AIDS and often the first sign of unrecognized HIV.</p><p>Pneumocystis cannot be grown in routine culture. The preferred specimen is bronchoalveolar lavage; induced sputum is less invasive but less sensitive. Gomori methenamine silver stains the cyst walls, and Wright-Giemsa shows cysts and trophozoites. PCR cannot separate infection from colonization, and LDH is elevated but nonspecific.</p>",
-    "table": null,
+    "html": "<p>Opportunistic infections are stratified by CD4 count, and below 200 the most common one in AIDS is <b>Pneumocystis jirovecii pneumonia (PCP)</b>, a ubiquitous inhaled fungus that often appears before the patient knows he has HIV. The organism provokes an intense alveolar inflammatory reaction that fills the air spaces with frothy, honeycombed material and impairs oxygen exchange. Clinically this produces a subacute illness over weeks with fever, nonproductive cough and dyspnea, a nearly normal lung exam, and the hallmark <b>precipitous drop in oxygenation with exertion</b>. The chest x-ray shows diffuse bilateral reticular or interstitial infiltrates, and LDH and 1,3-beta-D-glucan are often elevated, but neither is specific.</p><p>Because Pneumocystis does not grow in routine culture, the diagnosis rests on seeing the organism: the <b>preferred specimen is bronchoalveolar lavage</b>, with induced sputum less invasive but less sensitive. <b>Gomori methenamine silver stains the cyst walls</b>, and Wright-Giemsa shows cysts and trophozoites, while PCR cannot distinguish infection from colonization. Here the desaturation from 93% to 84% after a few steps, the interstitial pattern and a CD4 of 60 make lavage with silver stain the confirming test.</p>",
+    "table": "<table><tr><th>Opportunistic infection</th><th>Key confirming test</th></tr><tr><td>Pneumocystis pneumonia</td><td>Bronchoalveolar lavage with methenamine silver stain</td></tr><tr><td>Cryptococcal meningitis</td><td>Opening pressure and cryptococcal antigen on lumbar puncture</td></tr><tr><td>Disseminated histoplasmosis</td><td>Histoplasma antigen in urine or serum</td></tr><tr><td>Disseminated MAC</td><td>Mycobacterial blood culture (up to 8 weeks)</td></tr><tr><td>CMV retinitis</td><td>Dilated funduscopic exam</td></tr></table>",
     "why": [
      "",
-     "Pneumocystis does not grow on routine culture media.",
-     "Cryptococcal antigen is used for cryptococcal disease, which presents mainly as meningitis.",
-     "Urine antigen testing is the sensitive test for disseminated histoplasmosis.",
-     "Mycobacterial blood culture is used for disseminated Mycobacterium avium complex."
+     "Pneumocystis does not grow on routine culture media, so a bacterial sputum culture cannot confirm it.",
+     "Cryptococcal antigen evaluates cryptococcal disease, which presents mainly as subacute meningoencephalitis, not exertional hypoxia with interstitial infiltrates.",
+     "Urine antigen is the sensitive rapid test for disseminated histoplasmosis, not Pneumocystis.",
+     "Mycobacterial blood culture diagnoses disseminated MAC, which causes fever, sweats, diarrhea and cytopenias rather than a primarily pulmonary picture."
     ],
-    "takeaway": "PCP presents with subacute dry cough, exertional desaturation, and bilateral interstitial infiltrates at CD4 below 200; bronchoalveolar lavage with silver stain is the preferred diagnostic test.",
+    "takeaway": "In HIV with CD4 below 200, subacute dry cough, exertional desaturation and bilateral interstitial infiltrates indicate PCP, confirmed by bronchoalveolar lavage with methenamine silver stain because Pneumocystis cannot be cultured.",
     "topic": "Pneumocystis pneumonia diagnosis",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "Describe the presentation, diagnosis, and treatment of the major opportunistic infections in HIV.",
+    "rows": [
+     {
+      "choice": 1,
+      "why": "Pneumocystis does not grow on routine culture media, so a bacterial sputum culture cannot confirm it.",
+      "if_right": "a lobar consolidation with productive sputum suggesting recurrent bacterial pneumonia"
+     },
+     {
+      "choice": 2,
+      "why": "Cryptococcal antigen evaluates cryptococcal disease, which presents mainly as subacute meningoencephalitis, not exertional hypoxia with interstitial infiltrates.",
+      "if_right": "headache, altered mentation and high opening pressure at a CD4 below 50"
+     },
+     {
+      "choice": 3,
+      "why": "Urine antigen is the sensitive rapid test for disseminated histoplasmosis, not Pneumocystis.",
+      "if_right": "Ohio River valley exposure with hepatosplenomegaly and lymphadenopathy at a CD4 below 150"
+     },
+     {
+      "choice": 4,
+      "why": "Mycobacterial blood culture diagnoses disseminated MAC, which causes fever, sweats, diarrhea and cytopenias rather than a primarily pulmonary picture.",
+      "if_right": "weeks of fever, night sweats, anemia and high alkaline phosphatase at a CD4 below 50"
+     }
+    ],
+    "slides": {
+     "stem": [
+      9,
+      12,
+      14,
+      15
+     ],
+     "answer": [
+      16
+     ],
+     "distractors": [
+      16,
+      20,
+      41,
+      33
+     ]
+    },
+    "deck": "41 Opportunistic Infections in HIV"
    },
    "figures": [
     {
@@ -45,7 +86,7 @@
    "id": "miid2-w08-lec41-q02",
    "source": "practice",
    "source_ref": "Written from the 2025-26 Lecture 41 slides",
-   "stem": "A 33-year-old man with untreated HIV infection has 3 weeks of slowly worsening headache, fever, and malaise. His family reports he has become forgetful and lethargic. He has no neck stiffness or photophobia. CD4 count is 28/mm3. CT of the head shows no mass lesion. Lumbar puncture results:\n\nOpening pressure (normal 6 to 20 cm H2O): 38 cm H2O\nWhite cells (normal 0 to 5/mm3): 8/mm3\nProtein (normal 15 to 45 mg/dL): 70 mg/dL\nGlucose (normal 40 to 70 mg/dL): 38 mg/dL\nPolysaccharide capsule antigen: Positive, high titer\n\nWhich of the following is the preferred initial (induction) treatment?",
+   "stem": "A 33-year-old man with untreated HIV infection has 3 weeks of slowly worsening headache, fever, and malaise. His family reports he has become forgetful and lethargic. He has no neck stiffness or photophobia. CD4 count is 28/mm3. CT of the head shows no mass lesion. Lumbar puncture results:\n\n[[labs 0]]\n\nWhich of the following is the preferred initial (induction) treatment?",
    "choices": [
     "Oral fluconazole 200 mg daily",
     "Liposomal amphotericin B followed by itraconazole",
@@ -56,18 +97,57 @@
    "answer": 3,
    "evidence": [],
    "explain": {
-    "html": "<p>A subacute meningoencephalitis with headache and altered mentation but no meningismus, a CD4 count below 50, markedly elevated opening pressure, few white cells, and a positive capsular antigen is cryptococcal meningitis. Cryptococcus neoformans is an encapsulated yeast from soil and bird droppings, inhaled and then drawn to the central nervous system. Elevated intracranial pressure is the hallmark, and a low cell count reflects the lack of inflammatory response and is a poor prognostic sign.</p><p>Preferred therapy is induction with amphotericin B plus flucytosine for 2 weeks (with close monitoring of creatinine and electrolytes and generous hydration), then consolidation with fluconazole 400 to 800 mg daily for 8 weeks, then maintenance fluconazole 200 mg daily.</p>",
-    "table": null,
+    "html": "<p><b>Cryptococcus neoformans</b> is an oval, encapsulated, yeast-like fungus found in soil and bird droppings that enters by inhalation and has a tropism for the central nervous system. Risk begins at a CD4 below 100 and disease usually appears below 50 as a <b>subacute meningoencephalitis</b>: gradually worsening headache, fever, malaise and encephalitic features such as lethargy and memory loss, often without neck stiffness or photophobia. On lumbar puncture the <b>hallmark is elevated intracranial pressure</b>, the cryptococcal antigen is highly specific when positive, and the cell count may be low because of a poor inflammatory response, which is a negative prognostic sign.</p><p>Treatment runs in three phases. <b>Induction is amphotericin B plus flucytosine for 2 weeks</b>, with close monitoring of creatinine and electrolytes and generous hydration, followed by <b>consolidation with fluconazole 400 to 800 mg daily for 8 weeks</b> and then maintenance fluconazole 200 mg daily; repeat lumbar puncture manages the high pressure. This man's opening pressure of 38 with only 8 white cells and a high-titer capsular antigen at a CD4 of 28 is cryptococcal meningitis, so he needs the amphotericin plus flucytosine induction.</p>",
+    "table": "<table><tr><th>Phase</th><th>Regimen</th><th>Duration</th></tr><tr><td>Induction</td><td>Amphotericin B plus flucytosine</td><td>2 weeks</td></tr><tr><td>Consolidation</td><td>Fluconazole 400 to 800 mg daily</td><td>8 weeks</td></tr><tr><td>Maintenance</td><td>Fluconazole 200 mg daily</td><td>Until on ART with CD4 above 100, undetectable viral load, azole over 1 year</td></tr></table>",
     "why": [
-     "Fluconazole 200 mg daily is the maintenance phase, not induction.",
-     "Amphotericin followed by itraconazole is the treatment for disseminated histoplasmosis.",
-     "Pyrimethamine, sulfadiazine, and leucovorin treat cerebral toxoplasmosis.",
+     "Fluconazole 200 mg daily is the maintenance phase and is too weak to start therapy for active meningitis.",
+     "Liposomal amphotericin followed by itraconazole is the regimen for disseminated histoplasmosis, not cryptococcal meningitis.",
+     "Pyrimethamine, sulfadiazine and leucovorin treat cerebral toxoplasmosis, which causes ring-enhancing mass lesions that this CT excluded.",
      "",
-     "High-dose TMP-SMX is the treatment for Pneumocystis pneumonia."
+     "High-dose TMP-SMX treats Pneumocystis pneumonia and has no role in cryptococcal meningitis."
     ],
-    "takeaway": "Cryptococcal meningitis (CD4 usually below 50, high opening pressure, positive cryptococcal antigen) is treated with amphotericin B plus flucytosine induction, then fluconazole consolidation and maintenance.",
+    "takeaway": "Cryptococcal meningitis in HIV (CD4 usually below 50, high opening pressure, positive cryptococcal antigen, few cells) is induced with amphotericin B plus flucytosine for 2 weeks, then consolidated and maintained with fluconazole.",
     "topic": "Cryptococcal meningitis",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "Describe the presentation, diagnosis, and treatment of the major opportunistic infections in HIV.",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Fluconazole 200 mg daily is the maintenance phase and is too weak to start therapy for active meningitis.",
+      "if_right": "a patient who has already completed induction and consolidation"
+     },
+     {
+      "choice": 1,
+      "why": "Liposomal amphotericin followed by itraconazole is the regimen for disseminated histoplasmosis, not cryptococcal meningitis.",
+      "if_right": "fever, hepatosplenomegaly and a positive urine Histoplasma antigen after Midwest exposure"
+     },
+     {
+      "choice": 2,
+      "why": "Pyrimethamine, sulfadiazine and leucovorin treat cerebral toxoplasmosis, which causes ring-enhancing mass lesions that this CT excluded.",
+      "if_right": "multiple ring-enhancing lesions with focal deficits and positive Toxoplasma IgG"
+     },
+     {
+      "choice": 4,
+      "why": "High-dose TMP-SMX treats Pneumocystis pneumonia and has no role in cryptococcal meningitis.",
+      "if_right": "exertional desaturation with bilateral interstitial infiltrates"
+     }
+    ],
+    "slides": {
+     "stem": [
+      19,
+      20
+     ],
+     "answer": [
+      23
+     ],
+     "distractors": [
+      23,
+      41,
+      26,
+      17
+     ]
+    },
+    "deck": "41 Opportunistic Infections in HIV"
    },
    "figures": [
     {
@@ -75,6 +155,30 @@
      "slide": 21,
      "caption": "Lecture 41 slides (2025-26) · Page 21"
     }
+   ],
+   "labs": [
+    [
+     [
+      "Opening pressure (normal 6 to 20 cm H2O)",
+      "38 cm H2O"
+     ],
+     [
+      "White cells (normal 0 to 5/mm3)",
+      "8/mm3"
+     ],
+     [
+      "Protein (normal 15 to 45 mg/dL)",
+      "70 mg/dL"
+     ],
+     [
+      "Glucose (normal 40 to 70 mg/dL)",
+      "38 mg/dL"
+     ],
+     [
+      "Polysaccharide capsule antigen",
+      "Positive, high titer"
+     ]
+    ]
    ]
   },
   {
@@ -92,18 +196,56 @@
    "answer": 1,
    "evidence": [],
    "explain": {
-    "html": "<p>Several opportunistic infections and tumors in advanced HIV (toxoplasmosis, CNS lymphoma, tuberculosis, cryptococcal lesions) cause mass lesions in the brain that raise intracranial pressure. Removing cerebrospinal fluid from below abruptly changes the pressure gradient, which can push brain tissue downward and cause herniation.</p><p>For that reason the lecture stresses that in patients with HIV a CT scan of the head must be done before a lumbar puncture. If a significant mass is present, the lumbar puncture is deferred or done only if judged safe.</p>",
+    "html": "<p>Several opportunistic infections and tumors in advanced HIV produce <b>mass lesions in the brain</b>: toxoplasmosis with multiple ring-enhancing lesions, and similar lesions from CNS lymphoma, tuberculosis and cryptococcosis. A mass lesion raises <b>intracranial pressure</b>. A lumbar puncture removes fluid from below and changes the pressure gradient, and in the setting of mass effect that pressure change can precipitate <b>brain herniation</b>. For this reason the lecture's rule is that in HIV a <b>CT scan of the head is done before any lumbar puncture</b>.</p><p>This woman has a CD4 of 40, headache, confusion, fever and a new seizure, which raises the possibility of a focal lesion such as toxoplasmosis or lymphoma as much as meningitis. Imaging first tells the team whether the lumbar puncture is safe; the cerebrospinal fluid can then be sent for PCR, cell count and cryptococcal antigen if it is.</p>",
     "table": null,
     "why": [
-     "A serum antigen does not exclude a mass lesion or replace the need for safe CSF evaluation.",
+     "A serum antigen cannot exclude a mass lesion and does not make the lumbar puncture safe or unnecessary.",
      "",
-     "Blood cultures are useful, but bacteremia is not the safety concern before lumbar puncture here.",
-     "A negative toxoplasma IgG does not exclude lymphoma, tuberculosis, or other mass lesions.",
-     "An electroencephalogram does not detect a mass lesion and is not required before lumbar puncture."
+     "Bacteremia is not the safety concern before a lumbar puncture here; the risk is herniation from a mass lesion.",
+     "A negative Toxoplasma IgG does not exclude lymphoma, tuberculosis or cryptococcal mass lesions.",
+     "An electroencephalogram does not detect a mass lesion and is not the step that protects against herniation."
     ],
-    "takeaway": "In patients with HIV and neurologic symptoms, obtain a head CT before lumbar puncture because mass lesions with raised intracranial pressure can cause herniation.",
+    "takeaway": "In HIV with neurologic symptoms, a head CT precedes lumbar puncture because opportunistic mass lesions raise intracranial pressure and removing fluid can precipitate herniation.",
     "topic": "Head imaging before lumbar puncture",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "Describe the presentation, diagnosis, and treatment of the major opportunistic infections in HIV.",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "A serum antigen cannot exclude a mass lesion and does not make the lumbar puncture safe or unnecessary.",
+      "if_right": "a patient whose head CT has already excluded a mass and who needs cryptococcal screening"
+     },
+     {
+      "choice": 2,
+      "why": "Bacteremia is not the safety concern before a lumbar puncture here; the risk is herniation from a mass lesion.",
+      "if_right": "a febrile patient with suspected bacteremia, where blood cultures go with the CSF sample"
+     },
+     {
+      "choice": 3,
+      "why": "A negative Toxoplasma IgG does not exclude lymphoma, tuberculosis or cryptococcal mass lesions.",
+      "if_right": "a ring-enhancing brain lesion with positive Toxoplasma IgG, pointing to reactivation"
+     },
+     {
+      "choice": 4,
+      "why": "An electroencephalogram does not detect a mass lesion and is not the step that protects against herniation.",
+      "if_right": "a patient with ongoing seizures whose electrical pattern needs characterizing"
+     }
+    ],
+    "slides": {
+     "stem": [
+      22
+     ],
+     "answer": [
+      22
+     ],
+     "distractors": [
+      24,
+      26,
+      26,
+      22
+     ]
+    },
+    "deck": "41 Opportunistic Infections in HIV"
    },
    "figures": [
     {
@@ -128,18 +270,58 @@
    "answer": 2,
    "evidence": [],
    "explain": {
-    "html": "<p>Multiple ring-enhancing brain lesions with focal deficits and headache in a patient with a CD4 count below 100, positive Toxoplasma IgG, and exposure to cats and undercooked meat point to cerebral toxoplasmosis. In HIV it represents reactivation of prior infection, which is why a positive IgG supports the diagnosis.</p><p>Preferred treatment is pyrimethamine plus sulfadiazine plus leucovorin, with TMP-SMX also listed as a preferred option. Alternatives include pyrimethamine plus clindamycin, or atovaquone-based regimens. Ring-enhancing lesions are not specific, so CNS lymphoma, tuberculosis, and cryptococcal lesions remain on the differential if the patient does not improve.</p>",
-    "table": null,
+    "html": "<p><b>Toxoplasma gondii</b> is acquired from cats and undercooked or raw meat, and in HIV disease it presents as <b>reactivation of prior infection</b> with a predilection for the central nervous system, at CD4 counts below 100. Symptoms depend on where the lesions sit: headache, altered mental status, seizures, personality change and focal deficits. Contrast CT or MRI usually shows <b>multiple ring-enhancing lesions</b>, and a positive IgG supports the diagnosis because it marks the prior infection that is reactivating. Ring enhancement is not specific, so CNS lymphoma, tuberculosis and cryptococcosis remain on the differential.</p><p>The preferred treatment is <b>pyrimethamine plus sulfadiazine plus leucovorin</b>, with TMP-SMX also listed; alternatives include pyrimethamine plus clindamycin and atovaquone-based regimens. This man has cats, eats rare steak, has a CD4 of 62, three ring-enhancing lesions with right arm weakness and a positive IgG, which is cerebral toxoplasmosis.</p>",
+    "table": "<table><tr><th>Feature</th><th>Cerebral toxoplasmosis</th><th>Primary CNS lymphoma</th></tr><tr><td>Agent</td><td>Toxoplasma gondii (reactivation)</td><td>Epstein-Barr virus</td></tr><tr><td>Imaging</td><td>Usually multiple ring-enhancing lesions</td><td>Mass lesion</td></tr><tr><td>Supporting test</td><td>Positive Toxoplasma IgG</td><td>EBV PCR of CSF, brain biopsy</td></tr><tr><td>Treatment</td><td>Pyrimethamine, sulfadiazine, leucovorin</td><td>Not an antimicrobial regimen</td></tr></table>",
     "why": [
-     "Amphotericin B plus flucytosine is induction therapy for cryptococcal meningitis.",
-     "Ganciclovir treats cytomegalovirus disease.",
+     "Amphotericin B plus flucytosine is induction therapy for cryptococcal meningitis, not for a protozoan brain abscess.",
+     "Ganciclovir treats CMV, whose CNS disease is dementia, ventriculoencephalitis or radiculopathy rather than multiple ring lesions with positive Toxoplasma IgG.",
      "",
-     "Macrolide-based combinations treat Mycobacterium avium complex.",
-     "Nitazoxanide is used for cryptosporidiosis, along with antiretroviral therapy."
+     "Macrolide-based combinations with ethambutol treat Mycobacterium avium complex, a disseminated marrow and node infection.",
+     "Nitazoxanide with ART is tried for cryptosporidiosis, a diarrheal protozoan, not a CNS infection."
     ],
-    "takeaway": "Cerebral toxoplasmosis (CD4 below 100, multiple ring-enhancing lesions, positive IgG from reactivation) is treated with pyrimethamine, sulfadiazine, and leucovorin.",
+    "takeaway": "Cerebral toxoplasmosis in HIV is reactivation at CD4 below 100 with multiple ring-enhancing lesions and positive IgG, and is treated with pyrimethamine, sulfadiazine and leucovorin.",
     "topic": "Cerebral toxoplasmosis",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "Describe the presentation, diagnosis, and treatment of the major opportunistic infections in HIV.",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Amphotericin B plus flucytosine is induction therapy for cryptococcal meningitis, not for a protozoan brain abscess.",
+      "if_right": "high opening pressure and a positive cryptococcal antigen without ring-enhancing lesions"
+     },
+     {
+      "choice": 1,
+      "why": "Ganciclovir treats CMV, whose CNS disease is dementia, ventriculoencephalitis or radiculopathy rather than multiple ring lesions with positive Toxoplasma IgG.",
+      "if_right": "CMV ventriculoencephalitis or retinitis at a CD4 below 50"
+     },
+     {
+      "choice": 3,
+      "why": "Macrolide-based combinations with ethambutol treat Mycobacterium avium complex, a disseminated marrow and node infection.",
+      "if_right": "fever, sweats, cytopenias and a mycobacterial blood culture growing acid-fast bacilli"
+     },
+     {
+      "choice": 4,
+      "why": "Nitazoxanide with ART is tried for cryptosporidiosis, a diarrheal protozoan, not a CNS infection.",
+      "if_right": "prolonged watery diarrhea with small 5 to 7 micrometer acid-fast oocysts"
+     }
+    ],
+    "slides": {
+     "stem": [
+      10,
+      25,
+      26
+     ],
+     "answer": [
+      26
+     ],
+     "distractors": [
+      23,
+      30,
+      33,
+      39
+     ]
+    },
+    "deck": "41 Opportunistic Infections in HIV"
    },
    "figures": []
   },
@@ -158,18 +340,57 @@
    "answer": 0,
    "evidence": [],
    "explain": {
-    "html": "<p>Painless visual loss with floaters at a CD4 count below 50, and a fundus showing fluffy yellow-white necrotizing lesions with intraretinal hemorrhages (the so-called tomato and cheese pizza appearance), is cytomegalovirus retinitis, a sight-threatening full-thickness necrotizing infection. CMV is a double-stranded DNA herpesvirus, and disease in AIDS usually reflects reactivation of latent infection in a seropositive patient.</p><p>Treatment is intravenous ganciclovir or its oral prodrug valganciclovir. CMV can also cause esophagitis, colitis, and central nervous system disease in the same CD4 range.</p>",
+    "html": "<p><b>Cytomegalovirus</b> is a double-stranded DNA virus, and most people with active disease in AIDS are seropositive, so illness reflects <b>reactivation of prior infection</b> at CD4 counts below 50. CMV causes a wide spectrum of disease: retinitis, esophagitis, colitis and central nervous system infection. <b>CMV retinitis</b> is a sight-threatening, full-thickness necrotizing retinitis in one or both eyes, diagnosed by dilated funduscopic exam. The classic fundus shows <b>fluffy yellow-white retinal lesions with intraretinal hemorrhages</b>, the tomato and cheese pizza appearance.</p><p>Treatment for CMV disease is <b>intravenous ganciclovir or oral valganciclovir</b>. This man has painless floaters and an enlarging blind spot at a CD4 of 18 with exactly that fundus, so oral valganciclovir is the appropriate treatment among the choices.</p>",
     "table": null,
     "why": [
      "",
-     "Fluconazole treats candidiasis and cryptococcal disease, not a viral retinitis.",
-     "Acyclovir is not the drug the lecture lists for CMV.",
-     "Itraconazole is used after amphotericin for histoplasmosis.",
+     "Fluconazole is an antifungal for Candida and Cryptococcus and does not treat a viral retinitis.",
+     "Acyclovir is not the drug listed for CMV; ganciclovir and valganciclovir are.",
+     "Itraconazole follows amphotericin B for disseminated histoplasmosis and has no activity against CMV.",
      "TMP-SMX treats Pneumocystis and toxoplasmosis, not CMV."
     ],
-    "takeaway": "CMV retinitis occurs at CD4 below 50 with fluffy yellow-white retinal lesions and hemorrhages and is treated with ganciclovir or valganciclovir.",
+    "takeaway": "CMV retinitis is reactivation at CD4 below 50 with fluffy yellow-white necrotizing lesions and intraretinal hemorrhages, treated with IV ganciclovir or oral valganciclovir.",
     "topic": "CMV retinitis",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "Describe the presentation, diagnosis, and treatment of the major opportunistic infections in HIV.",
+    "rows": [
+     {
+      "choice": 1,
+      "why": "Fluconazole is an antifungal for Candida and Cryptococcus and does not treat a viral retinitis.",
+      "if_right": "creamy oral plaques or cryptococcal meningitis in the consolidation phase"
+     },
+     {
+      "choice": 2,
+      "why": "Acyclovir is not the drug listed for CMV; ganciclovir and valganciclovir are.",
+      "if_right": "reactivated herpes simplex causing recurrent mucocutaneous ulcers"
+     },
+     {
+      "choice": 3,
+      "why": "Itraconazole follows amphotericin B for disseminated histoplasmosis and has no activity against CMV.",
+      "if_right": "Midwest exposure with hepatosplenomegaly and a positive urine Histoplasma antigen"
+     },
+     {
+      "choice": 4,
+      "why": "TMP-SMX treats Pneumocystis and toxoplasmosis, not CMV.",
+      "if_right": "exertional hypoxia with bilateral interstitial infiltrates, or ring-enhancing brain lesions"
+     }
+    ],
+    "slides": {
+     "stem": [
+      27,
+      28
+     ],
+     "answer": [
+      30
+     ],
+     "distractors": [
+      36,
+      49,
+      41,
+      17
+     ]
+    },
+    "deck": "41 Opportunistic Infections in HIV"
    },
    "figures": [
     {
@@ -183,7 +404,7 @@
    "id": "miid2-w08-lec41-q06",
    "source": "practice",
    "source_ref": "Written from the 2025-26 Lecture 41 slides",
-   "stem": "A 46-year-old man with untreated HIV infection has 6 weeks of fevers, drenching night sweats, a 7-kg weight loss, and watery diarrhea. Examination shows hepatosplenomegaly and enlarged lymph nodes. Chest x-ray is clear. CD4 count is 14/mm3.\n\nHemoglobin (normal 13.5 to 17.5 g/dL): 7.8 g/dL\nAbsolute neutrophil count (normal 1,500 to 8,000/mm3): 900/mm3\nAlkaline phosphatase (normal 40 to 130 U/L): 410 U/L\n\nA mycobacterial blood culture grows acid-fast bacilli after several weeks.\n\nWhich drug class is the most active and reliable component of treatment?",
+   "stem": "A 46-year-old man with untreated HIV infection has 6 weeks of fevers, drenching night sweats, a 7-kg weight loss, and watery diarrhea. Examination shows hepatosplenomegaly and enlarged lymph nodes. Chest x-ray is clear. CD4 count is 14/mm3.\n\n[[labs 0]]\n\nA mycobacterial blood culture grows acid-fast bacilli after several weeks.\n\nWhich drug class is the most active and reliable component of treatment?",
    "choices": [
     "Fluoroquinolones",
     "Aminoglycosides",
@@ -194,20 +415,76 @@
    "answer": 4,
    "evidence": [],
    "explain": {
-    "html": "<p>Insidious fever, night sweats, weight loss, and diarrhea over weeks, with hepatosplenomegaly, lymphadenopathy, anemia, neutropenia, and an elevated alkaline phosphatase (marrow and liver involvement) at a CD4 count below 50, is disseminated Mycobacterium avium complex (MAC). MAC is ubiquitous, acquired by inhalation or ingestion, usually as primary infection, and preferentially infects bone marrow and lymph nodes. Diagnosis is by mycobacterial blood culture (up to 8 weeks) or biopsy of an affected node or marrow.</p><p>Treatment is a two- to three-drug combination built around a macrolide (clarithromycin or azithromycin), the most active and reliable agent, guided by susceptibility testing. Partners include rifabutin, ethambutol, fluoroquinolones, and injectable aminoglycosides.</p>",
+    "html": "<p><b>Mycobacterium avium complex (MAC)</b> is ubiquitous, acquired by inhalation or ingestion, usually as primary infection, and causes disease at CD4 counts below 50. It presents as a <b>disseminated infection</b> rather than one confined to an organ, with an insidious onset over several weeks of fever, weight loss, night sweats and diarrhea. It predominantly affects <b>bone marrow and lymph nodes</b>, so patients may have lymphadenopathy, hepatosplenomegaly, marked anemia, neutropenia and an elevated alkaline phosphatase. Diagnosis is by mycobacterial blood culture, which can take up to 8 weeks, or biopsy of an affected node or marrow.</p><p>Treatment is a two- to three-drug combination guided by susceptibility testing, and the <b>most active and most reliable agents are the macrolides</b>, clarithromycin and azithromycin. Rifabutin, ethambutol, quinolones and injectable aminoglycosides are partner drugs. This man's sweats, diarrhea, hepatosplenomegaly, hemoglobin of 7.8, neutropenia and alkaline phosphatase of 410 at a CD4 of 14 with acid-fast bacilli in a mycobacterial blood culture are disseminated MAC.</p>",
     "table": null,
     "why": [
-     "Fluoroquinolones are possible partner drugs, not the most active agent.",
-     "Injectable aminoglycosides are add-on agents, not the core of therapy.",
-     "Echinocandins are antifungals used for Candida.",
-     "Nucleoside analog antivirals have no activity against mycobacteria.",
+     "Quinolones are listed partner agents, not the most active or reliable component.",
+     "Injectable aminoglycosides such as amikacin are add-on agents, not the core of therapy.",
+     "Echinocandins are antifungals used as alternatives for Candida and have no antimycobacterial activity.",
+     "Nucleoside analog antivirals such as ganciclovir act on viruses and have no activity against mycobacteria.",
      ""
     ],
-    "takeaway": "Disseminated MAC (CD4 below 50) causes fever, night sweats, weight loss, diarrhea, cytopenias, and elevated alkaline phosphatase; treatment is a macrolide-based combination.",
+    "takeaway": "Disseminated MAC at CD4 below 50 causes fever, sweats, weight loss, diarrhea, cytopenias and raised alkaline phosphatase, and is treated with a macrolide-based two- to three-drug combination.",
     "topic": "Disseminated Mycobacterium avium complex",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "Describe the presentation, diagnosis, and treatment of the major opportunistic infections in HIV.",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Quinolones are listed partner agents, not the most active or reliable component.",
+      "if_right": "a MAC regimen needing a partner drug added to the macrolide backbone"
+     },
+     {
+      "choice": 1,
+      "why": "Injectable aminoglycosides such as amikacin are add-on agents, not the core of therapy.",
+      "if_right": "severe MAC disease needing an injectable such as amikacin added to the macrolide"
+     },
+     {
+      "choice": 2,
+      "why": "Echinocandins are antifungals used as alternatives for Candida and have no antimycobacterial activity.",
+      "if_right": "esophageal candidiasis that cannot be treated with fluconazole"
+     },
+     {
+      "choice": 3,
+      "why": "Nucleoside analog antivirals such as ganciclovir act on viruses and have no activity against mycobacteria.",
+      "if_right": "CMV retinitis, esophagitis or colitis at a CD4 below 50"
+     }
+    ],
+    "slides": {
+     "stem": [
+      31,
+      32,
+      33
+     ],
+     "answer": [
+      33
+     ],
+     "distractors": [
+      33,
+      33,
+      36,
+      30
+     ]
+    },
+    "deck": "41 Opportunistic Infections in HIV"
    },
-   "figures": []
+   "figures": [],
+   "labs": [
+    [
+     [
+      "Hemoglobin (normal 13.5 to 17.5 g/dL)",
+      "7.8 g/dL"
+     ],
+     [
+      "Absolute neutrophil count (normal 1,500 to 8,000/mm3)",
+      "900/mm3"
+     ],
+     [
+      "Alkaline phosphatase (normal 40 to 130 U/L)",
+      "410 U/L"
+     ]
+    ]
+   ]
   },
   {
    "id": "miid2-w08-lec41-q07",
@@ -224,18 +501,57 @@
    "answer": 3,
    "evidence": [],
    "explain": {
-    "html": "<p>Painless, creamy white plaques that scrape off easily are oropharyngeal candidiasis, an overgrowth of Candida (usually C. albicans), which is normal oral flora. Diagnosis is mostly by direct visualization, and scraping the patches onto a potassium hydroxide (KOH) preparation shows the yeast.</p><p>Fluconazole is the preferred treatment; topical clotrimazole troches or nystatin suspension can be used for oral disease. Esophageal candidiasis causes odynophagia and retrosternal pain, may occur without visible thrush, is confirmed by endoscopy, and is treated with systemic fluconazole; echinocandins and amphotericin are alternatives.</p>",
+    "html": "<p><b>Candida</b>, usually C. albicans, is normal flora of the oropharynx, and immunosuppression allows overgrowth that in HIV causes oropharyngeal or esophageal infection. <b>Oropharyngeal candidiasis</b> presents as <b>painless, creamy white plaques</b> on the buccal mucosa, tongue and palate that can be <b>easily removed with a tongue depressor</b>. Diagnosis is mostly by direct visualization, and scraping the patches shows <b>yeast on a KOH prep</b>. Esophageal disease causes odynophagia and retrosternal pain, may occur without visible thrush and is confirmed by endoscopy.</p><p>The preferred treatment is <b>fluconazole</b>; oral disease can also be treated topically with clotrimazole troches or nystatin suspension, and echinocandins and amphotericin are alternatives. This woman's painless wipeable plaques with a red base and normal swallowing at a CD4 of 160 are oral thrush, so the expected finding is yeast on KOH and the treatment is fluconazole.</p>",
     "table": null,
     "why": [
-     "Inclusion-bearing cells and ganciclovir describe CMV disease, which does not form wipeable plaques.",
-     "Acid-fast oocysts are found in stool in protozoal diarrhea, not on oral plaques.",
-     "India ink shows the capsule of Cryptococcus, which causes meningitis, not thrush.",
+     "Inclusion-bearing large cells and ganciclovir describe CMV, which causes painful ulcers, not wipeable white plaques.",
+     "Acid-fast oocysts are found in stool in protozoal diarrhea, and TMP-SMX treats Cystoisospora, not thrush.",
+     "India ink shows the capsule of Cryptococcus, a meningitis agent treated with amphotericin, not oral thrush.",
      "",
-     "This smear finding and acyclovir are not what the lecture teaches for oral candidiasis."
+     "Multinucleated giant cells and acyclovir fit a herpes simplex lesion, which forms painful ulcers rather than painless wipeable plaques."
     ],
-    "takeaway": "Oral candidiasis presents as painless white plaques that scrape off; KOH prep shows yeast, and fluconazole is the preferred treatment.",
+    "takeaway": "Oral candidiasis presents as painless creamy white plaques that scrape off, KOH prep shows yeast, and fluconazole is the preferred treatment.",
     "topic": "Oropharyngeal candidiasis",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "Describe the presentation, diagnosis, and treatment of the major opportunistic infections in HIV.",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Inclusion-bearing large cells and ganciclovir describe CMV, which causes painful ulcers, not wipeable white plaques.",
+      "if_right": "odynophagia with esophageal ulcers and inclusion cells on biopsy"
+     },
+     {
+      "choice": 1,
+      "why": "Acid-fast oocysts are found in stool in protozoal diarrhea, and TMP-SMX treats Cystoisospora, not thrush.",
+      "if_right": "prolonged watery diarrhea with large 25 micrometer acid-fast oocysts"
+     },
+     {
+      "choice": 2,
+      "why": "India ink shows the capsule of Cryptococcus, a meningitis agent treated with amphotericin, not oral thrush.",
+      "if_right": "subacute headache with high opening pressure and positive cryptococcal antigen"
+     },
+     {
+      "choice": 4,
+      "why": "Multinucleated giant cells and acyclovir fit a herpes simplex lesion, which forms painful ulcers rather than painless wipeable plaques.",
+      "if_right": "recurrent painful mucocutaneous ulcers from reactivated herpes simplex"
+     }
+    ],
+    "slides": {
+     "stem": [
+      34,
+      35
+     ],
+     "answer": [
+      36
+     ],
+     "distractors": [
+      29,
+      38,
+      20,
+      49
+     ]
+    },
+    "deck": "41 Opportunistic Infections in HIV"
    },
    "figures": [
     {
@@ -260,18 +576,56 @@
    "answer": 3,
    "evidence": [],
    "explain": {
-    "html": "<p>Constitutional symptoms, cough, lymphadenopathy, and hepatosplenomegaly at a CD4 count below 150 in a man from the U.S. Midwest suggest disseminated histoplasmosis, an endemic mycosis linked to living in or traveling to the Midwest, Puerto Rico, and Central or South America.</p><p>Histoplasma antigen in urine or serum is highly sensitive and specific for disseminated disease and gives a rapid answer, while cultures of marrow, lymph node, or lavage can take several weeks. Treatment is liposomal amphotericin B for at least 2 weeks, then oral itraconazole. Coccidioidomycosis is the desert southwest endemic mycosis, with risk rising below a CD4 of 250.</p>",
-    "table": null,
+    "html": "<p>The <b>endemic mycoses</b> act as opportunistic infections in people who live in or travel to endemic areas. <b>Histoplasmosis</b> is linked to the US Midwest, Puerto Rico and Central or South America, usually appears when the CD4 is below 150, and in HIV is often <b>disseminated</b>. It presents with constitutional symptoms (fever, weight loss, fatigue, night sweats), pulmonary symptoms, and enlarged lymph nodes, liver and spleen. Coccidioidomycosis, by contrast, is tied to the desert southwest with risk rising below a CD4 of 250.</p><p>The rapid diagnostic test for disseminated histoplasmosis is <b>Histoplasma antigen in urine or serum</b>, which is highly sensitive and specific, while cultures of marrow, node or lavage can take several weeks. Treatment is <b>liposomal amphotericin B for more than 2 weeks, then oral itraconazole</b>. This man grew up in the Ohio River valley and has fever, sweats, cough, lymphadenopathy, hepatosplenomegaly and nodular opacities at a CD4 of 95, so the urine and serum antigen is the test to send.</p>",
+    "table": "<table><tr><th>Feature</th><th>Histoplasmosis</th><th>Coccidioidomycosis</th></tr><tr><td>Endemic area</td><td>US Midwest, Puerto Rico, Central and South America</td><td>US desert southwest, Central and South America</td></tr><tr><td>CD4 risk</td><td>Usually below 150</td><td>Below 250</td></tr><tr><td>Diagnosis</td><td>Urine or serum antigen; culture takes weeks</td><td>Culture, histopathology, serology (IgM, IgG)</td></tr><tr><td>Treatment</td><td>Liposomal amphotericin B, then itraconazole</td><td>Amphotericin B then azole; meningitis high-dose fluconazole</td></tr></table>",
     "why": [
-     "Cryptococcal antigen evaluates cryptococcal disease, which presents mainly with meningitis.",
-     "Coccidioidal serology fits desert southwest exposure, not the Midwest.",
-     "Silver-stained cysts in lavage are used to diagnose Pneumocystis.",
+     "Cryptococcal antigen evaluates cryptococcal disease, which presents mainly as meningoencephalitis rather than hepatosplenomegaly with nodular lungs.",
+     "Coccidioidal serology fits desert southwest exposure, not an upbringing in the Ohio River valley.",
+     "Silver-stained cysts in lavage diagnose Pneumocystis, which does not cause lymphadenopathy and hepatosplenomegaly.",
      "",
-     "Mycobacterial blood culture is used for MAC and takes weeks."
+     "Mycobacterial blood culture diagnoses MAC, takes up to 8 weeks and is not a rapid test."
     ],
-    "takeaway": "Disseminated histoplasmosis (Midwest or Puerto Rico exposure, CD4 below 150) is diagnosed rapidly by urine or serum Histoplasma antigen and treated with liposomal amphotericin B, then itraconazole.",
+    "takeaway": "Disseminated histoplasmosis (Midwest or Puerto Rico exposure, CD4 below 150) is diagnosed rapidly by urine or serum Histoplasma antigen and treated with liposomal amphotericin B followed by itraconazole.",
     "topic": "Disseminated histoplasmosis",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "Describe the presentation, diagnosis, and treatment of the major opportunistic infections in HIV.",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Cryptococcal antigen evaluates cryptococcal disease, which presents mainly as meningoencephalitis rather than hepatosplenomegaly with nodular lungs.",
+      "if_right": "headache, altered mentation and high opening pressure at a CD4 below 50"
+     },
+     {
+      "choice": 1,
+      "why": "Coccidioidal serology fits desert southwest exposure, not an upbringing in the Ohio River valley.",
+      "if_right": "residence in or travel to the desert southwest with pneumonia at a CD4 below 250"
+     },
+     {
+      "choice": 2,
+      "why": "Silver-stained cysts in lavage diagnose Pneumocystis, which does not cause lymphadenopathy and hepatosplenomegaly.",
+      "if_right": "exertional desaturation with diffuse interstitial infiltrates at a CD4 below 200"
+     },
+     {
+      "choice": 4,
+      "why": "Mycobacterial blood culture diagnoses MAC, takes up to 8 weeks and is not a rapid test.",
+      "if_right": "weeks of fever, diarrhea, cytopenias and high alkaline phosphatase at a CD4 below 50"
+     }
+    ],
+    "slides": {
+     "stem": [
+      40
+     ],
+     "answer": [
+      41
+     ],
+     "distractors": [
+      20,
+      42,
+      16,
+      33
+     ]
+    },
+    "deck": "41 Opportunistic Infections in HIV"
    },
    "figures": [
     {
@@ -296,18 +650,56 @@
    "answer": 1,
    "evidence": [],
    "explain": {
-    "html": "<p>Pneumocystis prophylaxis is indicated when the CD4 count is below 200. TMP-SMX is preferred, and the alternatives listed are atovaquone, dapsone, and monthly aerosolized pentamidine. Dapsone is an oral option, and the lecture specifically flags checking glucose-6-phosphate dehydrogenase (G6PD) before using it.</p><p>Dapsone is an oxidant drug, so patients with G6PD deficiency are at risk of hemolysis. Atovaquone needs no genetic screening (HLA-B*5701 belongs with abacavir), pentamidine for prophylaxis is aerosolized, and azithromycin and fluconazole do not prevent Pneumocystis.</p>",
-    "table": null,
+    "html": "<p>When the CD4 count is between 100 and 200, primary prophylaxis covers <b>Pneumocystis</b>. <b>TMP-SMX is preferred</b>, daily or three times weekly. When it cannot be used, the alternatives listed are <b>atovaquone, dapsone and monthly aerosolized pentamidine</b>. Dapsone is an oral option, and the lecture flags it with a specific precaution: <b>check G6PD</b> first. Dapsone is an oxidant drug, so a patient with G6PD deficiency is at risk of hemolysis.</p><p>This man has a CD4 of 140 and a severe blistering reaction to a sulfonamide, which rules out TMP-SMX. His physician chooses an oral alternative and orders a blood test first, which matches dapsone with a G6PD level. Azithromycin and fluconazole do not prevent Pneumocystis, and pentamidine for prophylaxis is aerosolized rather than oral.</p>",
+    "table": "<table><tr><th>PCP prophylaxis option</th><th>Route and note</th></tr><tr><td>TMP-SMX</td><td>Oral, preferred; daily or three times weekly</td></tr><tr><td>Atovaquone</td><td>Oral alternative</td></tr><tr><td>Dapsone</td><td>Oral alternative; check G6PD first</td></tr><tr><td>Pentamidine</td><td>Aerosolized, monthly</td></tr></table>",
     "why": [
-     "Atovaquone is an alternative, but HLA-B*5701 is the test required before abacavir.",
+     "Atovaquone is an acceptable alternative, but HLA-B*5701 testing goes with abacavir, not atovaquone.",
      "",
-     "Pentamidine prophylaxis is given monthly by aerosol, and kidney testing is not the flagged precaution.",
+     "Pentamidine prophylaxis is given monthly by aerosol, not orally, and kidney function is not the flagged precaution.",
      "Azithromycin is MAC prophylaxis and does not prevent Pneumocystis.",
-     "Fluconazole is an antifungal for Candida and Cryptococcus and does not prevent Pneumocystis."
+     "Fluconazole is an antifungal for Candida and Cryptococcus and does not prevent Pneumocystis; neither fungus gets primary prophylaxis."
     ],
-    "takeaway": "When TMP-SMX cannot be used for Pneumocystis prophylaxis, alternatives are atovaquone, dapsone (check G6PD first), or monthly aerosolized pentamidine.",
+    "takeaway": "When TMP-SMX cannot be used for Pneumocystis prophylaxis, alternatives are atovaquone, dapsone (check G6PD first because of hemolysis risk) or monthly aerosolized pentamidine.",
     "topic": "Alternatives for Pneumocystis prophylaxis",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "Describe primary and secondary prophylaxis for opportunistic infections in HIV.",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Atovaquone is an acceptable alternative, but HLA-B*5701 testing goes with abacavir, not atovaquone.",
+      "if_right": "a patient about to start abacavir, who needs HLA-B*5701 testing first"
+     },
+     {
+      "choice": 2,
+      "why": "Pentamidine prophylaxis is given monthly by aerosol, not orally, and kidney function is not the flagged precaution.",
+      "if_right": "a patient who cannot take any oral agent and needs a monthly inhaled option"
+     },
+     {
+      "choice": 3,
+      "why": "Azithromycin is MAC prophylaxis and does not prevent Pneumocystis.",
+      "if_right": "a CD4 below 50 in a patient who is not starting ART"
+     },
+     {
+      "choice": 4,
+      "why": "Fluconazole is an antifungal for Candida and Cryptococcus and does not prevent Pneumocystis; neither fungus gets primary prophylaxis.",
+      "if_right": "treatment of active oral candidiasis"
+     }
+    ],
+    "slides": {
+     "stem": [
+      50
+     ],
+     "answer": [
+      50
+     ],
+     "distractors": [
+      50,
+      50,
+      51,
+      51
+     ]
+    },
+    "deck": "41 Opportunistic Infections in HIV"
    },
    "figures": []
   },
@@ -315,7 +707,7 @@
    "id": "miid2-w08-lec41-q10",
    "source": "practice",
    "source_ref": "Written from the 2025-26 Lecture 41 slides",
-   "stem": "A 44-year-old man started antiretroviral therapy 8 months ago when his CD4 count was 90/mm3, together with daily trimethoprim-sulfamethoxazole prophylaxis. He has never had an opportunistic infection. His recent results are below. He asks whether he can stop the prophylaxis.\n\n4 months ago: Today\nCD4 count (/mm3): 240: 285\nHIV-1 RNA: Undetectable: Undetectable\n\nWhich of the following is the most appropriate advice?",
+   "stem": "A 44-year-old man started antiretroviral therapy 8 months ago when his CD4 count was 90/mm3, together with daily trimethoprim-sulfamethoxazole prophylaxis. He has never had an opportunistic infection. His recent results are below. He asks whether he can stop the prophylaxis.\n\n[[labs 0]]\n\nWhich of the following is the most appropriate advice?",
    "choices": [
     "Continue prophylaxis for life",
     "Continue until the CD4 count exceeds 500/mm3",
@@ -326,20 +718,77 @@
    "answer": 2,
    "evidence": [],
    "explain": {
-    "html": "<p>Primary prophylaxis can be discontinued once a patient is on effective ART and the CD4 count has stayed above the relevant threshold for more than 3 months. His count has been above 200 for at least 4 months with an undetectable viral load, so Pneumocystis and toxoplasmosis prophylaxis can stop.</p><p>The lecture adds that even with a CD4 count between 100 and 200, PCP prophylaxis can be stopped if the patient is on ART with an undetectable viral load for more than 12 months. Secondary prophylaxis after a treated infection follows the same logic, usually requiring 3 to 6 months above threshold.</p>",
+    "html": "<p>Prophylaxis in HIV depends on <b>immune reconstitution with antiretroviral therapy</b>. <b>Primary prophylaxis can be discontinued</b> when the patient is on effective ART and the <b>CD4 count has stayed above the relevant threshold for more than 3 months</b>. There is a second route for Pneumocystis: with a CD4 between 100 and 200, PCP prophylaxis can stop if the patient is on ART with an <b>undetectable viral load for more than 12 months</b>. Secondary prophylaxis, given after an adequately treated infection, follows the same logic and generally stops once the CD4 is above threshold for at least 3 months, and for most infections 6 months.</p><p>This man started ART at a CD4 of 90 with TMP-SMX and has never had an opportunistic infection, so his prophylaxis is primary. His CD4 has been above 200 on two measurements 4 months apart with an undetectable viral load, which satisfies the 3-month rule, so prophylaxis can stop now while ART continues.</p>",
     "table": null,
     "why": [
      "Prophylaxis is not lifelong once immune reconstitution on ART is sustained.",
-     "The threshold for stopping is 200, not 500.",
+     "The stopping threshold for Pneumocystis and toxoplasmosis coverage is 200, not 500.",
      "",
-     "ART is what restores immunity and must continue.",
-     "No prophylaxis is needed now, so switching agents is unnecessary."
+     "ART is what restores immunity, so stopping it would undo the reason prophylaxis can end.",
+     "No prophylaxis is needed now, so switching to another agent indefinitely is unnecessary."
     ],
-    "takeaway": "Primary prophylaxis can stop when the CD4 count stays above its threshold for more than 3 months on effective ART.",
+    "takeaway": "Primary opportunistic infection prophylaxis can stop when the CD4 count stays above its threshold for more than 3 months on effective ART.",
     "topic": "Discontinuing prophylaxis after immune reconstitution",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "Describe primary and secondary prophylaxis for opportunistic infections in HIV.",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Prophylaxis is not lifelong once immune reconstitution on ART is sustained.",
+      "if_right": "a patient who is not on effective ART or whose CD4 remains below threshold"
+     },
+     {
+      "choice": 1,
+      "why": "The stopping threshold for Pneumocystis and toxoplasmosis coverage is 200, not 500.",
+      "if_right": "none; 500 is the bottom of the normal CD4 range, and prophylaxis stops above 200"
+     },
+     {
+      "choice": 3,
+      "why": "ART is what restores immunity, so stopping it would undo the reason prophylaxis can end.",
+      "if_right": "no scenario; ART is never stopped in favor of prophylaxis"
+     },
+     {
+      "choice": 4,
+      "why": "No prophylaxis is needed now, so switching to another agent indefinitely is unnecessary.",
+      "if_right": "a CD4 still between 100 and 200 in a patient intolerant of TMP-SMX"
+     }
+    ],
+    "slides": {
+     "stem": [
+      51
+     ],
+     "answer": [
+      52
+     ],
+     "distractors": [
+      52,
+      50,
+      53,
+      50
+     ]
+    },
+    "deck": "41 Opportunistic Infections in HIV"
    },
-   "figures": []
+   "figures": [],
+   "labs": [
+    [
+     [
+      "",
+      "4 months ago",
+      "Today"
+     ],
+     [
+      "CD4 count (/mm3)",
+      "240",
+      "285"
+     ],
+     [
+      "HIV-1 RNA",
+      "Undetectable",
+      "Undetectable"
+     ]
+    ]
+   ]
   },
   {
    "id": "miid2-w08-lec41-q11",
@@ -356,18 +805,56 @@
    "answer": 0,
    "evidence": [],
    "explain": {
-    "html": "<p>Violaceous, irregular skin and oral plaques in advanced HIV are Kaposi sarcoma, a vascular malignancy and an AIDS-defining illness that can also involve viscera. It is caused by human herpesvirus 8 (HHV-8), also called Kaposi sarcoma-associated herpesvirus.</p><p>Treatment is antiretroviral therapy, with chemotherapy for more extensive disease. The lecture groups three opportunistic infections as agents of malignancy: HHV-8 with Kaposi sarcoma, Epstein-Barr virus with primary CNS lymphoma, and HPV with cervical and anal cancer.</p>",
-    "table": null,
+    "html": "<p><b>Human herpesvirus 8 (HHV-8)</b>, also called Kaposi sarcoma-associated herpesvirus, causes <b>Kaposi sarcoma</b>, a <b>vascular malignancy</b>. Its skin lesions are <b>violaceous, irregular plaques</b>, mucosa such as the palate can be involved, and visceral involvement can occur. Treatment is <b>ART, with chemotherapy</b> as needed. It is one of three opportunistic agents of malignancy in HIV, alongside EBV with primary CNS lymphoma and HPV with cervical and anal cancer.</p><p>This man has painless purple irregular plaques on his legs and palate growing over 2 months at a CD4 of 110, and they do not blanch, which fits a vascular tumor rather than an infection or rash. The virus most closely associated is HHV-8.</p>",
+    "table": "<table><tr><th>Virus</th><th>Malignancy or disease in HIV</th></tr><tr><td>HHV-8</td><td>Kaposi sarcoma</td></tr><tr><td>Epstein-Barr virus</td><td>Primary CNS lymphoma</td></tr><tr><td>HPV 16 and 18</td><td>Cervical and anal cancer</td></tr><tr><td>CMV</td><td>Retinitis, esophagitis, colitis</td></tr><tr><td>JC virus</td><td>Progressive multifocal leukoencephalopathy</td></tr></table>",
     "why": [
      "",
-     "Epstein-Barr virus drives primary CNS lymphoma in HIV.",
+     "Epstein-Barr virus drives primary CNS lymphoma in HIV, not violaceous skin plaques.",
      "HPV 16 is linked to cervical and anal cancer, not vascular skin tumors.",
-     "CMV causes retinitis, esophagitis, and colitis, not a vascular tumor.",
-     "JC virus causes progressive multifocal leukoencephalopathy."
+     "CMV causes retinitis, esophagitis and colitis, not a vascular tumor.",
+     "JC virus causes progressive multifocal leukoencephalopathy, a brain disease, not skin plaques."
     ],
-    "takeaway": "Kaposi sarcoma, violaceous vascular plaques of skin and mucosa, is caused by HHV-8 and is treated with ART, adding chemotherapy as needed.",
+    "takeaway": "Kaposi sarcoma, violaceous vascular plaques of skin and mucosa with possible visceral spread, is caused by HHV-8 and treated with ART plus chemotherapy as needed.",
     "topic": "Kaposi sarcoma",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "Describe the opportunistic infections that act as agents of malignancy in HIV.",
+    "rows": [
+     {
+      "choice": 1,
+      "why": "Epstein-Barr virus drives primary CNS lymphoma in HIV, not violaceous skin plaques.",
+      "if_right": "confusion, seizures and a brain mass with EBV in the cerebrospinal fluid"
+     },
+     {
+      "choice": 2,
+      "why": "HPV 16 is linked to cervical and anal cancer, not vascular skin tumors.",
+      "if_right": "an abnormal Pap smear or anal cancer, especially in men who have sex with men"
+     },
+     {
+      "choice": 3,
+      "why": "CMV causes retinitis, esophagitis and colitis, not a vascular tumor.",
+      "if_right": "floaters with fluffy yellow-white retinal lesions at a CD4 below 50"
+     },
+     {
+      "choice": 4,
+      "why": "JC virus causes progressive multifocal leukoencephalopathy, a brain disease, not skin plaques.",
+      "if_right": "an AIDS patient with progressive multifocal leukoencephalopathy, the brain disease caused by JC virus"
+     }
+    ],
+    "slides": {
+     "stem": [
+      46
+     ],
+     "answer": [
+      46
+     ],
+     "distractors": [
+      45,
+      47,
+      28,
+      49
+     ]
+    },
+    "deck": "41 Opportunistic Infections in HIV"
    },
    "figures": [
     {
@@ -392,18 +879,57 @@
    "answer": 2,
    "evidence": [],
    "explain": {
-    "html": "<p>The silver-staining cysts in foamy alveolar material identify Pneumocystis jirovecii, a fungus that the lecture points out is treated with an antibacterial: high-dose trimethoprim-sulfamethoxazole (TMP-SMX) is the preferred therapy. Alternatives include atovaquone, intravenous pentamidine, dapsone plus trimethoprim, and primaquine plus clindamycin.</p><p>The organism provokes an intense alveolar inflammatory reaction, and that inflammation, not just the organism, impairs gas exchange. When oxygenation is significantly impaired, a corticosteroid such as prednisone is added to dampen the inflammation in the lungs. Antifungal azoles and flucytosine are not used for Pneumocystis.</p>",
-    "table": null,
+    "html": "<p>Pneumocystis jirovecii is a fungus, yet the preferred therapy is an antibacterial: <b>high-dose trimethoprim-sulfamethoxazole (TMP-SMX)</b>, 15 to 20 mg/kg per day of the trimethoprim component in divided doses. The damage in PCP is not only from the organism; it provokes an <b>intense inflammatory reaction in the alveoli</b>, producing an interstitial pneumonitis and alveoli filled with frothy honeycombed material. That inflammation is what impairs gas exchange. When oxygenation is significantly impaired, <b>a corticosteroid such as prednisone is added</b> to decrease lung inflammation. Other treatment options for the organism itself are atovaquone, intravenous pentamidine, dapsone plus trimethoprim, and primaquine plus clindamycin.</p><p>This patient has silver-staining cysts in foamy alveolar material, an oxygen saturation of 86% and a markedly reduced arterial oxygen, so her <b>degree of hypoxia</b> is the decisive finding that calls for prednisone alongside TMP-SMX. Azoles, flucytosine, antivirals and macrolides belong to other opportunistic infections and add nothing here.</p>",
+    "table": "<table><tr><th>Drug</th><th>Role in this lecture</th></tr><tr><td>High-dose TMP-SMX</td><td>Preferred PCP treatment</td></tr><tr><td>Prednisone</td><td>Added to PCP therapy when oxygenation is significantly impaired</td></tr><tr><td>Fluconazole</td><td>Candidiasis; cryptococcal consolidation and maintenance</td></tr><tr><td>Flucytosine</td><td>With amphotericin B for cryptococcal induction</td></tr><tr><td>Ganciclovir</td><td>CMV disease</td></tr><tr><td>Azithromycin</td><td>MAC treatment and prophylaxis</td></tr></table>",
     "why": [
-     "Fluconazole treats candidiasis and cryptococcal consolidation, not Pneumocystis.",
-     "Flucytosine is paired with amphotericin B for cryptococcal meningitis.",
+     "Fluconazole treats Candida and cryptococcal disease and has no role against Pneumocystis or its inflammation.",
+     "Flucytosine is paired with amphotericin B for cryptococcal induction and does not treat PCP.",
      "",
-     "Ganciclovir treats cytomegalovirus disease.",
-     "Azithromycin is used against Mycobacterium avium complex."
+     "Ganciclovir treats cytomegalovirus, which causes retinitis, esophagitis and colitis rather than silver-staining alveolar cysts.",
+     "Azithromycin is used against Mycobacterium avium complex and does not reduce alveolar inflammation in PCP."
     ],
-    "takeaway": "PCP is treated with high-dose TMP-SMX, an antibacterial, and a corticosteroid is added when hypoxia is significant to reduce alveolar inflammation.",
+    "takeaway": "PCP, a fungal infection, is treated with high-dose TMP-SMX, and a corticosteroid is added when hypoxia is significant to blunt the alveolar inflammation that impairs gas exchange.",
     "topic": "Pneumocystis pneumonia treatment",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "Describe the presentation, diagnosis, and treatment of the major opportunistic infections in HIV.",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Fluconazole treats Candida and cryptococcal disease and has no role against Pneumocystis or its inflammation.",
+      "if_right": "creamy wipeable oral plaques or cryptococcal meningitis after induction therapy"
+     },
+     {
+      "choice": 1,
+      "why": "Flucytosine is paired with amphotericin B for cryptococcal induction and does not treat PCP.",
+      "if_right": "a subacute meningoencephalitis with high opening pressure and positive cryptococcal antigen"
+     },
+     {
+      "choice": 3,
+      "why": "Ganciclovir treats cytomegalovirus, which causes retinitis, esophagitis and colitis rather than silver-staining alveolar cysts.",
+      "if_right": "fluffy yellow-white retinal lesions with hemorrhages at a CD4 below 50"
+     },
+     {
+      "choice": 4,
+      "why": "Azithromycin is used against Mycobacterium avium complex and does not reduce alveolar inflammation in PCP.",
+      "if_right": "fever, night sweats and an acid-fast blood culture at a CD4 below 50"
+     }
+    ],
+    "slides": {
+     "stem": [
+      13,
+      16
+     ],
+     "answer": [
+      17
+     ],
+     "distractors": [
+      36,
+      23,
+      30,
+      33
+     ]
+    },
+    "deck": "41 Opportunistic Infections in HIV"
    },
    "figures": []
   },
@@ -422,18 +948,57 @@
    "answer": 2,
    "evidence": [],
    "explain": {
-    "html": "<p>A single enhancing brain mass with confusion, seizures, and constitutional symptoms, a CD4 count far below 100, and negative Toxoplasma serology (making reactivated toxoplasmosis unlikely) points to primary central nervous system lymphoma. In HIV this malignancy is driven by Epstein-Barr virus, whose oncogenic potential increases with immunosuppression; EBV PCR of the cerebrospinal fluid supports the diagnosis, with imaging and brain biopsy.</p><p>EBV is a DNA herpesvirus that infects B cells, the cells from which the lymphoma arises. The lecture pairs each virus-driven malignancy with its agent: EBV with CNS lymphoma, HHV-8 with Kaposi sarcoma, and HPV with cervical and anal cancer.</p>",
-    "table": null,
+    "html": "<p>Three opportunistic infections in HIV act as <b>agents of malignancy</b>: Epstein-Barr virus with primary CNS lymphoma, HHV-8 with Kaposi sarcoma, and HPV with cervical and anal cancer. <b>Epstein-Barr virus</b> is a DNA herpesvirus that <b>infects B cells</b>, and in HIV its oncogenic potential increases, producing <b>primary central nervous system lymphoma</b>. The lymphoma presents with CNS symptoms such as lethargy, confusion and seizures together with constitutional symptoms. Diagnosis combines imaging, <b>EBV PCR of the cerebrospinal fluid</b> when a lumbar puncture is safe, and brain biopsy.</p><p>This woman has a single enhancing periventricular mass, confusion, a seizure, weight loss and night sweats at a CD4 of 30, and her negative Toxoplasma IgG makes reactivated toxoplasmosis unlikely. The virus her cerebrospinal fluid will show is EBV, and it infects B lymphocytes, the cells from which the lymphoma arises.</p>",
+    "table": "<table><tr><th>Virus</th><th>Malignancy in HIV</th></tr><tr><td>Epstein-Barr virus (infects B cells)</td><td>Primary CNS lymphoma</td></tr><tr><td>HHV-8 (KSHV)</td><td>Kaposi sarcoma, a vascular malignancy</td></tr><tr><td>HPV 16 and 18</td><td>Cervical cancer; anal cancer</td></tr></table>",
     "why": [
-     "CD4 T cells are the target of HIV itself, not of the virus driving this tumor.",
-     "Oligodendrocytes are infected by JC virus in progressive multifocal leukoencephalopathy.",
+     "CD4 T cells are the target of HIV itself, not of the herpesvirus that drives this lymphoma.",
+     "Oligodendrocytes are the target in progressive multifocal leukoencephalopathy from JC virus, which is not a single enhancing mass with constitutional symptoms.",
      "",
-     "Endothelial-derived vascular tumors are linked to HHV-8 (Kaposi sarcoma), which is not suggested here.",
-     "Retinal involvement is characteristic of cytomegalovirus retinitis."
+     "A vascular tumor points to HHV-8 and Kaposi sarcoma, which presents as violaceous skin and mucosal plaques, not a brain mass.",
+     "Retinal involvement is the hallmark of CMV retinitis, not a periventricular brain mass."
     ],
-    "takeaway": "Primary CNS lymphoma in advanced HIV is driven by Epstein-Barr virus, a B-cell-tropic herpesvirus; EBV PCR of cerebrospinal fluid supports the diagnosis.",
+    "takeaway": "Primary CNS lymphoma in advanced HIV is driven by EBV, a B-cell-tropic DNA herpesvirus, and EBV PCR of the cerebrospinal fluid supports the diagnosis.",
     "topic": "Primary CNS lymphoma",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "Describe the opportunistic infections that act as agents of malignancy in HIV.",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "CD4 T cells are the target of HIV itself, not of the herpesvirus that drives this lymphoma.",
+      "if_right": "the virus in the CSF being HIV itself, which infects and depletes CD4 cells"
+     },
+     {
+      "choice": 1,
+      "why": "Oligodendrocytes are the target in progressive multifocal leukoencephalopathy from JC virus, which is not a single enhancing mass with constitutional symptoms.",
+      "if_right": "an AIDS patient with progressive multifocal leukoencephalopathy, caused by JC virus"
+     },
+     {
+      "choice": 3,
+      "why": "A vascular tumor points to HHV-8 and Kaposi sarcoma, which presents as violaceous skin and mucosal plaques, not a brain mass.",
+      "if_right": "violaceous irregular skin plaques with possible visceral spread"
+     },
+     {
+      "choice": 4,
+      "why": "Retinal involvement is the hallmark of CMV retinitis, not a periventricular brain mass.",
+      "if_right": "floaters and fluffy yellow-white retinal lesions at a CD4 below 50"
+     }
+    ],
+    "slides": {
+     "stem": [
+      45,
+      26
+     ],
+     "answer": [
+      45
+     ],
+     "distractors": [
+      4,
+      49,
+      46,
+      28
+     ]
+    },
+    "deck": "41 Opportunistic Infections in HIV"
    },
    "figures": [
     {
@@ -458,18 +1023,57 @@
    "answer": 1,
    "evidence": [],
    "explain": {
-    "html": "<p>Odynophagia that fails fluconazole, absent oral thrush and esophageal plaques, and biopsy showing large cells with intranuclear and intracytoplasmic inclusions identify cytomegalovirus esophagitis, diagnosed by endoscopy with biopsy. Candida esophagitis, the main alternative, shows plaques and responds to fluconazole.</p><p>CMV is a double-stranded DNA herpesvirus. Disease usually reflects reactivation at CD4 counts below 50, and treatment is intravenous ganciclovir or oral valganciclovir. CMV colitis presents with bloody diarrhea, abdominal pain, and fever and is diagnosed the same way.</p>",
-    "table": null,
+    "html": "<p>Odynophagia in advanced HIV has two main opportunistic causes in this lecture. <b>Candida esophagitis</b> causes odynophagia and retrosternal pain, may occur without visible thrush, shows plaques at endoscopy and responds to fluconazole. <b>CMV esophagitis</b> causes pain with swallowing at CD4 counts below 50 and is diagnosed by endoscopy with biopsy, where pathology shows <b>large cells with intranuclear and intracytoplasmic inclusions</b>. CMV colitis presents with bloody diarrhea, abdominal pain and fever and is diagnosed the same way.</p><p>This woman failed a week of fluconazole, has no thrush or esophageal plaques, and her biopsy shows inclusion-bearing enlarged cells, so the cause is cytomegalovirus. CMV is a <b>double-stranded DNA virus</b>, and the drug for it, <b>ganciclovir or valganciclovir</b>, acts against that virus.</p>",
+    "table": "<table><tr><th>Feature</th><th>Candida esophagitis</th><th>CMV esophagitis</th></tr><tr><td>Endoscopy</td><td>Plaques</td><td>Ulcers without plaques</td></tr><tr><td>Biopsy</td><td>Yeast on path and culture</td><td>Large cells with intranuclear and intracytoplasmic inclusions</td></tr><tr><td>Treatment</td><td>Fluconazole</td><td>Ganciclovir or valganciclovir</td></tr></table>",
     "why": [
-     "Positive-sense single-stranded RNA viruses do not cause this inclusion-cell esophagitis.",
+     "No virus with a positive-sense RNA genome is taught as a cause of inclusion-cell esophagitis in HIV.",
      "",
-     "This describes a retrovirus such as HIV, not the cause of the ulcers.",
-     "Partially double-stranded circular DNA describes hepatitis B virus.",
-     "Negative-sense RNA viruses are not the cause of this lesion."
+     "Single-stranded RNA with reverse transcriptase describes a retrovirus such as HIV itself, not the cause of the ulcers.",
+     "Partially double-stranded circular DNA is not the genome of CMV, which is double-stranded DNA.",
+     "No negative-sense RNA virus is taught as a cause of this esophagitis."
     ],
-    "takeaway": "CMV esophagitis presents with odynophagia and ulcers without plaques; biopsy shows large cells with intranuclear and intracytoplasmic inclusions, and the double-stranded DNA herpesvirus is treated with ganciclovir.",
+    "takeaway": "CMV esophagitis presents with odynophagia and ulcers without plaques, biopsy shows large cells with intranuclear and intracytoplasmic inclusions, and the double-stranded DNA herpesvirus is treated with ganciclovir.",
     "topic": "Esophagitis in advanced HIV",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "Describe the presentation, diagnosis, and treatment of the major opportunistic infections in HIV.",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "No virus with a positive-sense RNA genome is taught as a cause of inclusion-cell esophagitis in HIV.",
+      "if_right": "an esophagitis caused by a positive-sense RNA virus, which none of these opportunistic agents is"
+     },
+     {
+      "choice": 2,
+      "why": "Single-stranded RNA with reverse transcriptase describes a retrovirus such as HIV itself, not the cause of the ulcers.",
+      "if_right": "an infection with HIV itself, a retrovirus that integrates into the CD4 cell genome"
+     },
+     {
+      "choice": 3,
+      "why": "Partially double-stranded circular DNA is not the genome of CMV, which is double-stranded DNA.",
+      "if_right": "an infection by a virus with that genome, which is not one of the opportunistic agents covered here"
+     },
+     {
+      "choice": 4,
+      "why": "No negative-sense RNA virus is taught as a cause of this esophagitis.",
+      "if_right": "an esophagitis from a negative-sense RNA virus, which none of these opportunistic agents is"
+     }
+    ],
+    "slides": {
+     "stem": [
+      29,
+      35
+     ],
+     "answer": [
+      27
+     ],
+     "distractors": [
+      29,
+      4,
+      27,
+      29
+     ]
+    },
+    "deck": "41 Opportunistic Infections in HIV"
    },
    "figures": [
     {
@@ -494,18 +1098,57 @@
    "answer": 4,
    "evidence": [],
    "explain": {
-    "html": "<p>Prolonged non-bloody diarrhea with malabsorption and wasting at a CD4 count below 100 fits a protozoal opportunistic infection: cryptosporidiosis, microsporidiosis, or cystoisosporiasis, all acquired fecal-orally. Size on the modified acid-fast stain separates them: Cryptosporidium oocysts are small (5 to 7 micrometers), Cystoisospora oocysts are much larger (about 25 micrometers), and microsporidial spores are tiny (1 to 2 micrometers). Large red oocysts identify Cystoisospora.</p><p>Cystoisospora is treated with TMP-SMX. All three improve with immune reconstitution on antiretroviral therapy. Cryptosporidium has no reliably effective drug; nitazoxanide or paromomycin can be tried, always together with ART.</p>",
-    "table": null,
+    "html": "<p>Three protozoan infections cause <b>diarrheal opportunistic illness at CD4 below 100</b>: cryptosporidiosis, microsporidiosis and cystoisosporiasis. All are acquired fecal-orally by ingesting oocysts or spores and all cause prolonged non-bloody diarrhea, abdominal symptoms, fever, malabsorption and wasting. They are separated on stool studies by <b>size on the modified acid-fast stain</b>, which stains oocysts red: Cryptosporidium is 5 to 7 micrometers, <b>Cystoisospora is about 25 micrometers</b>, and microsporidial spores are 1 to 2 micrometers.</p><p>All three resolve with immune reconstitution on antiretroviral therapy. <b>Cystoisospora is treated with TMP-SMX</b>, while Cryptosporidium has inconsistent results with nitazoxanide or paromomycin, which can be used but always together with ART. This man's large 25 micrometer red oocysts with no small ones identify Cystoisospora, so TMP-SMX is added to ART.</p>",
+    "table": "<table><tr><th>Organism</th><th>Size on stain</th><th>Treatment besides ART</th></tr><tr><td>Cryptosporidium</td><td>5 to 7 micrometer oocysts</td><td>Nitazoxanide or paromomycin, inconsistent</td></tr><tr><td>Cystoisospora</td><td>About 25 micrometer oocysts</td><td>TMP-SMX</td></tr><tr><td>Microsporidia</td><td>1 to 2 micrometer spores</td><td>ART for immune reconstitution</td></tr></table>",
     "why": [
-     "Nitazoxanide is tried for Cryptosporidium, whose oocysts are much smaller.",
+     "Nitazoxanide is tried for Cryptosporidium, whose oocysts are 5 to 7 micrometers, not 25.",
      "Paromomycin is an inconsistent option for Cryptosporidium, not Cystoisospora.",
-     "Amphotericin B treats fungal disease such as cryptococcal meningitis, not protozoal diarrhea.",
-     "Fluconazole is an antifungal and has no role here.",
+     "Amphotericin B treats fungal infections such as cryptococcal meningitis and histoplasmosis, not protozoal diarrhea.",
+     "Fluconazole is an antifungal for Candida and Cryptococcus and has no role against a protozoan.",
      ""
     ],
-    "takeaway": "Among the protozoal diarrheas of AIDS (CD4 below 100), large (about 25 micrometer) acid-fast oocysts identify Cystoisospora, treated with TMP-SMX; small oocysts mean Cryptosporidium, which relies on ART.",
+    "takeaway": "Among AIDS protozoal diarrheas (CD4 below 100), large 25 micrometer acid-fast oocysts identify Cystoisospora, treated with TMP-SMX, whereas small oocysts mean Cryptosporidium, which depends on ART.",
     "topic": "Protozoal diarrhea in AIDS",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "Describe the presentation, diagnosis, and treatment of the major opportunistic infections in HIV.",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Nitazoxanide is tried for Cryptosporidium, whose oocysts are 5 to 7 micrometers, not 25.",
+      "if_right": "small 5 to 7 micrometer acid-fast oocysts in the stool"
+     },
+     {
+      "choice": 1,
+      "why": "Paromomycin is an inconsistent option for Cryptosporidium, not Cystoisospora.",
+      "if_right": "small 5 to 7 micrometer oocysts and a plan that always pairs the drug with ART"
+     },
+     {
+      "choice": 2,
+      "why": "Amphotericin B treats fungal infections such as cryptococcal meningitis and histoplasmosis, not protozoal diarrhea.",
+      "if_right": "subacute meningoencephalitis with high opening pressure and positive cryptococcal antigen"
+     },
+     {
+      "choice": 3,
+      "why": "Fluconazole is an antifungal for Candida and Cryptococcus and has no role against a protozoan.",
+      "if_right": "creamy wipeable oral plaques with yeast on KOH prep"
+     }
+    ],
+    "slides": {
+     "stem": [
+      37,
+      38
+     ],
+     "answer": [
+      39
+     ],
+     "distractors": [
+      39,
+      39,
+      23,
+      36
+     ]
+    },
+    "deck": "41 Opportunistic Infections in HIV"
    },
    "figures": [
     {
@@ -519,7 +1162,7 @@
    "id": "miid2-w08-lec41-q16",
    "source": "practice",
    "source_ref": "Written from the 2025-26 Lecture 41 slides",
-   "stem": "A 29-year-old woman is newly diagnosed with HIV infection. She has no symptoms. Antiretroviral therapy is started today. Baseline results:\n\nCD4 count (normal 500 to 1,500/mm3): 78/mm3\nToxoplasma IgG: Positive\nCryptococcal antigen: Negative\nGlucose-6-phosphate dehydrogenase: Normal\n\nShe has no drug allergies.\n\nWhich of the following is the most appropriate prophylaxis to start now?",
+   "stem": "A 29-year-old woman is newly diagnosed with HIV infection. She has no symptoms. Antiretroviral therapy is started today. Baseline results:\n\n[[labs 0]]\n\nShe has no drug allergies.\n\nWhich of the following is the most appropriate prophylaxis to start now?",
    "choices": [
     "Daily double-strength trimethoprim-sulfamethoxazole",
     "Weekly azithromycin plus daily fluconazole",
@@ -530,20 +1173,79 @@
    "answer": 0,
    "evidence": [],
    "explain": {
-    "html": "<p>Primary prophylaxis prevents opportunistic infections before they occur and starts when the CD4 count is below 200. Between 100 and 200 the target is Pneumocystis; between 50 and 100 the target is both toxoplasmosis and Pneumocystis, particularly in a Toxoplasma-seropositive patient like this one, since toxoplasmosis in HIV is reactivation of latent infection.</p><p>Double-strength TMP-SMX daily is preferred because a single drug covers both organisms. Below 50, MAC prophylaxis with weekly azithromycin is not needed if ART is being started, and there is no primary prophylaxis for cryptococcus, Candida, CMV, or the diarrheal protozoa. Prophylaxis can stop once the CD4 count stays above the threshold on effective ART for more than 3 months.</p>",
-    "table": "<table><tr><th>CD4 count</th><th>Cover</th><th>Preferred</th></tr><tr><td>100 to 200</td><td>Pneumocystis</td><td>TMP-SMX daily</td></tr><tr><td>50 to 100</td><td>Pneumocystis and toxoplasmosis</td><td>TMP-SMX DS daily</td></tr><tr><td>Below 50</td><td>MAC only if ART is not being started</td><td>Weekly azithromycin</td></tr></table>",
+    "html": "<p><b>Primary prophylaxis</b> prevents opportunistic infections before they happen and starts when the <b>CD4 count is below 200</b>. Coverage widens as the count falls. Between 100 and 200 the target is Pneumocystis, with TMP-SMX preferred. Between <b>50 and 100 the target is both toxoplasmosis and Pneumocystis</b>, and the preferred agent is <b>double-strength TMP-SMX daily</b> because one drug covers both. Below 50, MAC no longer needs coverage if ART is being started; otherwise weekly azithromycin 1200 mg is used. There is no primary prophylaxis for cryptococcus, Candida, CMV or the diarrheal protozoa.</p><p>This woman has a CD4 of 78, a positive Toxoplasma IgG (and toxoplasmosis in HIV is reactivation of that latent infection), a normal G6PD and no allergies, and she starts ART today. Daily double-strength TMP-SMX is therefore the single right choice, and prophylaxis can later stop once her CD4 stays above threshold on ART for more than 3 months.</p>",
+    "table": "<table><tr><th>CD4 count</th><th>Cover</th><th>Preferred</th></tr><tr><td>100 to 200</td><td>Pneumocystis</td><td>TMP-SMX daily</td></tr><tr><td>50 to 100</td><td>Pneumocystis and toxoplasmosis</td><td>TMP-SMX DS daily</td></tr><tr><td>Below 50</td><td>MAC only if ART is not being started</td><td>Weekly azithromycin 1200 mg</td></tr><tr><td>Any</td><td>No primary prophylaxis for cryptococcus, Candida, CMV, diarrheal protozoa</td><td>None</td></tr></table>",
     "why": [
      "",
-     "MAC prophylaxis is unnecessary when ART is starting, and routine fluconazole prophylaxis is not recommended.",
-     "Aerosolized pentamidine covers Pneumocystis only and does not protect against toxoplasmosis.",
+     "MAC coverage is unnecessary when ART is being started and her CD4 is above 50, and fluconazole is not given as primary prophylaxis.",
+     "Aerosolized pentamidine covers Pneumocystis only and leaves her Toxoplasma-seropositive brain unprotected.",
      "Primary prophylaxis for CMV is not recommended.",
-     "Her CD4 count is already below 200 and 100, so prophylaxis is indicated now."
+     "Prophylaxis starts below 200, and her count of 78 is already well below that threshold."
     ],
-    "takeaway": "At a CD4 count of 50 to 100, daily double-strength TMP-SMX is preferred primary prophylaxis because it covers both Pneumocystis and toxoplasmosis; MAC prophylaxis is unnecessary when ART is started.",
+    "takeaway": "At CD4 50 to 100, daily double-strength TMP-SMX is the preferred primary prophylaxis because it covers both Pneumocystis and toxoplasmosis, and MAC prophylaxis is unnecessary when ART is started.",
     "topic": "Primary prophylaxis by CD4 count",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "Describe primary and secondary prophylaxis for opportunistic infections in HIV.",
+    "rows": [
+     {
+      "choice": 1,
+      "why": "MAC coverage is unnecessary when ART is being started and her CD4 is above 50, and fluconazole is not given as primary prophylaxis.",
+      "if_right": "a CD4 below 50 in a patient who is not starting ART (azithromycin only)"
+     },
+     {
+      "choice": 2,
+      "why": "Aerosolized pentamidine covers Pneumocystis only and leaves her Toxoplasma-seropositive brain unprotected.",
+      "if_right": "a CD4 between 100 and 200 in a patient who cannot take TMP-SMX"
+     },
+     {
+      "choice": 3,
+      "why": "Primary prophylaxis for CMV is not recommended.",
+      "if_right": "a CMV infection that has already been treated, needing secondary prophylaxis"
+     },
+     {
+      "choice": 4,
+      "why": "Prophylaxis starts below 200, and her count of 78 is already well below that threshold.",
+      "if_right": "a CD4 count above 200"
+     }
+    ],
+    "slides": {
+     "stem": [
+      50,
+      51
+     ],
+     "answer": [
+      51
+     ],
+     "distractors": [
+      51,
+      50,
+      51,
+      50
+     ]
+    },
+    "deck": "41 Opportunistic Infections in HIV"
    },
-   "figures": []
+   "figures": [],
+   "labs": [
+    [
+     [
+      "CD4 count (normal 500 to 1,500/mm3)",
+      "78/mm3"
+     ],
+     [
+      "Toxoplasma IgG",
+      "Positive"
+     ],
+     [
+      "Cryptococcal antigen",
+      "Negative"
+     ],
+     [
+      "Glucose-6-phosphate dehydrogenase",
+      "Normal"
+     ]
+    ]
+   ]
   }
  ]
 }

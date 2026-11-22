@@ -20,18 +20,57 @@
    "answer": 1,
    "evidence": [],
    "explain": {
-    "html": "<p>A positive IGRA shows only that he has a mature T-cell response to <i>Mycobacterium tuberculosis</i>, which marks infection. With no symptoms and a normal chest radiograph there is no sign of disease, so this is latent tuberculosis infection (LTBI): organisms are present but contained, without symptoms or radiographic evidence of disease.</p><p>Transmission requires pulmonary TB disease, where organisms in the lung are aerosolized by coughing into droplet nuclei. LTBI is not infectious, and neither is extrapulmonary disease alone, so the coworkers are not contacts of an infectious case. He still deserves evaluation and treatment of LTBI to prevent later progression to disease.</p>",
+    "html": "<p>Tuberculosis has two states that are easy to blur. <b>Latent TB infection (LTBI)</b> is the presence of <i>M. tuberculosis</i> <b>without symptoms or radiographic evidence of disease</b>; TB disease is active illness. A <b>positive TST or IGRA</b> shows a mature T-cell response to the organism and is a <b>marker of infection</b>, not of disease. Transmission needs organisms in the lung aerosolized by coughing, so <b>LTBI is not infectious</b>, and neither is extrapulmonary disease alone.</p><p>This man has a positive IGRA, no symptoms and a clear chest radiograph, which is LTBI. His coworkers are not contacts of an infectious case and do not need testing on his account. He still deserves evaluation and treatment of LTBI, which is how future disease is prevented.</p>",
     "table": "<table><tr><th></th><th>LTBI</th><th>Pulmonary TB disease</th></tr><tr><td>TST or IGRA</td><td>Usually positive</td><td>Usually positive (may be negative if very ill)</td></tr><tr><td>Symptoms</td><td>None</td><td>Cough 3 weeks or more, fever, night sweats, weight loss</td></tr><tr><td>Chest radiograph</td><td>Normal</td><td>Usually abnormal</td></tr><tr><td>Infectious</td><td>No</td><td>Yes</td></tr></table>",
     "why": [
      "Pulmonary disease would usually bring symptoms or radiographic findings, and he has neither.",
      "",
-     "Nothing suggests an extrapulmonary site, and extrapulmonary TB without lung disease is not infectious.",
+     "Nothing suggests an extrapulmonary site, and extrapulmonary TB without lung disease is not infectious by any route.",
      "IGRAs are not affected by BCG vaccination, so the result cannot be dismissed that way.",
      "Reinfection is rare outside advanced immune deficiency, and there is no disease here to transmit."
     ],
     "takeaway": "Latent TB infection is a positive TST or IGRA without symptoms or radiographic disease, and it is not infectious.",
     "topic": "Latent TB infection vs TB disease",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "Understand Tuberculosis Terms: LTBI vs. TB Disease",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Pulmonary disease would usually bring symptoms or radiographic findings, and he has neither.",
+      "if_right": "a positive IGRA with weeks of cough, night sweats and an upper lobe opacity"
+     },
+     {
+      "choice": 2,
+      "why": "Nothing suggests an extrapulmonary site, and extrapulmonary TB without lung disease is not infectious by any route.",
+      "if_right": "a positive IGRA with a slowly enlarging neck node showing caseating granulomas"
+     },
+     {
+      "choice": 3,
+      "why": "IGRAs are not affected by BCG vaccination, so the result cannot be dismissed that way.",
+      "if_right": "a positive tuberculin skin test in someone vaccinated with BCG"
+     },
+     {
+      "choice": 4,
+      "why": "Reinfection is rare outside advanced immune deficiency, and there is no disease here to transmit.",
+      "if_right": "a patient with advanced HIV who develops new disease after a fresh exposure"
+     }
+    ],
+    "slides": {
+     "stem": [
+      16
+     ],
+     "answer": [
+      20,
+      13
+     ],
+     "distractors": [
+      13,
+      53,
+      33,
+      19
+     ]
+    },
+    "deck": "29 Tuberculosis"
    },
    "figures": []
   },
@@ -50,18 +89,57 @@
    "answer": 0,
    "evidence": [],
    "explain": {
-    "html": "<p>Infectiousness depends on how many organisms are in the lung and how well they are aerosolized. A cavity holds an enormous number of bacilli, and a positive sputum smear is itself a marker of a high organism load. Coughing turns those organisms into tiny droplet nuclei (1 to 10 micrometers) that stay airborne and travel long distances.</p><p>The others are low risk: extrapulmonary TB without lung disease and latent infection are not infectious, and infectiousness falls quickly once effective treatment starts, as in Patient 4.</p>",
-    "table": null,
+    "html": "<p>TB spreads person to person through the air in <b>tiny droplet nuclei of 1 to 10 micrometers</b>, which stay airborne and travel long distances; environmental surfaces carry minimal risk. Only <b>pulmonary TB disease</b> is infectious, and even then risk varies. <b>Infectiousness</b> depends on the <b>number of organisms in the lung</b> and how effectively they are <b>aerosolized</b>, mainly by coughing. Markers of more lung organisms are a <b>positive AFB sputum smear and cavities on imaging</b>. Room size, ventilation and length of exposure also matter, and infectiousness falls rapidly on effective treatment.</p><p>Patient 3 has a 2-month cough, a right upper lobe cavity and smears full of acid-fast bacilli, so he combines a high organism burden with coughing. The node disease and the positive skin test alone are not infectious, and Patient 4's risk has dropped on therapy. His contacts come first.</p>",
+    "table": "<table><tr><th>Patient</th><th>Infectious?</th><th>Why</th></tr><tr><td>1, lymph node TB</td><td>No</td><td>Extrapulmonary without lung disease</td></tr><tr><td>2, positive TST only</td><td>No</td><td>LTBI</td></tr><tr><td>3, cavity, smear positive, cough</td><td>Highest</td><td>High lung burden, aerosolized by cough</td></tr><tr><td>4, 4 weeks of therapy</td><td>Falling</td><td>Infectiousness drops on effective treatment</td></tr></table>",
     "why": [
      "",
      "Lymph node TB without pulmonary disease is not infectious.",
-     "Drug-resistant strains are not more infectious; delays in effective therapy are what increase their spread.",
+     "Resistance is not what makes a patient infectious; organism burden and aerosolization are.",
      "TB spreads by tiny airborne droplet nuclei, not large droplets, and surfaces carry minimal risk.",
-     "A skin test measures the host's immune response, not the virulence of the organism."
+     "A skin test measures the host's T-cell response, not the virulence of the organism."
     ],
     "takeaway": "TB transmission risk rises with pulmonary disease that has a high organism burden (positive smear, cavities) plus coughing, and falls rapidly on effective treatment.",
     "topic": "Determinants of TB transmission",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "“Contagiousness”: Transmission of Tuberculosis",
+    "rows": [
+     {
+      "choice": 1,
+      "why": "Lymph node TB without pulmonary disease is not infectious.",
+      "if_right": "a patient with node disease who also has a cavitary lung lesion and cough"
+     },
+     {
+      "choice": 2,
+      "why": "Resistance is not what makes a patient infectious; organism burden and aerosolization are.",
+      "if_right": "a stem asking why a resistant case is harder to cure, not why it spreads"
+     },
+     {
+      "choice": 3,
+      "why": "TB spreads by tiny airborne droplet nuclei, not large droplets, and surfaces carry minimal risk.",
+      "if_right": "an organism spread by droplet sprays, such as Mycoplasma pneumoniae"
+     },
+     {
+      "choice": 4,
+      "why": "A skin test measures the host's T-cell response, not the virulence of the organism.",
+      "if_right": "a stem asking what a positive TST shows about the host, a T-cell memory response"
+     }
+    ],
+    "slides": {
+     "stem": [
+      13
+     ],
+     "answer": [
+      13,
+      11
+     ],
+     "distractors": [
+      13,
+      13,
+      11,
+      29
+     ]
+    },
+    "deck": "29 Tuberculosis"
    },
    "figures": [
     {
@@ -86,18 +164,56 @@
    "answer": 2,
    "evidence": [],
    "explain": {
-    "html": "<p>The TST cutoff depends on who is being tested. A smaller threshold raises sensitivity, so it is used where missing an infection is most dangerous. HIV infection, close contact with an infectious case, organ transplant, other immune suppression and an old untreated TB scar all use 5 mm. Recent immigrants, people who inject drugs, health care workers and residents or employees of congregate settings such as nursing homes use 10 mm. A person with no known risk needs 15 mm.</p><p>The man with HIV has 6 mm, above his 5 mm cutoff. The nursing home employee (7 mm) and the immigrant (9 mm) fall below their 10 mm cutoff, and both people with no risk factors fall below 15 mm.</p>",
+    "html": "<p>The tuberculin skin test is read as <b>millimeters of induration at 48 to 72 hours</b>, and what counts as positive <b>depends on the population</b>. A <b>smaller threshold increases sensitivity</b>, so it is used where missing an infection is most dangerous. <b>5 mm</b> applies to HIV infection, close contacts of an infectious case, old untreated TB on radiograph, transplant recipients and other immune suppression. <b>10 mm</b> applies to recent immigrants, people who inject drugs, residents and employees of congregate settings, health care workers and children under 4. <b>15 mm</b> applies to people with no known TB risk.</p><p>The man with HIV has 6 mm, which clears his 5 mm cutoff. The nursing home employee (7 mm) and the immigrant (9 mm) fall short of 10 mm, and the two people with no risk factors fall short of 15 mm. Matching each person to a cutoff before reading the number avoids the trap of calling the biggest reaction positive.</p>",
     "table": "<table><tr><th>Cutoff</th><th>Who</th></tr><tr><td>5 mm or more</td><td>HIV, close contact of an infectious case, old untreated TB on radiograph, organ transplant, other immune suppression (TNF-alpha inhibitor, prednisone over 15 mg a day for a month), suspected TB disease</td></tr><tr><td>10 mm or more</td><td>Recent immigrants, people who inject drugs, congregate settings (jails, nursing homes), health care and mycobacteriology lab workers, children under 4</td></tr><tr><td>15 mm or more</td><td>No known TB risk</td></tr></table>",
     "why": [
      "With no risk factors the cutoff is 15 mm, so 8 mm is negative.",
-     "With no risk factors the cutoff is 15 mm, so 12 mm is negative.",
+     "With no risk factors the cutoff is 15 mm, so 12 mm is negative despite being the largest reading.",
      "",
      "Congregate-setting employees use a 10 mm cutoff, so 7 mm is negative.",
      "Recent immigrants use a 10 mm cutoff, so 9 mm is negative."
     ],
-    "takeaway": "The TST cutoff for a positive result (5, 10 or 15 mm) is set by the person's risk, with the lowest cutoff for the highest-risk groups.",
+    "takeaway": "The TST cutoff (5, 10 or 15 mm) is set by the person's risk, with 5 mm used for the highest-risk groups such as HIV infection.",
     "topic": "TST interpretation by risk group",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "TB Diagnostic tests- for TB infection (and TB Disease*)",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "With no risk factors the cutoff is 15 mm, so 8 mm is negative.",
+      "if_right": "an 8 mm reaction in a person with HIV or a close contact of an infectious case"
+     },
+     {
+      "choice": 1,
+      "why": "With no risk factors the cutoff is 15 mm, so 12 mm is negative despite being the largest reading.",
+      "if_right": "a 12 mm reaction in a recent immigrant or health care worker"
+     },
+     {
+      "choice": 3,
+      "why": "Congregate-setting employees use a 10 mm cutoff, so 7 mm is negative.",
+      "if_right": "a 7 mm reaction in a nursing home employee who is on a TNF-alpha inhibitor"
+     },
+     {
+      "choice": 4,
+      "why": "Recent immigrants use a 10 mm cutoff, so 9 mm is negative.",
+      "if_right": "a reaction of 10 mm or more in the same recent immigrant"
+     }
+    ],
+    "slides": {
+     "stem": [
+      30
+     ],
+     "answer": [
+      31
+     ],
+     "distractors": [
+      31,
+      31,
+      31,
+      31
+     ]
+    },
+    "deck": "29 Tuberculosis"
    },
    "figures": [
     {
@@ -122,18 +238,58 @@
    "answer": 2,
    "evidence": [],
    "explain": {
-    "html": "<p>The vaccine is bacille Calmette-Guerin (BCG), a modified <i>Mycobacterium bovis</i> strain that stimulates cell-mediated immunity and can make a tuberculin skin test positive. Her skin test result therefore cannot separate a vaccine effect from true infection.</p><p>An IGRA measures interferon-gamma released by her T cells in response to antigens that BCG and most nontuberculous mycobacteria do not share, so prior BCG does not cause a false positive. It also needs only one visit, which matters here. The lecture's rule is short: if there is a history of BCG, do an IGRA.</p>",
-    "table": null,
+    "html": "<p><b>BCG</b> is a modified <i>M. bovis</i> strain given where TB incidence is high to prevent overwhelming disease in infants and children. It <b>stimulates cell-mediated immunity</b> to TB and can cause a <b>positive TST</b>, although the effect often wanes over time. An <b>IGRA</b> measures interferon-gamma from antigen-specific T cells, is <b>not affected by BCG</b> or most NTM, and needs <b>only one visit</b>, while the TST needs two or more. The rule for choosing a test is <b>IGRA if prior BCG, or low likelihood to return for a TST reading</b>.</p><p>She has a vaccination scar from birth, a prior 13 mm TST that cannot be separated from a BCG effect, and a 90-minute trip that makes a return visit unlikely. Both features point to an IGRA. Sputum testing is for suspected disease, which she does not have.</p>",
+    "table": "<table><tr><th></th><th>TST</th><th>IGRA</th></tr><tr><td>Visits</td><td>2 or more</td><td>One</td></tr><tr><td>Prior BCG</td><td>Possible false positive</td><td>Not affected</td></tr><tr><td>NTM</td><td>Possible false positive</td><td>Most do not cause one</td></tr><tr><td>Booster reaction</td><td>Yes</td><td>Should not occur</td></tr><tr><td>Reading</td><td>Subjective</td><td>Done in lab</td></tr><tr><td>Negative result</td><td>Does not exclude TB</td><td>Does not exclude TB</td></tr></table>",
     "why": [
-     "A repeat skin test still cannot separate a BCG effect from infection and needs a return visit.",
+     "A repeat skin test still cannot separate a BCG effect from infection and needs a return visit she is unlikely to make.",
      "Two-step testing addresses boosting, not BCG cross-reactivity, and needs even more visits.",
      "",
-     "Sputum testing looks for disease, and she has no symptoms.",
-     "CT is not recommended as an initial screening test for TB infection."
+     "Sputum testing looks for TB disease, and she has no symptoms.",
+     "CT is not recommended as an initial screening test for those being evaluated for TB."
     ],
-    "takeaway": "BCG can cause a false-positive tuberculin skin test; an IGRA is preferred in anyone with prior BCG or who may not return for a TST reading.",
+    "takeaway": "BCG can cause a false-positive TST, so an IGRA is preferred in anyone with prior BCG or who may not return for a TST reading.",
     "topic": "BCG vaccination and choice of TB test",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "BCG vaccine",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "A repeat skin test still cannot separate a BCG effect from infection and needs a return visit she is unlikely to make.",
+      "if_right": "a person with no BCG history who can easily return in 48 to 72 hours"
+     },
+     {
+      "choice": 1,
+      "why": "Two-step testing addresses boosting, not BCG cross-reactivity, and needs even more visits.",
+      "if_right": "a new employee with no BCG who will have repeated TSTs over time"
+     },
+     {
+      "choice": 3,
+      "why": "Sputum testing looks for TB disease, and she has no symptoms.",
+      "if_right": "a positive test plus cough, fever or an abnormal chest radiograph"
+     },
+     {
+      "choice": 4,
+      "why": "CT is not recommended as an initial screening test for those being evaluated for TB.",
+      "if_right": "a patient with a positive test and a normal radiograph who needs more sensitive imaging"
+     }
+    ],
+    "slides": {
+     "stem": [
+      36
+     ],
+     "answer": [
+      35,
+      36,
+      33
+     ],
+     "distractors": [
+      34,
+      32,
+      40,
+      48
+     ]
+    },
+    "deck": "29 Tuberculosis"
    },
    "figures": [
     {
@@ -158,18 +314,56 @@
    "answer": 3,
    "evidence": [],
    "explain": {
-    "html": "<p>Years after infection, the T-cell response to <i>Mycobacterium tuberculosis</i> can wane, so the first skin test may be falsely negative. The antigens in that first test can boost the response, so a second test placed soon afterward is positive.</p><p>This is the boosting phenomenon, and it is why two-step testing is done at baseline for people who will be tested repeatedly. Read without the two-step context, the second result could be mistaken for a new infection (a conversion). Here, the most likely explanation is an old infection that was boosted, not a new one in a two-week window with no exposure.</p>",
+    "html": "<p>Some people infected long ago have a <b>negative TST</b> because their <b>T-cell response has waned</b> over the years. The antigens in that first test can <b>boost the reaction</b>, so a second TST placed soon after is positive. Read on its own, that second result can be <b>misinterpreted as a new infection (a conversion)</b> rather than a boosted reaction. That is why <b>two-step testing</b> is done at baseline for people, such as health care workers, who will be tested repeatedly.</p><p>He emigrated 30 years ago, his first test was 3 mm and the second, two weeks later, was 14 mm, with no exposure in between and a normal radiograph. That pattern is a boosted response to remote infection, and his true baseline is the second result. IGRAs should not show a booster reaction.</p>",
     "table": null,
     "why": [
-     "He had no exposure, and a new infection takes weeks to produce a positive test.",
-     "Some nontuberculous mycobacteria can cross-react, but that would not explain a jump within two weeks of a first test.",
-     "The skin test reads a T-cell (delayed-type) response, not antibody.",
+     "He had no exposure in the two weeks, and the pattern after a first test fits boosting rather than conversion.",
+     "Some NTM can cause a false-positive TST, but that does not explain a jump right after a first test.",
+     "The TST reads a T-cell (delayed-type) response, not antibody.",
      "",
-     "Tuberculin is a purified protein derivative and cannot cause infection."
+     "Tuberculin is a purified protein derivative and cannot cause infection or disease."
     ],
-    "takeaway": "Remote TB infection can give a falsely negative first TST that boosts on retesting; two-step testing prevents a boosted reaction from being called a new conversion.",
+    "takeaway": "Remote TB infection can give a falsely negative first TST that boosts on retesting, so two-step testing prevents a boosted reaction from being read as a new conversion.",
     "topic": "Boosting and two-step testing",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "TB Diagnostic tests- for TB infection (and TB Disease*)",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "He had no exposure in the two weeks, and the pattern after a first test fits boosting rather than conversion.",
+      "if_right": "a documented negative two-step baseline followed by a positive test after a known exposure"
+     },
+     {
+      "choice": 1,
+      "why": "Some NTM can cause a false-positive TST, but that does not explain a jump right after a first test.",
+      "if_right": "a positive TST with a negative IGRA in someone with NTM exposure"
+     },
+     {
+      "choice": 2,
+      "why": "The TST reads a T-cell (delayed-type) response, not antibody.",
+      "if_right": "a serologic assay, which reads circulating antibody rather than a T-cell response"
+     },
+     {
+      "choice": 4,
+      "why": "Tuberculin is a purified protein derivative and cannot cause infection or disease.",
+      "if_right": "a live vaccine strain such as BCG, not a purified skin test reagent"
+     }
+    ],
+    "slides": {
+     "stem": [
+      32
+     ],
+     "answer": [
+      32
+     ],
+     "distractors": [
+      32,
+      29,
+      30,
+      30
+     ]
+    },
+    "deck": "29 Tuberculosis"
    },
    "figures": [
     {
@@ -194,18 +388,57 @@
    "answer": 2,
    "evidence": [],
    "explain": {
-    "html": "<p>A positive TB test is followed by a history, examination and chest radiograph to look for disease. She has the symptoms of pulmonary TB (cough 3 weeks or more, fever, night sweats, weight loss) and an abnormal radiograph, so she needs testing for active disease: three sputum specimens at least 8 hours apart for acid-fast smear and culture, plus at least one nucleic acid amplification test (NAAT).</p><p>The lecture is explicit: do not treat for latent infection if there is concern for TB disease. Single-drug latent regimens given to a person with active disease are inadequate and can select for resistance.</p>",
+    "html": "<p>Everyone with a positive TB test is evaluated for disease with a <b>history, physical exam and chest radiograph</b>. If there are <b>symptoms or an abnormal CXR</b>, testing must exclude active disease: <b>three sputum specimens at least 8 hours apart</b> for AFB smear and culture, plus <b>at least one NAAT</b>. Pulmonary TB symptoms include a productive cough of 3 weeks or more, chest pain and hemoptysis, with systemic fever, night sweats and weight loss. The lecture is explicit: <b>do not treat for LTBI if there is concern for TB disease</b>, and treatment of disease is always combination therapy.</p><p>She has 5 weeks of productive cough, night sweats, weight loss, fever and right upper lobe opacities. That is suspected pulmonary TB, so the planned latent-infection treatment must wait while sputum is collected.</p>",
     "table": null,
     "why": [
-     "Latent-infection treatment must not be given when disease is suspected.",
-     "Repeating the assay adds nothing; she needs evaluation for disease.",
+     "Latent-infection treatment must not be given when disease is suspected, and she has symptoms and an abnormal film.",
+     "Repeating the assay adds nothing; the question is disease, which immune tests cannot answer.",
      "",
-     "Doing both TST and IGRA is not routinely recommended, and neither test separates infection from disease.",
-     "A single drug is never adequate for suspected TB disease."
+     "Doing both TST and IGRA is not routinely recommended, and neither separates infection from disease.",
+     "Treatment of TB disease is always combination therapy, so one drug is never adequate here."
     ],
-    "takeaway": "After a positive TST or IGRA, symptoms or an abnormal chest radiograph require sputum testing for TB disease; never treat as latent infection when disease is suspected.",
+    "takeaway": "After a positive TST or IGRA, symptoms or an abnormal chest radiograph require sputum smears, cultures and a NAAT, and LTBI is never treated when disease is suspected.",
     "topic": "Evaluating a positive TB test",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "Diagnosis (and Treatment*) of TB Disease",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Latent-infection treatment must not be given when disease is suspected, and she has symptoms and an abnormal film.",
+      "if_right": "a positive IGRA with no symptoms and a normal chest radiograph"
+     },
+     {
+      "choice": 1,
+      "why": "Repeating the assay adds nothing; the question is disease, which immune tests cannot answer.",
+      "if_right": "an indeterminate or borderline first IGRA in a well person"
+     },
+     {
+      "choice": 3,
+      "why": "Doing both TST and IGRA is not routinely recommended, and neither separates infection from disease.",
+      "if_right": "a well person being screened for latent infection who needs one test, TST or IGRA"
+     },
+     {
+      "choice": 4,
+      "why": "Treatment of TB disease is always combination therapy, so one drug is never adequate here.",
+      "if_right": "a well person with LTBI and no concern for disease"
+     }
+    ],
+    "slides": {
+     "stem": [
+      46
+     ],
+     "answer": [
+      40,
+      49
+     ],
+     "distractors": [
+      40,
+      40,
+      35,
+      50
+     ]
+    },
+    "deck": "29 Tuberculosis"
    },
    "figures": []
   },
@@ -224,18 +457,56 @@
    "answer": 4,
    "evidence": [],
    "explain": {
-    "html": "<p>Latent infection stays latent because T-cell mediated immunity keeps the organism contained in granulomas. Anything that weakens that immunity raises the risk of progression, and the lecture ranks the risks. Advanced, untreated HIV infection carries the highest relative risk (around 10 times), followed by recent close contact with an infectious case and an old, untreated TB scar on chest radiograph.</p><p>Smoking, diabetes (higher mainly when poorly controlled), chronic renal failure and malnutrition all raise the risk, but far less. Patient E should be treated first.</p>",
-    "table": null,
+    "html": "<p>Evaluating a positive TB test has a goal beyond finding disease: <b>identify LTBI with a higher risk of progression</b>, because those people gain the most from treatment and get the highest priority. Latent infection stays latent because T-cell immunity contains it, so conditions that weaken immunity raise the risk. The lecture's ranking puts <b>advanced, untreated HIV infection</b> at the top (relative risk about 10), followed by <b>recent close contact</b> with infectious TB (6.1) and an <b>old healed, never treated TB scar</b> on CXR (5.2). Below them are prednisone over 15 mg a day, chronic renal failure (2.4), TNF-alpha inhibitors, poorly controlled diabetes (1.7), malnutrition over 10% under ideal weight (1.6) and smoking (1.5).</p><p>Patient E's untreated HIV with a low CD4 count dwarfs the others. Patient D is only 8% underweight, below the malnutrition threshold, and B's diabetes is well controlled. Treat Patient E first.</p>",
+    "table": "<table><tr><th>Risk factor</th><th>Relative risk</th></tr><tr><td>Advanced, untreated HIV</td><td>9.5 to 9.9</td></tr><tr><td>Close contact with infectious TB</td><td>6.1</td></tr><tr><td>Old healed TB on CXR, never treated</td><td>5.2</td></tr><tr><td>Prednisone over 15 mg/day for over 2 weeks</td><td>2.8</td></tr><tr><td>Chronic renal failure</td><td>2.4</td></tr><tr><td>TNF-alpha inhibitor</td><td>2.0 or more</td></tr><tr><td>Poorly controlled diabetes</td><td>1.7</td></tr><tr><td>Malnutrition (over 10% under ideal weight)</td><td>1.6</td></tr><tr><td>Smoking</td><td>1.5</td></tr></table>",
     "why": [
-     "Smoking raises risk only modestly (about 1.5 times).",
-     "Diabetes raises risk modestly, mostly when poorly controlled.",
-     "Chronic renal failure roughly doubles the risk, well below HIV.",
-     "Malnutrition counts at more than 10% under ideal weight and raises risk only modestly.",
+     "Smoking carries the lowest listed relative risk, about 1.5.",
+     "Diabetes raises risk modestly (1.7) and mainly when poorly controlled, and hers is well controlled.",
+     "Chronic renal failure raises risk only about 2.4 times, far below untreated HIV.",
+     "Malnutrition counts only above 10% under ideal weight, so 8% does not even meet the definition.",
      ""
     ],
     "takeaway": "Advanced untreated HIV is the strongest risk factor for progression from latent TB infection to disease, followed by recent close contact and an untreated old TB scar.",
     "topic": "Risk of progression from LTBI to disease",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "Diagnosis (and Treatment*) of LTBI",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Smoking carries the lowest listed relative risk, about 1.5.",
+      "if_right": "a list in which every other patient had no risk factor at all"
+     },
+     {
+      "choice": 1,
+      "why": "Diabetes raises risk modestly (1.7) and mainly when poorly controlled, and hers is well controlled.",
+      "if_right": "a list without HIV, contacts or old scars, where poorly controlled diabetes is the top factor"
+     },
+     {
+      "choice": 2,
+      "why": "Chronic renal failure raises risk only about 2.4 times, far below untreated HIV.",
+      "if_right": "a list whose other patients were smokers or had well-controlled diabetes"
+     },
+     {
+      "choice": 3,
+      "why": "Malnutrition counts only above 10% under ideal weight, so 8% does not even meet the definition.",
+      "if_right": "a patient more than 10% under ideal body weight compared with smokers"
+     }
+    ],
+    "slides": {
+     "stem": [
+      38
+     ],
+     "answer": [
+      42
+     ],
+     "distractors": [
+      42,
+      42,
+      42,
+      42
+     ]
+    },
+    "deck": "29 Tuberculosis"
    },
    "figures": []
   },
@@ -254,18 +525,58 @@
    "answer": 2,
    "evidence": [],
    "explain": {
-    "html": "<p>She has extrapulmonary TB in a cervical lymph node, the most common extrapulmonary site in the United States. Extrapulmonary TB is more frequent in immune suppressed patients, including those on TNF-alpha inhibitors and those with HIV, and its diagnosis is often delayed because specimens are harder to obtain.</p><p>Transmission requires organisms in the lungs aerosolized by coughing. Extrapulmonary TB without pulmonary disease is not infectious, so her family is not at risk from her. Her household may still deserve evaluation as people who share her exposures, but not as contacts of an infectious case.</p>",
+    "html": "<p>About 70% of US TB cases are pulmonary only, 18% are extrapulmonary only and 11% are both, and among extrapulmonary sites <b>lymphatic disease is the most common</b>. <b>Extrapulmonary TB</b> is more frequent in the <b>immune suppressed, including people on TNF inhibitors</b> and with HIV, and its diagnosis is often late because specimens are harder to get. Transmission requires organisms in the lung aerosolized by coughing, so <b>extrapulmonary TB without pulmonary TB is non-infectious</b>. Surfaces carry minimal risk.</p><p>She has a cervical node with caseating granulomas growing <i>M. tuberculosis</i>, no cough and a normal chest radiograph, and she takes a TNF-alpha inhibitor. Her family cannot catch TB from her, because there is <b>no lung disease</b> to aerosolize. Household members may still be evaluated because they may share her exposures, not as contacts of an infectious case.</p>",
     "table": null,
     "why": [
      "Masking is for infectious pulmonary disease, which she does not have.",
-     "Environmental surfaces carry minimal TB risk; transmission is airborne.",
+     "Environmental surfaces carry minimal TB risk, and transmission is airborne from the lungs.",
      "",
-     "Lymph node TB does not spread person to person.",
-     "M. tuberculosis is acquired by inhaling droplet nuclei, not from food."
+     "Lymph node TB does not spread person to person, so her children are not her contacts.",
+     "M. tuberculosis has human reservoirs and spreads by airborne droplet nuclei, not food."
     ],
-    "takeaway": "Extrapulmonary TB (lymph node is the most common site) is more frequent with immune suppression and is not infectious without pulmonary disease.",
+    "takeaway": "Extrapulmonary TB, most often lymphatic, is more frequent with immune suppression such as TNF inhibitors and is not infectious without pulmonary disease.",
     "topic": "Extrapulmonary TB",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "“Contagiousness”: Transmission of Tuberculosis",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Masking is for infectious pulmonary disease, which she does not have.",
+      "if_right": "a patient with smear-positive cavitary lung disease and cough"
+     },
+     {
+      "choice": 1,
+      "why": "Environmental surfaces carry minimal TB risk, and transmission is airborne from the lungs.",
+      "if_right": "an organism that persists on fomites, such as Enterococcus on hospital surfaces"
+     },
+     {
+      "choice": 3,
+      "why": "Lymph node TB does not spread person to person, so her children are not her contacts.",
+      "if_right": "a child living with an adult who has infectious pulmonary TB"
+     },
+     {
+      "choice": 4,
+      "why": "M. tuberculosis has human reservoirs and spreads by airborne droplet nuclei, not food.",
+      "if_right": "infection from drinking unpasteurized milk from tuberculous cows (M. bovis)"
+     }
+    ],
+    "slides": {
+     "stem": [
+      51,
+      53
+     ],
+     "answer": [
+      53,
+      13
+     ],
+     "distractors": [
+      13,
+      11,
+      13,
+      10
+     ]
+    },
+    "deck": "29 Tuberculosis"
    },
    "figures": [
     {
@@ -290,18 +601,56 @@
    "answer": 0,
    "evidence": [],
    "explain": {
-    "html": "<p>The lecture makes two points about the chest radiograph. A normal film in a person with no symptoms makes pulmonary TB very unlikely. But a radiograph cannot distinguish inactive, old healed pulmonary TB from active disease.</p><p>He has symptoms (cough, weight loss) and an abnormal film, so his scarring cannot be called old and inactive on appearance. He needs sputum specimens for acid-fast smear, culture and a nucleic acid test. Prior treatment with relapse is also a setting where drug resistance becomes a concern.</p>",
+    "html": "<p>The chest radiograph has a clear role and a clear limit. A <b>normal CXR with no symptoms makes pulmonary TB very unlikely</b>, although TB can occur with a negative film and symptoms may be subtle. CT is more sensitive but is not the initial screening test. Most important, <b>a CXR cannot distinguish inactive, old healed TB from active pulmonary TB</b>. So anyone with <b>symptoms or an abnormal film</b> after a positive test needs <b>sputum smears, cultures and NAATs</b>.</p><p>He has 6 weeks of cough, weight loss, a positive IGRA and left upper lobe fibrosis with calcified nodules, with no old films for comparison. The scarring might be from his teenage TB, or the disease might be active again, and the film cannot tell which. Sputum testing settles it.</p>",
     "table": null,
     "why": [
      "",
-     "Scarring cannot be called inactive on a film alone, especially with symptoms.",
-     "Radiographic findings alone do not confirm active disease.",
-     "Immune-based tests measure infection and he is already IGRA positive; they do not assess disease.",
-     "The radiograph cannot identify the species, and NTM can look like TB."
+     "Scarring cannot be called inactive on a film alone, especially in a man with cough and weight loss.",
+     "A radiograph cannot establish active disease by itself, and treatment of disease begins after specimens are sent.",
+     "Immune-based tests measure infection, which his IGRA already shows; they do not assess disease.",
+     "A radiograph cannot identify the species, and NTM manifestations overlap with TB."
     ],
-    "takeaway": "A chest radiograph cannot distinguish old healed TB from active TB; symptoms or abnormal films need sputum smear, culture and NAAT.",
+    "takeaway": "A chest radiograph cannot distinguish old healed TB from active TB, so symptoms or an abnormal film require sputum smear, culture and NAAT.",
     "topic": "Chest radiograph in TB evaluation",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "Diagnosis (and Treatment*) of TB Disease",
+    "rows": [
+     {
+      "choice": 1,
+      "why": "Scarring cannot be called inactive on a film alone, especially in a man with cough and weight loss.",
+      "if_right": "a well person with no symptoms whose current film matches an unchanged older film"
+     },
+     {
+      "choice": 2,
+      "why": "A radiograph cannot establish active disease by itself, and treatment of disease begins after specimens are sent.",
+      "if_right": "a very ill patient with high suspicion, started on therapy right after sputum is collected"
+     },
+     {
+      "choice": 3,
+      "why": "Immune-based tests measure infection, which his IGRA already shows; they do not assess disease.",
+      "if_right": "a well person being screened for TB infection, where TST or IGRA is the test"
+     },
+     {
+      "choice": 4,
+      "why": "A radiograph cannot identify the species, and NTM manifestations overlap with TB.",
+      "if_right": "culture identifying a nontuberculous mycobacterium"
+     }
+    ],
+    "slides": {
+     "stem": [
+      46
+     ],
+     "answer": [
+      48
+     ],
+     "distractors": [
+      48,
+      50,
+      29,
+      10
+     ]
+    },
+    "deck": "29 Tuberculosis"
    },
    "figures": [
     {
@@ -326,18 +675,57 @@
    "answer": 4,
    "evidence": [],
    "explain": {
-    "html": "<p>Young children are at high risk of progressing to disease after infection, and the diagnosis of TB disease is harder in them. This child is a close household contact of an infectious case and now has cough, poor growth and an abnormal radiograph, so he needs specimens to confirm pulmonary disease.</p><p>When a patient cannot cough up a quality sputum specimen, the options are sputum induction with nebulized saline, bronchoscopy or gastric aspiration, and gastric aspiration is preferred in infants and younger children. Young children swallow their respiratory secretions, so the stomach contents carry organisms from the lung.</p>",
-    "table": null,
+    "html": "<p>Diagnosis of pulmonary TB rests on <b>sputum</b>: three specimens at least 8 hours apart for AFB smear and culture, plus at least one NAAT, collected with airborne precautions. When a patient <b>cannot cough up a quality specimen</b>, the options are <b>sputum induction with nebulized saline, bronchoscopy or gastric aspiration</b>. <b>Gastric aspiration is preferred in infants and younger children</b>. Very young children have a <b>high risk of disease after infection</b>, and diagnosis is harder in them.</p><p>This 3-year-old lives with a grandfather who has smear-positive cavitary TB and now has cough, poor weight gain, hilar adenopathy and a lung opacity. He cannot produce sputum, so an early-morning gastric aspirate is the specimen to send. The other choices do not sample the lungs.</p>",
+    "table": "<table><tr><th>Can the patient produce sputum?</th><th>Specimen</th></tr><tr><td>Yes</td><td>3 sputum samples at least 8 hours apart, plus NAAT</td></tr><tr><td>No, adult or older child</td><td>Sputum induction with nebulized saline or bronchoscopy</td></tr><tr><td>No, infant or young child</td><td>Gastric aspiration (preferred)</td></tr></table>",
     "why": [
      "There are no signs of meningitis, and spinal fluid does not sample the lungs.",
-     "Blood cultures are not the specimen for suspected pulmonary TB.",
+     "Blood culture is not among the specimen options for suspected pulmonary TB.",
      "Urine samples the genitourinary tract, not the lungs.",
-     "A throat swab does not sample the lower respiratory tract.",
+     "A throat swab does not sample the lower respiratory tract and is not a listed option.",
      ""
     ],
-    "takeaway": "When sputum cannot be produced, options are induction, bronchoscopy or gastric aspiration, which is preferred in infants and young children.",
+    "takeaway": "When sputum cannot be produced, options are induction, bronchoscopy or gastric aspiration, and gastric aspiration is preferred in infants and young children.",
     "topic": "Diagnosing TB in young children",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "Diagnosis (and Treatment*) of TB Disease",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "There are no signs of meningitis, and spinal fluid does not sample the lungs.",
+      "if_right": "a child with suspected meningeal TB"
+     },
+     {
+      "choice": 1,
+      "why": "Blood culture is not among the specimen options for suspected pulmonary TB.",
+      "if_right": "advanced HIV with disseminated MAC spreading to the bone marrow, not a lung specimen"
+     },
+     {
+      "choice": 2,
+      "why": "Urine samples the genitourinary tract, not the lungs.",
+      "if_right": "suspected genitourinary TB"
+     },
+     {
+      "choice": 3,
+      "why": "A throat swab does not sample the lower respiratory tract and is not a listed option.",
+      "if_right": "an upper airway infection sampled from the throat"
+     }
+    ],
+    "slides": {
+     "stem": [
+      43,
+      13
+     ],
+     "answer": [
+      49
+     ],
+     "distractors": [
+      51,
+      49,
+      51,
+      49
+     ]
+    },
+    "deck": "29 Tuberculosis"
    },
    "figures": []
   },
@@ -356,18 +744,59 @@
    "answer": 1,
    "evidence": [],
    "explain": {
-    "html": "<p>Her skin test showed she already had latent infection. Control of latent infection depends on cell-mediated immunity: dendritic cells release interleukin-12 to drive Th1 cells, Th1 cells make interferon-gamma to activate macrophages, and cytokines such as tumor necrosis factor alpha keep infected macrophages walled off in granulomas.</p><p>The lecture lists treatment with a TNF-alpha inhibitor as a risk factor for progression from latent infection to disease, and its cytokine slide stresses the consequences of cytokine inhibitors. Losing TNF-alpha lets the granuloma break down, which is why she has poorly formed granulomas and disseminated disease. It is also why a 7 mm skin test counts as positive (5 mm or more) in someone on these drugs.</p>",
+    "html": "<p>After infection, most people control <i>M. tuberculosis</i> as <b>specific T-cell mediated immunity</b> develops, and the organism is held in the <b>granuloma</b>. Mycobacteria are intracellular pathogens of macrophages: <b>dendritic cells make IL-12</b>, which drives Th1 cells, and <b>Th1 cells make interferon-gamma</b>, which activates macrophages, while IL-2 supports cytotoxic T cells. The lecture stresses the <b>consequences of cytokine inhibitors</b>, and its risk table lists <b>treatment with a TNF-alpha inhibitor</b> as a risk for progression from LTBI to disease. Lifelong reactivation risk rises whenever local or systemic immune function weakens.</p><p>Her pretreatment TST of 7 mm was already positive for someone about to start immune suppression (5 mm cutoff), so she had LTBI that was never treated. Five months on a biologic, she has miliary disease with poorly formed granulomas full of bacilli, the picture of a granuloma that lost its cytokine support. Screen and treat LTBI before starting these drugs.</p>",
     "table": null,
     "why": [
-     "Antibody is not the main defense against an intracellular organism living in macrophages.",
+     "Antibody is not the main defense against an organism that lives inside macrophages; control is cell mediated.",
      "",
-     "Complement does not lyse mycobacteria, whose waxy wall resists it.",
-     "Neutrophils are not the cells that contain latent TB.",
-     "Mucociliary clearance acts at the first exposure, not in reactivation of established infection."
+     "Containment of TB depends on T cells and macrophages in granulomas, not complement lysis of the waxy wall.",
+     "Neutrophils are not the cells that hold latent TB; Th1 cytokines and activated macrophages do.",
+     "Mucociliary clearance acts at first exposure, not in reactivation of an established latent infection."
     ],
-    "takeaway": "Cell-mediated immunity (IL-12, interferon-gamma, TNF-alpha) holds TB in granulomas; cytokine inhibitors such as TNF-alpha blockers raise the risk of reactivation.",
+    "takeaway": "Cell-mediated immunity (IL-12, interferon-gamma, TNF-alpha) holds TB in granulomas, so TNF-alpha inhibitors raise the risk of progression from latent infection to disease.",
     "topic": "Granuloma and cytokines in TB immunity",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "Natural History of TB Infection and Disease",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Antibody is not the main defense against an organism that lives inside macrophages; control is cell mediated.",
+      "if_right": "an extracellular pathogen blocked by vaccine-induced antibody, not one living in macrophages"
+     },
+     {
+      "choice": 2,
+      "why": "Containment of TB depends on T cells and macrophages in granulomas, not complement lysis of the waxy wall.",
+      "if_right": "recurrent meningococcal infection in a patient with a late complement (C5 to C9) deficiency"
+     },
+     {
+      "choice": 3,
+      "why": "Neutrophils are not the cells that hold latent TB; Th1 cytokines and activated macrophages do.",
+      "if_right": "early clearance of extracellular bacteria from the alveoli before any granuloma forms"
+     },
+     {
+      "choice": 4,
+      "why": "Mucociliary clearance acts at first exposure, not in reactivation of an established latent infection.",
+      "if_right": "an exposed contact who never becomes infected because inhaled droplet nuclei were cleared"
+     }
+    ],
+    "slides": {
+     "stem": [
+      31,
+      42
+     ],
+     "answer": [
+      18,
+      17,
+      42
+     ],
+     "distractors": [
+      18,
+      17,
+      18,
+      16
+     ]
+    },
+    "deck": "29 Tuberculosis"
    },
    "figures": [
     {
@@ -392,18 +821,58 @@
    "answer": 3,
    "evidence": [],
    "explain": {
-    "html": "<p>The tiny nodules throughout both lungs and the positive smear and NAAT establish disseminated TB disease. Both the TST and the IGRA measure the host's immune response to TB, not the organism itself. The TST reads delayed-type hypersensitivity, and the IGRA requires antigen-specific CD4 or CD8 T cells to release interferon-gamma.</p><p>With a CD4 count of 40, he is anergic and cannot mount that response, and severe TB disease itself can also suppress it. This is why a negative TST or IGRA never excludes TB infection or disease, and why diagnosis of disease rests on smears, cultures and NAATs.</p>",
+    "html": "<p>The TST and IGRA are <b>different ways of measuring the same response</b>: both measure the <b>host immune response to TB, not the organism</b>. The TST reads delayed-type hypersensitivity to injected PPD, and the IGRA <b>requires antigen-specific CD4 or CD8 cells</b> to release interferon-gamma. So both fail when the response fails: TST false negatives come from <b>anergy</b>, very recent infection and severe TB disease, and IGRAs may be <b>indeterminate or falsely negative with impaired immunity or severe disease</b>. For both, a <b>negative result does not exclude TB</b> infection or disease.</p><p>He has a CD4 count of 40 and disseminated disease confirmed by smear and NAAT, yet 0 mm on TST and an indeterminate IGRA. Too few working T cells explain both results. Disease is diagnosed with smears, cultures and NAATs, not immune tests.</p>",
     "table": null,
     "why": [
-     "The organism is confirmed M. tuberculosis, which carries the test antigens.",
-     "BCG makes a TST falsely positive, not negative, and does not affect IGRAs.",
-     "Neither test depends on antibody.",
+     "The organism is confirmed M. tuberculosis, which carries the antigens both tests use.",
+     "BCG can make a TST falsely positive, not negative, and does not affect IGRAs.",
+     "Neither test depends on antibody; both read T-cell responses.",
      "",
-     "He has disseminated disease, not contained infection, and the tests read circulating T cells."
+     "He has disseminated disease, not contained infection, and both tests read circulating T cells."
     ],
-    "takeaway": "TST and IGRA measure the T-cell response, so immune suppression or severe TB disease can make them falsely negative or indeterminate; a negative result never excludes TB.",
+    "takeaway": "The TST and IGRA measure the T-cell response, so immune suppression or severe TB disease can make them falsely negative or indeterminate, and a negative result never excludes TB.",
     "topic": "False-negative immune-based TB tests",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "TB Diagnostic tests- for TB infection (and TB Disease*)",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "The organism is confirmed M. tuberculosis, which carries the antigens both tests use.",
+      "if_right": "an infection caused by a mycobacterium outside the MTB complex"
+     },
+     {
+      "choice": 1,
+      "why": "BCG can make a TST falsely positive, not negative, and does not affect IGRAs.",
+      "if_right": "a positive TST in a BCG-vaccinated person with a negative IGRA"
+     },
+     {
+      "choice": 2,
+      "why": "Neither test depends on antibody; both read T-cell responses.",
+      "if_right": "an antibody-based assay; TST and IGRA both read T cells, so neither fits"
+     },
+     {
+      "choice": 4,
+      "why": "He has disseminated disease, not contained infection, and both tests read circulating T cells.",
+      "if_right": "a person with contained latent infection asking why they cannot transmit TB"
+     }
+    ],
+    "slides": {
+     "stem": [
+      33
+     ],
+     "answer": [
+      30,
+      33,
+      34
+     ],
+     "distractors": [
+      33,
+      36,
+      29,
+      53
+     ]
+    },
+    "deck": "29 Tuberculosis"
    },
    "figures": [
     {
@@ -428,18 +897,57 @@
    "answer": 1,
    "evidence": [],
    "explain": {
-    "html": "<p>Most cases here arise years after arrival, which means they are reactivation of infection acquired abroad rather than new transmission in the state. Treating active cases alone cannot stop cases that come out of a large pool of latent infection.</p><p>The lecture contrasts the strategies: high-incidence, resource-limited regions focus on treating disease (TB control), while low-incidence regions such as the US also screen for and treat infection. Elimination where incidence is low is only achievable by treating people who are infected before they develop TB disease.</p>",
-    "table": null,
+    "html": "<p>About a quarter of the world's population has been infected with TB, and the public health strategy depends on local incidence. <b>High-incidence, often resource-limited regions</b> mainly treat TB disease and some highest-risk infected people, with little screening, aiming for TB control. <b>Low-incidence regions such as the US</b> treat disease <b>and screen for and treat infection</b>, aiming for elimination. In the US, <b>non-US-born people now account for most cases</b>, often presenting <b>many years after arrival</b>; New Jersey's foreign-born share was 87.5% in 2023.</p><p>Here nearly 90% of cases occur in people born abroad and diagnosed years later, so the cases come from <b>reactivation of latent infection</b>, not new local spread. Treating active cases cannot reach that pool. <b>Elimination where incidence is low is only achievable by treating those infected before they develop TB disease</b>.</p>",
+    "table": "<table><tr><th></th><th>High incidence</th><th>Low incidence (US)</th></tr><tr><td>Resources</td><td>Often limited</td><td>Usually higher</td></tr><tr><td>Strategy</td><td>Treat disease and some highest-risk infected; little screening</td><td>Treat disease and screen and treat most infected</td></tr><tr><td>Goal</td><td>Control, then elimination</td><td>Elimination</td></tr></table>",
     "why": [
-     "BCG is used in high-incidence countries for infants and is not given in the US; it does not prevent reactivation in adults.",
+     "BCG is used where incidence is high to prevent overwhelming disease in infants, and it gives no benefit after age 10, so it cannot stop adult reactivation.",
      "",
-     "Waiting for symptoms finds disease, not the latent pool that feeds future cases.",
-     "Radiographs miss latent infection, which has a normal film.",
+     "Waiting for cough finds disease only, not the latent pool that feeds future cases.",
+     "Radiographs are normal in latent infection, so yearly films miss the pool to be treated.",
      "Latent infection is not infectious and does not need isolation."
     ],
-    "takeaway": "In low-incidence settings, TB elimination requires screening for and treating latent infection, because most cases come from reactivation.",
+    "takeaway": "In low-incidence settings most TB comes from reactivation, so elimination requires screening for and treating latent infection.",
     "topic": "TB control strategy in low vs high incidence settings",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "Epidemiology: Global National Local, and how this Drives the Public Health approach to TB in US",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "BCG is used where incidence is high to prevent overwhelming disease in infants, and it gives no benefit after age 10, so it cannot stop adult reactivation.",
+      "if_right": "a high-incidence country trying to prevent severe TB in infants"
+     },
+     {
+      "choice": 2,
+      "why": "Waiting for cough finds disease only, not the latent pool that feeds future cases.",
+      "if_right": "a person with weeks of cough, night sweats and weight loss being evaluated for disease"
+     },
+     {
+      "choice": 3,
+      "why": "Radiographs are normal in latent infection, so yearly films miss the pool to be treated.",
+      "if_right": "a person with a positive IGRA who needs a radiograph to look for disease"
+     },
+     {
+      "choice": 4,
+      "why": "Latent infection is not infectious and does not need isolation.",
+      "if_right": "a person with smear-positive pulmonary TB awaiting NAAT results"
+     }
+    ],
+    "slides": {
+     "stem": [
+      25,
+      26
+     ],
+     "answer": [
+      27
+     ],
+     "distractors": [
+      36,
+      47,
+      48,
+      13
+     ]
+    },
+    "deck": "29 Tuberculosis"
    },
    "figures": [
     {

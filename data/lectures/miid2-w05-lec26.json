@@ -20,18 +20,56 @@
    "answer": 0,
    "evidence": [],
    "explain": {
-    "html": "<p>Uncross-linked stem peptides are the fingerprint of a beta-lactam. The beta-lactam ring binds the transpeptidase active site of penicillin-binding proteins (PBPs), the enzymes that cross-link the peptide side chains of peptidoglycan. Without cross-links the wall is weak, autolytic enzymes open lesions in it, and the growing cell lyses. That is why beta-lactams are bactericidal and work best on actively growing cells that are building new wall.</p><p>Vancomycin also stops cell wall synthesis, but it does so by binding the D-alanyl-D-alanine terminus of the precursor, not the PBP. Daptomycin acts on the membrane, aminoglycosides on the 30S subunit and sulfonamides on folate synthesis, so none of them leaves this specific wall defect.</p>",
-    "table": null,
+    "html": "<p>Beta-lactams are bactericidal cell wall synthesis inhibitors. The <b>beta-lactam ring binds the transpeptidase</b>, the <b>penicillin-binding protein (PBP)</b> that cross-links the peptide components of peptidoglycan. With cross-linking blocked, <b>autolytic enzymes</b> open lesions in the weakened wall and the cell lyses. Because the drug stops new wall from being finished, it acts on bacteria that are actively building wall, which fits the time-dependent killing of the class.</p><p>In this experiment the wall strands are present but their <b>stem peptides are not linked</b> to neighbors, the exact defect a blocked transpeptidase leaves, and non-dividing cells lyse slowly. Vancomycin also stops wall synthesis but binds the D-Ala-D-Ala terminus and blocks transglycosylation instead of binding PBPs. Knowing which step each drug blocks is what explains cross-resistance patterns such as MRSA, whose altered PBP defeats beta-lactams but not vancomycin.</p>",
+    "table": "<table><tr><th>Drug</th><th>Target</th><th>Step blocked</th></tr><tr><td>Beta-lactams</td><td>PBP (transpeptidase)</td><td>Peptide cross-linking</td></tr><tr><td>Vancomycin</td><td>D-Ala-D-Ala terminus of precursor</td><td>Transglycosylation</td></tr><tr><td>Daptomycin</td><td>Cell membrane (calcium dependent)</td><td>Depolarization, loss of membrane potential</td></tr></table>",
     "why": [
      "",
-     "Coating the D-Ala-D-Ala terminus is the vancomycin mechanism; vancomycin does not bind PBPs.",
-     "Calcium-dependent membrane insertion and depolarization is the daptomycin mechanism.",
-     "30S binding with misreading is how aminoglycosides act; it would not leave uncross-linked wall strands.",
-     "Folate synthesis is blocked by trimethoprim-sulfamethoxazole, not by penicillin."
+     "Coating the D-Ala-D-Ala end and blocking transglycosylation is vancomycin, which does not bind PBPs.",
+     "Calcium-dependent membrane insertion with depolarization is daptomycin, which would not leave uncross-linked peptides.",
+     "30S inhibitors block protein synthesis, not peptidoglycan cross-linking.",
+     "Folate and nucleotide synthesis are not cell wall steps, so blocking them would not leave this wall defect."
     ],
-    "takeaway": "Beta-lactams bind the transpeptidase domain of penicillin-binding proteins, blocking peptidoglycan cross-linking and causing lysis of growing bacteria.",
+    "takeaway": "Beta-lactams bind the transpeptidase of penicillin-binding proteins, block peptidoglycan cross-linking and cause autolysis of actively growing bacteria.",
     "topic": "Beta-lactam mechanism of action",
-    "subject": "Pharmacology"
+    "subject": "Pharmacology",
+    "objective": "For each antimicrobial class/agent: Identify mechanism of action",
+    "rows": [
+     {
+      "choice": 1,
+      "why": "Coating the D-Ala-D-Ala end and blocking transglycosylation is vancomycin, which does not bind PBPs.",
+      "if_right": "a drug that binds D-Ala-D-Ala so glycan strands are never added, as vancomycin does"
+     },
+     {
+      "choice": 2,
+      "why": "Calcium-dependent membrane insertion with depolarization is daptomycin, which would not leave uncross-linked peptides.",
+      "if_right": "rapid depolarization and loss of membrane potential after exposure to daptomycin"
+     },
+     {
+      "choice": 3,
+      "why": "30S inhibitors block protein synthesis, not peptidoglycan cross-linking.",
+      "if_right": "a drug from the 30S inhibitor group, such as streptomycin, stopping translation"
+     },
+     {
+      "choice": 4,
+      "why": "Folate and nucleotide synthesis are not cell wall steps, so blocking them would not leave this wall defect.",
+      "if_right": "an agent that stops DNA synthesis without any change in the cell wall"
+     }
+    ],
+    "slides": {
+     "stem": [
+      8
+     ],
+     "answer": [
+      8
+     ],
+     "distractors": [
+      49,
+      54,
+      6,
+      6
+     ]
+    },
+    "deck": "27 Antibiotics I"
    },
    "figures": [
     {
@@ -56,18 +94,57 @@
    "answer": 3,
    "evidence": [],
    "explain": {
-    "html": "<p>Exudative pharyngitis with posterior cervical nodes and splenomegaly in a teenager suggests a viral illness, infectious mononucleosis, rather than strep throat. The lecture lists rash with ampicillin or amoxicillin, especially in the setting of a viral illness such as mononucleosis, as a specific adverse event of the aminopenicillins.</p><p>She tolerated penicillin V before, which argues that this rash is the aminopenicillin-viral illness interaction and not a true penicillin allergy. Amoxicillin is an expected choice for pharyngitis, which is how this mistake happens in practice.</p>",
+    "html": "<p>The <b>aminopenicillins</b>, ampicillin (IV) and amoxicillin (PO), keep the Gram-positive activity of penicillin and penetrate the Gram-negative outer membrane better, adding organisms such as <i>H. influenzae</i>, <i>E. coli</i> and <i>Proteus</i>. Amoxicillin is used for upper respiratory infections, community-acquired pneumonia, dental prophylaxis and strep throat. Their distinctive adverse event is a <b>rash in the setting of a viral illness</b>, especially <b>mononucleosis</b>.</p><p>This teenager has exudative pharyngitis with <b>posterior cervical nodes and a palpable spleen</b>, a viral picture, yet she was treated for presumed bacterial pharyngitis, and a widespread rash followed two days later. She has taken penicillin V before without trouble, which argues against a true penicillin allergy. The pattern points to amoxicillin given during mononucleosis, and recognizing it keeps a needless allergy label off her chart.</p>",
     "table": null,
     "why": [
-     "Cephalexin is described as well tolerated with mild GI upset.",
-     "Clindamycin's main adverse effects are GI upset and C. difficile colitis, not this rash pattern.",
-     "Azithromycin is linked to GI upset and QT prolongation, not the mononucleosis rash.",
+     "Cephalexin is described as well tolerated with mild GI upset and is not the drug tied to this rash.",
+     "Clindamycin is not tied to a rash during viral illness; that pairing belongs to the aminopenicillins.",
+     "Azithromycin does not cause the rash of mononucleosis, which is an aminopenicillin effect.",
      "",
-     "Doxycycline causes photosensitivity and esophagitis and is not a pharyngitis choice here."
+     "Doxycycline is not the drug tied to this rash, and the rash with viral illness is specific to ampicillin and amoxicillin."
     ],
-    "takeaway": "Ampicillin and amoxicillin commonly cause a maculopapular rash when given during a viral illness, especially infectious mononucleosis.",
+    "takeaway": "Ampicillin and amoxicillin commonly cause a maculopapular rash when given during a viral illness such as infectious mononucleosis, which is not a true penicillin allergy.",
     "topic": "Aminopenicillins: rash with viral illness",
-    "subject": "Pharmacology"
+    "subject": "Pharmacology",
+    "objective": "For each antimicrobial class/agent: Recognize major or very common side effects",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Cephalexin is described as well tolerated with mild GI upset and is not the drug tied to this rash.",
+      "if_right": "a mild skin infection treated with cephalexin with only mild GI upset"
+     },
+     {
+      "choice": 1,
+      "why": "Clindamycin is not tied to a rash during viral illness; that pairing belongs to the aminopenicillins.",
+      "if_right": "a patient on clindamycin who develops profuse watery diarrhea from C. difficile"
+     },
+     {
+      "choice": 2,
+      "why": "Azithromycin does not cause the rash of mononucleosis, which is an aminopenicillin effect.",
+      "if_right": "a patient on azithromycin who develops QT prolongation"
+     },
+     {
+      "choice": 4,
+      "why": "Doxycycline is not the drug tied to this rash, and the rash with viral illness is specific to ampicillin and amoxicillin.",
+      "if_right": "a patient on doxycycline who develops a severe sunburn-like photosensitivity rash"
+     }
+    ],
+    "slides": {
+     "stem": [
+      14
+     ],
+     "answer": [
+      19,
+      14
+     ],
+     "distractors": [
+      27,
+      6,
+      6,
+      6
+     ]
+    },
+    "deck": "27 Antibiotics I"
    },
    "figures": []
   },
@@ -86,18 +163,56 @@
    "answer": 2,
    "evidence": [],
    "explain": {
-    "html": "<p>The regimen is amoxicillin-clavulanate, which the lecture lists for animal bites. Clavulanate is a beta-lactamase inhibitor: it irreversibly binds the beta-lactamases made by bacteria, protecting the partner beta-lactam so it can reach its PBP target.</p><p>The result is the take-home rule from the lecture: adding clavulanate, sulbactam or tazobactam extends coverage to beta-lactamase-producing <i>S. aureus</i> (MSSA), more Gram-negatives and anaerobes. The inhibitor does nothing for MRSA, whose resistance is an altered target rather than an enzyme.</p>",
-    "table": null,
+    "html": "<p>Many bacteria resist beta-lactams by making <b>beta-lactamases</b> that destroy the ring. <b>Beta-lactamase inhibitors</b> (clavulanate, sulbactam, tazobactam) <b>irreversibly bind these enzymes</b>, preventing degradation so the partner beta-lactam can reach its PBP target. The result is wider coverage: added to ampicillin or amoxicillin, they extend activity to <b>beta-lactamase producing <i>S. aureus</i> (MSSA)</b>, more Gram-negatives and anaerobes. Each combination has its niche: amoxicillin-clavulanate for community-acquired pneumonia, animal bites and dental infections; ampicillin-sulbactam for animal bites and severe odontogenic infections; piperacillin-tazobactam for severe intra-abdominal and pseudomonal infections.</p><p>A dog bite carries beta-lactamase producing <i>S. aureus</i> and anaerobes, so the physician chose <b>amoxicillin-clavulanate</b>, and the compound with almost no activity of its own is clavulanate. The inhibitor does nothing for MRSA, whose resistance is an altered PBP rather than an enzyme.</p>",
+    "table": "<table><tr><th>Combination</th><th>Key uses</th></tr><tr><td>Amoxicillin-clavulanate</td><td>Community-acquired pneumonia, animal bites, dental infections</td></tr><tr><td>Ampicillin-sulbactam</td><td>Animal bites, severe odontogenic infections</td></tr><tr><td>Piperacillin-tazobactam</td><td>Severe intra-abdominal infections, <i>Pseudomonas</i> infections</td></tr></table>",
     "why": [
-     "Binding PBP2a is the property of ceftaroline; beta-lactamase inhibitors do not fix MRSA.",
-     "Blocking renal dehydropeptidase is what cilastatin does for imipenem.",
+     "Binding PBP2a is the property of ceftaroline, and beta-lactamase inhibitors do not fix MRSA.",
+     "Blocking renal dehydropeptidase is the job of cilastatin, given with imipenem.",
      "",
-     "Using iron transport channels is the siderophore strategy of cefiderocol.",
-     "Efflux pump inhibitors are not part of this combination."
+     "Chelating iron to ride iron transport channels is the strategy of cefiderocol.",
+     "Beta-lactamase inhibitors act on beta-lactamases, not on efflux pumps."
     ],
-    "takeaway": "Beta-lactamase inhibitors (clavulanate, sulbactam, tazobactam) irreversibly bind beta-lactamases, extending the partner beta-lactam to MSSA, more Gram-negatives and anaerobes, as in amoxicillin-clavulanate for animal bites.",
+    "takeaway": "Beta-lactamase inhibitors irreversibly bind bacterial beta-lactamases, extending the partner beta-lactam to MSSA, more Gram-negatives and anaerobes (amoxicillin-clavulanate for animal bites).",
     "topic": "Beta-lactamase inhibitor combinations",
-    "subject": "Pharmacology"
+    "subject": "Pharmacology",
+    "objective": "For each antimicrobial class/agent: Identify mechanism of action",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Binding PBP2a is the property of ceftaroline, and beta-lactamase inhibitors do not fix MRSA.",
+      "if_right": "a cephalosporin chosen for MRSA endocarditis, as ceftaroline is"
+     },
+     {
+      "choice": 1,
+      "why": "Blocking renal dehydropeptidase is the job of cilastatin, given with imipenem.",
+      "if_right": "a carbapenem that is always co-administered with a partner to prevent renal inactivation"
+     },
+     {
+      "choice": 3,
+      "why": "Chelating iron to ride iron transport channels is the strategy of cefiderocol.",
+      "if_right": "a siderophore cephalosporin entering a multidrug-resistant Gram-negative"
+     },
+     {
+      "choice": 4,
+      "why": "Beta-lactamase inhibitors act on beta-lactamases, not on efflux pumps.",
+      "if_right": "cefiderocol, whose iron-uptake Trojan horse entry bypasses porin loss and efflux"
+     }
+    ],
+    "slides": {
+     "stem": [
+      16
+     ],
+     "answer": [
+      15
+     ],
+     "distractors": [
+      31,
+      44,
+      33,
+      33
+     ]
+    },
+    "deck": "27 Antibiotics I"
    },
    "figures": [
     {
@@ -122,18 +237,57 @@
    "answer": 1,
    "evidence": [],
    "explain": {
-    "html": "<p>The organism is <i>Pseudomonas aeruginosa</i>: oxidase positive, non-lactose fermenting, grape odor, blue-green pigment, a classic cause of ventilator-associated pneumonia. Among third-generation cephalosporins, the lecture draws a sharp line: ceftriaxone has reliable Gram-positive activity and no <i>Pseudomonas</i> coverage, while ceftazidime has unreliable Gram-positive activity but does cover <i>Pseudomonas</i>.</p><p>The other cephalosporins listed do not help: cefazolin covers PEcK organisms, cefoxitin adds anaerobes, and ceftaroline adds MRSA but specifically excludes <i>Pseudomonas</i>. Among other generations, cefepime (fourth) is the anti-pseudomonal workhorse.</p>",
-    "table": null,
+    "html": "<p>Cephalosporins follow a <b>Gram-positive to Gram-negative shift</b>: from first to third generation, smaller and more polar side chains cross Gram-negative porins better while affinity for Gram-positive PBPs falls (\"lose the + to gain the -\"). Fourth generation regains strong Gram-positive activity, and fifth adds MRSA. Within the third generation the lecture draws one sharp line: <b>ceftriaxone is reliable against Gram-positives with no <i>Pseudomonas</i></b>, while <b>ceftazidime is unreliable against Gram-positives but covers <i>Pseudomonas</i></b>. Cefepime, the fourth generation agent, is the \"Pseudomonas powerhouse.\"</p><p>An oxidase-positive, non-lactose-fermenting rod with blue-green pigment causing <b>ventilator-associated pneumonia</b> is <i>Pseudomonas aeruginosa</i>. The team asked for a third-generation agent, so <b>ceftazidime</b> is the one that covers it. Choosing ceftriaxone here is a common and dangerous mix-up between two drugs with similar names.</p>",
+    "table": "<table><tr><th>Generation</th><th>Example</th><th>Gram+</th><th>Gram-</th><th>Special</th></tr><tr><td>1st</td><td>Cefazolin</td><td>+++</td><td>+ (PEcK)</td><td>Surgical prophylaxis</td></tr><tr><td>2nd</td><td>Cefoxitin</td><td>++</td><td>++ (HENS PEcK)</td><td>Anaerobes (cefoxitin, cefotetan)</td></tr><tr><td>3rd</td><td>Ceftriaxone, ceftazidime</td><td>+</td><td>+++</td><td>Ceftazidime covers <i>Pseudomonas</i></td></tr><tr><td>4th</td><td>Cefepime</td><td>++</td><td>+++</td><td><i>Pseudomonas</i></td></tr><tr><td>5th</td><td>Ceftaroline</td><td>+++ including MRSA</td><td>++</td><td>No <i>Pseudomonas</i></td></tr></table>",
     "why": [
-     "Ceftriaxone has no Pseudomonas activity, so it would fail here.",
+     "Ceftriaxone has no Pseudomonas activity, so it would fail against this organism.",
      "",
-     "First-generation cephalosporins cover Proteus, E. coli and Klebsiella, not Pseudomonas.",
-     "Ceftaroline binds PBP2a of MRSA and excludes Pseudomonas.",
-     "Cefoxitin adds anaerobes but has no anti-pseudomonal activity."
+     "Cefazolin covers PEcK rods (Proteus, E. coli, Klebsiella), not Pseudomonas.",
+     "Ceftaroline binds PBP2a of MRSA and specifically excludes Pseudomonas.",
+     "Cefoxitin adds anaerobic coverage but not Pseudomonas."
     ],
-    "takeaway": "Ceftriaxone is reliable against Gram-positives but lacks Pseudomonas activity, whereas ceftazidime covers Pseudomonas with unreliable Gram-positive activity.",
+    "takeaway": "Ceftriaxone is reliable against Gram-positives but has no Pseudomonas activity, whereas ceftazidime covers Pseudomonas with unreliable Gram-positive activity.",
     "topic": "Ceftriaxone versus ceftazidime",
-    "subject": "Pharmacology"
+    "subject": "Pharmacology",
+    "objective": "For each antimicrobial class/agent: Describe the general spectrum of activity",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Ceftriaxone has no Pseudomonas activity, so it would fail against this organism.",
+      "if_right": "a pneumococcal pneumonia or meningitis, where ceftriaxone's reliable Gram-positive activity is wanted"
+     },
+     {
+      "choice": 2,
+      "why": "Cefazolin covers PEcK rods (Proteus, E. coli, Klebsiella), not Pseudomonas.",
+      "if_right": "a susceptible E. coli or MSSA infection, or surgical prophylaxis"
+     },
+     {
+      "choice": 3,
+      "why": "Ceftaroline binds PBP2a of MRSA and specifically excludes Pseudomonas.",
+      "if_right": "an MRSA bacteremia or endocarditis"
+     },
+     {
+      "choice": 4,
+      "why": "Cefoxitin adds anaerobic coverage but not Pseudomonas.",
+      "if_right": "a mixed anaerobic intra-abdominal infection"
+     }
+    ],
+    "slides": {
+     "stem": [
+      29
+     ],
+     "answer": [
+      29,
+      26
+     ],
+     "distractors": [
+      29,
+      27,
+      31,
+      28
+     ]
+    },
+    "deck": "27 Antibiotics I"
    },
    "figures": [
     {
@@ -158,18 +312,56 @@
    "answer": 3,
    "evidence": [],
    "explain": {
-    "html": "<p>Oxacillin-resistant <i>S. aureus</i> is MRSA. Its resistance comes from an altered target, PBP2a, which does not bind ordinary beta-lactams, so penicillins, cephalosporins and carbapenems all fail. Ceftaroline, the fifth-generation cephalosporin, is the exception the lecture highlights: it binds PBP2a, and it is used for MRSA bacteremia, endocarditis and complicated infections.</p><p>Because the problem is the target and not an enzyme, beta-lactamase stability or a beta-lactamase inhibitor does not help. Binding D-Ala-D-Ala is vancomycin, a glycopeptide, which the team chose not to use here.</p>",
-    "table": null,
+    "html": "<p>Bacteria resist beta-lactams in two broad ways, and the fix depends on which one is present. A <b>beta-lactamase</b> destroys the drug, which is answered by bulky side chains (nafcillin) or a beta-lactamase inhibitor. An <b>altered target</b> is different: MRSA carries an altered PBP, <b>PBP2a</b>, that ordinary beta-lactams cannot bind, so it resists all penicillins, cephalosporins and carbapenems. <b>Ceftaroline</b>, the fifth-generation cephalosporin, is the exception because it <b>binds PBP2a</b>, and it is used for MRSA bacteremia, endocarditis and complicated infections.</p><p>This isolate is oxacillin, cefazolin and meropenem resistant and carries a gene for an altered PBP, which is MRSA. Since the problem is the target and not an enzyme, only a drug that binds PBP2a solves it, and the team chose a cephalosporin over vancomycin, so the drug is ceftaroline.</p>",
+    "table": "<table><tr><th>Resistance mechanism</th><th>Example</th><th>What overcomes it</th></tr><tr><td>Beta-lactamase</td><td>Beta-lactamase producing <i>S. aureus</i> (MSSA)</td><td>Bulky side chains (nafcillin) or beta-lactamase inhibitors</td></tr><tr><td>Altered PBP (PBP2a)</td><td>MRSA</td><td>Ceftaroline; vancomycin or daptomycin (not beta-lactam targets)</td></tr><tr><td>Porin loss and efflux</td><td>Multidrug-resistant Gram-negatives</td><td>Cefiderocol (iron transport entry)</td></tr></table>",
     "why": [
      "Beta-lactamase stability does not overcome an altered PBP, which is the MRSA mechanism.",
-     "The iron transport \"Trojan horse\" is cefiderocol, a Gram-negative agent.",
-     "D-Ala-D-Ala binding is vancomycin, a glycopeptide, not a cephalosporin.",
+     "Iron transport entry is cefiderocol, a Gram-negative agent.",
+     "Binding D-Ala-D-Ala is vancomycin, a glycopeptide, which the team chose not to use.",
      "",
-     "Beta-lactamase inhibitors do not restore activity against MRSA."
+     "Beta-lactamase inhibitors act on enzymes and do not restore activity against an altered PBP."
     ],
-    "takeaway": "Ceftaroline is the cephalosporin active against MRSA because it binds PBP2a, the altered penicillin-binding protein.",
+    "takeaway": "Ceftaroline is the cephalosporin active against MRSA because it binds PBP2a, the altered penicillin-binding protein that blocks other beta-lactams.",
     "topic": "Ceftaroline and PBP2a",
-    "subject": "Pharmacology"
+    "subject": "Pharmacology",
+    "objective": "For each antimicrobial class/agent: Identify mechanism of action",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Beta-lactamase stability does not overcome an altered PBP, which is the MRSA mechanism.",
+      "if_right": "a beta-lactamase producing MSSA treated with an anti-staphylococcal penicillin"
+     },
+     {
+      "choice": 1,
+      "why": "Iron transport entry is cefiderocol, a Gram-negative agent.",
+      "if_right": "a multidrug-resistant Gram-negative that has lost its porins"
+     },
+     {
+      "choice": 2,
+      "why": "Binding D-Ala-D-Ala is vancomycin, a glycopeptide, which the team chose not to use.",
+      "if_right": "the team choosing a glycopeptide for this MRSA endocarditis"
+     },
+     {
+      "choice": 4,
+      "why": "Beta-lactamase inhibitors act on enzymes and do not restore activity against an altered PBP.",
+      "if_right": "a beta-lactamase producing organism where the partner drug is being destroyed"
+     }
+    ],
+    "slides": {
+     "stem": [
+      31
+     ],
+     "answer": [
+      31
+     ],
+     "distractors": [
+      13,
+      33,
+      49,
+      15
+     ]
+    },
+    "deck": "27 Antibiotics I"
    },
    "figures": [
     {
@@ -194,18 +386,57 @@
    "answer": 4,
    "evidence": [],
    "explain": {
-    "html": "<p>Carbapenems are structurally stable against ESBLs, and the lecture names them the drug of choice for severe infections caused by ESBL-producing organisms. The agent that is always given with a partner is imipenem, paired with cilastatin.</p><p>Cilastatin is not an antibiotic and not a beta-lactamase inhibitor. It blocks renal dehydropeptidase, which would otherwise inactivate imipenem in the kidney. Once-daily dosing belongs to ertapenem, which also lacks <i>Pseudomonas</i> coverage.</p>",
+    "html": "<p>Extended-spectrum beta-lactamases (ESBLs) destroy penicillins and cephalosporins, including third-generation agents, which have no activity against ESBL producers. <b>Carbapenems are structurally different enough</b> to remain effective and are the <b>drug of choice for severe infections caused by ESBL-producing organisms</b>. Meropenem and imipenem are broad, covering Enterobacterales, <i>Pseudomonas</i>, <i>Acinetobacter</i> and anaerobes, while ertapenem is narrower and once daily. <b>Imipenem is always co-administered with cilastatin</b>, which protects it from <b>renal dehydropeptidase</b> inactivation.</p><p>Her catheter-related <i>E. coli</i> is an ESBL producer resistant to every penicillin and cephalosporin tested, so a carbapenem is needed, and the one requiring a partner compound is imipenem. Cilastatin has no antibacterial role of its own; its job is to keep imipenem from being broken down in the kidney.</p>",
     "table": null,
     "why": [
-     "Carbapenems resist ESBLs on their own; cilastatin is not a beta-lactamase inhibitor.",
-     "Once-daily dosing is an ertapenem feature, not the role of cilastatin.",
+     "Carbapenems resist ESBLs on their own, and cilastatin is not a beta-lactamase inhibitor.",
+     "Once-daily dosing is a feature of ertapenem, linked to its protein binding, not the role of cilastatin.",
      "Cilastatin does not change albumin binding; poor outcomes with low albumin are an ertapenem issue.",
-     "Imipenem is not destroyed by hepatic cytochrome enzymes.",
+     "Imipenem is broken down in the kidney by dehydropeptidase, not by hepatic enzymes.",
      ""
     ],
-    "takeaway": "Carbapenems are the drug of choice for severe ESBL infections; imipenem is always given with cilastatin, which blocks renal dehydropeptidase inactivation.",
+    "takeaway": "Carbapenems are the drug of choice for severe ESBL infections, and imipenem is always given with cilastatin, which blocks renal dehydropeptidase inactivation.",
     "topic": "Carbapenems: ESBL and imipenem-cilastatin",
-    "subject": "Pharmacology"
+    "subject": "Pharmacology",
+    "objective": "Recommend appropriate antibiotic therapy based on site of infection and suspected or actual bacterial pathogens",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Carbapenems resist ESBLs on their own, and cilastatin is not a beta-lactamase inhibitor.",
+      "if_right": "a carbapenem combined with vaborbactam or relebactam to add activity against KPC enzymes"
+     },
+     {
+      "choice": 1,
+      "why": "Once-daily dosing is a feature of ertapenem, linked to its protein binding, not the role of cilastatin.",
+      "if_right": "a patient needing once-daily outpatient carbapenem therapy, which points to ertapenem"
+     },
+     {
+      "choice": 2,
+      "why": "Cilastatin does not change albumin binding; poor outcomes with low albumin are an ertapenem issue.",
+      "if_right": "a hypoalbuminemic patient doing poorly on ertapenem"
+     },
+     {
+      "choice": 3,
+      "why": "Imipenem is broken down in the kidney by dehydropeptidase, not by hepatic enzymes.",
+      "if_right": "none for a carbapenem; no carbapenem here is destroyed by liver enzymes"
+     }
+    ],
+    "slides": {
+     "stem": [
+      47
+     ],
+     "answer": [
+      44,
+      47
+     ],
+     "distractors": [
+      42,
+      47,
+      43,
+      44
+     ]
+    },
+    "deck": "27 Antibiotics I"
    },
    "figures": [
     {
@@ -230,18 +461,58 @@
    "answer": 1,
    "evidence": [],
    "explain": {
-    "html": "<p>Calcium-dependent membrane insertion with rapid depolarization is daptomycin, a lipopeptide that kills MRSA and vancomycin-resistant <i>Enterococcus</i> and is used for endocarditis, bacteremia, skin and bone infections. Creatine kinase is monitored because it can cause myopathy and rhabdomyolysis.</p><p>The lecture's key restriction is that daptomycin must not be used for pneumonia: lung surfactant inactivates it. For MRSA pneumonia, vancomycin (or linezolid, taught in the next lecture) is used instead.</p>",
-    "table": null,
+    "html": "<p><b>Daptomycin</b> is a bactericidal lipopeptide that binds the bacterial membrane by <b>calcium-dependent insertion</b>, causing rapid depolarization and loss of membrane potential, a mechanism distinct from beta-lactams and vancomycin. It covers MRSA, VRE and streptococci (no Gram-negatives) and is used for endocarditis, bacteremia, complicated skin infections and bone and joint infections. Its adverse effects are <b>creatine kinase elevation</b> with myalgia, myopathy and rhabdomyolysis, and eosinophilic pneumonia. The key restriction is that it is <b>inactivated by lung surfactant</b>, so it must not be used for pneumonia.</p><p>She did well on daptomycin for tricuspid endocarditis, but her new infection is <b>MRSA pneumonia</b>, where daptomycin fails in the lung. Vancomycin is the empiric and definitive treatment for MRSA pneumonia.</p>",
+    "table": "<table><tr><th>Drug</th><th>Mechanism</th><th>Key restriction or route issue</th><th>Signature adverse effect</th></tr><tr><td>Vancomycin</td><td>Binds D-Ala-D-Ala</td><td>Oral form only for <i>C. difficile</i></td><td>Flushing syndrome, nephrotoxicity</td></tr><tr><td>Daptomycin</td><td>Calcium-dependent membrane depolarization</td><td>Inactivated by lung surfactant, no pneumonia</td><td>CK elevation, myopathy</td></tr></table>",
     "why": [
      "Daptomycin is not a beta-lactam, and surfactant inactivation is not ring hydrolysis.",
      "",
      "PBP2a confers beta-lactam resistance and does not affect a membrane-acting drug.",
-     "Distribution size is not the reason; surfactant inactivation is.",
-     "Daptomycin is bactericidal; synergy with cell wall agents is an aminoglycoside concept."
+     "Daptomycin fails in pneumonia because lung surfactant inactivates it, not because it cannot reach the lung.",
+     "Daptomycin is bactericidal and is not given for synergy with a cell wall agent."
     ],
-    "takeaway": "Daptomycin, a calcium-dependent membrane-depolarizing lipopeptide active against MRSA and VRE, is inactivated by pulmonary surfactant and is not used for pneumonia; monitor creatine kinase.",
+    "takeaway": "Daptomycin, a calcium-dependent membrane-depolarizing lipopeptide active against MRSA and VRE, is inactivated by lung surfactant and is not used for pneumonia.",
     "topic": "Daptomycin and surfactant",
-    "subject": "Pharmacology"
+    "subject": "Pharmacology",
+    "objective": "Recommend appropriate antibiotic therapy based on site of infection and suspected or actual bacterial pathogens",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Daptomycin is not a beta-lactam, and surfactant inactivation is not ring hydrolysis.",
+      "if_right": "a beta-lactam destroyed by a bacterial beta-lactamase"
+     },
+     {
+      "choice": 2,
+      "why": "PBP2a confers beta-lactam resistance and does not affect a membrane-acting drug.",
+      "if_right": "a beta-lactam failing against MRSA"
+     },
+     {
+      "choice": 3,
+      "why": "Daptomycin fails in pneumonia because lung surfactant inactivates it, not because it cannot reach the lung.",
+      "if_right": "none for daptomycin; its failure in the lung is surfactant inactivation, not poor entry"
+     },
+     {
+      "choice": 4,
+      "why": "Daptomycin is bactericidal and is not given for synergy with a cell wall agent.",
+      "if_right": "a bacteriostatic drug that needs a partner to kill"
+     }
+    ],
+    "slides": {
+     "stem": [
+      54,
+      55
+     ],
+     "answer": [
+      55,
+      62
+     ],
+     "distractors": [
+      54,
+      31,
+      55,
+      54
+     ]
+    },
+    "deck": "27 Antibiotics I"
    },
    "figures": [
     {
@@ -266,18 +537,57 @@
    "answer": 2,
    "evidence": [],
    "explain": {
-    "html": "<p>Carbapenems are the drug of choice for serious ESBL infections. Among them, seizures and neurotoxicity are a class adverse effect with a clear ranking: imipenem greater than meropenem greater than ertapenem, and the risk is highest with impaired renal function, prior stroke, a history of seizures or high-dose imipenem. This patient has three of those risk factors.</p><p>The lecture's tip is that meropenem is preferred for CNS infections. Ertapenem has lower seizure risk but is the narrow carbapenem (no <i>Pseudomonas</i>) and causes hallucinations; it is not the CNS choice. Cilastatin protects imipenem from renal breakdown, not the brain.</p>",
-    "table": null,
+    "html": "<p>Carbapenems are the drug of choice for severe ESBL infections, but the agents differ in spectrum and toxicity. <b>Seizures and neurotoxicity</b> are a class adverse effect ranked <b>imipenem greater than meropenem greater than ertapenem</b>, with imipenem carrying the greatest risk. High-risk patients are those with <b>impaired renal function</b>, stroke, a <b>history of seizures</b>, or high-dose imipenem. Ertapenem is once daily but narrow (no <i>Pseudomonas</i>, <i>Acinetobacter</i> or enterococcus) and causes hallucinations, and the lecture's tip is that <b>meropenem is preferred for CNS infections</b>.</p><p>This man has meningitis from an ESBL <i>Klebsiella</i>, a seizure disorder and a creatinine of 2.0 mg/dL, so he carries two seizure risk factors and needs CNS coverage. Meropenem fits both needs.</p>",
+    "table": "<table><tr><th>Carbapenem</th><th>Spectrum</th><th>Key points</th></tr><tr><td>Imipenem-cilastatin</td><td>Broad, includes <i>Pseudomonas</i>, <i>Acinetobacter</i></td><td>Greatest seizure risk; cilastatin prevents renal inactivation</td></tr><tr><td>Meropenem</td><td>Broad, includes <i>Pseudomonas</i>, <i>Acinetobacter</i></td><td>Less seizure risk; preferred for CNS infections</td></tr><tr><td>Ertapenem</td><td>Narrow, no <i>Pseudomonas</i>, <i>Acinetobacter</i>, enterococcus</td><td>Once daily; hallucinations; poor outcomes in hypoalbuminemia</td></tr></table>",
     "why": [
-     "High-dose imipenem with renal impairment and a seizure history carries the greatest seizure risk.",
-     "Ertapenem is not the preferred CNS carbapenem, and once-daily dosing is a convenience feature.",
+     "High-dose imipenem in a patient with renal impairment and a seizure history carries the greatest seizure risk.",
+     "Ertapenem is not the preferred CNS carbapenem, and its once-daily dosing is a convenience feature.",
      "",
-     "Cilastatin blocks renal dehydropeptidase; it does not prevent neurotoxicity.",
-     "ESBL enzymes hydrolyze aztreonam, so it would not work against this isolate."
+     "Cilastatin blocks renal dehydropeptidase and does not prevent neurotoxicity.",
+     "Carbapenems, not aztreonam, are the beta-lactams that treat ESBL infections, and meropenem suits CNS infection."
     ],
-    "takeaway": "Carbapenem seizure risk ranks imipenem over meropenem over ertapenem, highest with renal impairment or seizure history; meropenem is preferred for CNS infections.",
+    "takeaway": "Carbapenem seizure risk ranks imipenem over meropenem over ertapenem and is highest with renal impairment or seizure history; meropenem is preferred for CNS infections.",
     "topic": "Imipenem seizures and meropenem for CNS",
-    "subject": "Pharmacology"
+    "subject": "Pharmacology",
+    "objective": "Recommend appropriate antibiotic therapy based on site of infection and suspected or actual bacterial pathogens",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "High-dose imipenem in a patient with renal impairment and a seizure history carries the greatest seizure risk.",
+      "if_right": "a patient with normal kidneys, no seizure history and no CNS infection needing broad coverage"
+     },
+     {
+      "choice": 1,
+      "why": "Ertapenem is not the preferred CNS carbapenem, and its once-daily dosing is a convenience feature.",
+      "if_right": "a non-CNS ESBL infection where once-daily dosing is wanted and Pseudomonas is not a concern"
+     },
+     {
+      "choice": 3,
+      "why": "Cilastatin blocks renal dehydropeptidase and does not prevent neurotoxicity.",
+      "if_right": "a stem asking why imipenem is given with cilastatin, to block renal dehydropeptidase"
+     },
+     {
+      "choice": 4,
+      "why": "Carbapenems, not aztreonam, are the beta-lactams that treat ESBL infections, and meropenem suits CNS infection.",
+      "if_right": "a non-ESBL Gram-negative infection in a patient with true IgE-mediated beta-lactam allergy"
+     }
+    ],
+    "slides": {
+     "stem": [
+      43
+     ],
+     "answer": [
+      44,
+      43
+     ],
+     "distractors": [
+      43,
+      44,
+      44,
+      65
+     ]
+    },
+    "deck": "27 Antibiotics I"
    },
    "figures": [
     {
@@ -302,18 +612,57 @@
    "answer": 0,
    "evidence": [],
    "explain": {
-    "html": "<p>This is cefiderocol, the siderophore cephalosporin. Its catechol group chelates ferric iron, and the complex is carried across the Gram-negative outer membrane by the bacterium's own active iron transport system, raising drug concentrations in the periplasm where PBPs sit. The lecture calls this a \"Trojan horse\" entry that bypasses porin loss and efflux resistance.</p><p>The iron-rich experiment confirms it: when bacteria do not need iron, they turn off the transporters, and the drug loses its way in. Cefiderocol covers multidrug-resistant <i>Pseudomonas</i>, <i>Acinetobacter</i>, Enterobacterales and <i>Stenotrophomonas</i>.</p>",
+    "html": "<p>Gram-negatives keep beta-lactams out with an outer membrane, and they resist further by losing porins and pumping drug out with efflux pumps. <b>Cefiderocol</b> is a <b>siderophore cephalosporin</b> that gets around both. Its <b>catechol moiety chelates ferric iron</b>, and the complex uses the bacterium's own <b>active iron transport system</b> to cross the outer membrane, raising drug concentration in the periplasmic space where the PBPs sit. The lecture calls this a <b>\"Trojan horse\" entry that bypasses porin loss and efflux</b>, and it covers multidrug-resistant <i>Pseudomonas</i>, <i>Acinetobacter</i>, Enterobacterales and <i>Stenotrophomonas</i>.</p><p>The isolate has lost porins and overexpresses efflux, yet one cephalosporin still kills it. When iron-rich medium shuts down iron uptake, the drug loses its way in and activity drops, which identifies iron transport as its entry route.</p>",
     "table": null,
     "why": [
      "",
-     "PBP2a binding is ceftaroline against MRSA, a Gram-positive problem.",
-     "A beta-lactamase inhibitor would not explain the loss of activity in iron-rich medium.",
+     "Binding PBP2a is how ceftaroline beats MRSA, a Gram-positive problem, and it would not depend on iron.",
+     "A beta-lactamase inhibitor would not explain why activity falls in iron-rich medium.",
      "Calcium-dependent membrane insertion is daptomycin, which has no Gram-negative activity.",
-     "Porin entry fails when porins are lost; that is exactly the barrier this drug bypasses."
+     "Porin entry fails once porins are lost, which is the very barrier this drug bypasses."
     ],
     "takeaway": "Cefiderocol is a siderophore cephalosporin that chelates iron and enters Gram-negatives through iron transport channels, bypassing porin loss and efflux.",
     "topic": "Cefiderocol siderophore entry",
-    "subject": "Pharmacology"
+    "subject": "Pharmacology",
+    "objective": "For each antimicrobial class/agent: Identify mechanism of action",
+    "rows": [
+     {
+      "choice": 1,
+      "why": "Binding PBP2a is how ceftaroline beats MRSA, a Gram-positive problem, and it would not depend on iron.",
+      "if_right": "an MRSA isolate with an altered penicillin-binding protein"
+     },
+     {
+      "choice": 2,
+      "why": "A beta-lactamase inhibitor would not explain why activity falls in iron-rich medium.",
+      "if_right": "an isolate whose resistance is beta-lactamase production, restored by adding an inhibitor"
+     },
+     {
+      "choice": 3,
+      "why": "Calcium-dependent membrane insertion is daptomycin, which has no Gram-negative activity.",
+      "if_right": "an MRSA or VRE infection treated with daptomycin"
+     },
+     {
+      "choice": 4,
+      "why": "Porin entry fails once porins are lost, which is the very barrier this drug bypasses.",
+      "if_right": "an isolate with intact porins and later-generation cephalosporins crossing them"
+     }
+    ],
+    "slides": {
+     "stem": [
+      33
+     ],
+     "answer": [
+      33,
+      34
+     ],
+     "distractors": [
+      31,
+      15,
+      54,
+      25
+     ]
+    },
+    "deck": "27 Antibiotics I"
    },
    "figures": [
     {
@@ -338,18 +687,58 @@
    "answer": 0,
    "evidence": [],
    "explain": {
-    "html": "<p>The lecture builds penicillin spectrum in blocks: natural penicillins cover streptococci; nafcillin adds MSSA; ampicillin and amoxicillin add <i>Enterococcus</i> and weak Gram-negative coverage; adding a beta-lactamase inhibitor (ampicillin-sulbactam, amoxicillin-clavulanate) adds MSSA, more Gram-negatives and anaerobes; and piperacillin-tazobactam adds <i>Pseudomonas</i> and the strongest Gram-negative activity.</p><p>Only piperacillin-tazobactam covers enteric Gram-negatives, <i>B. fragilis</i> and <i>Pseudomonas</i> together, which is why the lecture lists it for severe intra-abdominal infections and pseudomonal infections. Its tip: \"Piperacillin/tazobactam equals Pseudomonas coverage.\"</p>",
-    "table": null,
+    "html": "<p>Penicillin spectrum builds in blocks. Natural penicillins cover streptococci; anti-staphylococcal penicillins add MSSA; aminopenicillins add enterococcus and weak Gram-negative coverage; adding a <b>beta-lactamase inhibitor</b> (ampicillin-sulbactam, amoxicillin-clavulanate) adds Gram-negatives, <b>Gram-negative anaerobes</b> and MSSA; and <b>piperacillin-tazobactam adds <i>Pseudomonas aeruginosa</i></b> and the strongest Gram-negative activity. Its listed uses are <b>severe intra-abdominal infections</b> and pseudomonal infections, and the lecture's tip is \"Piperacillin/tazobactam equals Pseudomonas coverage.\"</p><p>This man needs coverage of enteric Gram-negatives, <i>Bacteroides fragilis</i> and a <i>Pseudomonas</i> isolate from his sputum. Only the top block covers all three, so piperacillin-tazobactam is the single agent that fits.</p>",
+    "table": "<table><tr><th>Penicillin block</th><th>Adds</th></tr><tr><td>Natural penicillins</td><td>Streptococcus</td></tr><tr><td>Nafcillin, oxacillin</td><td>MSSA</td></tr><tr><td>Ampicillin, amoxicillin</td><td>Enterococcus, weak Gram-negatives</td></tr><tr><td>Ampicillin-sulbactam, amoxicillin-clavulanate</td><td>Gram-negatives, Gram-negative anaerobes, MSSA</td></tr><tr><td>Piperacillin-tazobactam</td><td><i>Pseudomonas</i>, strongest Gram-negative activity</td></tr></table>",
     "why": [
      "",
-     "Amoxicillin-clavulanate is oral, lacks Pseudomonas activity and is used for milder infections.",
+     "Amoxicillin-clavulanate adds anaerobes and Gram-negatives but has no Pseudomonas coverage.",
      "Ampicillin-sulbactam covers anaerobes and some Gram-negatives but not Pseudomonas.",
-     "Nafcillin is narrow, aimed at MSSA, with no Gram-negative or anaerobic coverage.",
-     "Penicillin G covers streptococci, Clostridium and Treponema, not these organisms."
+     "Nafcillin is narrow, aimed at MSSA and streptococci, with no Gram-negative or anaerobic coverage.",
+     "Penicillin G covers streptococci, clostridia and Treponema, not these organisms."
     ],
     "takeaway": "Piperacillin-tazobactam is the penicillin combination that adds Pseudomonas to broad Gram-negative and anaerobic coverage, used for severe intra-abdominal and pseudomonal infections.",
     "topic": "Piperacillin-tazobactam spectrum",
-    "subject": "Pharmacology"
+    "subject": "Pharmacology",
+    "objective": "Recommend appropriate antibiotic therapy based on site of infection and suspected or actual bacterial pathogens",
+    "rows": [
+     {
+      "choice": 1,
+      "why": "Amoxicillin-clavulanate adds anaerobes and Gram-negatives but has no Pseudomonas coverage.",
+      "if_right": "an animal bite or dental infection treated by mouth"
+     },
+     {
+      "choice": 2,
+      "why": "Ampicillin-sulbactam covers anaerobes and some Gram-negatives but not Pseudomonas.",
+      "if_right": "an animal bite or severe odontogenic infection with no Pseudomonas"
+     },
+     {
+      "choice": 3,
+      "why": "Nafcillin is narrow, aimed at MSSA and streptococci, with no Gram-negative or anaerobic coverage.",
+      "if_right": "an MSSA bacteremia"
+     },
+     {
+      "choice": 4,
+      "why": "Penicillin G covers streptococci, clostridia and Treponema, not these organisms.",
+      "if_right": "primary syphilis or group A strep pharyngitis"
+     }
+    ],
+    "slides": {
+     "stem": [
+      16
+     ],
+     "answer": [
+      22,
+      16,
+      21
+     ],
+     "distractors": [
+      16,
+      16,
+      13,
+      12
+     ]
+    },
+    "deck": "27 Antibiotics I"
    },
    "figures": [
     {
@@ -374,18 +763,57 @@
    "answer": 4,
    "evidence": [],
    "explain": {
-    "html": "<p>The lecture is explicit: the oral formulation of vancomycin is for <i>C. difficile</i> infection only, because it has essentially zero systemic absorption. It stays in the colon, where the infection is, so it does not reach the blood, does not need serum levels and does not treat systemic infections.</p><p>Intravenous vancomycin, by contrast, distributes widely, is eliminated by the kidney and is nephrotoxic, so it requires renal dose adjustment and monitoring. The two routes are effectively two different drugs for two different jobs.</p>",
+    "html": "<p>Vancomycin covers <i>S. aureus</i> (MRSA and MSSA), non-VRE enterococci and streptococci, with no Gram-negative activity, and its use depends on route. Given <b>IV</b>, it has a relatively large volume of distribution, treats systemic Gram-positive infections, and undergoes <b>renal elimination, so it is adjusted in renal dysfunction</b>, with nephrotoxicity as a key adverse effect. Given <b>orally</b>, it has <b>about zero systemic absorption</b>, so the oral formulation is <b>for <i>C. difficile</i> infections only</b>.</p><p>This woman has <i>C. difficile</i> colitis after ceftriaxone and receives vancomycin by mouth. The drug stays in the gut lumen where the infection is, never reaches meaningful blood levels, and so needs neither serum levels nor renal adjustment. The same property means oral vancomycin cannot treat any infection outside the gut.</p>",
     "table": null,
     "why": [
-     "Vancomycin is not inactivated by hepatic metabolism; it simply is not absorbed from the gut.",
-     "Chelation with divalent cations is a tetracycline absorption problem, not the vancomycin story.",
-     "Biliary excretion is the ceftriaxone exception; vancomycin is renally eliminated when given intravenously.",
-     "Dose is not the reason; even large oral doses stay in the gut lumen.",
+     "The reason is lack of absorption from the gut, not hepatic inactivation.",
+     "Calcium binding and precipitation is a ceftriaxone IV compatibility issue, not the oral vancomycin story.",
+     "Biliary excretion is the ceftriaxone exception; vancomycin given IV is eliminated by the kidney.",
+     "Dose is not the reason; oral vancomycin stays in the gut lumen regardless of dose.",
      ""
     ],
-    "takeaway": "Oral vancomycin is essentially unabsorbed and treats only C. difficile; intravenous vancomycin is renally cleared and nephrotoxic, requiring dose adjustment.",
+    "takeaway": "Oral vancomycin is essentially unabsorbed and treats only C. difficile, whereas IV vancomycin is renally eliminated and needs adjustment in renal dysfunction.",
     "topic": "Vancomycin route and pharmacokinetics",
-    "subject": "Pharmacology"
+    "subject": "Pharmacology",
+    "objective": "For each antimicrobial class/agent: Describe the general spectrum of activity",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "The reason is lack of absorption from the gut, not hepatic inactivation.",
+      "if_right": "an oral drug the stem describes as absorbed and then inactivated by the liver"
+     },
+     {
+      "choice": 1,
+      "why": "Calcium binding and precipitation is a ceftriaxone IV compatibility issue, not the oral vancomycin story.",
+      "if_right": "ceftriaxone mixed with calcium-containing IV fluids"
+     },
+     {
+      "choice": 2,
+      "why": "Biliary excretion is the ceftriaxone exception; vancomycin given IV is eliminated by the kidney.",
+      "if_right": "ceftriaxone given to a patient with renal failure"
+     },
+     {
+      "choice": 3,
+      "why": "Dose is not the reason; oral vancomycin stays in the gut lumen regardless of dose.",
+      "if_right": "none; oral vancomycin skips levels because it stays in the gut, whatever the dose"
+     }
+    ],
+    "slides": {
+     "stem": [
+      50
+     ],
+     "answer": [
+      50,
+      57
+     ],
+     "distractors": [
+      50,
+      36,
+      35,
+      50
+     ]
+    },
+    "deck": "27 Antibiotics I"
    },
    "figures": [
     {
@@ -410,18 +838,57 @@
    "answer": 1,
    "evidence": [],
    "explain": {
-    "html": "<p>The ulcer and spirochetes point to primary syphilis caused by <i>Treponema pallidum</i>, and the lecture names penicillin G as the drug of choice. Fever, chills, headache and myalgias within hours of the first dose, with normal blood pressure and no urticaria or wheeze, is the Jarisch-Herxheimer reaction, the adverse reaction the lecture links specifically to penicillin treatment of syphilis. It comes from products released by the rapidly dying organisms, not from allergy to the drug.</p><p>The distinction matters: a true IgE-mediated penicillin allergy would bring urticaria, wheezing or hypotension and would change future antibiotic choices, whereas this reaction is self-limited and does not mean he is allergic.</p>",
+    "html": "<p>Natural penicillin is narrow spectrum, covering group A strep, some pneumococci, clostridia, Listeria and the spirochete <i>Treponema pallidum</i>, and penicillin G is the <b>drug of choice for syphilis</b>. Pen V is the oral form and pen G is given IV or IM. Beta-lactams share a class-wide risk of hypersensitivity, and the lecture warns to separate a true allergy from an unknown reaction. Penicillin treatment of syphilis also carries a specific adverse event, the <b>Jarisch-Herxheimer reaction</b>.</p><p>A painless ulcer with spiral organisms on darkfield is primary syphilis, and he received IM penicillin. Fever, chills, headache and myalgias <b>within hours of the first dose</b>, with <b>no urticaria, wheezing or hypotension</b>, fit Jarisch-Herxheimer, a response to the rapidly dying spirochetes rather than an allergy. Labeling him penicillin allergic would wrongly take the drug of choice off the table for future syphilis.</p>",
     "table": null,
     "why": [
-     "A true allergy would present with urticaria, bronchospasm or hypotension, none of which he has.",
+     "An IgE-mediated allergy would bring urticaria, wheezing or hypotension, and he has none.",
      "",
-     "Rate-related direct histamine release with flushing is vancomycin flushing syndrome, after an infusion.",
-     "Serum sickness type reactions take days to weeks; this began within hours.",
-     "Interstitial nephritis is linked to nafcillin and presents with kidney injury, not a febrile reaction hours after a dose."
+     "Rate-related direct histamine release causing flushing is vancomycin flushing syndrome during an infusion.",
+     "A reaction that takes one to two weeks to appear does not fit symptoms that began four hours after the dose.",
+     "Interstitial nephritis is linked to nafcillin and shows up as kidney injury, not fever hours after penicillin."
     ],
-    "takeaway": "Penicillin G is the drug of choice for syphilis, and treatment can trigger the Jarisch-Herxheimer reaction, a febrile response to dying spirochetes rather than an allergy.",
+    "takeaway": "Penicillin G is the drug of choice for syphilis, and the febrile Jarisch-Herxheimer reaction hours after the first dose comes from dying spirochetes, not penicillin allergy.",
     "topic": "Natural penicillin: syphilis and Jarisch-Herxheimer",
-    "subject": "Pharmacology"
+    "subject": "Pharmacology",
+    "objective": "For each antimicrobial class/agent: Recognize major or very common side effects",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "An IgE-mediated allergy would bring urticaria, wheezing or hypotension, and he has none.",
+      "if_right": "hives, throat swelling and hypotension minutes after the injection"
+     },
+     {
+      "choice": 2,
+      "why": "Rate-related direct histamine release causing flushing is vancomycin flushing syndrome during an infusion.",
+      "if_right": "flushing and itching of the face, neck and chest during a rapid vancomycin infusion"
+     },
+     {
+      "choice": 3,
+      "why": "A reaction that takes one to two weeks to appear does not fit symptoms that began four hours after the dose.",
+      "if_right": "the same fever and myalgias first appearing one to two weeks after the injection"
+     },
+     {
+      "choice": 4,
+      "why": "Interstitial nephritis is linked to nafcillin and shows up as kidney injury, not fever hours after penicillin.",
+      "if_right": "a rising creatinine with eosinophilia after more than a week of nafcillin"
+     }
+    ],
+    "slides": {
+     "stem": [
+      12
+     ],
+     "answer": [
+      19,
+      21
+     ],
+     "distractors": [
+      10,
+      51,
+      10,
+      19
+     ]
+    },
+    "deck": "27 Antibiotics I"
    },
    "figures": []
   },
@@ -429,7 +896,7 @@
    "id": "miid2-w05-lec26-q13",
    "source": "practice",
    "source_ref": "Written from the 2025-26 Lecture 26 slides",
-   "stem": "A 58-year-old man with a skin abscess develops bacteremia. Blood cultures grow Gram-positive cocci in clusters that are susceptible to oxacillin. He is started on the drug of choice for this organism given intravenously. On day 12 he develops a diffuse maculopapular rash and low-grade fever.\n\nCreatinine: 2.4 mg/dL (baseline 0.9; normal 0.6 to 1.2)\nEosinophils (blood): 9% (normal 1 to 4)\nUrinalysis: white blood cells and white cell casts; no bacteria\n\nWhich drug most likely caused this complication?",
+   "stem": "A 58-year-old man with a skin abscess develops bacteremia. Blood cultures grow Gram-positive cocci in clusters that are susceptible to oxacillin. He is started on the drug of choice for this organism given intravenously. On day 12 he develops a diffuse maculopapular rash and low-grade fever.\n\n[[labs 0]]\n\nWhich drug most likely caused this complication?",
    "choices": [
     "Vancomycin",
     "Cefazolin",
@@ -440,18 +907,57 @@
    "answer": 2,
    "evidence": [],
    "explain": {
-    "html": "<p>Gram-positive cocci in clusters that are oxacillin susceptible are methicillin-susceptible <i>Staphylococcus aureus</i> (MSSA). The lecture calls the anti-staphylococcal penicillins (nafcillin, oxacillin) the drug of choice for MSSA, because their bulky side chains resist staphylococcal beta-lactamase.</p><p>Rash, fever, eosinophilia, rising creatinine and white cell casts after more than a week of therapy describe acute interstitial nephritis, which the lecture assigns to nafcillin more than oxacillin. Oxacillin, by contrast, leans toward hepatitis and hyperbilirubinemia. Vancomycin is nephrotoxic too, but it is not the drug of choice for MSSA and its kidney injury is not an eosinophilic, allergic-type nephritis.</p>",
-    "table": null,
+    "html": "<p>The <b>anti-staphylococcal penicillins</b> (nafcillin and oxacillin IV, dicloxacillin PO) were developed for beta-lactamase producing <i>Staphylococcus aureus</i>; their <b>bulky side chains</b> resist beta-lactamases. They are the <b>drug of choice for MSSA</b>, and an isolate susceptible to one is susceptible to all, but they do not cover MRSA because its PBP is altered. Their signature adverse effects split by drug: <b>acute interstitial nephritis, nafcillin more than oxacillin</b>, and hyperbilirubinemia or hepatitis, oxacillin more than nafcillin.</p><p>Gram-positive cocci in clusters that are oxacillin susceptible are MSSA, so he received an anti-staphylococcal penicillin. Rash, fever, <b>eosinophilia, white cell casts</b> and a rising creatinine after 12 days are the picture of acute interstitial nephritis, which points to nafcillin. Recognizing this drug-induced kidney injury early matters, because stopping the drug is how it resolves.</p>",
+    "table": "<table><tr><th>Adverse reaction</th><th>Implicated agent</th></tr><tr><td>Jarisch-Herxheimer</td><td>Penicillin (syphilis treatment)</td></tr><tr><td>Nephrotoxicity, acute interstitial nephritis</td><td>Nafcillin more than oxacillin</td></tr><tr><td>Hyperbilirubinemia, hepatitis</td><td>Oxacillin more than nafcillin</td></tr><tr><td>GI disturbance</td><td>All, highest with amoxicillin-clavulanate</td></tr><tr><td>Rash during viral illness</td><td>Ampicillin, amoxicillin</td></tr></table>",
     "why": [
-     "Vancomycin covers MSSA but is not its drug of choice, and its nephrotoxicity is not the rash-plus-eosinophilia picture.",
-     "Cefazolin treats MSSA bacteremia and is described as well tolerated, without a nephritis signature.",
+     "Vancomycin covers staphylococci but is not the drug of choice for MSSA, and its nephrotoxicity is not this allergic-type picture.",
+     "Cefazolin treats MSSA bacteremia and is described as well tolerated, with no nephritis signature.",
      "",
      "Ceftriaxone is not the MSSA drug of choice, and its signature effects are biliary sludging and hyperbilirubinemia.",
-     "Ampicillin is not reliable against beta-lactamase-producing staphylococci."
+     "Ampicillin is not reliable against beta-lactamase producing staphylococci, and its signature is rash with viral illness."
     ],
-    "takeaway": "Nafcillin is the drug of choice for MSSA infections and is the beta-lactam most associated with acute interstitial nephritis (oxacillin with hepatotoxicity).",
+    "takeaway": "Nafcillin, the drug of choice for MSSA, is the penicillin most linked to acute interstitial nephritis, while oxacillin leans toward hepatitis.",
     "topic": "Anti-staphylococcal penicillins: nafcillin nephritis",
-    "subject": "Pharmacology"
+    "subject": "Pharmacology",
+    "objective": "For each antimicrobial class/agent: Recognize major or very common side effects",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Vancomycin covers staphylococci but is not the drug of choice for MSSA, and its nephrotoxicity is not this allergic-type picture.",
+      "if_right": "an oxacillin-resistant isolate (MRSA) treated with vancomycin alongside other nephrotoxins"
+     },
+     {
+      "choice": 1,
+      "why": "Cefazolin treats MSSA bacteremia and is described as well tolerated, with no nephritis signature.",
+      "if_right": "MSSA bacteremia needing a well tolerated alternative to an antistaphylococcal penicillin"
+     },
+     {
+      "choice": 3,
+      "why": "Ceftriaxone is not the MSSA drug of choice, and its signature effects are biliary sludging and hyperbilirubinemia.",
+      "if_right": "biliary sludge or neonatal jaundice in a patient given ceftriaxone"
+     },
+     {
+      "choice": 4,
+      "why": "Ampicillin is not reliable against beta-lactamase producing staphylococci, and its signature is rash with viral illness.",
+      "if_right": "a maculopapular rash in a teenager with mononucleosis given ampicillin"
+     }
+    ],
+    "slides": {
+     "stem": [
+      13
+     ],
+     "answer": [
+      13,
+      19
+     ],
+     "distractors": [
+      50,
+      27,
+      29,
+      14
+     ]
+    },
+    "deck": "27 Antibiotics I"
    },
    "figures": [
     {
@@ -459,6 +965,22 @@
      "slide": 13,
      "caption": "Lecture 26 slides (2025-26) · Page 13"
     }
+   ],
+   "labs": [
+    [
+     [
+      "Creatinine",
+      "2.4 mg/dL (baseline 0.9; normal 0.6 to 1.2)"
+     ],
+     [
+      "Eosinophils (blood)",
+      "9% (normal 1 to 4)"
+     ],
+     [
+      "Urinalysis",
+      "white blood cells and white cell casts; no bacteria"
+     ]
+    ]
    ]
   },
   {
@@ -476,18 +998,58 @@
    "answer": 4,
    "evidence": [],
    "explain": {
-    "html": "<p>Short Gram-positive rods causing neonatal meningitis point to <i>Listeria monocytogenes</i>. The lecture names ampicillin as the drug of choice for <i>Listeria</i> meningitis (\"Amp up for Listeria\") and lists cefotaxime for neonatal meningitis, often given with ampicillin. The reason for the pairing is that cephalosporins do not reliably cover <i>Listeria</i> (or <i>Enterococcus</i>), so the ampicillin fills that gap.</p><p>Ampicillin also penetrates the CSF, which the lecture lists among the penicillin pharmacokinetic facts (penicillin, ampicillin and nafcillin reach the CSF).</p>",
+    "html": "<p>Empiric therapy is matched to the site and the likely organism. <b>Ampicillin is the drug of choice for <i>Listeria</i> meningitis</b> (\"Amp up for Listeria\") and for serious <i>E. faecalis</i> infections, and it is one of the penicillins that <b>penetrates the CSF</b>. Cephalosporins share the beta-lactam mechanism, but they have <b>no reliable enterococcus coverage</b> and do not take the place of ampicillin for <i>Listeria</i>. That is why the lecture lists <b>cefotaxime for neonatal meningitis, often with ampicillin</b>.</p><p>A 9-day-old with neutrophilic, low-glucose CSF and <b>short Gram-positive rods</b> on Gram stain has <i>Listeria</i> until proven otherwise. Cefotaxime covers the other neonatal pathogens, and ampicillin is added to close the <i>Listeria</i> gap. Missing that pairing leaves the most dangerous organism in this age group untreated.</p>",
     "table": null,
     "why": [
-     "PBP2a is the MRSA resistance target; vancomycin is not the agent added for Listeria.",
-     "Aminoglycosides are not used alone for Gram-positive organisms; their Gram-positive role is synergy with a cell wall agent.",
-     "Aztreonam has no Gram-positive activity at all, and Listeria has a cell wall.",
-     "Listeria is not an anaerobic spore former, and metronidazole is for anaerobes and protozoa.",
+     "PBP2a is the MRSA resistance target, and vancomycin is not the agent paired with cefotaxime for this rod.",
+     "Gentamicin alone is not the added agent; ampicillin joins cefotaxime because cephalosporins do not reliably cover Listeria.",
+     "Aztreonam has no Gram-positive activity, and Listeria is a Gram-positive rod with a cell wall.",
+     "Metronidazole acts on DNA synthesis and is not the Listeria drug; ampicillin is.",
      ""
     ],
-    "takeaway": "Ampicillin is the drug of choice for Listeria meningitis and is added to a cephalosporin for neonatal meningitis because cephalosporins do not cover Listeria.",
+    "takeaway": "Ampicillin is the drug of choice for Listeria meningitis and is added to cefotaxime for neonatal meningitis because cephalosporins do not cover Listeria.",
     "topic": "Ampicillin for Listeria and neonatal meningitis",
-    "subject": "Pharmacology"
+    "subject": "Pharmacology",
+    "objective": "Recommend appropriate antibiotic therapy based on site of infection and suspected or actual bacterial pathogens",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "PBP2a is the MRSA resistance target, and vancomycin is not the agent paired with cefotaxime for this rod.",
+      "if_right": "Gram-positive cocci in clusters resistant to oxacillin"
+     },
+     {
+      "choice": 1,
+      "why": "Gentamicin alone is not the added agent; ampicillin joins cefotaxime because cephalosporins do not reliably cover Listeria.",
+      "if_right": "a serious Gram-negative rod infection where an aminoglycoside joins a beta-lactam"
+     },
+     {
+      "choice": 2,
+      "why": "Aztreonam has no Gram-positive activity, and Listeria is a Gram-positive rod with a cell wall.",
+      "if_right": "a Gram-negative rod infection in a patient with a true IgE-mediated beta-lactam allergy"
+     },
+     {
+      "choice": 3,
+      "why": "Metronidazole acts on DNA synthesis and is not the Listeria drug; ampicillin is.",
+      "if_right": "an infection the stem attributes to an anaerobe rather than a Gram-positive rod"
+     }
+    ],
+    "slides": {
+     "stem": [
+      29
+     ],
+     "answer": [
+      14,
+      21,
+      29
+     ],
+     "distractors": [
+      31,
+      29,
+      46,
+      6
+     ]
+    },
+    "deck": "27 Antibiotics I"
    },
    "figures": []
   },
@@ -506,18 +1068,57 @@
    "answer": 1,
    "evidence": [],
    "explain": {
-    "html": "<p>The drug described is ceftriaxone: third generation, biliary excretion (the exception among cephalosporins, which makes it safe in renal failure) and biliary sludging. The lecture lists its unique adverse effects as hyperbilirubinemia and neonatal jaundice, which make it contraindicated in neonates, and calcium binding with precipitation, a concern for intravenous compatibility.</p><p>This jaundiced newborn on calcium-containing fluids has both problems. Cefotaxime is the third-generation agent the lecture uses for neonatal meningitis instead.</p>",
+    "html": "<p>Cephalosporins undergo minimal hepatic metabolism and are excreted mainly unchanged by the kidney, with a short half-life of 1 to 2 hours. <b>Ceftriaxone is the exception, with primarily biliary excretion</b>, which makes it safe in renal failure but explains its biliary sludging. Its unique adverse effects are <b>hyperbilirubinemia with neonatal jaundice</b>, which makes it <b>contraindicated in neonates</b>, and <b>calcium binding with precipitation</b>, a concern for IV compatibility. For neonatal meningitis the lecture uses <b>cefotaxime</b>, often with ampicillin.</p><p>The drug the resident described (third generation, once daily, biliary excretion, sludging) is ceftriaxone. This 5-day-old is already jaundiced with a bilirubin of 14 mg/dL and is on calcium-containing fluids, so she carries both of its unique risks. The pharmacist's swap to cefotaxime avoids them.</p>",
     "table": null,
     "why": [
-     "Ceftriaxone is cleared mainly in bile, so renal accumulation is not the concern.",
+     "Ceftriaxone is cleared mainly in bile, so renal accumulation is not the reason to avoid it.",
      "",
-     "Seizures and encephalopathy are linked to cefepime (and imipenem), not ceftriaxone.",
-     "Ceftriaxone does penetrate the CSF; that is why it is used for meningitis in older patients.",
-     "A disulfiram-like reaction is linked to cefotetan (and metronidazole), not ceftriaxone."
+     "Encephalopathy and seizures are the unique adverse effect of cefepime, not ceftriaxone.",
+     "Ceftriaxone does penetrate the CSF, which is why it is used for meningitis outside the neonatal period.",
+     "The disulfiram-like reaction is linked to cefotetan, not ceftriaxone."
     ],
-    "takeaway": "Ceftriaxone is excreted in bile, can cause biliary sludging and neonatal hyperbilirubinemia, and precipitates with calcium, so it is avoided in neonates (cefotaxime is used instead).",
+    "takeaway": "Ceftriaxone is excreted in bile, worsens neonatal hyperbilirubinemia and precipitates with calcium, so it is contraindicated in neonates, where cefotaxime is used instead.",
     "topic": "Ceftriaxone in neonates and biliary excretion",
-    "subject": "Pharmacology"
+    "subject": "Pharmacology",
+    "objective": "For each antimicrobial class/agent: Recognize major or very common side effects",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Ceftriaxone is cleared mainly in bile, so renal accumulation is not the reason to avoid it.",
+      "if_right": "a cephalosporin cleared unchanged by the kidney given to a patient with renal failure"
+     },
+     {
+      "choice": 2,
+      "why": "Encephalopathy and seizures are the unique adverse effect of cefepime, not ceftriaxone.",
+      "if_right": "an unadjusted cefepime dose in a patient with renal failure"
+     },
+     {
+      "choice": 3,
+      "why": "Ceftriaxone does penetrate the CSF, which is why it is used for meningitis outside the neonatal period.",
+      "if_right": "a cephalosporin not on the list of agents that reach the CSF"
+     },
+     {
+      "choice": 4,
+      "why": "The disulfiram-like reaction is linked to cefotetan, not ceftriaxone.",
+      "if_right": "a patient on cefotetan who drinks alcohol"
+     }
+    ],
+    "slides": {
+     "stem": [
+      29,
+      35
+     ],
+     "answer": [
+      36
+     ],
+     "distractors": [
+      35,
+      36,
+      35,
+      37
+     ]
+    },
+    "deck": "27 Antibiotics I"
    },
    "figures": [
     {
@@ -542,18 +1143,57 @@
    "answer": 3,
    "evidence": [],
    "explain": {
-    "html": "<p>The drug is cefepime, the fourth-generation cephalosporin the lecture uses for febrile neutropenia and broad empiric coverage including <i>Pseudomonas</i>. Cephalosporins are excreted mainly unchanged by the kidney, so an unadjusted dose in severe kidney disease accumulates.</p><p>The lecture lists neurotoxicity (encephalopathy and seizures, especially in renal failure or at higher doses) as cefepime's signature adverse effect, which fits her confusion, myoclonus and epileptiform EEG with normal imaging.</p>",
+    "html": "<p>Cephalosporins are excreted primarily unchanged by the kidney, so most need renal dose adjustment, and an unadjusted dose in kidney disease accumulates. <b>Cefepime</b>, the only fourth-generation agent, covers staphylococci, streptococci and Gram-negatives including <b><i>Pseudomonas</i> and <i>Enterobacter</i></b>, and is used for broad empiric coverage of severe infections and <b>febrile neutropenia</b>. Its signature adverse effect is <b>neurotoxicity: encephalopathy and seizures</b>, especially at higher doses in renal impairment.</p><p>This woman has severe chronic kidney disease and received full, unadjusted cefepime for febrile neutropenia. Confusion, myoclonus and <b>epileptiform discharges with normal imaging</b> on day 4 are the encephalopathy the lecture warns about. Renal dosing of beta-lactams is a safety step, not a formality.</p>",
     "table": null,
     "why": [
-     "Cefepime does cover Pseudomonas and penetrates CSF; the picture fits drug toxicity, not a missed organism.",
-     "Weak MAO inhibition and serotonin syndrome belong to linezolid, not cefepime.",
-     "Cefepime is not associated with cholestatic liver injury; hyperbilirubinemia is a ceftriaxone feature.",
+     "Cefepime covers Pseudomonas and reaches the CSF, so a missed organism does not explain this picture.",
+     "Serotonin syndrome is not an adverse effect listed for cefepime, whose signature is neurotoxicity.",
+     "Cefepime is not linked to liver injury; hyperbilirubinemia is a ceftriaxone feature.",
      "",
-     "Calcium precipitation is a ceftriaxone compatibility problem, not a cause of this syndrome."
+     "Calcium precipitation is a ceftriaxone IV compatibility problem, not a cefepime effect."
     ],
-    "takeaway": "Cefepime, the fourth-generation anti-pseudomonal cephalosporin, causes encephalopathy and seizures, especially when not dose-adjusted in renal failure.",
+    "takeaway": "Cefepime, the fourth-generation anti-pseudomonal cephalosporin, causes encephalopathy and seizures, especially at unadjusted doses in renal failure.",
     "topic": "Cefepime neurotoxicity",
-    "subject": "Pharmacology"
+    "subject": "Pharmacology",
+    "objective": "For each antimicrobial class/agent: Recognize major or very common side effects",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Cefepime covers Pseudomonas and reaches the CSF, so a missed organism does not explain this picture.",
+      "if_right": "a third-generation agent without Pseudomonas coverage, such as ceftriaxone, used against Pseudomonas"
+     },
+     {
+      "choice": 1,
+      "why": "Serotonin syndrome is not an adverse effect listed for cefepime, whose signature is neurotoxicity.",
+      "if_right": "a drug the stem says carries monoamine oxidase inhibition"
+     },
+     {
+      "choice": 2,
+      "why": "Cefepime is not linked to liver injury; hyperbilirubinemia is a ceftriaxone feature.",
+      "if_right": "a neonate given ceftriaxone who becomes more jaundiced"
+     },
+     {
+      "choice": 4,
+      "why": "Calcium precipitation is a ceftriaxone IV compatibility problem, not a cefepime effect.",
+      "if_right": "ceftriaxone mixed with calcium-containing IV fluids"
+     }
+    ],
+    "slides": {
+     "stem": [
+      30
+     ],
+     "answer": [
+      36,
+      38
+     ],
+     "distractors": [
+      35,
+      36,
+      36,
+      36
+     ]
+    },
+    "deck": "27 Antibiotics I"
    },
    "figures": [
     {
@@ -578,18 +1218,57 @@
    "answer": 0,
    "evidence": [],
    "explain": {
-    "html": "<p>The drug is aztreonam, the monobactam: a monocyclic beta-lactam ring, Gram-negative only (\"A Z for zero Gram-positive, zero anaerobes\"). Because the immune system does not recognize it as a penicillin or cephalosporin, it is the option for serious Gram-negative infections in patients with true IgE-mediated beta-lactam allergy, and it has no cross-reactivity with penicillins.</p><p>The lecture flags one exception: aztreonam cross-reacts with ceftazidime (and probably cefiderocol) because they share a similar side chain. This patient's amoxicillin anaphylaxis would not rule aztreonam out, but his ceftazidime reaction does make it a real concern. Cross-reactivity follows side chains, not the beta-lactam ring itself.</p>",
-    "table": null,
+    "html": "<p>Beta-lactam cross-reactivity follows <b>side chains</b>, not the shared ring. <b>Aztreonam</b>, the monobactam, has a <b>monocyclic ring</b> not fused to another ring, covers <b>only Gram-negatives including <i>Pseudomonas</i></b> (\"A Z for zero Gram-positive, zero anaerobes\"), and is not recognized by the immune system as a penicillin or cephalosporin. It has <b>no cross-reactivity with penicillins</b>, so it is the option for serious Gram-negative infections in true IgE-mediated beta-lactam allergy. The exception is <b>ceftazidime</b> (and probably cefiderocol), which shares a similar side chain.</p><p>This man's amoxicillin anaphylaxis would not rule aztreonam out. His urticaria with hypotension during ceftazidime, however, is exactly the reaction that shared side chain could repeat, so aztreonam is a real concern for him.</p>",
+    "table": "<table><tr><th>Drug</th><th>Cross-reactivity</th></tr><tr><td>Aztreonam vs penicillins</td><td>None</td></tr><tr><td>Aztreonam vs ceftazidime (probably cefiderocol)</td><td>Yes, similar side chain</td></tr><tr><td>Carbapenems vs penicillins</td><td>Small, under 1%</td></tr><tr><td>Cephalosporins vs penicillins (non-IgE)</td><td>Under 2%, depends on side chain</td></tr></table>",
     "why": [
      "",
      "Aztreonam has no cross-reactivity with penicillins such as amoxicillin.",
-     "Aztreonam does cross-react with ceftazidime, so \"no cross-reactivity with any beta-lactam\" is too broad.",
-     "His reactions were urticaria with hypotension and throat swelling, which are IgE-type, and histamine release describes vancomycin.",
-     "Cross-reactivity depends on side chains, not on a shared beta-lactam ring."
+     "Aztreonam does cross-react with ceftazidime, so no cross-reactivity at all is too broad.",
+     "His hives, throat swelling and hypotension were IgE-type reactions, and direct histamine release describes vancomycin.",
+     "Cross-reactivity depends on side chains, not on the beta-lactam ring all these drugs share."
     ],
-    "takeaway": "Aztreonam does not cross-react with penicillins and is used in true beta-lactam allergy, but it can cross-react with ceftazidime because of a shared side chain.",
+    "takeaway": "Aztreonam does not cross-react with penicillins and is used in true IgE-mediated beta-lactam allergy, but it can cross-react with ceftazidime because of a shared side chain.",
     "topic": "Aztreonam cross-reactivity",
-    "subject": "Pharmacology"
+    "subject": "Pharmacology",
+    "objective": "Assess the risk of cross reactivity between beta-lactams",
+    "rows": [
+     {
+      "choice": 1,
+      "why": "Aztreonam has no cross-reactivity with penicillins such as amoxicillin.",
+      "if_right": "a second penicillin, such as ampicillin, considered after amoxicillin anaphylaxis"
+     },
+     {
+      "choice": 2,
+      "why": "Aztreonam does cross-react with ceftazidime, so no cross-reactivity at all is too broad.",
+      "if_right": "a patient whose only reaction history is anaphylaxis to a penicillin"
+     },
+     {
+      "choice": 3,
+      "why": "His hives, throat swelling and hypotension were IgE-type reactions, and direct histamine release describes vancomycin.",
+      "if_right": "flushing and itching during a rapid vancomycin infusion"
+     },
+     {
+      "choice": 4,
+      "why": "Cross-reactivity depends on side chains, not on the beta-lactam ring all these drugs share.",
+      "if_right": "none; beta-lactam cross-reactivity follows shared side chains, never the shared ring"
+     }
+    ],
+    "slides": {
+     "stem": [
+      46
+     ],
+     "answer": [
+      46,
+      60
+     ],
+     "distractors": [
+      46,
+      60,
+      51,
+      64
+     ]
+    },
+    "deck": "27 Antibiotics I"
    },
    "figures": [
     {
@@ -614,18 +1293,58 @@
    "answer": 2,
    "evidence": [],
    "explain": {
-    "html": "<p>Oxacillin-resistant staphylococci are MRSA, and the first-line drug is vancomycin. Flushing and itching over the upper chest, neck and face, with mild hypotension, during a fast infusion is vancomycin flushing (infusion) syndrome. The lecture stresses that it is histamine mediated, related to the rate of infusion and not a true allergy, so it is managed with antihistamines and a longer infusion time.</p><p>Labeling it an allergy would wrongly remove a key MRSA drug, and switching to a beta-lactam would fail against MRSA. Oral vancomycin is essentially not absorbed and is used only for <i>C. difficile</i>, so it cannot treat a joint infection.</p>",
+    "html": "<p>Vancomycin is the glycopeptide used for systemic Gram-positive infections, including MRSA, and its two key adverse effects are nephrotoxicity and <b>vancomycin flushing (infusion) syndrome</b>. The syndrome presents as <b>flushing and itching of the upper chest, neck and face</b>, with or without hypotension. It is <b>histamine mediated and not a true allergy</b>, caused by direct mast cell release, and its severity is <b>related to the rate of infusion</b>. It is managed with <b>antihistamines and a longer infusion time</b>.</p><p>His isolate is oxacillin resistant, so it is MRSA and vancomycin is first line. Flushing and mild hypotension 10 minutes into a rapid infusion, without wheezing, lip swelling or wheals, and prior tolerance at a 2-hour infusion, is the syndrome. Labeling it an allergy would wrongly remove a key MRSA drug.</p>",
     "table": null,
     "why": [
      "This is not a true allergy, and standard beta-lactams do not treat MRSA.",
-     "Epinephrine and permanent avoidance fit anaphylaxis, which this rate-related histamine reaction is not.",
+     "Epinephrine and permanent avoidance fit anaphylaxis, not a rate-related histamine reaction.",
      "",
-     "Adding an aminoglycoside does not address an infusion-rate reaction and adds nephrotoxicity.",
-     "Oral vancomycin has nearly zero systemic absorption and treats only C. difficile."
+     "Adding another drug does not treat an infusion-rate reaction and raises nephrotoxicity risk.",
+     "Oral vancomycin is essentially not absorbed and is used only for C. difficile, so it cannot treat a joint infection."
     ],
-    "takeaway": "Vancomycin flushing syndrome is a rate-related, histamine-mediated reaction (not an allergy) managed with antihistamines and a slower infusion.",
+    "takeaway": "Vancomycin flushing syndrome is a rate-related, histamine-mediated reaction, not an allergy, managed with antihistamines and a slower infusion.",
     "topic": "Vancomycin flushing syndrome",
-    "subject": "Pharmacology"
+    "subject": "Pharmacology",
+    "objective": "For each antimicrobial class/agent: Recognize major or very common side effects",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "This is not a true allergy, and standard beta-lactams do not treat MRSA.",
+      "if_right": "hives, wheezing and lip swelling during the infusion, with an organism that is oxacillin susceptible"
+     },
+     {
+      "choice": 1,
+      "why": "Epinephrine and permanent avoidance fit anaphylaxis, not a rate-related histamine reaction.",
+      "if_right": "wheezing, angioedema and urticarial wheals during the infusion"
+     },
+     {
+      "choice": 3,
+      "why": "Adding another drug does not treat an infusion-rate reaction and raises nephrotoxicity risk.",
+      "if_right": "an infection where gentamicin is added to a cell wall agent for synergy"
+     },
+     {
+      "choice": 4,
+      "why": "Oral vancomycin is essentially not absorbed and is used only for C. difficile, so it cannot treat a joint infection.",
+      "if_right": "a patient with C. difficile colitis"
+     }
+    ],
+    "slides": {
+     "stem": [
+      50,
+      51
+     ],
+     "answer": [
+      51,
+      67
+     ],
+     "distractors": [
+      62,
+      51,
+      51,
+      50
+     ]
+    },
+    "deck": "27 Antibiotics I"
    },
    "figures": [
     {

@@ -20,18 +20,56 @@
    "answer": 4,
    "evidence": [],
    "explain": {
-    "html": "<p>Vomiting 1 to 6 hours after eating rice that was cooked, held, then briefly stir-fried is the <b>emetic syndrome of Bacillus cereus</b>, a gram-positive, spore-forming rod common in the environment and on grains.</p><p>The spores <b>survive the first cooking</b>. If the rice is held without refrigeration, they germinate into bacteria that make the <b>heat-stable emetic toxin</b>, and stir-frying does not destroy it. B. cereus also has a diarrheal form, 8 to 16 hours after viable spores are eaten and make toxin in the intestine.</p>",
+    "html": "<p><i>Bacillus cereus</i> is a <b>gram-positive, spore-forming rod</b> found widely in the environment, including on grains, and it makes two kinds of enterotoxin, emetic and diarrheal. Its spores survive cooking, and if cooked food is not eaten right away, they germinate into bacteria that form toxin in the food. The <b>emetic toxin is heat stable</b>, so stir-frying held rice does not remove it, and nausea and vomiting begin <b>1 to 6 hours</b> after eating. The diarrheal form is different: viable spores are eaten, become bacteria in the intestine and produce toxin there, with diarrhea 8 to 16 hours later.</p><p>Here, rice cooked in a large batch in the morning, <b>held at room temperature</b> and stir-fried to order, followed by vomiting 2 hours later without fever, is the classic <b>fried rice</b> emetic syndrome. Very large amounts of toxin, from food left unrefrigerated for days, have caused fatal hepatic failure.</p>",
     "table": null,
     "why": [
-     "Shiga-like toxin describes EHEC, which causes bloody diarrhea days later.",
-     "A curved rod that grows at 42 C is Campylobacter, which causes later-onset diarrhea.",
-     "Staph aureus causes a similar syndrome, but the fried-rice holding story points to B. cereus.",
-     "Neurotoxin blocking acetylcholine release describes Clostridium botulinum.",
+     "A gram-negative rod making Shiga-like toxin is EHEC, which causes bloody diarrhea days after undercooked beef, not vomiting 2 hours after rice.",
+     "A curved gram-negative rod that grows at 42 C is Campylobacter, which causes later-onset, often bloody diarrhea after poultry.",
+     "Staphylococcus aureus causes the same rapid vomiting, but the stem points to rice held after cooking, not a food handler's skin and a cream or egg dish.",
+     "An anaerobic rod whose toxin blocks acetylcholine release is Clostridium botulinum, which causes descending paralysis 12 to 36 hours later, not vomiting alone.",
      ""
     ],
-    "takeaway": "Bacillus cereus spores survive cooking of rice; held rice develops a heat-stable emetic toxin that causes vomiting 1 to 6 hours after eating.",
+    "takeaway": "Bacillus cereus spores survive cooking of rice, and rice held unrefrigerated develops a heat-stable emetic toxin that causes vomiting 1 to 6 hours after eating.",
     "topic": "Bacillus cereus emetic syndrome",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "Know microbiology of common pathogens involved",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "A gram-negative rod making Shiga-like toxin is EHEC, which causes bloody diarrhea days after undercooked beef, not vomiting 2 hours after rice.",
+      "if_right": "bloody diarrhea several days after a hamburger, with a positive stool toxin assay"
+     },
+     {
+      "choice": 1,
+      "why": "A curved gram-negative rod that grows at 42 C is Campylobacter, which causes later-onset, often bloody diarrhea after poultry.",
+      "if_right": "fever and bloody diarrhea days after handling raw chicken"
+     },
+     {
+      "choice": 2,
+      "why": "Staphylococcus aureus causes the same rapid vomiting, but the stem points to rice held after cooking, not a food handler's skin and a cream or egg dish.",
+      "if_right": "vomiting 3 hours after a mayonnaise dish prepared by a cook with a finger abscess"
+     },
+     {
+      "choice": 3,
+      "why": "An anaerobic rod whose toxin blocks acetylcholine release is Clostridium botulinum, which causes descending paralysis 12 to 36 hours later, not vomiting alone.",
+      "if_right": "cranial nerve palsies and descending paralysis after home-canned vegetables"
+     }
+    ],
+    "slides": {
+     "stem": [
+      12
+     ],
+     "answer": [
+      12
+     ],
+     "distractors": [
+      20,
+      29,
+      10,
+      14
+     ]
+    },
+    "deck": "44 Food Borne Illnesses"
    },
    "figures": []
   },
@@ -50,18 +88,56 @@
    "answer": 2,
    "evidence": [],
    "explain": {
-    "html": "<p>Watery diarrhea 8 to 16 hours after a large-batch meat and gravy meal served at a cafeteria, prison or banquet is the signature of <b>Clostridium perfringens</b>, a spore-forming gram-positive rod. Spores survive cooking and germinate in slowly cooled meats and gravies, and the ingested <b>enterotoxin</b> causes diarrhea.</p><p>The incubation is longer than Staph aureus (3 to 4 hours, vomiting), and the illness is brief and afebrile, unlike invasive pathogens. A distinct type C toxin causes the severe, possibly bloody syndrome called pigbel.</p>",
+    "html": "<p>The incubation period sorts foodborne illness: a short interval means a preformed toxin, while a longer one means organisms or spores had to become active before toxin is made. <i>Clostridium perfringens</i> is a <b>gram-positive, spore-forming rod</b> whose spores survive cooking and germinate in <b>meats and gravies</b>, producing viable bacteria and toxin. Ingested <b>enterotoxin</b> causes watery diarrhea <b>8 to 16 hours</b> later. The classic setting is <b>large-batch food</b> such as roasts with gravy at cafeterias, prisons and banquets, usually in November and December in the US, with corned beef outbreaks around St Patrick's Day.</p><p>Here, 40 cafeteria workers with afebrile watery diarrhea and no vomiting 8 to 16 hours after roast beef and gravy cooled slowly in a large batch fit <i>C. perfringens</i>. A separate type C toxin causes pigbel, a severe and possibly bloody syndrome with bloating and vomiting described after feasts and with cooked animal intestines.</p>",
     "table": null,
     "why": [
-     "Staph aureus causes vomiting within 3 to 4 hours, not diarrhea at 8 to 16 hours.",
-     "Typhoid has a 5 to 21 day incubation with fever.",
+     "Staphylococcus aureus causes vomiting within 3 to 4 hours, while these workers had diarrhea without vomiting at 8 to 16 hours.",
+     "Salmonella typhi has a 5 to 21 day incubation with a gradually rising fever, not a one-day afebrile illness after a meal.",
      "",
-     "Cholera comes from contaminated water and causes massive watery diarrhea.",
-     "Listeria is linked to deli meats and cheese, with invasive disease in high-risk hosts."
+     "Vibrio cholerae comes from contaminated water and causes massive dehydrating diarrhea, not a brief illness after cafeteria meat.",
+     "Listeria causes invasive disease in pregnant, elderly or immunocompromised hosts after deli meats and cheese, with an incubation up to 6 weeks."
     ],
-    "takeaway": "Clostridium perfringens causes afebrile watery diarrhea 8 to 16 hours after large-batch meats and gravies cooled slowly.",
+    "takeaway": "Clostridium perfringens spores germinate in slowly cooled large-batch meats and gravies, and the ingested enterotoxin causes afebrile watery diarrhea 8 to 16 hours later.",
     "topic": "Clostridium perfringens",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "Know clinical syndromes caused by common pathogens in food-borne illness",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Staphylococcus aureus causes vomiting within 3 to 4 hours, while these workers had diarrhea without vomiting at 8 to 16 hours.",
+      "if_right": "abrupt vomiting 3 hours after a cream or egg dish made by a food handler with a skin infection"
+     },
+     {
+      "choice": 1,
+      "why": "Salmonella typhi has a 5 to 21 day incubation with a gradually rising fever, not a one-day afebrile illness after a meal.",
+      "if_right": "a traveler with rising fever, relative bradycardia and rose spots 2 weeks after returning"
+     },
+     {
+      "choice": 3,
+      "why": "Vibrio cholerae comes from contaminated water and causes massive dehydrating diarrhea, not a brief illness after cafeteria meat.",
+      "if_right": "liters of watery diarrhea with shock after drinking contaminated water in a flood zone"
+     },
+     {
+      "choice": 4,
+      "why": "Listeria causes invasive disease in pregnant, elderly or immunocompromised hosts after deli meats and cheese, with an incubation up to 6 weeks.",
+      "if_right": "a pregnant woman with fever and bacteremia weeks after eating deli meats"
+     }
+    ],
+    "slides": {
+     "stem": [
+      11
+     ],
+     "answer": [
+      11
+     ],
+     "distractors": [
+      10,
+      27,
+      32,
+      37
+     ]
+    },
+    "deck": "44 Food Borne Illnesses"
    },
    "figures": []
   },
@@ -80,18 +156,57 @@
    "answer": 2,
    "evidence": [],
    "explain": {
-    "html": "<p>Nontyphoidal <b>Salmonella</b> gastroenteritis in a healthy adult is managed supportively. Antibiotics are usually not necessary for GI illness except in the very young, the very old and the immunocompromised, and they <b>may lengthen the period of carriage</b>, which matters most for food handlers and health care workers.</p><p>For that reason, <b>food handlers and health care workers cannot return to work until a stool culture is negative</b>. Prevention otherwise relies on proper food preparation and storage.</p>",
+    "html": "<p>Nontyphoidal <i>Salmonella</i> enterocolitis is usually an <b>acute, self-limited</b> illness with fever, cramps and diarrhea, most often from contamination during food preparation at home with poultry, eggs or dairy. Diagnosis is by stool culture on a selective medium, and treatment is <b>supportive</b>. Antibiotics are usually not necessary for GI illness except in the very young, the very old and the immunocompromised. They <b>may lead to a longer period of carriage</b>, which matters most for <b>food handlers and health care workers</b>, who could pass the organism on.</p><p>This healthy cook recovered with fluids, so he needs no antibiotic, but feeling well does not prove he has stopped shedding. The rule is that food handlers and health care workers <b>return only after a negative stool culture</b>, while prevention otherwise relies on proper food preparation and storage.</p>",
     "table": null,
     "why": [
-     "Resolution of symptoms does not mean he has stopped shedding the organism.",
-     "Antibiotics may prolong carriage, not shorten it, in uncomplicated Salmonella.",
+     "Symptom resolution does not mean he has stopped shedding Salmonella, and as a cook he could contaminate food.",
+     "Antibiotics may prolong carriage in uncomplicated Salmonella, so they would delay, not hasten, a negative culture.",
      "",
-     "The typhoid vaccine does not clear an existing nontyphoidal Salmonella infection.",
-     "Twelve months of positive cultures defines chronic typhoid carriage, not a return-to-work rule."
+     "The typhoid vaccine prevents future S. typhi infection and does not clear an existing nontyphoidal Salmonella infection.",
+     "Positive stool cultures for more than 12 months define chronic typhoid carriage; it is not a waiting period for return to work."
     ],
-    "takeaway": "In uncomplicated nontyphoidal Salmonella, antibiotics may prolong carriage, and food handlers and health care workers return only after a negative stool culture.",
+    "takeaway": "In uncomplicated nontyphoidal Salmonella, antibiotics may prolong carriage, so food handlers and health care workers return to work only after a negative stool culture.",
     "topic": "Salmonella and food handlers",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "Know clinical syndromes caused by common pathogens in food-borne illness",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Symptom resolution does not mean he has stopped shedding Salmonella, and as a cook he could contaminate food.",
+      "if_right": "a recovered patient who is neither a food handler nor a health care worker"
+     },
+     {
+      "choice": 1,
+      "why": "Antibiotics may prolong carriage in uncomplicated Salmonella, so they would delay, not hasten, a negative culture.",
+      "if_right": "a very young, very old or immunocompromised patient, in whom antibiotics for Salmonella GI illness are used"
+     },
+     {
+      "choice": 3,
+      "why": "The typhoid vaccine prevents future S. typhi infection and does not clear an existing nontyphoidal Salmonella infection.",
+      "if_right": "a traveler to an area with poor sanitation who wants typhoid prevention"
+     },
+     {
+      "choice": 4,
+      "why": "Positive stool cultures for more than 12 months define chronic typhoid carriage; it is not a waiting period for return to work.",
+      "if_right": "a person whose stool has grown S. typhi for over a year, defining a chronic carrier"
+     }
+    ],
+    "slides": {
+     "stem": [
+      24,
+      25
+     ],
+     "answer": [
+      25
+     ],
+     "distractors": [
+      25,
+      25,
+      27,
+      27
+     ]
+    },
+    "deck": "44 Food Borne Illnesses"
    },
    "figures": []
   },
@@ -110,18 +225,56 @@
    "answer": 4,
    "evidence": [],
    "explain": {
-    "html": "<p>A gradually climbing fever with <b>relative bradycardia</b>, abdominal pain, <b>rose spots</b> and splenomegaly after travel to an area with poor sanitation is <b>typhoid fever</b>, caused by <b>Salmonella typhi</b>, a human-only pathogen with a 5 to 21 day incubation. By the third week it can cause intestinal bleeding, perforation and sepsis.</p><p>Typhoid is diagnosed by <b>blood cultures</b>. Unlike nontyphoidal Salmonella, it is <b>treated with antibiotics</b> (ceftriaxone, with susceptibility checks in travelers), and a vaccine is available.</p>",
-    "table": null,
+    "html": "<p>The <i>Salmonella</i> subspecies behave very differently. <i>S. typhi</i> is a <b>human-only pathogen</b> linked to poor sanitation and water, and most cases are in travelers. <b>Typhoid fever</b> follows a 5 to 21 day incubation with a <b>gradually rising fever</b>, <b>relative bradycardia</b>, abdominal pain and <b>rose spots</b>, and by the third week it can cause intestinal bleeding, perforation and sepsis. Because typhoid is a bloodstream illness, it is diagnosed by <b>blood cultures</b>, and unlike nontyphoidal Salmonella it is treated with antibiotics such as ceftriaxone, with susceptibility data checked in travelers.</p><p>This man has a 10-day climbing fever of 39.8 C with a pulse of only 74, faint pink abdominal macules and splenomegaly after rural South Asia, and his negative stool culture does not exclude typhoid. Blood cultures confirm it, and a vaccine is available for future travel.</p>",
+    "table": "<table><tr><th>Feature</th><th>S. enteritidis (nontyphoidal)</th><th>S. typhi (typhoid)</th></tr><tr><td>Reservoir</td><td>Poultry, reptiles, pigs</td><td>Humans only</td></tr><tr><td>Incubation</td><td>36 to 72 hours</td><td>5 to 21 days</td></tr><tr><td>Illness</td><td>Self-limited enterocolitis; invasive in sickle cell, HIV, elderly</td><td>Rising fever, relative bradycardia, rose spots; bleeding or perforation in week 3</td></tr><tr><td>Diagnosis</td><td>Stool culture on selective medium</td><td>Blood cultures</td></tr><tr><td>Antibiotics</td><td>Usually not needed; may prolong carriage</td><td>Indicated (ceftriaxone)</td></tr><tr><td>Carriage</td><td>Food handlers return after a negative stool culture</td><td>Chronic carrier over 12 months, gallbladder</td></tr></table>",
     "why": [
-     "Stool culture is the test for Salmonella enterocolitis; typhoid is a bloodstream illness.",
-     "Modified acid-fast stain detects Cryptosporidium and Cyclospora.",
-     "Shiga toxin assays are for EHEC.",
-     "Hepatitis A causes jaundice and very high liver enzymes, not rose spots.",
+     "Stool culture on a selective medium diagnoses Salmonella enterocolitis, while typhoid is diagnosed from the blood, and his stool culture was already negative.",
+     "A modified acid-fast stain detects Cryptosporidium and Cyclospora, which cause watery diarrhea rather than a rising fever with rose spots.",
+     "Stool Shiga toxin assays confirm EHEC, which causes bloody diarrhea without high fever.",
+     "Hepatitis A causes nausea, vomiting, jaundice and very high liver enzymes, not a climbing fever with relative bradycardia and rose spots.",
      ""
     ],
-    "takeaway": "Typhoid fever (S. typhi: rising fever, relative bradycardia, rose spots) is diagnosed by blood cultures and treated with antibiotics such as ceftriaxone.",
+    "takeaway": "Typhoid fever from Salmonella typhi presents with gradually rising fever, relative bradycardia, abdominal pain and rose spots, is diagnosed by blood culture, and is treated with antibiotics such as ceftriaxone.",
     "topic": "Typhoid fever",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "Know clinical syndromes caused by common pathogens in food-borne illness",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Stool culture on a selective medium diagnoses Salmonella enterocolitis, while typhoid is diagnosed from the blood, and his stool culture was already negative.",
+      "if_right": "fever and bloody diarrhea after undercooked eggs, suggesting nontyphoidal Salmonella enterocolitis"
+     },
+     {
+      "choice": 1,
+      "why": "A modified acid-fast stain detects Cryptosporidium and Cyclospora, which cause watery diarrhea rather than a rising fever with rose spots.",
+      "if_right": "watery diarrhea after imported raspberries, suggesting Cyclospora"
+     },
+     {
+      "choice": 2,
+      "why": "Stool Shiga toxin assays confirm EHEC, which causes bloody diarrhea without high fever.",
+      "if_right": "a child with afebrile bloody diarrhea after a hamburger and contact with cattle"
+     },
+     {
+      "choice": 3,
+      "why": "Hepatitis A causes nausea, vomiting, jaundice and very high liver enzymes, not a climbing fever with relative bradycardia and rose spots.",
+      "if_right": "a traveler with jaundice and markedly elevated liver enzymes after shellfish or contaminated produce"
+     }
+    ],
+    "slides": {
+     "stem": [
+      27
+     ],
+     "answer": [
+      27
+     ],
+     "distractors": [
+      25,
+      41,
+      20,
+      38
+     ]
+    },
+    "deck": "44 Food Borne Illnesses"
    },
    "figures": []
   },
@@ -140,18 +293,56 @@
    "answer": 2,
    "evidence": [],
    "explain": {
-    "html": "<p>Dysentery (fever, tenesmus, bloody mucoid stools) spreading person to person in a <b>daycare</b> is classic <b>Shigella sonnei</b>. Humans are the usual reservoir, and spread is by direct or indirect contact with feces, or through food or water contaminated by a food handler.</p><p>Its <b>infectious dose is very low</b> (about 10 organisms), so small lapses in hygiene are enough. The bacteria invade the bowel wall, causing more severe illness than many food-associated pathogens. Shiga toxin was first isolated from Shigella. Diagnosis is by stool culture.</p>",
-    "table": null,
+    "html": "<p>Whether an enteric pathogen spreads mainly through food or from person to person depends on its reservoir and how many organisms it takes to cause disease. <i>Shigella sonnei</i> is a gram-negative rod whose <b>usual reservoir is humans</b>, and it spreads through <b>direct or indirect contact with feces</b>, or through food or water contaminated by a food handler. Its <b>infectious dose is very low</b>, about 10 viable organisms, so small lapses in hygiene are enough, which is why <b>daycare outbreaks</b> are typical. The bacteria <b>invade the bowel</b>, causing fever, abdominal pain, tenesmus and bloody diarrhea, a more severe illness called dysentery.</p><p>Here, toddlers and staff with fever, tenesmus and small bloody mucoid stools, no common food or animal exposure, and a non-lactose-fermenting gram-negative rod in stool fit Shigella. Diagnosis is by stool culture on appropriate media, and Shiga toxin was first isolated from this organism.</p>",
+    "table": "<table><tr><th>Clue</th><th>Inflammatory or invasive</th><th>Secretory or toxin mediated</th></tr><tr><td>Stool</td><td>Bloody, white cells on smear</td><td>Large volume, watery, no white cells</td></tr><tr><td>Examples here</td><td>Shigella, Salmonella enteritidis, Campylobacter, enteroinvasive E. coli</td><td>Vibrio cholerae, enterotoxigenic E. coli</td></tr></table>",
     "why": [
-     "Shigella is not a spore former.",
-     "Poultry and wild birds are reservoirs for Campylobacter and Salmonella.",
+     "Shigella is a gram-negative rod that does not form spores; the spore formers here are the gram-positive Clostridium and Bacillus.",
+     "A large reservoir in poultry and wild birds describes Campylobacter and Salmonella, and this outbreak had no food or animal source.",
      "",
-     "Cold tolerance describes Listeria.",
-     "No shared food was involved, and Shigella invades rather than acting through preformed toxin."
+     "Growth at refrigerator temperatures is a Listeria property and does not explain person-to-person spread in a daycare.",
+     "No shared food was involved, and Shigella causes disease by invading the bowel, not through a toxin formed in food."
     ],
-    "takeaway": "Shigella has a human reservoir and a very low infectious dose (about 10 organisms), so it spreads person to person (daycares) and causes invasive dysentery.",
+    "takeaway": "Shigella has a human reservoir and an infectious dose of about 10 organisms, so it spreads person to person, as in daycares, and invades the bowel to cause dysentery.",
     "topic": "Shigella",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "Know microbiology of common pathogens involved",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Shigella is a gram-negative rod that does not form spores; the spore formers here are the gram-positive Clostridium and Bacillus.",
+      "if_right": "an outbreak traced to a gram-positive spore former such as Clostridium perfringens in held meat"
+     },
+     {
+      "choice": 1,
+      "why": "A large reservoir in poultry and wild birds describes Campylobacter and Salmonella, and this outbreak had no food or animal source.",
+      "if_right": "bloody diarrhea after handling raw chicken, from Campylobacter"
+     },
+     {
+      "choice": 3,
+      "why": "Growth at refrigerator temperatures is a Listeria property and does not explain person-to-person spread in a daycare.",
+      "if_right": "invasive illness in a pregnant woman after refrigerated deli meats"
+     },
+     {
+      "choice": 4,
+      "why": "No shared food was involved, and Shigella causes disease by invading the bowel, not through a toxin formed in food.",
+      "if_right": "vomiting within hours in everyone who ate one dish left at room temperature"
+     }
+    ],
+    "slides": {
+     "stem": [
+      28
+     ],
+     "answer": [
+      28
+     ],
+     "distractors": [
+      11,
+      29,
+      36,
+      10
+     ]
+    },
+    "deck": "44 Food Borne Illnesses"
    },
    "figures": []
   },
@@ -170,18 +361,57 @@
    "answer": 1,
    "evidence": [],
    "explain": {
-    "html": "<p>Massive, nonbloody watery diarrhea causing dehydration, acidosis and shock after drinking contaminated water is <b>cholera</b>, caused by <b>Vibrio cholerae</b> (serogroups O1 and O139 cause outbreaks). Its enterotoxin interferes with <b>adenylate cyclase</b> in mucosal cells, driving large-volume secretion without inflammation.</p><p>The bowel wall is not damaged, so it can still absorb salt and water when glucose is present. <b>Oral rehydration solution</b> (salt, sugar and water) is a very effective treatment and is the mainstay.</p>",
+    "html": "<p><i>Vibrio cholerae</i> is ingested, most often in contaminated water, and serogroups O1 and O139 cause outbreaks with no difference in illness. It produces an <b>enterotoxin that interferes with adenylate cyclase</b> in mucosal cells, driving <b>large-volume, watery, nonbloody diarrhea</b>. The fluid loss can cause <b>dehydration, acidosis</b>, hypotension and profound shock. Because the danger is fluid and salt loss, <b>oral rehydration</b> with salt, sugar and water was developed as a very effective treatment and is the mainstay.</p><p>This aid worker in a flooded refugee camp has sudden, painless, cloudy watery diarrhea of many liters a day without fever or blood, then sunken eyes, tachycardia, hypotension and metabolic acidosis, which is cholera. Restoring volume with <b>oral rehydration solution</b> is what saves his life, and culture can confirm the diagnosis in sporadic cases or returning travelers.</p>",
     "table": null,
     "why": [
-     "Antitoxin is used for botulism.",
+     "Antitoxin neutralizes botulinum toxin in a paralyzed patient; it does not replace the liters of fluid lost in cholera.",
      "",
-     "Ceftriaxone is used for typhoid fever.",
-     "Stopping motility does not replace the liters of fluid lost.",
-     "Ampicillin is used for invasive Listeria."
+     "Intravenous ceftriaxone is the antibiotic for typhoid fever and does not address cholera's life-threatening fluid loss.",
+     "Slowing motility does not replace the fluid and salt already lost, which is what is killing him.",
+     "Ampicillin treats invasive Listeria, a bacteremic illness, not a secretory diarrhea."
     ],
-    "takeaway": "Cholera toxin acts on adenylate cyclase to cause massive secretory diarrhea, and oral rehydration with salt, sugar and water is the mainstay of treatment.",
+    "takeaway": "Cholera toxin acts on adenylate cyclase to cause massive nonbloody secretory diarrhea with dehydration, acidosis and shock, and oral rehydration with salt, sugar and water is the mainstay of treatment.",
     "topic": "Cholera",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "Know clinical syndromes caused by common pathogens in food-borne illness",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Antitoxin neutralizes botulinum toxin in a paralyzed patient; it does not replace the liters of fluid lost in cholera.",
+      "if_right": "descending paralysis after home-canned food, from botulinum toxin"
+     },
+     {
+      "choice": 2,
+      "why": "Intravenous ceftriaxone is the antibiotic for typhoid fever and does not address cholera's life-threatening fluid loss.",
+      "if_right": "a traveler with rising fever, relative bradycardia, rose spots and positive blood cultures"
+     },
+     {
+      "choice": 3,
+      "why": "Slowing motility does not replace the fluid and salt already lost, which is what is killing him.",
+      "if_right": "brief traveler's diarrhea from enterotoxigenic E. coli, where one antibiotic dose with or without an antimotility agent is an option"
+     },
+     {
+      "choice": 4,
+      "why": "Ampicillin treats invasive Listeria, a bacteremic illness, not a secretory diarrhea.",
+      "if_right": "fever and bacteremia with a cold-tolerant gram-positive rod in a pregnant woman"
+     }
+    ],
+    "slides": {
+     "stem": [
+      31,
+      32
+     ],
+     "answer": [
+      32
+     ],
+     "distractors": [
+      16,
+      27,
+      18,
+      37
+     ]
+    },
+    "deck": "44 Food Borne Illnesses"
    },
    "figures": []
   },
@@ -200,18 +430,56 @@
    "answer": 3,
    "evidence": [],
    "explain": {
-    "html": "<p>Explosive vomiting and diarrhea lasting 24 to 48 hours after a 12 to 72 hour incubation, with huge outbreaks on cruise ships and in hospitals, is <b>norovirus</b>, a calicivirus (formerly Norwalk-like virus). It probably causes the largest number of foodborne cases.</p><p>Norovirus is <b>highly infectious</b>, and <b>surface contamination</b> keeps it spreading person to person after the original food is gone. Molecular testing of stool can detect it.</p>",
+    "html": "<p>Norovirus is a <b>calicivirus</b>, formerly called Norwalk-like virus, and probably causes the largest number of foodborne cases, though many are never captured. After a <b>12 to 72 hour incubation</b>, it causes nausea, vomiting, diarrhea and abdominal pain, sometimes with chills, fever, headache and myalgia, lasting <b>24 to 48 hours</b>. It has been linked to shellfish from contaminated water and to many other foods. It is <b>highly infectious</b> and has caused large outbreaks on <b>cruise ships</b> and in hospitals, where <b>surface contamination</b> keeps it spreading after the original source is gone.</p><p>Here, more than 200 passengers and crew developed a 1 to 2 day vomiting and diarrheal illness with negative bacterial cultures, and new cases kept appearing in people who ate different meals after the buffet closed. That continued person-to-person spread separates norovirus from a preformed toxin or a spore-forming bacterium, which sicken only those who ate the food, and molecular stool testing can confirm it.</p>",
     "table": null,
     "why": [
-     "Gallbladder carriage describes S. typhi.",
-     "Spore germination in held food explains B. cereus or C. perfringens, which do not keep spreading person to person.",
-     "A preformed toxin causes illness only in those who ate the food.",
+     "Gallbladder carriage describes chronic Salmonella typhi carriers, and bacterial stool cultures here were negative.",
+     "Spores germinating in held food explain Bacillus cereus or Clostridium perfringens, which cause illness only in those who ate that food.",
+     "A heat-stable preformed toxin sickens only those who ate the contaminated food, so cases would stop once the buffet closed.",
      "",
-     "Norovirus is not mosquito-borne."
+     "Norovirus spreads through contaminated food, water and surfaces, not mosquitoes."
     ],
-    "takeaway": "Norovirus (calicivirus, 12 to 72 hour incubation, 24 to 48 hour illness) is highly infectious and keeps spreading through contaminated surfaces in cruise ships and hospitals.",
+    "takeaway": "Norovirus, a calicivirus with a 12 to 72 hour incubation and a 24 to 48 hour illness, is highly infectious and keeps spreading through surface contamination in cruise ship and hospital outbreaks.",
     "topic": "Norovirus",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "Understand mechanisms for food-borne illnesses",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Gallbladder carriage describes chronic Salmonella typhi carriers, and bacterial stool cultures here were negative.",
+      "if_right": "typhoid cases traced to a cook whose stool has grown S. typhi for over a year"
+     },
+     {
+      "choice": 1,
+      "why": "Spores germinating in held food explain Bacillus cereus or Clostridium perfringens, which cause illness only in those who ate that food.",
+      "if_right": "diarrhea 8 to 16 hours after a large-batch roast and gravy, limited to those who ate it"
+     },
+     {
+      "choice": 2,
+      "why": "A heat-stable preformed toxin sickens only those who ate the contaminated food, so cases would stop once the buffet closed.",
+      "if_right": "vomiting 3 hours after a reheated egg salad, only among those who ate it"
+     },
+     {
+      "choice": 4,
+      "why": "Norovirus spreads through contaminated food, water and surfaces, not mosquitoes.",
+      "if_right": "a traveler with fever, retro-orbital pain and rash after mosquito bites (dengue)"
+     }
+    ],
+    "slides": {
+     "stem": [
+      39
+     ],
+     "answer": [
+      39
+     ],
+     "distractors": [
+      27,
+      12,
+      10,
+      39
+     ]
+    },
+    "deck": "44 Food Borne Illnesses"
    },
    "figures": []
   },
@@ -230,18 +498,56 @@
    "answer": 4,
    "evidence": [],
    "explain": {
-    "html": "<p>Fever and right lower quadrant pain that mimic appendicitis, with <b>large mesenteric lymph nodes</b> and a normal appendix, after eating pork intestines (chitterlings) in a cold climate, is <b>Yersinia enterocolitica</b>, a gram-negative rod.</p><p>Symptoms start 16 to 48 hours after ingestion. Diarrhea is more common in younger children and may be absent in older children and adults, which is why it can look like appendicitis. Diagnosis is by stool culture.</p>",
+    "html": "<p><i>Yersinia enterocolitica</i> is a gram-negative rod that has been more common in <b>colder climates</b> (northern Europe, the northern US and Canada) and is associated with meats, especially <b>chitterlings</b> (pork intestines). Fever and abdominal cramps develop <b>16 to 48 hours</b> after ingestion. Diarrhea is more common in younger children and may be absent in older children and adults. <b>Large mesenteric lymph nodes</b> can develop and <b>mimic appendicitis</b>, which is how many older patients present.</p><p>This 15-year-old in northern Minnesota had fever and right lower quadrant pain with little diarrhea two days after his family prepared chitterlings, and surgery found a normal appendix with enlarged mesenteric nodes, which is Yersinia, diagnosed by stool culture. Chitterlings also come up with pigbel from <i>Clostridium perfringens</i> type C, but that is a severe, possibly bloody diarrhea with vomiting, not localized pain with node enlargement.</p>",
     "table": null,
     "why": [
-     "B. cereus causes vomiting or diarrhea from toxin, without fever and node enlargement.",
-     "Shigella causes dysentery with tenesmus and bloody stools, not pseudoappendicitis.",
-     "Cholera causes massive watery diarrhea without localized pain.",
-     "ETEC causes watery traveler's diarrhea.",
+     "Bacillus cereus causes vomiting or diarrhea from toxin within hours, without fever or mesenteric node enlargement.",
+     "Shigella causes dysentery with tenesmus and bloody mucoid stools, not right lower quadrant pain with enlarged nodes and little diarrhea.",
+     "Cholera causes massive painless watery diarrhea, the opposite of this localized pain with little diarrhea.",
+     "Enterotoxigenic E. coli causes afebrile watery traveler's diarrhea, not fever with mesenteric adenitis.",
      ""
     ],
-    "takeaway": "Yersinia enterocolitica (cold climates, pork and chitterlings) causes fever with mesenteric adenitis that mimics appendicitis.",
+    "takeaway": "Yersinia enterocolitica, linked to pork chitterlings and cold climates, causes fever with mesenteric adenitis that mimics appendicitis, often with little diarrhea in older children and adults.",
     "topic": "Yersinia enterocolitica",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "Know clinical syndromes caused by common pathogens in food-borne illness",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Bacillus cereus causes vomiting or diarrhea from toxin within hours, without fever or mesenteric node enlargement.",
+      "if_right": "vomiting 2 hours after fried rice cooked in the morning and held unrefrigerated"
+     },
+     {
+      "choice": 1,
+      "why": "Shigella causes dysentery with tenesmus and bloody mucoid stools, not right lower quadrant pain with enlarged nodes and little diarrhea.",
+      "if_right": "fever, tenesmus and bloody stools spreading through a daycare"
+     },
+     {
+      "choice": 2,
+      "why": "Cholera causes massive painless watery diarrhea, the opposite of this localized pain with little diarrhea.",
+      "if_right": "liters of cloudy watery diarrhea with shock after contaminated water"
+     },
+     {
+      "choice": 3,
+      "why": "Enterotoxigenic E. coli causes afebrile watery traveler's diarrhea, not fever with mesenteric adenitis.",
+      "if_right": "a traveler in Mexico with brief afebrile watery diarrhea after tap-water ice"
+     }
+    ],
+    "slides": {
+     "stem": [
+      30
+     ],
+     "answer": [
+      30
+     ],
+     "distractors": [
+      12,
+      28,
+      32,
+      18
+     ]
+    },
+    "deck": "44 Food Borne Illnesses"
    },
    "figures": []
   },
@@ -260,18 +566,56 @@
    "answer": 0,
    "evidence": [],
    "explain": {
-    "html": "<p>Flushing, mouth burning, headache and dizziness within minutes of eating poorly refrigerated fish, in more than one diner and without allergy, is <b>scombroid</b> (histamine fish poisoning). Marine bacteria in fish flesh convert histidine to histamine when the fish is not kept cold, producing a histamine reaction.</p><p>Other seafood toxins look different: <b>ciguatera</b> (dinoflagellate toxins) gives GI symptoms then numbness and paresthesias of the lips, tongue and throat, and <b>saxitoxin</b> from bivalve mollusks causes paralytic, neurotoxic or amnesic shellfish poisoning.</p>",
-    "table": null,
+    "html": "<p>Several seafood illnesses come from toxins rather than infection, and each has its own pattern. <b>Scombroid</b> is <b>histamine fish poisoning</b>: when fish is <b>poorly refrigerated</b>, marine bacteria in the flesh act on histidine, and the resulting histamine produces flushing, burning of the mouth or throat, headache and dizziness, sometimes with GI symptoms. <b>Ciguatera</b> comes from two dinoflagellate toxins that develop in fish and causes GI symptoms followed by numbness and paresthesias of the lips, tongue and throat. <b>Saxitoxin</b> from bivalve mollusks or pufferfish causes paralytic, neurotoxic or amnesic shellfish poisoning.</p><p>Here, flushing, mouth and throat burning, headache and dizziness within 20 minutes of tuna left unrefrigerated on a deck, in two diners without fish allergy, is scombroid. That more than one person reacted to the same fish points to a toxin in the food rather than an individual allergy.</p>",
+    "table": "<table><tr><th>Syndrome</th><th>Source</th><th>Picture</th></tr><tr><td>Scombroid</td><td>Poorly refrigerated fish with marine bacteria (histamine)</td><td>Flushing, mouth or throat burning, headache, dizziness</td></tr><tr><td>Ciguatera</td><td>Two dinoflagellate toxins in fish</td><td>GI symptoms, then numbness and paresthesias of lips, tongue, throat</td></tr><tr><td>Saxitoxin</td><td>Bivalve mollusks or pufferfish</td><td>Paralytic, neurotoxic or amnesic shellfish poisoning</td></tr></table>",
     "why": [
      "",
-     "Ciguatera causes GI symptoms followed by perioral numbness and paresthesias.",
-     "Saxitoxin causes shellfish poisoning with paralysis or neurotoxicity.",
-     "Staph enterotoxin causes vomiting after hours, not flushing in minutes.",
-     "Two diners with no allergy history fit a toxin, not an individual allergy."
+     "Ciguatera from dinoflagellate toxins causes GI symptoms followed by numbness and paresthesias of the lips, tongue and throat, not flushing within minutes.",
+     "Saxitoxin in bivalve mollusks causes paralytic, neurotoxic or amnesic shellfish poisoning, not flushing after tuna.",
+     "Staphylococcal enterotoxin causes vomiting 3 to 4 hours after a contaminated high-protein dish, not flushing and burning within minutes.",
+     "Two diners with no allergy history reacting to the same fish points to a toxin in the food, not an individual allergy."
     ],
-    "takeaway": "Scombroid is histamine fish poisoning from bacterial breakdown of histidine in poorly refrigerated fish, causing flushing, mouth burning and headache within minutes.",
+    "takeaway": "Scombroid is histamine fish poisoning from bacterial action in poorly refrigerated fish, causing flushing, mouth burning, headache and dizziness within minutes in everyone who ate it.",
     "topic": "Scombroid and ciguatera",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "Understand mechanisms for food-borne illnesses",
+    "rows": [
+     {
+      "choice": 1,
+      "why": "Ciguatera from dinoflagellate toxins causes GI symptoms followed by numbness and paresthesias of the lips, tongue and throat, not flushing within minutes.",
+      "if_right": "GI upset followed by perioral numbness and paresthesias after eating reef fish"
+     },
+     {
+      "choice": 2,
+      "why": "Saxitoxin in bivalve mollusks causes paralytic, neurotoxic or amnesic shellfish poisoning, not flushing after tuna.",
+      "if_right": "paralysis or neurologic symptoms after eating clams or mussels"
+     },
+     {
+      "choice": 3,
+      "why": "Staphylococcal enterotoxin causes vomiting 3 to 4 hours after a contaminated high-protein dish, not flushing and burning within minutes.",
+      "if_right": "forceful vomiting 3 hours after a mayonnaise salad prepared by a cook with a skin abscess"
+     },
+     {
+      "choice": 4,
+      "why": "Two diners with no allergy history reacting to the same fish points to a toxin in the food, not an individual allergy.",
+      "if_right": "a single diner with a known fish allergy whose companions were unaffected"
+     }
+    ],
+    "slides": {
+     "stem": [
+      43
+     ],
+     "answer": [
+      43
+     ],
+     "distractors": [
+      43,
+      43,
+      10,
+      43
+     ]
+    },
+    "deck": "44 Food Borne Illnesses"
    },
    "figures": []
   },
@@ -290,18 +634,57 @@
    "answer": 3,
    "evidence": [],
    "explain": {
-    "html": "<p>Vomiting within a few hours of eating, no fever, resolution within 24 hours, a creamy egg and mayonnaise dish left at room temperature, and a food handler with a skin infection point to <b>Staphylococcus aureus</b> food poisoning. The <b>short incubation</b> means a <b>preformed toxin</b> was eaten, rather than bacteria that had to replicate in the gut.</p><p>S. aureus enterotoxins are <b>heat stable</b> and resist stomach acid and enzymes. Once the toxin has formed in the food, heating will not destroy it, even if it kills the bacteria. The diagnosis is confirmed by detecting toxin in the food.</p>",
-    "table": null,
+    "html": "<p>Foodborne illness works through two mechanisms: <b>food poisoning</b>, where a toxin already formed in the food is eaten, and food-associated infection, where ingested organisms must replicate before causing illness. The <b>time to presentation</b> separates them, because a short incubation means a <b>preformed toxin</b>, while a longer one means the organism had to multiply or make toxin in the gut. <i>Staphylococcus aureus</i> is introduced into food by a food handler, and its enterotoxin forms when a high-protein, cream or egg-based dish sits at room temperature. The enterotoxins are <b>heat stable</b> and resist acid and stomach enzymes, so once formed, heating does not destroy them even if it kills the bacteria.</p><p>Here, vomiting 3 hours after a mayonnaise and egg salad held on a buffet, no fever, recovery by the next day, and a cook with a <b>draining finger abscess</b> all fit staphylococcal food poisoning, which causes nausea and vomiting 3 to 4 hours after ingestion and resolves within 24 hours. Reheating the leftovers killed the organism but left the toxin intact, which is why the diagnosis is confirmed by <b>detecting toxin in the food</b>.</p>",
+    "table": "<table><tr><th>Agent</th><th>Typical food</th><th>Onset</th><th>Main symptom</th></tr><tr><td>Staphylococcus aureus</td><td>Cream, egg or high-protein dish from a food handler</td><td>3 to 4 hours</td><td>Nausea and vomiting</td></tr><tr><td>Bacillus cereus (emetic)</td><td>Fried rice held after cooking</td><td>1 to 6 hours</td><td>Nausea and vomiting</td></tr><tr><td>Bacillus cereus (diarrheal)</td><td>Viable spores eaten in food</td><td>8 to 16 hours</td><td>Diarrhea</td></tr><tr><td>Clostridium perfringens</td><td>Large-batch roasts and gravy</td><td>8 to 16 hours</td><td>Diarrhea</td></tr></table>",
     "why": [
-     "Spore germination describes Bacillus cereus and Clostridium species, which are not linked to an infected food handler.",
-     "A hardy non-enveloped virus describes norovirus, with a 12 to 72 hour incubation.",
-     "Growth in the cold is a feature of Listeria.",
+     "Spore germination after cooling is the mechanism of Bacillus cereus and Clostridium perfringens, and this outbreak traces to a food handler with a skin infection, not to spores in grain or meat.",
+     "A hardy non-enveloped virus is norovirus, which incubates 12 to 72 hours and keeps spreading person to person, not a 3-hour afebrile illness tied to one dish.",
+     "Growth at refrigerator temperatures is the property of Listeria, which causes invasive disease after a long incubation, not vomiting within hours.",
      "",
-     "Chlorine-resistant cysts or oocysts describe Cryptosporidium in water."
+     "Chlorine-resistant cysts describe Cryptosporidium in municipal water, while this illness came from one food item at a party."
     ],
-    "takeaway": "Staph aureus food poisoning causes vomiting 3 to 4 hours after a contaminated high-protein food; its preformed enterotoxin is heat stable, so reheating does not help.",
+    "takeaway": "Staphylococcus aureus enterotoxin is preformed in food left at room temperature and is heat stable, so it causes vomiting 3 to 4 hours after ingestion even when the food is reheated.",
     "topic": "Staphylococcus aureus food poisoning",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "Understand mechanisms for food-borne illnesses",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Spore germination after cooling is the mechanism of Bacillus cereus and Clostridium perfringens, and this outbreak traces to a food handler with a skin infection, not to spores in grain or meat.",
+      "if_right": "fried rice cooked in the morning, held unrefrigerated, then stir-fried to order"
+     },
+     {
+      "choice": 1,
+      "why": "A hardy non-enveloped virus is norovirus, which incubates 12 to 72 hours and keeps spreading person to person, not a 3-hour afebrile illness tied to one dish.",
+      "if_right": "vomiting and diarrhea 1 to 3 days after exposure that keeps spreading on a cruise ship"
+     },
+     {
+      "choice": 2,
+      "why": "Growth at refrigerator temperatures is the property of Listeria, which causes invasive disease after a long incubation, not vomiting within hours.",
+      "if_right": "a pregnant woman with fever weeks after eating refrigerated deli meat and soft cheese"
+     },
+     {
+      "choice": 4,
+      "why": "Chlorine-resistant cysts describe Cryptosporidium in municipal water, while this illness came from one food item at a party.",
+      "if_right": "a citywide watery diarrhea outbreak traced to chlorinated municipal water"
+     }
+    ],
+    "slides": {
+     "stem": [
+      10,
+      8
+     ],
+     "answer": [
+      10
+     ],
+     "distractors": [
+      12,
+      39,
+      36,
+      40
+     ]
+    },
+    "deck": "44 Food Borne Illnesses"
    },
    "figures": []
   },
@@ -320,18 +703,58 @@
    "answer": 3,
    "evidence": [],
    "explain": {
-    "html": "<p>Cranial nerve palsies followed by a <b>descending flaccid paralysis</b>, with <b>no fever</b>, a clear sensorium, no sensory deficits and a dry mouth, 12 to 36 hours after eating home-canned food, is <b>foodborne botulism</b>. Clostridium botulinum spores germinate in low-oxygen canned food and produce an exotoxin that is absorbed from the gut and blocks neurotransmission at peripheral nerve synapses.</p><p>Treatment is <b>antitoxin</b> plus supportive care, including breathing support; recovery may take up to 100 days. Diagnosis is by toxin detection in blood, stool or vomit. Infant botulism follows honey, and wound botulism follows soil contamination of a wound.</p>",
-    "table": null,
+    "html": "<p><i>Clostridium botulinum</i> is an <b>anaerobic, spore-forming gram-positive rod</b> whose spores live in soil and can enter food during preparation. Under the right temperature and moisture, as in <b>home-canned food</b>, spores germinate and produce an exotoxin that is absorbed from the gut and <b>blocks neurotransmission at peripheral nerve synapses</b>. The result is cranial nerve findings followed by a <b>descending flaccid paralysis</b> that can reach the respiratory muscles, beginning 12 to 36 hours after ingestion. Botulism has no fever, the patient stays responsive, sensation is intact, and nausea and dry mouth are common at onset.</p><p>This man's diplopia, ptosis, slurred speech and dysphagia spreading to his arms and breathing after home-canned green beans fit foodborne botulism, confirmed by toxin detection in blood, stool or vomit. Treatment is <b>antitoxin</b> with supportive care, including breathing support, and spontaneous recovery may take up to 100 days.</p>",
+    "table": "<table><tr><th>Form</th><th>How the toxin or spores get in</th><th>Notes</th></tr><tr><td>Foodborne</td><td>Home-canned food, improperly stored stews</td><td>Antitoxin and supportive care</td></tr><tr><td>Infant</td><td>Honey containing spores</td><td>Flaccid paralysis in an infant</td></tr><tr><td>Wound</td><td>Soil or spores in an open wound (trauma, injection drug use)</td><td>Same presentation; debridement essential, penicillin usually given plus antitoxin</td></tr></table>",
     "why": [
-     "Ampicillin is the treatment for invasive Listeria.",
-     "Oral rehydration is the mainstay for cholera, not a neuroparalytic toxin.",
-     "Doxycycline does not neutralize circulating botulinum toxin.",
+     "Ampicillin treats invasive Listeria and does nothing to a toxin already acting at nerve synapses.",
+     "Oral rehydration replaces secretory fluid loss in cholera; this man needs toxin neutralization and breathing support, not fluids for diarrhea.",
+     "Doxycycline cannot neutralize circulating botulinum toxin and is not a treatment for botulism.",
      "",
-     "Ceftriaxone treats typhoid and gonorrhea, not botulism."
+     "Ceftriaxone is the antibiotic for typhoid fever, a bloodstream infection, not a neuroparalytic toxin."
     ],
-    "takeaway": "Foodborne botulism (home-canned food, afebrile descending flaccid paralysis with cranial nerve signs) is treated with antitoxin and supportive care.",
+    "takeaway": "Foodborne botulism causes afebrile descending flaccid paralysis with cranial nerve signs and an intact sensorium 12 to 36 hours after home-canned food, and it is treated with antitoxin and supportive care.",
     "topic": "Botulism",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "Know clinical syndromes caused by common pathogens in food-borne illness",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Ampicillin treats invasive Listeria and does nothing to a toxin already acting at nerve synapses.",
+      "if_right": "a pregnant woman with Listeria bacteremia after deli meats"
+     },
+     {
+      "choice": 1,
+      "why": "Oral rehydration replaces secretory fluid loss in cholera; this man needs toxin neutralization and breathing support, not fluids for diarrhea.",
+      "if_right": "massive watery diarrhea with dehydration and acidosis from Vibrio cholerae"
+     },
+     {
+      "choice": 2,
+      "why": "Doxycycline cannot neutralize circulating botulinum toxin and is not a treatment for botulism.",
+      "if_right": "septic shock with bullous skin lesions after raw oysters, where a tetracycline is used"
+     },
+     {
+      "choice": 4,
+      "why": "Ceftriaxone is the antibiotic for typhoid fever, a bloodstream infection, not a neuroparalytic toxin.",
+      "if_right": "a returning traveler with rising fever, relative bradycardia and positive blood cultures"
+     }
+    ],
+    "slides": {
+     "stem": [
+      14,
+      15,
+      16
+     ],
+     "answer": [
+      16
+     ],
+     "distractors": [
+      37,
+      32,
+      33,
+      27
+     ]
+    },
+    "deck": "44 Food Borne Illnesses"
    },
    "figures": []
   },
@@ -350,18 +773,57 @@
    "answer": 4,
    "evidence": [],
    "explain": {
-    "html": "<p>Afebrile watery diarrhea without stool white cells in a traveler after uncooked food or contaminated water is <b>traveler's diarrhea</b> from <b>enterotoxigenic E. coli (ETEC)</b>. Watery, large-volume diarrhea without white cells signals a secretory, toxin-mediated process rather than invasion.</p><p>ETEC makes a <b>heat-labile toxin similar to cholera toxin</b>, which alters <b>adenylate cyclase</b> in intestinal mucosal cells, and a heat-stable toxin; both increase fluid secretion. The illness is brief, and antibiotics are usually not needed (one dose, with or without an antimotility agent, is an option).</p>",
-    "table": null,
+    "html": "<p>The type of diarrhea points to the mechanism: bloody stool with white cells on smear means an <b>inflammatory, invasive</b> process, while large-volume watery stool without white cells means a <b>secretory, toxin-mediated</b> one. <i>E. coli</i> is a lactose-fermenting gram-negative rod with several types that cause GI illness in different ways. <b>Enterotoxigenic E. coli (ETEC)</b> causes traveler's diarrhea after uncooked food or contaminated water and makes two toxins. Its <b>heat-labile toxin is similar to cholera toxin</b> and alters <b>adenylate cyclase</b> in intestinal mucosal cells, and its heat-stable toxin also increases fluid secretion.</p><p>This student's afebrile, watery, nonbloody diarrhea without stool white cells after salads and tap-water ice in Mexico is ETEC. The illness is brief, antibiotics are usually not needed, and one dose with or without an antimotility agent is an option.</p>",
+    "table": "<table><tr><th>Type</th><th>Mechanism</th><th>Illness</th><th>Antibiotics</th></tr><tr><td>Enterotoxigenic (ETEC)</td><td>Heat-labile (cholera-like) and heat-stable toxins</td><td>Watery traveler's diarrhea, no fever</td><td>Usually not needed</td></tr><tr><td>Enteropathic</td><td>Pili attach in small intestine and disrupt villi</td><td>Self-limited diarrhea</td><td>Not needed</td></tr><tr><td>Enteroinvasive</td><td>Attach in large intestine and invade mucosal cells</td><td>Diarrhea that may have blood and mucus, up to 7 to 10 days</td><td>Not used</td></tr><tr><td>Enterohemorrhagic (EHEC)</td><td>Verotoxin, almost identical to Shiga toxin</td><td>Bloody diarrhea, hemolytic uremic syndrome</td><td>Not recommended</td></tr></table>",
     "why": [
-     "Shiga or verotoxin belongs to EHEC and Shigella, which cause bloody diarrhea.",
-     "Histamine causes scombroid flushing, not secretory diarrhea.",
-     "Botulinum toxin causes paralysis, not diarrhea.",
-     "Staphylococcal enterotoxin causes early vomiting, not traveler's diarrhea.",
+     "Shiga toxin belongs to Shigella and EHEC, which cause bloody, inflammatory diarrhea rather than this watery stool without white cells.",
+     "Histamine from bacteria in poorly chilled fish causes flushing and mouth burning within minutes, not secretory diarrhea days into a trip.",
+     "Botulinum toxin blocks neurotransmission and causes descending paralysis, not watery diarrhea.",
+     "Staphylococcal enterotoxin causes nausea and vomiting 3 to 4 hours after a contaminated dish, not diarrhea starting on day 4 of a trip.",
      ""
     ],
-    "takeaway": "ETEC causes afebrile watery traveler's diarrhea through a heat-labile toxin that, like cholera toxin, alters adenylate cyclase and drives fluid secretion.",
+    "takeaway": "Enterotoxigenic E. coli causes afebrile watery traveler's diarrhea through a heat-labile toxin that, like cholera toxin, alters adenylate cyclase to drive fluid secretion.",
     "topic": "Enterotoxigenic E. coli",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "Understand mechanisms for food-borne illnesses",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Shiga toxin belongs to Shigella and EHEC, which cause bloody, inflammatory diarrhea rather than this watery stool without white cells.",
+      "if_right": "bloody diarrhea and later hemolytic uremic syndrome after undercooked beef"
+     },
+     {
+      "choice": 1,
+      "why": "Histamine from bacteria in poorly chilled fish causes flushing and mouth burning within minutes, not secretory diarrhea days into a trip.",
+      "if_right": "facial flushing and mouth burning minutes after poorly refrigerated tuna"
+     },
+     {
+      "choice": 2,
+      "why": "Botulinum toxin blocks neurotransmission and causes descending paralysis, not watery diarrhea.",
+      "if_right": "cranial nerve palsies and descending weakness after home-canned food"
+     },
+     {
+      "choice": 3,
+      "why": "Staphylococcal enterotoxin causes nausea and vomiting 3 to 4 hours after a contaminated dish, not diarrhea starting on day 4 of a trip.",
+      "if_right": "vomiting within hours of a cream-filled dish prepared by a food handler"
+     }
+    ],
+    "slides": {
+     "stem": [
+      18,
+      8
+     ],
+     "answer": [
+      18
+     ],
+     "distractors": [
+      20,
+      43,
+      14,
+      10
+     ]
+    },
+    "deck": "44 Food Borne Illnesses"
    },
    "figures": []
   },
@@ -380,18 +842,58 @@
    "answer": 2,
    "evidence": [],
    "explain": {
-    "html": "<p>Bloody diarrhea without much fever in a child after undercooked beef and contact with cattle, with a positive stool toxin assay, is <b>enterohemorrhagic E. coli</b>, most often <b>O157:H7</b>. It produces <b>verotoxin</b>, almost identical to Shiga toxin; cattle and other livestock carry it in their gut.</p><p>EHEC can cause <b>hemolytic uremic syndrome</b>: thrombocytopenia, hemolytic anemia and renal failure that may be permanent, with children most severely affected. <b>Antibiotics are not recommended</b>; management is supportive.</p>",
+    "html": "<p><b>Enterohemorrhagic E. coli (EHEC)</b> produces <b>verotoxin</b>, almost identical to Shiga toxin, and causes bloody diarrhea. The most common type has been <b>O157:H7</b>, which lives in the GI tract of cattle and other livestock, so outbreaks follow ground beef, unpasteurized cider, produce irrigated with manure runoff, and contaminated water at county fairs. Detecting toxin in stool confirms the diagnosis. Its feared complication is <b>hemolytic uremic syndrome</b>: thrombocytopenia, hemolytic anemia and renal failure that can be permanent, with children most severely affected.</p><p>This girl's afebrile bloody diarrhea after a fair hamburger and petting calves, with a sorbitol-negative E. coli and a positive stool toxin assay, is EHEC. <b>No antibiotics are recommended</b>, so management is supportive while watching closely for signs of HUS.</p>",
     "table": null,
     "why": [
-     "Antibiotics are not recommended for EHEC, and reactive arthritis is linked to Campylobacter.",
-     "Guillain-Barre syndrome follows Campylobacter, and antibiotics are not used for EHEC.",
+     "Antibiotics are not recommended for EHEC, and reactive arthritis is a complication linked to Campylobacter.",
+     "Guillain-Barre syndrome follows Campylobacter, and EHEC is managed without antibiotics.",
      "",
-     "Ceftriaxone and perforation risk belong to typhoid fever.",
-     "Metronidazole and liver abscess are not part of EHEC care."
+     "Ceftriaxone and intestinal perforation belong to typhoid fever, a febrile bloodstream illness, not afebrile bloody diarrhea in a child.",
+     "Neither metronidazole nor liver abscess is part of EHEC care, which is supportive."
     ],
-    "takeaway": "EHEC O157:H7 (beef, cattle exposure) makes a Shiga-like verotoxin, causes bloody diarrhea and HUS, and is managed without antibiotics.",
+    "takeaway": "EHEC O157:H7 from cattle makes a Shiga-like verotoxin that causes bloody diarrhea and hemolytic uremic syndrome, and antibiotics are not recommended.",
     "topic": "EHEC and hemolytic uremic syndrome",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "Know clinical syndromes caused by common pathogens in food-borne illness",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Antibiotics are not recommended for EHEC, and reactive arthritis is a complication linked to Campylobacter.",
+      "if_right": "Campylobacter enteritis after raw poultry, where reactive arthritis is the complication to watch for"
+     },
+     {
+      "choice": 1,
+      "why": "Guillain-Barre syndrome follows Campylobacter, and EHEC is managed without antibiotics.",
+      "if_right": "Campylobacter enteritis after raw chicken, where ascending weakness weeks later is the complication to watch for"
+     },
+     {
+      "choice": 3,
+      "why": "Ceftriaxone and intestinal perforation belong to typhoid fever, a febrile bloodstream illness, not afebrile bloody diarrhea in a child.",
+      "if_right": "a traveler in the third week of typhoid fever with rising fever and positive blood cultures"
+     },
+     {
+      "choice": 4,
+      "why": "Neither metronidazole nor liver abscess is part of EHEC care, which is supportive.",
+      "if_right": "an anaerobic or protozoal infection, the targets of metronidazole, rather than a Shiga-toxin E. coli"
+     }
+    ],
+    "slides": {
+     "stem": [
+      20,
+      21
+     ],
+     "answer": [
+      21,
+      20
+     ],
+     "distractors": [
+      29,
+      29,
+      27,
+      21
+     ]
+    },
+    "deck": "44 Food Borne Illnesses"
    },
    "figures": []
   },
@@ -410,18 +912,57 @@
    "answer": 3,
    "evidence": [],
    "explain": {
-    "html": "<p>A non-lactose-fermenting gram-negative rod causing febrile, sometimes bloody enterocolitis after reptile contact is <b>Salmonella enteritidis</b>. It invades through the terminal small intestine in the ileocecal region to the lamina propria, producing inflammation; reptiles and poultry are major reservoirs.</p><p>The usual illness is self-limited, but in patients with <b>sickle cell disease</b>, HIV or older age it can become <b>invasive</b>, causing septicemia, <b>osteomyelitis</b> and mycotic aneurysms. In uncomplicated GI illness antibiotics are usually not needed and can prolong carriage.</p>",
+    "html": "<p><i>Salmonella</i> is a non-lactose-fermenting gram-negative rod and, with <i>Campylobacter</i>, one of the two leading causes of food-associated diarrhea in developed countries. <i>S. enteritidis</i> has <b>many animal reservoirs</b>, including poultry flocks and <b>reptiles</b>, and infection follows contaminated food or handling a small reptile or its feces. The organism <b>invades through the terminal small intestine</b> to the lamina propria in the ileocecal region, causing an inflammatory enterocolitis with fever and diarrhea that can contain blood after a 36 to 72 hour incubation. Usually the illness is self-limited, but in patients with <b>sickle cell disease</b>, HIV or older age it can become <b>invasive</b>, with septicemia, <b>osteomyelitis</b> and mycotic aneurysms.</p><p>This boy with sickle cell disease, a new pet turtle, febrile bloody diarrhea, and the same non-lactose fermenter in stool and blood has invasive Salmonella that reached bone through the bloodstream. Because he is a high-risk host, antibiotics are indicated even though they are usually unnecessary for uncomplicated GI illness.</p>",
     "table": null,
     "why": [
-     "Salmonella invades the bowel; bone disease comes from bacteremia, not a preformed toxin.",
-     "Reptile Salmonella is acquired by handling the animal or its feces, not by ticks.",
-     "Salmonella is not a spore former.",
+     "Salmonella reaches bone by bacteremia after invading the bowel; it does not act through a preformed toxin that injures bone.",
+     "Reptile-associated Salmonella is acquired by handling the animal or its feces, not by a tick bite.",
+     "Salmonella does not form spores; the spore formers here are gram-positive rods such as Clostridium and Bacillus.",
      "",
-     "Antibiotics do not cause bacteremia; they are given in high-risk hosts."
+     "Antibiotics do not cause bacteremia; they are given to high-risk hosts like this boy, and in uncomplicated illness their downside is longer carriage."
     ],
-    "takeaway": "Salmonella enteritidis (poultry, eggs, reptiles) usually causes self-limited enterocolitis but invades in sickle cell disease, HIV and the elderly, causing sepsis and osteomyelitis.",
+    "takeaway": "Salmonella enteritidis invades the ileocecal mucosa, and in sickle cell disease, HIV or the elderly it can cause bacteremia with osteomyelitis and mycotic aneurysms.",
     "topic": "Salmonella enteritidis and invasive disease",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "Know clinical syndromes caused by common pathogens in food-borne illness",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Salmonella reaches bone by bacteremia after invading the bowel; it does not act through a preformed toxin that injures bone.",
+      "if_right": "vomiting within hours from a toxin already formed in food, such as staphylococcal enterotoxin"
+     },
+     {
+      "choice": 1,
+      "why": "Reptile-associated Salmonella is acquired by handling the animal or its feces, not by a tick bite.",
+      "if_right": "a vector-borne infection; none of the foodborne pathogens covered here spread by ticks"
+     },
+     {
+      "choice": 2,
+      "why": "Salmonella does not form spores; the spore formers here are gram-positive rods such as Clostridium and Bacillus.",
+      "if_right": "a gram-positive spore-forming rod such as Clostridium or Bacillus"
+     },
+     {
+      "choice": 4,
+      "why": "Antibiotics do not cause bacteremia; they are given to high-risk hosts like this boy, and in uncomplicated illness their downside is longer carriage.",
+      "if_right": "a healthy adult with uncomplicated Salmonella in whom antibiotics prolonged stool carriage"
+     }
+    ],
+    "slides": {
+     "stem": [
+      23,
+      24
+     ],
+     "answer": [
+      24
+     ],
+     "distractors": [
+      10,
+      24,
+      11,
+      25
+     ]
+    },
+    "deck": "44 Food Borne Illnesses"
    },
    "figures": []
   },
@@ -440,18 +981,56 @@
    "answer": 0,
    "evidence": [],
    "explain": {
-    "html": "<p>Chronic carriage of <b>Salmonella typhi</b> is defined by positive stool cultures for more than 12 months and occurs in 1 to 6% of infections, more often in women. Because S. typhi has <b>no animal reservoir</b>, human carriers sustain spread through food and water.</p><p>The <b>gallbladder</b>, especially with <b>gallstones</b>, is the classic reservoir; a urinary carrier state is linked to stones or schistosomiasis.</p>",
+    "html": "<p><i>Salmonella typhi</i> infects only humans, so with <b>no animal reservoir</b>, people who keep shedding the organism sustain its spread through food and water. <b>Chronic carriage</b> develops in 1 to 6% of infections and is defined by <b>positive stool cultures for more than 12 months</b>. It is more common in women, the pattern behind the name Typhoid Mary. The usual reservoir is the <b>gallbladder</b>, especially when <b>gallstones</b> are present, while a less common urinary carrier state is associated with stones or schistosomiasis.</p><p>This catering cook has grown S. typhi in stool for 14 months without a known febrile illness, and ultrasound shows gallstones, so the organism is persisting in her gallbladder. Finding such carriers matters because a single food handler can seed repeated typhoid cases.</p>",
     "table": null,
     "why": [
      "",
-     "The terminal small intestine is where acute Salmonella infection invades, not the long-term carrier reservoir.",
-     "Bone marrow persistence is characteristic of Brucella.",
-     "Large mesenteric nodes mimicking appendicitis are a Yersinia enterocolitica feature.",
-     "The spleen is not the slide-listed site of chronic carriage."
+     "The terminal small intestine is where acute Salmonella invades the mucosa, not where chronic carriage persists.",
+     "Bone marrow is not where S. typhi persists in a carrier; chronic carriage means stool shedding from the gallbladder.",
+     "Enlarged mesenteric lymph nodes that mimic appendicitis are a feature of Yersinia enterocolitica, not typhoid carriage.",
+     "The spleen is not a site of chronic carriage; carriers shed from the gallbladder or, less often, the urinary tract."
     ],
-    "takeaway": "Chronic S. typhi carriage (stool positive more than 12 months, more common in women) is usually in the gallbladder with gallstones.",
+    "takeaway": "Chronic Salmonella typhi carriage, positive stool cultures for more than 12 months and more common in women, persists in the gallbladder, especially with gallstones.",
     "topic": "Chronic typhoid carriage",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "Know microbiology of common pathogens involved",
+    "rows": [
+     {
+      "choice": 1,
+      "why": "The terminal small intestine is where acute Salmonella invades the mucosa, not where chronic carriage persists.",
+      "if_right": "acute Salmonella enterocolitis, with invasion through the ileocecal mucosa"
+     },
+     {
+      "choice": 2,
+      "why": "Bone marrow is not where S. typhi persists in a carrier; chronic carriage means stool shedding from the gallbladder.",
+      "if_right": "invasive Salmonella in a sickle cell patient that has spread through the blood to bone"
+     },
+     {
+      "choice": 3,
+      "why": "Enlarged mesenteric lymph nodes that mimic appendicitis are a feature of Yersinia enterocolitica, not typhoid carriage.",
+      "if_right": "fever and right lower quadrant pain after chitterlings, with large mesenteric nodes and a normal appendix"
+     },
+     {
+      "choice": 4,
+      "why": "The spleen is not a site of chronic carriage; carriers shed from the gallbladder or, less often, the urinary tract.",
+      "if_right": "a disease that persists in the spleen, which none of the foodborne pathogens covered here do"
+     }
+    ],
+    "slides": {
+     "stem": [
+      27
+     ],
+     "answer": [
+      27
+     ],
+     "distractors": [
+      24,
+      24,
+      30,
+      27
+     ]
+    },
+    "deck": "44 Food Borne Illnesses"
    },
    "figures": []
   },
@@ -470,18 +1049,56 @@
    "answer": 3,
    "evidence": [],
    "explain": {
-    "html": "<p>A curved gram-negative rod that needs microaerophilic, thermophilic (42 C) culture after contact with raw poultry is <b>Campylobacter jejuni</b>, one of the two most common causes of food-associated diarrhea in developed countries. Its diarrhea resembles Salmonella but can incubate and last longer.</p><p>Weeks later, an <b>ascending</b> symmetric weakness with areflexia is <b>Guillain-Barre syndrome</b>, a recognized post-infectious complication of Campylobacter, along with reactive arthritis. Severe Campylobacter diarrhea has been treated with erythromycin.</p>",
-    "table": null,
+    "html": "<p><i>Campylobacter jejuni</i> is a <b>curved gram-negative rod</b> that is harder to culture than other enteric bacteria because it is <b>microaerophilic and thermophilic</b>, growing at 42 C. It has a large reservoir in farm animals and wild birds, and contaminated <b>poultry</b>, milk or water causes infection. With Salmonella it ranks as one of the two most common causes of food-associated diarrhea in developed countries, and its diarrhea is similar, though the incubation and duration can be longer. After infection, <b>reactive arthritis</b> and <b>Guillain-Barre syndrome</b> have been described as <b>post-infectious</b> complications.</p><p>This man had bloody diarrhea after handling raw chicken, with a curved rod grown only under microaerophilic conditions at 42 C. Three weeks after recovery, distal tingling and symmetric weakness that <b>ascends</b> with lost reflexes is Guillain-Barre syndrome, the opposite direction from the descending paralysis of botulism.</p>",
+    "table": "<table><tr><th>Feature</th><th>Foodborne botulism</th><th>Guillain-Barre after Campylobacter</th></tr><tr><td>Timing</td><td>12 to 36 hours after the food</td><td>After the enteric infection (weeks later here)</td></tr><tr><td>Direction</td><td>Descending, cranial nerves first</td><td>Ascending, legs first</td></tr><tr><td>Cause</td><td>Exotoxin blocking peripheral nerve synapses</td><td>Post-infectious complication</td></tr></table>",
     "why": [
-     "Latent virus in dorsal root ganglia describes herpesviruses, not this picture.",
-     "Campylobacter does not directly invade the spinal cord.",
-     "The weakness began weeks later and ascends, which does not fit a preformed toxin.",
+     "Reactivation of a latent virus does not fit; the weakness followed a documented Campylobacter infection by weeks.",
+     "Campylobacter invades the bowel, not the spinal cord, and the weakness came weeks after the gut infection cleared.",
+     "A preformed toxin acts within hours to a day of the meal, while his weakness began three weeks later and climbed upward.",
      "",
-     "Descending paralysis from an exotoxin is botulism, which starts with cranial nerves."
+     "Descending paralysis from an exotoxin is botulism, which begins with cranial nerves, while his weakness began in the feet and ascended."
     ],
-    "takeaway": "Campylobacter jejuni (poultry; microaerophilic, grows at 42 C) causes bloody diarrhea and can be followed by Guillain-Barre syndrome or reactive arthritis.",
+    "takeaway": "Campylobacter jejuni, a microaerophilic curved gram-negative rod that grows at 42 C and comes from poultry, can be followed weeks later by Guillain-Barre syndrome or reactive arthritis.",
     "topic": "Campylobacter and Guillain-Barre syndrome",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "Know clinical syndromes caused by common pathogens in food-borne illness",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Reactivation of a latent virus does not fit; the weakness followed a documented Campylobacter infection by weeks.",
+      "if_right": "a painful dermatomal vesicular rash from varicella zoster reactivating in sensory ganglia"
+     },
+     {
+      "choice": 1,
+      "why": "Campylobacter invades the bowel, not the spinal cord, and the weakness came weeks after the gut infection cleared.",
+      "if_right": "a pathogen found in the CSF, such as invasive Listeria causing meningitis"
+     },
+     {
+      "choice": 2,
+      "why": "A preformed toxin acts within hours to a day of the meal, while his weakness began three weeks later and climbed upward.",
+      "if_right": "cranial nerve palsies 12 to 36 hours after a meal of home-canned food"
+     },
+     {
+      "choice": 4,
+      "why": "Descending paralysis from an exotoxin is botulism, which begins with cranial nerves, while his weakness began in the feet and ascended.",
+      "if_right": "diplopia, ptosis and dysphagia followed by descending weakness after home-canned beans"
+     }
+    ],
+    "slides": {
+     "stem": [
+      29
+     ],
+     "answer": [
+      29
+     ],
+     "distractors": [
+      29,
+      37,
+      10,
+      15
+     ]
+    },
+    "deck": "44 Food Borne Illnesses"
    },
    "figures": []
   },
@@ -500,18 +1117,57 @@
    "answer": 4,
    "evidence": [],
    "explain": {
-    "html": "<p>Septic shock with <b>bullous skin lesions</b> after eating raw oysters from warm coastal water is <b>Vibrio vulnificus</b>. Vibrio species can cause disease by ingestion or through wounds exposed to contaminated water, and are associated with shellfish, especially oysters.</p><p>In most people V. vulnificus causes diarrhea, but in patients with <b>liver disease or iron storage disorders</b> it causes severe systemic illness with fever, hypotension and bullae, and mortality exceeds 80%. Treatment is surgery and a tetracycline. Cases are moving north as coastal waters warm.</p>",
-    "table": null,
+    "html": "<p><i>Vibrio</i> species can cause disease by <b>ingestion</b> or through <b>wound exposure</b> to contaminated water, and they are associated with shellfish, especially <b>oysters</b>. <i>V. parahemolyticus</i> causes diarrhea, and <i>V. cholerae</i> causes massive secretory diarrhea. <i>V. vulnificus</i> also causes diarrhea, but in patients with <b>liver disease or iron storage disorders</b> it causes a severe systemic illness with fever, hypotension and <b>bullous skin lesions</b>, with mortality above 80%. It is associated with warmer water, and cases are now acquired farther north as coastal temperatures rise.</p><p>This man with alcoholic cirrhosis ate raw Gulf Coast oysters in August and two days later has septic shock and blisters on both legs with a curved gram-negative rod in his blood, which is <i>V. vulnificus</i>. Treatment is <b>surgery and a tetracycline</b>, and his liver disease is what turned a diarrheal pathogen into a lethal one.</p>",
+    "table": "<table><tr><th>Species</th><th>Exposure</th><th>Illness</th><th>Treatment</th></tr><tr><td>V. cholerae (O1, O139)</td><td>Contaminated water</td><td>Large-volume watery, nonbloody diarrhea; shock</td><td>Oral rehydration</td></tr><tr><td>V. parahemolyticus</td><td>Shellfish</td><td>Diarrhea</td><td>Not specified</td></tr><tr><td>V. vulnificus</td><td>Oysters, seawater wounds</td><td>Diarrhea; sepsis with bullae in liver disease or iron overload</td><td>Surgery, tetracycline</td></tr></table>",
     "why": [
-     "Gallstones are linked to chronic typhoid carriage.",
-     "Sickle cell disease predisposes to invasive Salmonella.",
-     "Splenectomy is the slide risk factor for severe babesiosis.",
-     "Pregnancy is a risk factor for invasive Listeria.",
+     "Gallstones are the reservoir for chronic Salmonella typhi carriage, not a risk factor for Vibrio sepsis.",
+     "Sickle cell disease predisposes to invasive Salmonella with osteomyelitis, not to Vibrio vulnificus sepsis.",
+     "Splenectomy is not the host factor tied to Vibrio vulnificus; severe disease tracks with liver disease and iron overload.",
+     "Pregnancy is the classic risk factor for invasive Listeria, not Vibrio vulnificus.",
      ""
     ],
-    "takeaway": "Vibrio vulnificus from raw oysters or seawater wounds causes sepsis with bullous skin lesions in patients with liver disease or iron overload, with mortality above 80%.",
+    "takeaway": "Vibrio vulnificus from raw oysters or seawater wounds causes septic shock with bullous skin lesions in patients with liver disease or iron overload, with mortality above 80%.",
     "topic": "Vibrio vulnificus",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "Know clinical syndromes caused by common pathogens in food-borne illness",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Gallstones are the reservoir for chronic Salmonella typhi carriage, not a risk factor for Vibrio sepsis.",
+      "if_right": "a cook whose stool has grown S. typhi for more than a year"
+     },
+     {
+      "choice": 1,
+      "why": "Sickle cell disease predisposes to invasive Salmonella with osteomyelitis, not to Vibrio vulnificus sepsis.",
+      "if_right": "a child with fever, bloody diarrhea and osteomyelitis after handling a pet turtle"
+     },
+     {
+      "choice": 2,
+      "why": "Splenectomy is not the host factor tied to Vibrio vulnificus; severe disease tracks with liver disease and iron overload.",
+      "if_right": "severe babesiosis after an Ixodes tick bite in a patient without a spleen"
+     },
+     {
+      "choice": 3,
+      "why": "Pregnancy is the classic risk factor for invasive Listeria, not Vibrio vulnificus.",
+      "if_right": "fever and bacteremia in a pregnant woman after deli meats and soft cheese"
+     }
+    ],
+    "slides": {
+     "stem": [
+      33,
+      34
+     ],
+     "answer": [
+      33
+     ],
+     "distractors": [
+      27,
+      24,
+      33,
+      37
+     ]
+    },
+    "deck": "44 Food Borne Illnesses"
    },
    "figures": [
     {
@@ -536,18 +1192,57 @@
    "answer": 2,
    "evidence": [],
    "explain": {
-    "html": "<p>A motile gram-positive rod that <b>tolerates cold</b>, acquired from deli meats and cheeses, causing bacteremia in a pregnant woman is <b>Listeria monocytogenes</b>. It causes illness in neonates, pregnant women, the elderly and immunocompromised patients, and invasive disease has a long incubation (average 30 days, up to 6 weeks).</p><p>In pregnancy it can cross the placenta and cause fetal death, premature birth or an infected baby; in adults it causes sepsis or meningitis. Diagnosis is by blood or CSF culture, and treatment is <b>ampicillin</b>.</p>",
-    "table": null,
+    "html": "<p><i>Listeria monocytogenes</i> is a <b>motile, gram-positive rod</b> and facultative anaerobe that <b>tolerates cold temperatures</b>, so it can grow in refrigerated foods, classically <b>deli meats and cheeses</b>. It causes illness in neonates, <b>pregnant women</b>, the elderly and immunocompromised patients. It can cause a self-limited GI illness after about 24 hours, or invasive disease after a longer incubation of up to 6 weeks, averaging 30 days. In pregnancy, infection can cross the placenta and lead to fetal death, premature birth or an infected baby, and in other adults invasive disease causes sepsis, meningitis or both, with mortality around 15%.</p><p>This woman at 30 weeks with fever, myalgias, fetal tachycardia, a month of deli turkey and soft cheese, and a motile gram-positive rod in blood that grows in the cold has listeriosis. Diagnosis is by blood or CSF culture, and the treatment is <b>ampicillin</b>.</p>",
+    "table": "<table><tr><th>Host</th><th>Pathogen</th><th>Invasive picture</th><th>Treatment named</th></tr><tr><td>Pregnancy, neonates, elderly, transplant, steroids, chemotherapy</td><td>Listeria monocytogenes</td><td>Bacteremia, meningitis, fetal infection</td><td>Ampicillin</td></tr><tr><td>Sickle cell disease, HIV, elderly</td><td>Salmonella enteritidis</td><td>Septicemia, osteomyelitis, mycotic aneurysms</td><td>Antibiotics in high-risk hosts</td></tr><tr><td>Liver disease, iron storage disorders</td><td>Vibrio vulnificus</td><td>Sepsis with bullous skin lesions</td><td>Surgery, tetracycline</td></tr></table>",
     "why": [
-     "Ceftriaxone is used for typhoid and is not the slide drug for Listeria.",
-     "Erythromycin is the slide option for severe Campylobacter diarrhea.",
+     "Ceftriaxone is the antibiotic named for typhoid fever, not for invasive Listeria.",
+     "Erythromycin has been used for severe Campylobacter diarrhea, not for Listeria bacteremia.",
      "",
-     "Ciprofloxacin is used for anthrax.",
-     "Metronidazole treats anaerobes and protozoa."
+     "Ciprofloxacin is not the treatment named for Listeria; invasive disease is treated with ampicillin.",
+     "Metronidazole is not the treatment for Listeria, a gram-positive rod treated with ampicillin."
     ],
-    "takeaway": "Listeria (cold-tolerant, deli meats and soft cheese) causes bacteremia in pregnancy that can infect the fetus; treat invasive disease with ampicillin.",
+    "takeaway": "Listeria monocytogenes is a cold-tolerant motile gram-positive rod from deli meats and soft cheeses that causes bacteremia in pregnancy with risk to the fetus, and invasive disease is treated with ampicillin.",
     "topic": "Listeria in pregnancy",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "objective": "Know clinical syndromes caused by common pathogens in food-borne illness",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Ceftriaxone is the antibiotic named for typhoid fever, not for invasive Listeria.",
+      "if_right": "a returning traveler with typhoid fever confirmed by blood cultures"
+     },
+     {
+      "choice": 1,
+      "why": "Erythromycin has been used for severe Campylobacter diarrhea, not for Listeria bacteremia.",
+      "if_right": "severe bloody diarrhea from Campylobacter after raw poultry"
+     },
+     {
+      "choice": 3,
+      "why": "Ciprofloxacin is not the treatment named for Listeria; invasive disease is treated with ampicillin.",
+      "if_right": "a single antibiotic dose for brief traveler's diarrhea, not invasive Listeria"
+     },
+     {
+      "choice": 4,
+      "why": "Metronidazole is not the treatment for Listeria, a gram-positive rod treated with ampicillin.",
+      "if_right": "an anaerobic or protozoal infection, not a gram-positive bacteremia"
+     }
+    ],
+    "slides": {
+     "stem": [
+      36,
+      37
+     ],
+     "answer": [
+      37
+     ],
+     "distractors": [
+      27,
+      29,
+      18,
+      37
+     ]
+    },
+    "deck": "44 Food Borne Illnesses"
    },
    "figures": []
   }
