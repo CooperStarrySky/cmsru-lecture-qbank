@@ -1254,6 +1254,145 @@
      "caption": "Session 8A slides (2025-26) · Page 46"
     }
    ]
+  },
+  {
+   "id": "miid2-w08-app-8a-q18",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Session 8A slides",
+   "stem": "A 34-year-old man returned 12 days ago from 3 weeks in Ghana. He took doxycycline during the trip but stopped it on the flight home. He has had 4 days of fever and chills, and today he is drowsy, confused about the date, and has vomited every pill and sip of fluid since morning. Temperature is 39.8 C (103.6 F), pulse 112/min, and blood pressure 108/70 mm Hg. A thin smear shows Plasmodium falciparum ring forms with 1.5% parasitemia. Hemoglobin is 11.8 g/dL (normal 13.5 to 17.5), and platelets are 95,000/mm3 (normal 150,000 to 400,000).\n\nWhich statement best describes his malaria and the reason?",
+   "choices": [
+    "Uncomplicated, since partial prophylaxis keeps the malaria mild",
+    "Severe, but only because the species on his smear is falciparum",
+    "Severe, since confusion defines it at any level of parasitemia",
+    "Uncomplicated until a repeat smear shows that parasitemia is rising",
+    "Uncomplicated, since his parasitemia is still below the 5% cutoff"
+   ],
+   "answer": 2,
+   "evidence": [],
+   "explain": {
+    "html": "<p>Fever in a traveler returning from a malarious area is <b>malaria until proven otherwise</b>, and the next decision is whether the illness is uncomplicated or severe. <b>Uncomplicated malaria</b> can occur with any Plasmodium species and requires <b>all</b> of the following: parasitemia below 5%, not obtunded, able to take oral medicines, and no evidence of vital organ dysfunction. <b>Severe malaria</b>, usually falciparum, is present when <b>any one</b> criterion is met: parasitemia of 5% or more, <b>inability to take oral medications</b>, organ dysfunction, severe anemia, abnormal bleeding or DIC, <b>impaired consciousness</b>, or shock. Death can occur within hours of presentation.</p><p>This man's parasitemia of 1.5% is below the cutoff, but he is confused and cannot keep any pill down, and each of those alone defines severe disease. The low parasitemia is the trap. He also stopped doxycycline on the flight home instead of continuing it for 4 weeks after leaving the endemic area, which explains how he became infected.</p>",
+    "table": "<table><tr><th>Uncomplicated (needs all)</th><th>Severe (needs any one)</th></tr><tr><td>Parasitemia below 5%</td><td>Parasitemia 5% or more</td></tr><tr><td>Not obtunded</td><td>Impaired consciousness</td></tr><tr><td>Can take oral medicines</td><td>Unable to take oral medications</td></tr><tr><td>No vital organ dysfunction</td><td>Organ dysfunction, severe anemia, bleeding or DIC, shock</td></tr></table>",
+    "why": [
+     "Doxycycline must continue 4 weeks after leaving the endemic area; stopping early is how he got infected, not a reason for mild disease.",
+     "Falciparum causes most severe disease, but uncomplicated falciparum malaria exists; severity comes from the criteria.",
+     "",
+     "He already meets severe criteria now, and severe malaria can kill within hours, so there is no waiting for a repeat smear.",
+     "Parasitemia below 5% is necessary but not sufficient; he is obtunded and cannot take oral drugs."
+    ],
+    "takeaway": "Malaria is uncomplicated only if every condition is met (parasitemia below 5%, alert, taking oral drugs, no organ dysfunction); any single severe criterion, such as impaired consciousness, makes it severe.",
+    "topic": "Severe malaria is defined by any one criterion",
+    "subject": "Microbiology",
+    "objective": "Malaria",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Doxycycline must continue 4 weeks after leaving the endemic area; stopping early is how he got infected, not a reason for mild disease.",
+      "if_right": "a traveler who completed prophylaxis and has no malaria on smear"
+     },
+     {
+      "choice": 1,
+      "why": "Falciparum causes most severe disease, but uncomplicated falciparum malaria exists; severity comes from the criteria.",
+      "if_right": "a falciparum smear in a patient who is alert, at low parasitemia, and taking oral medicines"
+     },
+     {
+      "choice": 3,
+      "why": "He already meets severe criteria now, and severe malaria can kill within hours, so there is no waiting for a repeat smear.",
+      "if_right": "an alert, well-hydrated patient whose only borderline finding is parasitemia near 5%"
+     },
+     {
+      "choice": 4,
+      "why": "Parasitemia below 5% is necessary but not sufficient; he is obtunded and cannot take oral drugs.",
+      "if_right": "an alert patient at 1.5% parasitemia who is keeping oral medicines down"
+     }
+    ],
+    "slides": {
+     "stem": [
+      25,
+      20
+     ],
+     "answer": [
+      28,
+      27
+     ],
+     "distractors": [
+      20,
+      27,
+      28,
+      27
+     ]
+    },
+    "deck": "08A Travel and Geographic Infections"
+   },
+   "figures": []
+  },
+  {
+   "id": "miid2-w08-app-8a-q19",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Session 8A slides",
+   "stem": "A 44-year-old man from Phoenix, Arizona, is hospitalized in New Jersey with 3 weeks of fever, cough, and pleuritic chest pain. A lung biopsy shows spherules filled with endospores, and part of the specimen is sent for fungal culture. He coughs frequently, and several nurses care for him closely for 10 days before the diagnosis is made; none becomes ill. The culture plate is mistakenly left on a bench at room temperature instead of in the 37 C incubator, and after 10 days a microbiology technologist opens it on the open bench to examine the growth. Two weeks afterward the technologist develops fever, cough, and a lung infiltrate.\n\nWhich best explains why the technologist became infected but the nurses did not?",
+   "choices": [
+    "The technologist had reactivation of an old, silent infection",
+    "His cough spread spherules only to people at very close range",
+    "The plate grew yeasts, which are more infectious than spherules",
+    "The plate held the inhaled mold form; his tissue held spherules",
+    "The nurses were protected once he began taking fluconazole"
+   ],
+   "answer": 3,
+   "evidence": [],
+   "explain": {
+    "html": "<p>The endemic mycoses each occupy a <b>specific ecologic niche</b> in the environment and share <b>temperature dimorphism</b>: they grow as <b>mold in the environment at 25 to 35 C</b> and as <b>yeasts, or spherules, at body temperature</b>. Infection follows <b>inhalation of the organism in the mold phase</b> (Sporothrix, acquired by inoculation, is the exception), and the severity of infection depends on the <b>extent of exposure</b> and immune status. Hematogenous dissemination and reactivation years later are both common.</p><p><i>Coccidioides</i> lives in the soil of the desert southwest, and in tissue it forms spherules filled with endospores, as in this patient's biopsy. That tissue form is not the infectious form, so his cough posed no risk to the nurses. The culture plate incubated at room temperature grew the mold form, and opening it on an open bench delivered a large inhaled dose to the technologist, who became ill 2 weeks later.</p>",
+    "table": "<table><tr><th>Setting</th><th>Temperature</th><th>Form</th><th>Infectious by inhalation?</th></tr><tr><td>Environment or culture at room temperature</td><td>25 to 35 C</td><td>Mold</td><td>Yes</td></tr><tr><td>Patient tissue or culture at 37 C</td><td>Body temperature</td><td>Yeasts or spherules</td><td>No</td></tr></table>",
+    "why": [
+     "Reactivation happens years after an earlier infection, and this illness followed a clear new exposure by 2 weeks.",
+     "The tissue form, spherules, is not the infectious form, and the endemic mycoses are acquired by inhaling mold, not from coughing patients.",
+     "At room temperature the fungus grows as mold; yeasts and spherules are the body-temperature forms.",
+     "",
+     "The nurses' exposure happened before any diagnosis or antifungal treatment."
+    ],
+    "takeaway": "Endemic dimorphic fungi grow as mold at 25 to 35 C and as yeasts or spherules at 37 C; inhaled mold, not the tissue form in a patient, causes infection.",
+    "topic": "Thermal dimorphism decides who gets infected",
+    "subject": "Microbiology",
+    "objective": "Endemic mycoses",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Reactivation happens years after an earlier infection, and this illness followed a clear new exposure by 2 weeks.",
+      "if_right": "a technologist who once lived in Arizona falling ill years later with no new exposure"
+     },
+     {
+      "choice": 1,
+      "why": "The tissue form, spherules, is not the infectious form, and the endemic mycoses are acquired by inhaling mold, not from coughing patients.",
+      "if_right": "an organism spread by respiratory secretions, such as meningococcus"
+     },
+     {
+      "choice": 2,
+      "why": "At room temperature the fungus grows as mold; yeasts and spherules are the body-temperature forms.",
+      "if_right": "a plate kept in the 37 C incubator, which would grow the tissue form"
+     },
+     {
+      "choice": 4,
+      "why": "The nurses' exposure happened before any diagnosis or antifungal treatment.",
+      "if_right": "contacts exposed only after weeks of therapy, with no change in the infectious form"
+     }
+    ],
+    "slides": {
+     "stem": [
+      52,
+      44
+     ],
+     "answer": [
+      44
+     ],
+     "distractors": [
+      45,
+      44,
+      44,
+      54
+     ]
+    },
+    "deck": "08A Travel and Geographic Infections"
+   },
+   "figures": []
   }
  ]
 }

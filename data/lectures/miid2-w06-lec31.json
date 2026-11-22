@@ -955,6 +955,146 @@
      "caption": "Lecture 31 slides (2025-26) · Page 57"
     }
    ]
+  },
+  {
+   "id": "miid2-w06-lec31-q14",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 31 slides",
+   "stem": "A 26-year-old woman in her first pregnancy had prenatal labs at 8 weeks showing she was not immune to rubella; she had never been vaccinated. At 20 weeks of gestation, 2 weeks after an unvaccinated relative stayed with her, she develops low-grade fever, a fine rash and tender neck lymph nodes. Rubella-specific IgM is positive, confirming acute primary infection. A fetal ultrasound at 22 weeks shows normal growth and normal cardiac anatomy. She has read that congenital rubella causes cataracts, heart defects and deafness and asks what her baby is likely to face.\n\nIf the fetus is infected, which outcome is most likely?",
+   "choices": [
+    "Deafness or retinopathy, without heart defects or multiple anomalies",
+    "Microcephaly, periventricular calcifications and one-sided hearing loss",
+    "Cataracts, patent ductus arteriosus and bilateral deafness together",
+    "Limb hypoplasia, cutaneous scars, cataracts and cortical atrophy",
+    "Hydrocephalus, chorioretinitis and diffuse intracranial calcifications"
+   ],
+   "answer": 0,
+   "evidence": [],
+   "explain": {
+    "html": "<p>In congenital rubella, <b>timing is everything</b>. The <b>range of findings is inversely related to gestational age</b> at the time of maternal infection, and timing also shapes which defects appear. Infants infected in the <b>first trimester</b> have a greater chance of <b>multiple anomalies</b>: heart lesions (PDA, pulmonary artery or valve stenosis) in over half, cataracts and retinopathy, and deafness, the most common finding. Infants infected <b>after 12 weeks</b> may have <b>only deafness or retinopathy</b>, and the risk of congenital rubella falls as maternal infection moves later.</p><p>This mother had confirmed primary rubella at <b>20 weeks</b>, well past the first trimester, and the fetal heart looks normal. If the fetus is infected, the expected picture is limited, most likely hearing loss or retinopathy rather than the full combination she read about. The classic list is the trap, because it describes early infection. The timing question matters for counseling and for knowing what to screen for after birth.</p>",
+    "table": "<table><tr><th>Pattern</th><th>Congenital infection</th></tr><tr><td>Cataracts, PDA, bilateral deafness (first trimester)</td><td>Rubella</td></tr><tr><td>Deafness or retinopathy only (after 12 weeks)</td><td>Rubella</td></tr><tr><td>Hydrocephalus, chorioretinitis, intracranial calcifications</td><td>Toxoplasmosis</td></tr><tr><td>Microcephaly, periventricular calcifications, unilateral hearing loss</td><td>CMV</td></tr><tr><td>Limb hypoplasia, cutaneous scars, cataracts, cortical atrophy</td><td>Varicella</td></tr></table>",
+    "why": [
+     "",
+     "Microcephaly, periventricular calcifications and unilateral hearing loss describe congenital CMV.",
+     "Multiple anomalies in heart, eye and ear are most likely with first-trimester infection, not infection at 20 weeks.",
+     "Limb hypoplasia with cutaneous scars is the congenital varicella pattern.",
+     "Hydrocephalus, chorioretinitis and intracranial calcifications are the classic triad of congenital toxoplasmosis."
+    ],
+    "takeaway": "The severity and range of congenital rubella defects fall with later gestational age at maternal infection; infection after 12 weeks may produce only deafness or retinopathy.",
+    "topic": "Congenital rubella: timing of maternal infection shapes the defects",
+    "subject": "Microbiology",
+    "objective": "Review the clinical manifestations of congenital Rubella syndrome",
+    "rows": [
+     {
+      "choice": 1,
+      "why": "Microcephaly, periventricular calcifications and unilateral hearing loss describe congenital CMV.",
+      "if_right": "a newborn with a positive urine or saliva CMV PCR in the first 3 weeks"
+     },
+     {
+      "choice": 2,
+      "why": "Multiple anomalies in heart, eye and ear are most likely with first-trimester infection, not infection at 20 weeks.",
+      "if_right": "maternal rubella in the first 12 weeks of pregnancy"
+     },
+     {
+      "choice": 3,
+      "why": "Limb hypoplasia with cutaneous scars is the congenital varicella pattern.",
+      "if_right": "maternal varicella in the first or second trimester"
+     },
+     {
+      "choice": 4,
+      "why": "Hydrocephalus, chorioretinitis and intracranial calcifications are the classic triad of congenital toxoplasmosis.",
+      "if_right": "a mother with Toxoplasma infection from cat litter or undercooked meat"
+     }
+    ],
+    "slides": {
+     "stem": [
+      47,
+      48
+     ],
+     "answer": [
+      47,
+      50
+     ],
+     "distractors": [
+      54,
+      47,
+      54,
+      54
+     ]
+    },
+    "deck": "31 Congenital Infections"
+   },
+   "figures": []
+  },
+  {
+   "id": "miid2-w06-lec31-q15",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 31 slides",
+   "stem": "A term newborn has a head circumference above the 97th percentile and a full fontanelle. Head CT shows dilated lateral ventricles and calcifications scattered through the brain tissue. Eye examination shows bilateral retinal lesions with central pigment surrounded by a pale ring. He passes his hearing screen in both ears. He has scattered petechiae and an enlarged liver and spleen; platelets are 70,000/microL (150,000 to 400,000). His mother works full time in a daycare center caring for toddlers. Her prenatal labs were normal and she reports no illness during pregnancy. Confirmatory testing is sent.\n\nWhich treatment plan will most likely be needed for this infant?",
+   "choices": [
+    "Supportive care only, since no antimicrobial therapy is available",
+    "Pyrimethamine and sulfadiazine for at least a year, with leucovorin",
+    "Oral valganciclovir for 6 months, with close blood count monitoring",
+    "Intravenous penicillin, with follow-up imaging of the long bones",
+    "Spiramycin for the infant until the parasite is cleared from tissues"
+   ],
+   "answer": 1,
+   "evidence": [],
+   "explain": {
+    "html": "<p>Many congenital infections share findings (petechiae, thrombocytopenia, hepatosplenomegaly, intracranial calcifications), so the distinguishing features matter. Congenital <b>toxoplasmosis</b> has a classic triad of <b>chorioretinitis, hydrocephalus and intracranial calcifications</b>, with calcifications <b>scattered through the brain</b>. Congenital <b>CMV</b> instead brings <b>microcephaly</b>, periventricular calcifications, petechiae and hearing loss. Treatment then follows the diagnosis: infected newborns with toxoplasmosis get <b>pyrimethamine and sulfadiazine for at least a year</b>, with <b>leucovorin (folinic acid)</b> because pyrimethamine causes neutropenia; spiramycin is used only during pregnancy to reduce transmission.</p><p>This infant has macrocephaly from hydrocephalus, bilateral pigmented retinal lesions and a normal hearing screen, and calcifications scattered through the brain rather than rimming the ventricles, which together point to toxoplasmosis. The daycare job is the trap, since toddlers are a familiar CMV source and his petechiae fit both. Getting the diagnosis right decides between a year of antiparasitic therapy and a course of valganciclovir, and treated infants still need follow-up because these drugs do not clear bradyzoites from the eye and brain.</p>",
+    "table": "<table><tr><th>Feature</th><th>Congenital toxoplasmosis</th><th>Congenital CMV</th></tr><tr><td>Head size</td><td>Hydrocephalus (large head)</td><td>Microcephaly</td></tr><tr><td>Calcifications</td><td>Scattered intracranial</td><td>Periventricular</td></tr><tr><td>Eye</td><td>Chorioretinitis (85 to 92 percent)</td><td>Not part of its listed pattern</td></tr><tr><td>Hearing</td><td>Not the defining feature</td><td>Sensorineural loss, often unilateral</td></tr><tr><td>Treatment</td><td>Pyrimethamine plus sulfadiazine at least 1 year, with leucovorin</td><td>Ganciclovir or oral valganciclovir</td></tr></table>",
+    "why": [
+     "No antimicrobial treatment is the situation in congenital rubella, which presents with cataracts, heart defects and deafness.",
+     "",
+     "Valganciclovir is for congenital CMV, which gives microcephaly and hearing loss, not hydrocephalus with chorioretinitis and normal hearing.",
+     "Penicillin treats congenital syphilis, whose signs are a palm and sole rash, snuffles and periostitis.",
+     "Spiramycin given in pregnancy reduces transmission to the fetus but does not treat an infected fetus or newborn."
+    ],
+    "takeaway": "Congenital toxoplasmosis presents with chorioretinitis, hydrocephalus and intracranial calcifications and is treated with pyrimethamine plus sulfadiazine for at least a year, with leucovorin (folinic acid) to prevent pyrimethamine neutropenia.",
+    "topic": "Congenital toxoplasmosis vs CMV: diagnosis drives the regimen",
+    "subject": "Microbiology",
+    "objective": "Distinguish the clinical findings of congenital Toxoplasmosis from those of infants with other congenital infections",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "No antimicrobial treatment is the situation in congenital rubella, which presents with cataracts, heart defects and deafness.",
+      "if_right": "a newborn with cataracts, a PDA and bilateral deafness"
+     },
+     {
+      "choice": 2,
+      "why": "Valganciclovir is for congenital CMV, which gives microcephaly and hearing loss, not hydrocephalus with chorioretinitis and normal hearing.",
+      "if_right": "microcephaly, periventricular calcifications, a failed hearing screen and a positive urine CMV PCR"
+     },
+     {
+      "choice": 3,
+      "why": "Penicillin treats congenital syphilis, whose signs are a palm and sole rash, snuffles and periostitis.",
+      "if_right": "a newborn with snuffles, a rash on the palms and soles and periostitis"
+     },
+     {
+      "choice": 4,
+      "why": "Spiramycin given in pregnancy reduces transmission to the fetus but does not treat an infected fetus or newborn.",
+      "if_right": "a pregnant woman with acute Toxoplasma infection and a fetus not yet shown to be infected"
+     }
+    ],
+    "slides": {
+     "stem": [
+      38,
+      39
+     ],
+     "answer": [
+      42,
+      54
+     ],
+     "distractors": [
+      54,
+      22,
+      54,
+      42
+     ]
+    },
+    "deck": "31 Congenital Infections"
+   },
+   "figures": []
   }
  ]
 }

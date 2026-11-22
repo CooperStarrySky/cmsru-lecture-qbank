@@ -1386,6 +1386,148 @@
      "caption": "Lecture 35 slides (2025-26) · Page 34"
     }
    ]
+  },
+  {
+   "id": "miid2-w07-lec35-q19",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 35 slides",
+   "stem": "A 34-year-old line cook was treated 2 months ago for 5 days of bloody diarrhea that began after a visit to family in western Africa. Colonoscopy showed raised ulcers with undermined edges, and biopsy showed invasive trophozoites containing ingested red blood cells. He completed a course of metronidazole alone, and his symptoms resolved. His restaurant also serves a seasonal salad of imported raspberries and basil. Over the past 3 weeks four of his coworkers have developed bloody diarrhea, and one has a liver abscess. He feels well, and his temperature is 37.0 C. His stool now shows small round forms with several nuclei and no ingested red cells.\n\nWhich of the following best explains the illness among his coworkers?",
+   "choices": [
+    "Resistant trophozoites persisted in his liver and seeded his stool",
+    "Metronidazole spared the luminal cysts, which he still sheds",
+    "An acid-fast coccidian on the imported produce infected the staff",
+    "Trophozoites in his stool contaminated the food he prepared",
+    "A household pet reservoir reinfected him and then his coworkers"
+   ],
+   "answer": 1,
+   "evidence": [],
+   "explain": {
+    "html": "<p><i>Entamoeba histolytica</i> has two forms with different jobs. The <b>cyst</b> survives outside the body and is the <b>infectious form</b>, ingested by the fecal-oral route; humans are the only host. In the large intestine, <b>trophozoites</b> either colonize the mucosa and are shed as new cysts, or invade the submucosa to make <b>flask-like ulcers</b> and travel to the liver as an abscess (\"anchovy paste\"). Treatment is therefore two steps: <b>metronidazole kills trophozoites</b>, and a <b>luminal agent such as paromomycin kills cysts</b>.</p><p>This cook received metronidazole alone, so his colitis resolved while cysts kept forming in the bowel lumen; the round forms with several nuclei and no ingested red cells in his stool are those cysts. Handling food as an <b>asymptomatic cyst passer</b>, he spread amebic colitis and a liver abscess to coworkers. The imported produce is a distraction, because a Cyclospora outbreak would cause watery, explosive diarrhea rather than bloody colitis and liver abscess.</p>",
+    "table": "<table><tr><th>Form</th><th>Role</th><th>Killed by</th></tr><tr><td>Cyst (several nuclei)</td><td>Infectious form, survives outside the body, shed by carriers</td><td>Luminal agent (paromomycin)</td></tr><tr><td>Trophozoite (may contain red cells)</td><td>Invasive form: flask-like ulcers, liver abscess</td><td>Metronidazole</td></tr></table>",
+    "why": [
+     "He has no symptoms of a liver abscess, and the problem is the untreated luminal stage, not drug-resistant trophozoites.",
+     "",
+     "Cyclospora on imported produce causes watery, explosive diarrhea, not bloody colitis with a liver abscess.",
+     "Trophozoites are the invasive, pathogenic form; the cyst is the form that survives outside the body and transmits infection.",
+     "Humans are the only host of Entamoeba histolytica, so there is no animal reservoir."
+    ],
+    "takeaway": "Metronidazole treats invasive Entamoeba histolytica trophozoites, but a luminal agent (paromomycin) must follow to eradicate cysts, or the patient remains an asymptomatic cyst passer who transmits infection.",
+    "topic": "Amebiasis: why a luminal agent must follow metronidazole",
+    "subject": "Microbiology",
+    "objective": "Identify life cycle stages relevant to transmission and pathogenesis",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "He has no symptoms of a liver abscess, and the problem is the untreated luminal stage, not drug-resistant trophozoites.",
+      "if_right": "a patient with fever and right upper quadrant pain from a liver abscess that recurred after treatment"
+     },
+     {
+      "choice": 2,
+      "why": "Cyclospora on imported produce causes watery, explosive diarrhea, not bloody colitis with a liver abscess.",
+      "if_right": "an outbreak of explosive watery diarrhea tied to imported produce with 8 to 10 micrometer acid-fast oocysts"
+     },
+     {
+      "choice": 3,
+      "why": "Trophozoites are the invasive, pathogenic form; the cyst is the form that survives outside the body and transmits infection.",
+      "if_right": "coworkers who ate trophozoite-containing material and the trophozoite were the stage that survives and infects"
+     },
+     {
+      "choice": 4,
+      "why": "Humans are the only host of Entamoeba histolytica, so there is no animal reservoir.",
+      "if_right": "an organism with an animal reservoir rather than a parasite whose only host is humans"
+     }
+    ],
+    "slides": {
+     "stem": [
+      13,
+      14
+     ],
+     "answer": [
+      10,
+      15,
+      16
+     ],
+     "distractors": [
+      14,
+      29,
+      10,
+      12
+     ]
+    },
+    "deck": "35 Parasitology I"
+   },
+   "figures": []
+  },
+  {
+   "id": "miid2-w07-lec35-q20",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 35 slides",
+   "stem": "A 38-year-old man who grew up in a lakeside fishing village in East Africa comes to the clinic with 4 months of abdominal swelling. As a child he swam and bathed in the lake daily. He also says he often ate watercress picked from streams beside sheep pastures. He has no jaundice, pruritus or fever. Examination shows splenomegaly and ascites, and endoscopy shows esophageal varices. Leukocytes 9,000/microL with 9% eosinophils (1 to 4). Total bilirubin 0.9 mg/dL (0.1 to 1.2), alkaline phosphatase 105 U/L (40 to 130), AST 38 U/L (10 to 40). Ultrasound shows a firm liver with normal-caliber bile ducts.\n\nA liver biopsy would most likely show which of the following?",
+   "choices": [
+    "Malignant glands arising from chronically inflamed bile ducts",
+    "Adult flukes within dilated bile ducts with periductal fibrosis",
+    "Eosinophilic granulomas around eggs in portal tracts with fibrosis",
+    "Adult worms packed inside the portal vein, occluding its lumen",
+    "A cavity of necrotic debris containing trophozoites with red cells"
+   ],
+   "answer": 2,
+   "evidence": [],
+   "explain": {
+    "html": "<p>Trematodes split by where the adults live. <i>Schistosoma</i> is a <b>blood fluke</b>: cercariae from snails penetrate the skin in fresh water, and adults settle in veins. Its disease is not caused by the adults but by an <b>eosinophilic granulomatous response to deposited eggs</b>, which in the liver produces fibrosis, cirrhosis and <b>portal hypertension</b>, and in the bladder hematuria and squamous cell carcinoma. The liver flukes behave differently: Fasciola (aquatic vegetation, sheep regions) and Clonorchis (undercooked fish) live <b>inside the bile ducts</b>, causing biliary fibrosis and <b>obstructive jaundice</b>, and Clonorchis can lead to cholangiocarcinoma.</p><p>This man has splenomegaly, ascites and varices, so he has portal hypertension, yet his bilirubin, alkaline phosphatase and bile ducts are normal, which argues against any fluke in the ducts. Daily childhood swimming in an African lake and eosinophilia point to schistosomiasis, so the biopsy shows <b>egg granulomas with portal fibrosis</b>. The watercress history is the trap, and the adult worms in the portal vein are present but are not the lesion.</p>",
+    "table": "<table><tr><th>Fluke</th><th>Acquired from</th><th>Adults live in</th><th>Liver picture</th></tr><tr><td><i>Schistosoma</i></td><td>Cercariae in fresh water</td><td>Veins</td><td>Egg granulomas, portal fibrosis, portal hypertension; biliary tests normal</td></tr><tr><td><i>Fasciola hepatica</i></td><td>Aquatic vegetation (watercress)</td><td>Liver, then bile ducts</td><td>Biliary fibrosis, obstructive jaundice</td></tr><tr><td><i>Clonorchis</i></td><td>Undercooked fish</td><td>Bile ducts</td><td>Biliary obstruction, cholangiocarcinoma</td></tr></table>",
+    "why": [
+     "Cholangiocarcinoma follows years of Clonorchis or Opisthorchis in the bile ducts and presents with obstructive jaundice.",
+     "Flukes in the bile ducts (Fasciola from watercress, Clonorchis from fish) cause biliary obstruction with jaundice and raised alkaline phosphatase; his ducts, bilirubin and alkaline phosphatase are normal.",
+     "",
+     "Adult schistosomes do live in veins, but disease comes from the host response to their eggs, not from adults blocking the vein.",
+     "Trophozoites with ingested red cells in a necrotic cavity are an amebic liver abscess, which causes fever and right upper quadrant pain, not varices and ascites."
+    ],
+    "takeaway": "Hepatic schistosomiasis causes portal hypertension through eosinophilic granulomas around eggs in the portal tracts, with normal biliary tests; bile duct flukes (Fasciola, Clonorchis) cause obstructive jaundice instead.",
+    "topic": "Schistosomiasis: portal hypertension from egg granulomas",
+    "subject": "Microbiology",
+    "objective": "Know the clinical syndromes and important sequelae",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Cholangiocarcinoma follows years of Clonorchis or Opisthorchis in the bile ducts and presents with obstructive jaundice.",
+      "if_right": "painless jaundice and weight loss after decades of eating undercooked fish in eastern Asia"
+     },
+     {
+      "choice": 1,
+      "why": "Flukes in the bile ducts (Fasciola from watercress, Clonorchis from fish) cause biliary obstruction with jaundice and raised alkaline phosphatase; his ducts, bilirubin and alkaline phosphatase are normal.",
+      "if_right": "obstructive jaundice with dilated bile ducts and a raised alkaline phosphatase after eating watercress or raw fish"
+     },
+     {
+      "choice": 3,
+      "why": "Adult schistosomes do live in veins, but disease comes from the host response to their eggs, not from adults blocking the vein.",
+      "if_right": "a disease in which adult worms cause damage by mechanically blocking the vessel they live in"
+     },
+     {
+      "choice": 4,
+      "why": "Trophozoites with ingested red cells in a necrotic cavity are an amebic liver abscess, which causes fever and right upper quadrant pain, not varices and ascites.",
+      "if_right": "fever and right upper quadrant pain with a liver abscess after bloody diarrhea"
+     }
+    ],
+    "slides": {
+     "stem": [
+      49,
+      52
+     ],
+     "answer": [
+      51,
+      52,
+      60
+     ],
+     "distractors": [
+      56,
+      58,
+      49,
+      14
+     ]
+    },
+    "deck": "35 Parasitology I"
+   },
+   "figures": []
   }
  ]
 }

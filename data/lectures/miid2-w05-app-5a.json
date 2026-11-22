@@ -599,6 +599,75 @@
     "deck": "05A Mycology Case Studies"
    },
    "figures": []
+  },
+  {
+   "id": "miid2-w05-app-5a-q09",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Session 5A slides",
+   "stem": "A 63-year-old woman with poorly controlled type 2 diabetes (glucose 412 mg/dL; normal 70 to 99) has taken high-dose prednisone for a month for a lung disease flare. She has 4 days of fever, cough and hemoptysis. Chest CT shows a nodule with a necrotic center. A lung biopsy shows necrotic tissue invaded by fungal filaments. On silver stain the filaments are slender and keep an even width along their length, they are divided at regular intervals by cross walls, and they fork again and again into narrow V shapes. A resident concludes this is mucormycosis because of her diabetes and the necrosis.\n\nWhich conclusion about this infection is best supported?",
+   "choices": [
+    "Aspergillosis, recognized by its ability to cause necrosis",
+    "Candidiasis, the divided filaments being budding yeast chains",
+    "Mucormycosis, favored by her diabetes and the tissue necrosis",
+    "Aspergillosis, with the steroid course as the fitting risk",
+    "Mucormycosis, identified by the silver stain outlining walls"
+   ],
+   "answer": 3,
+   "evidence": [],
+   "explain": {
+    "html": "<p>Fungal identification in tissue rests on morphology, and the two angioinvasive molds look different under the microscope. <i>Aspergillus</i> forms <b>narrow hyphae of uniform width with regular septa</b> that branch dichotomously at <b>acute angles</b>. The mucormycosis agents form <b>broad, irregular, ribbon-like hyphae with few or no septa</b> that branch at wide angles, and <i>Candida</i> in tissue appears as budding yeast with pseudohyphae. Both molds invade tissue and cause necrosis, and silver and PAS stains outline the walls of any of them, so neither the necrosis nor the stain identifies the organism. The host shifts suspicion (uncontrolled diabetes for mucormycosis; neutropenia, transplant and steroids for <i>Aspergillus</i>), but the <b>morphology decides</b>.</p><p>The biopsy describes slender filaments of even width with regular cross walls forking into narrow V shapes: that is narrow, septate, acute-angled hyphae, which is <i>Aspergillus</i>. Her diabetes is the red herring; her month of <b>high-dose prednisone</b> is the risk factor that fits. Getting this right matters because the two infections are managed differently, and mucormycosis needs urgent surgical debridement along with antifungal therapy.</p>",
+    "table": "<table><tr><th>Feature</th><th><i>Aspergillus</i></th><th>Mucormycosis agents</th><th><i>Candida</i></th></tr><tr><td>Form in tissue</td><td>True hyphae</td><td>True hyphae</td><td>Budding yeast with pseudohyphae</td></tr><tr><td>Width</td><td>Narrow, uniform</td><td>Broad, irregular, ribbon-like</td><td>Chains of elongated buds</td></tr><tr><td>Septa</td><td>Regular cross walls</td><td>Absent or rare</td><td>Constrictions between buds</td></tr><tr><td>Branching</td><td>Acute angle (about 45 degrees)</td><td>Wide, near right angle</td><td>Not true branching</td></tr><tr><td>Typical host</td><td>Neutropenia, transplant, steroids</td><td>Poorly controlled diabetes</td><td>Impaired cell-mediated immunity, antibiotics</td></tr></table>",
+    "why": [
+     "The organism is right, but necrosis is shared by both molds and does not identify Aspergillus.",
+     "Regular cross walls with repeated forking are septate true hyphae, not budding yeast with pseudohyphae.",
+     "Diabetes and necrosis raise suspicion, but even-width, regularly septate, narrow-V hyphae are not mucormycosis.",
+     "",
+     "Silver outlines the walls of every fungus, so the stain cannot point to mucormycosis."
+    ],
+    "takeaway": "Narrow, septate hyphae with acute-angle branching identify Aspergillus (fitting hosts: steroids, neutropenia, transplant), while broad aseptate wide-angle hyphae identify mucormycosis (fitting host: poorly controlled diabetes); morphology outranks the host clue.",
+    "topic": "Morphology outranks the host clue: Aspergillus in a diabetic",
+    "subject": "Microbiology",
+    "objective": "Recognize the gross and microscopic morphology associated with various fungal organisms and correlate this morphology with the clinical presentation of each disease",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "The organism is right, but necrosis is shared by both molds and does not identify Aspergillus.",
+      "if_right": "a reason truly specific to Aspergillus, such as the hyphal shape or a fitting host factor"
+     },
+     {
+      "choice": 1,
+      "why": "Regular cross walls with repeated forking are septate true hyphae, not budding yeast with pseudohyphae.",
+      "if_right": "budding yeast cells with elongated attached chains, as in esophageal plaques"
+     },
+     {
+      "choice": 2,
+      "why": "Diabetes and necrosis raise suspicion, but even-width, regularly septate, narrow-V hyphae are not mucormycosis.",
+      "if_right": "broad, ribbon-like hyphae without septa branching at wide angles"
+     },
+     {
+      "choice": 4,
+      "why": "Silver outlines the walls of every fungus, so the stain cannot point to mucormycosis.",
+      "if_right": "broad aseptate hyphae on the stain, where the shape rather than the stain decides"
+     }
+    ],
+    "slides": {
+     "stem": [
+      11,
+      12
+     ],
+     "answer": [
+      12
+     ],
+     "distractors": [
+      20,
+      16,
+      19,
+      12
+     ]
+    },
+    "deck": "05A Mycology Case Studies"
+   },
+   "figures": []
   }
  ]
 }

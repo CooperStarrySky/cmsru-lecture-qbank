@@ -374,11 +374,11 @@
    "week": 5,
    "lecture": "24 Introduction to Fungal Pathogens",
    "file": "data/lectures/miid2-w05-lec24.json",
-   "n": 18,
+   "n": 20,
    "sources": {
     "formative": 0,
     "notes": 0,
-    "practice": 18,
+    "practice": 20,
     "said": 0,
     "slide": 0
    },
@@ -390,11 +390,11 @@
    "week": 5,
    "lecture": "25 Pharmacokinetics and Pharmacodynamics",
    "file": "data/lectures/miid2-w05-lec25.json",
-   "n": 13,
+   "n": 15,
    "sources": {
     "formative": 0,
     "notes": 0,
-    "practice": 13,
+    "practice": 15,
     "said": 0,
     "slide": 0
    },
@@ -406,11 +406,11 @@
    "week": 5,
    "lecture": "26 Antibiotics I",
    "file": "data/lectures/miid2-w05-lec26.json",
-   "n": 18,
+   "n": 20,
    "sources": {
     "formative": 0,
     "notes": 0,
-    "practice": 18,
+    "practice": 20,
     "said": 0,
     "slide": 0
    },
@@ -422,11 +422,11 @@
    "week": 5,
    "lecture": "27 Antibiotics II",
    "file": "data/lectures/miid2-w05-lec27.json",
-   "n": 15,
+   "n": 17,
    "sources": {
     "formative": 0,
     "notes": 0,
-    "practice": 15,
+    "practice": 17,
     "said": 0,
     "slide": 0
    },
@@ -438,11 +438,11 @@
    "week": 5,
    "lecture": "28 Antimicrobial Resistance",
    "file": "data/lectures/miid2-w05-lec28.json",
-   "n": 13,
+   "n": 15,
    "sources": {
     "formative": 0,
     "notes": 0,
-    "practice": 13,
+    "practice": 15,
     "said": 0,
     "slide": 0
    },
@@ -454,11 +454,11 @@
    "week": 5,
    "lecture": "29 Tuberculosis",
    "file": "data/lectures/miid2-w05-lec29.json",
-   "n": 13,
+   "n": 15,
    "sources": {
     "formative": 0,
     "notes": 0,
-    "practice": 13,
+    "practice": 15,
     "said": 0,
     "slide": 0
    },
@@ -470,11 +470,11 @@
    "week": 5,
    "lecture": "5A Mycology Case Studies",
    "file": "data/lectures/miid2-w05-app-5a.json",
-   "n": 8,
+   "n": 9,
    "sources": {
     "formative": 0,
     "notes": 0,
-    "practice": 8,
+    "practice": 9,
     "said": 0,
     "slide": 0
    },
@@ -486,11 +486,11 @@
    "week": 6,
    "lecture": "30 Viral Syndromes",
    "file": "data/lectures/miid2-w06-lec30.json",
-   "n": 15,
+   "n": 17,
    "sources": {
     "formative": 0,
     "notes": 0,
-    "practice": 15,
+    "practice": 17,
     "said": 0,
     "slide": 0
    },
@@ -502,11 +502,11 @@
    "week": 6,
    "lecture": "31 Congenital Infections",
    "file": "data/lectures/miid2-w06-lec31.json",
-   "n": 13,
+   "n": 15,
    "sources": {
     "formative": 0,
     "notes": 0,
-    "practice": 13,
+    "practice": 15,
     "said": 0,
     "slide": 0
    },
@@ -518,11 +518,11 @@
    "week": 6,
    "lecture": "32 Fever and Rashes",
    "file": "data/lectures/miid2-w06-lec32.json",
-   "n": 16,
+   "n": 18,
    "sources": {
     "formative": 0,
     "notes": 0,
-    "practice": 16,
+    "practice": 18,
     "said": 0,
     "slide": 0
    },
@@ -534,11 +534,11 @@
    "week": 6,
    "lecture": "33 Vaccines and Immunizations",
    "file": "data/lectures/miid2-w06-lec33.json",
-   "n": 14,
+   "n": 16,
    "sources": {
     "formative": 0,
     "notes": 0,
-    "practice": 14,
+    "practice": 16,
     "said": 0,
     "slide": 0
    },
@@ -550,11 +550,11 @@
    "week": 6,
    "lecture": "34 Antifungals and Antivirals",
    "file": "data/lectures/miid2-w06-lec34.json",
-   "n": 16,
+   "n": 18,
    "sources": {
     "formative": 0,
     "notes": 0,
-    "practice": 16,
+    "practice": 18,
     "said": 0,
     "slide": 0
    },
@@ -566,11 +566,11 @@
    "week": 6,
    "lecture": "6A Mycobacterial Diagnostics and Therapeutics",
    "file": "data/lectures/miid2-w06-app-6a.json",
-   "n": 14,
+   "n": 16,
    "sources": {
     "formative": 0,
     "notes": 0,
-    "practice": 14,
+    "practice": 16,
     "said": 0,
     "slide": 0
    },
@@ -582,11 +582,11 @@
    "week": 6,
    "lecture": "6B Fever and Rash Workshop",
    "file": "data/lectures/miid2-w06-app-6b.json",
-   "n": 7,
+   "n": 8,
    "sources": {
     "formative": 0,
     "notes": 0,
-    "practice": 7,
+    "practice": 8,
     "said": 0,
     "slide": 0
    },
@@ -598,118 +598,6 @@
    "week": 7,
    "lecture": "35 Parasitology I",
    "file": "data/lectures/miid2-w07-lec35.json",
-   "n": 18,
-   "sources": {
-    "formative": 0,
-    "notes": 0,
-    "practice": 18,
-    "said": 0,
-    "slide": 0
-   },
-   "released": false
-  },
-  {
-   "lecture_id": "miid2-w07-lec36",
-   "block": "MIID II",
-   "week": 7,
-   "lecture": "36 Parasitology II",
-   "file": "data/lectures/miid2-w07-lec36.json",
-   "n": 19,
-   "sources": {
-    "formative": 0,
-    "notes": 0,
-    "practice": 19,
-    "said": 0,
-    "slide": 0
-   },
-   "released": false
-  },
-  {
-   "lecture_id": "miid2-w07-lec37",
-   "block": "MIID II",
-   "week": 7,
-   "lecture": "37 Vector-Borne Illnesses",
-   "file": "data/lectures/miid2-w07-lec37.json",
-   "n": 16,
-   "sources": {
-    "formative": 0,
-    "notes": 0,
-    "practice": 16,
-    "said": 0,
-    "slide": 0
-   },
-   "released": false
-  },
-  {
-   "lecture_id": "miid2-w07-lec38",
-   "block": "MIID II",
-   "week": 7,
-   "lecture": "38 Sexually Transmitted Infections",
-   "file": "data/lectures/miid2-w07-lec38.json",
-   "n": 16,
-   "sources": {
-    "formative": 0,
-    "notes": 0,
-    "practice": 16,
-    "said": 0,
-    "slide": 0
-   },
-   "released": false
-  },
-  {
-   "lecture_id": "miid2-w07-app-7a",
-   "block": "MIID II",
-   "week": 7,
-   "lecture": "7A Pathology of Infectious Disease",
-   "file": "data/lectures/miid2-w07-app-7a.json",
-   "n": 10,
-   "sources": {
-    "formative": 0,
-    "notes": 0,
-    "practice": 10,
-    "said": 0,
-    "slide": 0
-   },
-   "released": false
-  },
-  {
-   "lecture_id": "miid2-w07-app-7b",
-   "block": "MIID II",
-   "week": 7,
-   "lecture": "7B Parasitology Cases",
-   "file": "data/lectures/miid2-w07-app-7b.json",
-   "n": 7,
-   "sources": {
-    "formative": 0,
-    "notes": 0,
-    "practice": 7,
-    "said": 0,
-    "slide": 0
-   },
-   "released": false
-  },
-  {
-   "lecture_id": "miid2-w08-lec39",
-   "block": "MIID II",
-   "week": 8,
-   "lecture": "39 HIV Diagnosis and Monitoring",
-   "file": "data/lectures/miid2-w08-lec39.json",
-   "n": 14,
-   "sources": {
-    "formative": 0,
-    "notes": 0,
-    "practice": 14,
-    "said": 0,
-    "slide": 0
-   },
-   "released": false
-  },
-  {
-   "lecture_id": "miid2-w08-lec40",
-   "block": "MIID II",
-   "week": 8,
-   "lecture": "40 HIV Therapy",
-   "file": "data/lectures/miid2-w08-lec40.json",
    "n": 20,
    "sources": {
     "formative": 0,
@@ -721,59 +609,27 @@
    "released": false
   },
   {
-   "lecture_id": "miid2-w08-lec41",
+   "lecture_id": "miid2-w07-lec36",
    "block": "MIID II",
-   "week": 8,
-   "lecture": "41 Opportunistic Infections in HIV",
-   "file": "data/lectures/miid2-w08-lec41.json",
-   "n": 16,
+   "week": 7,
+   "lecture": "36 Parasitology II",
+   "file": "data/lectures/miid2-w07-lec36.json",
+   "n": 21,
    "sources": {
     "formative": 0,
     "notes": 0,
-    "practice": 16,
+    "practice": 21,
     "said": 0,
     "slide": 0
    },
    "released": false
   },
   {
-   "lecture_id": "miid2-w08-lec42",
+   "lecture_id": "miid2-w07-lec37",
    "block": "MIID II",
-   "week": 8,
-   "lecture": "42 Pediatric HIV",
-   "file": "data/lectures/miid2-w08-lec42.json",
-   "n": 11,
-   "sources": {
-    "formative": 0,
-    "notes": 0,
-    "practice": 11,
-    "said": 0,
-    "slide": 0
-   },
-   "released": false
-  },
-  {
-   "lecture_id": "miid2-w08-lec43",
-   "block": "MIID II",
-   "week": 8,
-   "lecture": "43 Zoonoses",
-   "file": "data/lectures/miid2-w08-lec43.json",
-   "n": 12,
-   "sources": {
-    "formative": 0,
-    "notes": 0,
-    "practice": 12,
-    "said": 0,
-    "slide": 0
-   },
-   "released": false
-  },
-  {
-   "lecture_id": "miid2-w08-lec44",
-   "block": "MIID II",
-   "week": 8,
-   "lecture": "44 Food-Borne Illnesses",
-   "file": "data/lectures/miid2-w08-lec44.json",
+   "week": 7,
+   "lecture": "37 Vector-Borne Illnesses",
+   "file": "data/lectures/miid2-w07-lec37.json",
    "n": 18,
    "sources": {
     "formative": 0,
@@ -785,16 +641,160 @@
    "released": false
   },
   {
+   "lecture_id": "miid2-w07-lec38",
+   "block": "MIID II",
+   "week": 7,
+   "lecture": "38 Sexually Transmitted Infections",
+   "file": "data/lectures/miid2-w07-lec38.json",
+   "n": 18,
+   "sources": {
+    "formative": 0,
+    "notes": 0,
+    "practice": 18,
+    "said": 0,
+    "slide": 0
+   },
+   "released": false
+  },
+  {
+   "lecture_id": "miid2-w07-app-7a",
+   "block": "MIID II",
+   "week": 7,
+   "lecture": "7A Pathology of Infectious Disease",
+   "file": "data/lectures/miid2-w07-app-7a.json",
+   "n": 11,
+   "sources": {
+    "formative": 0,
+    "notes": 0,
+    "practice": 11,
+    "said": 0,
+    "slide": 0
+   },
+   "released": false
+  },
+  {
+   "lecture_id": "miid2-w07-app-7b",
+   "block": "MIID II",
+   "week": 7,
+   "lecture": "7B Parasitology Cases",
+   "file": "data/lectures/miid2-w07-app-7b.json",
+   "n": 8,
+   "sources": {
+    "formative": 0,
+    "notes": 0,
+    "practice": 8,
+    "said": 0,
+    "slide": 0
+   },
+   "released": false
+  },
+  {
+   "lecture_id": "miid2-w08-lec39",
+   "block": "MIID II",
+   "week": 8,
+   "lecture": "39 HIV Diagnosis and Monitoring",
+   "file": "data/lectures/miid2-w08-lec39.json",
+   "n": 16,
+   "sources": {
+    "formative": 0,
+    "notes": 0,
+    "practice": 16,
+    "said": 0,
+    "slide": 0
+   },
+   "released": false
+  },
+  {
+   "lecture_id": "miid2-w08-lec40",
+   "block": "MIID II",
+   "week": 8,
+   "lecture": "40 HIV Therapy",
+   "file": "data/lectures/miid2-w08-lec40.json",
+   "n": 22,
+   "sources": {
+    "formative": 0,
+    "notes": 0,
+    "practice": 22,
+    "said": 0,
+    "slide": 0
+   },
+   "released": false
+  },
+  {
+   "lecture_id": "miid2-w08-lec41",
+   "block": "MIID II",
+   "week": 8,
+   "lecture": "41 Opportunistic Infections in HIV",
+   "file": "data/lectures/miid2-w08-lec41.json",
+   "n": 18,
+   "sources": {
+    "formative": 0,
+    "notes": 0,
+    "practice": 18,
+    "said": 0,
+    "slide": 0
+   },
+   "released": false
+  },
+  {
+   "lecture_id": "miid2-w08-lec42",
+   "block": "MIID II",
+   "week": 8,
+   "lecture": "42 Pediatric HIV",
+   "file": "data/lectures/miid2-w08-lec42.json",
+   "n": 13,
+   "sources": {
+    "formative": 0,
+    "notes": 0,
+    "practice": 13,
+    "said": 0,
+    "slide": 0
+   },
+   "released": false
+  },
+  {
+   "lecture_id": "miid2-w08-lec43",
+   "block": "MIID II",
+   "week": 8,
+   "lecture": "43 Zoonoses",
+   "file": "data/lectures/miid2-w08-lec43.json",
+   "n": 13,
+   "sources": {
+    "formative": 0,
+    "notes": 0,
+    "practice": 13,
+    "said": 0,
+    "slide": 0
+   },
+   "released": false
+  },
+  {
+   "lecture_id": "miid2-w08-lec44",
+   "block": "MIID II",
+   "week": 8,
+   "lecture": "44 Food-Borne Illnesses",
+   "file": "data/lectures/miid2-w08-lec44.json",
+   "n": 20,
+   "sources": {
+    "formative": 0,
+    "notes": 0,
+    "practice": 20,
+    "said": 0,
+    "slide": 0
+   },
+   "released": false
+  },
+  {
    "lecture_id": "miid2-w08-app-8a",
    "block": "MIID II",
    "week": 8,
    "lecture": "8A Travel and Geographic Infections",
    "file": "data/lectures/miid2-w08-app-8a.json",
-   "n": 17,
+   "n": 19,
    "sources": {
     "formative": 0,
     "notes": 0,
-    "practice": 17,
+    "practice": 19,
     "said": 0,
     "slide": 0
    },

@@ -770,6 +770,74 @@
      "caption": "Session 7A slides (2025-26) · Page 18"
     }
    ]
+  },
+  {
+   "id": "miid2-w07-app-7a-q11",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Session 7A slides",
+   "stem": "A 35-year-old man who smokes a pack of cigarettes a day comes to the emergency department with sudden fever to 39.8 C (103.6 F), shaking chills, and cough with blood-streaked sputum. At 30 he had emergency abdominal surgery after a car crash to remove a bleeding organ from the left upper quadrant; he has had no follow-up care since. He does not have HIV infection and takes no medications. A coworker was recently treated for tuberculosis. Chest x-ray shows consolidation of the entire left lower lobe. Despite antibiotics he dies of overwhelming sepsis within 2 days. At autopsy the alveolar spaces of the left lower lobe are packed with neutrophils.\n\nWhich host defect and organism property together best explain his rapid death?",
+   "choices": [
+    "Loss of splenic clearance of an organism with a polysaccharide capsule",
+    "Loss of CD4 T cells against cysts that fill the alveolar spaces",
+    "Loss of antitoxin antibody against a toxin that blocks protein synthesis",
+    "Loss of neutrophils against hyphae that invade blood vessel walls",
+    "Loss of T-cell help against an organism that survives in macrophages"
+   ],
+   "answer": 0,
+   "evidence": [],
+   "explain": {
+    "html": "<p>The lung's histology sorts infections by mechanism. <b>Alveoli packed with neutrophils</b> in a whole lobe is acute bacterial <b>lobar pneumonia</b>; caseating granulomas mean tuberculosis; thrombosed vessels with fungal hyphae mean Aspergillus; and a foamy eosinophilic exudate means Pneumocystis in a patient with low CD4 counts. The host defect predicts which pattern appears. After loss of the spleen the danger is <b>encapsulated bacteria</b>, above all <i>Streptococcus pneumoniae</i>.</p><p>The organ removed from his <b>left upper quadrant after trauma</b> was the spleen. The pneumococcus is protected by a <b>polysaccharide capsule</b> that resists phagocytosis until antibody and complement opsonize it, and the <b>spleen is a main site of clearance</b> for those bacteria, so this asplenic man went from lobar pneumonia to overwhelming sepsis in 2 days. The smoking, bloody sputum and tuberculosis contact pull toward tuberculosis, but neutrophil-filled alveoli are not granulomas.</p>",
+    "table": "<table><tr><th>Lung histology</th><th>Organism</th><th>Host at risk</th></tr><tr><td>Neutrophils filling alveoli of one lobe</td><td><i>Streptococcus pneumoniae</i></td><td>Asplenia (encapsulated organism)</td></tr><tr><td>Caseating granulomas</td><td><i>Mycobacterium tuberculosis</i></td><td>Impaired cell-mediated immunity</td></tr><tr><td>Thrombosed vessels with septate hyphae</td><td><i>Aspergillus</i></td><td>Neutropenia</td></tr><tr><td>Foamy eosinophilic exudate with cysts</td><td><i>Pneumocystis</i></td><td>AIDS, low CD4 count</td></tr></table>",
+    "why": [
+     "",
+     "Cysts in a foamy alveolar exudate are Pneumocystis in patients with low CD4 counts; he has no HIV infection and neutrophil-filled alveoli.",
+     "A toxin that blocks protein synthesis by inactivating elongation factor 2 is diphtheria, which kills through the heart, not through lobar pneumonia.",
+     "Angioinvasive hyphae with thrombosed vessels are Aspergillus in a neutropenic host; he is not neutropenic and no hyphae were found.",
+     "Organisms that survive in macrophages and need T-cell help (tuberculosis) form caseating granulomas; the alveoli here are full of neutrophils, and removal of an organ does not impair T cells."
+    ],
+    "takeaway": "After splenectomy, encapsulated bacteria such as Streptococcus pneumoniae (polysaccharide capsule, cleared by splenic opsonin-dependent phagocytosis) cause lobar pneumonia with neutrophil-filled alveoli and overwhelming sepsis.",
+    "topic": "Asplenia and the encapsulated organism of lobar pneumonia",
+    "subject": "Pathology",
+    "objective": "Match the gross and microscopic pattern of a pulmonary infection, and the host's defect, to the responsible organism.",
+    "rows": [
+     {
+      "choice": 1,
+      "why": "Cysts in a foamy alveolar exudate are Pneumocystis in patients with low CD4 counts; he has no HIV infection and neutrophil-filled alveoli.",
+      "if_right": "an AIDS patient with diffuse infiltrates and a foamy alveolar exudate with silver-staining cysts"
+     },
+     {
+      "choice": 2,
+      "why": "A toxin that blocks protein synthesis by inactivating elongation factor 2 is diphtheria, which kills through the heart, not through lobar pneumonia.",
+      "if_right": "an unvaccinated child with a gray pharyngeal membrane who dies of an arrhythmia"
+     },
+     {
+      "choice": 3,
+      "why": "Angioinvasive hyphae with thrombosed vessels are Aspergillus in a neutropenic host; he is not neutropenic and no hyphae were found.",
+      "if_right": "thrombosed blood vessels containing branching septate hyphae in a neutropenic patient"
+     },
+     {
+      "choice": 4,
+      "why": "Organisms that survive in macrophages and need T-cell help (tuberculosis) form caseating granulomas; the alveoli here are full of neutrophils, and removal of an organ does not impair T cells.",
+      "if_right": "caseating granulomas with acid-fast bacilli in a patient with impaired cell-mediated immunity"
+     }
+    ],
+    "slides": {
+     "stem": [
+      6
+     ],
+     "answer": [
+      6
+     ],
+     "distractors": [
+      4,
+      7,
+      19,
+      19
+     ]
+    },
+    "deck": "Pathology of ID Questions 2025"
+   },
+   "figures": []
   }
  ]
 }

@@ -505,6 +505,75 @@
     "deck": "Parasitology Flip Cases without answers 12.2025"
    },
    "figures": []
+  },
+  {
+   "id": "miid2-w07-app-7b-q08",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Session 7B slides",
+   "stem": "A 25-year-old man returned 1 week ago from 4 weeks of hiking in Tanzania. On the last 2 days of the trip he ate raw salads from a farm that fertilized its fields with human waste. He wore hiking boots the whole time, though a fellow hiker who often walked barefoot was later diagnosed with Strongyloides. Three days ago he developed wheezing and a dry cough; he has never had asthma. Chest x-ray shows patchy infiltrates that change location over 2 days. Leukocytes are 11,500/microL (4,500 to 11,000) with 20% eosinophils (1 to 4). Three stool ova and parasite examinations collected on separate days are all negative.\n\nWhich of the following best explains the negative stool examinations at this point?",
+   "choices": [
+    "Its eggs are laid on the perianal skin at night instead of in the stool",
+    "Larvae are still in the lungs and have not yet matured into adults in the gut",
+    "Eggs are trapped in tissue granulomas and cannot reach the intestinal lumen",
+    "Three samples are too few, because larvae are shed in stool only intermittently",
+    "Humans are incidental hosts, so this worm never lays eggs in the human gut"
+   ],
+   "answer": 1,
+   "evidence": [],
+   "explain": {
+    "html": "<p>Several intestinal nematodes <b>pass through the lungs before they reach the gut</b>. <i>Ascaris</i> enters as swallowed eggs and travels <b>gut, liver, lungs, gut</b>; hookworm and <i>Strongyloides</i> enter through the skin and travel <b>skin, lungs, gut</b>. When larvae reach the lungs, a few days to a week after infection, they cause <b>Loeffler syndrome</b>: wheezing, dry cough, transient infiltrates and eosinophilia. Only after the larvae are coughed up, swallowed and mature into <b>adults in the intestine</b> do eggs or larvae appear in stool.</p><p>This traveler swallowed <i>Ascaris</i> eggs on salad grown in human waste; he wore boots, so his partner's Strongyloides, a skin-penetrating worm, is not his infection. His \"asthma\" about a week after exposure means the larvae are still in the lung phase, so three negative stool examinations reflect <b>timing</b>, not a poor test or a dead-end host. Repeating stool studies later, once adults are established, is what would show the organism.</p>",
+    "table": "<table><tr><th>Worm</th><th>Entry</th><th>Route</th><th>Stool O&amp;P</th></tr><tr><td><i>Ascaris</i></td><td>Swallowed eggs</td><td>Gut, liver, lungs, gut</td><td>Eggs once adults are in the gut</td></tr><tr><td>Hookworm, <i>Strongyloides</i></td><td>Larvae through skin</td><td>Skin, lungs, gut</td><td>Eggs (hookworm) or larvae (Strongyloides, poor sensitivity) once in the gut</td></tr><tr><td><i>Angiostrongylus</i>, Toxocara</td><td>Swallowed larvae or eggs</td><td>Larvae stuck in tissue (incidental host)</td><td>Never helpful</td></tr><tr><td>Pinworm</td><td>Swallowed eggs</td><td>Gut only</td><td>Unhelpful; eggs on perianal skin</td></tr></table>",
+    "why": [
+     "Perianal egg laying is pinworm, which has no lung phase and does not cause wheezing with shifting infiltrates.",
+     "",
+     "Eggs trapped in tissue granulomas describe schistosomiasis, which presents with hematuria, not a migrating eosinophilic pneumonitis this early.",
+     "Poor stool sensitivity applies to Strongyloides, which enters through bare skin; he wore boots, his exposure was eggs on salad, and the problem is timing, not sampling.",
+     "Incidental hosts (Toxocara, Angiostrongylus) never grow adults; this worm passes through the lungs on its way to the gut, where it will become an adult."
+    ],
+    "takeaway": "During Loeffler syndrome (larval lung migration of Ascaris, hookworm or Strongyloides), stool O&P is negative because adults have not yet reached the intestine to produce eggs or larvae.",
+    "topic": "Loeffler syndrome comes before eggs in the stool",
+    "subject": "Microbiology",
+    "objective": "Use the life cycle of an intestinal nematode to explain its lung phase and when stool testing becomes positive.",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Perianal egg laying is pinworm, which has no lung phase and does not cause wheezing with shifting infiltrates.",
+      "if_right": "a child with nocturnal perianal itching and no respiratory symptoms"
+     },
+     {
+      "choice": 2,
+      "why": "Eggs trapped in tissue granulomas describe schistosomiasis, which presents with hematuria, not a migrating eosinophilic pneumonitis this early.",
+      "if_right": "painless hematuria in someone who swam in an African freshwater lake"
+     },
+     {
+      "choice": 3,
+      "why": "Poor stool sensitivity applies to Strongyloides, which enters through bare skin; he wore boots, his exposure was eggs on salad, and the problem is timing, not sampling.",
+      "if_right": "a patient weeks to months into a chronic infection with only one stool sample sent"
+     },
+     {
+      "choice": 4,
+      "why": "Incidental hosts (Toxocara, Angiostrongylus) never grow adults; this worm passes through the lungs on its way to the gut, where it will become an adult.",
+      "if_right": "a child with fever, hepatomegaly and eosinophilia after eating soil where puppies play, or eosinophilic meningitis after eating snails"
+     }
+    ],
+    "slides": {
+     "stem": [
+      1,
+      2
+     ],
+     "answer": [
+      2
+     ],
+     "distractors": [
+      1,
+      8,
+      1,
+      7
+     ]
+    },
+    "deck": "Parasitology Flip Cases without answers 12.2025"
+   },
+   "figures": []
   }
  ]
 }

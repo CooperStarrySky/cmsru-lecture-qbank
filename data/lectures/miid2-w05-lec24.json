@@ -1326,6 +1326,147 @@
      "caption": "Lecture 24 slides (2025-26) · Page 56"
     }
    ]
+  },
+  {
+   "id": "miid2-w05-lec24-q19",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 24 slides",
+   "stem": "A 61-year-old woman with a central venous catheter for parenteral nutrition develops fever 2 weeks after colectomy. Blood cultures grow Candida albicans, reported susceptible to fluconazole. The catheter is removed and intravenous micafungin is started. By day 3 she is afebrile, hemodynamically stable, and repeat blood cultures are negative. On day 5 she reports blurred vision in the right eye. Temperature is 37.0 C (98.6 F), and leukocyte count is 9,800/microL (normal 4,500 to 11,000). Ophthalmoscopy shows fluffy white exudates in the retina. The team notes that the bloodstream has cleared on the current drug.\n\nWhich change in antifungal management is most appropriate?",
+   "choices": [
+    "Switch to fluconazole, since echinocandins reach the eye poorly",
+    "Switch to a different echinocandin with better tissue entry",
+    "Continue micafungin for 14 days, since the blood has cleared",
+    "Increase the micafungin dose to overcome a low tissue drug level",
+    "Add terbinafine to micafungin for a second cell wall target"
+   ],
+   "answer": 0,
+   "evidence": [],
+   "explain": {
+    "html": "<p>Systemic candidiasis includes candidemia, focal organ involvement and disseminated disease, and the eye is one of the organs the yeast can seed through the bloodstream. In disseminated disease the retina may show <b>white exudates</b>, so a patient with candidemia who develops visual symptoms has a focus that blood cultures cannot report on. An <b>echinocandin</b> (anidulafungin, caspofungin, micafungin) is initial therapy for most candidemia, but it is not used for meningitis, urinary tract infection or <b>endophthalmitis</b> because of <b>poor organ penetration</b>. Step-down from an echinocandin to an azole is appropriate when the isolate is known to be susceptible and the patient is clinically stable.</p><p>Here the catheter is out and the blood cleared on micafungin, which is exactly why the trap works: the drug was controlling the bloodstream while the eye sat outside its reach. Because this <i>C. albicans</i> is <b>fluconazole susceptible</b> and she is stable, switching to fluconazole treats both the blood and the eye. Clinically, a negative blood culture is a reason to look for the site the drug cannot reach, not a reason to stop looking.</p>",
+    "table": null,
+    "why": [
+     "",
+     "Every echinocandin shares the poor organ penetration, so swapping within the class does not help.",
+     "Clearing the blood does not treat the eye, which micafungin reaches poorly.",
+     "The limit is penetration of the drug class into the eye, which a higher dose does not solve.",
+     "Terbinafine blocks squalene epoxidase in the sterol pathway and is not a second cell wall drug or an eye treatment."
+    ],
+    "takeaway": "Echinocandins are first-line for candidemia but penetrate the eye, meninges and urinary tract poorly, so Candida endophthalmitis is treated with an agent that reaches the eye, such as fluconazole for a susceptible isolate.",
+    "topic": "Echinocandin penetration and Candida endophthalmitis",
+    "subject": "Microbiology",
+    "objective": "Introduce examples of common human pathogens with clinical correlates",
+    "rows": [
+     {
+      "choice": 1,
+      "why": "Every echinocandin shares the poor organ penetration, so swapping within the class does not help.",
+      "if_right": "a reason to change echinocandin that is not about site penetration, such as intolerance"
+     },
+     {
+      "choice": 2,
+      "why": "Clearing the blood does not treat the eye, which micafungin reaches poorly.",
+      "if_right": "candidemia that cleared with no eye, brain or urinary involvement"
+     },
+     {
+      "choice": 3,
+      "why": "The limit is penetration of the drug class into the eye, which a higher dose does not solve.",
+      "if_right": "persistent candidemia from a drug level shown to be too low"
+     },
+     {
+      "choice": 4,
+      "why": "Terbinafine blocks squalene epoxidase in the sterol pathway and is not a second cell wall drug or an eye treatment.",
+      "if_right": "a dermatophyte infection of the nails or skin"
+     }
+    ],
+    "slides": {
+     "stem": [
+      24,
+      25,
+      69
+     ],
+     "answer": [
+      25
+     ],
+     "distractors": [
+      25,
+      25,
+      25,
+      24
+     ]
+    },
+    "deck": "24 Introduction to Fungal Pathogens"
+   },
+   "figures": []
+  },
+  {
+   "id": "miid2-w05-lec24-q20",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 24 slides",
+   "stem": "A 52-year-old man who received a kidney transplant 2 years ago takes tacrolimus and prednisone. He is HIV negative. He has 3 weeks of dry cough and low-grade fever, and for the past week a mild headache that he blames on poor sleep. He is alert and oriented, with no neck stiffness. Chest CT shows a 2-cm nodule in the right lower lobe. Needle biopsy shows round budding yeasts surrounded by a thick capsule that stains red with mucicarmine. A serum cryptococcal antigen test is negative. The team notes that pulmonary disease from this organism can resolve without treatment.\n\nWhich is the most appropriate next step?",
+   "choices": [
+    "Treat the lung alone, since the serum antigen is negative",
+    "Lumbar puncture with CSF antigen testing and culture",
+    "Repeat the serum antigen test in 2 weeks before acting",
+    "Surgical resection of the nodule as definitive therapy",
+    "Observe him, since lung infection with it often resolves"
+   ],
+   "answer": 1,
+   "evidence": [],
+   "explain": {
+    "html": "<p><i>Cryptococcus</i> is inhaled and causes an initial lung infection. People with intact <b>cell-mediated immunity</b> contain it, and an incidental lung focus in an asymptomatic immunocompetent person may resolve without treatment, but immunosuppressed hosts (AIDS, organ transplantation, glucocorticoids) can disseminate, and the <b>CNS is the most common site</b>, as a subacute meningoencephalitis with headache. For that reason, <b>when cryptococcosis is found outside the CNS, a lumbar puncture is done</b>. The cryptococcal antigen test is highly sensitive and specific in CSF, but the <b>serum assay is less sensitive in patients without HIV</b>, so a negative serum result cannot exclude meningitis. The capsule is the virulence factor, and it stains red with <b>mucicarmine</b>.</p><p>This man has the organism in his lung, takes tacrolimus and prednisone, and has a week of headache he explains away. His negative serum antigen is the red herring: he does not have HIV, so the test cannot rule out CNS disease. The CSF is where the answer is, and missing early meningitis in a transplant recipient is the error that costs the most.</p>",
+    "table": null,
+    "why": [
+     "A negative serum antigen does not exclude meningitis in someone without HIV, so the CNS has not been checked.",
+     "",
+     "Repeating an insensitive serum test delays the CSF examination that actually answers the question.",
+     "Resection is definitive for a symptomatic aspergilloma in a cavity, not for cryptococcosis in an immunosuppressed host.",
+     "Spontaneous resolution is for an asymptomatic immunocompetent host, and this man is immunosuppressed with a headache."
+    ],
+    "takeaway": "Cryptococcosis outside the CNS in an immunosuppressed host requires a lumbar puncture, because the CNS is the most common site of dissemination and a negative serum antigen does not exclude meningitis in patients without HIV.",
+    "topic": "Cryptococcosis outside the CNS warrants a lumbar puncture",
+    "subject": "Microbiology",
+    "objective": "Introduce examples of common human pathogens with clinical correlates",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "A negative serum antigen does not exclude meningitis in someone without HIV, so the CNS has not been checked.",
+      "if_right": "a lumbar puncture that has already shown normal CSF with a negative CSF antigen"
+     },
+     {
+      "choice": 2,
+      "why": "Repeating an insensitive serum test delays the CSF examination that actually answers the question.",
+      "if_right": "no organism on biopsy and only a borderline antigen result to clarify"
+     },
+     {
+      "choice": 3,
+      "why": "Resection is definitive for a symptomatic aspergilloma in a cavity, not for cryptococcosis in an immunosuppressed host.",
+      "if_right": "a fungus ball inside a pre-existing cavity causing hemoptysis"
+     },
+     {
+      "choice": 4,
+      "why": "Spontaneous resolution is for an asymptomatic immunocompetent host, and this man is immunosuppressed with a headache.",
+      "if_right": "an incidental nodule in a healthy person with intact cell-mediated immunity and no symptoms"
+     }
+    ],
+    "slides": {
+     "stem": [
+      35,
+      37,
+      39
+     ],
+     "answer": [
+      37,
+      64
+     ],
+     "distractors": [
+      38,
+      38,
+      30,
+      37
+     ]
+    },
+    "deck": "24 Introduction to Fungal Pathogens"
+   },
+   "figures": []
   }
  ]
 }

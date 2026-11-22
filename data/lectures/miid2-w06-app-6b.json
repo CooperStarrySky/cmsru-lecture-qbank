@@ -518,6 +518,77 @@
     "deck": "06B Fever and Rash Workshop"
    },
    "figures": []
+  },
+  {
+   "id": "miid2-w06-app-6b-q08",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Session 6B slides",
+   "stem": "A 4-year-old girl is brought to urgent care after 2 days of fever to 39 C (102.2 F), pain on swallowing, abdominal pain, and vomiting. This morning her parents noticed a rough, sandpaper-like rash that began in her groin, where it is still most intense, and has spread over her trunk. She is fully immunized and was well until 2 days ago. Her temperature is 39.1 C (102.4 F) and pulse 128/min. The clinician suspects a toxin-mediated streptococcal illness and plans a rapid antigen test, but considers which exam findings would send the evaluation in a different direction.\n\nWhich additional finding, if present, would most change the evaluation and treatment she needs?",
+   "choices": [
+    "Injected conjunctivae and red, cracked lips",
+    "A bright red tongue with enlarged papillae",
+    "Petechiae scattered over the soft palate",
+    "Red lines darkest inside the elbow creases",
+    "Tender, swollen anterior cervical nodes on both sides"
+   ],
+   "answer": 0,
+   "evidence": [],
+   "explain": {
+    "html": "<p>Scarlet fever is group A streptococcal pharyngitis plus a rash caused by the <b>erythrogenic exotoxin</b>, usually in children aged 4 to 8: sore throat and fever, then a diffuse, palpable, <b>sandpaper-like eruption</b> that often starts on the abdomen or groin, is exaggerated in skin creases (Pastia lines), and comes with a strawberry tongue and <b>normal conjunctivae and lips with circumoral sparing</b>. Kawasaki disease is a medium-vessel vasculitis diagnosed after 5 days of fever with 4 of 5 features: <b>bilateral bulbar conjunctival injection without exudate</b>, red mouth with strawberry tongue and <b>red, cracked lips</b>, a polymorphous rash often exaggerated in the groin, swelling and redness of the hands and feet, and a unilateral cervical node of at least 1.5 cm. Kawasaki can resemble scarlet fever, and it is the one that threatens the coronary arteries, so it needs an echocardiogram at presentation and high-dose IVIG.</p><p>This girl's groin-predominant rash and strawberry tongue fit either illness, and her bilateral tender anterior nodes, palatal petechiae, and Pastia lines all favor streptococcal disease. The finding that would break the tie toward Kawasaki is eye and lip involvement, because scarlet fever spares both. If it were present, the plan would change from penicillin after a rapid antigen test to echocardiography and IVIG.</p>",
+    "table": "<table><tr><th>Feature</th><th>Scarlet fever</th><th>Kawasaki disease</th></tr><tr><td>Fever before diagnosis</td><td>Days, with sore throat</td><td>At least 5 days</td></tr><tr><td>Conjunctivae</td><td>Normal</td><td>Bilateral injection without exudate</td></tr><tr><td>Lips</td><td>Normal, circumoral pallor</td><td>Red, cracked</td></tr><tr><td>Tongue</td><td>Strawberry</td><td>Strawberry</td></tr><tr><td>Nodes</td><td>Tender anterior cervical, both sides</td><td>One unilateral node of at least 1.5 cm</td></tr><tr><td>Rash</td><td>Sandpaper, Pastia lines</td><td>Polymorphous, groin accentuation</td></tr><tr><td>Management</td><td>Rapid antigen test or culture, penicillin</td><td>Echocardiogram, IVIG with aspirin</td></tr></table>",
+    "why": [
+     "",
+     "Strawberry tongue appears in both scarlet fever and Kawasaki disease, so it cannot point to one.",
+     "Palatal petechiae accompany streptococcal pharyngitis and push toward scarlet fever, not Kawasaki.",
+     "Rash exaggerated in skin creases (Pastia lines) is a scarlet fever sign.",
+     "Bilateral tender anterior nodes fit streptococcal pharyngitis; the Kawasaki criterion is one unilateral node of at least 1.5 cm."
+    ],
+    "takeaway": "Scarlet fever spares the conjunctivae and lips (circumoral pallor); bilateral nonexudative conjunctivitis with red, cracked lips signals Kawasaki disease, which needs an echocardiogram and IVIG.",
+    "topic": "Scarlet fever versus Kawasaki disease",
+    "subject": "Microbiology",
+    "objective": "Distinguish scarlet fever from its look-alike Kawasaki disease using mucocutaneous findings (Case #4)",
+    "rows": [
+     {
+      "choice": 1,
+      "why": "Strawberry tongue appears in both scarlet fever and Kawasaki disease, so it cannot point to one.",
+      "if_right": "a question asking for a finding shared by scarlet fever, Kawasaki disease and toxic shock"
+     },
+     {
+      "choice": 2,
+      "why": "Palatal petechiae accompany streptococcal pharyngitis and push toward scarlet fever, not Kawasaki.",
+      "if_right": "a question asking which finding supports group A streptococcal pharyngitis"
+     },
+     {
+      "choice": 3,
+      "why": "Rash exaggerated in skin creases (Pastia lines) is a scarlet fever sign.",
+      "if_right": "a question asking which exam sign is characteristic of scarlet fever"
+     },
+     {
+      "choice": 4,
+      "why": "Bilateral tender anterior nodes fit streptococcal pharyngitis; the Kawasaki criterion is one unilateral node of at least 1.5 cm.",
+      "if_right": "a single, nontender, unilateral cervical node larger than 1.5 cm after 5 days of fever"
+     }
+    ],
+    "slides": {
+     "stem": [
+      14,
+      15
+     ],
+     "answer": [
+      14,
+      6,
+      7
+     ],
+     "distractors": [
+      15,
+      14,
+      14,
+      14
+     ]
+    },
+    "deck": "06B Fever and Rash Workshop"
+   },
+   "figures": []
   }
  ]
 }

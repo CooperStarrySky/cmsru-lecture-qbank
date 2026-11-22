@@ -1210,6 +1210,177 @@
      "caption": "Lecture 37 slides (2025-26) · Page 64"
     }
    ]
+  },
+  {
+   "id": "miid2-w07-lec37-q17",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 37 slides",
+   "stem": "A 52-year-old woman in Massachusetts comes to clinic in June with 3 days of fever and myalgias and a 9-cm painless, nonpruritic red patch with central clearing on her thigh. She gardens and walks in the woods near her home. She is told the rash alone makes the diagnosis and is started on oral amoxicillin. Ten days later the patch has faded, but she still has fevers to 39.0 C (102.2 F), headache, and malaise. Her urine is a normal color.\n\n[[labs 0]]\n\nWhich change to her initial treatment would most likely have prevented this persistent illness?",
+   "choices": [
+    "Adding atovaquone and azithromycin to amoxicillin",
+    "Cefuroxime in place of amoxicillin",
+    "Doxycycline in place of amoxicillin",
+    "A Western blot before starting any antibiotic",
+    "Intravenous ceftriaxone in place of amoxicillin"
+   ],
+   "answer": 2,
+   "evidence": [],
+   "explain": {
+    "html": "<p>Several vector-borne infections share one tick: <b><i>Ixodes scapularis</i></b> transmits <i>Borrelia burgdorferi</i> (Lyme disease), <i>Anaplasma phagocytophilum</i> (human granulocytic anaplasmosis), and <i>Babesia microti</i> (babesiosis). Early localized Lyme disease is diagnosed clinically when <b>erythema migrans</b> is present and can be treated with doxycycline, amoxicillin, or cefuroxime. Anaplasmosis is an obligate intracellular infection of granulocytes that causes fever, myalgias and headache with <b>leukopenia, anemia, thrombocytopenia, and raised liver enzymes</b>, and its treatment is doxycycline. Babesiosis also causes anemia, thrombocytopenia and liver enzyme rise, but the smear shows rings and tetrads inside red cells.</p><p>This woman was correctly diagnosed with Lyme disease from the rash and treated with amoxicillin, which cleared the patch but not her fever. Her new leukopenia, <b>three serial smears with no intraerythrocytic organisms</b>, and a normal bilirubin (no hemolysis) point to anaplasmosis, not babesiosis. <b>Doxycycline also treats anaplasmosis and ehrlichiosis</b>, so choosing it for the early Lyme disease would have covered the coinfection from the same bite.</p>",
+    "table": "<table><tr><th>Ixodes-borne infection</th><th>Key labs or smear</th><th>Treatment</th></tr><tr><td>Lyme disease (early)</td><td>Clinical diagnosis with erythema migrans</td><td>Doxycycline, amoxicillin, or cefuroxime</td></tr><tr><td>Anaplasmosis</td><td>Leukopenia, thrombocytopenia, anemia, high liver enzymes; morulae in granulocytes</td><td>Doxycycline</td></tr><tr><td>Babesiosis</td><td>Anemia, thrombocytopenia, high liver enzymes; rings and tetrads inside red cells</td><td>Atovaquone and azithromycin</td></tr></table>",
+    "why": [
+     "Three serial smears show no intraerythrocytic rings or tetrads and bilirubin is normal, so there is no evidence of the red-cell infection that defines babesiosis.",
+     "Cefuroxime is an acceptable early Lyme drug, but it does not treat anaplasmosis, so the same gap would remain.",
+     "",
+     "Erythema migrans makes the diagnosis without labs, and confirming Lyme would not have added coverage for anaplasmosis.",
+     "Intravenous ceftriaxone is reserved for high-degree heart block or persistent arthritis and does not treat anaplasmosis."
+    ],
+    "takeaway": "Ixodes scapularis transmits Lyme disease, anaplasmosis and babesiosis; doxycycline treats early Lyme disease and anaplasmosis together, while babesiosis needs atovaquone plus azithromycin.",
+    "topic": "Ixodes coinfection: why doxycycline is preferred in early Lyme",
+    "subject": "Microbiology",
+    "objective": "Clinical manifestations, diagnosis and treatment",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Three serial smears show no intraerythrocytic rings or tetrads and bilirubin is normal, so there is no evidence of the red-cell infection that defines babesiosis.",
+      "if_right": "a smear showing ring forms and Maltese-cross tetrads inside red cells, especially after splenectomy"
+     },
+     {
+      "choice": 1,
+      "why": "Cefuroxime is an acceptable early Lyme drug, but it does not treat anaplasmosis, so the same gap would remain.",
+      "if_right": "early Lyme disease alone in a patient who cannot take doxycycline or amoxicillin"
+     },
+     {
+      "choice": 3,
+      "why": "Erythema migrans makes the diagnosis without labs, and confirming Lyme would not have added coverage for anaplasmosis.",
+      "if_right": "a patient without erythema migrans whose screening Lyme antibody test is positive"
+     },
+     {
+      "choice": 4,
+      "why": "Intravenous ceftriaxone is reserved for high-degree heart block or persistent arthritis and does not treat anaplasmosis.",
+      "if_right": "erythema migrans followed by third-degree AV block or persistent large-joint arthritis"
+     }
+    ],
+    "slides": {
+     "stem": [
+      57,
+      52,
+      5
+     ],
+     "answer": [
+      60,
+      52
+     ],
+     "distractors": [
+      61,
+      60,
+      59,
+      60
+     ]
+    },
+    "deck": "37 Vector Borne Illnesses"
+   },
+   "figures": [],
+   "labs": [
+    [
+     [
+      "Leukocytes",
+      "2,700/mm3 (4,500 to 11,000)"
+     ],
+     [
+      "Hemoglobin",
+      "11.3 g/dL (12 to 16)"
+     ],
+     [
+      "Platelets",
+      "84,000/mm3 (150,000 to 400,000)"
+     ],
+     [
+      "AST / ALT",
+      "121 / 136 U/L (10 to 40 / 7 to 56)"
+     ],
+     [
+      "Total bilirubin",
+      "0.6 mg/dL (0.1 to 1.2)"
+     ],
+     [
+      "Peripheral smears, 3 sets 12 hours apart",
+      "No intraerythrocytic organisms"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "miid2-w07-lec37-q18",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 37 slides",
+   "stem": "A 34-year-old woman develops daily fevers, chills, and myalgias 10 days after returning from 3 weeks of volunteer work in rural Ghana. Eight months ago, after a trip to the same region, she had a similar fever that resolved with a treatment she cannot name. Temperature is 39.3 C (102.7 F), blood pressure 112/70 mm Hg, and glucose 92 mg/dL (70 to 100); she is alert and eating. A thin smear shows 2% parasitemia, red cells of all sizes containing small rings, several cells with two or more rings, some rings at the cell edge, and a few crescent-shaped gametocytes. Anopheles mosquitoes are active in her home community, and the health department asks about onward spread.\n\nWhich property of the most appropriate treatment most directly lowers the chance that a mosquito biting her after treatment becomes infected?",
+   "choices": [
+    "It prevents infected red cells from adhering to capillary endothelium",
+    "It kills sporozoites before they reach her liver",
+    "It eradicates dormant hypnozoites in her hepatocytes",
+    "It reduces gametocyte carriage in her blood",
+    "It blocks the Duffy antigen that merozoites use to enter red cells"
+   ],
+   "answer": 3,
+   "evidence": [],
+   "explain": {
+    "html": "<p>The malaria life cycle has distinct stages in two hosts. The <b>female Anopheles mosquito injects sporozoites</b>, which go to the liver and become schizonts; in <i>P. vivax</i> and <i>P. ovale</i> some stay dormant as <b>hypnozoites</b>. Merozoites released from the liver infect red cells and cycle through ring, mature trophozoite and schizont stages, and some differentiate into <b>gametocytes, the stage ingested by the mosquito</b> when it feeds. Artemisinin-based compounds are the most active antimalarials: they act on the blood stage, clear early ring forms, and <b>reduce gametocyte carriage</b>.</p><p>Her smear shows the falciparum pattern: several rings in one cell, rings in red cells of every age, appliqué forms, and <b>crescent gametocytes</b>. Ghana is chloroquine resistant and she has uncomplicated disease, so oral artemether-lumefantrine is indicated. Because a mosquito can only be infected by taking up gametocytes, the drug property that limits onward spread is the drop in gametocytes. Her earlier fever was a separate infection, since falciparum has no liver stage that relapses.</p>",
+    "table": "<table><tr><th>Life-cycle stage</th><th>Where it is</th><th>Role</th></tr><tr><td>Sporozoite</td><td>Injected by the mosquito, travels to the liver</td><td>Starts human infection</td></tr><tr><td>Hypnozoite</td><td>Dormant in hepatocytes (vivax, ovale only)</td><td>Relapse months later; needs primaquine or tafenoquine</td></tr><tr><td>Ring and mature trophozoite, schizont</td><td>Red cells</td><td>Fever, hemolysis; target of chloroquine and artemisinins</td></tr><tr><td>Gametocyte</td><td>Red cells</td><td>Ingested by the mosquito; reduced by artemisinins</td></tr></table>",
+    "why": [
+     "Cytoadherence of infected cells to endothelium explains cerebral malaria, not infection of mosquitoes.",
+     "Sporozoites are injected by the mosquito into a person, so killing them protects the person, not the next mosquito.",
+     "Falciparum has no hypnozoite stage, so there is nothing dormant in the liver to eradicate.",
+     "",
+     "The Duffy blood group antigen is the red-cell receptor for P. vivax, not a drug action and not a transmission step."
+    ],
+    "takeaway": "Anopheles mosquitoes are infected by ingesting gametocytes; artemisinin-based therapy acts on the blood stage and reduces gametocyte carriage, and falciparum has no hypnozoites.",
+    "topic": "Malaria transmission: gametocytes and artemisinin action",
+    "subject": "Microbiology",
+    "objective": "Clinical manifestations, diagnosis and treatment",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Cytoadherence of infected cells to endothelium explains cerebral malaria, not infection of mosquitoes.",
+      "if_right": "a question about the mechanism of cerebral malaria and microvascular obstruction in falciparum"
+     },
+     {
+      "choice": 1,
+      "why": "Sporozoites are injected by the mosquito into a person, so killing them protects the person, not the next mosquito.",
+      "if_right": "a question about prophylaxis that protects a traveler from acquiring infection after a bite"
+     },
+     {
+      "choice": 2,
+      "why": "Falciparum has no hypnozoite stage, so there is nothing dormant in the liver to eradicate.",
+      "if_right": "a P. vivax or P. ovale infection with Schuffner dots, treated with chloroquine then primaquine"
+     },
+     {
+      "choice": 4,
+      "why": "The Duffy blood group antigen is the red-cell receptor for P. vivax, not a drug action and not a transmission step.",
+      "if_right": "a question about which red cells P. vivax can invade"
+     }
+    ],
+    "slides": {
+     "stem": [
+      20,
+      21,
+      6
+     ],
+     "answer": [
+      29,
+      13,
+      14
+     ],
+     "distractors": [
+      20,
+      11,
+      12,
+      24
+     ]
+    },
+    "deck": "37 Vector Borne Illnesses"
+   },
+   "figures": []
   }
  ]
 }

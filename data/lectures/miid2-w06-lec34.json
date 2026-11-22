@@ -1209,6 +1209,147 @@
     "deck": "34 Antifungals"
    },
    "figures": []
+  },
+  {
+   "id": "miid2-w06-lec34-q17",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 34 slides",
+   "stem": "A 34-year-old woman was started on once-daily oseltamivir prophylaxis 4 days ago after her 8-year-old son developed influenza A. Testing of her son's isolate has since shown a mutation in the viral surface enzyme that cleaves sialic acid, with resistance to every drug that targets that enzyme in the panel tested. This morning she developed fever to 38.9 C (102 F), myalgia, and cough; a rapid test is positive for influenza A. She is not pregnant, has no lung disease, and is otherwise healthy, with normal oxygen saturation. She asks for treatment that will work against her son's strain, which she most likely caught.\n\nWhich drug is most likely to remain active against her infection?",
+   "choices": [
+    "Oseltamivir twice daily, moving from the prophylaxis to the treatment dose",
+    "Oral baloxavir, since it blocks the viral polymerase endonuclease",
+    "Intravenous peramivir, since it reaches higher blood levels",
+    "This season's influenza vaccine, given today to boost antibody",
+    "Intravenous foscarnet, since it needs no viral enzyme for activation"
+   ],
+   "answer": 1,
+   "evidence": [],
+   "explain": {
+    "html": "<p>Influenza uses hemagglutinin to attach and <b>neuraminidase to release new virus</b> by cleaving sialic acid from glycoproteins. The <b>neuraminidase inhibitors</b> oseltamivir (oral), zanamivir (inhaled), and peramivir (IV) all prevent release of virus from infected cells, and resistance comes from <b>mutations in neuraminidase</b>, more often in influenza A than B. Because they share one target, a neuraminidase mutation can defeat these drugs regardless of route or dose; how much each is affected depends on the mutation, which is why susceptibility testing across the class matters. <b>Baloxavir marboxil</b> is a prodrug whose active form inhibits the <b>endonuclease activity of the polymerase acidic protein</b> needed for transcription, so it blocks viral replication at a different step; it is given as one oral dose for uncomplicated influenza or post-exposure prophylaxis in people over 12, and it should not be taken with dairy products or cations.</p><p>This woman most likely caught her son's neuraminidase-mutant strain and became ill despite prophylaxis. Her son's isolate was resistant to every neuraminidase inhibitor tested, so moving to treatment-dose oseltamivir or switching to IV peramivir keeps the same failed target, while baloxavir works upstream at the polymerase and should remain active.</p>",
+    "table": "<table><tr><th>Drug</th><th>Route</th><th>Target</th><th>Affected by neuraminidase mutation?</th></tr><tr><td>Oseltamivir</td><td>Oral</td><td>Neuraminidase</td><td>Yes</td></tr><tr><td>Zanamivir</td><td>Inhaled</td><td>Neuraminidase</td><td>Depends on the mutation</td></tr><tr><td>Peramivir</td><td>IV, one dose</td><td>Neuraminidase</td><td>Yes</td></tr><tr><td>Baloxavir</td><td>Oral, one dose</td><td>Polymerase acidic endonuclease</td><td>No</td></tr></table>",
+    "why": [
+     "The mutation changes the drug's target, so a higher dose of the same neuraminidase inhibitor still fails.",
+     "",
+     "Peramivir is a neuraminidase inhibitor too; IV delivery does not get around a target mutation.",
+     "A vaccine prevents infection; it does not treat influenza that has already begun.",
+     "Foscarnet inhibits herpesvirus DNA polymerase and is used for HSV and CMV, not influenza."
+    ],
+    "takeaway": "Neuraminidase mutations cause resistance to neuraminidase inhibitors (oseltamivir, peramivir, and in some strains zanamivir) whatever the dose or route; baloxavir inhibits the polymerase acidic endonuclease and remains active.",
+    "topic": "Neuraminidase-resistant influenza and baloxavir",
+    "subject": "Pharmacology",
+    "objective": "Explain pharmacology of antiviral and antifungal agents",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "The mutation changes the drug's target, so a higher dose of the same neuraminidase inhibitor still fails.",
+      "if_right": "a fully susceptible strain in someone who became ill while taking prophylaxis-dose oseltamivir"
+     },
+     {
+      "choice": 2,
+      "why": "Peramivir is a neuraminidase inhibitor too; IV delivery does not get around a target mutation.",
+      "if_right": "a susceptible strain in a patient who cannot take oral or inhaled drugs"
+     },
+     {
+      "choice": 3,
+      "why": "A vaccine prevents infection; it does not treat influenza that has already begun.",
+      "if_right": "an unvaccinated household contact who is not yet ill"
+     },
+     {
+      "choice": 4,
+      "why": "Foscarnet inhibits herpesvirus DNA polymerase and is used for HSV and CMV, not influenza.",
+      "if_right": "CMV with a UL97 mutation or HSV lacking thymidine kinase"
+     }
+    ],
+    "slides": {
+     "stem": [
+      7,
+      9
+     ],
+     "answer": [
+      10,
+      11,
+      46
+     ],
+     "distractors": [
+      9,
+      9,
+      7,
+      26
+     ]
+    },
+    "deck": "34 Antifungals"
+   },
+   "figures": []
+  },
+  {
+   "id": "miid2-w06-lec34-q18",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 34 slides",
+   "stem": "A 47-year-old man received a kidney transplant 10 weeks ago from a donor seropositive for cytomegalovirus (CMV); he was seronegative. Since transplant he has taken oral valacyclovir daily to prevent herpes simplex reactivation and has had no oral or genital lesions. He now has 6 days of fever, fatigue, and diarrhea. White cell count is 2,800/mm3 (4,500 to 11,000), and blood CMV PCR shows a high viral load. He took every dose of valacyclovir, which reached good serum levels. A student asks why the antiviral he was already taking, a drug in the same nucleoside family as the CMV drugs, did not stop this virus.\n\nWhich of the following best explains why his prophylaxis did not prevent CMV disease?",
+   "choices": [
+    "Valacyclovir is poorly absorbed, so acyclovir levels in blood stayed too low",
+    "CMV is a latent RNA virus, so a DNA polymerase inhibitor cannot act on it",
+    "Acyclovir needs a viral thymidine kinase for its first phosphate, which CMV lacks",
+    "Acyclovir is cleared by the transplanted kidney before it can reach infected cells",
+    "His CMV must carry a UL97 mutation, selected by months of valacyclovir"
+   ],
+   "answer": 2,
+   "evidence": [],
+   "explain": {
+    "html": "<p>Nucleoside antivirals are prodrugs that only work after phosphorylation, and the <b>first phosphate is added by a viral enzyme</b>, which decides the drug's spectrum. Acyclovir, a guanosine analogue, is converted to acyclovir triphosphate first by <b>viral thymidine kinase</b> of HSV and VZV and then by human enzymes, and the triphosphate competes for viral DNA polymerase to terminate replication; valacyclovir is its prodrug with 55% bioavailability, and famciclovir works the same way through penciclovir. Ganciclovir instead is triphosphorylated first by the <b>CMV UL97 kinase</b> and then by cellular kinases, which is why <b>ganciclovir and valganciclovir are the drugs of choice for CMV treatment and prophylaxis</b>, while acyclovir and famciclovir cover HSV and VZV. CMV resistance to ganciclovir comes from UL97 or UL54 mutations, and foscarnet and letermovir do not need UL97 at all.</p><p>This seronegative recipient of a CMV-positive kidney was protected against HSV by valacyclovir, but that drug is not activated in CMV-infected cells, so it offered no CMV prophylaxis. His fever, leukopenia, diarrhea, and high viral load call for ganciclovir or valganciclovir, with monitoring of neutrophil and platelet counts.</p>",
+    "table": "<table><tr><th>Drug</th><th>First activation step</th><th>Spectrum</th></tr><tr><td>Acyclovir, valacyclovir</td><td>HSV/VZV thymidine kinase</td><td>HSV, VZV</td></tr><tr><td>Famciclovir (to penciclovir)</td><td>HSV/VZV thymidine kinase</td><td>HSV, VZV</td></tr><tr><td>Ganciclovir, valganciclovir</td><td>CMV UL97 kinase</td><td>CMV (drugs of choice)</td></tr><tr><td>Cidofovir</td><td>Nucleotide analog, converted to diphosphate</td><td>CMV, HSV</td></tr><tr><td>Foscarnet</td><td>None needed (pyrophosphate site)</td><td>HSV, CMV, CMV with UL97 mutation</td></tr><tr><td>Letermovir</td><td>None (terminase complex)</td><td>CMV prophylaxis</td></tr></table>",
+    "why": [
+     "Valacyclovir was designed for higher serum levels (55% bioavailability versus 15 to 30% for acyclovir), and his levels were good.",
+     "CMV is HHV-5, a double-stranded DNA herpesvirus, so a DNA polymerase inhibitor could act if it were activated.",
+     "",
+     "Renal clearance changes dosing and nephrotoxicity risk, but delivery was adequate; the missing activation step is the reason.",
+     "UL97 mutations cause ganciclovir resistance; acyclovir was never activated in CMV-infected cells, so no resistance had to arise."
+    ],
+    "takeaway": "Acyclovir and valacyclovir require HSV/VZV thymidine kinase for activation and do not cover CMV; ganciclovir and valganciclovir, activated by the CMV UL97 kinase, are the CMV drugs.",
+    "topic": "Why acyclovir prophylaxis does not prevent CMV",
+    "subject": "Pharmacology",
+    "objective": "Explain pharmacology of antiviral and antifungal agents",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Valacyclovir was designed for higher serum levels (55% bioavailability versus 15 to 30% for acyclovir), and his levels were good.",
+      "if_right": "a patient taking oral acyclovir whose levels were too low because of poor bioavailability"
+     },
+     {
+      "choice": 1,
+      "why": "CMV is HHV-5, a double-stranded DNA herpesvirus, so a DNA polymerase inhibitor could act if it were activated.",
+      "if_right": "an RNA virus such as influenza, which acyclovir does not cover"
+     },
+     {
+      "choice": 3,
+      "why": "Renal clearance changes dosing and nephrotoxicity risk, but delivery was adequate; the missing activation step is the reason.",
+      "if_right": "acyclovir neurotoxicity or nephrotoxicity in a patient whose dose was not adjusted for kidney function"
+     },
+     {
+      "choice": 4,
+      "why": "UL97 mutations cause ganciclovir resistance; acyclovir was never activated in CMV-infected cells, so no resistance had to arise.",
+      "if_right": "CMV viremia rising despite weeks of correctly dosed ganciclovir"
+     }
+    ],
+    "slides": {
+     "stem": [
+      21
+     ],
+     "answer": [
+      15,
+      21,
+      46
+     ],
+     "distractors": [
+      15,
+      12,
+      17,
+      21
+     ]
+    },
+    "deck": "34 Antifungals"
+   },
+   "figures": []
   }
  ]
 }

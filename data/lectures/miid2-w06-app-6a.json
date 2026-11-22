@@ -1008,6 +1008,148 @@
      "caption": "Session 6A slides (2025-26) · Page 43"
     }
    ]
+  },
+  {
+   "id": "miid2-w06-app-6a-q15",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Session 6A slides",
+   "stem": "A 38-year-old woman who moved to the United States from Southeast Asia 2 years ago has 6 weeks of cough, night sweats, and weight loss. Chest radiograph shows a right upper lobe infiltrate without a cavity. Sputum smear shows acid-fast bacilli, and a nucleic acid amplification test (Xpert MTB/RIF) reports M. tuberculosis detected, rifampin resistance not detected. She starts rifampin, isoniazid, pyrazinamide, and ethambutol under directly observed therapy. At week 7 she has gained weight, and her sputum smear is negative. Phenotypic susceptibility testing on her culture now returns: resistant to isoniazid; susceptible to rifampin, pyrazinamide, and ethambutol. A resident is puzzled because the molecular test reported no resistance.\n\nWhich statement best explains both the missed resistance and her good response?",
+   "choices": [
+    "Pyrazinamide killed the replicating bacilli, so isoniazid was never needed in the regimen",
+    "The phenotypic isoniazid result is a false positive, since the molecular test is more accurate",
+    "Rifampin alone was enough, since spontaneous rifampin resistance does not occur in TB",
+    "The molecular test looks only for rifampin mutations; her other three drugs stayed active",
+    "Isoniazid resistance arose during therapy, after 7 weeks of exposure to the drug"
+   ],
+   "answer": 3,
+   "evidence": [],
+   "explain": {
+    "html": "<p>Molecular tests for tuberculosis detect specific resistance mutations, so they are only as complete as the loci they examine. <b>Xpert MTB/RIF detects MTB and most rifampin resistance mutations</b> in rpoB; isoniazid resistance arises mainly in <b>katG and inhA</b>, which this test does not read, and a negative molecular result never completely excludes resistance. Phenotypic susceptibility testing in public health and reference labs takes up to 4 more weeks and remains the reference. This is why the standard initial regimen is four drugs: isoniazid and rifampin are the best drugs, pyrazinamide shortens the course, and <b>ethambutol is the hedge if isoniazid resistance</b> is present (about 10% of foreign-born and 5% of US-born cases).</p><p>In this patient the isolate was isoniazid resistant from the start (primary resistance), but during the initial phase <b>rifampin and pyrazinamide carried the regimen</b>, the combination that drives sterilization, and ethambutol added a third active drug, so <b>rifampin was never effectively alone</b> and resistant mutants were not selected. Her weight gain and smear conversion under directly observed therapy fit this. The clinical point: wait for full phenotypic results, and do not drop ethambutol before isoniazid susceptibility is known.</p>",
+    "table": "<table><tr><th>Drug</th><th>Main resistance gene</th><th>Detected by Xpert MTB/RIF?</th></tr><tr><td>Rifampin</td><td>rpoB</td><td>Yes (most mutations)</td></tr><tr><td>Isoniazid</td><td>katG, inhA</td><td>No</td></tr><tr><td>Pyrazinamide</td><td>pnc</td><td>No</td></tr><tr><td>Ethambutol</td><td>embB</td><td>No</td></tr></table>",
+    "why": [
+     "Pyrazinamide acts on semi-dormant intracellular organisms in acid pH and shortens the course; it does not stand in for isoniazid against replicating bacilli.",
+     "Phenotypic testing is the reference, and a molecular test cannot see resistance at genes it does not examine.",
+     "Spontaneous rifampin resistance occurs in about 1 in 108 to 109 organisms, enough to be present in active disease.",
+     "",
+     "She improved on 7 weeks of observed four-drug therapy, which fits resistance present from infection rather than acquired on treatment."
+    ],
+    "takeaway": "Xpert MTB/RIF detects rifampin (rpoB) but not isoniazid (katG/inhA) resistance; with isoniazid inactive, rifampin and pyrazinamide carry the initial phase, and ethambutol ensures rifampin is not left with one partner.",
+    "topic": "Molecular resistance testing and the ethambutol hedge",
+    "subject": "Microbiology",
+    "objective": "Understand Diagnostics for Mycobacterial Disease: Antimicrobial Susceptibility and Resistance Testing",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Pyrazinamide acts on semi-dormant intracellular organisms in acid pH and shortens the course; it does not stand in for isoniazid against replicating bacilli.",
+      "if_right": "a question about which drug, added to rifampin in the first 2 months, allows a 6-month course"
+     },
+     {
+      "choice": 1,
+      "why": "Phenotypic testing is the reference, and a molecular test cannot see resistance at genes it does not examine.",
+      "if_right": "a discordant result where sequencing finds a mutation that does not confer phenotypic resistance (false positive molecular test)"
+     },
+     {
+      "choice": 2,
+      "why": "Spontaneous rifampin resistance occurs in about 1 in 108 to 109 organisms, enough to be present in active disease.",
+      "if_right": "latent infection with fewer than 107 nonreplicating organisms, where a single rifamycin is acceptable"
+     },
+     {
+      "choice": 4,
+      "why": "She improved on 7 weeks of observed four-drug therapy, which fits resistance present from infection rather than acquired on treatment.",
+      "if_right": "a patient who took isoniazid alone or irregularly without observation and then relapsed"
+     }
+    ],
+    "slides": {
+     "stem": [
+      13,
+      22
+     ],
+     "answer": [
+      13,
+      30,
+      41
+     ],
+     "distractors": [
+      32,
+      25,
+      40,
+      44
+     ]
+    },
+    "deck": "06A Mycobacterial Diagnostics and Therapeutics"
+   },
+   "figures": []
+  },
+  {
+   "id": "miid2-w06-app-6a-q16",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Session 6A slides",
+   "stem": "A 46-year-old man has 3 weeks of fever, night sweats, and right-sided pleuritic chest pain. His brother completed tuberculosis treatment last year. Chest radiograph shows a moderate right pleural effusion without parenchymal infiltrate or cavity. Three induced sputum specimens are smear negative for acid-fast bacilli, and two sputum nucleic acid amplification tests (NAAT) are negative. Thoracentesis yields a lymphocyte-predominant exudate; pleural fluid acid-fast smear is negative and pleural fluid NAAT is negative. Mycobacterial cultures of sputum and pleural fluid are pending. The team plans to record that tuberculosis has been excluded.\n\nWhich interpretation of these results is most accurate?",
+   "choices": [
+    "He must stay in airborne isolation until cultures return, since pleural TB spreads easily",
+    "Rifampin-resistant TB is likely, since resistant strains are missed by the NAAT",
+    "A nontuberculous mycobacterium is most likely, since every NAAT was negative",
+    "Tuberculosis is excluded, since NAAT has a good negative predictive value",
+    "Tuberculosis is still possible, since NAAT is less sensitive on pleural fluid"
+   ],
+   "answer": 4,
+   "evidence": [],
+   "explain": {
+    "html": "<p>Nucleic acid amplification tests detect MTB DNA quickly, and their published performance comes mostly from <b>respiratory samples</b>, where positive predictive value is very high and negative predictive value is good. Used on other clinical specimens such as <b>pleural fluid and CSF</b>, NAAT keeps high specificity but has <b>lower sensitivity and negative predictive value</b>. Even in sputum, if NAAT and smear are both negative, <b>TB is not excluded</b>; the combination only means infectivity is low. Mycobacterial culture, which needs less processing for sterile sites and is held for 6 weeks, is what finally confirms or rules out the diagnosis.</p><p>This man has a household exposure, fever, night sweats, and a lymphocyte-predominant pleural exudate, a picture that keeps TB high on the list. His negative sputum results support low infectivity, but the <b>negative pleural NAAT cannot rule out pleural TB</b>. The right move is to keep TB open and follow the pleural and sputum cultures rather than closing the workup.</p>",
+    "table": "<table><tr><th>Result pattern</th><th>Interpretation</th></tr><tr><td>Respiratory NAAT and smear both positive</td><td>Presume MTB (PPV above 95%)</td></tr><tr><td>Respiratory NAAT positive, smear negative</td><td>Presumptive MTB</td></tr><tr><td>Respiratory NAAT negative, smear positive</td><td>Presumptive NTM</td></tr><tr><td>Respiratory NAAT and smear both negative</td><td>TB not excluded, infectivity low</td></tr><tr><td>Pleural or CSF NAAT negative</td><td>TB not excluded (lower sensitivity and NPV)</td></tr></table>",
+    "why": [
+     "Negative smears and two negative GeneXpert results indicate low infectivity and meet the criterion to stop airborne isolation.",
+     "Xpert detects MTB and reports rifampin mutations separately; resistance does not hide the organism.",
+     "The NTM rule applies when the smear is positive and the NAAT is negative; here the smears are negative.",
+     "The good NPV belongs to respiratory specimens; in pleural fluid sensitivity and NPV are lower, and both-negative results never exclude TB.",
+     ""
+    ],
+    "takeaway": "NAAT is highly specific but less sensitive on pleural fluid and CSF, so a negative result there does not exclude TB; culture remains the definitive test.",
+    "topic": "NAAT performance in pleural fluid",
+    "subject": "Microbiology",
+    "objective": "Understand Diagnostics for Mycobacterial Disease: Molecular testing: Nucleic Acid Amplification Tests",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Negative smears and two negative GeneXpert results indicate low infectivity and meet the criterion to stop airborne isolation.",
+      "if_right": "a smear-positive or NAAT-positive respiratory specimen in a patient with cavitary disease"
+     },
+     {
+      "choice": 1,
+      "why": "Xpert detects MTB and reports rifampin mutations separately; resistance does not hide the organism.",
+      "if_right": "a positive NAAT that reports MTB detected with a rifampin resistance mutation"
+     },
+     {
+      "choice": 2,
+      "why": "The NTM rule applies when the smear is positive and the NAAT is negative; here the smears are negative.",
+      "if_right": "acid-fast bacilli on smear with repeatedly negative NAATs, as in an older patient with bronchiectasis"
+     },
+     {
+      "choice": 3,
+      "why": "The good NPV belongs to respiratory specimens; in pleural fluid sensitivity and NPV are lower, and both-negative results never exclude TB.",
+      "if_right": "a test with near-perfect sensitivity in the specimen sent, which NAAT on pleural fluid is not"
+     }
+    ],
+    "slides": {
+     "stem": [
+      12,
+      14
+     ],
+     "answer": [
+      13,
+      14,
+      15
+     ],
+     "distractors": [
+      14,
+      13,
+      14,
+      13
+     ]
+    },
+    "deck": "06A Mycobacterial Diagnostics and Therapeutics"
+   },
+   "figures": []
   }
  ]
 }

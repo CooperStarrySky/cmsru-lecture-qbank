@@ -833,6 +833,149 @@
      ]
     ]
    ]
+  },
+  {
+   "id": "miid2-w08-lec42-q12",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 42 slides",
+   "stem": "A 6-month-old girl is seen for follow-up. Her mother has HIV infection, took antiretroviral therapy throughout pregnancy, and had an undetectable viral load at delivery. After shared decision-making, she chose to breastfeed and still exclusively breastfeeds. The infant completed newborn zidovudine prophylaxis. Infant HIV nucleic acid tests at 18 days, 6 weeks, and 4 months were all negative. At a visit last month the mother admitted she stopped her own ART when the infant was 3 months old, and her viral load is now 38,000 copies/mL. The infant is thriving with a normal examination.\n\nWhich statement best describes the infant's HIV status?",
+   "choices": [
+    "Excluded, since she had negative virologic tests at 1 and 4 months",
+    "Excluded, since most perinatal infection occurs around delivery",
+    "Not excluded, since breastfeeding from a viremic mother continues",
+    "Infected, since a viremic mother who breastfeeds nearly always transmits",
+    "Unknown until an antibody test at 18 months, since NAT is unreliable"
+   ],
+   "answer": 2,
+   "evidence": [],
+   "explain": {
+    "html": "<p>Perinatal HIV transmission happens in three windows: in utero, peripartum, and <b>postpartum through breastfeeding</b>, which adds about 20% to 25% risk <b>when the mother is viremic</b> and untreated. With maternal suppression on ART, breastfeeding risk falls below 1%, but that protection lasts only as long as the suppression. Because <b>maternal viral load is the major predictor</b>, a mother who stops ART while breastfeeding re-exposes her infant.</p><p>Infants under 18 months are diagnosed with <b>virologic tests (HIV RNA or DNA)</b>, since antibody may be maternal. Infection can be excluded in a <b>non-breastfed infant</b> with <b>two negative virologic tests, one at 1 month or older and one at 4 months or older</b>. This infant meets that pattern on paper, but she is still breastfeeding from a mother with 38,000 copies/mL, so her exposure has not ended and her status cannot be called excluded; testing continues during and after breastfeeding.</p>",
+    "table": "<table><tr><th>Situation</th><th>Can two negative virologic tests (1 and 4 months) exclude infection?</th></tr><tr><td>Formula fed, exposure ended at birth</td><td>Yes</td></tr><tr><td>Breastfed, mother suppressed on ART</td><td>Not while exposure continues; risk below 1% but not zero</td></tr><tr><td>Breastfed, mother viremic</td><td>No; ongoing exposure with substantial risk</td></tr></table>",
+    "why": [
+     "The two-negative-test rule is written for non-breastfed infants, and this infant is still exposed through breast milk.",
+     "Peripartum transmission is the largest share, but breastfeeding from a viremic mother adds real postnatal risk.",
+     "",
+     "Breastfeeding adds about 20% to 25% risk without maternal treatment, a large risk but far from certain transmission.",
+     "Virologic tests are required under 18 months, and an antibody result in infancy reflects maternal IgG."
+    ],
+    "takeaway": "Negative infant virologic tests exclude HIV only after exposure ends; breastfeeding from a viremic mother is ongoing exposure, so testing continues through and after weaning.",
+    "topic": "Ongoing breastfeeding exposure and excluding infant infection",
+    "subject": "Microbiology",
+    "objective": "Know how newborns born to HIV-infected persons are screened",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "The two-negative-test rule is written for non-breastfed infants, and this infant is still exposed through breast milk.",
+      "if_right": "a formula-fed infant with negative tests at 1 and 4 months"
+     },
+     {
+      "choice": 1,
+      "why": "Peripartum transmission is the largest share, but breastfeeding from a viremic mother adds real postnatal risk.",
+      "if_right": "an infant who was never breastfed"
+     },
+     {
+      "choice": 3,
+      "why": "Breastfeeding adds about 20% to 25% risk without maternal treatment, a large risk but far from certain transmission.",
+      "if_right": "a positive virologic test in the infant"
+     },
+     {
+      "choice": 4,
+      "why": "Virologic tests are required under 18 months, and an antibody result in infancy reflects maternal IgG.",
+      "if_right": "a question about why an infant's antibody test is reactive at 3 months"
+     }
+    ],
+    "slides": {
+     "stem": [
+      9,
+      26
+     ],
+     "answer": [
+      17,
+      24,
+      9
+     ],
+     "distractors": [
+      24,
+      10,
+      9,
+      17
+     ]
+    },
+    "deck": "42 Pediatric HIV"
+   },
+   "figures": []
+  },
+  {
+   "id": "miid2-w08-lec42-q13",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 42 slides",
+   "stem": "A 24-year-old woman had a negative HIV test at her first prenatal visit at 9 weeks of gestation. At about 20 weeks, soon after starting a relationship with a new partner, she had a week of fever, sore throat, and rash but did not seek care, and she missed her later visits. She arrived in labor at 39 weeks; an expedited HIV test was reactive, with a viral load of 640,000 copies/mL. Membranes had been ruptured for 9 hours before a vaginal delivery. The infant was started on three-drug ART within 6 hours and is formula fed. HIV nucleic acid testing of the infant at 30 hours of life is positive.\n\nWhich measure would most likely have prevented this infant's infection?",
+   "choices": [
+    "Avoiding membrane rupture longer than 4 hours",
+    "Starting the infant's three-drug ART at birth",
+    "Giving the mother IV zidovudine during labor",
+    "HIV testing at her febrile illness, then ART",
+    "A scheduled cesarean delivery at 38 weeks"
+   ],
+   "answer": 3,
+   "evidence": [],
+   "explain": {
+    "html": "<p>Perinatal HIV transmission has distinct timing windows. About 20% of non-breastfed cases occur <b>in utero</b>, before 36 weeks, and these infants have a <b>positive virologic test within the first 48 hours of life</b>; in utero transmission is especially likely <b>if the mother becomes infected during pregnancy</b>. About 80% occur <b>peripartum</b>, close to or during labor and delivery, and those infants test negative at birth and positive later. Risk factors include high maternal viral load and low CD4 count, and obstetric factors such as membrane rupture longer than 4 hours, chorioamnionitis and scalp electrodes.</p><p>Prevention works only inside the right window. Pregnant women are tested early, again in the third trimester, and whenever there are <b>signs and symptoms of acute HIV</b>, so ART can drive the viral load down, the <b>major predictor of transmission</b>. This mother's fever, sore throat and rash after a new partner at 20 weeks was acute HIV, and her infant's positive test at 30 hours places infection in utero. Testing and treating her then is the only listed measure that acts before the infection occurred.</p>",
+    "table": "<table><tr><th>Timing</th><th>Share of cases</th><th>Infant virologic test</th><th>Measures that act in this window</th></tr><tr><td>In utero (before 36 weeks)</td><td>About 20%</td><td>Positive within 48 hours</td><td>Maternal testing and ART during pregnancy</td></tr><tr><td>Peripartum</td><td>About 80%</td><td>Negative at birth, positive later</td><td>Cesarean for high viral load, IV zidovudine, neonatal prophylaxis</td></tr><tr><td>Breastfeeding</td><td>Added risk if mother viremic</td><td>Negative early, positive later</td><td>Maternal suppression or formula</td></tr></table>",
+    "why": [
+     "Membrane rupture over 4 hours is an intrapartum risk factor, and this infection predates labor.",
+     "Neonatal ART is post-exposure prophylaxis; it cannot reverse an infection that was established in utero.",
+     "Intravenous zidovudine in labor protects against intrapartum transmission, which comes after the in utero infection seen here.",
+     "",
+     "Cesarean prevents exposure to blood and secretions during delivery, but this infant was already infected before labor began."
+    ],
+    "takeaway": "A positive infant HIV nucleic acid test within 48 hours means in utero infection, most often after maternal infection during pregnancy; preventing it requires antepartum diagnosis and maternal ART.",
+    "topic": "In utero transmission and the missed window for prevention",
+    "subject": "Microbiology",
+    "objective": "Recognize timing of perinatal HIV transmission and and maternal risk factors for transmission",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Membrane rupture over 4 hours is an intrapartum risk factor, and this infection predates labor.",
+      "if_right": "a negative test at 30 hours with positive testing at 6 weeks after 14 hours of ruptured membranes"
+     },
+     {
+      "choice": 1,
+      "why": "Neonatal ART is post-exposure prophylaxis; it cannot reverse an infection that was established in utero.",
+      "if_right": "an infant whose birth test is negative and who is at high risk from intrapartum exposure"
+     },
+     {
+      "choice": 2,
+      "why": "Intravenous zidovudine in labor protects against intrapartum transmission, which comes after the in utero infection seen here.",
+      "if_right": "a mother with a reactive test in labor whose infant tests negative at birth"
+     },
+     {
+      "choice": 4,
+      "why": "Cesarean prevents exposure to blood and secretions during delivery, but this infant was already infected before labor began.",
+      "if_right": "an infant with a negative test at birth who becomes positive at 6 weeks"
+     }
+    ],
+    "slides": {
+     "stem": [
+      9,
+      10,
+      22
+     ],
+     "answer": [
+      22,
+      20,
+      10
+     ],
+     "distractors": [
+      10,
+      21,
+      21,
+      20
+     ]
+    },
+    "deck": "42 Pediatric HIV"
+   },
+   "figures": []
   }
  ]
 }

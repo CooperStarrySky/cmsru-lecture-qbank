@@ -1273,6 +1273,173 @@
      ]
     ]
    ]
+  },
+  {
+   "id": "miid2-w06-lec32-q17",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 32 slides",
+   "stem": "A 29-year-old kindergarten teacher at 16 weeks' gestation calls her obstetrician. One of her students, a 6-year-old girl, was absent last week with low-grade fever and malaise, returned feeling well on Monday, and on Wednesday developed bright red cheeks and a lacy, faint rash on her arms. The girl's serum drawn on the day the rash appeared is positive for virus-specific IgM. The school nurse wants to send the girl home until the rash fades so the teacher is not exposed. The teacher has never had a slapped-cheek illness that she knows of.\n\nWhich statement best explains the timing of the girl's rash and what it means for the teacher's exposure?",
+   "choices": [
+    "The rash is direct viral killing of skin cells, so it is contagious on contact",
+    "The rash signals the start of infection, so the teacher has not been exposed yet",
+    "The rash comes with antibody as viremia clears, so the exposure was last week",
+    "The rash marks peak viremia, so the girl is most contagious until it fades",
+    "The rash marks a second viremia, so she stays contagious for 4 more days"
+   ],
+   "answer": 2,
+   "evidence": [],
+   "explain": {
+    "html": "<p>Viral exanthems differ in <b>when the rash appears relative to viremia</b>, and that timing decides when a patient is contagious. In measles the patient is most contagious from 4 days before to 4 days after the rash. In parvovirus B19 erythema infectiosum, a mild prodrome of fever and malaise is followed by a slapped-cheek rash with a lacy peripheral distribution that <b>corresponds to the appearance of IgM in serum and signals clearance of viremia</b>, so the rash is an <b>immune event after the infectious phase</b>. Parvovirus spreads by contact, fomites, and large droplets during viremia, and because fetal erythroid precursors and myocardial cells express the P antigen, maternal infection can cause fetal anemia and hydrops fetalis.</p><p>This girl was viremic during last week's prodrome, and her positive IgM on the day of the rash fits the virus clearing. Sending her home until the rash fades does nothing for the teacher, whose exposure happened during the prodrome, and the obstetric follow-up should be planned around that exposure.</p>",
+    "table": "<table><tr><th>Illness</th><th>Rash relative to viremia</th><th>Contagious period</th></tr><tr><td>Erythema infectiosum (parvovirus B19)</td><td>Rash appears with IgM as viremia clears</td><td>Prodrome, before the rash</td></tr><tr><td>Measles</td><td>Rash during secondary viremia</td><td>4 days before to 4 days after rash</td></tr><tr><td>Varicella</td><td>Rash after secondary viremia, crops of vesicles</td><td>Until lesions have crusted</td></tr></table>",
+    "why": [
+     "The rash corresponds to the IgM response, not virus destroying skin cells; parvovirus targets erythroid progenitors.",
+     "The rash comes after the prodrome, late in infection, so exposure has already occurred.",
+     "",
+     "The parvovirus rash comes as viremia clears, so the child is past her most contagious time.",
+     "Contagiousness for 4 days after the rash is the measles rule; in parvovirus the rash follows clearance of viremia."
+    ],
+    "takeaway": "In parvovirus B19 erythema infectiosum, the rash appears with IgM as viremia clears, so transmission happens during the prodrome, before the rash.",
+    "topic": "Parvovirus B19: rash timing versus viremia",
+    "subject": "Microbiology",
+    "objective": "Understand the temporal course of various fever and rash syndromes in pediatrics",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "The rash corresponds to the IgM response, not virus destroying skin cells; parvovirus targets erythroid progenitors.",
+      "if_right": "a vesicular rash whose fluid contains infectious virus"
+     },
+     {
+      "choice": 1,
+      "why": "The rash comes after the prodrome, late in infection, so exposure has already occurred.",
+      "if_right": "a child whose fever and rash appear together on the first day of illness"
+     },
+     {
+      "choice": 3,
+      "why": "The parvovirus rash comes as viremia clears, so the child is past her most contagious time.",
+      "if_right": "a viral exanthem whose rash appears during peak viremia, with contagiousness continuing while it is present"
+     },
+     {
+      "choice": 4,
+      "why": "Contagiousness for 4 days after the rash is the measles rule; in parvovirus the rash follows clearance of viremia.",
+      "if_right": "a child with measles and Koplik spots"
+     }
+    ],
+    "slides": {
+     "stem": [
+      28
+     ],
+     "answer": [
+      28,
+      30
+     ],
+     "distractors": [
+      30,
+      28,
+      19,
+      19
+     ]
+    },
+    "deck": "32 Fevers and Rashes"
+   },
+   "figures": []
+  },
+  {
+   "id": "miid2-w06-lec32-q18",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 32 slides",
+   "stem": "An 11-year-old boy in Tennessee is brought in during July with 4 days of fever, headache, vomiting, and sensitivity to light. He hiked in the woods 9 days ago. On day 3, small pink blanching macules appeared on his wrists and ankles; they are now petechial and have spread to his arms, thighs, trunk, palms, and soles. His hands and feet are mildly swollen, and his neck is slightly stiff.\n\n[[labs 0]]\n\nIf treatment is delayed, which development is most expected as this illness progresses?",
+   "choices": [
+    "Sheets of superficial skin peeling away at the granular layer",
+    "Joint pain in the fingers and wrists lasting weeks",
+    "Dilation of the coronary arteries, with aneurysms forming",
+    "Spreading purpura with necrosis and gangrene of the digits",
+    "Profound anemia from a halt in red cell production"
+   ],
+   "answer": 3,
+   "evidence": [],
+   "explain": {
+    "html": "<p>Rocky Mountain spotted fever is a tick-borne illness caused by the gram-negative intracellular bacterium <i>Rickettsia rickettsii</i>, most common April to October in boys under 15 in the South Central US. After exposure the bacteria <b>multiply within endothelial cells of small vessels</b> and disseminate in the bloodstream, and the <b>endothelial cell injury leads to thrombosis and capillary leak</b>, which produce edema and petechiae. The classic rash starts on days 2 to 5 as blanching macules on the <b>wrists and ankles</b>, becomes petechial, and spreads centripetally to the arms, thighs, trunk, and finally the palms and soles. Typical labs are leukopenia, thrombocytopenia, mild transaminitis, hyponatremia, and <b>mild CSF pleocytosis</b>, and severe cases develop DIC and necrosis.</p><p>This boy's photophobia, stiff neck, and CSF cells can pull toward meningococcal disease, but the CSF shows no organisms and only mild pleocytosis, and the rash's wrist-and-ankle start after a hike defines RMSF. One endothelial process explains the swollen hands and feet, the petechiae, and the low platelets, and if treatment is delayed the same thrombosis and leak progress to <b>widespread necrosis, purpura, gangrene, and death</b>. That is why doxycycline is started on suspicion, without waiting for confirmation or the classic rash.</p>",
+    "table": "<table><tr><th>Illness</th><th>Core mechanism</th><th>Rash</th></tr><tr><td>Rocky Mountain spotted fever</td><td>Rickettsia multiply in small-vessel endothelium: thrombosis, capillary leak</td><td>Wrists and ankles, then centripetal; petechial; palms and soles</td></tr><tr><td>Meningococcemia</td><td>Invasive gram-negative diplococcus; DIC</td><td>Macular to petechial to purpura fulminans</td></tr><tr><td>Toxic shock syndrome</td><td>Superantigen cross-links TCR and MHC class II</td><td>Diffuse sunburn-like erythroderma</td></tr><tr><td>Kawasaki disease</td><td>Medium-vessel vasculitis</td><td>Polymorphous, groin accentuation</td></tr></table>",
+    "why": [
+     "Peeling at the granular layer comes from staphylococcal exfoliative toxin cleaving desmoglein-1.",
+     "Weeks of small-joint pain after a rash fit rubella or parvovirus in adult women.",
+     "Coronary aneurysm follows untreated Kawasaki disease, a medium-vessel vasculitis, not rickettsial endothelial infection.",
+     "",
+     "A halt in red cell production is parvovirus B19 entering erythroid progenitors, not a rickettsial complication."
+    ],
+    "takeaway": "RMSF is endothelial infection of small vessels by Rickettsia rickettsii; untreated, thrombosis and leak progress to purpura, necrosis, gangrene and DIC, so doxycycline is started empirically.",
+    "topic": "Rocky Mountain spotted fever: predicting progression from the endothelial mechanism",
+    "subject": "Microbiology",
+    "objective": "Recognize associated symptoms and significance of the major “fever and rash” syndromes",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Peeling at the granular layer comes from staphylococcal exfoliative toxin cleaving desmoglein-1.",
+      "if_right": "a toddler with crusting at the nose followed by tender skin that peels away with light rubbing"
+     },
+     {
+      "choice": 1,
+      "why": "Weeks of small-joint pain after a rash fit rubella or parvovirus in adult women.",
+      "if_right": "a young woman with a face-to-trunk rash and postauricular nodes followed by finger and wrist pain"
+     },
+     {
+      "choice": 2,
+      "why": "Coronary aneurysm follows untreated Kawasaki disease, a medium-vessel vasculitis, not rickettsial endothelial infection.",
+      "if_right": "a young child with 5 days of fever, nonexudative conjunctivitis, red cracked lips and swollen hands"
+     },
+     {
+      "choice": 4,
+      "why": "A halt in red cell production is parvovirus B19 entering erythroid progenitors, not a rickettsial complication.",
+      "if_right": "a child with hemolytic anemia whose reticulocytes vanish after a slapped-cheek rash"
+     }
+    ],
+    "slides": {
+     "stem": [
+      47
+     ],
+     "answer": [
+      47,
+      48
+     ],
+     "distractors": [
+      44,
+      24,
+      54,
+      30
+     ]
+    },
+    "deck": "32 Fevers and Rashes"
+   },
+   "figures": [],
+   "labs": [
+    [
+     [
+      "Test",
+      "Result",
+      "Reference range"
+     ],
+     [
+      "Leukocytes",
+      "3,900/mm3",
+      "4,500 to 13,500/mm3"
+     ],
+     [
+      "Platelets",
+      "72,000/mm3",
+      "150,000 to 400,000/mm3"
+     ],
+     [
+      "Sodium",
+      "128 mEq/L",
+      "135 to 145 mEq/L"
+     ],
+     [
+      "CSF leukocytes",
+      "18/mm3, no organisms on Gram stain",
+      "0 to 5/mm3"
+     ]
+    ]
+   ]
   }
  ]
 }

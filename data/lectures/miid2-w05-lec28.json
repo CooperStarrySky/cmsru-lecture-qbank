@@ -974,6 +974,146 @@
     "deck": "28 Antimicrobial Resistance"
    },
    "figures": []
+  },
+  {
+   "id": "miid2-w05-lec28-q14",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 28 slides",
+   "stem": "A 63-year-old man with MRSA vertebral osteomyelitis and bacteremia has received intravenous vancomycin for 7 weeks. His fever returns and repeat blood cultures again grow coagulase-positive Gram-positive cocci in clusters. The laboratory reports that the vancomycin MIC of his isolates has risen in small steps over the course of treatment, from 1 to 2 and now 6 micrograms/mL. Typing shows every isolate is the same strain as the original one, and no new plasmids are found. Two weeks ago he shared a hospital room with a patient colonized with vancomycin-resistant Enterococcus faecium.\n\nWhich change in his S. aureus best explains the rising vancomycin MIC?",
+   "choices": [
+    "Production of PBP2a, a penicillin-binding protein with low beta-lactam affinity",
+    "A plasmid-borne PC1 penicillinase that hydrolyzes the glycopeptide",
+    "Loss of outer membrane porins that normally let vancomycin reach its target",
+    "Peptidoglycan precursors ending in D-Ala-D-Lac, acquired from the enterococcus",
+    "A thicker, altered peptidoglycan that emerged under prolonged drug exposure"
+   ],
+   "answer": 4,
+   "evidence": [],
+   "explain": {
+    "html": "<p>Vancomycin binds the <b>D-Ala-D-Ala</b> end of peptidoglycan precursors, and <i>S. aureus</i> can escape it in two different ways. <b>VISA and h-VISA</b> strains emerge <b>during prolonged treatment with vancomycin</b>: the MIC drifts up to an intermediate range because the strain builds a <b>thicker and altered peptidoglycan</b>, and h-VISA is a mixed population with a slow-growing VISA subpopulation that is hard to detect. <b>VRSA</b> is different: it has <b>acquired resistance genes from VRE</b> and, like VRE, makes precursors ending in <b>D-Ala-D-Lac</b>, which lowers vancomycin affinity about 1000-fold.</p><p>In this patient the decisive findings are a <b>stepwise MIC rise</b> over 7 weeks of vancomycin, in isolates that are all the same strain, with <b>no new plasmids</b>. That is selection under drug pressure, which is the VISA picture. The VRE roommate is the trap: VRSA requires gene transfer, which typing did not show. Recognizing creeping MICs on long vancomycin courses matters because the drug can quietly lose effect without any acquired resistance gene.</p>",
+    "table": "<table><tr><th>Strain</th><th>How it arises</th><th>Mechanism</th></tr><tr><td>VISA, h-VISA</td><td>Emerges during prolonged vancomycin therapy</td><td>Thicker, altered peptidoglycan</td></tr><tr><td>VRSA</td><td>Acquires resistance genes from VRE</td><td>D-Ala-D-Lac precursors</td></tr><tr><td>VRE</td><td>Glycopeptide overuse (hospital, livestock)</td><td>D-Ala-D-Lac precursors</td></tr><tr><td>MRSA (beta-lactams)</td><td>Acquired gene</td><td>PBP2a; PC1 penicillinase</td></tr></table>",
+    "why": [
+     "PBP2a makes the strain resistant to beta-lactams, which is why it was MRSA to begin with; it does not affect vancomycin.",
+     "PC1 is a penicillinase that opens the beta-lactam ring; vancomycin has no beta-lactam ring.",
+     "Porins are channels in the Gram-negative outer membrane; S. aureus has no outer membrane.",
+     "D-Ala-D-Lac is the VRE and VRSA mechanism, which needs acquired genes, and this strain gained none.",
+     ""
+    ],
+    "takeaway": "Vancomycin-intermediate S. aureus emerges during prolonged vancomycin therapy through a thickened, altered peptidoglycan, whereas VRSA and VRE use acquired genes that switch the precursor terminus to D-Ala-D-Lac.",
+    "topic": "VISA vs VRSA: how vancomycin resistance arises in S. aureus",
+    "subject": "Microbiology",
+    "objective": "Understand the mechanism of vancomycin resistance in VRE.",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "PBP2a makes the strain resistant to beta-lactams, which is why it was MRSA to begin with; it does not affect vancomycin.",
+      "if_right": "a question about why oxacillin and other beta-lactams fail against this strain"
+     },
+     {
+      "choice": 1,
+      "why": "PC1 is a penicillinase that opens the beta-lactam ring; vancomycin has no beta-lactam ring.",
+      "if_right": "an S. aureus isolate resistant to penicillin but restored by a beta-lactamase inhibitor"
+     },
+     {
+      "choice": 2,
+      "why": "Porins are channels in the Gram-negative outer membrane; S. aureus has no outer membrane.",
+      "if_right": "a Gram-negative isolate such as A. baumannii resisting carbapenems"
+     },
+     {
+      "choice": 3,
+      "why": "D-Ala-D-Lac is the VRE and VRSA mechanism, which needs acquired genes, and this strain gained none.",
+      "if_right": "an isolate that newly carries VRE resistance genes with a sudden high-level MIC jump"
+     }
+    ],
+    "slides": {
+     "stem": [
+      26,
+      19
+     ],
+     "answer": [
+      26,
+      46
+     ],
+     "distractors": [
+      22,
+      22,
+      12,
+      32
+     ]
+    },
+    "deck": "28 Antimicrobial Resistance"
+   },
+   "figures": []
+  },
+  {
+   "id": "miid2-w05-lec28-q15",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 28 slides",
+   "stem": "An Acinetobacter baumannii isolate from a ventilated burn patient is resistant to gentamicin, ciprofloxacin, tetracycline, trimethoprim and chloramphenicol; the ciprofloxacin MIC is the highest of the five. Whole-genome analysis finds three changes: a strongly overexpressed tripartite multidrug efflux pump spanning both membranes, a plasmid gene for an enzyme that transfers acetyl groups onto its drug substrate, and a point mutation in the enzyme that reduces dihydrofolate to tetrahydrofolate. DNA gyrase, topoisomerase and rRNA genes are normal. All five drugs are known substrates of the pump. Investigators retest with a compound that fully blocks the pump.\n\nWith the pump blocked, which pair of drugs would most likely still fail?",
+   "choices": [
+    "Gentamicin and trimethoprim",
+    "Ciprofloxacin and tetracycline",
+    "Ciprofloxacin and trimethoprim",
+    "Gentamicin and ciprofloxacin",
+    "Trimethoprim and tetracycline"
+   ],
+   "answer": 0,
+   "evidence": [],
+   "explain": {
+    "html": "<p>MDR <i>A. baumannii</i> layers several <b>independent resistance mechanisms</b>, and each one hits particular drug classes. <b>Multidrug efflux pumps</b> export aminoglycosides, fluoroquinolones, tetracyclines, chloramphenicol, erythromycin, trimethoprim and tigecycline. <b>Aminoglycoside-modifying enzymes</b>, the main mode of aminoglycoside resistance, add acetyl, phosphoryl or adenyl groups to the drug. <b>Target-site alteration</b> causes fluoroquinolone resistance through DNA gyrase and topoisomerase mutations and trimethoprim resistance through <b>dihydrofolate reductase</b> mutations.</p><p>Blocking the pump rescues only drugs whose resistance depended on it alone. Here the acetylating plasmid enzyme is an AME, so <b>gentamicin</b> stays inactive, and the mutated enzyme that reduces dihydrofolate is the trimethoprim target, so <b>trimethoprim</b> stays resistant. The high ciprofloxacin MIC is the trap: with normal gyrase and topoisomerase, it reflects heavy efflux, which the blocker removes, as it does for tetracycline and chloramphenicol. This is why future efflux and AME inhibitors may each restore only part of a multiply resistant strain.</p>",
+    "table": "<table><tr><th>Drug</th><th>Pump substrate</th><th>Second mechanism in this isolate</th><th>After blocking the pump</th></tr><tr><td>Gentamicin</td><td>Yes</td><td>Acetylating AME</td><td>Still resistant</td></tr><tr><td>Ciprofloxacin</td><td>Yes</td><td>None (gyrase, topoisomerase normal)</td><td>Restored</td></tr><tr><td>Tetracycline</td><td>Yes</td><td>None</td><td>Restored</td></tr><tr><td>Trimethoprim</td><td>Yes</td><td>Dihydrofolate reductase mutation</td><td>Still resistant</td></tr><tr><td>Chloramphenicol</td><td>Yes</td><td>None</td><td>Restored</td></tr></table>",
+    "why": [
+     "",
+     "Ciprofloxacin and tetracycline are resisted only by efflux in this isolate, so blocking the pump restores both.",
+     "Trimethoprim stays resistant, but ciprofloxacin's high MIC reflects efflux because its target enzymes are normal.",
+     "Gentamicin stays resistant from the AME, but ciprofloxacin has normal targets and is restored once efflux stops.",
+     "Trimethoprim stays resistant, but tetracycline resistance here depends only on the pump."
+    ],
+    "takeaway": "In MDR A. baumannii, aminoglycoside-modifying enzymes inactivate aminoglycosides and dihydrofolate reductase mutations confer trimethoprim resistance independently of efflux, so blocking efflux does not restore those drugs.",
+    "topic": "MDR A. baumannii: matching stacked mechanisms to drugs",
+    "subject": "Microbiology",
+    "objective": "Explain the various strategies used by A. baumannii and P. aeruginosa to become resistant to aminoglycosides, beta-lactams, trimethoprim, and fluoroquinolones.",
+    "rows": [
+     {
+      "choice": 1,
+      "why": "Ciprofloxacin and tetracycline are resisted only by efflux in this isolate, so blocking the pump restores both.",
+      "if_right": "an isolate with a DNA gyrase mutation and a pump-independent tetracycline mechanism"
+     },
+     {
+      "choice": 2,
+      "why": "Trimethoprim stays resistant, but ciprofloxacin's high MIC reflects efflux because its target enzymes are normal.",
+      "if_right": "a point mutation in DNA gyrase or topoisomerase"
+     },
+     {
+      "choice": 3,
+      "why": "Gentamicin stays resistant from the AME, but ciprofloxacin has normal targets and is restored once efflux stops.",
+      "if_right": "an isolate that also carries a DNA gyrase or topoisomerase mutation"
+     },
+     {
+      "choice": 4,
+      "why": "Trimethoprim stays resistant, but tetracycline resistance here depends only on the pump.",
+      "if_right": "a second, pump-independent tetracycline mechanism"
+     }
+    ],
+    "slides": {
+     "stem": [
+      41,
+      40
+     ],
+     "answer": [
+      40,
+      42
+     ],
+     "distractors": [
+      42,
+      42,
+      42,
+      41
+     ]
+    },
+    "deck": "28 Antimicrobial Resistance"
+   },
+   "figures": []
   }
  ]
 }

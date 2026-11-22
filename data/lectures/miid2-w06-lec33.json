@@ -1030,6 +1030,145 @@
      "caption": "Lecture 33 slides (2025-26) · Page 39"
     }
    ]
+  },
+  {
+   "id": "miid2-w06-lec33-q15",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 33 slides",
+   "stem": "A 23-year-old woman who never received any doses of human papillomavirus vaccine has a cervical screening test showing a high-grade precancerous lesion, and HPV testing is positive for type 16 only. She is scheduled for treatment of the lesion. She asks whether she should start the 9-valent HPV vaccine now, because she read that a vaccine targeting HPV16 made high-grade cervical lesions regress. She has no history of genital warts. Her clinician explains how the licensed vaccine is made: recombinant L1 protein that self-assembles into noninfectious virus-like particles.\n\nWhich statement best describes what the 9-valent vaccine can be expected to do for her?",
+   "choices": [
+    "Risk spreading HPV16 to partners, since the vaccine contains live virus",
+    "Make her HPV16 lesion regress, since it raises antibody against HPV16 capsid",
+    "Prevent only genital warts, since types 6 and 11 are the ones it contains",
+    "Nothing, since catch-up vaccination is recommended only through age 21",
+    "Guard against vaccine types she lacks, but not treat her HPV16 lesion"
+   ],
+   "answer": 4,
+   "evidence": [],
+   "explain": {
+    "html": "<p>The HPV vaccine is made from <b>L1, the major capsid protein</b>, produced by recombinant technology; L1 proteins self-assemble into <b>noninfectious, non-oncogenic virus-like particles</b>. These particles induce neutralizing antibody that blocks infection, which gives high efficacy against the vaccine types in people who have not yet met them. The deck is explicit that there is <b>no evidence of efficacy against disease caused by vaccine types if the patient is already infected</b>. The 9-valent vaccine contains types 16 and 18 (about 70% of cervical cancers) and 6 and 11 (about 90% of genital warts), is routine at 11 to 12, and <b>catch-up is recommended for everyone through age 26</b>.</p><p>For this woman, the established HPV16 lesion needs its own treatment, and the vaccine will not make it regress; the regression she read about came from a separate therapeutic vaccine aimed at HPV16. Because she tests negative for the other vaccine types and is 23, vaccination still protects her against new infection with types 18, 6, 11, and the rest of the panel, so it is worth giving.</p>",
+    "table": "<table><tr><th>Question</th><th>Licensed 9-valent HPV vaccine</th></tr><tr><td>Antigen</td><td>Recombinant L1 capsid virus-like particles (no viral DNA, noninfectious)</td></tr><tr><td>Protective response</td><td>Neutralizing antibody against new infection</td></tr><tr><td>Types</td><td>16, 18 (cancer) and 6, 11 (warts), plus others</td></tr><tr><td>Effect on existing infection</td><td>No evidence of efficacy against a type already acquired</td></tr><tr><td>Who</td><td>Routine at 11 to 12; catch-up through 26; consider 27 to 45</td></tr></table>",
+    "why": [
+     "The vaccine is L1 virus-like particles that are noninfectious and non-oncogenic; nothing in it can replicate.",
+     "The preventive vaccine has no efficacy against a type already acquired; lesion regression was seen with a separate therapeutic HPV16 vaccine.",
+     "The 9-valent vaccine also contains the oncogenic types 16 and 18.",
+     "Catch-up HPV vaccination is recommended for all persons through age 26.",
+     ""
+    ],
+    "takeaway": "HPV vaccine (L1 virus-like particles) induces neutralizing antibody that prevents new infection but does not treat existing infection; catch-up is recommended through age 26.",
+    "topic": "HPV vaccine in someone already infected",
+    "subject": "Immunology",
+    "objective": "Recognize the impact of vaccines on disease prevention in the pediatric population",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "The vaccine is L1 virus-like particles that are noninfectious and non-oncogenic; nothing in it can replicate.",
+      "if_right": "a live attenuated vaccine such as MMR or varicella"
+     },
+     {
+      "choice": 1,
+      "why": "The preventive vaccine has no efficacy against a type already acquired; lesion regression was seen with a separate therapeutic HPV16 vaccine.",
+      "if_right": "a question about the experimental therapeutic vaccine targeting HPV16 in high-grade lesions"
+     },
+     {
+      "choice": 2,
+      "why": "The 9-valent vaccine also contains the oncogenic types 16 and 18.",
+      "if_right": "a vaccine limited to the wart-causing types 6 and 11"
+     },
+     {
+      "choice": 3,
+      "why": "Catch-up HPV vaccination is recommended for all persons through age 26.",
+      "if_right": "a 40-year-old, for whom vaccination is only considered for those most likely to benefit"
+     }
+    ],
+    "slides": {
+     "stem": [
+      33,
+      34
+     ],
+     "answer": [
+      34
+     ],
+     "distractors": [
+      34,
+      35,
+      33,
+      34
+     ]
+    },
+    "deck": "33 Vaccines and Immunizations"
+   },
+   "figures": []
+  },
+  {
+   "id": "miid2-w06-lec33-q16",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 33 slides",
+   "stem": "A 3-year-old girl has her fourth episode of acute otitis media this year. She received every recommended Haemophilus influenzae type b dose on schedule, including the dose at 12 to 15 months, and all her other routine vaccines. Fluid obtained by tympanocentesis shows small gram-negative coccobacilli. The organism grows on chocolate agar, and on other media only when both factor V (NAD) and factor X (hematin) are supplied. Her parents are upset that \"her vaccines failed\" and ask what her vaccination actually protects her against. She has no history of meningitis, epiglottitis, or other invasive infection.\n\nHer vaccination against this species is most likely to have protected her against which of the following?",
+   "choices": [
+    "Epiglottitis or meningitis caused by encapsulated type b strains",
+    "Otitis media caused by the same strain now in her ear fluid",
+    "Bronchitis caused by strains of this species like the current one",
+    "Otitis media caused by any capsular serotype from a through f",
+    "Sinusitis caused by this species after her next cold"
+   ],
+   "answer": 0,
+   "evidence": [],
+   "explain": {
+    "html": "<p><i>Haemophilus influenzae</i> is an aerobic gram-negative organism that grows on chocolate agar and <b>requires factor V (NAD) and factor X (hematin)</b>. Its strains are sorted by polysaccharide capsule into six serotypes, a to f, and before vaccination <b>type b caused 95% of invasive disease</b>, above all meningitis; the Hib vaccine, given as 3 or 4 doses at 2, 4, 6 and 12 to 15 months, cut that incidence by 99%. <b>Nontypeable strains</b>, which are not one of the capsular types, cause <b>mucosal infections</b>: otitis media, bronchitis, and COPD exacerbations. A vaccine directed at the type b capsule offers no antibody against a strain that does not carry it.</p><p>This girl has recurrent otitis media, a mucosal infection, and no invasive disease, which is the typical pattern for nontypeable <i>H. influenzae</i>. The factor V and X result confirms the genus but does not mean the Hib vaccine failed; her series is complete, and extra doses would not change her risk. What her vaccination does protect against is <b>invasive type b disease</b>, above all meningitis (50 to 65% of Hib disease) and epiglottitis, which she has been spared.</p>",
+    "table": "<table><tr><th>Feature</th><th>H. influenzae type b</th><th>Nontypeable H. influenzae</th></tr><tr><td>Capsule</td><td>Type b polysaccharide</td><td>Not a capsular type</td></tr><tr><td>Typical disease</td><td>Invasive: meningitis, epiglottitis, bacteremia</td><td>Mucosal: otitis media, bronchitis, COPD exacerbation</td></tr><tr><td>Covered by Hib vaccine</td><td>Yes</td><td>No</td></tr><tr><td>Growth needs</td><td>Factors V and X (chocolate agar)</td><td>Factors V and X (chocolate agar)</td></tr></table>",
+    "why": [
+     "",
+     "The strain in her ear is a nontypeable mucosal strain without the type b capsule, so vaccine antibody does not recognize it.",
+     "Bronchitis is a mucosal infection from nontypeable strains, outside the type b vaccine's coverage.",
+     "The vaccine is built against the type b capsule only, not serotypes a and c to f.",
+     "Sinusitis is mucosal disease from nontypeable strains and is not prevented by the type b vaccine."
+    ],
+    "takeaway": "Hib vaccine prevents invasive type b disease (meningitis, epiglottitis); nontypeable H. influenzae, without the type b capsule, still causes otitis media, sinusitis and bronchitis.",
+    "topic": "Nontypeable Haemophilus influenzae in a vaccinated child",
+    "subject": "Immunology",
+    "objective": "Recognize clinical manifestations and impact of specific vaccine preventable bacterial diseases",
+    "rows": [
+     {
+      "choice": 1,
+      "why": "The strain in her ear is a nontypeable mucosal strain without the type b capsule, so vaccine antibody does not recognize it.",
+      "if_right": "an ear infection caused by a type b strain in an unvaccinated child"
+     },
+     {
+      "choice": 2,
+      "why": "Bronchitis is a mucosal infection from nontypeable strains, outside the type b vaccine's coverage.",
+      "if_right": "a vaccine directed at nontypeable H. influenzae"
+     },
+     {
+      "choice": 3,
+      "why": "The vaccine is built against the type b capsule only, not serotypes a and c to f.",
+      "if_right": "a vaccine containing all six capsular polysaccharides"
+     },
+     {
+      "choice": 4,
+      "why": "Sinusitis is mucosal disease from nontypeable strains and is not prevented by the type b vaccine.",
+      "if_right": "a vaccine that targets the mucosal strains of the species"
+     }
+    ],
+    "slides": {
+     "stem": [
+      15,
+      16
+     ],
+     "answer": [
+      15,
+      16
+     ],
+     "distractors": [
+      16,
+      16,
+      15,
+      16
+     ]
+    },
+    "deck": "33 Vaccines and Immunizations"
+   },
+   "figures": []
   }
  ]
 }

@@ -1202,6 +1202,179 @@
      "caption": "Lecture 38 slides (2025-26) · Page 64"
     }
    ]
+  },
+  {
+   "id": "miid2-w07-lec38-q17",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 38 slides",
+   "stem": "A 29-year-old man comes to the STI clinic because a partner he had condomless sex with 3 weeks ago was just diagnosed with secondary syphilis. Four years ago he was treated for primary syphilis with benzathine penicillin G; his RPR fell from 1:32 to 1:2 and has stayed at 1:2 on every check since. He has no genital ulcer, rash, or lymphadenopathy, and neurologic and eye examinations are normal. His HIV test is negative.\n\n[[labs 0]]\n\nWhich of the following is the most appropriate management?",
+   "choices": [
+    "Aqueous crystalline penicillin G intravenously for 10 to 14 days",
+    "Repeat the RPR in 3 months and treat if it rises fourfold",
+    "No treatment, since his RPR titer has not risen",
+    "Benzathine penicillin G intramuscularly weekly for 3 weeks",
+    "Benzathine penicillin G intramuscularly once"
+   ],
+   "answer": 4,
+   "evidence": [],
+   "explain": {
+    "html": "<p>Syphilis serology uses two kinds of tests. <b>Nontreponemal tests</b> (RPR, VDRL) measure antibody to a cardiolipin-lecithin-cholesterol antigen, and their titers track disease activity; after treatment the goal is a fourfold decline. <b>Treponemal tests</b> (FTA-ABS, TP-PA) measure antibody to <i>T. pallidum</i> antigens and usually <b>stay positive for life</b>. Median incubation is about 3 weeks, and a previously infected person may not develop a chancre, so a very recent infection can be present with no lesion and no serologic change. For that reason, a <b>contact of early syphilis within 90 days</b> is treated as early syphilis even if testing is negative.</p><p>His partner has secondary syphilis, an early stage, and the exposure was 3 weeks ago. His reactive FTA-ABS and stable RPR of 1:2 are the expected residue of his treated infection, so they neither prove latent disease nor exclude a new one. He receives the early syphilis regimen, <b>benzathine penicillin G intramuscularly once</b>, which treats an incubating infection before he can transmit it.</p>",
+    "table": "<table><tr><th>Test</th><th>What it measures</th><th>After successful treatment</th></tr><tr><td>Nontreponemal (RPR, VDRL)</td><td>Antibody to cardiolipin-lecithin-cholesterol; titer tracks activity</td><td>Falls fourfold or more; may stay low and stable</td></tr><tr><td>Treponemal (FTA-ABS, TP-PA)</td><td>Antibody to <i>T. pallidum</i> antigens</td><td>Usually stays reactive for life</td></tr></table>",
+    "why": [
+     "Aqueous crystalline penicillin is for neurosyphilis, ocular syphilis, or otosyphilis, and his examinations are normal.",
+     "Watching for a fourfold rise is how follow-up detects failure or reinfection, but it leaves a possible incubating infection untreated.",
+     "A titer that has not moved yet cannot exclude an infection acquired 3 weeks ago, so the 90-day rule calls for treatment.",
+     "Weekly dosing treats late latent or unknown-duration syphilis, and his treponemal reactivity comes from his documented treated infection.",
+     ""
+    ],
+    "takeaway": "Sexual contacts of early syphilis within 90 days receive one IM dose of benzathine penicillin G even if tests are negative; treponemal tests stay positive for life after treatment.",
+    "topic": "Syphilis partner management despite old reactive serology",
+    "subject": "Microbiology",
+    "objective": "Syphilis",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Aqueous crystalline penicillin is for neurosyphilis, ocular syphilis, or otosyphilis, and his examinations are normal.",
+      "if_right": "new vision loss, panuveitis, hearing loss, or cranial neuropathy with reactive syphilis serology"
+     },
+     {
+      "choice": 1,
+      "why": "Watching for a fourfold rise is how follow-up detects failure or reinfection, but it leaves a possible incubating infection untreated.",
+      "if_right": "a treated patient at routine follow-up with no recent exposure to early syphilis"
+     },
+     {
+      "choice": 2,
+      "why": "A titer that has not moved yet cannot exclude an infection acquired 3 weeks ago, so the 90-day rule calls for treatment.",
+      "if_right": "exposure to early syphilis more than 90 days ago with current testing that is negative or unchanged"
+     },
+     {
+      "choice": 3,
+      "why": "Weekly dosing treats late latent or unknown-duration syphilis, and his treponemal reactivity comes from his documented treated infection.",
+      "if_right": "a reactive RPR and treponemal test with no record of prior treatment and no known timing of infection"
+     }
+    ],
+    "slides": {
+     "stem": [
+      44,
+      37,
+      43
+     ],
+     "answer": [
+      44,
+      42
+     ],
+     "distractors": [
+      42,
+      43,
+      41,
+      42
+     ]
+    },
+    "deck": "38 Sexually Transmitted Infections"
+   },
+   "figures": [],
+   "labs": [
+    [
+     [
+      "FTA-ABS",
+      "Reactive (nonreactive)"
+     ],
+     [
+      "RPR",
+      "Reactive, 1:2 (nonreactive)"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "miid2-w07-lec38-q18",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 38 slides",
+   "stem": "A 24-year-old man has 10 days of dysuria and a scant mucoid urethral discharge. A week ago an urgent care clinic gave him a single injection of ceftriaxone and no other antibiotic, and his symptoms are unchanged. He has had no new partners since then. Gram stain of the discharge shows many neutrophils and no gram-negative diplococci. He took azithromycin for bronchitis last year.\n\n[[labs 0]]\n\nWhich property of the causative organism best explains why the urgent care treatment had no effect?",
+   "choices": [
+    "It lacks a cell wall, the structure ceftriaxone acts on",
+    "It has acquired a mutation conferring macrolide resistance",
+    "It produces a beta-lactamase that inactivates ceftriaxone",
+    "It lives only inside host cells, beyond reach of the drug",
+    "It is a motile protozoan rather than a bacterium"
+   ],
+   "answer": 0,
+   "evidence": [],
+   "explain": {
+    "html": "<p>Urethritis is split into <b>gonococcal and nongonococcal (NGU)</b>; NGU is caused by <i>Chlamydia trachomatis</i>, <i>Trichomonas vaginalis</i>, and <i>Mycoplasma genitalium</i>, with no pathogen found in about half. Each organism has a defining feature that predicts which drug works: <i>N. gonorrhoeae</i> is a gram-negative diplococcus treated with ceftriaxone, Chlamydia is obligate intracellular, Trichomonas is a motile protozoan treated with metronidazole, and <i>M. genitalium</i> is a <b>tiny, slow-growing bacterium without a cell wall</b>. Ceftriaxone is a beta-lactam that acts on <b>cell wall synthesis</b>, so it cannot treat an organism that has no wall.</p><p>Here the Gram stain shows <b>neutrophils without gram-negative diplococci</b>, the gonorrhea, chlamydia and Trichomonas NAATs are negative, and the <i>M. genitalium</i> NAAT is positive. He received ceftriaxone alone, so the failure comes from a missing drug target, not from <b>macrolide resistance</b>, which would matter only for azithromycin. He needs doxycycline followed by azithromycin, or by moxifloxacin if the organism is macrolide resistant or untested.</p>",
+    "table": "<table><tr><th>Urethritis organism</th><th>Defining feature</th><th>Treatment</th></tr><tr><td><i>N. gonorrhoeae</i></td><td>Gram-negative diplococcus</td><td>Ceftriaxone</td></tr><tr><td><i>C. trachomatis</i></td><td>Obligate intracellular</td><td>Doxycycline</td></tr><tr><td><i>M. genitalium</i></td><td>Tiny, slow growing, no cell wall</td><td>Doxycycline, then azithromycin (or moxifloxacin if macrolide resistant)</td></tr><tr><td><i>T. vaginalis</i></td><td>Motile protozoan</td><td>Metronidazole or tinidazole</td></tr></table>",
+    "why": [
+     "",
+     "Macrolide resistance affects azithromycin, and he received ceftriaxone, not a macrolide.",
+     "An organism with no cell wall offers ceftriaxone no target, so enzymatic inactivation is not the explanation.",
+     "Obligate intracellular growth describes Chlamydia, whose NAAT is negative here.",
+     "A motile protozoan describes Trichomonas, whose NAAT is negative; M. genitalium is a bacterium."
+    ],
+    "takeaway": "Mycoplasma genitalium has no cell wall, so beta-lactams fail; treat with doxycycline then azithromycin, or doxycycline then moxifloxacin when macrolide resistant or untested.",
+    "topic": "Mycoplasma genitalium and beta-lactam failure",
+    "subject": "Microbiology",
+    "objective": "Diseases characterized by urethritis and cervicitis",
+    "rows": [
+     {
+      "choice": 1,
+      "why": "Macrolide resistance affects azithromycin, and he received ceftriaxone, not a macrolide.",
+      "if_right": "persistent M. genitalium urethritis after doxycycline followed by azithromycin"
+     },
+     {
+      "choice": 2,
+      "why": "An organism with no cell wall offers ceftriaxone no target, so enzymatic inactivation is not the explanation.",
+      "if_right": "a cell-walled bacterium that grows despite a beta-lactam because it destroys the drug"
+     },
+     {
+      "choice": 3,
+      "why": "Obligate intracellular growth describes Chlamydia, whose NAAT is negative here.",
+      "if_right": "a positive C. trachomatis NAAT in a patient asking why the organism cannot be grown on routine media"
+     },
+     {
+      "choice": 4,
+      "why": "A motile protozoan describes Trichomonas, whose NAAT is negative; M. genitalium is a bacterium.",
+      "if_right": "a positive T. vaginalis NAAT or motile trophozoites on wet mount"
+     }
+    ],
+    "slides": {
+     "stem": [
+      52,
+      53,
+      48
+     ],
+     "answer": [
+      51
+     ],
+     "distractors": [
+      51,
+      49,
+      50,
+      59
+     ]
+    },
+    "deck": "38 Sexually Transmitted Infections"
+   },
+   "figures": [],
+   "labs": [
+    [
+     [
+      "N. gonorrhoeae NAAT",
+      "Negative"
+     ],
+     [
+      "C. trachomatis NAAT",
+      "Negative"
+     ],
+     [
+      "T. vaginalis NAAT",
+      "Negative"
+     ],
+     [
+      "M. genitalium NAAT",
+      "Positive"
+     ]
+    ]
+   ]
   }
  ]
 }

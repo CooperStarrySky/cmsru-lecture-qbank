@@ -1482,6 +1482,150 @@
      "caption": "Lecture 36 slides (2025-26) · Page 59"
     }
    ]
+  },
+  {
+   "id": "miid2-w07-lec36-q20",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 36 slides",
+   "stem": "A clinic in a rural community with outdoor latrines evaluates five patients, all with peripheral eosinophilia. Patient 1 is a 3-year-old with fever, wheezing and hepatomegaly who eats dirt in a yard where puppies play. Patient 2 is a 6-year-old with nocturnal perianal itching that her siblings share. Patient 3 is a 40-year-old sheep herder with a large liver cyst containing daughter cysts on CT. Patient 4 is a 5-year-old with bloody diarrhea, weight loss and rectal prolapse. Patient 5 is a hunter with fever, severe myalgia and periorbital edema after eating rare bear meat. A visiting student proposes a stool ova and parasite examination for everyone.\n\nFor which patient is the stool ova and parasite examination most likely to show the organism's eggs?",
+   "choices": [
+    "Patient 1",
+    "Patient 3",
+    "Patient 2",
+    "Patient 4",
+    "Patient 5"
+   ],
+   "answer": 3,
+   "evidence": [],
+   "explain": {
+    "html": "<p>A stool O&amp;P detects eggs, so it works only when <b>egg-laying adults live in the human gut lumen</b> and release eggs into feces. Many helminths fail that test. When the human is an <b>incidental or intermediate host</b>, only larvae are present: Toxocara larvae wander and die in tissue, and in hydatid disease the human holds the cyst while the <b>adult tapeworm lives in the dog</b>. Trichinella larvae encyst in striated muscle and are found by antibody or muscle biopsy. Pinworm adults do live in the cecum, but females <b>lay eggs on the perianal skin</b> at night, so the scotch tape test is used.</p><p>The 5-year-old with bloody diarrhea and <b>rectal prolapse</b> has whipworm (<i>Trichuris trichiura</i>). Its adults live in the large intestine, cecum and appendix, and stool O&amp;P shows <b>eggs with plugged ends</b>. The pinworm patient is the trap: an intestinal worm whose eggs still do not reach the stool.</p>",
+    "table": "<table><tr><th>Patient</th><th>Organism</th><th>Stage in the human</th><th>Test</th></tr><tr><td>1</td><td><i>Toxocara</i></td><td>Larvae in tissue (incidental host)</td><td>Serology (ELISA)</td></tr><tr><td>2</td><td><i>Enterobius</i></td><td>Adults in cecum, eggs on perianal skin</td><td>Scotch tape test</td></tr><tr><td>3</td><td><i>Echinococcus</i></td><td>Larval hydatid cyst</td><td>Imaging, serology</td></tr><tr><td>4</td><td><i>Trichuris</i></td><td>Adults in large intestine, eggs in stool</td><td>Stool O&amp;P</td></tr><tr><td>5</td><td><i>Trichinella</i></td><td>Larvae encysted in muscle</td><td>Serum antibody, muscle biopsy</td></tr></table>",
+    "why": [
+     "Toxocara larvae wander through a child's tissues and die; humans are incidental hosts and no eggs are released in the human gut.",
+     "A person with hydatid disease carries only the larval cyst; the egg-laying adult tapeworm lives in the dog, so there are no eggs in human stool.",
+     "Pinworm adults live in the cecum, but females lay eggs on the perianal skin at night, so the scotch tape test, not stool O&P, finds them.",
+     "",
+     "Trichinella larvae encyst in striated muscle; diagnosis is serum antibody or muscle biopsy, not eggs in stool."
+    ],
+    "takeaway": "Stool O&P detects only helminths whose egg-laying adults live in the human gut lumen (Trichuris, Ascaris, hookworm); it misses pinworm (perianal eggs), Toxocara, Echinococcus and Trichinella (larvae in tissue).",
+    "topic": "Which helminths put eggs in human stool",
+    "subject": "Microbiology",
+    "objective": "Use where each helminth stage lives in the human to predict which diagnostic test will find it.",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Toxocara larvae wander through a child's tissues and die; humans are incidental hosts and no eggs are released in the human gut.",
+      "if_right": "a child who passes eggs from adult worms in the gut, such as Ascaris, rather than a dog roundworm"
+     },
+     {
+      "choice": 1,
+      "why": "A person with hydatid disease carries only the larval cyst; the egg-laying adult tapeworm lives in the dog, so there are no eggs in human stool.",
+      "if_right": "a tapeworm whose adult lives in the human intestine, such as Taenia from undercooked meat"
+     },
+     {
+      "choice": 2,
+      "why": "Pinworm adults live in the cecum, but females lay eggs on the perianal skin at night, so the scotch tape test, not stool O&P, finds them.",
+      "if_right": "a worm whose females lay eggs inside the bowel lumen rather than on the perianal skin"
+     },
+     {
+      "choice": 4,
+      "why": "Trichinella larvae encyst in striated muscle; diagnosis is serum antibody or muscle biopsy, not eggs in stool.",
+      "if_right": "a worm that matures into egg-laying adults in the gut instead of encysting in muscle"
+     }
+    ],
+    "slides": {
+     "stem": [
+      30,
+      44,
+      17,
+      24,
+      49
+     ],
+     "answer": [
+      30,
+      61
+     ],
+     "distractors": [
+      45,
+      17,
+      25,
+      49
+     ]
+    },
+    "deck": "36 Parasitology II"
+   },
+   "figures": []
+  },
+  {
+   "id": "miid2-w07-lec36-q21",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 36 slides",
+   "stem": "A 45-year-old man from a region where lymphatic filariasis is common and onchocerciasis does not occur has had progressive swelling of his left leg for 8 years, now with thickened skin. He has no itching and no eye symptoms. A blood smear drawn at 11 PM shows microfilariae, and an antifilarial antibody test is positive. He is treated with diethylcarbamazine (DEC). The clinician explains that DEC kills both microfilariae and adult worms, and the patient asks whether his leg will finally go back to its old size once the worms are gone.\n\nSix months after successful treatment, which pair of findings is most likely?",
+   "choices": [
+    "Microfilariae on a night smear; the leg back to its normal size",
+    "No microfilariae on a night smear; the leg back to its normal size",
+    "No microfilariae in blood, but microfilariae now found on skin snip",
+    "Microfilariae on a night smear but none on a smear taken at midday",
+    "No microfilariae on a night smear; the leg still as swollen"
+   ],
+   "answer": 4,
+   "evidence": [],
+   "explain": {
+    "html": "<p>In lymphatic filariasis (<i>Wuchereria bancrofti</i>, Brugia), mosquitoes transmit larvae, <b>adults live in the lymphatics</b>, and microfilariae circulate in the <b>blood at night</b>. Most infected people have no symptoms, but in about a third the lymphatics are damaged, and <b>over many years</b> lymphedema and elephantiasis develop, mainly in the legs. Diagnosis is a night blood smear or antifilarial antibody; treatment is <b>DEC when onchocerciasis is absent</b>, or albendazole plus ivermectin when it is present. Antihelminthics <b>do not reverse damage to the lymphatics</b>.</p><p>For this man, success means the parasite is gone, so the night smear becomes negative. The leg, though, reflects 8 years of lymphatic damage that persists after the worms die, so it stays swollen. The clinician's point that DEC kills adult worms is true but does not change that, and day versus night or skin findings belong to Loa loa and Onchocerca.</p>",
+    "table": "<table><tr><th>Filaria</th><th>Vector</th><th>Adults</th><th>Microfilariae</th></tr><tr><td><i>Wuchereria</i>, Brugia</td><td>Mosquito</td><td>Lymphatics</td><td>Blood at night</td></tr><tr><td><i>Loa loa</i></td><td>Chrysops fly</td><td>Subcutaneous, moving</td><td>Blood during the day</td></tr><tr><td><i>Onchocerca</i></td><td>Black fly</td><td>Subcutaneous nodules</td><td>Skin</td></tr></table>",
+    "why": [
+     "After successful DEC the blood should be cleared of microfilariae, and killing worms would not shrink the leg anyway.",
+     "The smear does clear, but the swelling comes from damaged lymphatics, which killing the worms does not repair.",
+     "Microfilariae in skin are Onchocerca, which is absent here; Wuchereria microfilariae do not move into the skin after treatment.",
+     "Wuchereria microfilariae circulate at night regardless of treatment; the day versus night contrast describes Loa loa versus Wuchereria, not a treatment response.",
+     ""
+    ],
+    "takeaway": "In lymphatic filariasis, DEC clears Wuchereria or Brugia (night smear turns negative) but does not reverse lymphedema from years of lymphatic damage by adult worms.",
+    "topic": "Lymphatic filariasis: what successful treatment can and cannot fix",
+    "subject": "Microbiology",
+    "objective": "Relate where each filarial worm lives, when its microfilariae appear, and what treatment can and cannot fix.",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "After successful DEC the blood should be cleared of microfilariae, and killing worms would not shrink the leg anyway.",
+      "if_right": "a failed treatment in a disease whose swelling depends on living worms rather than permanent lymphatic damage"
+     },
+     {
+      "choice": 1,
+      "why": "The smear does clear, but the swelling comes from damaged lymphatics, which killing the worms does not repair.",
+      "if_right": "a patient treated early, before the lymphatics were damaged, or a disease where symptoms come only from live worms"
+     },
+     {
+      "choice": 2,
+      "why": "Microfilariae in skin are Onchocerca, which is absent here; Wuchereria microfilariae do not move into the skin after treatment.",
+      "if_right": "a patient with itching and eye inflammation from a black fly region (Onchocerca)"
+     },
+     {
+      "choice": 3,
+      "why": "Wuchereria microfilariae circulate at night regardless of treatment; the day versus night contrast describes Loa loa versus Wuchereria, not a treatment response.",
+      "if_right": "a comparison of a night-periodic Wuchereria infection with a day-periodic Loa loa infection"
+     }
+    ],
+    "slides": {
+     "stem": [
+      58,
+      59,
+      60
+     ],
+     "answer": [
+      59,
+      60
+     ],
+     "distractors": [
+      60,
+      60,
+      56,
+      53
+     ]
+    },
+    "deck": "36 Parasitology II"
+   },
+   "figures": []
   }
  ]
 }

@@ -1353,6 +1353,145 @@
      "caption": "Lecture 26 slides (2025-26) · Page 57"
     }
    ]
+  },
+  {
+   "id": "miid2-w05-lec26-q19",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 26 slides",
+   "stem": "A 34-year-old man who injects drugs has tricuspid valve endocarditis. Blood cultures grow Gram-positive cocci in clusters, resistant to oxacillin and cefazolin, carrying the mecA gene. The laboratory also reports that the isolate produces penicillinase. He is treated with vancomycin. On day 6 his creatinine rises from 0.9 to 2.1 mg/dL (normal 0.6 to 1.2). A resident proposes switching to piperacillin-tazobactam, reasoning that tazobactam will block the penicillinase and that the combination has broad coverage.\n\nWhich prediction about the resident's plan is correct?",
+   "choices": [
+    "It will fail, since this drug has no activity against Gram-positive cocci",
+    "It will work, since the combination binds the altered penicillin-binding protein",
+    "It will work, since tazobactam inactivates the staphylococcal penicillinase",
+    "It will fail, since the penicillinase also hydrolyzes the tazobactam itself",
+    "It will fail, since the organism's target protein does not bind the drug"
+   ],
+   "answer": 4,
+   "evidence": [],
+   "explain": {
+    "html": "<p>Beta-lactams kill by binding <b>penicillin-binding proteins</b> (transpeptidases) and blocking peptidoglycan cross-linking, and bacteria resist them in two different ways. A <b>beta-lactamase</b> destroys the drug; that is answered by bulky side chains (nafcillin, oxacillin) or by a <b>beta-lactamase inhibitor</b> (clavulanate, sulbactam, tazobactam), which irreversibly binds the enzyme. MRSA instead carries <b>mecA</b>, which encodes an <b>altered PBP (PBP2a)</b> that beta-lactams cannot bind, so it resists all penicillins, cephalosporins and carbapenems. Ceftaroline is the exception because it binds PBP2a, and vancomycin and daptomycin work because they do not target PBPs at all.</p><p>This isolate is oxacillin resistant and mecA positive, so it is MRSA. The penicillinase on the report is the red herring: the isolate does make one, but the reason beta-lactams fail is the target, and an inhibitor cannot change the target. Piperacillin-tazobactam covers MSSA and streptococci, so its failure here is about the <b>mechanism of resistance</b>, which is why matching the drug to how the organism resists matters as much as matching it to the organism.</p>",
+    "table": "<table><tr><th>Resistance in <i>S. aureus</i></th><th>Mechanism</th><th>Beta-lactamase inhibitor helps?</th><th>What works</th></tr><tr><td>Penicillinase producer (MSSA)</td><td>Enzyme destroys penicillin</td><td>Yes</td><td>Nafcillin or oxacillin; beta-lactam with inhibitor</td></tr><tr><td>MRSA (mecA)</td><td>Altered PBP (PBP2a) the drug cannot bind</td><td>No</td><td>Vancomycin, daptomycin, ceftaroline</td></tr></table>",
+    "why": [
+     "Piperacillin-tazobactam does cover Gram-positive cocci (MSSA, streptococci); it fails here because of PBP2a.",
+     "Binding PBP2a is ceftaroline's unique property, not piperacillin-tazobactam's.",
+     "Inhibiting the penicillinase cannot help, because the beta-lactam still cannot bind PBP2a.",
+     "Tazobactam irreversibly binds the enzyme; the failure comes from the altered target, not from the enzyme destroying the inhibitor.",
+     ""
+    ],
+    "takeaway": "MRSA (mecA) resists beta-lactams through an altered PBP (PBP2a), so adding a beta-lactamase inhibitor does not restore activity; only ceftaroline among beta-lactams binds PBP2a.",
+    "topic": "MRSA resistance is an altered target, not an enzyme",
+    "subject": "Pharmacology",
+    "objective": "For each antimicrobial class/agent: Identify mechanism of action",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Piperacillin-tazobactam does cover Gram-positive cocci (MSSA, streptococci); it fails here because of PBP2a.",
+      "if_right": "an organism outside its spectrum, such as MRSA treated with aztreonam"
+     },
+     {
+      "choice": 1,
+      "why": "Binding PBP2a is ceftaroline's unique property, not piperacillin-tazobactam's.",
+      "if_right": "a switch to ceftaroline, the cephalosporin that binds PBP2a"
+     },
+     {
+      "choice": 2,
+      "why": "Inhibiting the penicillinase cannot help, because the beta-lactam still cannot bind PBP2a.",
+      "if_right": "a penicillinase-producing MSSA, where the enzyme is the only barrier"
+     },
+     {
+      "choice": 3,
+      "why": "Tazobactam irreversibly binds the enzyme; the failure comes from the altered target, not from the enzyme destroying the inhibitor.",
+      "if_right": "an organism whose beta-lactamase is not inhibited by tazobactam, with a normal PBP"
+     }
+    ],
+    "slides": {
+     "stem": [
+      13,
+      62
+     ],
+     "answer": [
+      20,
+      62
+     ],
+     "distractors": [
+      16,
+      31,
+      15,
+      15
+     ]
+    },
+    "deck": "27 Antibiotics I"
+   },
+   "figures": []
+  },
+  {
+   "id": "miid2-w05-lec26-q20",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 26 slides",
+   "stem": "A 74-year-old woman with a long-term urinary catheter is admitted with fever 39.2 C (102.6 F), flank pain and hypotension. She had an MRSA skin infection 2 years ago. She is started on cefepime, which the team chose for strong coverage of Gram-positive cocci and Gram-negative rods, including Pseudomonas. Her creatinine is 0.8 mg/dL (normal 0.6 to 1.2). After 72 hours she is still febrile. Urine and blood cultures both grow Gram-positive cocci in chains, identified as Enterococcus faecalis, susceptible to ampicillin and vancomycin.\n\nWhich change in therapy is most appropriate?",
+   "choices": [
+    "Switch to ampicillin",
+    "Switch to ceftaroline",
+    "Increase the cefepime dose",
+    "Add aztreonam to cefepime",
+    "Switch to ertapenem"
+   ],
+   "answer": 0,
+   "evidence": [],
+   "explain": {
+    "html": "<p>Cephalosporins follow a Gram-positive to Gram-negative shift across generations, with fourth and fifth generations strong against both Gram-positive cocci and Gram-negative rods, yet one gap runs through the entire class: <b>no reliable Enterococcus coverage</b>. Ceftaroline gains MRSA activity by binding PBP2a, but it remains a cephalosporin with the same enterococcal gap. Among other beta-lactams, <b>ertapenem</b> does not cover Enterococcus (imipenem and meropenem cover ampicillin-susceptible strains), and <b>aztreonam</b> has no Gram-positive activity. <b>Ampicillin is the drug of choice for serious <i>E. faecalis</i> infections</b>, which is why it is paired with cephalosporins when Enterococcus or Listeria must be covered.</p><p>This patient's catheter-associated urosepsis grew <i>E. faecalis</i>, and she stayed febrile on cefepime with normal kidney function. The prior MRSA history and the phrase \"strong Gram-positive coverage\" are the red herrings that pull toward ceftaroline. The decisive step is remembering that <b>breadth is not completeness</b>: the switch is to ampicillin, to which this isolate is susceptible.</p>",
+    "table": "<table><tr><th>Agent</th><th>Reliable <i>E. faecalis</i> activity?</th></tr><tr><td>Ampicillin</td><td>Yes; drug of choice for serious infection</td></tr><tr><td>All cephalosporins (1st to 5th generation)</td><td>No</td></tr><tr><td>Ertapenem</td><td>No (imipenem and meropenem cover ampicillin-susceptible strains)</td></tr><tr><td>Aztreonam</td><td>No Gram-positive activity</td></tr></table>",
+    "why": [
+     "",
+     "Ceftaroline covers MRSA but, like all cephalosporins, not Enterococcus reliably.",
+     "The problem is a class-wide spectrum gap, and more cefepime only raises the risk of encephalopathy and seizures.",
+     "Aztreonam covers only Gram-negative bacteria, so it adds nothing against Enterococcus.",
+     "Ertapenem is the carbapenem that lacks Enterococcus, Pseudomonas and Acinetobacter coverage."
+    ],
+    "takeaway": "No cephalosporin, including cefepime and ceftaroline, reliably covers Enterococcus; ampicillin is the drug of choice for serious E. faecalis infection.",
+    "topic": "The cephalosporin gap: Enterococcus",
+    "subject": "Pharmacology",
+    "objective": "Recommend appropriate antibiotic therapy based on site of infection and suspected or actual bacterial pathogens",
+    "rows": [
+     {
+      "choice": 1,
+      "why": "Ceftaroline covers MRSA but, like all cephalosporins, not Enterococcus reliably.",
+      "if_right": "an MRSA bacteremia or complicated infection"
+     },
+     {
+      "choice": 2,
+      "why": "The problem is a class-wide spectrum gap, and more cefepime only raises the risk of encephalopathy and seizures.",
+      "if_right": "a susceptible organism with low drug levels in a patient who was underdosed"
+     },
+     {
+      "choice": 3,
+      "why": "Aztreonam covers only Gram-negative bacteria, so it adds nothing against Enterococcus.",
+      "if_right": "a serious Gram-negative infection in a patient with true IgE-mediated beta-lactam allergy"
+     },
+     {
+      "choice": 4,
+      "why": "Ertapenem is the carbapenem that lacks Enterococcus, Pseudomonas and Acinetobacter coverage.",
+      "if_right": "an ESBL-producing Enterobacterales infection without Pseudomonas or Enterococcus"
+     }
+    ],
+    "slides": {
+     "stem": [
+      25,
+      30
+     ],
+     "answer": [
+      14
+     ],
+     "distractors": [
+      31,
+      30,
+      46,
+      41
+     ]
+    },
+    "deck": "27 Antibiotics I"
+   },
+   "figures": []
   }
  ]
 }

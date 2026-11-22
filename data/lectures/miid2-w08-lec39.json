@@ -1073,6 +1073,194 @@
      "caption": "Lecture 39 slides (2025-26) · Page 52"
     }
    ]
+  },
+  {
+   "id": "miid2-w08-lec39-q15",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 39 slides",
+   "stem": "A 46-year-old man with HIV and resistance to several drug classes is switched to a new regimen that includes maraviroc, a CCR5 antagonist. Before the switch, the original phenotypic tropism assay reported CCR5-tropic virus. Pill counts confirm full adherence and he takes no interacting drugs. A genotypic resistance assay of protease and reverse transcriptase at 16 weeks shows the same mutations as before the switch, with no new ones.\n\n[[labs 0]]\n\nWhich of the following best explains this course?",
+   "choices": [
+    "New reverse transcriptase mutations that reduce maraviroc activity",
+    "Outgrowth of a minor CXCR4-using population the assay missed",
+    "A CCR5 delta32 deletion arising in his own CD4 T cells",
+    "Missed doses that let drug-susceptible virus keep replicating",
+    "Drug resistance transmitted to him at his initial infection"
+   ],
+   "answer": 1,
+   "evidence": [],
+   "explain": {
+    "html": "<p>HIV enters cells through CD4 plus a coreceptor, either <b>CCR5 (R5 virus) or CXCR4 (X4 virus)</b>, and a CCR5 antagonist such as maraviroc works only against virus that depends on CCR5. Tropism assays decide whether that drug can be used. The original <b>Trofile phenotypic assay detects minor X4 species only at about 5 to 10%</b>, whereas Trofile-ES detects them at about 0.3 to 1%. When a drug suppresses the majority population but not a minority, that <b>preexisting resistant quasispecies is selected</b> and grows out, the same principle that drives drug resistance in general. <b>Emergence of X4 virus is followed by faster CD4 decline</b>.</p><p>In this man the viral load fell after the switch and then rebounded while he was fully adherent, his CD4 count dropped from 330 to 190, and the protease and reverse transcriptase genotype was unchanged. Those facts point away from new PR/RT mutations, nonadherence, or transmitted resistance and toward an <b>X4 minority missed by the less sensitive assay</b> that the CCR5 blockade selected.</p>",
+    "table": "<table><tr><th>Assay</th><th>What it reads</th><th>Limit</th></tr><tr><td>Genotypic resistance (PR/RT)</td><td>Mutations in protease and reverse transcriptase genes</td><td>Says nothing about coreceptor use</td></tr><tr><td>Original Trofile (phenotypic tropism)</td><td>Pseudovirus entry into CCR5 or CXCR4 indicator cells</td><td>Detects minor X4 virus only at about 5 to 10%</td></tr><tr><td>Trofile-ES</td><td>Same, more sensitive</td><td>Detects X4 virus at about 0.3 to 1%</td></tr></table>",
+    "why": [
+     "Maraviroc targets the host CCR5 coreceptor, not reverse transcriptase, and the genotype shows no new mutations.",
+     "",
+     "CCR5 delta32 is an inherited host deletion that protects against R5 virus; it is not acquired during therapy.",
+     "Pill counts confirm full adherence, so the rebound did not come from missed doses.",
+     "Transmitted resistance is present from the start and would not cause a new rebound with an unchanged genotype after a switch."
+    ],
+    "takeaway": "Phenotypic tropism assays have limited sensitivity for minor CXCR4-using variants; a CCR5 antagonist selects those variants, leading to viral rebound and accelerated CD4 decline.",
+    "topic": "Tropism assay sensitivity and selection of minor X4 virus",
+    "subject": "Microbiology",
+    "objective": "To have a basic understanding of HIV drug resistance & viral tropism testing",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Maraviroc targets the host CCR5 coreceptor, not reverse transcriptase, and the genotype shows no new mutations.",
+      "if_right": "rebound on an NNRTI-based regimen with a new reverse transcriptase mutation on genotyping"
+     },
+     {
+      "choice": 2,
+      "why": "CCR5 delta32 is an inherited host deletion that protects against R5 virus; it is not acquired during therapy.",
+      "if_right": "a person with repeated exposures who stays uninfected by R5 virus"
+     },
+     {
+      "choice": 3,
+      "why": "Pill counts confirm full adherence, so the rebound did not come from missed doses.",
+      "if_right": "rebound in a patient who admits skipping doses for weeks"
+     },
+     {
+      "choice": 4,
+      "why": "Transmitted resistance is present from the start and would not cause a new rebound with an unchanged genotype after a switch.",
+      "if_right": "a treatment-naive patient whose baseline genotype already shows resistance mutations"
+     }
+    ],
+    "slides": {
+     "stem": [
+      53,
+      51,
+      41
+     ],
+     "answer": [
+      53,
+      41,
+      51
+     ],
+     "distractors": [
+      46,
+      14,
+      41,
+      42
+     ]
+    },
+    "deck": "39 HIV Diagnosis and Monitoring"
+   },
+   "figures": [],
+   "labs": [
+    [
+     [
+      "",
+      "Before switch",
+      "4 weeks",
+      "16 weeks"
+     ],
+     [
+      "HIV-1 RNA (copies/mL)",
+      "68,000",
+      "900",
+      "41,000"
+     ],
+     [
+      "CD4 count (/mm3)",
+      "310",
+      "330",
+      "190"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "miid2-w08-lec39-q16",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 39 slides",
+   "stem": "A 37-year-old woman with newly diagnosed HIV infection starts a guideline-recommended three-drug regimen. Her baseline genotype shows drug-sensitive virus. She uses a pill-reminder app, and refill records show no missed doses. She has had no recent illness or vaccination. She is worried because her viral load is still detectable and asks whether the regimen is already failing.\n\n[[labs 0]]\n\nWhich of the following is the most appropriate interpretation and plan?",
+   "choices": [
+    "Early virologic failure; send a genotypic resistance assay now",
+    "Possible switch in tropism; send a phenotypic tropism assay now",
+    "Expected response; continue and recheck viral load in 3 months",
+    "Ongoing low-level replication; switch to a new anchor drug now",
+    "Inadequate potency; add a fourth drug from a different class today"
+   ],
+   "answer": 2,
+   "evidence": [],
+   "explain": {
+    "html": "<p>Plasma HIV RNA is the main marker of treatment response. Guidelines call for <b>two viral load tests at baseline</b>, a test <b>4 to 8 weeks after starting or changing therapy</b>, and then testing <b>every 3 to 4 months</b>, with the goal of lowering viral load below the detection limit of current tests. In a typical responder, the viral load falls steeply in the first month and reaches an undetectable level, such as under 20 copies/mL, by about 4 months, while the CD4 count rises. Resistance testing is recommended at <b>regimen failure</b>, meaning persistent or rebounding viremia.</p><p>This woman's two baseline values (96,400 and 81,900) show normal variation between tests, and her 4-week value of 260 copies/mL is a <b>more than 300-fold fall</b> with a rising CD4 count. With full adherence and drug-sensitive virus, that is the expected response, not failure. She should continue the regimen and have the next viral load at the routine interval, expecting it to be undetectable.</p>",
+    "table": "<table><tr><th>Time point</th><th>Viral load testing</th><th>What to expect</th></tr><tr><td>Baseline</td><td>Two tests</td><td>Values vary somewhat between tests</td></tr><tr><td>4 to 8 weeks on ART</td><td>One test</td><td>Large fall, may still be detectable</td></tr><tr><td>Every 3 to 4 months</td><td>Ongoing</td><td>Below the detection limit (for example, under 20 copies/mL)</td></tr><tr><td>Failure</td><td>Persistent or rebound viremia</td><td>Check adherence; genotypic resistance testing</td></tr></table>",
+    "why": [
+     "A steep fall to a low detectable level at 4 weeks is a response; genotyping is for persistent or rebounding viremia.",
+     "Tropism testing is done before starting a CCR5 antagonist, and nothing here suggests faster CD4 loss.",
+     "",
+     "Switching the anchor drug responds to failure, which a falling viral load and rising CD4 do not show.",
+     "Her complete regimen is working as expected, so there is no potency problem to fix with a fourth drug."
+    ],
+    "takeaway": "After starting ART, viral load is checked at 4 to 8 weeks and then every 3 to 4 months; a large early fall that is still detectable is expected, and resistance testing is for persistent or rebound viremia.",
+    "topic": "Interpreting the early viral load response to ART",
+    "subject": "Microbiology",
+    "objective": "To describe current recommendations for HIV testing and the use of laboratory markers in patient management",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "A steep fall to a low detectable level at 4 weeks is a response; genotyping is for persistent or rebounding viremia.",
+      "if_right": "a viral load that stays high or rises again after initial suppression"
+     },
+     {
+      "choice": 1,
+      "why": "Tropism testing is done before starting a CCR5 antagonist, and nothing here suggests faster CD4 loss.",
+      "if_right": "a patient about to start maraviroc, or a falling CD4 count with rebounding viremia on a CCR5 antagonist"
+     },
+     {
+      "choice": 3,
+      "why": "Switching the anchor drug responds to failure, which a falling viral load and rising CD4 do not show.",
+      "if_right": "confirmed virologic failure with a genotype showing resistance to the current anchor drug"
+     },
+     {
+      "choice": 4,
+      "why": "Her complete regimen is working as expected, so there is no potency problem to fix with a fourth drug.",
+      "if_right": "a viral load that barely falls despite documented adherence and therapeutic drug levels"
+     }
+    ],
+    "slides": {
+     "stem": [
+      33,
+      34,
+      75
+     ],
+     "answer": [
+      33,
+      34,
+      75
+     ],
+     "distractors": [
+      44,
+      32,
+      38,
+      41
+     ]
+    },
+    "deck": "39 HIV Diagnosis and Monitoring"
+   },
+   "figures": [],
+   "labs": [
+    [
+     [
+      "",
+      "Baseline test 1",
+      "Baseline test 2",
+      "4 weeks on ART"
+     ],
+     [
+      "HIV-1 RNA (copies/mL)",
+      "96,400",
+      "81,900",
+      "260"
+     ],
+     [
+      "CD4 count (/mm3)",
+      "412",
+      "376",
+      "455"
+     ]
+    ]
+   ]
   }
  ]
 }

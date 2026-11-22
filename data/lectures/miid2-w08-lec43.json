@@ -902,6 +902,76 @@
      "caption": "Lecture 43 slides (2025-26) · Page 55"
     }
    ]
+  },
+  {
+   "id": "miid2-w08-lec43-q13",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 43 slides",
+   "stem": "A 29-year-old veterinary student spent a weekend helping with lambing at a sheep farm. Ten days later he develops abrupt fever to 39.6 C (103.3 F), severe headache, and a dry cough; today is day 3 of his illness. Chest x-ray shows bilateral patchy infiltrates. AST is 92 U/L (normal 10 to 40) and ALT is 104 U/L (normal 7 to 56). Sputum Gram stain shows no organisms, and routine sputum and blood cultures show no growth at 48 hours. A Coxiella IgG by indirect immunofluorescence, sent this morning, is negative.\n\nWhich test is most likely to confirm the diagnosis at this point in his illness?",
+   "choices": [
+    "Fourfold rise in complement-fixing psittacosis titer",
+    "Keep routine blood cultures incubating 2 more weeks",
+    "Sputum culture on BCYE agar after warning the lab",
+    "None, since the negative IgG excludes the diagnosis",
+    "Coxiella PCR, sent now early in the illness"
+   ],
+   "answer": 4,
+   "evidence": [],
+   "explain": {
+    "html": "<p><i>Coxiella burnetii</i>, the cause of Q fever, is an intracellular rickettsia with an <b>endospore-like form resistant to desiccation, heat and sunlight</b>. Infected animals shed the largest numbers in the <b>placenta</b>, so infection usually follows <b>inhalation near a birthing animal</b>, or less often unpasteurized milk. Acute illness is usually an atypical pneumonia with bilateral infiltrates, fever and headache, often with granulomatous hepatitis.</p><p>The organism is <b>not cultured by usual methods</b>, which is how it earned the name query fever. Diagnosis therefore uses <b>PCR early in illness</b> and <b>serology later (more than 1 week)</b>, looking for a rise in Coxiella IgG by indirect immunofluorescence. This student is on day 3 after lambing exposure, so a negative IgG is expected and routine cultures are irrelevant; PCR is the test that can confirm the diagnosis now.</p>",
+    "table": "<table><tr><th>Zoonosis</th><th>Typical exposure</th><th>How it is confirmed</th></tr><tr><td>Q fever</td><td>Birthing farm animals</td><td>PCR early; IgG rise after 1 week</td></tr><tr><td>Psittacosis</td><td>Birds</td><td>Fourfold rise in complement-fixing titer</td></tr><tr><td>Tularemia</td><td>Rabbits, ticks, lawn mowing</td><td>Serology; culture only with laboratory warned</td></tr><tr><td>Acute brucellosis</td><td>Livestock, unpasteurized dairy</td><td>Blood or marrow culture, IgM</td></tr></table>",
+    "why": [
+     "Psittacosis is acquired from birds, and his exposure was to birthing sheep.",
+     "Coxiella does not grow on usual culture systems, so extending incubation adds nothing.",
+     "Culture on BCYE or chocolate agar with a warning to the laboratory is the tularemia approach.",
+     "Coxiella antibodies rise only after the first week, so a day 3 negative is expected.",
+     ""
+    ],
+    "takeaway": "Q fever is diagnosed by PCR early and by rising Coxiella IgG after the first week; the organism is not grown on routine culture.",
+    "topic": "Q fever: PCR early, serology later",
+    "subject": "Microbiology",
+    "objective": "Understand the microbiology and clinical features of multisystem bacterial zoonotic infections",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Psittacosis is acquired from birds, and his exposure was to birthing sheep.",
+      "if_right": "a parakeet breeder with atypical pneumonia and splenomegaly"
+     },
+     {
+      "choice": 1,
+      "why": "Coxiella does not grow on usual culture systems, so extending incubation adds nothing.",
+      "if_right": "a slaughterhouse worker with suspected acute brucellosis"
+     },
+     {
+      "choice": 2,
+      "why": "Culture on BCYE or chocolate agar with a warning to the laboratory is the tularemia approach.",
+      "if_right": "a landscaper with pneumonia after mowing over a rabbit nest"
+     },
+     {
+      "choice": 3,
+      "why": "Coxiella antibodies rise only after the first week, so a day 3 negative is expected.",
+      "if_right": "a negative IgG and negative PCR well into the convalescent period"
+     }
+    ],
+    "slides": {
+     "stem": [
+      32,
+      33
+     ],
+     "answer": [
+      34,
+      32
+     ],
+     "distractors": [
+      49,
+      32,
+      28,
+      34
+     ]
+    },
+    "deck": "43 Zoonoses"
+   },
+   "figures": []
   }
  ]
 }

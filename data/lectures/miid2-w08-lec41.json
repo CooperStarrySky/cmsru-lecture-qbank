@@ -1246,6 +1246,149 @@
      ]
     ]
    ]
+  },
+  {
+   "id": "miid2-w08-lec41-q17",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 41 slides",
+   "stem": "A 36-year-old man with untreated HIV infection (CD4 count 22/mm3) was diagnosed 5 days ago with cryptococcal meningoencephalitis and is receiving amphotericin B plus flucytosine. A head CT before his first lumbar puncture showed no mass lesion. The opening pressure was 34 cm H2O (normal 6 to 20), and the cerebrospinal fluid white cell count was 3/mm3 (normal 0 to 5). Over the past 2 days his headache has steadily worsened and he has become more lethargic. Temperature is 37.9 C (100.2 F), and he has no new focal deficits. A resident worries that removing more fluid could make him herniate.\n\nWhich next step is most likely to relieve his symptoms and lower his risk of death?",
+   "choices": [
+    "Repeat lumbar puncture to drain fluid and lower the pressure",
+    "Switch now from induction to fluconazole consolidation",
+    "Add prednisone to calm the inflammation around his brain",
+    "Add pyrimethamine and sulfadiazine for brain toxoplasmosis",
+    "Avoid any further lumbar puncture because his pressure is high"
+   ],
+   "answer": 0,
+   "evidence": [],
+   "explain": {
+    "html": "<p>In cryptococcal meningoencephalitis the <b>hallmark finding is elevated intracranial pressure</b>, measured as the opening pressure on lumbar puncture. Because the yeast provokes little inflammatory response, the cerebrospinal fluid cell count is often low, and a <b>low cell count is a negative prognostic sign</b> rather than reassurance. Treatment is induction with amphotericin B plus flucytosine for 2 weeks, then fluconazole consolidation, and <b>management of increased intracranial pressure</b> runs alongside it: <b>repeat lumbar puncture alleviates symptomatic headache and decreases the risk of mortality</b>.</p><p>The separate rule to image the head before a lumbar puncture in HIV exists because several opportunistic infections cause <b>mass lesions</b>, and a pressure change in the setting of mass effect can precipitate herniation. This patient's CT showed <b>no mass lesion</b>, his opening pressure was 34 cm H<sub>2</sub>O, and his headache and lethargy are worsening on correct therapy, so the rising pressure is the problem to treat. Draining fluid by repeat lumbar puncture is the step that relieves symptoms and improves survival.</p>",
+    "table": "<table><tr><th>Finding</th><th>What it means in cryptococcal meningitis</th></tr><tr><td>High opening pressure</td><td>Hallmark of disease; treated with repeat lumbar puncture</td></tr><tr><td>Low CSF cell count</td><td>Little inflammatory response; a negative prognostic sign</td></tr><tr><td>Mass lesion on CT</td><td>The situation where lumbar puncture risks herniation</td></tr><tr><td>Positive cryptococcal antigen</td><td>Highly specific for infection</td></tr></table>",
+    "why": [
+     "",
+     "Consolidation fluconazole starts after 2 weeks of induction, and changing the antifungal does nothing for raised pressure.",
+     "Steroids are the add-on for Pneumocystis pneumonia with significant oxygen impairment, and this meningitis shows almost no inflammation.",
+     "Toxoplasmosis produces multiple ring-enhancing lesions with focal deficits, and his CT showed no mass and his exam no new focal signs.",
+     "His CT showed no mass lesion, so the herniation risk that justifies imaging first does not apply, and high cryptococcal pressure is treated by draining fluid."
+    ],
+    "takeaway": "Cryptococcal meningitis raises intracranial pressure; when imaging shows no mass lesion, serial lumbar punctures relieve headache and reduce mortality.",
+    "topic": "Raised intracranial pressure in cryptococcal meningitis",
+    "subject": "Microbiology",
+    "objective": "Describe the presentation, diagnosis, and treatment of the major opportunistic infections in HIV.",
+    "rows": [
+     {
+      "choice": 1,
+      "why": "Consolidation fluconazole starts after 2 weeks of induction, and changing the antifungal does nothing for raised pressure.",
+      "if_right": "a patient who has completed 2 weeks of amphotericin plus flucytosine and is improving"
+     },
+     {
+      "choice": 2,
+      "why": "Steroids are the add-on for Pneumocystis pneumonia with significant oxygen impairment, and this meningitis shows almost no inflammation.",
+      "if_right": "a patient with Pneumocystis pneumonia and severe hypoxia starting high-dose TMP-SMX"
+     },
+     {
+      "choice": 3,
+      "why": "Toxoplasmosis produces multiple ring-enhancing lesions with focal deficits, and his CT showed no mass and his exam no new focal signs.",
+      "if_right": "multiple ring-enhancing lesions with a new hemiparesis and positive Toxoplasma IgG"
+     },
+     {
+      "choice": 4,
+      "why": "His CT showed no mass lesion, so the herniation risk that justifies imaging first does not apply, and high cryptococcal pressure is treated by draining fluid.",
+      "if_right": "a new CT showing a ring-enhancing mass with surrounding edema and shift"
+     }
+    ],
+    "slides": {
+     "stem": [
+      19,
+      20,
+      22
+     ],
+     "answer": [
+      23,
+      20
+     ],
+     "distractors": [
+      23,
+      17,
+      26,
+      22
+     ]
+    },
+    "deck": "41 Opportunistic Infections in HIV"
+   },
+   "figures": []
+  },
+  {
+   "id": "miid2-w08-lec41-q18",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 41 slides",
+   "stem": "A 47-year-old woman with HIV infection has taken antiretroviral therapy for 6 years; her CD4 count is 610/mm3 and her viral load is undetectable. She has had 3 days of fever, chills, and cough productive of rust-colored sputum. Temperature is 39.2 C (102.6 F), and crackles are heard over the right lower chest. Oxygen saturation is 96% on room air and stays at 95% after she walks the hallway. Chest x-ray shows dense consolidation of the right lower lobe. Serum lactate dehydrogenase is mildly elevated. A respiratory PCR panel run on induced sputum is positive for Pneumocystis jirovecii.\n\nWhich interpretation of the Pneumocystis result is most accurate?",
+   "choices": [
+    "Reactivation of a latent infection that her ART failed to control",
+    "Likely colonization, since PCR cannot separate it from disease",
+    "It confirms Pneumocystis pneumonia that needs high-dose TMP-SMX",
+    "False positive, since this fungus is found only in AIDS patients",
+    "It confirms severe Pneumocystis disease, so prednisone is needed"
+   ],
+   "answer": 1,
+   "evidence": [],
+   "explain": {
+    "html": "<p><i>Pneumocystis jirovecii</i> is a ubiquitous inhaled fungus that <b>can colonize the airways without causing disease</b>. Disease, PCP, appears when the <b>CD4 count falls below 200</b>, and it is a subacute illness over weeks with nonproductive cough, a diffuse interstitial infiltrate, and the hallmark <b>precipitous drop in oxygenation with exertion</b>. Diagnosis rests on seeing the organism in bronchoalveolar lavage with silver or Wright-Giemsa stains, because <b>PCR is not able to distinguish active infection from colonization</b>, and LDH is usually elevated but <b>not specific</b>.</p><p>This woman has a CD4 count of 610 on suppressive therapy, a short illness with rust-colored productive sputum, dense lobar consolidation, and oxygen saturation that holds with walking. That picture fits a bacterial pneumonia, which people with HIV face at any CD4 level, not PCP. The positive PCR is therefore best read as colonization, and treating it as PCP would miss the real diagnosis.</p>",
+    "table": "<table><tr><th>Feature</th><th>Pneumocystis pneumonia</th><th>This patient</th></tr><tr><td>CD4 count</td><td>Below 200</td><td>610, on ART</td></tr><tr><td>Course and cough</td><td>Subacute over weeks, nonproductive</td><td>3 days, productive</td></tr><tr><td>Oxygenation</td><td>Drops sharply with exertion</td><td>Holds with walking</td></tr><tr><td>Chest x-ray</td><td>Diffuse bilateral interstitial</td><td>Lobar consolidation</td></tr></table>",
+    "why": [
+     "Her ART is effective, and the Pneumocystis result is explained by colonization rather than by failure of immune control.",
+     "",
+     "PCR alone cannot establish active PCP, and her CD4 count, preserved oxygenation, and lobar consolidation argue against it.",
+     "Pneumocystis is ubiquitous and colonizes people without disease, so a positive result is expected rather than an error.",
+     "Prednisone is added only when PCP causes significant oxygen impairment, and she has neither PCP nor hypoxia."
+    ],
+    "takeaway": "Pneumocystis PCR cannot distinguish airway colonization from PCP; PCP needs a CD4 count below 200 and the matching subacute hypoxic interstitial picture.",
+    "topic": "Pneumocystis PCR: colonization versus disease",
+    "subject": "Microbiology",
+    "objective": "Describe the presentation, diagnosis, and treatment of the major opportunistic infections in HIV.",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Her ART is effective, and the Pneumocystis result is explained by colonization rather than by failure of immune control.",
+      "if_right": "a detectable viral load with a CD4 count that has fallen below 200"
+     },
+     {
+      "choice": 2,
+      "why": "PCR alone cannot establish active PCP, and her CD4 count, preserved oxygenation, and lobar consolidation argue against it.",
+      "if_right": "CD4 below 200 with subacute dry cough, exertional desaturation, and cysts on silver-stained lavage"
+     },
+     {
+      "choice": 3,
+      "why": "Pneumocystis is ubiquitous and colonizes people without disease, so a positive result is expected rather than an error.",
+      "if_right": "a result that conflicts with a repeat test run on the same specimen"
+     },
+     {
+      "choice": 4,
+      "why": "Prednisone is added only when PCP causes significant oxygen impairment, and she has neither PCP nor hypoxia.",
+      "if_right": "confirmed PCP with marked hypoxia on room air"
+     }
+    ],
+    "slides": {
+     "stem": [
+      9,
+      11,
+      14,
+      15
+     ],
+     "answer": [
+      12,
+      16
+     ],
+     "distractors": [
+      3,
+      17,
+      12,
+      17
+     ]
+    },
+    "deck": "41 Opportunistic Infections in HIV"
+   },
+   "figures": []
   }
  ]
 }

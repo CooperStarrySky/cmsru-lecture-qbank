@@ -1146,6 +1146,147 @@
      "caption": "Lecture 27 slides (2025-26) · Page 41"
     }
    ]
+  },
+  {
+   "id": "miid2-w05-lec27-q16",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 27 slides",
+   "stem": "A new oral antibacterial, drug X, inhibits DNA gyrase and topoisomerase IV. It is nearly completely absorbed, has a large volume of distribution, and penetrates lung, bone and abdominal tissue well. It is cleared mainly by hepatic metabolism; less than a fifth of each dose appears unchanged in the urine. In vitro it is active against Streptococcus pneumoniae, Legionella, Bacteroides fragilis, Escherichia coli and Shigella, but not Pseudomonas. Five patients with normal kidney and liver function each have an infection whose isolate tests susceptible to drug X, and a resident argues its wide tissue penetration means it will work in all of them.\n\nWhich patient's infection is drug X least likely to cure?",
+   "choices": [
+    "A child with bloody diarrhea due to Shigella",
+    "A woman with acute cystitis due to E. coli",
+    "A man with an abdominal abscess due to Bacteroides and E. coli",
+    "A woman with Legionella pneumonia and diarrhea",
+    "A man with lobar pneumonia due to pneumococcus"
+   ],
+   "answer": 1,
+   "evidence": [],
+   "explain": {
+    "html": "<p>A drug that kills well in the laboratory is useless at a site it does not reach, so <b>site of infection</b> is part of choosing the drug. For the urinary tract, the deciding property is the <b>route of elimination</b>: renally excreted drugs are concentrated in urine, while drugs cleared by <b>hepatic metabolism</b> leave little active drug there. The fluoroquinolones show this inside one class: ciprofloxacin and levofloxacin are renally excreted and used for UTIs, but <b>moxifloxacin</b>, hepatically metabolized, <b>does not reach adequate urinary concentrations</b> and is not used for UTIs. Tetracyclines are another example, distributing widely except into CSF and urine.</p><p>Drug X behaves like moxifloxacin: excellent absorption and wide tissue penetration, strong Gram-positive, atypical and anaerobic activity, but hepatic clearance with under a fifth in urine. The resident's argument from <b>wide tissue penetration</b> is the red herring, since urine is a compartment filled by excretion, not by distribution. Every other patient's infection is in a tissue the drug reaches with an organism it covers, so <b>cystitis</b> is where it fails.</p>",
+    "table": "<table><tr><th>Property of drug X</th><th>What it predicts</th></tr><tr><td>Excellent oral absorption, wide tissue distribution</td><td>Good levels in blood, lung, abdomen</td></tr><tr><td>Cleared mainly by hepatic metabolism, under a fifth excreted unchanged in urine</td><td>Low urinary concentration: fails in the bladder</td></tr><tr><td>Strong Gram-positive, atypical and anaerobic activity</td><td>Covers pneumococcus, <i>Legionella</i>, <i>Bacteroides</i></td></tr><tr><td>Enterobacterales and GI pathogen activity</td><td>Covers <i>E. coli</i>, <i>Shigella</i></td></tr></table>",
+    "why": [
+     "Shigella is a covered GI pathogen and gut tissue levels do not depend on urinary excretion.",
+     "",
+     "Anaerobic and Enterobacterales activity with good abdominal penetration suit this abscess.",
+     "Drug X covers atypicals and reaches the lung, so Legionella pneumonia fits it.",
+     "Drug X penetrates lung and is active against pneumococcus, like the respiratory fluoroquinolones."
+    ],
+    "takeaway": "Drugs cleared mainly by hepatic metabolism (for example moxifloxacin) do not reach adequate urinary concentrations and should not be used for UTIs, even when the isolate is susceptible.",
+    "topic": "Route of elimination decides urinary efficacy",
+    "subject": "Pharmacology",
+    "objective": "Recommend appropriate antibiotic therapy based on site of infection and suspected or actual bacterial pathogens",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Shigella is a covered GI pathogen and gut tissue levels do not depend on urinary excretion.",
+      "if_right": "an organism outside the drug's spectrum, such as Pseudomonas"
+     },
+     {
+      "choice": 2,
+      "why": "Anaerobic and Enterobacterales activity with good abdominal penetration suit this abscess.",
+      "if_right": "a drug without anaerobic activity, such as ciprofloxacin or levofloxacin"
+     },
+     {
+      "choice": 3,
+      "why": "Drug X covers atypicals and reaches the lung, so Legionella pneumonia fits it.",
+      "if_right": "a drug without atypical coverage, such as a beta-lactam"
+     },
+     {
+      "choice": 4,
+      "why": "Drug X penetrates lung and is active against pneumococcus, like the respiratory fluoroquinolones.",
+      "if_right": "a drug with poor streptococcal activity, such as ciprofloxacin"
+     }
+    ],
+    "slides": {
+     "stem": [
+      10,
+      11
+     ],
+     "answer": [
+      10,
+      11
+     ],
+     "distractors": [
+      10,
+      11,
+      11,
+      10
+     ]
+    },
+    "deck": "28 Antibiotics II"
+   },
+   "figures": []
+  },
+  {
+   "id": "miid2-w05-lec27-q17",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 27 slides",
+   "stem": "In a laboratory study, two protein synthesis inhibitors that bind the same ribosomal subunit are tested against a Gram-negative rod. Drug A binds its target reversibly; while it is present, colony counts stay flat, and after the drug is washed out, growth resumes within an hour. Drug B binds its target irreversibly; colony counts fall about 1,000-fold, the fall is faster when a higher peak concentration is used, and growth stays suppressed for several hours after washout even though no measurable drug remains. Drug B is poorly absorbed from the gut. Drug A is well absorbed by mouth.\n\nDrug B most likely shares which additional property?",
+   "choices": [
+    "It causes a disulfiram-like reaction when alcohol is consumed",
+    "It inhibits hepatic CYP enzymes and raises other drug levels",
+    "It is synergistic with cell wall agents against enterococci",
+    "It causes serotonin syndrome with serotonergic antidepressants",
+    "Absorption falls when it is taken with milk or antacids"
+   ],
+   "answer": 2,
+   "evidence": [],
+   "explain": {
+    "html": "<p>Two drug classes bind the <b>30S ribosomal subunit</b> and behave very differently. <b>Aminoglycosides</b> bind it <b>irreversibly</b>, block the initiation complex, cause misreading of mRNA and disrupt membrane integrity, so they are <b>bactericidal</b>, with concentration-dependent killing and a prolonged post-antibiotic effect; used alone they act only on Gram-negative rods, and they are <b>synergistic with beta-lactams or vancomycin</b> against Gram-positives because cell wall damage increases their entry. <b>Tetracyclines</b> bind 30S <b>reversibly</b> and block aminoacyl-tRNA at the A site, so they are bacteriostatic and are chelated by milk, antacids and iron.</p><p>In this experiment drug B kills, binds irreversibly, kills faster at higher peaks, and suppresses growth after washout, which is an aminoglycoside. Drug A is the tetracycline, and the shared subunit is the red herring that pulls students toward the chelation answer. Knowing the killing pattern explains why gentamicin is paired with ampicillin for enterococcal endocarditis.</p>",
+    "table": "<table><tr><th>Feature</th><th>Aminoglycosides</th><th>Tetracyclines</th></tr><tr><td>Ribosomal target</td><td>30S, irreversible</td><td>30S, reversible</td></tr><tr><td>Effect</td><td>Misreading of mRNA; bactericidal</td><td>Block tRNA at A site; bacteriostatic</td></tr><tr><td>Killing pattern</td><td>Concentration dependent, prolonged PAE</td><td>Growth halts while drug present</td></tr><tr><td>Key pearl</td><td>Synergy with cell wall agents for Gram-positives</td><td>Chelated by milk, antacids, iron</td></tr></table>",
+    "why": [
+     "The disulfiram-like reaction is metronidazole, which forms free radicals that damage DNA and does not bind ribosomes.",
+     "CYP inhibition is a macrolide trait, and macrolides bind 50S and are bacteriostatic.",
+     "",
+     "Serotonin syndrome is linezolid, a bacteriostatic 50S binder with weak MAO inhibitor activity.",
+     "Chelation by milk and antacids is the tetracycline property, and the tetracycline here is drug A."
+    ],
+    "takeaway": "Aminoglycosides bind 30S irreversibly and are bactericidal with concentration-dependent killing and a post-antibiotic effect; against Gram-positives such as Enterococcus they require a cell wall agent for synergy.",
+    "topic": "Irreversible 30S binding: bactericidal aminoglycoside",
+    "subject": "Pharmacology",
+    "objective": "Identify mechanism of action",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "The disulfiram-like reaction is metronidazole, which forms free radicals that damage DNA and does not bind ribosomes.",
+      "if_right": "a prodrug activated by nitro reduction in anaerobes"
+     },
+     {
+      "choice": 1,
+      "why": "CYP inhibition is a macrolide trait, and macrolides bind 50S and are bacteriostatic.",
+      "if_right": "a 50S binder that blocks translocation, such as clarithromycin"
+     },
+     {
+      "choice": 3,
+      "why": "Serotonin syndrome is linezolid, a bacteriostatic 50S binder with weak MAO inhibitor activity.",
+      "if_right": "a 50S drug that prevents the 70S initiation complex, given with an SSRI"
+     },
+     {
+      "choice": 4,
+      "why": "Chelation by milk and antacids is the tetracycline property, and the tetracycline here is drug A.",
+      "if_right": "drug B being the reversible bacteriostatic 30S binder"
+     }
+    ],
+    "slides": {
+     "stem": [
+      18,
+      20,
+      22
+     ],
+     "answer": [
+      18,
+      19
+     ],
+     "distractors": [
+      41,
+      37,
+      28,
+      24
+     ]
+    },
+    "deck": "28 Antibiotics II"
+   },
+   "figures": []
   }
  ]
 }

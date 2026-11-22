@@ -1481,6 +1481,149 @@
     "deck": "40 HIV Therapy"
    },
    "figures": []
+  },
+  {
+   "id": "miid2-w08-lec40-q21",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 40 slides",
+   "stem": "A 27-year-old man received cabotegravir injections every 2 months as pre-exposure prophylaxis; his last injection was 3 months late, and HIV infection is now confirmed. His viral load is 48,000 copies/mL, CD4 count 520/mm3, hepatitis B surface antigen negative, and kidney function normal. A genotype that includes the integrase gene will take 2 weeks. He starts darunavir/cobicistat/emtricitabine/tenofovir AF today. A student on the team asks why he was not given bictegravir/emtricitabine/tenofovir AF, the integrase inhibitor tablet most new patients in the clinic receive, since integrase inhibitors lower the viral load fastest.\n\nWhich property of the chosen anchor drug best justifies the choice in this patient?",
+   "choices": [
+    "It lowers the viral load faster than an integrase inhibitor",
+    "It causes fewer metabolic effects, such as dyslipidemia",
+    "It has fewer drug interactions because it avoids CYP3A4",
+    "It has a high genetic barrier and does not act on integrase",
+    "It also treats hepatitis B, protecting the liver if he is coinfected"
+   ],
+   "answer": 3,
+   "evidence": [],
+   "explain": {
+    "html": "<p>HIV replicates quickly with an error-prone reverse transcriptase, so drug levels too low to fully suppress replication <b>select resistant variants</b>. Combination therapy pairs an NRTI backbone with an anchor, and the anchor is chosen by what it targets and how hard it is for the virus to escape. Integrase inhibitors are usually first line because they are potent, drop the viral load quickly and are well tolerated, but they depend on an intact integrase target. <b>Protease inhibitors act later in the life cycle</b>, are given boosted with ritonavir or cobicistat, and have a <b>high genetic barrier to resistance</b>; their costs are CYP3A4 interactions and metabolic effects such as dyslipidemia and insulin resistance.</p><p>This man acquired HIV during cabotegravir PrEP with a <b>late injection</b>, so integrase resistance is possible and the INSTI genotype is pending. A boosted darunavir anchor <b>does not rely on integrase</b> and is hard for the virus to break, which is why it is the recommended start in this situation even though bictegravir would otherwise be the usual choice.</p>",
+    "table": "<table><tr><th>Anchor class</th><th>Strengths</th><th>Costs</th></tr><tr><td>Integrase inhibitor (bictegravir, dolutegravir)</td><td>Potent, rapid viral load drop, low side-effect burden, high barrier (bictegravir, dolutegravir)</td><td>Lost if integrase resistance is present; weight gain; cation chelation</td></tr><tr><td>Boosted protease inhibitor (darunavir with cobicistat or ritonavir)</td><td>High genetic barrier to resistance; acts on protease, not integrase</td><td>CYP3A4 interactions; dyslipidemia, insulin resistance; GI upset</td></tr></table>",
+    "why": [
+     "Rapid viral load decline is the hallmark of integrase inhibitors, not protease inhibitors.",
+     "Protease inhibitors cause dyslipidemia and insulin resistance, so metabolic effects argue against them, not for them.",
+     "Darunavir is a major CYP3A4 substrate and cobicistat a CYP3A4 inhibitor, so interactions increase.",
+     "",
+     "Hepatitis B activity comes from the tenofovir and emtricitabine backbone, shared with the bictegravir tablet, and he is HBsAg negative."
+    ],
+    "takeaway": "When integrase resistance is possible, as after HIV acquisition on cabotegravir PrEP, use a boosted protease inhibitor anchor: it targets protease and has a high genetic barrier to resistance.",
+    "topic": "Why a boosted protease inhibitor when integrase resistance is possible",
+    "subject": "Pharmacology",
+    "objective": "Recognize and build a complete ART regimen taking into consideration viral load, patient specific factors and concomitant medications",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Rapid viral load decline is the hallmark of integrase inhibitors, not protease inhibitors.",
+      "if_right": "a question asking why integrase inhibitors are preferred first line in a patient with no resistance concern"
+     },
+     {
+      "choice": 1,
+      "why": "Protease inhibitors cause dyslipidemia and insulin resistance, so metabolic effects argue against them, not for them.",
+      "if_right": "a choice between a lipid-neutral regimen and a PI in a patient with uncontrolled hyperlipidemia"
+     },
+     {
+      "choice": 2,
+      "why": "Darunavir is a major CYP3A4 substrate and cobicistat a CYP3A4 inhibitor, so interactions increase.",
+      "if_right": "a comparison favoring an integrase inhibitor such as dolutegravir for a patient on many CYP3A4 drugs"
+     },
+     {
+      "choice": 4,
+      "why": "Hepatitis B activity comes from the tenofovir and emtricitabine backbone, shared with the bictegravir tablet, and he is HBsAg negative.",
+      "if_right": "a question about which backbone drugs must not be stopped in a patient with chronic hepatitis B"
+     }
+    ],
+    "slides": {
+     "stem": [
+      69,
+      37,
+      56
+     ],
+     "answer": [
+      56,
+      42,
+      14
+     ],
+     "distractors": [
+      54,
+      42,
+      42,
+      21
+     ]
+    },
+    "deck": "40 HIV Therapy"
+   },
+   "figures": []
+  },
+  {
+   "id": "miid2-w08-lec40-q22",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 40 slides",
+   "stem": "A 58-year-old woman with HIV and chronic hepatitis B has had an undetectable viral load for 6 years on dolutegravir plus emtricitabine/tenofovir disoproxil fumarate. A bone density scan shows osteoporosis, and she had a wrist fracture after a minor fall. Her LDL cholesterol is at goal. Her physician keeps dolutegravir and emtricitabine but replaces tenofovir disoproxil fumarate with tenofovir alafenamide. The patient is anxious because she was once told that stopping her tenofovir could make her hepatitis B flare.\n\nWhich outcome is most likely after this change?",
+   "choices": [
+    "HIV suppression is lost because less tenofovir reaches infected cells",
+    "Her hepatitis B flares because tenofovir AF has no activity against it",
+    "Nothing changes, since both forms give the same plasma tenofovir level",
+    "Plasma tenofovir rises, increasing her risk of Fanconi syndrome",
+    "Bone and creatinine effects lessen, while her lipids may rise"
+   ],
+   "answer": 4,
+   "evidence": [],
+   "explain": {
+    "html": "<p>Tenofovir comes as two prodrugs that differ in <b>where they become tenofovir</b>. Tenofovir disoproxil fumarate is converted in plasma, and circulating tenofovir causes its <b>renal toxicity, Fanconi syndrome, and decreased bone mineral density</b>. Tenofovir alafenamide is more stable in plasma and <b>stays as the parent compound until it gets into cells</b>, giving about <b>90% less circulating tenofovir</b> while still delivering active drug inside the cells HIV infects. Both forms are approved for hepatitis B, and stopping either one can cause a severe hepatitis B flare.</p><p>This woman has an osteoporotic fracture on tenofovir DF, so switching to tenofovir AF should lessen the bone and creatinine effects while keeping both HIV and hepatitis B treated, because she is changing forms rather than stopping tenofovir. The trade-off is that <b>lipids rise more with tenofovir AF</b>, so her lipid panel should be checked after the switch.</p>",
+    "table": "<table><tr><th>Feature</th><th>Tenofovir DF</th><th>Tenofovir AF</th></tr><tr><td>Where it becomes tenofovir</td><td>In plasma</td><td>Mostly inside cells</td></tr><tr><td>Circulating tenofovir</td><td>Higher</td><td>About 90% lower</td></tr><tr><td>Bone and creatinine effects</td><td>Decreased bone density, renal toxicity, Fanconi syndrome</td><td>Less effect</td></tr><tr><td>Lipids</td><td>Lower</td><td>Increased compared with TDF</td></tr><tr><td>Hepatitis B</td><td>Approved; flare if stopped</td><td>Approved; flare if stopped</td></tr></table>",
+    "why": [
+     "Tenofovir AF stays intact until it enters cells, so intracellular activity and suppression are preserved.",
+     "Tenofovir AF is approved for hepatitis B, so the swap keeps her hepatitis B treated.",
+     "The two forms differ precisely in plasma tenofovir exposure, which is the reason for the switch.",
+     "Tenofovir AF lowers plasma tenofovir by about 90%, so kidney toxicity should lessen, not worsen.",
+     ""
+    ],
+    "takeaway": "Tenofovir AF gives about 90% less plasma tenofovir than tenofovir DF, so it spares bone and kidney, still treats hepatitis B, but raises lipids more.",
+    "topic": "Tenofovir AF versus DF: plasma exposure and bone",
+    "subject": "Pharmacology",
+    "objective": "Identify administration considerations, adverse effects, and drug interactions for antiretrovirals",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Tenofovir AF stays intact until it enters cells, so intracellular activity and suppression are preserved.",
+      "if_right": "a regimen change that removed an active drug without replacing it"
+     },
+     {
+      "choice": 1,
+      "why": "Tenofovir AF is approved for hepatitis B, so the swap keeps her hepatitis B treated.",
+      "if_right": "stopping tenofovir and emtricitabine altogether in a patient with chronic hepatitis B"
+     },
+     {
+      "choice": 2,
+      "why": "The two forms differ precisely in plasma tenofovir exposure, which is the reason for the switch.",
+      "if_right": "a switch between two brand names of the same tenofovir prodrug"
+     },
+     {
+      "choice": 3,
+      "why": "Tenofovir AF lowers plasma tenofovir by about 90%, so kidney toxicity should lessen, not worsen.",
+      "if_right": "a switch from tenofovir AF back to tenofovir DF in a patient with declining kidney function"
+     }
+    ],
+    "slides": {
+     "stem": [
+      21,
+      22,
+      20
+     ],
+     "answer": [
+      22,
+      21
+     ],
+     "distractors": [
+      22,
+      22,
+      22,
+      21
+     ]
+    },
+    "deck": "40 HIV Therapy"
+   },
+   "figures": []
   }
  ]
 }

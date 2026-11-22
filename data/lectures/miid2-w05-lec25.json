@@ -971,6 +971,146 @@
     "deck": "25 Pharmacokinetics Pharmacodynamics"
    },
    "figures": []
+  },
+  {
+   "id": "miid2-w05-lec25-q14",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 25 slides",
+   "stem": "A 66-year-old man in the intensive care unit has Pseudomonas aeruginosa pneumonia. The isolate's ceftazidime MIC is 8 mg/L. The team models three ceftazidime regimens that each deliver 6 g per day and reports free (unbound) drug levels:\n\nA pharmacist notes that regimen 1 exceeds a peak-to-MIC ratio of 10.\n\nRegimen 1: 6 g once daily over 30 minutes; free peak 240 mg/L; free level above 8 mg/L for 7 of 24 hours.Regimen 2: 2 g every 8 hours over 30 minutes; free peak 80 mg/L; above 8 mg/L for 4 of each 8 hours.Regimen 3: 2 g every 8 hours infused over 4 hours; free peak 35 mg/L; above 8 mg/L for 7 of each 8 hours.\n\nWhich regimen is most likely to kill this organism best, and why?",
+   "choices": [
+    "Regimen 1, since its free peak is 30 times the MIC",
+    "Any of them, since all three give the same total daily exposure",
+    "Regimen 3, since free drug stays above the MIC for longest",
+    "Regimen 1, since a long post-antibiotic effect covers the gap",
+    "Regimen 2, since its peak stays far above four times the MIC"
+   ],
+   "answer": 2,
+   "evidence": [],
+   "explain": {
+    "html": "<p>Antibiotics fall into pharmacodynamic groups by what predicts their killing. For <b>time-dependent</b> drugs, the classic example being beta-lactams, the index is <b>fT&gt;MIC</b>, the percent of the dosing interval that free drug stays above the MIC; increasing concentrations beyond about <b>four times the MIC</b> does not increase the rate of killing. The dosing goal is to keep free drug above the MIC for 40 to 70% of the interval depending on the class, about <b>60 to 70% for cephalosporins</b>. Concentration-dependent drugs such as aminoglycosides instead target a peak:MIC of 8 to 10:1, and beta-lactams have only a <b>minimal post-antibiotic effect</b>, so they need frequent dosing or prolonged infusions.</p><p>Here all three regimens give 6 g per day, but only the 4-hour infusion keeps free ceftazidime above the MIC of 8 mg/L for most of each interval (about 88%). Regimen 1's impressive 30:1 peak is the red herring: that number matters for aminoglycosides, and the drug spends 17 hours below the MIC. This is why some beta-lactams, ceftazidime included, are given as <b>continuous or prolonged infusions</b>.</p>",
+    "table": "<table><tr><th>Regimen (6 g/day)</th><th>Free peak : MIC</th><th>Free drug above MIC</th><th>Meets 60 to 70% goal?</th></tr><tr><td>1: 6 g once daily</td><td>30 : 1</td><td>7 of 24 h (about 29%)</td><td>No</td></tr><tr><td>2: 2 g every 8 h, 30-min infusion</td><td>10 : 1</td><td>4 of 8 h (50%)</td><td>No</td></tr><tr><td>3: 2 g every 8 h, 4-h infusion</td><td>about 4 : 1</td><td>7 of 8 h (about 88%)</td><td>Yes</td></tr></table>",
+    "why": [
+     "A large peak:MIC ratio is the goal for concentration-dependent drugs, while this beta-lactam is below the MIC 71% of the day.",
+     "Equal daily AUC does not equalize beta-lactam killing, which depends on time above the MIC.",
+     "",
+     "Beta-lactams have a minimal post-antibiotic effect (about 2 hours), far short of the 17-hour gap.",
+     "Peaks beyond four times the MIC add little for a time-dependent drug, and regimen 2 is above the MIC only 50% of the time."
+    ],
+    "takeaway": "Beta-lactams are time-dependent: efficacy follows fT>MIC (about 60 to 70% for cephalosporins), so the same daily dose given as a prolonged infusion outperforms large infrequent doses.",
+    "topic": "Time above MIC decides a beta-lactam regimen",
+    "subject": "Pharmacology",
+    "objective": "Apply pharmacokinetic (PK) and pharmacodynamic (PD) principles: Explain PD indices (fT>MIC, fCmax:MIC, fAUC:MIC) and post-antibiotic effect.",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "A large peak:MIC ratio is the goal for concentration-dependent drugs, while this beta-lactam is below the MIC 71% of the day.",
+      "if_right": "a once-daily aminoglycoside aiming for a peak 8 to 10 times the MIC"
+     },
+     {
+      "choice": 1,
+      "why": "Equal daily AUC does not equalize beta-lactam killing, which depends on time above the MIC.",
+      "if_right": "a drug whose efficacy is predicted by fAUC:MIC, such as vancomycin"
+     },
+     {
+      "choice": 3,
+      "why": "Beta-lactams have a minimal post-antibiotic effect (about 2 hours), far short of the 17-hour gap.",
+      "if_right": "a drug with a prolonged post-antibiotic effect, such as an aminoglycoside against Gram-negative rods"
+     },
+     {
+      "choice": 4,
+      "why": "Peaks beyond four times the MIC add little for a time-dependent drug, and regimen 2 is above the MIC only 50% of the time.",
+      "if_right": "a regimen 2 whose free level stayed above the MIC for at least 60 to 70% of each interval"
+     }
+    ],
+    "slides": {
+     "stem": [
+      23,
+      24
+     ],
+     "answer": [
+      23,
+      24
+     ],
+     "distractors": [
+      25,
+      28,
+      30,
+      23
+     ]
+    },
+    "deck": "25 Pharmacokinetics Pharmacodynamics"
+   },
+   "figures": []
+  },
+  {
+   "id": "miid2-w05-lec25-q15",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 25 slides",
+   "stem": "A 38-year-old man has osteomyelitis of the calcaneus 3 weeks after stepping on a nail through his sneaker. Bone biopsy grows Pseudomonas aeruginosa, susceptible to levofloxacin with an MIC of 2 mg/L, and he is started on levofloxacin. There is no abscess or retained foreign body. Peak serum levofloxacin is 8 mg/L, and the trough falls below 2 mg/L for part of each day. The reference bone-to-serum ratio for levofloxacin is 0.75. After 2 weeks he has improved only slightly. A resident proposes giving the same daily amount as smaller doses more often so the level never drops below the MIC.\n\nWhich adjustment is most likely to improve killing at the site of infection?",
+   "choices": [
+    "Keep the regimen unchanged, since the isolate is susceptible",
+    "Give the same daily amount as smaller, more frequent doses",
+    "Switch to gentamicin, since hydrophilic drugs reach bone well",
+    "Raise the levofloxacin dose to increase exposure in bone",
+    "Switch to vancomycin, since it reaches bone better than this"
+   ],
+   "answer": 3,
+   "evidence": [],
+   "explain": {
+    "html": "<p>The infection site decides whether a regimen reaches enough drug, and different tissues are penetrated to different degrees, so <b>specific tissue penetration may require dose adjustment</b> to reach the needed concentration there. Bone is a hard site: the <b>bone-to-serum ratio</b> is 0.75 for levofloxacin, about 0.2 for vancomycin, 0.1 to 0.3 for most beta-lactams, and predicted very low for aminoglycosides because they are highly hydrophilic. How to raise exposure depends on the drug's PD index. Beta-lactams are time-dependent (fT&gt;MIC) and benefit from frequent dosing, but <b>fluoroquinolones follow fAUC:MIC</b> with concentration-dependent killing and a <b>prolonged post-antibiotic effect</b>, so their paradigm is <b>flexible, high dose</b>.</p><p>Here the bone level is about 8 x 0.75 = 6 mg/L, only 3 times the MIC of 2, which fits the slow response. The trough dipping below the MIC is the red herring, because time above MIC is not what drives fluoroquinolone killing and the post-antibiotic effect covers the low period. <b>Raising the dose</b> increases bone exposure relative to the MIC, which is the change most likely to help.</p>",
+    "table": "<table><tr><th>Drug</th><th>Bone:serum ratio</th><th>Why</th></tr><tr><td>Levofloxacin</td><td>0.75</td><td>Lipophilic, high volume of distribution</td></tr><tr><td>Vancomycin</td><td>about 0.20</td><td>Higher doses needed in bone</td></tr><tr><td>Most beta-lactams</td><td>0.1 to 0.3</td><td>Hydrophilic, limited penetration</td></tr><tr><td>Aminoglycosides</td><td>Predicted very low</td><td>Highly hydrophilic</td></tr></table>",
+    "why": [
+     "Susceptible reflects standard serum exposure, and the bone level is only about 3 times the MIC.",
+     "Splitting the dose serves time above MIC, which is not the fluoroquinolone index, and it lowers the peaks without adding exposure.",
+     "Aminoglycosides are highly hydrophilic, with very low predicted bone penetration.",
+     "",
+     "Vancomycin's bone ratio (about 0.2) is lower than levofloxacin's, and it does not treat Pseudomonas."
+    ],
+    "takeaway": "Fluoroquinolone efficacy follows fAUC:MIC, so when bone (or another poorly penetrated site) yields a low concentration relative to the MIC, increasing the dose, not the dosing frequency, raises site exposure.",
+    "topic": "Raising site exposure for a concentration-related drug",
+    "subject": "Pharmacology",
+    "objective": "Apply pharmacokinetic (PK) and pharmacodynamic (PD) principles: Describe PK factors (absorption, distribution, metabolism, excretion, tissue penetration).",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Susceptible reflects standard serum exposure, and the bone level is only about 3 times the MIC.",
+      "if_right": "a site the drug reaches at full serum concentration with a good response"
+     },
+     {
+      "choice": 1,
+      "why": "Splitting the dose serves time above MIC, which is not the fluoroquinolone index, and it lowers the peaks without adding exposure.",
+      "if_right": "a time-dependent beta-lactam such as ceftazidime"
+     },
+     {
+      "choice": 2,
+      "why": "Aminoglycosides are highly hydrophilic, with very low predicted bone penetration.",
+      "if_right": "a Gram-negative bacteremia, where serum levels are what count"
+     },
+     {
+      "choice": 4,
+      "why": "Vancomycin's bone ratio (about 0.2) is lower than levofloxacin's, and it does not treat Pseudomonas.",
+      "if_right": "an MRSA infection in a site vancomycin reaches, given at higher doses"
+     }
+    ],
+    "slides": {
+     "stem": [
+      19,
+      20
+     ],
+     "answer": [
+      18,
+      35
+     ],
+     "distractors": [
+      12,
+      24,
+      19,
+      19
+     ]
+    },
+    "deck": "25 Pharmacokinetics Pharmacodynamics"
+   },
+   "figures": []
   }
  ]
 }

@@ -956,6 +956,146 @@
      "caption": "Lecture 29 slides (2025-26) · Page 24"
     }
    ]
+  },
+  {
+   "id": "miid2-w05-lec29-q14",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 29 slides",
+   "stem": "A 34-year-old nurse starting a new hospital job has a positive interferon-gamma release assay on pre-employment screening. She was born in a country with high TB incidence, received BCG as an infant, and has a BCG scar. Four years ago, after a positive test, she completed a full, documented course of treatment for latent TB infection. Since then she has had no known TB exposure. She has no cough, fever, night sweats or weight loss, and her chest radiograph is normal. Her HIV test is negative. Occupational health asks whether this result means something new has happened.\n\nWhich of the following best explains her positive result?",
+   "choices": [
+    "Her infant BCG vaccine is producing a false-positive interferon-gamma result",
+    "A memory T-cell response that persists even after effective treatment",
+    "Prior skin testing boosted her response, so the assay now reads positive",
+    "Exposure to environmental mycobacteria that cross-react with the assay antigens",
+    "The earlier latent infection treatment failed and organisms are now multiplying"
+   ],
+   "answer": 1,
+   "evidence": [],
+   "explain": {
+    "html": "<p>The <b>TST and IGRAs are different ways of measuring the same response</b>: both detect a mature, antigen-specific <b>T-cell response to <i>M. tuberculosis</i></b>, not the organism itself. That is why <b>both tests remain positive after treatment</b>. The two tests differ in their pitfalls. The TST can be falsely positive after <b>BCG</b> or some NTM infections and can show <b>boosting</b> on repeat testing, while the IGRA is <b>not affected by BCG</b>, should not boost, and is not made positive by most NTM.</p><p>This nurse had documented, completed LTBI treatment four years ago and has no new exposure, no symptoms and a normal chest radiograph. Her positive IGRA is the expected memory response to that old infection, not a sign of a new infection or of treatment failure. The BCG scar is the trap, because BCG confounds the TST but not the IGRA. The practical point is that repeating a TB test after treatment cannot show cure, and a positive test in someone already treated calls for a symptom review and radiograph rather than retreatment.</p>",
+    "table": "<table><tr><th>Feature</th><th>TST</th><th>IGRA</th></tr><tr><td>Prior BCG</td><td>Possible false positive</td><td>Not affected</td></tr><tr><td>Most NTM</td><td>Possible false positive</td><td>Usually no false positive</td></tr><tr><td>Booster reaction</td><td>Yes</td><td>Should not occur</td></tr><tr><td>After treatment</td><td>Remains positive</td><td>Remains positive</td></tr></table>",
+    "why": [
+     "BCG can cause a false-positive TST, but the IGRA is not affected by prior BCG vaccination.",
+     "",
+     "Boosting occurs when one TST recalls a waned response on a later TST; an IGRA should not show a booster reaction.",
+     "Most nontuberculous mycobacteria do not make the IGRA positive; NTM cross-reaction is mainly a TST issue.",
+     "Failed treatment would mean TB disease, and she has no symptoms and a normal radiograph; the assay measures immunity, not organisms."
+    ],
+    "takeaway": "Both the TST and IGRA measure a T-cell response to M. tuberculosis antigens and remain positive after successful treatment, and the IGRA is not affected by BCG or boosting.",
+    "topic": "IGRA stays positive after treatment",
+    "subject": "Microbiology",
+    "objective": "TB Diagnostic tests- for TB infection (and TB Disease*)",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "BCG can cause a false-positive TST, but the IGRA is not affected by prior BCG vaccination.",
+      "if_right": "a positive tuberculin skin test in a BCG-vaccinated person whose IGRA is negative"
+     },
+     {
+      "choice": 2,
+      "why": "Boosting occurs when one TST recalls a waned response on a later TST; an IGRA should not show a booster reaction.",
+      "if_right": "a second tuberculin skin test that turns positive weeks after a negative first one"
+     },
+     {
+      "choice": 3,
+      "why": "Most nontuberculous mycobacteria do not make the IGRA positive; NTM cross-reaction is mainly a TST issue.",
+      "if_right": "a positive TST with a negative IGRA in someone with NTM exposure"
+     },
+     {
+      "choice": 4,
+      "why": "Failed treatment would mean TB disease, and she has no symptoms and a normal radiograph; the assay measures immunity, not organisms.",
+      "if_right": "new cough, fever, weight loss or an abnormal chest radiograph"
+     }
+    ],
+    "slides": {
+     "stem": [
+      35,
+      36
+     ],
+     "answer": [
+      29,
+      35
+     ],
+     "distractors": [
+      34,
+      32,
+      34,
+      40
+     ]
+    },
+    "deck": "29 Tuberculosis"
+   },
+   "figures": []
+  },
+  {
+   "id": "miid2-w05-lec29-q15",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 29 slides",
+   "stem": "A 3-year-old girl is evaluated 10 days after her father was diagnosed with cavitary pulmonary tuberculosis with a sputum smear showing many acid-fast bacilli. The child lives in a small apartment with him and has slept in his room for the past month. She received BCG at birth while the family lived abroad. She is active and eating well, with no cough or fever. Her chest radiograph is normal and her HIV test is negative. A tuberculin skin test read at 72 hours shows 2 mm of induration. Her mother is relieved and asks whether this result means the child escaped infection.\n\nWhich of the following is the best interpretation of the skin test?",
+   "choices": [
+    "It is negative, because 2 mm falls below the 5 mm cutoff set for any close contact",
+    "It is reassuring, because infant BCG prevents infection in children under 5",
+    "It may be falsely negative, as T cells may not yet react to a very new infection",
+    "It is reassuring, because young children rarely become infected from adult TB cases",
+    "It is falsely negative, because BCG suppresses the reaction to tuberculin"
+   ],
+   "answer": 2,
+   "evidence": [],
+   "explain": {
+    "html": "<p>After inhaled <i>M. tuberculosis</i> reaches the lung of a TB-naive person, the bacteria replicate and spread locally while <b>specific T-cell immunity evolves</b>; a <b>positive TST or IGRA indicates a mature T-cell response</b> and is the marker of infection. Because that response takes time to develop, <b>very recent infection</b> is listed among the causes of a <b>false-negative TST</b>, along with anergy and severe TB disease. A negative result therefore <b>does not exclude infection</b>.</p><p>This child had close, prolonged exposure to a highly infectious source (<b>cavitary disease with a positive AFB smear</b>), and she was tested only 10 days after his diagnosis. Her 2 mm result is exactly what a just-acquired infection could look like. The BCG history is the trap: infant BCG reduces the risk of disease under age 5 by about 37 percent but does not prevent infection, and it causes false-positive, not false-negative, skin tests. Since <b>children under 5</b> have a high risk of progressing to disease after infection, her negative test cannot be taken as reassurance.</p>",
+    "table": "<table><tr><th>TST result problem</th><th>Causes</th></tr><tr><td>False positive</td><td>BCG vaccination, some NTM</td></tr><tr><td>False negative</td><td>Anergy, very recent infection, severe TB disease</td></tr></table>",
+    "why": [
+     "The 5 mm cutoff is correct for a close contact, but a reading taken soon after exposure can be negative despite infection.",
+     "Infant BCG lowers the risk of TB disease under age 5 by about a third; it does not prevent infection.",
+     "",
+     "Infants and young children have a high risk of infection and disease after exposure, and this source is highly infectious.",
+     "BCG stimulates cell-mediated immunity to mycobacteria and causes false-positive skin tests, not false negatives."
+    ],
+    "takeaway": "A false-negative tuberculin skin test can occur with very recent infection because the test requires a mature T-cell response, so a negative test soon after exposure does not exclude infection.",
+    "topic": "Negative TST soon after exposure in a young child",
+    "subject": "Microbiology",
+    "objective": "TB Diagnostic tests- for TB infection (and TB Disease*)",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "The 5 mm cutoff is correct for a close contact, but a reading taken soon after exposure can be negative despite infection.",
+      "if_right": "a negative TST in a contact tested long after the exposure ended"
+     },
+     {
+      "choice": 1,
+      "why": "Infant BCG lowers the risk of TB disease under age 5 by about a third; it does not prevent infection.",
+      "if_right": "a question about how much infant BCG reduces severe disease in young children"
+     },
+     {
+      "choice": 3,
+      "why": "Infants and young children have a high risk of infection and disease after exposure, and this source is highly infectious.",
+      "if_right": "an exposure to a person with extrapulmonary TB only, who is not infectious"
+     },
+     {
+      "choice": 4,
+      "why": "BCG stimulates cell-mediated immunity to mycobacteria and causes false-positive skin tests, not false negatives.",
+      "if_right": "a large TST in a BCG-vaccinated child with a negative IGRA"
+     }
+    ],
+    "slides": {
+     "stem": [
+      13,
+      43
+     ],
+     "answer": [
+      16,
+      30
+     ],
+     "distractors": [
+      31,
+      43,
+      43,
+      36
+     ]
+    },
+    "deck": "29 Tuberculosis"
+   },
+   "figures": []
   }
  ]
 }

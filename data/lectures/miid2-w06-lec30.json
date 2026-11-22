@@ -1099,6 +1099,180 @@
      "caption": "Lecture 30 slides (2025-26) · Page 28"
     }
    ]
+  },
+  {
+   "id": "miid2-w06-lec30-q16",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 30 slides",
+   "stem": "A 52-year-old man is seen 4 months after a kidney transplant with 5 days of fever, malaise and joint aches. His antiviral prophylaxis with oral valganciclovir was stopped 3 weeks ago on schedule. He has no cough, diarrhea, abdominal pain or visual change. Temperature is 38.6 C (101.5 F). Chest radiograph is clear.\n\n[[labs 0]]\n\nWhich statement best describes his condition and its management?",
+   "choices": [
+    "Valganciclovir myelosuppression; stop the drug and recheck blood counts in a week",
+    "Asymptomatic CMV shedding seen in normal hosts; no treatment is needed now",
+    "CMV disease with enteritis; lower immune suppression and start an antiviral agent",
+    "CMV syndrome; reduce immune suppression and add a CMV DNA polymerase inhibitor",
+    "Post-transplant lymphoproliferative disorder; lower immune suppression only"
+   ],
+   "answer": 3,
+   "evidence": [],
+   "explain": {
+    "html": "<p>CMV establishes latency after primary infection, and in immune suppressed patients it reactivates along a spectrum. <b>CMV syndrome</b> is fever, malaise, arthralgia, <b>leukopenia and thrombocytopenia with viremia but without tissue invasion</b>. <b>CMV disease</b> adds <b>end-organ signs</b>: enteritis, colitis, hepatitis, pneumonitis, retinitis, meningoencephalitis or nephritis. Enteritis is the most common site in renal transplant patients and pneumonitis in stem cell and lung transplant patients. Treatment for both is to <b>hold or reduce immune suppression</b> and give an antiviral (ganciclovir, valganciclovir, foscarnet, cidofovir) that targets <b>CMV DNA polymerase</b>.</p><p>This man has every feature of the syndrome and none of an end organ: no diarrhea or pain, a clear radiograph, normal ALT and creatinine, and no visual change. The trap is the valganciclovir: myelosuppression is its most important toxicity, but it was stopped 3 weeks ago and cannot explain fever with a high viral load. Recognizing the syndrome early matters because untreated viremia can progress to tissue-invasive disease.</p>",
+    "table": "<table><tr><th>Feature</th><th>CMV syndrome</th><th>CMV disease</th></tr><tr><td>Symptoms</td><td>Fever, malaise, arthralgia</td><td>Signs of the involved organ</td></tr><tr><td>Labs</td><td>Leukopenia, thrombocytopenia, viremia</td><td>Viremia plus organ injury</td></tr><tr><td>Tissue invasion</td><td>No</td><td>Yes (enteritis in renal transplant; pneumonitis in HSCT and lung transplant)</td></tr><tr><td>Treatment</td><td>Reduce immune suppression plus a CMV DNA polymerase inhibitor</td><td>Same</td></tr></table>",
+    "why": [
+     "Valganciclovir was stopped 3 weeks ago, and drug toxicity would not produce fever with a high CMV viral load.",
+     "Normal hosts shed CMV silently, but he is immune suppressed, febrile, cytopenic and viremic.",
+     "He has no diarrhea, abdominal pain or other organ signs, so there is no tissue invasion to call disease.",
+     "",
+     "PTLD is an EBV-driven B cell proliferation, and this picture is CMV viremia without a lymphoproliferative finding."
+    ],
+    "takeaway": "In transplant recipients, CMV syndrome is fever, leukopenia, thrombocytopenia and viremia without tissue invasion, treated by reducing immune suppression and giving a CMV DNA polymerase inhibitor.",
+    "topic": "CMV syndrome vs CMV disease after kidney transplant",
+    "subject": "Microbiology",
+    "objective": "Explain the clinical presentations of EBV and CMV infections in normal hosts and those with altered host defenses",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Valganciclovir was stopped 3 weeks ago, and drug toxicity would not produce fever with a high CMV viral load.",
+      "if_right": "leukopenia while still taking valganciclovir, with no fever and no viremia"
+     },
+     {
+      "choice": 1,
+      "why": "Normal hosts shed CMV silently, but he is immune suppressed, febrile, cytopenic and viremic.",
+      "if_right": "a healthy adult with CMV in urine or saliva and no symptoms"
+     },
+     {
+      "choice": 2,
+      "why": "He has no diarrhea, abdominal pain or other organ signs, so there is no tissue invasion to call disease.",
+      "if_right": "diarrhea and abdominal pain with CMV seen in an intestinal biopsy"
+     },
+     {
+      "choice": 4,
+      "why": "PTLD is an EBV-driven B cell proliferation, and this picture is CMV viremia without a lymphoproliferative finding.",
+      "if_right": "a B cell lymphoma or polyclonal B cell proliferation in the first year after transplant"
+     }
+    ],
+    "slides": {
+     "stem": [
+      21,
+      23
+     ],
+     "answer": [
+      21,
+      22
+     ],
+     "distractors": [
+      23,
+      18,
+      21,
+      13
+     ]
+    },
+    "deck": "30 Viral Syndromes"
+   },
+   "figures": [],
+   "labs": [
+    [
+     [
+      "Test",
+      "Result",
+      "Reference"
+     ],
+     [
+      "Leukocytes",
+      "2,600/microL",
+      "4,500 to 11,000"
+     ],
+     [
+      "Platelets",
+      "88,000/microL",
+      "150,000 to 400,000"
+     ],
+     [
+      "ALT",
+      "30 U/L",
+      "7 to 56"
+     ],
+     [
+      "Creatinine",
+      "1.2 mg/dL",
+      "0.7 to 1.3"
+     ],
+     [
+      "Blood CMV PCR",
+      "High viral load",
+      "Not detected"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "miid2-w06-lec30-q17",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 30 slides",
+   "stem": "A restaurant has a norovirus outbreak. A line cook had 2 days of vomiting and non-bloody diarrhea and returned to work 48 hours after his symptoms ended. Before he returned, the kitchen was disinfected, contaminated food was discarded, and handwashing with soap and water replaced hand sanitizer. He now feels completely well and has not vomited at work. Over the next 2 weeks, 14 more diners who ate salads he prepared develop vomiting and diarrhea 12 to 48 hours after their meals. Stool PCR from the diners identifies the same calicivirus strain.\n\nWhich feature of this infection best explains the continued cases?",
+   "choices": [
+    "Droplets from his vomit continue to spread the virus to diners",
+    "The virus becomes latent in the gut and reactivates under stress",
+    "Its long incubation of 30 to 50 days delays cases well after exposure",
+    "The virus survives the alcohol in hand sanitizer used in the kitchen",
+    "He is still shedding virus in stool weeks after his symptoms ended"
+   ],
+   "answer": 4,
+   "evidence": [],
+   "explain": {
+    "html": "<p>Norovirus, a <b>non-enveloped single-stranded RNA calicivirus</b>, is the most common cause of gastroenteritis in all age groups. It is highly infectious and spreads <b>fecal-orally</b> person to person or through contaminated food and water, by droplets from vomitus, and from surfaces where it persists for days. Illness begins <b>12 to 48 hours after exposure</b> and resolves in <b>1 to 4 days</b>, but <b>virus may be shed in the stool for 4 weeks</b>. Prevention relies on hand hygiene with <b>soap and water rather than sanitizer</b>, environmental disinfection and disposal of contaminated material.</p><p>In this outbreak every route except one has been closed: the kitchen was disinfected, food was discarded, soap and water replaced sanitizer, and the cook no longer vomits. The diners' 12 to 48 hour onset after eating salads he prepared points straight back to him. Because <b>shedding outlasts symptoms</b>, a food handler who feels well can still contaminate ready-to-eat food, which is why returning to food handling soon after recovery keeps outbreaks going.</p>",
+    "table": "<table><tr><th>Route</th><th>Status in this kitchen</th></tr><tr><td>Contaminated surfaces</td><td>Disinfected</td></tr><tr><td>Contaminated food</td><td>Discarded</td></tr><tr><td>Hands (alcohol resistance)</td><td>Soap and water in use</td></tr><tr><td>Vomitus droplets</td><td>No vomiting since return</td></tr><tr><td>Stool shedding by the cook</td><td>Continues for weeks after recovery</td></tr></table>",
+    "why": [
+     "Vomitus droplets spread norovirus, but the cook has not vomited since returning.",
+     "Lifelong latency with reactivation is a herpesvirus feature, not a property of this RNA virus.",
+     "A 30 to 50 day incubation is EBV; norovirus symptoms start 12 to 48 hours after exposure, as in these diners.",
+     "The cases trace to food the cook prepared, and the kitchen already replaced sanitizer with soap and water.",
+     ""
+    ],
+    "takeaway": "Norovirus causes 1 to 4 days of vomiting and non-bloody diarrhea but may be shed in stool for about 4 weeks, so recovered food handlers can sustain fecal-oral outbreaks.",
+    "topic": "Norovirus: shedding outlasts symptoms",
+    "subject": "Microbiology",
+    "objective": "Understand the clinical signs/symptoms of Norovirus",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Vomitus droplets spread norovirus, but the cook has not vomited since returning.",
+      "if_right": "a worker who vomited in the dining room or kitchen"
+     },
+     {
+      "choice": 1,
+      "why": "Lifelong latency with reactivation is a herpesvirus feature, not a property of this RNA virus.",
+      "if_right": "a herpesvirus such as CMV or EBV"
+     },
+     {
+      "choice": 2,
+      "why": "A 30 to 50 day incubation is EBV; norovirus symptoms start 12 to 48 hours after exposure, as in these diners.",
+      "if_right": "an infectious mononucleosis outbreak"
+     },
+     {
+      "choice": 3,
+      "why": "The cases trace to food the cook prepared, and the kitchen already replaced sanitizer with soap and water.",
+      "if_right": "a kitchen still relying on alcohol hand sanitizer"
+     }
+    ],
+    "slides": {
+     "stem": [
+      45,
+      46
+     ],
+     "answer": [
+      46,
+      45
+     ],
+     "distractors": [
+      45,
+      8,
+      9,
+      46
+     ]
+    },
+    "deck": "30 Viral Syndromes"
+   },
+   "figures": []
   }
  ]
 }

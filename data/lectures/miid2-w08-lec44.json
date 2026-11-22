@@ -1245,6 +1245,145 @@
     "deck": "44 Food Borne Illnesses"
    },
    "figures": []
+  },
+  {
+   "id": "miid2-w08-lec44-q19",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 44 slides",
+   "stem": "A 26-year-old woman develops fever to 38.8 C (101.8 F), crampy abdominal pain, and diarrhea with streaks of blood on a Sunday evening, about 5 hours after eating chicken salad made with mayonnaise at an outdoor picnic. She has not vomited. A stool smear shows many white blood cells. Six other guests ate the same chicken salad and remain well. On Friday morning, about 60 hours before her symptoms began, she ate an omelet with runny yolks at a diner. On Wednesday she had a deli turkey sandwich.\n\nWhich meal is the most likely source of her illness, and why?",
+   "choices": [
+    "The omelet, since an invasive organism needs days to multiply",
+    "The turkey, since a cold-tolerant organism invaded the colon",
+    "The chicken salad, since symptoms began soon after eating it",
+    "The chicken salad, since its mayonnaise held a preformed toxin",
+    "The omelet, since a preformed toxin in eggs acts within hours"
+   ],
+   "answer": 0,
+   "evidence": [],
+   "explain": {
+    "html": "<p>The two features that best predict the cause of a food-borne GI illness are the <b>time to presentation</b> and the <b>type of diarrhea</b>. A <b>short incubation indicates a preformed toxin</b>, as with staphylococcal enterotoxin in mayonnaise or egg dishes, which causes nausea and vomiting in 3 to 4 hours without fever. A <b>longer incubation indicates bacterial replication</b>, needed for invasion or for toxin production in the gut. <b>Bloody diarrhea with white cells on the stool smear means an inflammatory, invasive process</b>, while large-volume watery diarrhea without white cells means secretory, toxin-mediated disease.</p><p><i>Salmonella</i> enteritidis, carried by poultry flocks and found in eggs, invades the terminal small intestine and causes fever and diarrhea that can contain blood after an <b>incubation of 36 to 72 hours</b>. This woman has fever, bloody stools and many white cells with no vomiting, an invasive picture that cannot come from a meal eaten 5 hours earlier, and the other picnic guests are well. The runny omelet 60 hours before onset is the meal that fits.</p>",
+    "table": "<table><tr><th>Feature</th><th>Preformed toxin</th><th>Invasive organism</th></tr><tr><td>Time to onset</td><td>Hours</td><td>Days (Salmonella 36 to 72 hours)</td></tr><tr><td>Main symptom</td><td>Nausea and vomiting</td><td>Fever, cramps, diarrhea that can be bloody</td></tr><tr><td>Stool smear</td><td>No white cells</td><td>White cells present</td></tr><tr><td>Example</td><td>Staphylococcal toxin in mayonnaise dishes</td><td>Salmonella enteritidis in eggs and poultry</td></tr></table>",
+    "why": [
+     "",
+     "Listeria from deli meat causes a self-limited GI illness at about 24 hours or invasive disease in pregnant or immunocompromised hosts.",
+     "Onset within hours points to a preformed toxin, and toxins cause vomiting rather than fever with bloody, white-cell-rich stools.",
+     "Staphylococcal toxin in mayonnaise causes vomiting in 3 to 4 hours without fever, and none of the six other guests became ill.",
+     "The egg dish carries an invasive organism with a 36 to 72 hour incubation, not a preformed toxin."
+    ],
+    "takeaway": "Time to onset separates preformed toxin (hours, vomiting, no fever) from invasive infection (days, fever, bloody inflammatory diarrhea); Salmonella from eggs incubates 36 to 72 hours.",
+    "topic": "Incubation period identifies the meal",
+    "subject": "Microbiology",
+    "objective": "Understand mechanisms for food-borne illnesses",
+    "rows": [
+     {
+      "choice": 1,
+      "why": "Listeria from deli meat causes a self-limited GI illness at about 24 hours or invasive disease in pregnant or immunocompromised hosts.",
+      "if_right": "a pregnant woman with fever and bacteremia weeks after eating deli meats"
+     },
+     {
+      "choice": 2,
+      "why": "Onset within hours points to a preformed toxin, and toxins cause vomiting rather than fever with bloody, white-cell-rich stools.",
+      "if_right": "abrupt vomiting without fever 3 hours after the meal"
+     },
+     {
+      "choice": 3,
+      "why": "Staphylococcal toxin in mayonnaise causes vomiting in 3 to 4 hours without fever, and none of the six other guests became ill.",
+      "if_right": "several guests who ate the salad vomiting within 4 hours and recovering by the next day"
+     },
+     {
+      "choice": 4,
+      "why": "The egg dish carries an invasive organism with a 36 to 72 hour incubation, not a preformed toxin.",
+      "if_right": "vomiting without fever a few hours after eating an egg-based dish left at room temperature"
+     }
+    ],
+    "slides": {
+     "stem": [
+      8,
+      24
+     ],
+     "answer": [
+      24,
+      8
+     ],
+     "distractors": [
+      36,
+      8,
+      10,
+      10
+     ]
+    },
+    "deck": "44 Food Borne Illnesses"
+   },
+   "figures": []
+  },
+  {
+   "id": "miid2-w08-lec44-q20",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 44 slides",
+   "stem": "Eighteen people at a catered office lunch develop crampy abdominal pain and profuse watery diarrhea beginning 10 to 14 hours after eating a vegetable rice pilaf. The rice was cooked the night before and kept in a warm holding pan until it was served. Only a few people vomit, none has fever, and all recover within a day. Stool smears show no white blood cells. Leftover pilaf grows a gram-positive, spore-forming rod. No meat or gravy was served, and the caterer's staff have no skin lesions.\n\nWhich best explains why this outbreak caused diarrhea rather than vomiting?",
+   "choices": [
+    "A heat-stable emetic toxin formed in the rice before it was eaten",
+    "Ingested spores became bacteria and made toxin in the intestine",
+    "Bacteria invaded the colonic mucosa and caused inflammation",
+    "Bacteria multiplied in leftover rice at refrigerator temperature",
+    "Staphylococcal enterotoxin entered the rice from a food handler"
+   ],
+   "answer": 1,
+   "evidence": [],
+   "explain": {
+    "html": "<p><i>Bacillus cereus</i> is a gram-positive, spore-forming rod found widely in the environment and on grains. Its <b>spores survive cooking</b>, and if food is not eaten promptly they germinate, and it produces <b>two different enterotoxins, emetic or diarrheal</b>. When bacteria grow in the held food and form the <b>heat-stable emetic toxin</b>, nausea and vomiting appear <b>1 to 6 hours</b> after eating, as with reheated fried rice. When <b>viable spores are consumed, they turn into bacteria and produce toxin in the intestine</b>, and diarrhea follows <b>8 to 16 hours</b> after ingestion.</p><p>The time to presentation separates the routes, just as it separates preformed toxin from replication in other food-borne illnesses. This outbreak began 10 to 14 hours after the pilaf, with watery diarrhea, little vomiting, no fever and no white cells, a secretory toxin picture that fits toxin made in the gut. The rice setting tempts the emetic answer, but the timing says the spores were eaten and did their work inside the intestine.</p>",
+    "table": "<table><tr><th>B. cereus syndrome</th><th>What is eaten</th><th>Onset</th><th>Main symptom</th></tr><tr><td>Emetic</td><td>Preformed heat-stable emetic toxin</td><td>1 to 6 hours</td><td>Nausea and vomiting</td></tr><tr><td>Diarrheal</td><td>Viable spores that make toxin in the intestine</td><td>8 to 16 hours</td><td>Watery diarrhea</td></tr></table>",
+    "why": [
+     "Preformed emetic toxin produces vomiting within 1 to 6 hours, and this outbreak was diarrhea at 10 to 14 hours.",
+     "",
+     "Invasive bacteria cause fever and white cells in the stool, which are absent here.",
+     "The rice was held warm, and growth at refrigerator temperature is the trait of Listeria.",
+     "Staphylococcal enterotoxin causes vomiting in 3 to 4 hours, and the leftovers grew a spore-forming rod rather than a coccus."
+    ],
+    "takeaway": "Bacillus cereus spores survive cooking: preformed heat-stable emetic toxin causes vomiting in 1 to 6 hours, while ingested spores make toxin in the gut and cause diarrhea in 8 to 16 hours.",
+    "topic": "Bacillus cereus: emetic versus diarrheal syndrome",
+    "subject": "Microbiology",
+    "objective": "Know microbiology of common pathogens involved",
+    "rows": [
+     {
+      "choice": 0,
+      "why": "Preformed emetic toxin produces vomiting within 1 to 6 hours, and this outbreak was diarrhea at 10 to 14 hours.",
+      "if_right": "abrupt vomiting 2 hours after fried rice that was held at room temperature"
+     },
+     {
+      "choice": 2,
+      "why": "Invasive bacteria cause fever and white cells in the stool, which are absent here.",
+      "if_right": "fever and bloody stools with many white cells 2 days after the meal"
+     },
+     {
+      "choice": 3,
+      "why": "The rice was held warm, and growth at refrigerator temperature is the trait of Listeria.",
+      "if_right": "a pregnant woman with fever after refrigerated deli meats"
+     },
+     {
+      "choice": 4,
+      "why": "Staphylococcal enterotoxin causes vomiting in 3 to 4 hours, and the leftovers grew a spore-forming rod rather than a coccus.",
+      "if_right": "vomiting 3 hours after a cream dish prepared by a handler with an infected cut"
+     }
+    ],
+    "slides": {
+     "stem": [
+      12,
+      8
+     ],
+     "answer": [
+      12
+     ],
+     "distractors": [
+      12,
+      8,
+      36,
+      10
+     ]
+    },
+    "deck": "44 Food Borne Illnesses"
+   },
+   "figures": []
   }
  ]
 }
