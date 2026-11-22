@@ -24,7 +24,29 @@
     }).join("");
   }
 
+  // practice questions carry our own answer key: explanation, figure, teaching table,
+  // why each wrong choice is wrong, then the takeaway. HTML is limited to a small
+  // allowlist by tools/validate.py.
+  function practiceHTML(q) {
+    const x = q.explain || {}, L = "ABCDEFGH";
+    let h = `<div class="pq">`;
+    h += x.html || "";
+    if ((q.figures || []).length) {
+      h += `<div class="qf-figures pq-figs">` + q.figures.map(f => {
+        const cap = f.caption || `${lecName(q.lecture)} · Slide ${f.slide}`;
+        return `<button class="qf-figure" data-img="${esc(f.image)}" data-cap="${esc(cap)}"><img loading="lazy" src="${esc(f.image)}" alt="${esc(cap)}"><span class="qf-figure__cap">${esc(cap)}</span></button>`;
+      }).join("") + `</div>`;
+    }
+    if (x.table) h += `<div class="pq-table">${x.table}</div>`;
+    h += (x.why || []).map((w, i) => i === q.answer || !w ? "" : `<p class="pq-why"><b>Choice ${L[i]}.</b> ${esc(w)}</p>`).join("");
+    if (x.takeaway) h += `<div class="pq-take"><b>The takeaway</b>${esc(x.takeaway)}</div>`;
+    h += `</div>`;
+    h += `<div class="qf-cite">Practice question written from the slides${q.source_ref ? " · " + esc(q.source_ref) : ""} · ${esc(lecName(q.lecture, q))}${x.topic ? " · Topic: " + esc(x.topic) : ""}</div>`;
+    return h;
+  }
+
   function evidenceHTML(q) {
+    if (q.source === "practice") return practiceHTML(q);
     const quotes = (q.evidence || []).filter(e => e.type !== "slide");
     const slides = (q.evidence || []).filter(e => e.type === "slide");
     let h = "";

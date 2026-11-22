@@ -6,6 +6,7 @@
     notes: "Lecture notes",
     formative: "Formative quizzes",
     said: "Said in lecture",
+    practice: "Practice questions (written)",
   };
   // sources that only exist in a student's own quizzes (shown only when they have some)
   const MY_SOURCE_LABELS = {

@@ -1,0 +1,573 @@
+{
+ "lecture_id": "miid2-w06-lec32",
+ "block": "MIID II",
+ "week": 6,
+ "lecture": "32 Fever and Rashes",
+ "contributor": "caleb",
+ "questions": [
+  {
+   "id": "miid2-w06-lec32-q01",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 32 slides",
+   "stem": "A 3-year-old unvaccinated girl recovered from a febrile illness with a descending rash that began at her hairline and was preceded by cough, coryza, and conjunctivitis. Over the following year she has three hospital admissions, for bacterial pneumonia, severe diarrhea, and otitis media with mastoid involvement. Before the illness she had rarely been sick. Researchers studying such children find that the variety of memory lymphocytes in the blood is sharply reduced after the illness compared with before it.\n\nWhich of the following best explains this child's repeated infections?",
+   "choices": [
+    "Persistent viral replication in the anterior horn of the spinal cord",
+    "Loss of pre-existing immune memory caused by the viral infection",
+    "Toxin-mediated activation of a large fraction of T cells",
+    "Destruction of red cell precursors through the P antigen receptor",
+    "Latent virus reactivating in sensory nerve ganglia"
+   ],
+   "answer": 1,
+   "evidence": [],
+   "explain": {
+    "html": "<p>The illness described is measles. Beyond the acute rash and fever, measles damages the immune system and leaves a child's immune cell repertoire immature, wiping out previously built immune memory and making it harder to respond to new pathogens. This immune amnesia can last for years.</p><p>That is why most measles-associated deaths and complications come from secondary infections such as pneumonia and diarrhea, often months after the rash is gone, and why vaccination protects against far more than one disease.</p>",
+    "table": null,
+    "why": [
+     "Anterior horn destruction is the lesion of poliovirus and causes flaccid paralysis, not recurrent infections.",
+     "",
+     "Superantigen activation of T cells is the mechanism of toxic shock syndrome toxins, an acute process, not a year of infections.",
+     "The P antigen receptor is used by parvovirus B19 to infect erythroid precursors, causing anemia rather than infections.",
+     "Latency in sensory ganglia describes varicella zoster virus, which causes shingles, not broad immune deficiency."
+    ],
+    "takeaway": "Measles causes immune amnesia, a loss of immune memory that explains why secondary infections cause most measles deaths.",
+    "topic": "Measles: immune amnesia and secondary infection",
+    "subject": "Microbiology"
+   },
+   "figures": []
+  },
+  {
+   "id": "miid2-w06-lec32-q02",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 32 slides",
+   "stem": "A 26-year-old woman who recently moved to the US and has no vaccination records has had 2 days of low-grade fever. A fine pink maculopapular rash began on her face and spread to her trunk within a day. She has tender postauricular and suboccipital lymph nodes, and a few petechiae are seen on the soft palate. One week later the rash is gone, but she reports pain and stiffness in the small joints of both hands and both wrists. A pregnancy test is positive.\n\nThe virus causing her illness most likely belongs to which group, and what is the main concern for her pregnancy?",
+   "choices": [
+    "Enveloped RNA togavirus; congenital infection of the fetus during viremia",
+    "DNA parvovirus; fetal anemia leading to hydrops fetalis",
+    "Enveloped RNA paramyxovirus; subacute sclerosing panencephalitis",
+    "Double-stranded DNA herpesvirus; latent infection of fetal nerve ganglia",
+    "Nonenveloped RNA enterovirus; fetal meningitis and encephalitis"
+   ],
+   "answer": 0,
+   "evidence": [],
+   "explain": {
+    "html": "<p>A mild illness with low-grade fever, a descending fine rash, postauricular and suboccipital lymphadenopathy, palatal petechiae, and then polyarthralgia in an adult woman is rubella. Rubella is an enveloped RNA togavirus (genus Rubivirus) spread by the respiratory route.</p><p>Rubella is mild in adults, but the placenta and fetus become infected during the maternal viremia, causing congenital rubella syndrome. The danger is to the fetus, which is why an unvaccinated woman of childbearing age matters so much.</p>",
+    "table": null,
+    "why": [
+     "",
+     "Parvovirus B19 also causes arthritis in adults and fetal hydrops, but its rash is a slapped cheek, and postauricular nodes point to rubella.",
+     "Measles is the paramyxovirus linked to subacute sclerosing panencephalitis, and it presents with high fever, cough, coryza, and conjunctivitis.",
+     "Varicella zoster is the herpesvirus that becomes latent in ganglia, and its rash is vesicular.",
+     "Coxsackievirus is the enterovirus behind hand, foot, and mouth disease, with oral ulcers and palm and sole lesions."
+    ],
+    "takeaway": "Rubella is a mild togavirus illness with postauricular nodes and adult arthralgia whose main danger is congenital infection during maternal viremia.",
+    "topic": "Rubella in adults and pregnancy",
+    "subject": "Microbiology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w06-lec32/slide_24.jpg",
+     "slide": 24,
+     "caption": "Lecture 32 slides (2025-26) · Page 24"
+    }
+   ]
+  },
+  {
+   "id": "miid2-w06-lec32-q03",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 32 slides",
+   "stem": "A 9-month-old girl is brought to the emergency department after a 1-minute generalized seizure. For 3 days she has had abrupt fever to 39.8 C (103.6 F) with no other symptoms. This morning the fever broke, and a few hours later a rosy-pink blanching rash appeared on her trunk, neck, and arms. She now appears well and is playful. She has occipital lymphadenopathy. Her vaccines are up to date.\n\nAfter a primary infection, the virus responsible remains latent in which of the following, with a risk of severe reactivation after a stem cell transplant?",
+   "choices": [
+    "Sensory nerve ganglia",
+    "Hepatocytes",
+    "Erythroid progenitors",
+    "Lymphocytes and monocytes",
+    "Anterior horn neurons"
+   ],
+   "answer": 3,
+   "evidence": [],
+   "explain": {
+    "html": "<p>Several days of high fever in an infant, sometimes with a febrile seizure, followed by a rosy rash that appears only after the fever subsides is roseola (exanthem subitum), caused by human herpesvirus 6. Seroprevalence approaches 100% by age 2, and the diagnosis is clinical.</p><p>After primary infection, HHV-6 is shed in saliva and stays latent in lymphocytes and monocytes. In immunocompromised patients, especially hematopoietic stem cell transplant recipients, it can reactivate and cause serious disease such as encephalitis involving the temporal lobe and hippocampus, or marrow suppression.</p>",
+    "table": null,
+    "why": [
+     "Sensory ganglia are where varicella zoster virus hides, reactivating as shingles.",
+     "Hepatocytes are where hepatitis viruses replicate; HHV-6 does not stay latent there.",
+     "Erythroid progenitors are the target of parvovirus B19.",
+     "",
+     "Anterior horn neurons are destroyed by poliovirus."
+    ],
+    "takeaway": "Roseola (HHV-6) gives high fever, then a rash after defervescence; the virus stays latent in lymphocytes and monocytes and can reactivate after transplant.",
+    "topic": "Roseola: fever then rash",
+    "subject": "Microbiology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w06-lec32/slide_05.jpg",
+     "slide": 5,
+     "caption": "Lecture 32 slides (2025-26) · Page 5"
+    }
+   ]
+  },
+  {
+   "id": "miid2-w06-lec32-q04",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 32 slides",
+   "stem": "A 29-year-old woman at 20 weeks' gestation works as a kindergarten teacher. Three weeks ago several of her students had bright red cheeks, and she developed mild fever and painful swelling of both wrists and knees that has since resolved. A routine ultrasound now shows fetal ascites, pleural effusions, and skin edema. Doppler flow in the fetal middle cerebral artery is markedly increased, consistent with severe fetal anemia.\n\nWhich of the following best explains the fetal findings?",
+   "choices": [
+    "Direct viral infection of fetal erythroid precursors and myocardial cells",
+    "Maternal antibodies crossing the placenta to destroy fetal red cells",
+    "Placental infection during viremia causing congenital cataracts",
+    "Toxin released into maternal blood that crosses the placenta",
+    "Latent viral infection established in fetal sensory ganglia"
+   ],
+   "answer": 0,
+   "evidence": [],
+   "explain": {
+    "html": "<p>Children with slapped cheeks and a mother with polyarthropathy point to parvovirus B19. During maternal infection in pregnancy, the virus crosses to the fetus and attacks two cell types that express the P antigen: erythroid progenitors, causing fetal anemia, and fetal myocardial cells, causing direct myocardial dysfunction.</p><p>Severe anemia together with a weak heart leads to high-output failure and fluid in multiple compartments, which is hydrops fetalis.</p>",
+    "table": null,
+    "why": [
+     "",
+     "Maternal antibody destruction of fetal red cells is an alloimmune process, not a result of a viral illness picked up from children.",
+     "Congenital cataracts are part of congenital rubella syndrome, and rubella does not cause the slapped-cheek rash.",
+     "Parvovirus B19 is not a toxin-mediated illness; the damage comes from direct infection of target cells.",
+     "Latency in sensory ganglia is a property of varicella zoster virus, not parvovirus."
+    ],
+    "takeaway": "Maternal parvovirus B19 infection can cause hydrops fetalis through fetal anemia and direct myocardial dysfunction, both via the P antigen.",
+    "topic": "Parvovirus B19 in pregnancy",
+    "subject": "Microbiology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w06-lec32/slide_30.jpg",
+     "slide": 30,
+     "caption": "Lecture 32 slides (2025-26) · Page 30"
+    }
+   ]
+  },
+  {
+   "id": "miid2-w06-lec32-q05",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 32 slides",
+   "stem": "A 5-year-old unvaccinated boy has had 3 days of low-grade fever and an itchy rash. It began on his scalp and face and is now concentrated on his trunk. On examination, red papules, clear vesicles on a red base, and crusted lesions are all present side by side in the same area. New crops appeared each day. His grandmother, who lives with the family, had a painful band of blisters along one side of her chest 2 weeks ago.\n\nWhich of the following best describes the virus causing this boy's illness?",
+   "choices": [
+    "A DNA poxvirus whose lesions all appear in the same stage at once",
+    "An RNA enterovirus transmitted mostly by the fecal-oral route",
+    "A DNA herpesvirus that stays latent in sensory nerve ganglia",
+    "An RNA paramyxovirus that leaves behind an immune amnesia",
+    "A DNA herpesvirus that stays latent in B lymphocytes"
+   ],
+   "answer": 2,
+   "evidence": [],
+   "explain": {
+    "html": "<p>An itchy vesicular rash that starts on the head, concentrates on the trunk, and arrives in successive crops so that papules, vesicles, and crusts coexist is chickenpox, the primary infection with varicella zoster virus (VZV), a DNA herpesvirus. The grandmother's dermatomal blisters were shingles, the reactivation form, which can transmit primary varicella to a nonimmune child.</p><p>After primary infection VZV travels to and persists in sensory nerve ganglia, which is why it can reactivate decades later along a single dermatome. Lesions in different stages is the feature that separates varicella from smallpox and mpox, where all lesions are in the same stage.</p>",
+    "table": null,
+    "why": [
+     "Poxviruses such as variola and mpox produce lesions that are all in the same stage, the opposite of this rash.",
+     "Enteroviruses cause hand, foot, and mouth disease, with oral ulcers and palm and sole lesions, not crops on the trunk.",
+     "",
+     "Measles is the paramyxovirus that causes immune amnesia, and its rash is maculopapular, not vesicular.",
+     "Latency in B cells is the pattern of the gamma herpesviruses, not of varicella zoster virus."
+    ],
+    "takeaway": "Varicella gives crops of lesions in different stages (unlike smallpox and mpox) and stays latent in sensory ganglia, reactivating as shingles.",
+    "topic": "Varicella: lesions in different stages and latency",
+    "subject": "Microbiology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w06-lec32/slide_31.jpg",
+     "slide": 31,
+     "caption": "Lecture 32 slides (2025-26) · Page 31"
+    }
+   ]
+  },
+  {
+   "id": "miid2-w06-lec32-q06",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 32 slides",
+   "stem": "A 2-year-old girl who attends daycare is brought in during August because she has refused to eat or drink for a day. Two days ago she had fever, poor appetite, and a sore throat. Now she has painful shallow ulcers in the back of the mouth and small red spots that have become gray vesicles on her palms, soles, and buttocks. Several children in her daycare room have similar symptoms.\n\nThe most likely cause of this illness has which of the following features?",
+   "choices": [
+    "Enveloped DNA virus spread through sexual contact",
+    "Toxin-producing bacteria colonizing the throat",
+    "Nonenveloped RNA virus spread by the fecal-oral route",
+    "Enveloped RNA virus spread by respiratory droplets only",
+    "Tick-borne bacteria that replicate inside endothelial cells"
+   ],
+   "answer": 2,
+   "evidence": [],
+   "explain": {
+    "html": "<p>Fever and sore throat followed a day or two later by painful posterior oral ulcers (herpangina) and vesicles on the palms and soles, in a daycare outbreak in summer, is hand, foot, and mouth disease. Coxsackievirus A16 is the most common cause in the US.</p><p>Coxsackieviruses are non-polio enteroviruses, RNA viruses that are ubiquitous and spread by the fecal-oral route, with a summer and fall predominance. They can also cause meningitis and encephalitis, and they are detected by PCR.</p>",
+    "table": null,
+    "why": [
+     "The illness is not sexually transmitted, and the agent is an RNA virus, not a DNA virus.",
+     "Group A streptococcus causes pharyngitis and scarlet fever with a sandpaper rash, not palm and sole vesicles.",
+     "",
+     "Respiratory-only spread fits measles or rubella, which cause maculopapular rashes, not oral ulcers with palm and sole vesicles.",
+     "Tick-borne endothelial infection is Rocky Mountain spotted fever, whose rash becomes petechial and the child would have tick exposure."
+    ],
+    "takeaway": "Hand, foot, and mouth disease (posterior oral ulcers with palm and sole vesicles) is caused by coxsackievirus A16, a fecal-oral enterovirus with a summer and fall peak.",
+    "topic": "Hand, foot, and mouth disease",
+    "subject": "Microbiology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w06-lec32/slide_34.jpg",
+     "slide": 34,
+     "caption": "Lecture 32 slides (2025-26) · Page 34"
+    }
+   ]
+  },
+  {
+   "id": "miid2-w06-lec32-q07",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 32 slides",
+   "stem": "A 6-year-old boy has had 2 days of fever to 39.0 C (102.2 F) and painful swallowing. This morning his mother noticed a rough rash that started on his abdomen and spread to the trunk and limbs. It feels like fine sandpaper and is accentuated as red lines in the skin creases of the elbows. His cheeks are flushed with pallor around the mouth, his conjunctivae and lips are normal, and his tongue is red with enlarged papillae. A rapid antigen test of a throat swab is positive.\n\nThe rash is caused by which of the following, and which drug is first line?",
+   "choices": [
+    "Exfoliative toxin cleaving desmoglein-1; clindamycin",
+    "Erythrogenic exotoxin acting as a superantigen; penicillin",
+    "Hemagglutinin binding to endothelial cells; vitamin A",
+    "Toxic shock syndrome toxin-1 from the throat; vancomycin",
+    "Bacterial invasion of vessel endothelium; doxycycline"
+   ],
+   "answer": 1,
+   "evidence": [],
+   "explain": {
+    "html": "<p>Pharyngitis with a positive rapid antigen test, followed by a sandpaper rash that starts on the abdomen, accentuation in the skin creases (Pastia lines), circumoral pallor, and a strawberry tongue is scarlet fever from group A streptococcus. The rash and fever come from erythrogenic (pyrogenic) exotoxins, which act as superantigens and drive T cell proliferation and cytokine release.</p><p>Diagnosis is confirmed with a rapid antigen test or throat culture, and treatment is penicillin. Normal conjunctivae and lips help separate it from Kawasaki disease, which can look similar.</p>",
+    "table": null,
+    "why": [
+     "Exfoliative toxins are made by Staphylococcus aureus and cause staphylococcal scalded skin syndrome, with sheets of peeling skin.",
+     "",
+     "Hemagglutinin is a surface protein of the measles virus, and vitamin A is given in measles.",
+     "TSST-1 is a Staphylococcus aureus toxin that causes toxic shock with hypotension, not a throat infection with a sandpaper rash.",
+     "Endothelial invasion with a petechial rash on the wrists and ankles describes Rocky Mountain spotted fever, treated with doxycycline."
+    ],
+    "takeaway": "Scarlet fever follows group A streptococcal pharyngitis; erythrogenic exotoxin causes the sandpaper rash with Pastia lines, and penicillin treats it.",
+    "topic": "Scarlet fever: toxin and treatment",
+    "subject": "Microbiology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w06-lec32/slide_36.jpg",
+     "slide": 36,
+     "caption": "Lecture 32 slides (2025-26) · Page 36"
+    }
+   ]
+  },
+  {
+   "id": "miid2-w06-lec32-q08",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 32 slides",
+   "stem": "A 34-year-old man cut his forearm on a fence 2 days ago. He now has fever, severe pain in the forearm out of proportion to its appearance, and dusky, swollen skin around the cut. Blood pressure is 78/44 mm Hg and creatinine is rising. Blood cultures grow gram-positive cocci in chains that are beta-hemolytic. A surgeon finds necrotic tissue along the fascia.\n\nIn addition to surgery and supportive care, which regimen best matches this illness?",
+   "choices": [
+    "Penicillin alone, since group A streptococci remain fully sensitive to it",
+    "Doxycycline, started before any confirmatory test",
+    "Intravenous immunoglobulin with high-dose oral aspirin",
+    "Rifampin for 4 days for the patient and household contacts",
+    "Penicillin plus clindamycin, with intravenous immunoglobulin"
+   ],
+   "answer": 4,
+   "evidence": [],
+   "explain": {
+    "html": "<p>Shock and organ failure after a skin wound, with severe pain, tissue necrosis, and bacteremia with beta-hemolytic chains, is streptococcal toxic shock from group A streptococcus. Compared with the staphylococcal form, the streptococcal form more often has severe pain, tissue necrosis, and bacteremia (about 60%), follows cuts, burns, or bruises rather than tampons, and has a much higher mortality (30 to 70%).</p><p>Treatment uses anti-streptococcal antibiotics including one that inhibits protein synthesis, such as clindamycin, to shut down toxin production, and intravenous immunoglobulin is added for group A streptococcal toxic shock to help neutralize the superantigen toxins.</p>",
+    "table": null,
+    "why": [
+     "Penicillin alone does not stop toxin synthesis; a protein synthesis inhibitor is added in toxic shock.",
+     "Doxycycline is the empiric drug for Rocky Mountain spotted fever, not streptococcal toxic shock.",
+     "Immunoglobulin with aspirin is the treatment for Kawasaki disease.",
+     "Rifampin for contacts is prophylaxis for Haemophilus influenzae type b or meningococcus, not treatment of streptococcal shock.",
+     ""
+    ],
+    "takeaway": "Streptococcal toxic shock follows skin wounds, with pain, necrosis, bacteremia, and high mortality; treat with antibiotics including a protein synthesis inhibitor plus IVIG.",
+    "topic": "Streptococcal vs staphylococcal toxic shock",
+    "subject": "Microbiology"
+   },
+   "figures": []
+  },
+  {
+   "id": "miid2-w06-lec32-q09",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 32 slides",
+   "stem": "A 2-year-old boy had crusting around his nostrils for 3 days, then developed low-grade fever, irritability, and tender red skin. Within a day, the top layer of skin on his neck, armpits, and groin began peeling off in sheets, and light rubbing of normal-appearing skin causes it to slide off. His mouth and eyes are not involved. A culture from the nose grows Staphylococcus aureus; a culture of a blister is sterile.\n\nThe skin findings are caused by a toxin that targets which of the following?",
+   "choices": [
+    "Collagen of the dermal-epidermal junction",
+    "Desmoglein-1 in the granular layer of the epidermis",
+    "Keratin filaments of basal epidermal cells",
+    "Endothelial cells of small dermal blood vessels",
+    "T cell receptors and MHC class II molecules"
+   ],
+   "answer": 1,
+   "evidence": [],
+   "explain": {
+    "html": "<p>Sheets of superficial peeling with a positive Nikolsky sign, starting from a nasal infection, in a toddler is staphylococcal scalded skin syndrome. The disease is toxin-mediated: exfoliative toxins A and B made at the site of infection circulate and act at a remote site, which is why the blister itself is sterile.</p><p>The toxins target desmoglein-1, so the hallmark split is in the stratum granulosum, high in the epidermis. Because the split is so superficial, the skin heals without scarring. Treatment is an anti-staphylococcal antibiotic plus a protein synthesis inhibitor such as clindamycin, with pain control and hydration.</p>",
+    "table": null,
+    "why": [
+     "A split at the dermal-epidermal junction would be deeper and would scar; the cleavage here is high in the epidermis.",
+     "",
+     "The basal layer is not where the split occurs in this disease.",
+     "Small vessel endothelium is the target of Rickettsia rickettsii in Rocky Mountain spotted fever.",
+     "Binding T cell receptors and MHC class II is the superantigen action of toxic shock toxins."
+    ],
+    "takeaway": "In staphylococcal scalded skin syndrome, circulating exfoliative toxins cleave desmoglein-1 at the stratum granulosum, so the skin peels without scarring.",
+    "topic": "Staphylococcal scalded skin syndrome",
+    "subject": "Microbiology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w06-lec32/slide_44.jpg",
+     "slide": 44,
+     "caption": "Lecture 32 slides (2025-26) · Page 44"
+    }
+   ]
+  },
+  {
+   "id": "miid2-w06-lec32-q10",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 32 slides",
+   "stem": "A 19-year-old college student has abrupt fever, chills, severe leg pain, and cold hands and feet. Within hours, a macular rash becomes petechial and then purpuric over the legs, and his blood pressure falls. Blood cultures grow an oxidase-positive gram-negative diplococcus that ferments maltose and glucose. He has had two prior episodes of similar invasive infection with the same organism. Workup for an underlying cause is planned.\n\nWhich underlying condition is most likely in this patient?",
+   "choices": [
+    "Deficiency of a late complement component (C5 to C9)",
+    "Deficiency of the complement inhibitor C1 esterase",
+    "Absent thymus with low T cell numbers",
+    "Selective deficiency of IgA in mucosal secretions",
+    "Defective NADPH oxidase activity within neutrophils and monocytes"
+   ],
+   "answer": 0,
+   "evidence": [],
+   "explain": {
+    "html": "<p>A rapidly evolving petechial and purpuric rash with shock, and a culture showing an oxidase-positive, maltose-fermenting gram-negative diplococcus, is meningococcemia from Neisseria meningitidis. Risk factors for invasive disease include late complement deficiency, asplenia, and close contact with a case.</p><p>Repeated invasive Neisseria infections point to a deficiency of the late complement components (C5 to C9) that form the membrane attack complex, which normally lyses these organisms. Management of an episode is a third-generation cephalosporin, droplet isolation for 24 hours, and prophylaxis for close contacts.</p>",
+    "table": null,
+    "why": [
+     "",
+     "C1 esterase inhibitor deficiency causes hereditary angioedema, not recurrent Neisseria infections.",
+     "Absent T cells cause viral, fungal, and opportunistic infections, not a selective Neisseria pattern.",
+     "IgA deficiency gives mucosal infections and is usually mild, not recurrent meningococcemia.",
+     "NADPH oxidase defects cause infections with catalase-positive organisms and abscesses, not repeated Neisseria sepsis."
+    ],
+    "takeaway": "Recurrent invasive meningococcal disease suggests late complement (C5 to C9) deficiency; acute meningococcemia is treated with a third-generation cephalosporin plus contact prophylaxis.",
+    "topic": "Meningococcemia: risk factors and prophylaxis",
+    "subject": "Microbiology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w06-lec32/slide_50.jpg",
+     "slide": 50,
+     "caption": "Lecture 32 slides (2025-26) · Page 50"
+    }
+   ]
+  },
+  {
+   "id": "miid2-w06-lec32-q11",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 32 slides",
+   "stem": "A 9-year-old girl has had 5 days of fever, abdominal pain, vomiting, and diarrhea. She now has a diffuse rash, red conjunctivae, red swollen lips, and confusion, and her blood pressure is 80/45 mm Hg. Inflammatory markers are markedly elevated, and an echocardiogram shows reduced ventricular function. Her family had a respiratory illness confirmed as COVID-19 about 4 weeks ago; she had only a mild cough at the time. Throat and blood cultures are negative.\n\nWhich of the following best describes the illness in this child?",
+   "choices": [
+    "A primary viral infection of the skin by a herpesvirus",
+    "A postinfectious inflammatory syndrome that follows COVID-19",
+    "A superantigen toxin released from a tampon or wound",
+    "An acute infection of the brain caused by measles virus",
+    "A tick-borne bacterial infection of small vessel endothelial cells"
+   ],
+   "answer": 1,
+   "evidence": [],
+   "explain": {
+    "html": "<p>Persistent fever with prominent gastrointestinal symptoms, rash, conjunctivitis, mucous membrane changes, neurologic symptoms, shock, and cardiac dysfunction several weeks after a COVID-19 infection is multisystem inflammatory syndrome in children (MIS-C). It typically appears more than 2 weeks after infection and causes diffuse inflammation of the heart, lungs, kidneys, brain, skin, eyes, and gut.</p><p>MIS-C can look like Kawasaki disease or toxic shock syndrome, so the timing after COVID-19 and the absence of a toxin source or positive cultures are the clues that separate it.</p>",
+    "table": null,
+    "why": [
+     "No herpesvirus primary infection explains multiorgan inflammation weeks after COVID-19.",
+     "",
+     "Toxic shock needs a toxin-producing Staphylococcus or Streptococcus source, and none is present here.",
+     "Measles encephalitis follows a measles illness with cough, coryza, conjunctivitis, and Koplik spots.",
+     "Rocky Mountain spotted fever requires a tick exposure and gives a petechial rash starting at wrists and ankles."
+    ],
+    "takeaway": "MIS-C is a multisystem inflammatory illness weeks after COVID-19 that can mimic Kawasaki disease or toxic shock syndrome.",
+    "topic": "MIS-C after COVID-19",
+    "subject": "Microbiology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w06-lec32/slide_58.jpg",
+     "slide": 58,
+     "caption": "Lecture 32 slides (2025-26) · Page 58"
+    }
+   ]
+  },
+  {
+   "id": "miid2-w06-lec32-q12",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 32 slides",
+   "stem": "A 14-month-old boy is admitted in April with 4 days of fever to 40.0 C (104 F), harsh cough, runny nose, and red, watery eyes that make him squint in room light. Yesterday a purple-red maculopapular rash appeared at the hairline and behind the ears and has since spread to the face and trunk. He has not received any vaccines because of family preference. Examination of the buccal mucosa opposite the lower molars shows tiny white spots on a red base.\n\nIn addition to supportive care, which of the following should this child receive?",
+   "choices": [
+    "Oral acyclovir for 5 days",
+    "Vitamin A supplementation",
+    "Intravenous immunoglobulin and aspirin",
+    "Intravenous penicillin G",
+    "Oral azithromycin for 5 days"
+   ],
+   "answer": 1,
+   "evidence": [],
+   "explain": {
+    "html": "<p>Cough, coryza, and conjunctivitis with high fever, followed by a rash that starts at the hairline and moves down, plus white spots on the buccal mucosa (Koplik spots, the pathognomonic enanthem), identify measles in an unvaccinated child. Measles is a single-stranded RNA paramyxovirus (genus Morbillivirus) spread by the respiratory route.</p><p>There is no specific antiviral for measles. Most deaths and complications come from secondary infections during the immunosuppression measles causes, and outcomes are better with vitamin A supplementation, so every child admitted with measles in the US should receive it.</p>",
+    "table": null,
+    "why": [
+     "Acyclovir targets herpesviruses such as varicella zoster virus; measles is an RNA paramyxovirus and acyclovir has no role.",
+     "",
+     "Immunoglobulin plus aspirin is the treatment for Kawasaki disease, which has conjunctivitis without exudate but not Koplik spots or a prominent cough and coryza.",
+     "Penicillin treats scarlet fever from group A streptococcus, which gives a sandpaper rash and strawberry tongue, not Koplik spots.",
+     "Azithromycin treats pertussis; it does nothing for the viral illness here."
+    ],
+    "takeaway": "Measles (fever, cough, coryza, conjunctivitis, then a descending rash, with Koplik spots) has no specific antiviral, and hospitalized children should receive vitamin A.",
+    "topic": "Measles: recognition and vitamin A",
+    "subject": "Microbiology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w06-lec32/slide_19.jpg",
+     "slide": 19,
+     "caption": "Lecture 32 slides (2025-26) · Page 19"
+    }
+   ]
+  },
+  {
+   "id": "miid2-w06-lec32-q13",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 32 slides",
+   "stem": "A 7-year-old boy with sickle cell disease is brought in for fatigue and pallor. Ten days ago he had a low-grade fever and mild malaise, followed by bright red cheeks and a lacy rash on his arms. His younger sister had the same facial rash last week.\n\nTest: Result: Reference range\nHemoglobin: 4.8 g/dL: His baseline 8.5 g/dL\nReticulocytes: 0.1%: 0.5 to 2.5%\nLeukocytes: 7,200/mm3: 4,500 to 13,500/mm3\nPlatelets: 260,000/mm3: 150,000 to 400,000/mm3\n\nThe drop in hemoglobin is best explained by viral entry into which cells, using which receptor?",
+   "choices": [
+    "Mature red cells, through the hemagglutinin binding site",
+    "Erythroid progenitors, through the P antigen (globoside)",
+    "Monocytes, through the complement receptor CR1",
+    "Splenic macrophages, through Fc receptors on their surface",
+    "Hepatocytes, through the bile acid transporter on the cell surface"
+   ],
+   "answer": 1,
+   "evidence": [],
+   "explain": {
+    "html": "<p>A slapped-cheek rash after a mild prodrome in a sibling pair is erythema infectiosum (fifth disease) from parvovirus B19. The virus has a unique tropism for human erythroid progenitor cells: it needs the P blood group antigen (globoside) to enter, and it is cytotoxic to pronormoblasts and normoblasts.</p><p>In a healthy child the pause in red cell production goes unnoticed, but in a patient with hemolytic anemia such as sickle cell disease, whose red cells survive only days, stopping production causes a transient aplastic crisis: a steep hemoglobin fall with almost no reticulocytes, while white cells and platelets are spared.</p>",
+    "table": null,
+    "why": [
+     "Mature red cells are not the target; the virus destroys precursors, which is why reticulocytes vanish.",
+     "",
+     "Monocytes are not the target of parvovirus B19, and loss of monocytes would not stop reticulocyte production.",
+     "Increased splenic destruction would raise the reticulocyte count, not drop it to near zero.",
+     "Hepatocytes are not infected by parvovirus B19, and liver injury would not cause isolated reticulocytopenia."
+    ],
+    "takeaway": "Parvovirus B19 enters erythroid progenitors through the P antigen and causes transient aplastic crisis in patients with hemolytic anemia.",
+    "topic": "Parvovirus B19: transient aplastic crisis",
+    "subject": "Microbiology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w06-lec32/slide_30.jpg",
+     "slide": 30,
+     "caption": "Lecture 32 slides (2025-26) · Page 30"
+    }
+   ]
+  },
+  {
+   "id": "miid2-w06-lec32-q14",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 32 slides",
+   "stem": "A 17-year-old girl is brought to the emergency department on day 3 of her menstrual period with sudden high fever, vomiting, watery diarrhea, and muscle aches. She is confused. Temperature is 39.6 C (103.3 F), pulse 150/min, and blood pressure 72/40 mm Hg. She has a diffuse sunburn-like erythema, red conjunctivae, and a red tongue. A tampon is removed from the vagina. Creatinine is 2.4 mg/dL (0.5 to 1.1) and platelets are 80,000/mm3 (150,000 to 400,000). Blood cultures are negative.\n\nThe toxin responsible for this illness causes disease by which of the following mechanisms?",
+   "choices": [
+    "Linking T cell receptors to MHC class II outside the groove",
+    "Cleaving the protein that holds skin cells together in the epidermis",
+    "Forming pores that lyse red cells and leukocytes in the bloodstream",
+    "Blocking release of inhibitory neurotransmitters in the spinal cord",
+    "Being presented as a peptide within the MHC class II groove"
+   ],
+   "answer": 0,
+   "evidence": [],
+   "explain": {
+    "html": "<p>Fever, hypotension, diffuse erythroderma, mucosal hyperemia, and multiorgan injury (kidney failure, low platelets, confusion) in a menstruating adolescent using a tampon is staphylococcal toxic shock syndrome, caused by toxic shock syndrome toxin-1 (TSST-1) from Staphylococcus aureus. Bacteremia is uncommon in the staphylococcal form, so negative blood cultures fit.</p><p>TSST-1 is a superantigen: it cross-links the beta region of the T cell receptor to MHC class II on antigen-presenting cells outside the antigen-binding site. That activates a huge fraction of T cells at once, not just the rare clone specific for a peptide, and the resulting flood of cytokines causes shock. People without neutralizing antibody to the toxin are most at risk.</p>",
+    "table": null,
+    "why": [
+     "",
+     "Cleaving desmoglein-1 is the action of exfoliative toxins in staphylococcal scalded skin syndrome.",
+     "Pore-forming hemolysins and leukocidin destroy cells locally but do not cause this cytokine storm.",
+     "Blocking inhibitory neurotransmitter release is the action of tetanus toxin, which causes spasms.",
+     "A peptide presented in the groove activates only rare specific T cells; superantigens bypass the groove, which is why so many T cells respond."
+    ],
+    "takeaway": "TSST-1 causes toxic shock as a superantigen, binding the T cell receptor and MHC class II outside the peptide groove to activate T cells broadly.",
+    "topic": "Staphylococcal toxic shock: superantigen mechanism",
+    "subject": "Microbiology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w06-lec32/slide_41.jpg",
+     "slide": 41,
+     "caption": "Lecture 32 slides (2025-26) · Page 41"
+    }
+   ]
+  },
+  {
+   "id": "miid2-w06-lec32-q15",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 32 slides",
+   "stem": "A 9-year-old boy in Oklahoma is brought in during June with 3 days of fever, headache, vomiting, abdominal pain, and sensitivity to light. He went camping last week. Today small pink blanching macules appeared on his wrists and ankles, and some are becoming petechial and spreading toward his trunk; a few are on his palms.\n\nTest: Result: Reference range\nLeukocytes: 3,600/mm3: 4,500 to 13,500/mm3\nPlatelets: 88,000/mm3: 150,000 to 400,000/mm3\nSodium: 129 mEq/L: 135 to 145 mEq/L\nAlanine aminotransferase: 78 U/L: 10 to 40 U/L\n\nWhich of the following is the best next step in management?",
+   "choices": [
+    "Send serology and begin treatment if titers rise",
+    "Begin oral amoxicillin and recheck in 48 hours",
+    "Give a third-generation cephalosporin and place in droplet isolation",
+    "Wait to see whether the rash reaches the palms fully",
+    "Begin doxycycline now, before any confirmatory result"
+   ],
+   "answer": 4,
+   "evidence": [],
+   "explain": {
+    "html": "<p>Fever, headache, and gastrointestinal symptoms after outdoor exposure in the South Central US in summer, with a rash that starts on the wrists and ankles, turns petechial, and spreads centripetally, plus low white cells, low platelets, low sodium, and mild transaminitis, is Rocky Mountain spotted fever. Rickettsia rickettsii, a tick-borne intracellular gram-negative bacterium, multiplies in the endothelium of small vessels, causing vessel injury, capillary leak, and petechiae.</p><p>It can progress to widespread necrosis and death, and 10 to 15% of patients never get a rash. It requires a high index of suspicion and early empiric doxycycline: you cannot wait for serology, PCR, or the classic rash. Doxycycline also covers the similar tick-borne illnesses ehrlichiosis and anaplasmosis.</p>",
+    "table": null,
+    "why": [
+     "Waiting for serology delays treatment of a disease that can kill quickly; therapy must be empiric.",
+     "Amoxicillin does not reliably treat rickettsial infection, and waiting 48 hours is dangerous.",
+     "A third-generation cephalosporin with droplet isolation is the approach to meningococcemia, which lacks the tick exposure and wrist-ankle start.",
+     "Waiting for the classic rash is a known pitfall, since many patients never develop it.",
+     ""
+    ],
+    "takeaway": "Rocky Mountain spotted fever (tick exposure, wrist and ankle rash spreading centrally, low platelets and sodium) is treated with empiric doxycycline at once.",
+    "topic": "Rocky Mountain spotted fever: empiric doxycycline",
+    "subject": "Microbiology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w06-lec32/slide_48.jpg",
+     "slide": 48,
+     "caption": "Lecture 32 slides (2025-26) · Page 48"
+    }
+   ]
+  },
+  {
+   "id": "miid2-w06-lec32-q16",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 32 slides",
+   "stem": "A 3-year-old boy has had fever to 39.5 C (103.1 F) for 6 days and is very irritable. He has bilateral red conjunctivae without discharge, red cracked lips, a strawberry tongue, a polymorphous rash accentuated in the diaper area, swelling and redness of his hands and feet, and one enlarged node on the left side of his neck. Group A streptococcal testing is negative.\n\nTest: Result: Reference range\nLeukocytes: 18,700/mm3, neutrophil predominant: 5,500 to 15,500/mm3\nAlbumin: 2.9 g/dL: 3.5 to 5.0 g/dL\nUrinalysis: White cells present, culture negative: No white cells\n\nPrompt treatment with which therapy is given mainly to prevent which complication?",
+   "choices": [
+    "Penicillin, to prevent rheumatic fever and valve damage",
+    "Doxycycline, to prevent vasculitis-related gangrene",
+    "Vitamin A, to prevent pneumonia and encephalitis",
+    "Immunoglobulin with aspirin, to prevent coronary aneurysms",
+    "Clindamycin with immunoglobulin, to prevent multiorgan failure"
+   ],
+   "answer": 3,
+   "evidence": [],
+   "explain": {
+    "html": "<p>Five or more days of fever plus at least four of the five features (nonexudative bilateral conjunctivitis, oral changes with a strawberry tongue and cracked lips, a polymorphous rash, extremity changes, and unilateral cervical lymphadenitis) makes the diagnosis of Kawasaki disease, a medium vessel vasculitis of young children. Sterile pyuria, leukocytosis, and low albumin are typical lab findings.</p><p>Untreated, about 20% of children develop coronary artery abnormalities including aneurysms, so an echocardiogram is obtained at presentation, and treatment is high-dose intravenous pooled immunoglobulin with oral aspirin. Kawasaki disease can resemble measles, scarlet fever, and toxic shock, which is why the negative strep test and normal blood pressure matter here.</p>",
+    "table": null,
+    "why": [
+     "Penicillin treats group A streptococcal infection, which was tested and is negative here.",
+     "Doxycycline treats rickettsial disease, which presents with a petechial rash after tick exposure.",
+     "Vitamin A is given in measles, which would have cough, coryza, and Koplik spots.",
+     "",
+     "Clindamycin with immunoglobulin is for streptococcal toxic shock, which would bring hypotension and a toxin-producing infection."
+    ],
+    "takeaway": "Kawasaki disease (5 days of fever plus 4 of 5 criteria) is treated with IVIG and aspirin to prevent coronary artery aneurysms.",
+    "topic": "Kawasaki disease: treatment and cardiac risk",
+    "subject": "Microbiology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w06-lec32/slide_54.jpg",
+     "slide": 54,
+     "caption": "Lecture 32 slides (2025-26) · Page 54"
+    }
+   ]
+  }
+ ]
+}

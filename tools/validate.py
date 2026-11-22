@@ -16,8 +16,12 @@ import json, re, sys, unicodedata
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-SOURCES = {"slide", "notes", "formative", "said"}
+SOURCES = {"slide", "notes", "formative", "said", "practice"}
+# "practice": a question a student wrote from the slides. It is not copied from
+# the course, so it needs no verbatim evidence, but it must explain itself in
+# `note` and say which slides it was written from in `source_ref`.
 EVTYPES = {"transcript", "notes", "slide"}
+SAFE_TAGS = {"p", "b", "i", "strong", "em", "sup", "sub", "br", "ul", "ol", "li", "table", "thead", "tbody", "tr", "th", "td"}
 
 
 def norm(s):
@@ -83,7 +87,22 @@ def main():
             if q.get("stem_image") and not (ROOT / q["stem_image"]).exists():
                 errs.append(f"{w}: missing stem_image {q['stem_image']}")
             ev = q.get("evidence", [])
-            if not ev:
+            if q.get("source") == "practice":
+                x = q.get("explain") or {}
+                if not x.get("html") or not x.get("takeaway"):
+                    errs.append(f"{w}: practice questions need explain.html and explain.takeaway")
+                for k in ("html", "table"):
+                    bad = {m.lower() for m in re.findall(r"<\s*/?\s*([a-zA-Z0-9]+)", x.get(k) or "")} - SAFE_TAGS
+                    if bad or re.search(r"<[a-zA-Z]+\s+[^>]*>", x.get(k) or ""):
+                        errs.append(f"{w}: explain.{k} may use only plain {sorted(SAFE_TAGS)} tags, no attributes")
+                if not isinstance(x.get("why", []), list) or (x.get("why") and len(x["why"]) != len(q.get("choices") or [])):
+                    errs.append(f"{w}: explain.why needs one entry per choice")
+                for fg in q.get("figures", []):
+                    if not (ROOT / fg.get("image", "")).exists():
+                        errs.append(f"{w}: missing figure {fg.get('image')}")
+                if not q.get("source_ref"):
+                    errs.append(f"{w}: practice questions need source_ref (which slides they were written from)")
+            elif not ev:
                 errs.append(f"{w}: needs at least one evidence block (quote or slide)")
             for e in ev:
                 t = e.get("type")

@@ -1,0 +1,555 @@
+{
+ "lecture_id": "miid2-w07-lec38",
+ "block": "MIID II",
+ "week": 7,
+ "lecture": "38 Sexually Transmitted Infections",
+ "contributor": "caleb",
+ "questions": [
+  {
+   "id": "miid2-w07-lec38-q01",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 38 slides",
+   "stem": "A 27-year-old man comes to an STI clinic with 5 days of two painful, ragged ulcers on the shaft of the penis with a purulent base. There is a tender, fluctuant left inguinal lymph node. He had unprotected intercourse during a recent trip. Darkfield microscopy and syphilis serology are negative, and an HSV nucleic acid amplification test (NAAT) of the ulcer exudate is negative.\n\nWhich of the following organisms is the most likely cause?",
+   "choices": [
+    "Treponema pallidum",
+    "Haemophilus ducreyi",
+    "Klebsiella granulomatis",
+    "Chlamydia trachomatis serovar L2",
+    "Herpes simplex virus type 2"
+   ],
+   "answer": 1,
+   "evidence": [],
+   "explain": {
+    "html": "<p>One or more <b>painful</b> genital ulcers with <b>tender, suppurative inguinal adenopathy</b>, after syphilis (darkfield and serology) and HSV (NAAT or culture) have been excluded, meets the criteria for a probable diagnosis of <b>chancroid</b>.</p><p>Chancroid is caused by <b>Haemophilus ducreyi</b>, a fastidious gram-negative facultative anaerobe that needs special culture media, so diagnosis is largely by these exclusion criteria. Treatment options include azithromycin, ceftriaxone, ciprofloxacin and erythromycin, and recent partners are treated even if asymptomatic.</p>",
+    "table": null,
+    "why": [
+     "Syphilis was excluded by negative darkfield and serology, and its chancre is classically painless.",
+     "",
+     "Granuloma inguinale produces painless ulcers without regional adenopathy.",
+     "LGV usually has only a small self-limited papule or ulcer; adenopathy or proctocolitis dominates.",
+     "HSV was excluded by a negative NAAT of the ulcer."
+    ],
+    "takeaway": "Chancroid (Haemophilus ducreyi) is diagnosed by painful ulcers with suppurative inguinal adenopathy once syphilis and HSV are excluded.",
+    "topic": "Chancroid",
+    "subject": "Microbiology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w07-lec38/slide_11.jpg",
+     "slide": 11,
+     "caption": "Lecture 38 slides (2025-26) · Page 11"
+    }
+   ]
+  },
+  {
+   "id": "miid2-w07-lec38-q02",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 38 slides",
+   "stem": "A 35-year-old man who recently returned from 6 months working in India has a slowly enlarging, painless, beefy-red ulcer on the perineum that bleeds easily on contact. There is no inguinal lymphadenopathy, though there is a firm subcutaneous swelling near the groin. Cultures are unrevealing. A crush preparation of tissue from the ulcer edge shows dark-staining intracellular bacteria within mononuclear cells.\n\nWhich of the following best describes the required treatment course?",
+   "choices": [
+    "A single intramuscular dose of benzathine penicillin G given today",
+    "Seven days of oral metronidazole",
+    "Topical imiquimod applied until clearance",
+    "One to five days of oral valacyclovir",
+    "At least 3 weeks of an oral antibiotic such as azithromycin"
+   ],
+   "answer": 4,
+   "evidence": [],
+   "explain": {
+    "html": "<p>A painless, highly vascular ulcer that bleeds easily, without regional adenopathy, in a traveler from an endemic tropical area, with <b>Donovan bodies</b> on tissue crush prep, is <b>granuloma inguinale (donovanosis)</b>. It is caused by the intracellular gram-negative bacterium <b>Klebsiella granulomatis</b>. The subcutaneous swelling is a pseudobubo.</p><p>The organism is hard to culture, and treatment must last <b>at least 3 weeks</b> (azithromycin, doxycycline, ciprofloxacin, erythromycin or TMP-SMX DS), sometimes with an aminoglycoside added.</p>",
+    "table": null,
+    "why": [
+     "Single-dose benzathine penicillin treats early syphilis.",
+     "Metronidazole treats trichomoniasis and bacterial vaginosis.",
+     "Imiquimod is a topical treatment for anogenital warts.",
+     "Short valacyclovir courses treat recurrent genital herpes.",
+     ""
+    ],
+    "takeaway": "Granuloma inguinale (Klebsiella granulomatis): painless, easily bleeding ulcers without adenopathy, Donovan bodies on crush prep, treated for at least 3 weeks.",
+    "topic": "Granuloma inguinale",
+    "subject": "Microbiology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w07-lec38/slide_16.jpg",
+     "slide": 16,
+     "caption": "Lecture 38 slides (2025-26) · Page 16"
+    }
+   ]
+  },
+  {
+   "id": "miid2-w07-lec38-q03",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 38 slides",
+   "stem": "A 26-year-old man presents with 1 week of fever, malaise and a nonpruritic rash of copper-colored macules over the trunk, palms and soles. He has patchy hair loss, painless white mucosal patches in the mouth, and moist, flat, gray plaques in the perianal area. He has generalized lymphadenopathy. Two months ago he had a painless penile sore that healed on its own.\n\nWhich of the following is the most appropriate way to confirm the diagnosis?",
+   "choices": [
+    "A nontreponemal test with a treponemal test",
+    "Culture of the organism on artificial media",
+    "A nontreponemal test result alone",
+    "Gram stain of the perianal lesion",
+    "Viral culture of the oral lesions"
+   ],
+   "answer": 0,
+   "evidence": [],
+   "explain": {
+    "html": "<p>A healed painless chancre followed by fever, rash on the palms and soles, alopecia, mucosal lesions, <b>condylomata lata</b> and generalized lymphadenopathy is <b>secondary syphilis</b>, the disseminated, most florid stage of Treponema pallidum infection.</p><p>T. pallidum <b>cannot be cultured on artificial media</b>. Serology confirms the diagnosis, and it requires <b>both</b> a nontreponemal test (RPR or VDRL) and a treponemal test (FTA-ABS or TP-PA); one alone is insufficient. In the traditional algorithm the nontreponemal test is done first, and in the reverse-sequence algorithm the treponemal test comes first.</p>",
+    "table": null,
+    "why": [
+     "",
+     "T. pallidum cannot be grown on artificial media.",
+     "A single test type is insufficient to make the diagnosis.",
+     "T. pallidum is a thin spirochete not reliably seen on Gram stain; darkfield or immunofluorescence is used for lesions.",
+     "This is a bacterial infection, not a viral one."
+    ],
+    "takeaway": "Secondary syphilis (palm and sole rash, condylomata lata, alopecia, mucosal lesions) is confirmed with both a nontreponemal and a treponemal test.",
+    "topic": "Secondary syphilis",
+    "subject": "Microbiology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w07-lec38/slide_27.jpg",
+     "slide": 27,
+     "caption": "Lecture 38 slides (2025-26) · Page 27"
+    }
+   ]
+  },
+  {
+   "id": "miid2-w07-lec38-q04",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 38 slides",
+   "stem": "A 44-year-old man has 1 week of blurred vision and floaters in both eyes. Eye examination shows panuveitis. He has a faint rash on his palms. RPR is reactive at 1:128 and the treponemal test is reactive. He has no penicillin allergy.\n\nWhich of the following is the most appropriate treatment?",
+   "choices": [
+    "Benzathine penicillin G intramuscularly once",
+    "Benzathine penicillin G intramuscularly once weekly for a total of 3 weeks",
+    "Ceftriaxone intramuscularly once",
+    "Doxycycline orally for 14 days",
+    "Aqueous crystalline penicillin G intravenously for 10 to 14 days"
+   ],
+   "answer": 4,
+   "evidence": [],
+   "explain": {
+    "html": "<p>Panuveitis with reactive syphilis serology is <b>ocular syphilis</b>, which can occur at any stage (often early) and can cause permanent vision loss. Ocular syphilis and otosyphilis are managed like neurosyphilis.</p><p>Neurosyphilis, ocular syphilis and otosyphilis are treated with <b>intravenous aqueous crystalline penicillin G for 10 to 14 days</b>. Single-dose benzathine treats primary, secondary and early latent disease; weekly benzathine for 3 weeks treats late latent and tertiary disease with negative CSF.</p>",
+    "table": null,
+    "why": [
+     "A single dose treats primary, secondary and early latent syphilis, not ocular disease.",
+     "Three weekly doses treat late latent or tertiary syphilis without CNS disease.",
+     "Single-dose ceftriaxone is a gonorrhea regimen.",
+     "Doxycycline is the alternative for early syphilis in penicillin allergy, not for ocular disease.",
+     ""
+    ],
+    "takeaway": "Neurosyphilis, ocular syphilis and otosyphilis are treated with IV aqueous crystalline penicillin G for 10 to 14 days.",
+    "topic": "Ocular and neurosyphilis treatment",
+    "subject": "Microbiology"
+   },
+   "figures": []
+  },
+  {
+   "id": "miid2-w07-lec38-q05",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 38 slides",
+   "stem": "A 25-year-old woman at 14 weeks of gestation has a reactive RPR at 1:16 and a reactive treponemal test at her first prenatal visit. She has a faint rash on the palms. She reports hives and wheezing after amoxicillin as a child.\n\nWhich of the following is the most appropriate management?",
+   "choices": [
+    "Desensitize, then give benzathine penicillin G",
+    "Azithromycin as a single dose",
+    "Doxycycline for 14 days",
+    "Ceftriaxone for 10 days",
+    "Defer treatment until after delivery, then give penicillin"
+   ],
+   "answer": 0,
+   "evidence": [],
+   "explain": {
+    "html": "<p>She has secondary syphilis in pregnancy. Untreated maternal syphilis, including latent disease, can be transmitted vertically to the fetus, so prompt treatment matters.</p><p>In pregnancy <b>only penicillin</b> is used. A patient with a penicillin allergy is <b>desensitized</b> and then given benzathine penicillin G; for primary and secondary syphilis an additional dose is given one week later.</p>",
+    "table": null,
+    "why": [
+     "",
+     "Azithromycin is not a slide-listed syphilis regimen.",
+     "Doxycycline is a nonpregnant alternative and is not used in pregnancy here.",
+     "Ceftriaxone is not the slide regimen for syphilis in pregnancy.",
+     "Deferring treatment risks transmission to the fetus."
+    ],
+    "takeaway": "Syphilis in pregnancy is treated only with penicillin; allergic patients are desensitized first.",
+    "topic": "Syphilis in pregnancy",
+    "subject": "Microbiology"
+   },
+   "figures": []
+  },
+  {
+   "id": "miid2-w07-lec38-q06",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 38 slides",
+   "stem": "A 29-year-old man reports 3 days of sore throat after receptive oral sex with a partner who was recently diagnosed with gonorrhea. A pharyngeal NAAT is positive for N. gonorrhoeae, and a urine NAAT is negative for both gonorrhea and chlamydia. He has no drug allergies.\n\nWhich of the following is the most appropriate plan?",
+   "choices": [
+    "Doxycycline alone for 7 days",
+    "Ceftriaxone, with no further testing needed",
+    "Azithromycin plus gentamicin, then no follow-up",
+    "Ceftriaxone, with a test of cure afterward",
+    "Penicillin G benzathine as a single dose"
+   ],
+   "answer": 3,
+   "evidence": [],
+   "explain": {
+    "html": "<p>Uncomplicated gonorrhea of the cervix, urethra, rectum or pharynx is treated with <b>ceftriaxone</b>. Doxycycline is added only if chlamydia has not been excluded, and here the chlamydia NAAT was negative.</p><p>A <b>test of cure</b> is not needed for urogenital or rectal infection treated with the recommended regimen, but it <b>is recommended for pharyngeal gonorrhea regardless of regimen</b>.</p>",
+    "table": null,
+    "why": [
+     "Doxycycline covers chlamydia, not gonorrhea.",
+     "Skipping the test of cure applies to urogenital and rectal infection, not pharyngeal.",
+     "Azithromycin plus gentamicin is the regimen for an IgE-mediated penicillin or cephalosporin allergy.",
+     "",
+     "Benzathine penicillin treats syphilis."
+    ],
+    "takeaway": "Gonorrhea is treated with ceftriaxone (add doxycycline if chlamydia is not excluded); pharyngeal infection needs a test of cure.",
+    "topic": "Gonorrhea treatment and test of cure",
+    "subject": "Microbiology"
+   },
+   "figures": []
+  },
+  {
+   "id": "miid2-w07-lec38-q07",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 38 slides",
+   "stem": "A 27-year-old woman has 2 weeks of thin, grayish-white vaginal discharge with a fishy odor that is worse after intercourse. There is no itching or dysuria. Speculum exam shows a homogeneous discharge coating the vaginal walls and a normal-appearing cervix. Vaginal pH is 5.5. Adding potassium hydroxide to the discharge intensifies the odor, and a wet mount shows epithelial cells studded with bacteria and no motile organisms.\n\nWhich of the following best explains the pathogenesis?",
+   "choices": [
+    "Invasion of the endocervical columnar epithelium by an obligate intracellular bacterium",
+    "Latent virus reactivating in sacral ganglia",
+    "Infection of squamous cells by a flagellated protozoan",
+    "Overgrowth of a gram-negative diplococcus in the vagina",
+    "Replacement of hydrogen peroxide-producing lactobacilli with anaerobes"
+   ],
+   "answer": 4,
+   "evidence": [],
+   "explain": {
+    "html": "<p>Thin homogeneous discharge, pH above 4.5, a positive whiff test and <b>clue cells</b> meet the clinical (Amsel) criteria for <b>bacterial vaginosis</b>, which needs at least three of the four.</p><p>BV is a polymicrobial syndrome in which the normal <b>hydrogen peroxide-producing Lactobacillus</b> species are replaced by <b>anaerobic organisms</b>. It is treated with oral metronidazole, intravaginal metronidazole gel, or intravaginal clindamycin cream.</p>",
+    "table": null,
+    "why": [
+     "Endocervical infection by an intracellular bacterium describes chlamydial cervicitis.",
+     "Latent ganglionic virus describes genital herpes.",
+     "A flagellated protozoan would be seen moving on wet mount in trichomoniasis.",
+     "A gram-negative diplococcus describes gonorrhea, which causes cervicitis rather than BV.",
+     ""
+    ],
+    "takeaway": "Bacterial vaginosis (clue cells, pH over 4.5, whiff test, thin discharge) is replacement of H2O2-producing lactobacilli by anaerobes; treat with metronidazole or clindamycin.",
+    "topic": "Bacterial vaginosis",
+    "subject": "Microbiology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w07-lec38/slide_57.jpg",
+     "slide": 57,
+     "caption": "Lecture 38 slides (2025-26) · Page 57"
+    }
+   ]
+  },
+  {
+   "id": "miid2-w07-lec38-q08",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 38 slides",
+   "stem": "A 30-year-old woman has a week of copious, frothy, foul-smelling yellow-green vaginal discharge with vulvar itching. Speculum exam shows punctate hemorrhages on the cervix. A wet mount of the discharge shows motile, pear-shaped organisms. She has one male partner who has no symptoms.\n\nWhich of the following is the most appropriate management?",
+   "choices": [
+    "Metronidazole for her alone, since her partner has no symptoms",
+    "Ceftriaxone and doxycycline for both partners",
+    "Intravaginal clindamycin cream for her alone",
+    "Metronidazole for her and treatment of her partner",
+    "Fluconazole for her and her partner"
+   ],
+   "answer": 3,
+   "evidence": [],
+   "explain": {
+    "html": "<p>Motile trophozoites on wet mount with foul discharge and a <b>strawberry cervix</b> identify <b>Trichomonas vaginalis</b>, a protozoan. Women range from asymptomatic to copious foul discharge, and men range from asymptomatic to urethritis, which is why an asymptomatic partner can still be infected.</p><p>Treatment is <b>metronidazole or tinidazole</b>, and the <b>partner must be treated</b>, otherwise reinfection is likely. Diagnosis is by wet mount or NAAT.</p>",
+    "table": null,
+    "why": [
+     "Men are often asymptomatic, so the partner still must be treated.",
+     "Ceftriaxone and doxycycline cover gonorrhea and chlamydia, not Trichomonas.",
+     "Clindamycin cream is a BV option and does not treat a protozoan.",
+     "",
+     "Fluconazole is an antifungal and is not in this lecture's treatments."
+    ],
+    "takeaway": "Trichomonas vaginalis (motile trophozoites, strawberry cervix) is treated with metronidazole or tinidazole, and the partner must also be treated.",
+    "topic": "Trichomoniasis",
+    "subject": "Microbiology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w07-lec38/slide_59.jpg",
+     "slide": 59,
+     "caption": "Lecture 38 slides (2025-26) · Page 59"
+    }
+   ]
+  },
+  {
+   "id": "miid2-w07-lec38-q09",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 38 slides",
+   "stem": "A 19-year-old man has several soft, flesh-colored, cauliflower-like papules on the penile shaft that are not painful. He has never been vaccinated against human papillomavirus. He asks whether vaccination would still help and what it protects against.\n\nWhich statement best matches this lesion and the nine-valent vaccine?",
+   "choices": [
+    "Lesions are from types 16 and 18; the vaccine is only for those over 26",
+    "Lesions are from types 31 and 33; the vaccine is a single lifelong dose",
+    "Lesions are from types 16 and 18; the vaccine is approved only for women",
+    "Lesions are from types 6 and 11; the vaccine treats existing warts",
+    "Lesions are from types 6 and 11; the vaccine is recommended through age 26"
+   ],
+   "answer": 4,
+   "evidence": [],
+   "explain": {
+    "html": "<p>Cauliflower-like genital warts are <b>condyloma acuminatum</b>, caused mostly by the <b>non-oncogenic types 6 and 11</b>. Oncogenic (high-risk) types such as <b>16 and 18</b> cause cervical, penile, vulvar, vaginal and oropharyngeal cancers and precancers. Warts are treated with imiquimod, podophyllin, trichloroacetic acid, cryotherapy or surgery.</p><p>Gardasil 9 covers 6, 11, 16, 18, 31, 33, 45, 52 and 58. It is recommended at 11 to 12 years (can start at 9) and for <b>all adults through age 26</b>, in both sexes, as a two- or three-dose series; it is FDA approved through 45 with shared decision making from 27 to 45. Vaccination prevents infection; it does not treat existing warts.</p>",
+    "table": null,
+    "why": [
+     "Types 16 and 18 are oncogenic, and the vaccine is recommended through 26, not only after it.",
+     "Types 31 and 33 are in the vaccine, and the series is two or three doses.",
+     "Types 16 and 18 are oncogenic, and the vaccine is for both men and women.",
+     "The vaccine prevents infection; warts are treated with topical or procedural options.",
+     ""
+    ],
+    "takeaway": "Genital warts come from HPV 6 and 11; 16 and 18 are oncogenic. Gardasil 9 is recommended for everyone through age 26 and prevents, not treats, infection.",
+    "topic": "HPV types and prevention",
+    "subject": "Microbiology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w07-lec38/slide_68.jpg",
+     "slide": 68,
+     "caption": "Lecture 38 slides (2025-26) · Page 68"
+    }
+   ]
+  },
+  {
+   "id": "miid2-w07-lec38-q10",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 38 slides",
+   "stem": "A 28-year-old man has persistent dysuria and mucoid urethral discharge 3 weeks after a course of doxycycline for nongonococcal urethritis. Gonorrhea, chlamydia and Trichomonas NAATs are negative. A NAAT is positive for a very small, slow-growing bacterium, and resistance testing shows a mutation conferring macrolide resistance.\n\nWhich of the following is the most appropriate treatment?",
+   "choices": [
+    "Doxycycline, then azithromycin",
+    "Doxycycline, then moxifloxacin",
+    "A cephalosporin such as ceftriaxone",
+    "Metronidazole or tinidazole",
+    "Benzathine penicillin G"
+   ],
+   "answer": 1,
+   "evidence": [],
+   "explain": {
+    "html": "<p>A tiny, slow-growing bacterium causing nongonococcal urethritis is <b>Mycoplasma genitalium</b>, diagnosed by NAAT. It <b>lacks a cell wall</b>, so drugs that act on the cell wall, such as beta-lactams, cannot work.</p><p>If the strain is macrolide susceptible, treatment is doxycycline followed by azithromycin. If it is <b>macrolide resistant</b> (or resistance testing is unavailable), treatment is <b>doxycycline followed by moxifloxacin</b>.</p>",
+    "table": null,
+    "why": [
+     "Azithromycin is the follow-on drug only for macrolide-susceptible strains.",
+     "",
+     "Without a cell wall, the organism is not affected by cephalosporins.",
+     "Metronidazole and tinidazole treat Trichomonas.",
+     "Penicillin acts on the cell wall and treats syphilis."
+    ],
+    "takeaway": "Mycoplasma genitalium has no cell wall; treat with doxycycline then azithromycin if macrolide susceptible, or doxycycline then moxifloxacin if resistant.",
+    "topic": "Mycoplasma genitalium",
+    "subject": "Microbiology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w07-lec38/slide_51.jpg",
+     "slide": 51,
+     "caption": "Lecture 38 slides (2025-26) · Page 51"
+    }
+   ]
+  },
+  {
+   "id": "miid2-w07-lec38-q11",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 38 slides",
+   "stem": "A 52-year-old woman has a reactive RPR at 1:8 and a reactive TP-PA on routine testing before surgery. She has no symptoms, and examination including a neurologic and eye exam is normal. She has no prior syphilis tests on record and cannot recall any genital sore or rash.\n\nWhich of the following is the most appropriate treatment?",
+   "choices": [
+    "Benzathine penicillin G intramuscularly weekly for 3 weeks",
+    "Benzathine penicillin G intramuscularly once",
+    "Aqueous crystalline penicillin G intravenously for 14 days",
+    "No treatment, since latent syphilis is not transmitted sexually",
+    "Doxycycline for 14 days"
+   ],
+   "answer": 0,
+   "evidence": [],
+   "explain": {
+    "html": "<p>Seroreactivity with no signs or symptoms is <b>latent syphilis</b>. Without a prior negative test or a known infection date, it is <b>latent syphilis of unknown duration</b>, which is managed as late latent (more than 1 year).</p><p>Late latent and unknown-duration latent syphilis are treated with <b>benzathine penicillin G weekly for 3 weeks</b> (doxycycline for 28 days if needed). Latent syphilis is not transmitted sexually but is still treated to prevent complications, and it can pass to a fetus.</p>",
+    "table": null,
+    "why": [
+     "",
+     "A single dose is for primary, secondary or early latent syphilis.",
+     "IV aqueous penicillin is for neurosyphilis, ocular or otosyphilis.",
+     "Latent syphilis is treated to prevent late complications.",
+     "Fourteen days of doxycycline is the early syphilis alternative; late latent needs 28 days."
+    ],
+    "takeaway": "Latent syphilis of unknown duration is treated like late latent: benzathine penicillin G weekly for 3 weeks.",
+    "topic": "Latent syphilis staging and treatment",
+    "subject": "Microbiology"
+   },
+   "figures": []
+  },
+  {
+   "id": "miid2-w07-lec38-q12",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 38 slides",
+   "stem": "A 31-year-old man who has receptive anal intercourse with men presents with 2 weeks of rectal pain, tenesmus and bloody mucopurulent discharge. Anoscopy shows proctitis. He recalls a small painless sore that healed on its own a month ago. A nucleic acid amplification test of the rectal swab is positive for an obligate intracellular organism that is also the most common bacterial cause of cervicitis in young women.\n\nWhich of the following is the most appropriate treatment?",
+   "choices": [
+    "Doxycycline for 7 days",
+    "Benzathine penicillin weekly for 3 weeks",
+    "Ceftriaxone as a single dose",
+    "Doxycycline for 21 days",
+    "Acyclovir for 7 to 10 days"
+   ],
+   "answer": 3,
+   "evidence": [],
+   "explain": {
+    "html": "<p>A positive <b>Chlamydia trachomatis</b> NAAT from the rectum with frank proctocolitis after a self-limited ulcer suggests <b>lymphogranuloma venereum</b>, caused by serovars <b>L1, L2 or L3</b>. Rectal exposure makes proctocolitis the most common presentation. LGV-specific molecular testing is not widely available, so diagnosis rests on clinical suspicion plus a C. trachomatis NAAT at the symptomatic site; serology is not used.</p><p>LGV needs a long course: <b>doxycycline for 21 days</b> (or erythromycin or azithromycin), with retesting 3 months after treatment. The shorter course is for ordinary chlamydial infection.</p>",
+    "table": null,
+    "why": [
+     "A short course is used for uncomplicated chlamydia, not LGV.",
+     "Weekly benzathine penicillin is for late latent syphilis.",
+     "Single-dose ceftriaxone treats uncomplicated gonorrhea.",
+     "",
+     "Acyclovir treats HSV, a virus."
+    ],
+    "takeaway": "LGV (C. trachomatis L1 to L3) often presents as proctocolitis after rectal exposure and is treated for 21 days, typically with doxycycline.",
+    "topic": "Lymphogranuloma venereum",
+    "subject": "Microbiology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w07-lec38/slide_19.jpg",
+     "slide": 19,
+     "caption": "Lecture 38 slides (2025-26) · Page 19"
+    }
+   ]
+  },
+  {
+   "id": "miid2-w07-lec38-q13",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 38 slides",
+   "stem": "A 40-year-old woman has routine STI screening. Her laboratory uses the reverse-sequence algorithm. She has no symptoms and no lesions on examination, and she does not recall ever being treated for syphilis.\n\nTreponemal immunoassay: Reactive\nRapid plasma reagin (RPR): Nonreactive\n\nWhich of the following is the most appropriate next step?",
+   "choices": [
+    "Treat now with benzathine penicillin for latent syphilis",
+    "Report a false-positive result and stop",
+    "Repeat the RPR in 12 months",
+    "Perform a second, different treponemal test",
+    "Perform a lumbar puncture for CSF VDRL"
+   ],
+   "answer": 3,
+   "evidence": [],
+   "explain": {
+    "html": "<p>In the <b>reverse-sequence algorithm</b> the treponemal test is done first; if reactive, a nontreponemal test follows. When the treponemal test is reactive but the nontreponemal test is <b>nonreactive</b>, the results disagree, and the next step is a <b>second, different treponemal test</b> (for example TP-PA if the first was an immunoassay).</p><p>That second test separates a true treponemal antibody (past treated infection, or untreated latent infection) from a false-positive screen. Treponemal antibodies usually stay positive for life, while nontreponemal titers track disease activity.</p>",
+    "table": null,
+    "why": [
+     "Treatment waits until a second treponemal test resolves the discordance.",
+     "Discordant results cannot be called false positive without a second treponemal test.",
+     "Waiting a year leaves a possible infection unresolved.",
+     "",
+     "There are no neurologic, ocular or otic findings that call for CSF testing."
+    ],
+    "takeaway": "In reverse-sequence screening, a reactive treponemal test with a nonreactive RPR is followed by a second, different treponemal test.",
+    "topic": "Reverse-sequence syphilis screening",
+    "subject": "Microbiology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w07-lec38/slide_35.jpg",
+     "slide": 35,
+     "caption": "Lecture 38 slides (2025-26) · Page 35"
+    }
+   ]
+  },
+  {
+   "id": "miid2-w07-lec38-q14",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 38 slides",
+   "stem": "A 33-year-old man was treated for primary syphilis with a single intramuscular dose of benzathine penicillin G. His RPR was 1:32 at diagnosis. He returns for follow-up.\n\nTime after treatment: RPR titer\n6 months: 1:4\n12 months: 1:64\n\nHe reports a new painless genital ulcer.\n\nWhich of the following is the most appropriate interpretation and plan?",
+   "choices": [
+    "Serofast state; no action is needed",
+    "Expected lifelong positivity of a treponemal test",
+    "Possible failure or reinfection; retest HIV, consider LP, retreat",
+    "Biologic false positive; confirm the result with a treponemal antibody test",
+    "Adequate response; repeat the titer at 24 months"
+   ],
+   "answer": 2,
+   "evidence": [],
+   "explain": {
+    "html": "<p>The RPR is a nontreponemal test whose titer <b>tracks disease activity</b>, which is why it is reported quantitatively. A good response is a 4-fold (two-dilution) decline, and his fall from 1:32 to 1:4 met that goal.</p><p>A later <b>4-fold or greater rise</b> (1:4 to 1:64) with new signs means <b>possible treatment failure or reinfection</b>. The slide intervention is to repeat HIV testing, consider a lumbar puncture, and retreat.</p>",
+    "table": null,
+    "why": [
+     "A serofast titer stays low and stable; it does not rise 16-fold.",
+     "Lifelong positivity applies to treponemal tests, not the RPR.",
+     "",
+     "He has proven syphilis, so this is not a biologic false positive.",
+     "A rising titer is not an adequate response."
+    ],
+    "takeaway": "Nontreponemal titers track syphilis activity; a 4-fold rise after treatment signals possible failure or reinfection (repeat HIV test, consider LP, retreat).",
+    "topic": "Syphilis treatment response",
+    "subject": "Microbiology"
+   },
+   "figures": []
+  },
+  {
+   "id": "miid2-w07-lec38-q15",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 38 slides",
+   "stem": "A 22-year-old woman presents with 3 days of fever and pain in the right wrist and left ankle. Examination shows tenderness and swelling along the extensor tendon sheaths of the right hand and a few small pustules on a red base over the forearms. She has a new sexual partner and has had no genital symptoms. Synovial fluid is inflammatory, and a NAAT from the cervix is positive.\n\nWhich of the following best describes the causative organism?",
+   "choices": [
+    "Gram-negative diplococcus",
+    "Spirochete seen on darkfield",
+    "Obligate intracellular coccoid bacterium",
+    "Bacterium lacking a cell wall",
+    "Motile flagellated protozoan"
+   ],
+   "answer": 0,
+   "evidence": [],
+   "explain": {
+    "html": "<p>Tenosynovitis, asymmetric polyarthralgia and pustular skin lesions in a sexually active young woman are <b>disseminated gonococcal infection</b>. Women are more often asymptomatic at the genital site than men, so the absence of genital symptoms does not argue against it.</p><p>Neisseria gonorrhoeae is a nonmotile, non-spore-forming <b>gram-negative diplococcus</b>. Diagnosis is by NAAT (urogenital and extragenital sites) or culture.</p>",
+    "table": null,
+    "why": [
+     "",
+     "A spirochete on darkfield describes T. pallidum.",
+     "An obligate intracellular organism describes C. trachomatis.",
+     "A bacterium without a cell wall describes Mycoplasma genitalium.",
+     "A motile flagellated protozoan describes Trichomonas vaginalis."
+    ],
+    "takeaway": "Disseminated gonococcal infection (tenosynovitis, asymmetric arthralgias, pustules) is caused by the gram-negative diplococcus N. gonorrhoeae, often without genital symptoms in women.",
+    "topic": "Disseminated gonococcal infection",
+    "subject": "Microbiology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w07-lec38/slide_48.jpg",
+     "slide": 48,
+     "caption": "Lecture 38 slides (2025-26) · Page 48"
+    }
+   ]
+  },
+  {
+   "id": "miid2-w07-lec38-q16",
+   "source": "practice",
+   "source_ref": "Written from the 2025-26 Lecture 38 slides",
+   "stem": "A 34-year-old man has 3 days of right-sided scrotal pain. Examination shows a swollen, tender right epididymis and a tender spermatic cord; the testis lies normally and the cremasteric reflex is present. Urinalysis shows pyuria. He has sex with men and reports insertive anal intercourse without condoms. Urethral NAAT results are pending.\n\nWhich empiric regimen best covers the likely organisms?",
+   "choices": [
+    "Ceftriaxone plus doxycycline for 10 days",
+    "Levofloxacin alone for 10 days",
+    "Ceftriaxone plus levofloxacin for 10 days",
+    "Metronidazole for 7 days",
+    "Benzathine penicillin G as a single intramuscular dose"
+   ],
+   "answer": 2,
+   "evidence": [],
+   "explain": {
+    "html": "<p>Unilateral testicular pain with a tender, swollen epididymis and spermatic cord is <b>epididymitis</b>. The causes are N. gonorrhoeae, C. trachomatis and enteric organisms, and treatment follows the likely cause.</p><p>Gonorrhea and chlamydia get ceftriaxone plus doxycycline, and enteric organisms (Enterobacteriaceae) get levofloxacin. In men who practice <b>insertive anal intercourse</b>, both gonorrhea and enteric organisms are possible, so the regimen is <b>ceftriaxone plus levofloxacin for 10 days</b>.</p>",
+    "table": null,
+    "why": [
+     "Ceftriaxone plus doxycycline targets gonorrhea and chlamydia but not enteric gram-negative rods.",
+     "Levofloxacin alone treats enteric causes but leaves gonorrhea uncovered.",
+     "",
+     "Metronidazole treats Trichomonas and BV, not epididymitis.",
+     "Benzathine penicillin treats syphilis."
+    ],
+    "takeaway": "Epididymitis is treated by likely cause: ceftriaxone plus doxycycline for gonorrhea and chlamydia, levofloxacin for enteric organisms, and ceftriaxone plus levofloxacin after insertive anal intercourse.",
+    "topic": "Epididymitis treatment by exposure",
+    "subject": "Microbiology"
+   },
+   "figures": [
+    {
+     "image": "img/miid2-w07-lec38/slide_64.jpg",
+     "slide": 64,
+     "caption": "Lecture 38 slides (2025-26) · Page 64"
+    }
+   ]
+  }
+ ]
+}
