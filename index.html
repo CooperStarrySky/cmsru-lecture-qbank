@@ -25,6 +25,7 @@
     <a href="#create" data-v="create"><svg viewBox="0 0 24 24"><path d="M12 5v14M5 12h14" stroke="currentColor" stroke-width="2"/></svg>Create Test</a>
     <a href="#previous" data-v="previous"><svg viewBox="0 0 24 24"><path d="M4 6h16M4 12h16M4 18h10" stroke="currentColor" stroke-width="2"/></svg>Previous Tests</a>
     <a href="#performance" data-v="performance"><svg viewBox="0 0 24 24"><path d="M5 20V11M12 20V5M19 20v-6" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/></svg>Performance</a>
+    <a href="#mine" data-v="mine"><svg viewBox="0 0 24 24"><path d="M5 4h10l4 4v12H5z" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/><path d="M9 12h6M12 9v6" stroke="currentColor" stroke-width="1.8"/></svg>My Questions</a>
     <a href="#labs" data-v="labs"><svg viewBox="0 0 24 24"><path d="M9 3h6M10 3v6l-5 9a2 2 0 0 0 1.7 3h10.6a2 2 0 0 0 1.7-3l-5-9V3" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></svg>Lab Values</a>
     <div class="h-side-foot">New weeks are released on Friday.<br><a href="https://github.com/CooperStarrySky/cmsru-lecture-qbank" id="repoLink" target="_blank" rel="noopener">Contribute on GitHub</a></div>
   </nav>
@@ -103,6 +104,54 @@
     </section>
 
     <!-- ============ LAB VALUES ============ -->
+    <section class="view" data-view="mine" hidden>
+      <div class="v-head"><h1>My Questions</h1><p>Turn your own lecture slides or notes into a quiz with any AI chatbot (ChatGPT, Claude, Gemini…). Your quizzes stay in this browser and are never uploaded.</p></div>
+
+      <div class="card mk">
+        <div class="mk-step">
+          <span class="mk-n">1</span>
+          <div class="mk-body">
+            <h3>Copy the prompt</h3>
+            <div class="seg" role="radiogroup" aria-label="What kind of questions">
+              <label><input type="radio" name="mkMode" value="existing" checked><span><b>Pull questions already in my material</b><small>Practice questions on the slides, in the notes, or asked in lecture</small></span></label>
+              <label><input type="radio" name="mkMode" value="new"><span><b>Write new board-style questions</b><small>NBME-style vignettes built from the material</small></span></label>
+            </div>
+            <div class="mk-row" id="mkCountRow" hidden><label>Number of questions <input type="number" id="mkCount" min="1" max="60" value="10"></label></div>
+            <div class="mk-row">
+              <button class="gen-btn sm acc" id="mkCopy">Copy prompt</button>
+              <span class="mk-ok" id="mkCopied" hidden>✓ Copied</span>
+              <details class="mk-show"><summary>Show the prompt</summary><pre id="mkPrompt"></pre></details>
+            </div>
+          </div>
+        </div>
+        <div class="mk-step">
+          <span class="mk-n">2</span>
+          <div class="mk-body">
+            <h3>Give it to your AI</h3>
+            <p>Open any AI chatbot, <b>attach your lecture slides or notes</b> (a PDF works best; a transcript helps too), paste the prompt and send. It replies with a block of code. Copy all of it.</p>
+          </div>
+        </div>
+        <div class="mk-step">
+          <span class="mk-n">3</span>
+          <div class="mk-body">
+            <h3>Paste the reply here</h3>
+            <textarea id="mkPaste" rows="7" placeholder="Paste the AI's whole reply here…"></textarea>
+            <div class="mk-grid">
+              <label>Quiz name <input type="text" id="mkTitle" placeholder="e.g. Renal 05 Sodium Homeostasis"></label>
+              <label>Add to <select id="mkTarget"><option value="">A new quiz</option></select></label>
+              <label class="mk-file">Or upload a file <small>a .json reply, or a shared .qbank.json quiz</small><input type="file" id="mkFile" accept=".json,application/json"></label>
+              <label class="mk-file">Lecture PDF (optional) <small>shows the actual slides and checks every quote</small><input type="file" id="mkPdf" accept="application/pdf,.pdf"></label>
+            </div>
+            <div class="mk-row"><button class="gen-btn sm acc" id="mkImport">Check &amp; import</button><span class="hint" id="mkBusy"></span></div>
+            <div id="mkResult"></div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card flush"><table class="tbl" id="mkTbl"></table></div>
+      <p class="mk-warn">AI can get things wrong. These questions are not checked by this site, so if an answer looks off, check your notes. Quotes marked “✓ found in your PDF” were matched word for word.</p>
+    </section>
+
     <section class="view" data-view="labs" hidden>
       <div class="v-head"><h1>Lab Values</h1><p>Searchable reference ranges (NBME Laboratory Reference Values).</p></div>
       <div class="card" id="labHost"></div>
@@ -112,6 +161,8 @@
 
 <script src="js/store.js"></script>
 <script src="js/data.js"></script>
+<script src="js/mybank.js"></script>
+<script src="js/pdfslides.js"></script>
 <script src="js/labs.js"></script>
 <script src="js/home.js"></script>
 </body>

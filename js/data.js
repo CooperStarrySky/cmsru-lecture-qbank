@@ -7,6 +7,11 @@
     formative: "Formative quizzes",
     said: "Said in lecture",
   };
+  // sources that only exist in a student's own quizzes (shown only when they have some)
+  const MY_SOURCE_LABELS = {
+    mine: "From my notes",
+    ai: "AI-written from my notes",
+  };
   const preview = new URLSearchParams(location.search).has("preview");
   const cache = {};
 
@@ -18,6 +23,7 @@
 
   const Data = {
     SOURCE_LABELS,
+    MY_SOURCE_LABELS,
     preview,
     async manifest() {
       const m = await getJSON("data/manifest.json");
@@ -39,6 +45,10 @@
       const m = await getJSON("data/manifest.json");      // a session may include since-hidden weeks
       const want = new Set(qids.map(id => id.replace(/-q\d+$/, "")));
       const all = await Data.questions(m.lectures.filter(l => want.has(l.lecture_id)));
+      // the student's own quizzes ("my-..." ids) live in this browser
+      if (window.MyBank && [...want].some(id => id.startsWith("my-"))) {
+        try { all.push(...await MyBank.questions(want)); } catch (e) {}
+      }
       const map = Object.fromEntries(all.map(q => [q.id, q]));
       return qids.map(id => map[id]).filter(Boolean);
     },

@@ -6,6 +6,7 @@
 
   // "02 Salivary Gastric..." -> "Lecture 02: Salivary Gastric..."; labs and others stay as written
   function lecName(name, q) {
+    if (q && q.mine) return String(name || "");
     const m = String(name || "").match(/^(\d+)\s+(.*)$/);
     const base = m ? `Lecture ${m[1]}: ${m[2]}` : String(name || "");
     return q && q.block ? `${base} (${q.block} Week ${q.week})` : base;
@@ -31,6 +32,11 @@
       // one box for all quotes; each quote gets a single header row: "Said in Lecture 01: ... · 00:11:22"
       h += `<div class="ev-q ev-quotes">` + quotes.map(e => {
         const lec = e.lecture ? lecName(e.lecture) : lecName(q.lecture);
+        if (e.type === "mine") {
+          const badge = e.found === true ? ` <span class="ev-ok" title="This exact text was found in the PDF you attached">✓ found in your PDF</span>`
+            : e.found === false ? ` <span class="ev-warn" title="This text was not found word for word in the PDF you attached. Double-check it.">not found in your PDF</span>` : "";
+          return `<blockquote class="ev-item ev-mine"><div class="ev-src">From your notes${e.where ? ` <span class="ev-at">· ${esc(e.where)}</span>` : ""}${badge}</div>“${esc(e.quote)}”</blockquote>`;
+        }
         const head = e.type === "transcript"
           ? `Said in ${esc(lec)}${e.at ? ` <span class="ev-at">· ${esc(e.at)}</span>` : ""}`
           : `From the ${esc(lec)} notes${e.page ? ` <span class="ev-at">· p. ${esc(e.page)}</span>` : ""}`;
@@ -39,16 +45,18 @@
     }
     if (slides.length) {
       h += `<div class="qf-figures">` + slides.map(e => {
-        const cap = `${lecName(e.lecture || q.lecture)} · Slide ${e.slide}`;
+        const cap = `${lecName(e.lecture || q.lecture, q.mine ? q : null)} · Slide ${e.slide}`;
         return e.image
-          ? `<button class="qf-figure" data-img="${esc(e.image)}" data-cap="${esc(cap)}"><img loading="lazy" src="${esc(e.image)}" alt="${esc(cap)}"><span class="qf-figure__cap">${esc(cap)}</span></button>`
-          : `<div class="qf-figure__cap">${esc(cap)}</div>`;
+          ? `<button class="qf-figure" data-img="${esc(e.image)}" data-cap="${esc(cap)}"><img ${String(e.image).startsWith("blob:") ? "" : 'loading="lazy"'} src="${esc(e.image)}" alt="${esc(cap)}"><span class="qf-figure__cap">${esc(cap)}</span></button>`
+          : `<div class="qf-figure__cap">${esc(cap)}${q.mine ? " (attach the lecture PDF to this quiz to see the slide)" : ""}</div>`;
       }).join("") + `</div>`;
     }
-    if (q.note) {
+    if (q.note && q.mine) {
+      h += `<details class="ev-note" open><summary>Explanation (written by your AI, not checked by this site)</summary><div class="ev-note-body">${mdLite(q.note)}</div></details>`;
+    } else if (q.note) {
       h += `<details class="ev-note"><summary>Contributor's note (paraphrase, not the professor's words)</summary><div class="ev-note-body">${mdLite(q.note)}</div></details>`;
     }
-    const lab = { slide: "Lecture slide question", notes: "Lecture notes question", formative: "Formative quiz question", said: "Asked in lecture" }[q.source] || "";
+    const lab = { slide: "Lecture slide question", notes: "Lecture notes question", formative: "Formative quiz question", said: "Asked in lecture", mine: "Question found in your notes", ai: "AI-written from your notes" }[q.source] || "";
     h += `<div class="qf-cite">${esc(lab)}${q.source_ref ? " · " + esc(q.source_ref) : ""} · ${esc(lecName(q.lecture, q))}</div>`;
     return h;
   }

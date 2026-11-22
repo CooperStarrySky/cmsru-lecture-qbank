@@ -71,7 +71,7 @@
     let foot;
     if (rev) {
       const right = pick === q.answer;
-      foot = `<div class="qf-explain"><div class="qf-explain__label">${pick == null ? "Not answered" : right ? "✓ Correct" : "✗ Incorrect"} · From the lecture</div>${Explain.evidenceHTML(q)}</div>
+      foot = `<div class="qf-explain"><div class="qf-explain__label">${pick == null ? "Not answered" : right ? "✓ Correct" : "✗ Incorrect"} · ${q.mine ? "From your notes" : "From the lecture"}</div>${Explain.evidenceHTML(q)}</div>
         <div class="qf-qnav">${S.i > 0 ? `<button class="qf-btn" id="prev">Previous</button>` : ""}${S.i < Q.length - 1 ? `<button class="qf-btn qf-btn--primary" id="next">Next</button>` : (S.finished ? `<a class="qf-btn qf-btn--primary" href="index.html">Done</a>` : `<button class="qf-btn qf-btn--primary" id="finish">See score</button>`)}</div>`;
     } else {
       foot = `<div class="qf-qnav">${S.i > 0 ? `<button class="qf-btn" id="prev">Previous</button>` : ""}
