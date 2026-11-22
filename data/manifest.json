@@ -366,7 +366,7 @@
     "said": 0,
     "slide": 0
    },
-   "released": false
+   "released": true
   },
   {
    "lecture_id": "miid2-w05-lec24",
@@ -382,7 +382,7 @@
     "said": 0,
     "slide": 0
    },
-   "released": false
+   "released": true
   },
   {
    "lecture_id": "miid2-w05-lec25",
@@ -398,7 +398,7 @@
     "said": 0,
     "slide": 0
    },
-   "released": false
+   "released": true
   },
   {
    "lecture_id": "miid2-w05-lec26",
@@ -414,7 +414,7 @@
     "said": 0,
     "slide": 0
    },
-   "released": false
+   "released": true
   },
   {
    "lecture_id": "miid2-w05-lec27",
@@ -430,7 +430,7 @@
     "said": 0,
     "slide": 0
    },
-   "released": false
+   "released": true
   },
   {
    "lecture_id": "miid2-w05-lec28",
@@ -446,7 +446,7 @@
     "said": 0,
     "slide": 0
    },
-   "released": false
+   "released": true
   },
   {
    "lecture_id": "miid2-w05-lec29",
@@ -462,7 +462,7 @@
     "said": 0,
     "slide": 0
    },
-   "released": false
+   "released": true
   },
   {
    "lecture_id": "miid2-w05-app-5a",
@@ -478,7 +478,7 @@
     "said": 0,
     "slide": 0
    },
-   "released": false
+   "released": true
   },
   {
    "lecture_id": "miid2-w06-lec30",
@@ -494,7 +494,7 @@
     "said": 0,
     "slide": 0
    },
-   "released": false
+   "released": true
   },
   {
    "lecture_id": "miid2-w06-lec31",
@@ -510,7 +510,7 @@
     "said": 0,
     "slide": 0
    },
-   "released": false
+   "released": true
   },
   {
    "lecture_id": "miid2-w06-lec32",
@@ -526,7 +526,7 @@
     "said": 0,
     "slide": 0
    },
-   "released": false
+   "released": true
   },
   {
    "lecture_id": "miid2-w06-lec33",
@@ -542,7 +542,7 @@
     "said": 0,
     "slide": 0
    },
-   "released": false
+   "released": true
   },
   {
    "lecture_id": "miid2-w06-lec34",
@@ -558,7 +558,7 @@
     "said": 0,
     "slide": 0
    },
-   "released": false
+   "released": true
   },
   {
    "lecture_id": "miid2-w06-app-6a",
@@ -574,7 +574,7 @@
     "said": 0,
     "slide": 0
    },
-   "released": false
+   "released": true
   },
   {
    "lecture_id": "miid2-w06-app-6b",
@@ -590,7 +590,7 @@
     "said": 0,
     "slide": 0
    },
-   "released": false
+   "released": true
   },
   {
    "lecture_id": "miid2-w07-lec35",
@@ -606,7 +606,7 @@
     "said": 0,
     "slide": 0
    },
-   "released": false
+   "released": true
   },
   {
    "lecture_id": "miid2-w07-lec36",
@@ -622,7 +622,7 @@
     "said": 0,
     "slide": 0
    },
-   "released": false
+   "released": true
   },
   {
    "lecture_id": "miid2-w07-lec37",
@@ -638,7 +638,7 @@
     "said": 0,
     "slide": 0
    },
-   "released": false
+   "released": true
   },
   {
    "lecture_id": "miid2-w07-lec38",
@@ -654,7 +654,7 @@
     "said": 0,
     "slide": 0
    },
-   "released": false
+   "released": true
   },
   {
    "lecture_id": "miid2-w07-app-7a",
@@ -670,7 +670,7 @@
     "said": 0,
     "slide": 0
    },
-   "released": false
+   "released": true
   },
   {
    "lecture_id": "miid2-w07-app-7b",
@@ -686,7 +686,7 @@
     "said": 0,
     "slide": 0
    },
-   "released": false
+   "released": true
   },
   {
    "lecture_id": "miid2-w08-lec39",
@@ -702,7 +702,7 @@
     "said": 0,
     "slide": 0
    },
-   "released": false
+   "released": true
   },
   {
    "lecture_id": "miid2-w08-lec40",
@@ -718,7 +718,7 @@
     "said": 0,
     "slide": 0
    },
-   "released": false
+   "released": true
   },
   {
    "lecture_id": "miid2-w08-lec41",
@@ -734,7 +734,7 @@
     "said": 0,
     "slide": 0
    },
-   "released": false
+   "released": true
   },
   {
    "lecture_id": "miid2-w08-lec42",
@@ -750,7 +750,7 @@
     "said": 0,
     "slide": 0
    },
-   "released": false
+   "released": true
   },
   {
    "lecture_id": "miid2-w08-lec43",
@@ -766,7 +766,7 @@
     "said": 0,
     "slide": 0
    },
-   "released": false
+   "released": true
   },
   {
    "lecture_id": "miid2-w08-lec44",
@@ -782,7 +782,7 @@
     "said": 0,
     "slide": 0
    },
-   "released": false
+   "released": true
   },
   {
    "lecture_id": "miid2-w08-app-8a",
@@ -798,7 +798,7 @@
     "said": 0,
     "slide": 0
    },
-   "released": false
+   "released": true
   },
   {
    "lecture_id": "renal-w01-lec03",
