@@ -175,15 +175,19 @@
   };
 
   // ---------- count + generate ----------
-  function renderStart() {
+  // typing: let the box sit empty while a new number is typed; only cap it above the max.
+  // the empty/zero default is filled in when the box loses focus or the lectures change.
+  function renderStart(typing) {
     const n = picked().length, nq = $("#nQ");
     nq.max = n;
-    if (n && (+nq.value > n || !+nq.value)) nq.value = Math.min(n, 40);
+    if (n && +nq.value > n) nq.value = n;
+    else if (n && typing !== true && !+nq.value) nq.value = Math.min(n, 40);
     $("#maxPill").textContent = n; $("#totalAvail").textContent = n;
     $("#maxHint").textContent = n ? "" : "Select at least one lecture with questions.";
     $("#start").disabled = !n;
   }
-  $("#nQ").oninput = renderStart;
+  $("#nQ").oninput = () => renderStart(true);
+  $("#nQ").onchange = () => renderStart();
 
   function renderResume() {
     const s = Store.loadSession();
