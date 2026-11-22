@@ -7,7 +7,7 @@
 <script>try{var t=JSON.parse(localStorage.getItem("qbank.v1")||"{}").prefs||{};if(t.homeDark)document.documentElement.dataset.hTheme="dark"}catch(e){}</script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap">
-<link rel="stylesheet" href="css/home.css">
+<link rel="stylesheet" href="css/home.css?v=2">
 <link rel="stylesheet" href="css/labs.css">
 <script src="js/track.js" defer></script>
 </head>
@@ -28,6 +28,7 @@
     <a href="#performance" data-v="performance"><svg viewBox="0 0 24 24"><path d="M5 20V11M12 20V5M19 20v-6" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/></svg>Performance</a>
     <a href="#mine" data-v="mine"><svg viewBox="0 0 24 24"><path d="M5 4h10l4 4v12H5z" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/><path d="M9 12h6M12 9v6" stroke="currentColor" stroke-width="1.8"/></svg>My Questions</a>
     <a href="#labs" data-v="labs"><svg viewBox="0 0 24 24"><path d="M9 3h6M10 3v6l-5 9a2 2 0 0 0 1.7 3h10.6a2 2 0 0 0 1.7-3l-5-9V3" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></svg>Lab Values</a>
+    <a href="#feedback" data-v="feedback"><svg viewBox="0 0 24 24"><path d="M4 5h16v11H9l-5 4z" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></svg>Feedback</a>
     <div class="h-side-foot">New weeks are released on Friday.<br><a href="https://github.com/CooperStarrySky/cmsru-lecture-qbank" id="repoLink" target="_blank" rel="noopener">Contribute on GitHub</a></div>
   </nav>
 
@@ -153,6 +154,36 @@
       <p class="mk-warn">AI can get things wrong. These questions are not checked by this site, so if an answer looks off, check your notes. Quotes marked “✓ found in your PDF” were matched word for word.</p>
     </section>
 
+    <section class="view" data-view="feedback" hidden>
+      <div class="v-head"><h1>Feedback</h1><p>Found a wrong answer, a typo, a bug, or have an idea? Tell us here. No account needed.</p></div>
+      <div class="card">
+        <form id="fbForm" class="fb" novalidate>
+          <div class="c-row">
+            <div class="c-lab">What is it about</div>
+            <div class="c-body ticks" id="fbKinds">
+              <label class="tick"><input type="radio" name="fbKind" value="question" checked> A question or its answer</label>
+              <label class="tick"><input type="radio" name="fbKind" value="bug"> Something broken on the site</label>
+              <label class="tick"><input type="radio" name="fbKind" value="idea"> An idea or request</label>
+              <label class="tick"><input type="radio" name="fbKind" value="other"> Something else</label>
+            </div>
+          </div>
+          <div class="c-row" id="fbQRow">
+            <div class="c-lab">Which question<small class="fb-opt">optional</small></div>
+            <div class="c-body"><input class="fb-in" id="fbQ" maxlength="80" placeholder="Lecture and question number, or paste the first words of the question"></div>
+          </div>
+          <div class="c-row">
+            <div class="c-lab">Your note</div>
+            <div class="c-body"><textarea class="fb-in" id="fbMsg" rows="6" maxlength="2000" placeholder="What's wrong, or what would make it better?"></textarea><div class="fb-count muted" id="fbCount">0 / 2000</div></div>
+          </div>
+          <div class="c-row">
+            <div class="c-lab">Reply to<small class="fb-opt">optional</small></div>
+            <div class="c-body"><input class="fb-in" id="fbContact" maxlength="120" placeholder="Name or email, only if you want a reply"></div>
+          </div>
+          <div class="c-row fb-end"><button class="gen-btn sm" id="fbSend" type="submit">Send feedback</button><span class="fb-status" id="fbStatus" role="status"></span></div>
+        </form>
+      </div>
+    </section>
+
     <section class="view" data-view="labs" hidden>
       <div class="v-head"><h1>Lab Values</h1><p>Searchable reference ranges (NBME Laboratory Reference Values).</p></div>
       <div class="card" id="labHost"></div>
@@ -166,5 +197,6 @@
 <script src="js/pdfslides.js"></script>
 <script src="js/labs.js"></script>
 <script src="js/home.js?v=2"></script>
+<script src="js/feedback.js?v=1"></script>
 </body>
 </html>
