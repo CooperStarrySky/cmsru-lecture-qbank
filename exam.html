@@ -182,27 +182,10 @@
   <button class="ov-link" id="suspendNo">RETURN TO EXAM</button>
 </div>
 
-<div class="ov ov-blue" id="ovSubmit" hidden>
-  <div class="card2 wide">
-    <div class="c2-l grey">
-      <h3>Return To Exam?</h3>
-      <p>By clicking this button, you will be directed back to the exam.</p>
-      <button class="n-btn" id="subBack">Return To Exam</button>
-    </div>
-    <div class="c2-r">
-      <h3>Submit Your Exam?</h3>
-      <p>By submitting the exam, you will not be able to return to the exam.</p>
-      <label class="ready"><input type="checkbox" id="readyBox"> I am ready to exit my exam.</label>
-      <button class="g-btn sub-go" id="subGo" disabled>Submit Exam</button>
-      <p class="sub-hint" id="subHint">Tick the box above to submit.</p>
-    </div>
-  </div>
-</div>
-
 <div class="ov ov-dim" id="ovIncomplete" hidden>
   <div class="card1">
-    <h2>Exam Incomplete</h2>
-    <p>You haven't answered all the questions. Are you sure you want to close the exam?</p>
+    <h2 id="incTitle">Exam Incomplete</h2>
+    <p id="incMsg">You haven't answered all the questions. Are you sure you want to close the exam?</p>
     <div class="inc-btns"><button class="n-btn" id="incBack">Return To Exam</button><button class="g-btn sub-go" id="incClose">Submit Anyway</button></div>
   </div>
 </div>

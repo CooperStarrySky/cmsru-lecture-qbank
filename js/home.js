@@ -51,10 +51,13 @@
   }
   await loadMine();
   const pubBlocks = blocks.filter(b => b !== MY);
+  // blocks grouped by class year in the Lectures picker; GI is kept out of public view (?preview shows it)
+  const YEARS = [["M1", ["MIID II"]], ["M2", ["GI", "RENAL"]]];
+  const HIDDEN_BLOCKS = new URLSearchParams(location.search).has("preview") ? [] : ["GI"];
   // ?block=MIID%20II opens that block, so a class can be sent a link straight to its own questions
   const askBlock = new URLSearchParams(location.search).get("block");
   if (askBlock && blocks.includes(askBlock)) st.block = askBlock;
-  if (!blocks.includes(st.block)) st.block = pubBlocks[pubBlocks.length - 1] || blocks[0];
+  if (!blocks.includes(st.block) || (HIDDEN_BLOCKS.includes(st.block) && st.block !== askBlock)) st.block = pubBlocks.filter(b => !HIDDEN_BLOCKS.includes(b)).pop() || blocks[0];
   // existing visitors: include the new own-notes sources by default
   if (!Store.pref("srcsV2")) { Object.keys(Data.MY_SOURCE_LABELS).forEach(k => st.srcs.add(k)); Store.pref("srcsV2", true); }
   const known = new Set(lectures.map(l => l.lecture_id));
@@ -115,7 +118,12 @@
 
   // ---------- lecture tree ----------
   function renderBlocks() {
-    $("#blocks").innerHTML = blocks.map(b => `<button role="tab" aria-selected="${b === st.block}" data-b="${esc(b)}">${esc(b)}</button>`).join("");
+    const pill = b => `<button role="tab" aria-selected="${b === st.block}" data-b="${esc(b)}">${esc(b)}</button>`;
+    const shown = blocks.filter(b => !HIDDEN_BLOCKS.includes(b) || b === st.block);
+    const groups = YEARS.map(([yr, bs]) => [yr, shown.filter(b => bs.includes(b))]).filter(([, bs]) => bs.length);
+    const other = shown.filter(b => !YEARS.some(([, bs]) => bs.includes(b)));
+    $("#blocks").innerHTML = groups.map(([yr, bs]) => `<span class="yr-grp"><span class="yr-lab">${yr}</span>${bs.map(pill).join("")}</span>`).join("")
+      + (other.length ? `<span class="yr-grp">${other.map(pill).join("")}</span>` : "");
   }
   $("#blocks").onclick = e => { const b = e.target.closest("[data-b]"); if (b) { st.block = b.dataset.b; renderAll(); } };
 

@@ -326,16 +326,17 @@
   $("#suspendYes").onclick = () => { trackTime(); save(); location.href = "index.html"; };
 
   // ---------- submit flow ----------
+  // one confirm only: "Exam Incomplete" if anything is unanswered, otherwise "Exam Complete"
   function openSubmit() {
     if (review()) return;
-    $("#readyBox").checked = false; $("#subGo").disabled = true; $("#subHint").hidden = false; $("#ovSubmit").hidden = false;
+    const left = Q.filter(q => S.answers[q.id] == null).length;
+    $("#incTitle").textContent = left ? "Exam Incomplete" : "Exam Complete";
+    $("#incMsg").textContent = left
+      ? `You haven't answered ${left === 1 ? "1 question" : left + " questions"}. Are you sure you want to submit the exam?`
+      : "You've answered every question. Once you submit, you can't return to the exam.";
+    $("#incClose").textContent = left ? "Submit Anyway" : "Submit Exam";
+    $("#ovIncomplete").hidden = false;
   }
-  $("#readyBox").onchange = e => { $("#subGo").disabled = !e.target.checked; $("#subHint").hidden = e.target.checked; };
-  $("#subBack").onclick = () => { $("#ovSubmit").hidden = true; };
-  $("#subGo").onclick = () => {
-    $("#ovSubmit").hidden = true;
-    if (Q.some(q => S.answers[q.id] == null)) $("#ovIncomplete").hidden = false; else submitNow(false);
-  };
   $("#incBack").onclick = () => { $("#ovIncomplete").hidden = true; };
   $("#incClose").onclick = () => { $("#ovIncomplete").hidden = true; submitNow(false); };
   function submitNow() {
