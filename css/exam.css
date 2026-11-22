@@ -399,3 +399,7 @@ body[data-phase="review"] .ch-icon{display:none}
 .ev-ok,.ev-warn{display:inline-block;margin-left:8px;padding:0 7px;border-radius:999px;font-size:11px;font-weight:700;letter-spacing:0;text-transform:none;vertical-align:1px}
 .ev-ok{background:#dff3e3;color:#1e7b34}.ev-warn{background:#fff1d6;color:#8a5a00}
 :root[data-ex-theme="dark"] .ev-ok{background:#183222;color:#6fd08a}:root[data-ex-theme="dark"] .ev-warn{background:#3a2c10;color:#e7b552}
+/* practice-question answer key: follow the exam theme, not the system dark mode in qf-design.css */
+.pq-take,.pq-table th{background:var(--nav-bg);color:var(--ink)}
+.pq-table th,.pq-table td{border-color:var(--row-line)}
+.pq .pq-why{border-left-color:var(--row-line)}
