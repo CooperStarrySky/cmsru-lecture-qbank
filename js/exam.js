@@ -131,7 +131,7 @@
     $("#qNum").firstChild.textContent = `Question ${S.i + 1} `;
     $("#flagBtn").setAttribute("aria-pressed", !!S.flags[q.id]);
     $("#flagBtn span").textContent = S.flags[q.id] ? "FLAGGED" : "FLAG QUESTION";
-    $("#qStem").innerHTML = esc(q.stem).replace(/\n/g, "<br>");
+    $("#qStem").innerHTML = Explain.stemHTML(q);
     $("#qImg").innerHTML = q.stem_image ? `<button class="q-img" data-img="${esc(q.stem_image)}" data-cap="Question ${S.i + 1} image" title="Click to enlarge"><img src="${esc(q.stem_image)}" alt="Question image"></button>` : "";
     $("#qCur").textContent = pick != null ? `Currently Selected: ${L(pick)}` : `Answers A - ${L(q.choices.length - 1)}`;
     $("#qChoices").innerHTML = q.choices.map((c, k) => {
@@ -154,6 +154,7 @@
     $("#qCheckRow").hidden = !(S.tutor && !review() && !S.checked[q.id]);
     $("#checkBtn").disabled = pick == null;
     $("#checkHint").textContent = pick == null ? "Select an answer, then check it." : "Checking locks this answer.";
+    $("#exMain").classList.toggle("split", shown(q));
     if (shown(q)) {
       $("#qRationale").hidden = false;
       $("#qRationale").innerHTML = `<h3>${pick == null ? "Not answered" : pick === q.answer ? "Correct" : "Incorrect"}<small>${q.mine ? "FROM YOUR NOTES" : q.source === "practice" ? "PRACTICE QUESTION" : "FROM THE LECTURE"}</small></h3>${Explain.evidenceHTML(q)}`;
@@ -167,7 +168,7 @@
     const last = S.i === Q.length - 1;
     $("#nextBtn").textContent = last ? (review() ? "Finish" : "Submit") : "Next";
     $("#nextBtn").classList.toggle("submit", last && !review());
-    if (lastShown !== S.i) { $("#qScroll").scrollTop = 0; lastShown = S.i; }
+    if (lastShown !== S.i) { $("#qScroll").scrollTop = 0; $("#qRationale").scrollTop = 0; lastShown = S.i; }
     renderNav(); save();
   }
 

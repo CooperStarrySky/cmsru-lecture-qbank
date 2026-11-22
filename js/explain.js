@@ -29,20 +29,45 @@
   // allowlist by tools/validate.py.
   function practiceHTML(q) {
     const x = q.explain || {}, L = "ABCDEFGH";
+    const lec = lecName(q.lecture, q);
     let h = `<div class="pq">`;
-    h += x.html || "";
+    h += `<div class="pq-head"><span class="pq-ans">${L[q.answer]}. ${esc(q.choices[q.answer])}</span></div>`;
     if ((q.figures || []).length) {
       h += `<div class="qf-figures pq-figs">` + q.figures.map(f => {
-        const cap = f.caption || `${lecName(q.lecture)} · Slide ${f.slide}`;
+        const cap = f.caption || `${lec} · Slide ${f.slide}`;
         return `<button class="qf-figure" data-img="${esc(f.image)}" data-cap="${esc(cap)}"><img loading="lazy" src="${esc(f.image)}" alt="${esc(cap)}"><span class="qf-figure__cap">${esc(cap)}</span></button>`;
       }).join("") + `</div>`;
     }
+    if (x.objective) h += `<div class="pq-obj">${esc(lec)} · ${esc(x.objective)}</div>`;
+    h += `<div class="pq-expl"><b class="pq-lab">Explanation:</b> ${x.html || ""}</div>`;
     if (x.table) h += `<div class="pq-table">${x.table}</div>`;
-    h += (x.why || []).map((w, i) => i === q.answer || !w ? "" : `<p class="pq-why"><b>Choice ${L[i]}.</b> ${esc(w)}</p>`).join("");
-    if (x.takeaway) h += `<div class="pq-take"><b>The takeaway</b>${esc(x.takeaway)}</div>`;
+    if ((x.rows || []).length) {
+      h += `<div class="pq-table pq-wrong"><table><thead><tr><th>Wrong choice</th><th>Why it is wrong here</th><th>What would make it right</th></tr></thead><tbody>` +
+        x.rows.map(r => `<tr><td><b>${L[r.choice]}.</b> ${esc(q.choices[r.choice])}</td><td>${esc(r.why)}</td><td>${esc(r.if_right)}</td></tr>`).join("") +
+        `</tbody></table></div>`;
+    } else {
+      h += (x.why || []).map((w, i) => i === q.answer || !w ? "" : `<p class="pq-why"><b>Choice ${L[i]}.</b> ${esc(w)}</p>`).join("");
+    }
+    if (x.takeaway) h += `<div class="pq-take"><b>${x.rows ? "LO" : "The takeaway"}</b>${esc(x.takeaway)}</div>`;
+    const sl = x.slides;
+    if (sl) {
+      const pg = a => (a || []).join(", ");
+      const wrong = (x.rows || []).map((r, i) => `${L[r.choice]} ${pg([sl.distractors[i]])}`).join(", ");
+      h += `<div class="pq-slides"><b>Slides</b> (${esc(x.deck || lec)}, 2025-26 deck): stem ${pg(sl.stem) || "n/a"} · answer ${pg(sl.answer)}${wrong ? " · wrong choices " + esc(wrong) : ""}</div>`;
+    }
     h += `</div>`;
-    h += `<div class="qf-cite">Practice question written from the slides${q.source_ref ? " · " + esc(q.source_ref) : ""} · ${esc(lecName(q.lecture, q))}${x.topic ? " · Topic: " + esc(x.topic) : ""}</div>`;
+    h += `<div class="qf-cite">Practice question written from the slides${q.source_ref ? " · " + esc(q.source_ref) : ""}${x.topic ? " · Topic: " + esc(x.topic) : ""}</div>`;
     return h;
+  }
+
+  // stem text with "[[labs N]]" marker lines swapped for real lab tables
+  function stemHTML(q) {
+    return String(q.stem || "").split("\n").map(line => {
+      const m = line.match(/^\[\[labs (\d+)\]\]$/);
+      const t = m && (q.labs || [])[+m[1]];
+      if (!t) return esc(line) + "<br>";
+      return `<table class="q-labs">` + t.map((r, i) => `<tr>${r.map(c => i === 0 && t.length > 2 && r.length > 2 ? `<th>${esc(c)}</th>` : `<td>${esc(c)}</td>`).join("")}</tr>`).join("") + `</table>`;
+    }).join("").replace(/(<br>)+$/, "");
   }
 
   function evidenceHTML(q) {
@@ -137,5 +162,5 @@
     return FONTS[h % FONTS.length];
   }
 
-  window.Explain = { evidenceHTML, wireViewer, esc, lecName, mdLite, lecFont };
+  window.Explain = { evidenceHTML, stemHTML, wireViewer, esc, lecName, mdLite, lecFont };
 })();

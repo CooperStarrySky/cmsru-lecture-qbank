@@ -144,7 +144,9 @@ mark.hl-red{background:var(--hl-red)}mark.hl-yellow{background:var(--hl-yellow)}
 .ch.is-correct .ch-rv{color:var(--good)}.ch.is-wrong .ch-rv{color:var(--bad)}
 body[data-phase="review"] .ch{cursor:default}
 body[data-phase="review"] .ch-icon{display:none}
-.q-rationale{margin-top:30px;border-top:1px solid #dfe3e7;padding-top:18px;font-size:calc(14.5px * var(--ex-scale));line-height:1.65}
+/* explanation panel: beside the question, scrolls on its own so the choices stay in view */
+.q-rationale{flex:0 0 48%;max-width:760px;min-width:0;overflow-y:auto;border-left:1px solid #dfe3e7;padding:24px 28px 48px;font-size:calc(14.5px * var(--ex-scale));line-height:1.65;scrollbar-width:thin;scrollbar-color:#DBDCDD transparent}
+.q-rationale[hidden]{display:none}
 .q-rationale h3{margin:0 0 14px;font-size:16px;color:var(--ui);display:flex;gap:10px;align-items:baseline}
 .q-rationale h3 small{font-size:12px;font-weight:400;color:var(--muted);letter-spacing:.3px}
 .q-rationale .ev-q{margin:0 0 12px;padding:10px 14px;border-left:3px solid var(--accent);background:var(--nav-bg);border-radius:0 6px 6px 0}
@@ -283,6 +285,9 @@ body[data-phase="review"] .ch-icon{display:none}
   .ft-left span{display:none}
   .ft-btn{width:auto;padding:0 18px;font-size:15px}
   .card2{flex-direction:column;min-height:0}
+  .ex-main.split{flex-direction:column;overflow-y:auto}
+  .ex-main.split .ex-scroll{flex:none;overflow:visible}
+  .q-rationale{flex:none;max-width:none;overflow:visible;border-left:0;border-top:1px solid #dfe3e7;padding:18px 16px 40px}
 }
 
 /* upload-complete card: centered, stacked full-width buttons */
@@ -342,7 +347,8 @@ body[data-phase="review"] .ch-icon{display:none}
 /* review / tutor results: dark tinted fills with light text */
 :root[data-ex-theme="dark"] .ch.is-correct .ch-txt{background:#1f5a34;color:#eaf8ef}
 :root[data-ex-theme="dark"] .ch.is-wrong .ch-txt{background:#6b2626;color:#fdecec}
-:root[data-ex-theme="dark"] .q-rationale{border-top-color:#2c343d}
+:root[data-ex-theme="dark"] .q-rationale{border-color:#2c343d}
+:root[data-ex-theme="dark"] .q-labs th,:root[data-ex-theme="dark"] .q-labs td{border-color:#2c343d}
 :root[data-ex-theme="dark"] .q-rationale .qf-cite{border-top-color:#2c343d}
 /* menus, tool kit, calculator, footer */
 :root[data-ex-theme="dark"] .ex-menu{background:#232a32;color:var(--ink);border-top-color:#2c343d}

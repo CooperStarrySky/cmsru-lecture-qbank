@@ -102,6 +102,16 @@ def main():
                         errs.append(f"{w}: missing figure {fg.get('image')}")
                 if not q.get("source_ref"):
                     errs.append(f"{w}: practice questions need source_ref (which slides they were written from)")
+                rows = x.get("rows")
+                if rows is not None:
+                    wrong = [i for i in range(len(q.get("choices") or [])) if i != q.get("answer")]
+                    if [r.get("choice") for r in rows] != wrong or not all(r.get("why") and r.get("if_right") for r in rows):
+                        errs.append(f"{w}: explain.rows needs why + if_right for each wrong choice, in order")
+                    if not x.get("objective") or not x.get("slides"):
+                        errs.append(f"{w}: explain.rows comes with explain.objective and explain.slides")
+                marks = [int(m) for m in re.findall(r"^\[\[labs (\d+)\]\]$", q.get("stem", ""), re.M)]
+                if sorted(marks) != list(range(len(q.get("labs") or []))):
+                    errs.append(f"{w}: each [[labs N]] marker needs labs[N] and the reverse")
             elif not ev:
                 errs.append(f"{w}: needs at least one evidence block (quote or slide)")
             for e in ev:

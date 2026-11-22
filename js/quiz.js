@@ -79,7 +79,7 @@
           : (S.i < Q.length - 1 ? `<button class="qf-btn qf-btn--primary" id="next">Next</button>` : `<button class="qf-btn qf-btn--primary" id="finish">Finish and review</button>`)}</div>`;
     }
     const img = q.stem_image ? `<button class="qf-figure" data-img="${esc(q.stem_image)}" data-cap="Question image" style="max-width:520px;margin-bottom:14px"><img src="${esc(q.stem_image)}" alt="Question image"></button>` : "";
-    $("#main").innerHTML = `<div class="qmeta">${esc(q.lecture)}</div>${img}<div class="qf-stem">${esc(q.stem).replace(/\n/g, "<br>")}</div>
+    $("#main").innerHTML = `<div class="qmeta">${esc(q.lecture)}</div>${img}<div class="qf-stem">${Explain.stemHTML(q)}</div>
       <div class="qf-choices" role="radiogroup">${choices}</div>${foot}`;
     rail(); save();
     if (lastShown !== S.i) { window.scrollTo(0, 0); lastShown = S.i; }
