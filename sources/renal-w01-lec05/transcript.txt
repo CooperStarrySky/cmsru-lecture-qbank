@@ -1,0 +1,883 @@
+[00:00:01] Yeah.
+[00:00:02] OK, good.
+[00:00:03] Yeah, sorry about the mask, uh.
+[00:00:05] But I don't wanna infect you all with this nasty
+[00:00:09] grandchild virus that I've gotten.
+[00:00:12] Um, so we're gonna, we're gonna have two talks this
+[00:00:17] morning.
+[00:00:18] Uh, one is on sodium homeostasis, and the other is
+[00:00:22] on water homeostasis.
+[00:00:24] Uh, they're gonna be about an hour each.
+[00:00:27] And I'll give you a five-minute break in between.
+[00:00:30] Um, and, uh, what I want you to do is,
+[00:00:35] uh, ask any questions along the way.
+[00:00:38] Uh, I'll ask you some questions, and you should feel
+[00:00:40] free to ask me questions.
+[00:00:42] Um, So let's get started.
+[00:00:47] Uh, so, about 400 million years ago, our ancestors crawled
+[00:00:53] out of the sea.
+[00:00:55] Uh, and once we did that, we were responsible for
+[00:00:59] creating the kind of sea within us.
+[00:01:02] And it's the kidney's responsibility to actually create that internal
+[00:01:06] environment.
+[00:01:08] The kidney has been called the master chemist because it
+[00:01:11] works the chemistry of the body kind of in reverse
+[00:01:15] by processing the entire circulatory volume 30 times a day.
+[00:01:21] And it does that just to maintain the internal environment.
+[00:01:27] So, the learning objectives for today's talk are to relate
+[00:01:31] changes in extracellular fluid volume, extracellular fluid volume to changes
+[00:01:36] in hemodynamics, predict the effect of total body sodium balance
+[00:01:42] on extracellular fluid volume.
+[00:01:45] Describe the physiology of sodium homeostasis, predict the clinical consequences
+[00:01:51] of disorders of sodium homeostasis, and apply knowledge of renal
+[00:01:55] sodium transport to the treatment of disorders of sodium homeostasis.
+[00:02:00] So, those are the learning objectives.
+[00:02:02] And these are some suggested readings.
+[00:02:04] Uh, somebody asked me the other day, what could they
+[00:02:06] read in order to prepare for this, and all these
+[00:02:09] are available, uh, electronically in the library.
+[00:02:13] OK, so why does sodium homeostasis matter?
+[00:02:15] Why are we even talking about?
+[00:02:16] Who is this?
+[00:02:20] Exactly right.
+[00:02:21] And what happened to Julius Caesar?
+[00:02:23] He got stabbed 23 times in the theater of Pompey.
+[00:02:27] But here's the question, why did Julius Caesar die?
+[00:02:34] Yeah, he could not perfuse, very good.
+[00:02:37] He could not perfuse his vital organs, and that speaks
+[00:02:41] to the critical.
+[00:02:44] Uh, perfusion of our vital organs.
+[00:02:47] I mean, this is what our entire homeostatic mechanisms are
+[00:02:52] meant to preserve, is the profusion of our vital organs,
+[00:02:56] right?
+[00:02:57] So, what, why am I showing you this?
+[00:02:59] What does this have to do with sodium?
+[00:03:01] It has everything to do with sodium.
+[00:03:03] Because what Julius lost was his blood pressure.
+[00:03:05] And blood pressure, you know, is cardiac output times peripheral
+[00:03:08] vascular resistance, and cardiac output is stroke volume times the
+[00:03:13] heart rate.
+[00:03:13] And the stroke volume is a reflection of the fullness
+[00:03:17] of the circulation, the fullness of the circulation.
+[00:03:21] And so I what I wanna show you is that
+[00:03:24] sodium homeostasis determines the fullness of the circulation.
+[00:03:30] So, let me, uh, let me just show you this
+[00:03:32] schematic of total body water compartments, which I think you're
+[00:03:36] quite familiar with.
+[00:03:38] And it shows you that the intracellular volume shown in
+[00:03:40] purple is about twice the size of the extracellular fluid
+[00:03:44] volume.
+[00:03:45] And the extracellular fluid volume is divided into interstitial fluid,
+[00:03:49] which makes up 3/4 of the extracellular fluid volume.
+[00:03:54] And the intravascular space, which is only 25% of the
+[00:03:58] Uh, extracellular fluid volume, right?
+[00:04:02] And these are the approximate volumes of each compartment in
+[00:04:05] a 70 kg person.
+[00:04:07] So the intravascular volume is only 125 of 3 of
+[00:04:13] total body water or 112 of Total body water space,
+[00:04:18] uh, and that'll become important later on, as you'll see.
+[00:04:23] OK, so, sodium is completely restricted or effectively restricted to
+[00:04:29] the extracellular fluid space, and you can see that in
+[00:04:31] the right panel there, that shows the ionic composition of
+[00:04:35] the extracellular fluid in the upper panel and the intracellular
+[00:04:39] fluid in the lower panel.
+[00:04:40] You can see that sodium and its associated anions.
+[00:04:43] Constitute the predominant, the vastly predominant solute in the extracellular
+[00:04:48] fluid.
+[00:04:49] And that is maintained, that very asymmetrical distribution is maintained
+[00:04:53] by sodium potassium ATPase shown schematically there between the cell
+[00:04:59] intracellular compartment and the extracellular compartment that prevents, essentially, sodium
+[00:05:04] from entering cells.
+[00:05:08] So, how does, what does this mean physiologically?
+[00:05:10] What this means is, this is the same schematic, OK?
+[00:05:14] Intracellular on the left, extracellular on the right, uh, and
+[00:05:18] the volume is represented on the X-axis, and the osmolarity
+[00:05:23] of the solutions is represented on the Y-axis, OK?
+[00:05:27] So, what happens if you add a solution of sodium
+[00:05:30] chloride that has an osmolarity that is identical to that
+[00:05:35] of plasma?
+[00:05:37] What would happen?
+[00:05:38] What would happen to the volume of the extracellular fluid
+[00:05:41] in space?
+[00:05:42] It would expand proportionately.
+[00:05:45] It would expand proportionally.
+[00:05:46] Well, what happens if you add Pure sodium chloride, eat
+[00:05:51] salt tablets.
+[00:05:53] What happens then?
+[00:05:54] Well, what happens is you get an increase in the
+[00:05:56] osmolarity of the extracellular fluid compartment, and that causes water
+[00:06:01] movement.
+[00:06:03] Down its concentration gradient from the intracellular to the extracellular
+[00:06:07] compartment, expanding the size, the volume of the extracellular fluid
+[00:06:12] compartment.
+[00:06:12] So, effectively, the same thing happens as when you gave
+[00:06:17] an isotonic solution of sodium chloride.
+[00:06:20] So, adding sodium to the body expands the extracellular fluid
+[00:06:25] space.
+[00:06:25] In this, in this case, the size of the volume
+[00:06:29] of the intracellular compartment shrinks because of that water movement.
+[00:06:32] And the osmolarity in the two compartments is equalized.
+[00:06:38] OK, so the volume of the extracellular fluid compartment depends
+[00:06:42] on total body sodium.
+[00:06:45] The volume of the extracellular fluid compartment depends on total
+[00:06:50] on, on total body sodium content.
+[00:06:53] Is everybody clear about that?
+[00:06:55] It's a critical concept.
+[00:07:00] OK.
+[00:07:01] So, how is ECF volume regulated?
+[00:07:04] How is ECF volume regulated?
+[00:07:07] And the first question you have to ask is, in
+[00:07:09] any regulatory or homeostatic system, there's an afferent component and
+[00:07:15] an efferrin component.
+[00:07:16] And the question then is, what's the afferent component here?
+[00:07:20] In other words, what is sensed?
+[00:07:22] And what is sensed is the intravascular compartment, as you
+[00:07:25] would suspect, right?
+[00:07:27] Because you're talking about defending the circulation.
+[00:07:30] You are talking about defending the circulation, right?
+[00:07:33] So, is it the total intravascular space or is it
+[00:07:37] something else?
+[00:07:37] And it turns out to be something else.
+[00:07:39] Most, for the most part.
+[00:07:41] And that is what's called the effective arterial circulating volume.
+[00:07:45] Are you guys familiar with this from cardiology and GI?
+[00:07:51] This concept of effective arterial circulating volume.
+[00:07:56] Not really.
+[00:07:57] Oh, interesting.
+[00:07:58] OK.
+[00:07:59] So, uh, the reason I bring up cardiology and GI
+[00:08:02] is because The path some of the pathophysiologic conditions in
+[00:08:08] those systems, like congestive heart failure and cirrhosis with ascites,
+[00:08:15] are associated with an increase in total extracellular fluid volume,
+[00:08:20] but typically, a decrease in effective arterial circulating volume.
+[00:08:25] A decrease in effective arterial circulating volume.
+[00:08:28] But under normal circumstances, the effect of arterial circulating volume
+[00:08:32] is about 20% of the total intravascular volume, only 20%.
+[00:08:37] But you can have grossly disordered, effective circulating volume proportion
+[00:08:43] under certain pathophysiologic conditions like congestive heart failure and cirrhosis
+[00:08:47] with ascites.
+[00:08:50] Um, so that's what's sensed, and where are these sensors?
+[00:08:54] Uh, they are in the carotid sinus, and in the
+[00:08:59] aorta, and in the cardiac atria, and in the cardiac
+[00:09:02] ventricles, for the most part.
+[00:09:03] There are others elsewhere.
+[00:09:06] But what happens is if you have decreased stretch of
+[00:09:09] these barrel receptors or pressure, pressure sensors.
+[00:09:13] Um, that is transmitted.
+[00:09:17] as an inhibitory signal to the brainstem, the vasomotor centers
+[00:09:25] in the brainstem, and that causes synthetic nervous system activation.
+[00:09:31] So it's really quick, right?
+[00:09:34] So there are these quick elements in the homeostatic system.
+[00:09:38] Uh, and then there are some longer term, uh, um,
+[00:09:42] elements in the homeostatic system.
+[00:09:44] So the kidney.
+[00:09:46] I actually, actually participates in both the afferent and the
+[00:09:49] efferent limb here.
+[00:09:51] And let me just show you what that looks like.
+[00:09:53] And you you saw this in, uh, Doctor Chirico's talk
+[00:09:56] the other day, and this is the juxtaglomerular apparatus.
+[00:10:01] So, the juxlar apparatus, you can see on the, on
+[00:10:04] the low-power view over there on the left, you can
+[00:10:06] see that it is the afferent arterial in opposition to,
+[00:10:13] The distal nephron.
+[00:10:16] Uh, I'm gonna, I'm gonna call it the distal nephron
+[00:10:18] moment, uh, for this right now, um, because there's some
+[00:10:23] confusion about where this JC JG apparatus actually resides.
+[00:10:29] Um, some people say it is in opposition to the
+[00:10:32] distal tubule.
+[00:10:34] But I say that it is in opposition to the
+[00:10:38] extreme end of the thick ascending limb of the loop
+[00:10:40] of Henley.
+[00:10:40] And the reason that I say that is because of
+[00:10:44] the transport characteristics of this part of the nephron, which
+[00:10:47] I'll show you in a second.
+[00:10:49] Um, so, uh, but nobody's really gonna ask you, where
+[00:10:52] is this JG apparatus?
+[00:10:54] Uh, you should just know the transport characteristics.
+[00:10:57] And I'm gonna show you that in a second.
+[00:10:59] On the right-hand side, you can see a higher power
+[00:11:02] view.
+[00:11:02] And that shows on the left there, the macular densor,
+[00:11:06] which are, which are specialized, uh, renal tubular epithelial cells
+[00:11:10] in this segment of the nephron that are opposed to
+[00:11:15] the granular cells on the afferent arterial.
+[00:11:19] So, let me show you what that looks like.
+[00:11:21] Schema.
+[00:11:21] Well, before I do that, before I show you the
+[00:11:23] schema, let me just say that the JAG apparatus has
+[00:11:28] two functions, 2 functions that affect the adequacy of the
+[00:11:32] circulation.
+[00:11:33] Because that's what we're talking about here.
+[00:11:35] One is to modulate glomerular filtration rate.
+[00:11:38] And that's through something called tubularglomerular feedback.
+[00:11:42] Tubullo glomerular feedback, and I'll show you what that looks
+[00:11:44] like.
+[00:11:45] And the second is to modulate renin secretion.
+[00:11:49] It's not renin, it's renin.
+[00:11:51] It comes from the ren, the kidney.
+[00:11:53] Uh, modulate renin secretion.
+[00:11:55] That does two things.
+[00:11:56] One is it affects local renal and systemic hemodynamics.
+[00:12:02] And the other is, it affects renal sodium handling.
+[00:12:06] And both of those affect the adequacy of the circulation.
+[00:12:10] OK?
+[00:12:11] So, let me, let's just dive into this JG apparatus.
+[00:12:14] So, on the left, you can see the thick ascending
+[00:12:17] limb of, I'm calling it thick ascending limb of lupus
+[00:12:19] Henley, because it has these transporters that are characteristic of
+[00:12:25] the thick ascending limb of lupus Henley, and that is
+[00:12:27] the sodium potassium 2 chloride co-transporter.
+[00:12:31] That is what transduces The delivery of solute to this
+[00:12:36] segment of the nephron, so that the cell can see
+[00:12:39] it.
+[00:12:39] And under conditions where there's increased delivery of uh solute
+[00:12:45] to this segment of the nephron, for example, in conditions
+[00:12:49] of volume expansion, That causes adenosine generation by this.
+[00:12:56] The cells of the macular densa.
+[00:12:58] And that, adenosine, then is read by the afferent arterial
+[00:13:03] to cause constriction of the afferent arterial.
+[00:13:07] Well, why would you want to do that?
+[00:13:09] Why would you wanna constrict the afferent arterial under conditions
+[00:13:13] of volume expansion?
+[00:13:14] You would want to do that to prevent flooding of
+[00:13:17] the distal nephron with a lot of solute, and loss
+[00:13:21] of solute from the body.
+[00:13:23] You wouldn't, right?
+[00:13:25] OK, so that's.
+[00:13:28] How about the converse situation where you have Volume depletion,
+[00:13:32] which is associated with decreased delivery of solute to the
+[00:13:36] segment of the nephron, that suppresses adenosine and causes increase
+[00:13:42] in prostaglandin secretion by the, these epithelial cells in the
+[00:13:47] sick ascending limb.
+[00:13:49] Though, that, in conjunction with some nitric oxide, causes renin
+[00:13:54] release.
+[00:13:56] Also, remember I told you that under conditions of volume
+[00:13:58] depletion or hypotension, you get increased sympathetic activity.
+[00:14:04] That is read by these granular cells as well.
+[00:14:07] There you can see increased sympathetic nerve activity.
+[00:14:10] That also, by beta one transmit uh transduction.
+[00:14:15] is uh responsible for renal release.
+[00:14:17] So you have synthetic nerves acting on these cells, and
+[00:14:20] you have prostaglandins acting on these cells to cause renal
+[00:14:23] release under conditions of volume depletion.
+[00:14:28] Don't worry about this modulation by calcium.
+[00:14:32] Uh, so what does this renin do?
+[00:14:34] You guys know about this, angiotensinogen to angiotensin 1, and
+[00:14:38] then angiotensin 2 by way of converting enzyme.
+[00:14:42] And angiotensin 2 is a very potent vasoconstrictor, OK?
+[00:14:48] So, we have somebody who's volume depleted, may be hypotensive.
+[00:14:53] They go into a high reinst because of this transduction
+[00:14:57] of the solute delivery to the distal nephron, uh, and
+[00:15:01] that causes angiotensinogen to cause some vasoconstriction, which helps to
+[00:15:07] maintain blood pressure in this volume-depleted person.
+[00:15:10] The angiotensinogen, the, uh, the angiotensin 2 acts on the
+[00:15:15] adrenal gland to cause secretion of aldosterone.
+[00:15:20] And this Elione acts on the kidney in ways that
+[00:15:24] I'm going to show you.
+[00:15:26] That also helped to maintain the adequacy of the circulation.
+[00:15:30] So it's a really quite beautiful homeostatic system.
+[00:15:36] OK, and natriuretic peptides inhibit both the renin uh secretion
+[00:15:41] and the uh allosterone secretion by the.
+[00:15:45] Uh, adrenal gland.
+[00:15:48] OK, so just to kind of wrap this up, the
+[00:15:50] integration of JG apparatus function under conditions of volume depletion.
+[00:15:56] Decrease solute delivery to the macula densa because of the
+[00:15:59] volume depletion, That suppresses adenosine, which helps to maintain GFR
+[00:16:05] by not constricting the affron arterial, and that maintains excretory
+[00:16:10] function.
+[00:16:10] So, you can get rid of your waste products, even
+[00:16:12] though you're somewhat volume depleted.
+[00:16:14] At the same time, you get prostaglandin and nitric oxide,
+[00:16:18] elaboration by these maculodensa cells that causes re-incretion.
+[00:16:24] Increases vascul tone by way of angiotensin 2, and increases
+[00:16:29] distal sodium chloride reabsorption by way of Elvissterone, which I'll
+[00:16:33] show you shortly.
+[00:16:34] And all of this, all of this helps to maintain
+[00:16:38] the adequacy of the circulation.
+[00:16:40] Conversely, under conditions of volume expansion, where, where you have
+[00:16:44] increased solute delivery to the macular densa, you have adenosine
+[00:16:47] generation.
+[00:16:49] Decreasing GFR, preventing flooding of the distal nephron, and suppression
+[00:16:54] of renal secretion, decreasing vascular tone so that you don't
+[00:16:58] necessarily develop extreme hypertension when your volume expanded, right?
+[00:17:03] And also decreased sodium chloride reabsorption, uh, in the distal
+[00:17:07] nephron.
+[00:17:09] So that you can mitigate this volume expansion.
+[00:17:14] OK, so, how do we keep total body sodium constant?
+[00:17:19] And what do I mean by that?
+[00:17:20] What I mean is, That our sodium intake equals our
+[00:17:25] sodium excretion.
+[00:17:27] That we are in neutral balance with our environment, neutral
+[00:17:31] sodium balance with our environment.
+[00:17:33] Well, it's not because we modulate sodium intake.
+[00:17:36] This is a slide that's generated from the National Health
+[00:17:39] and Nutrition Evaluation Survey showing sodium intake by age and
+[00:17:47] sex.
+[00:17:48] And you can see that it's very, very variable.
+[00:17:51] Uh, so, the bottom line is that we don't maintain
+[00:17:55] our Sodium balance by varying our sodium intake.
+[00:17:58] Our sodium intake is what it is, you know.
+[00:18:01] Uh, what you can see here is, um, 2300 mg,
+[00:18:07] that's about 2, that's about 100 mLivalents of sodium a
+[00:18:13] day.
+[00:18:14] About 100 mLivalents of sodium a day.
+[00:18:16] And by the way, the amount of salt that we
+[00:18:18] eat, the amount of sodium chloride we eat is way
+[00:18:20] in excess of what we need.
+[00:18:23] But that's another, that's another.
+[00:18:26] Point OK, so Let's say we take in 100, even
+[00:18:31] 200 mLequivalents of sodium a day.
+[00:18:35] That means in order to maintain neutral balance, we have
+[00:18:37] to eliminate that 100 to 200 milliequivalents a day, right?
+[00:18:42] It turns out that extrarenal, mostly GI elimination, accounts for
+[00:18:47] a tiny little proportion of that, 5 to 10 mLequivalents
+[00:18:50] a day.
+[00:18:51] So most of the elimination is through the kidney.
+[00:18:55] And that is what's regulated, and that is how we
+[00:18:58] maintain neutral sodium balance by by adjusting the amount of
+[00:19:03] sodium that we eliminate on a day to day basis.
+[00:19:07] And what's the evidence for that?
+[00:19:09] The evidence is in this figure, which is a kind
+[00:19:11] of a summary of a whole bunch of human experiments
+[00:19:15] that were done probably 80 years ago.
+[00:19:18] Uh, and what you can see, uh, this is a,
+[00:19:21] a, a 70 kg person.
+[00:19:23] Uh, that you can see the weight on the upper
+[00:19:25] panel.
+[00:19:26] And on the lower panel, what you see is.
+[00:19:29] That at steady state, this person is taking in very
+[00:19:33] little sodium, very little sodium.
+[00:19:35] This is an experiment.
+[00:19:36] This person is on a 10 milliequivalent per day sodium
+[00:19:39] diet, 10 milliequivalents.
+[00:19:41] And their intake is shown in the solid line, and
+[00:19:44] their excretion, their renal excretion is shown in the dotted
+[00:19:49] line.
+[00:19:50] And you can see that their sodium excretion matches their
+[00:19:52] sodium intake, even at that very, very low level of
+[00:19:55] sodium intake.
+[00:19:56] In other words, the kidney is really good at conserving
+[00:19:59] sodium under conditions of sodium restriction.
+[00:20:02] And then this person is subjected to a a sudden
+[00:20:06] increase in their sodium intake from 10 million equivalents a
+[00:20:10] day to 150 mill equivalents a day.
+[00:20:13] And and Following that, the kidney gradually, gradually comes into
+[00:20:19] balance with that increased sodium intake.
+[00:20:22] But during that time, During that time, this person is
+[00:20:27] in positive sodium balance.
+[00:20:29] In other words, their sodium intake exceeds their sodium excretion,
+[00:20:34] and you can see that reflected in the increase in
+[00:20:37] their body weight.
+[00:20:39] And this serves to emphasize that changes in body weight
+[00:20:43] from day to day reflect changes in sodium balance.
+[00:20:50] So a gain of weight on a day to day
+[00:20:53] basis, means that the person has been in positive sodium
+[00:20:56] balance.
+[00:20:57] So then this person is again subjected, this poor guy
+[00:21:00] is subjected to a rapid decrease in their sodium intake
+[00:21:05] from 150 millequivalents back to 10 millequivalents a day, and
+[00:21:09] the kidney comes gradually over 4 or 5 days into
+[00:21:13] balance with that reduced sodium intake.
+[00:21:15] But during that time, they're in negative sodium balance, and
+[00:21:18] that's reflected in a decrease in their weight.
+[00:21:22] Who has questions about this?
+[00:21:26] We're good?
+[00:21:28] OK.
+[00:21:31] OK, so, how does this happen?
+[00:21:32] How does the kidney do what it does?
+[00:21:35] Uh, this is, uh, just a, a brief, uh, reminder
+[00:21:39] of what Doc uh Doctor Chirico said the other day,
+[00:21:42] and that is that solutes are handled by the kidney
+[00:21:45] by filtration, secretion, reabsorption, uh, and different solutes are handled
+[00:21:50] different ways.
+[00:21:51] And sodium is handled by filtration.
+[00:21:55] Sodium is freely filtered.
+[00:21:57] It's not complex.
+[00:21:58] It's not bound.
+[00:22:00] Uh, sodium is freely filtered, and it's only reabsorbed.
+[00:22:04] It is not secreted.
+[00:22:06] So, sodium excretion equals filtered sodium minus reabsorbed sodium.
+[00:22:12] Filtered sodium is the GFR times the plasma water sodium
+[00:22:16] concentration.
+[00:22:20] Minus reabsorbed sodium.
+[00:22:21] So, let's take a look at that.
+[00:22:22] OK?
+[00:22:22] So, here is the schematic of this, of this nephron.
+[00:22:27] Uh, you can see sodium is filtered across the glomerulus
+[00:22:30] into the proximal tubule.
+[00:22:33] Uh, and if the GFR in a normal person is
+[00:22:36] about 180 L a day, 180 L a day.
+[00:22:41] Then the filtered load of sodium.
+[00:22:44] And a plasma sodium concentration in the water, plasma water
+[00:22:47] of 150 millivons a day is about 27,000 millequivalents a
+[00:22:52] day.
+[00:22:53] 27,000 mLequivalents a day, filtered.
+[00:22:57] But if this person is eating sodium to the tune
+[00:23:00] of 155 millivalents a day, and 5 millivalents is eliminated
+[00:23:04] by the gut, then they have to get rid of
+[00:23:08] 150 mLivalents a day in the urine, in order to
+[00:23:12] maintain neutral balance.
+[00:23:14] 150 mLequivalents, divided by 27,000.
+[00:23:19] Is a filtration is a um fractional excretion of sodium,
+[00:23:27] fractional excretion of sodium of 0.6%. Fractional excretion of sodium,
+[00:23:34] that is the, the final excreted sodium divided by the
+[00:23:39] filtered load of sodium.
+[00:23:41] Fractional excretion of sodium.
+[00:23:44] So you might say, you might very well say, you
+[00:23:46] might very well ask.
+[00:23:48] What a waste.
+[00:23:50] Why is all this fil all this sodium filtered and
+[00:23:54] then almost completely reabsorbed?
+[00:23:56] 99.4% of it is reabsorbed nominephrine.
+[00:24:00] And the answer to that is, Two things.
+[00:24:02] One is, you have to have this high GFR to
+[00:24:05] be able to eliminate the nitrogenous waste, the products of
+[00:24:09] metabolism that we generate every day.
+[00:24:11] So, that's number one.
+[00:24:12] You have to have high, uh, glomerular filtration.
+[00:24:17] And the sodium has to be filtered.
+[00:24:19] There's no way around that.
+[00:24:21] But the reabsorption along the nephron is so that you
+[00:24:26] can reabsorb in combination with sodium, lots of stuff that
+[00:24:30] you don't want to lose from the body.
+[00:24:32] And so that you can secrete.
+[00:24:36] Uh, Certain, uh, elements that you do want to get
+[00:24:40] rid of.
+[00:24:41] So, this sodium transport, this huge sodium transport, is coupled
+[00:24:45] with other transports along the nephron.
+[00:24:50] All right.
+[00:24:50] So where does this happen?
+[00:24:52] Uh, Doctor Chirico, I know showed you that about 65%
+[00:24:56] of this sodium reabsorption occurs in the proximal tubule.
+[00:25:00] About 25% occurs in the thick ascending limb of loop
+[00:25:03] of Henley.
+[00:25:04] About 5% in the distal tubule and about 5% in
+[00:25:09] the collecting duct.
+[00:25:11] So, let's dive down and take a look at that.
+[00:25:13] Let's look at the proximal tubule.
+[00:25:15] Uh, this is a schematic that you're gonna see over
+[00:25:18] and over again.
+[00:25:18] This is the tubule lumen, and these are some renal
+[00:25:22] tubular epithelial cells, in this case, in the proximal tubule.
+[00:25:25] And, uh, there's sodium potassium ATPase on the basolateral membrane
+[00:25:31] that provides the energy for other transport in this segment
+[00:25:36] of the nephron.
+[00:25:37] Uh, sodium entry here is through, predominantly through the sodium
+[00:25:42] hydrogen exchanger, NHE3, sodium hydrogen exchanger.
+[00:25:47] Uh, and also, there's coupled sodium transport, and this is
+[00:25:50] what I was referring to a couple of minutes ago.
+[00:25:53] Coupled sodium transport with glucose, phosphate, amino acids, uric acid,
+[00:25:58] stuff you don't necessarily want to get rid of.
+[00:26:03] Sodium, uh, chloride transport is paracellular here.
+[00:26:07] And.
+[00:26:08] Sodium is extruded through this, through the basilateral membrane by
+[00:26:12] way of uh sodium.
+[00:26:15] Uh, bicarbonate transporter.
+[00:26:19] OK, so let's let's think about what might modulate the
+[00:26:22] volume of salt and water reabsorption here.
+[00:26:26] Salt and water reabsorption of the proximal tubule is isotonic,
+[00:26:29] meaning the reabsorption, there's no separation of salt and water
+[00:26:34] here.
+[00:26:35] And we'll talk about that more in the next lecture.
+[00:26:39] But, uh, just remember that sodium, uh, reabsorption here is
+[00:26:43] isotonic with plasma water.
+[00:26:46] Uh, and this sodium transport is effectively net salt and
+[00:26:49] water transport into the interstitial here between these, the basilateral
+[00:26:55] compartments of the, uh, renal tubular epithelial cells.
+[00:26:59] And, and that's a pertubular capillary on the right there.
+[00:27:03] So, how much of that salt and water is actually
+[00:27:06] reabsorbed into this peritubular capillary and returned to the circulation?
+[00:27:13] Depends on The starling forces across this barrier.
+[00:27:20] And you all remember the starling forces.
+[00:27:22] They are hydrostatic pressure and narcotic pressure.
+[00:27:25] You can see these here.
+[00:27:26] So how does this play out?
+[00:27:28] And how would this modulate the reabsorption of filtered solute?
+[00:27:33] Um, this is how this goes.
+[00:27:36] So imagine, so, so the schematic here is, this is
+[00:27:39] glomerular capillary.
+[00:27:40] And this is Bowman's space.
+[00:27:42] This is the proximal tubular lumen.
+[00:27:43] These are some real tubular epithelial cells.
+[00:27:45] This is the afferent arterial.
+[00:27:47] This is the efferent arterial that becomes the peritubular capillary,
+[00:27:51] right?
+[00:27:52] So, imagine a volume-depleted patient who's in a high angiotensin
+[00:27:57] state.
+[00:27:58] Volume depleted patients, high rene and angiotensin stayed.
+[00:28:01] Angiotensin.
+[00:28:03] Um, constricts predominantly the efferent arterial.
+[00:28:09] So here's a volume dependent volume depleted patient.
+[00:28:12] That constriction of the efferent arteriole then allows maintenance of
+[00:28:16] GFR even though the patient is volume depleted.
+[00:28:19] So it allows this person to get rid of their
+[00:28:21] nitrogenous waste and other things that they need to get
+[00:28:24] rid of.
+[00:28:25] But at the same time, there is decreased hydrostatic pressure.
+[00:28:31] Because you have this resistance here at the effer arterial.
+[00:28:34] So, you have decreased hydrostatic pressure in the efferent arterial
+[00:28:38] and, therefore, the peritubular capillary, and increased oncotic pressure there.
+[00:28:44] Increased oncotic pressure because you're abstracting more water from the
+[00:28:48] plasma that's filtered across the glomerulus, right?
+[00:28:52] And so, that causes increased reabsorption of filtrate.
+[00:28:57] From the proximal tubule into the peritubular capillary and return
+[00:29:00] to the circulation, which is exactly what you would want
+[00:29:04] if you were volume depleted.
+[00:29:06] Conversely, if your volume expanded, you don't have that efferent,
+[00:29:11] uh, uh, arterial, uh, constriction.
+[00:29:16] And so you have, again, maintenance of GFR, but you
+[00:29:20] have considerably less proximal reabsorption, uh, net proximal reabsorption into
+[00:29:25] the pertubular capillary and return to the circulation, which is
+[00:29:29] exactly what you would want if you were volume expanded.
+[00:29:32] That makes sense?
+[00:29:35] And this is why when I was talking before about
+[00:29:37] delivery of solute to the macular densa.
+[00:29:40] We were talking about the, the JG apparatus.
+[00:29:44] This is why there is less delivery to the macula
+[00:29:48] densa.
+[00:29:50] Lumen under conditions of volume depletion, because you have this
+[00:29:53] enhanced proximal reabsorption.
+[00:29:56] And why under conditions of volume expansion, you have increased
+[00:29:59] delivery of solute to the macular density.
+[00:30:02] It all makes sense, I hope.
+[00:30:04] OK, so that's called, by the way, oops.
+[00:30:08] Oops.
+[00:30:10] Do, do.
+[00:30:11] This is called glomerulotubular balance.
+[00:30:14] Not tubular glomerular feedback, which is what we were talking
+[00:30:17] about before with, uh, the macular density.
+[00:30:20] But this is glomerulotubular balance.
+[00:30:26] OK.
+[00:30:26] So, we've talked about the proximal tubule.
+[00:30:28] Now, let's talk about the thick ascendingly loop of Henley,
+[00:30:32] where, uh, once again, you have sodium potassium ATPase on
+[00:30:35] the basolateral membrane that drives other transport.
+[00:30:38] Uh, and the predominant transporter here that I wanna talk
+[00:30:41] about is this sodium potassium 2 chloride co-transporter that we
+[00:30:46] talked about before.
+[00:30:48] It's characteristic of the macular densa.
+[00:30:50] Which is why I call the macular densa a part
+[00:30:53] of the thick ascending limb, even though some people say
+[00:30:56] it's distal tubule, don't worry about it.
+[00:31:00] Uh, so, uh, so, sodium, potassium, 2 chloride enter here.
+[00:31:06] Uh, chloride, uh, is excreted through a channel, is, is
+[00:31:10] transported through a channel in the basil lateral membrane.
+[00:31:13] And here, there is this, what's gonna turn out to
+[00:31:16] be fairly famous Rhom K channel, Rhom K channel, uh,
+[00:31:22] in the apical membrane that sets up a lumen positive
+[00:31:26] potential difference.
+[00:31:27] This is the only segment of the nephron where the
+[00:31:29] lumen is positive relative to the basilateral surface.
+[00:31:34] And this positive electrochemical gradient drives paracellular transport of sodium,
+[00:31:42] calcium, and magnesium.
+[00:31:47] So that's a thick ascending limb.
+[00:31:50] What about the distal tubule, where only 5% of the
+[00:31:54] total filtrate is reabsorbed.
+[00:31:56] Here, again, sodium, potassium ATPase on the basolateral membrane, drives
+[00:32:00] transport here through a sodium chloride co-transporter, abbreviated NCC.
+[00:32:07] Sodium chloride co-transporter.
+[00:32:09] And chloride, uh, exits through a channel on the basolateral
+[00:32:12] membrane.
+[00:32:13] Very simple.
+[00:32:14] By the way, these are very simplified schematics.
+[00:32:17] If you look at all the transporters here, there wouldn't
+[00:32:19] be enough room to put them on the slide.
+[00:32:21] Um, this is mainly focused on sodium transport.
+[00:32:27] How about in the collecting duct?
+[00:32:29] So let's look at a principal cell of the collecting
+[00:32:31] duct.
+[00:32:33] Uh, and this is also called Remember our friend Alvesterone?
+[00:32:37] This is also called the alvesterone sensitive distal nephron.
+[00:32:42] Aldosterone sensitive distal nephron.
+[00:32:45] So here, again, sodium, tassium HPI on the basilateral membrane.
+[00:32:50] And sodium entry here is through this epithelial sodium channel.
+[00:32:56] That we call EAC.
+[00:32:58] Epithelial sodium channel.
+[00:33:01] This sets up a potential, uh uh uh uh negative
+[00:33:05] potential difference, uh, lumin negative potential difference, which drives potassium
+[00:33:10] secretion through this rhomk channel.
+[00:33:15] And it's here that Alice Duron acts.
+[00:33:19] And this is the place where sodium homeostasis is actually
+[00:33:24] finely tuned.
+[00:33:27] It's here where sodium homeostasis is finely tuned.
+[00:33:31] Even though there's very little sodium transport, relatively little sodium
+[00:33:34] transport, only 5% of sodium transport in this segment of
+[00:33:36] the nephron, the variability here, under the influence of, largely
+[00:33:41] under the influence of Alicesterone.
+[00:33:43] Uh, is what allows us to keep in sodium balance.
+[00:33:47] So aldosterone binds to its minerallic corticoid receptor.
+[00:33:51] Uh, and through gene transcription and translation, you get an
+[00:33:57] increase in the activity, the, the number of pumps on
+[00:34:01] the basolateral membrane and the activity of those pumps, and
+[00:34:04] the number of sodium channels in the apical membrane, and
+[00:34:07] the open probability of those, those channels.
+[00:34:09] So, it stimulates sodium transport in, in a couple of
+[00:34:12] different ways.
+[00:34:13] Right?
+[00:34:14] But because there is the need for transcription, translation, etc.
+[00:34:20] it's why there's a lag.
+[00:34:22] Remember the, the whole body experiment that I showed you
+[00:34:25] where he's on a very low sodium diet, increase in
+[00:34:29] Sudden increase in sodium, but it takes days to come
+[00:34:32] into balance.
+[00:34:34] That's because of uh the dependence of Alice Stone's action
+[00:34:38] on.
+[00:34:40] Gene transcription and protein synthesis.
+[00:34:45] Any questions?
+[00:34:48] How are we doing?
+[00:34:50] We're good?
+[00:34:52] Good.
+[00:34:54] OK, so let's talk quickly about disorders of sodium homeostasis.
+[00:34:59] Disorders of sodium homeostasis.
+[00:35:01] And I'm gonna talk quickly about these because we're gonna
+[00:35:03] deal with them in a little more detail in the
+[00:35:05] ALG cases.
+[00:35:07] Uh.
+[00:35:10] What are the manifestations of sodium.
+[00:35:13] That is extracellular fluid volume depletion.
+[00:35:17] But I want you to think about sodium depletion as
+[00:35:20] being almost synonymous with extracellular fluid volume depletion.
+[00:35:26] OK?
+[00:35:27] So, what are the manifestations of sodium depletion, hypotension, as
+[00:35:31] you would predict, right?
+[00:35:33] And then all the, um, sort of secondary effects of
+[00:35:36] sympathetic nervous system upregulation that go along with that, like
+[00:35:40] tachycardia, decreased skin turgor, cool, pale skin, diaphoresis, sweating, right?
+[00:35:49] And then finally, shock and impaired.
+[00:35:53] Organ profusion.
+[00:35:57] So how do we treat that?
+[00:35:59] How do we treat that?
+[00:36:00] How do we treat this volume depletion?
+[00:36:02] Well, if you understand that volume depletion is synonymous with
+[00:36:05] sodium depletion or sodium deficiency, then you would treat it
+[00:36:10] by putting the patient into positive sodium balance.
+[00:36:14] Put the patient into positive sodium balance, by which I
+[00:36:18] mean, make their sodium intake exceed their sodium elimination.
+[00:36:24] That's what I mean by that.
+[00:36:26] So how can we do that?
+[00:36:28] We can do that by giving the patient sodium.
+[00:36:31] And the most common way that we do that is
+[00:36:34] by either increasing their oral sodium intake.
+[00:36:37] Uh, or by giving them intravenous sodium chloride solution.
+[00:36:44] Uh, and that's shown in this schematic that I showed
+[00:36:47] you at the very beginning of the talk.
+[00:36:48] You give sodium chloride solution, what does that do?
+[00:36:51] It expands the extracellular fluid volume.
+[00:36:53] That's what you wanna do.
+[00:36:58] OK.
+[00:36:59] What about manifestations of sodium excess?
+[00:37:03] In other words, extracellular fluid volume expansion.
+[00:37:06] There's several here, and Doctor Dawson talked about this briefly
+[00:37:10] on Monday, hypertension.
+[00:37:13] Peripheral edema, which you can see nicely illustrated there on
+[00:37:16] the left.
+[00:37:17] Heart failure, nice x-ray of pulmonary edema.
+[00:37:22] And ascites on the far right, you can see a
+[00:37:24] sagittal section on the CT scan showing ascites.
+[00:37:28] Those are those are all manifestations of extracellular fluid volume,
+[00:37:32] excess or sodium overload.
+[00:37:36] So how would you treat these?
+[00:37:38] Well, what you want to do is establish negative sodium
+[00:37:42] balance.
+[00:37:43] Negative sodium balance.
+[00:37:44] Make their sodium elimination exceed their sodium intake.
+[00:37:49] And Some clever folks might say, well, how about you
+[00:37:54] just, how about you just um reduce their sodium intake
+[00:37:58] to less than their sodium excretion.
+[00:38:01] Who can think of a problem with that under these
+[00:38:03] pathophysiologic conditions like congestive heart failure, cirrhosis with ascites.
+[00:38:12] Well, what do you think their sodium elimination is under
+[00:38:14] those circumstances?
+[00:38:15] Remember what I told you at the beginning, that, that
+[00:38:19] When we think about effective arterial circulating volume in these
+[00:38:23] pathophysiologic conditions like congestive heart failure and cirrhosis with ascites,
+[00:38:28] there is a marked uh maldistribution of the intravascular volume
+[00:38:33] such that their, their effective arterial circulating volume can be.
+[00:38:39] Um, low, even though they are total body volume overloaded.
+[00:38:45] So what do you think Yeah understanding that now, that
+[00:38:49] their effective arterial circulating volume is low, even though their
+[00:38:54] total body volume overloaded.
+[00:38:56] What do you think their sodium excretion is?
+[00:39:00] The urinary sodium excretion.
+[00:39:03] Low.
+[00:39:04] Exactly, right?
+[00:39:05] Because all the homeostatic mechanisms that you use under normal
+[00:39:09] cir circumstances to retain sodium under conditions of volume depletion
+[00:39:14] would be coming into effect in this person who has
+[00:39:17] diminished effective arterial volume.
+[00:39:20] So, in these patients, you can't really reduce their um
+[00:39:26] sodium intake to lessen their excretion because their excretion is
+[00:39:30] minimal, minimal.
+[00:39:32] Remember I told you that the kidney is really good
+[00:39:34] at conserving sodium because of all these mechanisms that I
+[00:39:37] told you about.
+[00:39:39] The kidney is actually capable of reducing the sodium excretion
+[00:39:43] to less than one milliequivalent a day.
+[00:39:49] Less than 1 milli a day.
+[00:39:50] So there's no way that you can reduce their sodium
+[00:39:52] intake to less than 1 millio a day.
+[00:39:55] It's impossible, right?
+[00:39:56] So, how can you put them into negative sodium balance?
+[00:40:04] Make them pee what?
+[00:40:07] You make them pee sodium.
+[00:40:09] Exactly right.
+[00:40:10] You make them pee sodium.
+[00:40:11] How do you do that?
+[00:40:12] You give them drugs that reduce the reabsorption of sodium
+[00:40:16] along the nephron.
+[00:40:18] That's what you do.
+[00:40:19] And they're called diuretics.
+[00:40:23] So where would you, so this is a schematic I
+[00:40:26] showed you earlier, which shows you where all the uh
+[00:40:30] the sodium is reabsorbed, the proportion of sodium that's reabsorbed
+[00:40:33] along the nephron.
+[00:40:34] Where would you predict that the most efficacious diuretics would
+[00:40:38] work?
+[00:40:40] You would, of course, you would say the proximal tubule
+[00:40:42] is where Uh, the most efficacious diuretics would work, right?
+[00:40:47] Because 65% of the filtered sodium is reabsorbed here.
+[00:40:52] Don't write it down because they don't, uh, the most
+[00:40:55] efficacious diuretics do not work here.
+[00:40:58] Why do they not, do we have diuretics that work
+[00:41:00] here?
+[00:41:00] Yeah, we do.
+[00:41:01] And I'm gonna show you what they are.
+[00:41:03] We do have diuretics that work here and they block
+[00:41:05] sodium reabsorption here.
+[00:41:07] But because, because these downstream sites of sodium reabsorption, Actually
+[00:41:14] adapt to the filtered.
+[00:41:17] load of, of sodium that they see, they actually can
+[00:41:21] increase their reabsorption in response to uh flooding from the
+[00:41:26] proximal tubule.
+[00:41:27] And so, the diuretic effect of the diuretics that work
+[00:41:30] here in the proximal tubule are effectively negated.
+[00:41:33] They're effectively negated.
+[00:41:37] You get that?
+[00:41:39] Did everybody get that?
+[00:41:42] Raise your hand if you don't get it, please.
+[00:41:47] Or come see me afterwards if you're too shy to
+[00:41:48] raise your hand.
+[00:41:52] OK, so what are the diuretics that work here?
+[00:41:54] There are diuretics that work here.
+[00:41:56] Uh, and they're called carbonic anhydrase inhibitors.
+[00:41:59] And, and I'm not gonna go into a lot of
+[00:42:01] detail on these drugs because Doctor Ferraro is gonna talk
+[00:42:05] to you about them uh in a separate talk.
+[00:42:08] But I just wanna show you that there are diuretic
+[00:42:11] drugs that work here, and they're called carbonic anhydrase inhibitors.
+[00:42:14] And they block, they essentially block the sodium hydrogen, uh,
+[00:42:18] exchanger here in the proximal, in the, uh, apical membrane
+[00:42:22] and this sodium bicarbonate, uh, co-transporter in the basil lateral
+[00:42:26] membrane.
+[00:42:27] They do it by blocking carbonic anhydrase, uh, and I'm
+[00:42:31] not gonna show you the details of that cause Doctor,
+[00:42:32] as I said, Doctor Ferrara will talk to you.
+[00:42:35] So they work.
+[00:42:35] They, these drugs actually work.
+[00:42:38] But, um, what they end up doing is not causing
+[00:42:41] a lot of uh additional sodium excretion because of the
+[00:42:46] downstream reabsorption of this rejected sodium in the proximal tubule.
+[00:42:52] OK.
+[00:42:53] How about the thick ascending limb, where 25% of the
+[00:42:57] filtered sodium is reabsorbed?
+[00:42:59] Do we have diuretics that work here?
+[00:43:01] Yeah, we do.
+[00:43:02] And they're called loop diuretics.
+[00:43:04] Loop diuretics because they work in the thick ascending limb
+[00:43:07] of the loop of Henle, and they block they all
+[00:43:11] block this famous sodium potassium 2 chloride co-transporter.
+[00:43:17] Uh, and there are 4 varieties now of drugs that
+[00:43:22] do this.
+[00:43:23] These are the most efficacious diuretics that we have.
+[00:43:29] They are capable of increasing.
+[00:43:30] Remember I told you the, the normal, you know, your
+[00:43:34] fractal excretion, right, fraction excretion of sodium right now is
+[00:43:37] 0.6%. These drugs, if they're given in high enough doses,
+[00:43:41] they are capable of increasing fraction excretion of sodium to
+[00:43:44] 20%.
+[00:43:47] Crazy, crazy.
+[00:43:49] 20% of 27,000 millios a day.
+[00:43:52] So you're talking about monstrous.
+[00:43:55] Uh, capacity for, um, uh, sodium excretion.
+[00:44:00] So very efficacious drugs.
+[00:44:05] Uh, how about distal convoluted tubule?
+[00:44:07] Do we have drugs that work here?
+[00:44:08] Yeah, we do.
+[00:44:10] They're called thiazide diuretics.
+[00:44:13] Thiazide diuretics, and they block the sodium chloride co-transporter here.
+[00:44:18] Very effective, but not quite as efficacious as the loop
+[00:44:22] diuretics.
+[00:44:24] Uh, how about if you have somebody who is Who
+[00:44:27] really needs a lot of diuretic.
+[00:44:29] And sometimes we use the combination of a loop diuretic.
+[00:44:33] And a thiazide direct.
+[00:44:35] So, these, these green arrows show you the rejected sodium
+[00:44:39] at both of these sites.
+[00:44:40] Well, what happens downstream if you're rejecting all this sodium,
+[00:44:44] and it's flowing downstream to the aldosterone sensitive distal nephron?
+[00:44:49] What happens is that you get a big increase in
+[00:44:52] sodium delivery here, which is reabsorbed through this EAC.
+[00:44:57] And makes the sodium, potassium ATPA spin really fast, and
+[00:45:01] that amplifies this lumen negativity.
+[00:45:06] And causes major potassium secretion here.
+[00:45:09] So, one of the, one of the major side effects,
+[00:45:11] very common side effect of the use of either a
+[00:45:14] loop diuretic or a thiazide diuretic, or especially those drugs
+[00:45:17] in combination with each other, is hypokalemia, potassium depletion causing
+[00:45:23] hypokalemia.
+[00:45:25] And you'll hear more about this from Doctor Klein later
+[00:45:27] on in the week.
+[00:45:31] OK, uh, how about the aldosterone sensitive disyphron?
+[00:45:37] I'm going to show you again, the principal cell in
+[00:45:39] the cortical collecting tubule.
+[00:45:41] Do we have drugs that work here?
+[00:45:43] Yeah, we have two different classes of drugs that work
+[00:45:46] here.
+[00:45:47] One is EAC blockers.
+[00:45:49] And we have several of these, EAC blockers.
+[00:45:53] And the other are mineralo corticoid receptor antagonists or blockers.
+[00:45:58] Uh, these days they're referred to as MRAs, minerallic corticoid
+[00:46:02] receptor antagonists, and we, we have several of these.
+[00:46:06] And these work, and they're quite effective.
+[00:46:09] Uh, they're not nearly as efficacious as loop diuretics, but
+[00:46:13] in combination with loop diuretics, uh, and it's a, it's
+[00:46:16] a, it's a really kind of advantageous combination because, remember
+[00:46:19] I said that the loop diuretics, one of the complications
+[00:46:22] is hypokalemia.
+[00:46:24] Well, because these block sodium reabsorption in this segment of
+[00:46:27] the nephron, they tend to blunt potassium secretion here.
+[00:46:32] Um, so they're, they're really useful in combination with loop
+[00:46:34] diuretics.
+[00:46:37] To mitigate the hypokalemia that you would otherwise see.
+[00:46:43] OK, so, what we covered.
+[00:46:46] Is the importance of sodium sodium homeostasis to regulate ECF
+[00:46:50] volume and therefore defend the circulation.
+[00:46:54] We talked about the mechanisms of sodium homeostasis.
+[00:46:58] We talked about the clinical manifestations of disorders of sodium
+[00:47:01] homeostasis, that is volume depletion and volume overload, and we
+[00:47:05] talked about the pharmacologic treatment of sodium overload states with
+[00:47:08] diuretics.
+[00:47:10] And now I'm happy to answer any questions that you
+[00:47:12] might have before we take a 5-minute break, before the
+[00:47:15] next talk.
+[00:47:19] So, any question, please.
+[00:47:23] Yes.
+[00:47:27] Yeah, uh, rhomca channels are conductive, uh, potassium channels, uh,
+[00:47:33] in the apical membrane of both the, uh, uh, thick
+[00:47:38] ascending limb of lupus Henley and also in the principal
+[00:47:41] cells of the aldosterone sensitive distal nephron, the, the cortical
+[00:47:46] cloaking duct, uh.
+[00:47:49] Uh, what, what specific question do you have about them?
+[00:47:55] So Oh yeah, OK.
+[00:47:59] Sure.
+[00:48:00] So, in the loop, yeah.
+[00:48:01] So, in the loop, the, the high transport through the
+[00:48:06] Rhom K channel sets up a lumen positive potential difference
+[00:48:10] in the loop of Henley.
+[00:48:12] Lumin-positive potential difference.
+[00:48:14] That lumen-positive potential difference drives transcellular reabsorption of sodium, calcium,
+[00:48:22] and magnesium.
+[00:48:25] Sure.
+[00:48:27] Other questions OK, take a 5-minute break, really 5 minutes,
+[00:48:39] uh, and then we'll talk about water.
+[00:48:43] Maybe you wanna get a drink.

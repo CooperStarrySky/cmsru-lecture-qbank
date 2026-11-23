@@ -35,6 +35,313 @@
     }
    ],
    "note": "**FGF-23 that can't be cleaved builds up, and the answer slide says it blocks calcitriol synthesis, leading to vitamin D deficiency and rickets in a child.** Slide 51 marks B in red. This lecture has slides only, no recording.\n\nHyperphosphatemia: false. Slide 46 lists hypophosphatemia with hyperphosphaturia as the result of high FGF-23, so phosphate goes down, not up.\n\nImpaired bone mineralization: true. Less calcitriol plus phosphate wasting means bone can't mineralize properly, which is rickets in a child. Slide 46 names autosomal dominant hypophosphatemic rickets among the genetic causes.\n\nHypercalcemia: false. Calcitriol drives intestinal and renal calcium absorption (slide 41), so losing it does not raise calcium.\n\nHypermagnesemia: false. Magnesium doesn't appear anywhere in the FGF-23 slides (41, 46)."
+  },
+  {
+   "id": "renal-w01-lec08-q02",
+   "source": "formative",
+   "source_ref": "Week 1 Formative Q10",
+   "stem": "A clerical mistake has been made by a mail-order pharmacy. A 60-year-old man has been sent a 90-day supply of cinacalcet (a calcimimetic) rather than his usual multivitamin. He unwittingly begins taking this medication. Four weeks later, the man presents to his primary care physician with new onset cramping and spasms of his fingers and feet. Trousseau’s sign is positive on physical examination. The physician orders a panel of blood studies. Which of the following patterns will most likely be observed?\n\n[[labs 0]]",
+   "labs": [
+    [
+     [
+      "",
+      "Calcium",
+      "Phosphorus",
+      "PTH"
+     ],
+     [
+      "A",
+      "↑",
+      "↑",
+      "↓"
+     ],
+     [
+      "B",
+      "↓",
+      "↑",
+      "↓"
+     ],
+     [
+      "C",
+      "↑",
+      "↓",
+      "↓"
+     ],
+     [
+      "D",
+      "↓",
+      "↑",
+      "↑"
+     ],
+     [
+      "E",
+      "↑",
+      "↓",
+      "↑"
+     ]
+    ]
+   ],
+   "choices": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+   ],
+   "answer": 1,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "If the calcium receptor is bound by calcium or anything else, it's going to be activated and that's going to inhibit the PTH, all right?",
+     "at": "00:43:11"
+    },
+    {
+     "type": "transcript",
+     "quote": "there's a class of medications called calcium emetics, which um are agonists to the calcium sensory receptors.",
+     "at": "00:53:21"
+    },
+    {
+     "type": "transcript",
+     "quote": "PTH inhibits the sodium phosphorus co-transporter in the kidneys.",
+     "at": "00:28:26"
+    },
+    {
+     "type": "slide",
+     "slide": 40,
+     "image": "img/renal-w01-lec08/slide_40.png"
+    },
+    {
+     "type": "slide",
+     "slide": 47,
+     "image": "img/renal-w01-lec08/slide_47.png"
+    }
+   ],
+   "note": "**Cinacalcet turns on the calcium-sensing receptor, which shuts off PTH, so a normal person taking it develops hypoparathyroidism: low calcium, high phosphorus, low PTH.**\n\nCramps, spasms and a positive Trousseau sign are hypocalcemia. Without PTH, the proximal tubule stops dumping phosphorus, so phosphorus rises.\n\nA (Ca up, Phos up, PTH down): false. Calcium falls, not rises; the patient's tetany says so.\n\nB (Ca down, Phos up, PTH down): true. The hypoparathyroid pattern.\n\nC (Ca up, Phos down, PTH down): false. That pattern needs a PTH-independent calcium source; cinacalcet lowers calcium.\n\nD (Ca down, Phos up, PTH up): false. That's secondary hyperparathyroidism (for example CKD); here the drug suppresses PTH.\n\nE (Ca up, Phos down, PTH up): false. That's primary hyperparathyroidism, the condition cinacalcet is used to treat."
+  },
+  {
+   "id": "renal-w01-lec08-q03",
+   "source": "formative",
+   "source_ref": "Week 1 Formative Q11",
+   "stem": "A 40-year-old woman presents with non-traumatic fractures in various locations including her ribs, left humerus, and spine. She is an avid runner with an unremarkable past medical history. Metabolic workup is abnormal, and an MRI reveals a left metatarsal mass that after resection is found to be a mesenchymal tumor. Which of the following metabolic abnormalities was most likely found prior to resection of the tumor?",
+   "choices": [
+    "Hypocalcemia",
+    "Hyperphosphatemia",
+    "Hyperphosphaturia",
+    "Hypoparathyroidism",
+    "Elevated calcitriol levels"
+   ],
+   "answer": 2,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "One is called tumor-induced osteomalacia, and tumor-induced osteomalacia, these are, these are cancers that are of mesenchymal cell origins",
+     "at": "00:30:40"
+    },
+    {
+     "type": "transcript",
+     "quote": "so FGF 23 can lead to hypophosphatemia by impairing dietary phosphorus absorption and increasing renal phosphorus excretion.",
+     "at": "00:31:12"
+    },
+    {
+     "type": "slide",
+     "slide": 46,
+     "image": "img/renal-w01-lec08/slide_46.jpg"
+    }
+   ],
+   "note": "**A mesenchymal tumor with fragility fractures is tumor-induced osteomalacia: the tumor oversecretes FGF-23, which causes phosphate wasting in the urine.**\n\nHypocalcemia: false. FGF-23 has no direct effect on plasma calcium.\n\nHyperphosphatemia: false. Phosphorus is low, because the kidney is wasting it.\n\nHyperphosphaturia: true. FGF-23 blocks proximal sodium-phosphate reabsorption (slide 46).\n\nHypoparathyroidism: false. Low calcitriol tends to raise PTH (secondary hyperparathyroidism), not lower it.\n\nElevated calcitriol levels: false. FGF-23 inhibits 1-alpha hydroxylase, so calcitriol falls."
+  },
+  {
+   "id": "renal-w01-lec08-q04",
+   "source": "formative",
+   "source_ref": "Week 1 Formative Q12",
+   "stem": "A 71-year-old man presents to his nephrologists office for routine follow up. He has chronic kidney disease secondary to diabetes. Laboratory studies reveal serum creatinine of 1.5 mg/dL, elevated Parathyroid hormone level, and elevated FGF-23 levels. Which of the following effects is caused by both of these hormones?",
+   "choices": [
+    "Increase plasma phosphorus concentration",
+    "Decrease plasma phosphorus concentration",
+    "Increase plasma calcium concentration",
+    "Stimulate calcitriol production",
+    "Inhibit calcitriol production"
+   ],
+   "answer": 1,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "Well, the net effect is actually it decreases phosphorus level from the body because of the kidney.",
+     "at": "00:28:44"
+    },
+    {
+     "type": "transcript",
+     "quote": "So, FGF 23 and PH is going to help the kidneys dump phosphorus.",
+     "at": "00:29:03"
+    },
+    {
+     "type": "transcript",
+     "quote": "FGF 23 inhibits both PTH and calcitriol.",
+     "at": "00:45:37"
+    },
+    {
+     "type": "slide",
+     "slide": 41,
+     "image": "img/renal-w01-lec08/slide_41.png"
+    }
+   ],
+   "note": "**PTH and FGF-23 both make the kidney excrete phosphorus, so both lower plasma phosphorus; they act in opposite directions on calcitriol.**\n\nIncrease plasma phosphorus concentration: false. Both are phosphaturic.\n\nDecrease plasma phosphorus concentration: true. Both inhibit the proximal sodium-phosphate cotransporter (slide 41).\n\nIncrease plasma calcium concentration: false. PTH does this, but FGF-23 has no direct calcium effect.\n\nStimulate calcitriol production: false. Only PTH does; FGF-23 inhibits it.\n\nInhibit calcitriol production: false. Only FGF-23 does; PTH stimulates it."
+  },
+  {
+   "id": "renal-w01-lec08-q05",
+   "source": "formative",
+   "source_ref": "Week 1 Formative Q13",
+   "stem": "Mechanisms of renal tubular handling of calcium and magnesium share all of the following similarities with the exception of what?",
+   "choices": [
+    "Response to PTH",
+    "Response to activation of the CaSR",
+    "Response to loop diuretics",
+    "Response to thiazide diuretics"
+   ],
+   "answer": 3,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "So whereas thiazide diuretics allow more calcium to be reabsorbed in the distalcombula tubule, or calcium sparing diuretics, thiazide diuretics inhibit the, the magnesium channel, the trip M6 channel.",
+     "at": "00:36:32"
+    },
+    {
+     "type": "transcript",
+     "quote": "that's the only really as far as like magnesium regulation and calcium regulation, this is the major difference where it's like a complete opposite.",
+     "at": "00:36:57"
+    },
+    {
+     "type": "slide",
+     "slide": 11,
+     "image": "img/renal-w01-lec08/slide_11.png"
+    },
+    {
+     "type": "slide",
+     "slide": 31,
+     "image": "img/renal-w01-lec08/slide_31.png"
+    }
+   ],
+   "note": "**Thiazides are the one place calcium and magnesium part ways: they increase calcium reabsorption in the DCT but cause magnesium wasting.**\n\nResponse to PTH: false. PTH increases reabsorption of both calcium and magnesium in the DCT.\n\nResponse to activation of the CaSR: false. CaSR activation in the thick ascending limb inhibits NKCC2 and cuts reabsorption of both ions.\n\nResponse to loop diuretics: false. Blocking NKCC2 loses the lumen-positive voltage and reduces paracellular reabsorption of both.\n\nResponse to thiazide diuretics: true. Calcium is spared (slide 11) while magnesium is wasted (slide 31)."
+  },
+  {
+   "id": "renal-w01-lec08-q06",
+   "source": "formative",
+   "source_ref": "Week 1 Formative Q14",
+   "stem": "An 81-year-old man is diagnosed with primary hyperparathyroidism related to a parathyroid nodule. He has opted not to undergo surgical excision of this nodule, so his endocrinologist prescribes cinacalcet therapy. Which of the following best illustrates the action of this medication in the nephron?",
+   "choices": [
+    "Loss of inhibition of the Na-K ATPase in the distal convoluted tubule",
+    "Stimulation of the Na-Phosphate symporter in the connecting tubule",
+    "Inhibition of the NKCC symporter in the thick ascending limb",
+    "Inhibition of the Na-Cl symporter in the proximal convoluted tubule"
+   ],
+   "answer": 2,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "The thick ascending limb, when there's a lot of calcium, extracellular.",
+     "at": "00:12:00"
+    },
+    {
+     "type": "transcript",
+     "quote": "it's going to bind to the calcium scent receptor, and the calcium sensory receptor is going to inhibit sodium, potassium to chloride, just like a loop diuretic.",
+     "at": "00:12:04"
+    },
+    {
+     "type": "transcript",
+     "quote": "there's a class of medications called calcium emetics, which um are agonists to the calcium sensory receptors.",
+     "at": "00:53:21"
+    },
+    {
+     "type": "slide",
+     "slide": 9,
+     "image": "img/renal-w01-lec08/slide_09.png"
+    },
+    {
+     "type": "slide",
+     "slide": 47,
+     "image": "img/renal-w01-lec08/slide_47.png"
+    }
+   ],
+   "note": "**Cinacalcet activates the calcium-sensing receptor, and in the thick ascending limb the CaSR inhibits the NKCC2 symporter, much like a loop diuretic.**\n\nThe lecture links cinacalcet to the CaSR (slide 47) and separately shows the thick ascending limb CaSR shutting down NKCC2 (slide 9); putting the two together is the step this question asks for.\n\nLoss of inhibition of the Na-K ATPase in the distal convoluted tubule: false. CaSR activity has no known effect on the DCT Na-K ATPase.\n\nStimulation of the Na-Phosphate symporter in the connecting tubule: false. The connecting tubule has no sodium-phosphate symporter; that transporter is proximal.\n\nInhibition of the NKCC symporter in the thick ascending limb: true. Less NKCC2 activity means less lumen-positive voltage and less paracellular calcium reabsorption.\n\nInhibition of the Na-Cl symporter in the proximal convoluted tubule: false. The Na-Cl symporter is in the DCT, and the CaSR doesn't target it."
+  },
+  {
+   "id": "renal-w01-lec08-q07",
+   "source": "formative",
+   "source_ref": "Week 1 Formative Q15",
+   "stem": "A 23-year-old is evaluated for isolated hypercalcemia and is ultimately diagnosed with sarcoidosis. Which of the following urine studies would be most consistent with this diagnosis?",
+   "stem_image": "img/renal-w01-lec08/formative_q15.png",
+   "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+   ],
+   "answer": 1,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "One alpha hydroxylase though is also found in monocytes. And, uh, which are in granuloma diseases, all right.",
+     "at": "00:41:55"
+    },
+    {
+     "type": "transcript",
+     "quote": "these conditions can lead to increased 1 alpha hydroxylase activity and vitamin D intoxication, active calcitriol intoxication endogenously.",
+     "at": "00:42:08"
+    },
+    {
+     "type": "transcript",
+     "quote": "Calcitriol, it increases absorption of intestinal calcium and phosphorus, and it, it increases the reabsorption of filtered calcium and phosphorus in the kidneys.",
+     "at": "00:43:48"
+    },
+    {
+     "type": "slide",
+     "slide": 45,
+     "image": "img/renal-w01-lec08/slide_45.png"
+    },
+    {
+     "type": "slide",
+     "slide": 41,
+     "image": "img/renal-w01-lec08/slide_41.png"
+    }
+   ],
+   "note": "**Granulomas in sarcoidosis make their own 1-alpha hydroxylase, and the excess calcitriol increases renal reabsorption of both calcium and phosphorus, so urinary excretion of both falls.**\n\nThe answer choices are rows of the table in the question image (urinary phosphorus excretion / urinary calcium excretion). The key follows the lecture's direct-effect rule for calcitriol (slide 41). Clinically, the higher filtered calcium load in sarcoidosis often produces hypercalciuria anyway, so treat this as the lecture's teaching point.\n\nA (phosphorus increased, calcium increased): false. Calcitriol increases reabsorption of both, not excretion.\n\nB (phosphorus decreased, calcium decreased): true. More of both is reabsorbed, so less of each reaches the urine.\n\nC (phosphorus increased, calcium decreased): false. That's a PTH-like pattern (phosphaturia with calcium retention), but PTH is suppressed here.\n\nD (phosphorus decreased, calcium increased): false. Calcitriol increases calcium reabsorption; it doesn't promote calcium excretion."
+  },
+  {
+   "id": "renal-w01-lec08-q08",
+   "source": "formative",
+   "source_ref": "Week 1 Formative Q16",
+   "stem": "A patient undergoes kidney transplantation and is started on a calcineurin inhibitor as part of their immunosuppressive regimen. Laboratory studies 2 months later reveal a plasma potassium level of 3.1 mmol/L and a magnesium level of 0.8 mg/dL. A random urinary potassium level is 58 mmol/L. Which of the following mechanisms best explains the hypokalemia?",
+   "choices": [
+    "Inhibition of ROMK channel in the thick ascending limb cells",
+    "Loss of inhibition of NKCC2 cotransporter in the thick ascending limb cells",
+    "Stimulation of Na/K ATPase in the distal convoluted tubule cells",
+    "Loss of inhibition of ROMK channel in the principal cells of the cortical collecting duct",
+    "Stimulation of H/K ATPase in the alpha intercalated cells of the cortical collecting duct"
+   ],
+   "answer": 3,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "Calcineurin inhibitors are, um, drugs that are used, uh, commonly, they're immunosuppressant drugs. They are used in transplant transplant medicine",
+     "at": "00:37:27"
+    },
+    {
+     "type": "transcript",
+     "quote": "so hypomagnessemia can lead to inappropriate expression of that RhomMK in the principal cell, allowing potassium to leak out, sometimes inappropriately.",
+     "at": "00:39:01"
+    },
+    {
+     "type": "slide",
+     "slide": 32,
+     "image": "img/renal-w01-lec08/slide_32.png"
+    },
+    {
+     "type": "slide",
+     "slide": 35,
+     "image": "img/renal-w01-lec08/slide_35.png"
+    }
+   ],
+   "note": "**Calcineurin inhibitors cause magnesium wasting through TRPM6 in the DCT, and low intracellular magnesium removes its brake on ROMK in principal cells, so potassium leaks into the urine.**\n\nThe high urine potassium (58 mmol/L) with hypokalemia says the kidney is losing potassium, and the low magnesium says why.\n\nInhibition of ROMK channel in the thick ascending limb cells: false. Inhibiting ROMK would reduce potassium loss, not cause it.\n\nLoss of inhibition of NKCC2 cotransporter in the thick ascending limb cells: false. Not the mechanism of magnesium-related potassium wasting.\n\nStimulation of Na/K ATPase in the distal convoluted tubule cells: false. That isn't what hypomagnessemia does here.\n\nLoss of inhibition of ROMK channel in the principal cells of the cortical collecting duct: true. Magnesium normally blocks ROMK from the inside; without it, potassium secretion rises (slide 35).\n\nStimulation of H/K ATPase in the alpha intercalated cells of the cortical collecting duct: false. That pump reabsorbs potassium, so it would raise plasma potassium, not lower it."
   }
  ]
 }

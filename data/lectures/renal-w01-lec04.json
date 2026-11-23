@@ -75,6 +75,139 @@
     }
    ],
    "note": "**SGLT2 does about 90% of glucose reabsorption in the early proximal tubule (S1), so blocking it matters far more.** The lecturer asked this aloud with the two options built into the question and gave the answer right after. Turned into a two-choice item from that passage.\n\nInhibiting SGLT2: true. It carries most of the filtered glucose, which is why SGLT2 inhibitors cause glucosuria.\n\nInhibiting SGLT1: false. SGLT1 in the late proximal tubule (S3) only picks up the remaining ~10%. The lecturer's tip: on a question, an SGLT1 answer can almost always be eliminated."
+  },
+  {
+   "id": "renal-w01-lec04-q03",
+   "source": "formative",
+   "source_ref": "Week 1 Formative Q2",
+   "stem": "A research team has developed a model to study the effect of drugs on the kidney. Their protocol involves the use of para-aminohippurate (PAH) to measure renal plasma flow at the beginning and end of the 2-week treatment period. Which of the following best describes the rationale for the use of PAH in this experiment?",
+   "choices": [
+    "It is filtered and completely reabsorbed",
+    "It is filtered and partially reabsorbed",
+    "It is filtered and completely secreted",
+    "It is filtered and partially secreted",
+    "It is filtered but not absorbed nor secreted"
+   ],
+   "answer": 2,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "So if a substance is fully cleared from the plasma, so whatever's in your plasma, if the kidneys fully clear that and it gets excreted, then you can say your clearance rate is equal to your renal plasma flow",
+     "at": "00:11:36"
+    },
+    {
+     "type": "transcript",
+     "quote": "paraminohypuric acid is the closest thing to that, um, and it's cleared 90%.",
+     "at": "00:11:59"
+    },
+    {
+     "type": "notes",
+     "quote": "At low plasma concentrations, filtration and proximal secretion together remove about 90% of PAH in one pass.",
+     "page": 1
+    },
+    {
+     "type": "slide",
+     "slide": 8,
+     "image": "img/renal-w01-lec04/slide_08.png"
+    }
+   ],
+   "note": "**PAH measures renal plasma flow because it is filtered and then secreted so thoroughly that almost none is left in renal venous plasma.**\n\nA substance cleared completely from the plasma in one pass has a clearance equal to RPF. The official key treats PAH as \"completely secreted\"; the lecture puts the real figure at about 90%, which is why PAH clearance slightly underestimates true RPF. The idea being tested is the near-complete removal.\n\nIt is filtered and completely reabsorbed: false. That describes glucose at normal loads; its clearance is zero.\n\nIt is filtered and partially reabsorbed: false. Clearance would be below GFR, nowhere near RPF.\n\nIt is filtered and completely secreted: true. Filtration plus secretion clears (nearly) all of it, so clearance equals RPF.\n\nIt is filtered and partially secreted: false. Clearance would fall between GFR and RPF and couldn't stand in for RPF.\n\nIt is filtered but not absorbed nor secreted: false. That's inulin, the GFR marker."
+  },
+  {
+   "id": "renal-w01-lec04-q04",
+   "source": "formative",
+   "source_ref": "Week 1 Formative Q4",
+   "stem": "A 28-year-old man presents to his primary care office for a check up. He has a history of uncontrolled diabetes mellitus type 1. He takes insulin and occasionally takes ibuprofen for headaches. A routine urinalysis in the office is positive for the presence of glycosuria. Which of the following best explains this finding?",
+   "choices": [
+    "Hyperglycemia causes increased tubular glucose secretion.",
+    "The tubular glucose concentration exceeds the Tmax for glucose reabsorption.",
+    "Tubular glucose reabsorption is inhibited by ibuprofen.",
+    "Filtration fraction for glucose is increased by ibuprofen.",
+    "Glomerular injury is leading to increased glucose filtration."
+   ],
+   "answer": 1,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "up until it gets to a certain point called the transport maximum. Um, and this is where all the carrier proteins are already busy.",
+     "at": "00:21:19"
+    },
+    {
+     "type": "transcript",
+     "quote": "And that's why in uncontrolled diabetes mellitus, you will see glucose in the urine. It's because you've overwhelmed how many carriers you have available",
+     "at": "00:21:42"
+    },
+    {
+     "type": "notes",
+     "quote": "Reabsorption rises with the filtered load until the transporters reach their aggregate capacity.",
+     "page": 2
+    },
+    {
+     "type": "slide",
+     "slide": 14,
+     "image": "img/renal-w01-lec04/slide_14.png"
+    },
+    {
+     "type": "slide",
+     "slide": 15,
+     "image": "img/renal-w01-lec04/slide_15.jpg"
+    }
+   ],
+   "note": "**In uncontrolled diabetes the filtered glucose load is higher than the proximal tubule's transport maximum, so the excess spills into the urine.**\n\nHyperglycemia causes increased tubular glucose secretion: false. Glucose isn't secreted; it's filtered and reabsorbed.\n\nThe tubular glucose concentration exceeds the Tmax for glucose reabsorption: true. Once every SGLT carrier is busy, extra glucose stays in the tubule (slide 14).\n\nTubular glucose reabsorption is inhibited by ibuprofen: false. Ibuprofen is a distractor here; it doesn't block glucose transport.\n\nFiltration fraction for glucose is increased by ibuprofen: false. NSAIDs, if anything, lower GFR, and that wouldn't explain glycosuria.\n\nGlomerular injury is leading to increased glucose filtration: false. Glucose is already freely filtered; the problem is the load, not a leaky barrier."
+  },
+  {
+   "id": "renal-w01-lec04-q05",
+   "source": "formative",
+   "source_ref": "Week 1 Formative Q5",
+   "stem": "A 64-year-old woman is seen in the nephrology clinic to review recent laboratory results that are as follows:\n\n[[labs 0]]\n\nWhich of the following is the best estimate of her creatinine clearance?",
+   "labs": [
+    [
+     [
+      "Plasma creatinine",
+      "2 mg/dL"
+     ],
+     [
+      "24-hour urine creatinine",
+      "50 mg/dL"
+     ],
+     [
+      "24-hour urine volume",
+      "1440 mL"
+     ]
+    ]
+   ],
+   "choices": [
+    "25 mL/min",
+    "30 mL/min",
+    "35 mL/min",
+    "40 mL/min",
+    "45 mL/min",
+    "50 mL/min"
+   ],
+   "answer": 0,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "The clearance, um, times the plasma concentration of your substance is equal to the urine concentration of that substance times its flow rate.",
+     "at": "00:05:32"
+    },
+    {
+     "type": "transcript",
+     "quote": "so you can remember C equals UV over P.",
+     "at": "00:05:47"
+    },
+    {
+     "type": "transcript",
+     "quote": "creatinine is a byproduct of muscle metabolism, and it's cleared almost entirely by filtration.",
+     "at": "00:09:04"
+    },
+    {
+     "type": "slide",
+     "slide": 5,
+     "image": "img/renal-w01-lec04/slide_05.png"
+    }
+   ],
+   "note": "**Clearance is U × V / P, with V as a flow rate, so a 24-hour volume has to be divided by 1440 minutes first.**\n\nThe work: V = 1440 mL / 1440 min = 1 mL/min. C = (50 mg/dL × 1 mL/min) / 2 mg/dL = 25 mL/min.\n\n25 mL/min: true. Matches the calculation above.\n\n30 mL/min: false. Too high; U × V / P gives 25.\n\n35 mL/min: false. Too high; U × V / P gives 25.\n\n40 mL/min: false. Too high; U × V / P gives 25.\n\n45 mL/min: false. Too high; U × V / P gives 25.\n\n50 mL/min: false. That's U × V with the plasma creatinine left out (or P taken as 1)."
   }
  ]
 }

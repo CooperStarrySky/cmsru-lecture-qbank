@@ -1,0 +1,1223 @@
+[00:00:03] All right, can you, can everybody hear me?
+[00:00:06] Can everybody hear me OK?
+[00:00:09] I hate these microphones because depending if I turn my
+[00:00:11] head, I can't, you can't hear me.
+[00:00:15] And maybe it's because you're still talking.
+[00:00:21] We're gonna start.
+[00:00:22] All right, it's 10 o'clock.
+[00:00:23] Um, there's a lot of material to cover.
+[00:00:26] I'm Jason Kleiner, the nephrologist, and, um, This is a
+[00:00:30] very exciting day for you.
+[00:00:31] You're gonna learn more about electrolytes.
+[00:00:32] This is a really, really cool morning.
+[00:00:35] Um, and even if you, regardless of what field you're
+[00:00:37] gonna go into in medicine in medicine or surgery, emergency,
+[00:00:40] it doesn't matter.
+[00:00:41] You're gonna have to be able to recognize, uh, evaluate
+[00:00:46] and manage electrolyte disorders.
+[00:00:48] You don't have to be a nephrologist to do this,
+[00:00:50] all right?
+[00:00:50] Although we would love for you to be a nephrologist.
+[00:00:51] If you want, if you're interested, I'm the fellowship program
+[00:00:54] director, give me a, talk to me afterwards.
+[00:00:56] But we're gonna learn about potassium, calcium, magnesium, and phosphate
+[00:01:00] homeostasis.
+[00:01:02] It's important and it's a lot of information and it's
+[00:01:04] not like we're trying to just give you a whole,
+[00:01:07] like dump all this like minutia on you, like unnecessarily.
+[00:01:11] It's important information.
+[00:01:12] And I'm gonna tell you what parts of this is
+[00:01:14] important and what parts you really don't have to know.
+[00:01:17] There are some things, believe it or not, that About
+[00:01:20] electrolytes, you don't really need to know to be a
+[00:01:22] doctor, all right?
+[00:01:23] But I'm gonna tell you what's important for you to
+[00:01:25] know because that's what's gonna be, you're gonna be tested
+[00:01:28] on, all right?
+[00:01:29] And you'll probably notice that there are some things throughout
+[00:01:31] the lecture that are highlighted in red.
+[00:01:34] That's important.
+[00:01:35] All right.
+[00:01:36] Um, OK, so without further ado, This, you've learned all
+[00:01:43] this stuff before.
+[00:01:44] I'm just gonna reintroduce this stuff.
+[00:01:46] All right?
+[00:01:47] You, you've, right?
+[00:01:48] So you know about the sodium, potassium ATPAs.
+[00:01:51] You learned about this probably in college, like not even
+[00:01:54] in medical school.
+[00:01:55] But this is gonna be uh, uh, you want like
+[00:01:58] your best friend for the next 2 lectures, next 2
+[00:02:01] hours.
+[00:02:02] This sodium potassium ATPase is gonna be important for lots
+[00:02:06] of different functions with electro electrolyte transport, um, uh, but
+[00:02:12] also the electrocitability of, uh, electrically excitable cells like neurons
+[00:02:17] and muscle cells, all right?
+[00:02:19] But we're gonna start off talking about its, its role
+[00:02:21] with potassium homeostasis.
+[00:02:22] So remember, every single cell in our body has this
+[00:02:26] sodium, potassium ATPAs, all right?
+[00:02:28] And it's doing one thing all day long, every minute,
+[00:02:32] every second, any, every nanosecond of the day while you're
+[00:02:35] sleeping, while you're playing, while you're sitting in lecture, while
+[00:02:37] you're eating, whatever you, this pump tirelessly works at pumping
+[00:02:41] 3 sodium ions out of the cell for every 2
+[00:02:45] potassium ions, cations into the cell, nonstop.
+[00:02:49] If this didn't work, we would all just die.
+[00:02:52] All right?
+[00:02:52] This is vital.
+[00:02:53] We need this pump to work and it does so.
+[00:02:56] Effortlessly.
+[00:02:57] All right?
+[00:02:58] Now, there are some consequences of what this, this pump
+[00:03:00] does, all right?
+[00:03:01] It's pumping 3 sodiums out of the cell, 2 potassiums
+[00:03:05] into the cell.
+[00:03:06] This has an effect on the concentration of these individual
+[00:03:09] electrolytes, all right?
+[00:03:11] The result of this pump is that most of the
+[00:03:14] sodium ions in our body are kept outside of the
+[00:03:17] cell in the extracellular fluid.
+[00:03:19] That's the interstitial space and the plasma, OK?
+[00:03:24] In fact, the, the, so the sodium concentration outside the
+[00:03:27] cell is about 135 to 140 millequivalents per liter.
+[00:03:30] This is like what our plasma level is.
+[00:03:32] This is the same concentration of the interstitial space, all
+[00:03:35] right?
+[00:03:36] And the sodium concentration inside the cell is very, very,
+[00:03:39] very, very low.
+[00:03:42] And we're gonna spoiler alert, but this is gonna be
+[00:03:44] important as we learn about transport mechanisms of electrolytes in
+[00:03:47] the next few, next, next 2 hours, OK?
+[00:03:51] But intracellular sodium concentration is extremely low and it's all
+[00:03:54] because of our friend sodium potassium ATPase.
+[00:03:57] At the same time that it's, it's keeping sodium out
+[00:03:59] of the cell, it's keeping potassium inside the cell, OK?
+[00:04:04] The potassium concentration inside the cell is almost the same
+[00:04:07] as the extracellular sodium concentration.
+[00:04:10] All right?
+[00:04:11] The potassium concentration inside the cell is massive compared to
+[00:04:14] the extracellular potassium concentration.
+[00:04:17] Which is about 3.5 to 5 millequivalents per liter.
+[00:04:20] Sometimes those numbers vary a little bit depending on the
+[00:04:22] lab, but that's, that's pretty much the accepted normal range
+[00:04:25] for extracellular plasma potassium.
+[00:04:29] Any variances in that potassium concentration are a disorder.
+[00:04:33] OK?
+[00:04:33] If the potassium concentration is less than 3.5 millequivalents or
+[00:04:36] millimoles per liter, that's hypokalemia.
+[00:04:38] If it's greater than 5, that's hyperkalemia.
+[00:04:41] So this pump keeps potassium outside the cell very low
+[00:04:44] and sodium inside the cell very low.
+[00:04:48] Now, the other effect that's important for our discussion right
+[00:04:52] now is that it doesn't only just affect the concentration
+[00:04:55] of these electrolytes, but it affects the electronegativity of the
+[00:04:59] cell.
+[00:04:59] You've learned about this, about like cell electrolyte negativity, action
+[00:05:03] potentials, all that.
+[00:05:04] We're gonna talk a little bit about that in the
+[00:05:05] next few slides.
+[00:05:06] But this, by pumping 3 cations out at the same
+[00:05:10] time as pumping 2 in, that's creating a negatively Charged
+[00:05:14] cell.
+[00:05:15] The resting membrane potential of our cells is around -70
+[00:05:19] millivolts, all right?
+[00:05:21] The insides of our cell are negative with respect to
+[00:05:24] the outsides of the cell.
+[00:05:26] And that's important for our neurons and, and our um
+[00:05:29] muscle cells.
+[00:05:32] OK.
+[00:05:32] The other thing you just have to know, you don't
+[00:05:34] need to know all this, but that their potassium wants
+[00:05:36] to leave down its concentration gradient.
+[00:05:38] It is like trying to like, like gangbusters, just leave
+[00:05:43] the cell, all right?
+[00:05:44] And there actually are these potassium, these leaky potassium channels
+[00:05:47] that permit potassium to leak out of the cell.
+[00:05:49] It just kind of oozes out of the cell, just
+[00:05:51] kind of just eases out.
+[00:05:53] But at the same time, um, where's the backspace?
+[00:06:00] that didn't work.
+[00:06:02] Let me use this.
+[00:06:06] And that's not working either.
+[00:06:09] Um, well, I can't go back for some reason.
+[00:06:15] Oh, it can maybe.
+[00:06:17] At the same time, the potassium is leaking out of
+[00:06:18] the cell, it's gonna be pumped right back in by
+[00:06:21] the sodium potassium ATPAs.
+[00:06:22] All right.
+[00:06:23] So, but these leaky potassium channels do exist, all right?
+[00:06:27] And they permit potassium to leak out down its concentration
+[00:06:30] gradient.
+[00:06:32] All right, so, when we kind of, our, our cells
+[00:06:34] are constantly trying to reach homeostasis, that's like, like that's,
+[00:06:38] that's what they live for, OK?
+[00:06:40] There's all this, these cells are, are exposed to this
+[00:06:43] extracellular environment that is constantly in flux, ion changes, um,
+[00:06:48] concentration changes, water, water level changes, which affects the osmolarity.
+[00:06:53] You learned that on Wednesday.
+[00:06:54] There's heat, you know, a temperature, all these things our
+[00:06:57] cells are exposed to, it's constantly changing and they just
+[00:07:00] want to just be left alone.
+[00:07:02] And just, just be, all right?
+[00:07:05] And that's, they're trying, they're constantly trying to achieve homeostasis.
+[00:07:09] Well, homeostasis occurs with potassium, all right?
+[00:07:11] So these are forces that are dry, that are, that
+[00:07:13] are sort of influence potassium to go in the cell.
+[00:07:16] The sodium, potassium ATPase.
+[00:07:18] The electrical gradient, right?
+[00:07:20] Remember the cells are electrically negative.
+[00:07:21] Well, that's gonna, that's gonna tend to, to retain positively
+[00:07:25] charged potassium cations to stay in the cell, this electrical
+[00:07:28] gradient.
+[00:07:29] So, these are the forces that are kind of holding
+[00:07:32] potassium into the cell.
+[00:07:34] But this massive potassium intracellular potassium concentration is a force
+[00:07:38] that's kind of influencing potassium to leave the cell.
+[00:07:42] So, once all these forces are sort of aligned and
+[00:07:46] equilibrated, then we have our cell at homeostasis and with
+[00:07:50] the resting membrane potential of -70 millivolts.
+[00:07:53] And this is what our, our cells want to achieve.
+[00:07:57] But life happens, all right?
+[00:07:59] So this is our ideal situation.
+[00:08:03] But sometimes things happen where our extracellular potassium concentration might
+[00:08:07] be a little high, right?
+[00:08:08] It gets above 5, and that's hyperkalemia.
+[00:08:11] What does that, how does that, that, what does that
+[00:08:14] effect on the cell?
+[00:08:16] Well, the sodium, potassium ATPase and electrical gradient are still
+[00:08:19] continuing to try to hold potassium into the cell.
+[00:08:21] But now, instead, yeah, this is your intercellular potassium concentration.
+[00:08:25] This is your extracellular potassium concentration.
+[00:08:28] Now the extracellular potassium concentration has risen, it's not where
+[00:08:32] it normally should be.
+[00:08:33] It's now rising.
+[00:08:35] So that concentration gradient, intracellular extra potassium is now much
+[00:08:40] narrower.
+[00:08:40] It's smaller, it's shorter, it's not as great.
+[00:08:45] That's going to somewhat impair potassium leaking out of the
+[00:08:49] cell.
+[00:08:50] All right?
+[00:08:50] So when we see hyperkalemia, actually potassium uh concentration, extracellular
+[00:08:56] potassium concentration rises, less potassium is gonna leak out of
+[00:09:00] the cell.
+[00:09:01] More potassium is gonna stay in the cell.
+[00:09:04] And potassium is a cation.
+[00:09:06] If you have retention of more of these potassium cations
+[00:09:10] staying in the cell, that's going to affect the resting
+[00:09:13] membrane potential of the cell.
+[00:09:14] The cell is no longer going to be so negative
+[00:09:17] because now there's more positively charged cations in the cell
+[00:09:20] that's going to make it less electronegative, a little more
+[00:09:23] electropositive.
+[00:09:25] So in hyperkalemia, that concentration gradient that's, you know, it's
+[00:09:30] kind of like pushing potassium out of the cell diminishes.
+[00:09:34] More potassium stays in the cell, the cell becomes less
+[00:09:36] electronegative.
+[00:09:38] All right?
+[00:09:39] I'm gonna get to a point for this.
+[00:09:41] But before we talk about that, that the importance of
+[00:09:43] this is hypokalemia.
+[00:09:46] When potassium concentration is even lower than it should be,
+[00:09:49] the opposite occurs, right?
+[00:09:53] You've got a uh uh the, the, the gradient of
+[00:09:56] intracellular to extracellular potassium, it becomes even greater.
+[00:10:00] It's increased.
+[00:10:01] And that's gonna encourage more potassium to leak out of
+[00:10:04] the cell.
+[00:10:05] Well, if you have More of these positively charged cans
+[00:10:09] leaving the cell, the cell's gonna become even more electronegative.
+[00:10:12] It's not gonna be the resting membrane potential is gonna
+[00:10:14] be more negative than -70, it might be -80 or
+[00:10:17] whatever.
+[00:10:17] All right?
+[00:10:18] So the extracellular potassium concentration is going to influence the
+[00:10:21] resting membrane potential of the cell.
+[00:10:23] That is important.
+[00:10:25] Why is it important?
+[00:10:26] This is not a neurology or muscle physiology lecture.
+[00:10:28] I'm not gonna get into like the whole actinmycin intracellular
+[00:10:31] calc, you know, calcium secretion out of the sarcoplasmic reticulum.
+[00:10:34] I'm not even sure I'm using those terms right, but
+[00:10:36] I'm not gonna talk about all that.
+[00:10:38] I'm gonna talk about what potassium does to how it
+[00:10:41] influences the action potential for electrically excitable neurons and muscles.
+[00:10:46] Because Hypokalemia, hyperkalemia can have, can present as neuromuscular complaint
+[00:10:53] symptoms.
+[00:10:54] All right?
+[00:10:55] So remember you've got this resting memory potential, the cell's
+[00:10:58] happy at a resting memory potential of -70.
+[00:11:01] This is a threshold potential.
+[00:11:03] If some stimulus comes by your neuron or your muscle
+[00:11:06] and it, it diminishes the resting memory potential to maybe
+[00:11:09] -55, whatever that threshold might be for that particular cell.
+[00:11:14] That's going to cause voltage-gated sodium channels to open.
+[00:11:17] These cells have voltage-gated sodium and potassium channels that open
+[00:11:21] in response to a change in the cell electronegativity.
+[00:11:25] So when that cell becomes enough more electropositive, it's going
+[00:11:29] to open up all these sodium channels.
+[00:11:32] Remember, sodium, there's a ton of sodium out of the
+[00:11:34] cell.
+[00:11:35] It just wants to get right in that cell where
+[00:11:36] there's not much sodium.
+[00:11:38] So as those voltage-gated sodium channels open up, all that
+[00:11:41] cell, all that sodium outside the cell is gonna rush
+[00:11:43] on into the cell.
+[00:11:44] Sodium is a positively charged cation.
+[00:11:46] So as sodium is going into the cell, the cell
+[00:11:49] becomes less electronegative.
+[00:11:51] It's gonna be -50, 40, -30, -20, all the way
+[00:11:54] up to a 30 maybe.
+[00:11:56] All right?
+[00:11:57] And then the sodium channel snaps shut.
+[00:12:00] No more sodium's coming in.
+[00:12:02] Potassium channels are just a little bit slower to open.
+[00:12:04] They're a little bit lazier.
+[00:12:05] They kind of just creak on open during this action
+[00:12:08] potential.
+[00:12:09] And as those potassium channels are slowly opening, potassium's gonna
+[00:12:12] leave the cell through those channels.
+[00:12:15] As those positively charged cations, potassium cations are leaving the
+[00:12:19] cell, the cell is gonna become more electronegative.
+[00:12:22] All right, it's gonna go back to its resting member
+[00:12:25] potential.
+[00:12:25] That's called, this is depolarization, this is repolarization, OK?
+[00:12:29] That's all I'm gonna talk about that.
+[00:12:32] But this resting membrane potential is important because potassium influences
+[00:12:36] that.
+[00:12:38] This is a normal potassium.
+[00:12:40] Let's just say you've got a little, all these cells,
+[00:12:42] these neurons, muscle cells are exposed to little blips, little
+[00:12:46] stimuli that were never intended to fire off an action
+[00:12:49] potential, all right?
+[00:12:51] And these little blips, they might affect the, the memory
+[00:12:55] potential a little bit, but it doesn't make it close
+[00:12:57] to the, the threshold potential, all right?
+[00:13:01] But if you have enough stimulus that reaches that, That
+[00:13:04] threshold potential, you're gonna have that action potential, all right?
+[00:13:07] The neuron's gonna conduct, the muscles gonna contract.
+[00:13:11] In hyperkalemia, these little blips that weren't never, that were
+[00:13:15] never intended to, you know, cause an action potential are
+[00:13:18] going to cause an action potential because you, the resting
+[00:13:21] memory potential is now closer to that threshold potential.
+[00:13:24] So this little blip is going to now start, you're
+[00:13:27] starting closer, all right?
+[00:13:29] It's like football.
+[00:13:30] This is the resting, I'm sorry, the threshold potential is
+[00:13:33] the end zone, and this is the resting mem potentials
+[00:13:35] line of scrimmage.
+[00:13:37] If you got like a quarterback who's got a really
+[00:13:38] weak arm and just kind of In normal, um, like
+[00:13:43] a normal potassium, that, that you've got the receiver right
+[00:13:45] in the end zone, right to catch the ball, and
+[00:13:49] it's just not enough of a push.
+[00:13:50] That pass was never gonna score a touchdown, all right?
+[00:13:54] But if that, if you got a really good quarterback,
+[00:13:57] throws a good pass, it's gonna reach the, the receiver
+[00:13:59] and you got a touchdown, OK?
+[00:14:01] That's what's supposed to happen, all right?
+[00:14:03] But here, you've got the receiver in the end zone,
+[00:14:06] and even though you want to score a touchdown, Like
+[00:14:08] you still have like this wimpy quarterback, but even though
+[00:14:11] it's a little tiny pass, the receiver's right, because, because
+[00:14:13] the quarterback's closer to the receiver, all right, and they're
+[00:14:16] gonna score the touchdown.
+[00:14:18] Now in hypokalemia, the quarterback got sacked.
+[00:14:21] The line of scrimmage is way, way far back and
+[00:14:23] you've got this powerful arm, but it's just that there's
+[00:14:27] no way that ball's going to reach it to the
+[00:14:28] end zone where the receiver is.
+[00:14:30] So even though this pass was supposed to score a
+[00:14:32] touchdown, it should have.
+[00:14:34] The line of scrimmage was way too far away.
+[00:14:35] The resting memory potential is way too far away from
+[00:14:37] the threshold potential.
+[00:14:39] All right?
+[00:14:39] Hyperkalemia is gonna stimulate action potentials when they're not supposed
+[00:14:43] to happen.
+[00:14:44] Hypokalemia is gonna prevent action potentials when they're supposed to
+[00:14:47] happen.
+[00:14:48] All right?
+[00:14:49] And because of that, things happen, right?
+[00:14:53] So the heart is a really important organ.
+[00:14:55] As a kidney doctor, I have to admit the heart
+[00:14:57] is important, all right?
+[00:14:59] And hyperkalemia and hypokalemia are going to, because of their
+[00:15:04] effects on the resting mem potential of the cardiac myocytes,
+[00:15:07] they can create arrhythmias, all right?
+[00:15:10] And as potassium levels, normal is like around 4 or
+[00:15:13] whatever, as potassium levels rise, we start seeing peaked high
+[00:15:16] T waves, the PR segment starts widening, we can start
+[00:15:20] developing with the sinusoidal curve, which is like, you got
+[00:15:23] to panic at that point and do something because if
+[00:15:25] you don't, they're gonna get a VFib or VTAC arrest.
+[00:15:28] Hypokalemia can also um uh lead to cardiac arrhythmias.
+[00:15:35] On the EKG findings, we start seeing a low T
+[00:15:38] wave instead of a high T wave, a low T
+[00:15:39] wave.
+[00:15:40] We start seeing the second U wave bump that occurs
+[00:15:43] after the T wave and a low ST segment.
+[00:15:46] And these are EKG changes that we, that we can
+[00:15:49] sometimes see if we're seeing potassium disorders.
+[00:15:51] Um, but patients don't come in saying, hey, I've got
+[00:15:54] peak T waves.
+[00:15:54] They come in because they've got symptoms, all right?
+[00:15:57] So hyperkalemia oftentimes presents with muscle problems, muscle weakness, maybe
+[00:16:01] even paralysis if it's really, really bad.
+[00:16:04] And then the, the, some of the, the, you can
+[00:16:06] see some of the um cardiac arrhythmias that can occur
+[00:16:09] with hyperkalemia.
+[00:16:11] Hypokalemia, similarly, hypokalemia is going to lead to muscle weakness,
+[00:16:15] sometimes paralysis, usually the large muscles of the extremities and
+[00:16:18] the truncal muscles.
+[00:16:20] It can affect GI motility, so sometimes we can see
+[00:16:23] GI complaints as a direct result of hypokalemia and of
+[00:16:26] course the cardiac arrhythmias, all right?
+[00:16:30] So why don't, so I really love guacamole.
+[00:16:33] I could eat a whole bowl of guacamole and avocado
+[00:16:35] is is chock full of potassium.
+[00:16:38] Why don't I keel over and die in V fibS
+[00:16:41] because I eat a big bowl of guacamole and I
+[00:16:43] haven't know to eat a whole bowl of it.
+[00:16:44] It's freaking delicious.
+[00:16:47] Why don't I die?
+[00:16:49] Why aren't we all dying when we drink orange juice,
+[00:16:51] all right?
+[00:16:52] It's because our body can adapt, and that's a good
+[00:16:55] thing.
+[00:16:56] Potassium We have our sodium ATPAs, which is constantly pumping
+[00:17:01] potassium into the cells.
+[00:17:02] When we drink, you know, a big thing of orange
+[00:17:04] juice or avocado or a big thing of potato mashed
+[00:17:07] potatoes on Thanksgiving, which is full of potassium.
+[00:17:11] That potassium gets absorbed in our gut, and then insulin
+[00:17:15] is secreted.
+[00:17:16] Insulin is a hormone that you've learned about in endocrinology,
+[00:17:20] but insulin directly stimulates that sodium potassium ATPase.
+[00:17:23] So do catecholamines like epinephrine, and to a lesser extent,
+[00:17:27] tri triiodoyridine, the thyroid active thyroid hormone.
+[00:17:31] They all are hormones that actually stimulate sodium sodium, uh,
+[00:17:35] potassium ATPAs, and that drives more potassium into the cell.
+[00:17:39] Um, Insulin and to a lesser extent epinephrine are, are,
+[00:17:43] are secreted when we have a high potassium diet.
+[00:17:47] Um, the thyroid hormone becomes more important when someone has
+[00:17:50] hyper, you know, hyperthyroidism.
+[00:17:52] It's not really a, it's not useful, you know, we,
+[00:17:55] our body doesn't secrete it in response to hyperkalemia, but
+[00:17:58] they all have an effect that Moving potassium from the
+[00:18:01] extracellular fluid to the intracellular fluid and dropping extracellular fluid
+[00:18:05] potassium concentration.
+[00:18:08] All right.
+[00:18:08] I'm gonna start talking about some uh disorders, OK?
+[00:18:12] And these are the hyperkalemic and hypokalemic periodic paralysis.
+[00:18:16] They sort of highlight some of the physiology that we
+[00:18:18] just talked about, OK?
+[00:18:20] So, hyperkalemic periodic paralysis is just that.
+[00:18:24] Someone comes in and they kind of have like paralysis,
+[00:18:27] like weakness, whatever, and they're found to be hyperkalemic.
+[00:18:30] Well, this is a disorder where there's a gain of
+[00:18:32] function of this voltage-gated sodium channel, all right?
+[00:18:36] The sodium channel opens up too easily.
+[00:18:38] It's not supposed to be, but it opens up like
+[00:18:40] you don't need much to commits it to open up.
+[00:18:43] This is an autism dominant disorder usually present in children,
+[00:18:46] so the pediatricians are gonna see this more than the
+[00:18:49] adult, um.
+[00:18:50] Doctors, but uh it leads, but this, this sodium channel
+[00:18:54] is always open and it leads to persistent depolarization of
+[00:18:57] the cells and that if, if the sodium channel doesn't
+[00:19:00] close, the cells don't re-polarize and they become paralyzed, the
+[00:19:03] muscles become paralyzed.
+[00:19:04] Hyperkalemia stimulates depolarization, so hyperkalemia promotes this to happen.
+[00:19:10] Also, as the cells are depolarizing, potassium's leaving the cells.
+[00:19:13] So not only is hyperkalemia a trigger for this paralysis.
+[00:19:17] But it, it also is, is an effect of it.
+[00:19:20] All right.
+[00:19:21] So it's like a, a, a, a vicious cycle that
+[00:19:23] as these cells are become as these muscle cells are
+[00:19:25] paralyzed, they're leaking potassium out of them and that just
+[00:19:28] continues to Uh, perpetuate the, the paralysis.
+[00:19:33] High potassium foods and fasting are triggers for this.
+[00:19:37] Why fasting?
+[00:19:38] What happens with fasting?
+[00:19:40] Insulin levels go down.
+[00:19:41] Insulin drives potassium in the cell, but if you're fasting,
+[00:19:44] your insulin naturally goes down.
+[00:19:45] You don't have that insulin readily available to move potassium
+[00:19:48] into the cells to prevent mild hyperkalemia from triggering this.
+[00:19:53] Hypokalemic periodic paralysis is the opposite.
+[00:19:56] It's an impairment of those voltage-gated sodium channels.
+[00:19:59] The voltage-gated sodium channels are a little bit, they're just
+[00:20:02] not doing their job, all right?
+[00:20:03] They don't open up very easily.
+[00:20:04] This is also autosomal dominant and more presents in adults.
+[00:20:07] So, uh, so it, it, you know, adult physicians who
+[00:20:12] treat adults are gonna be more, um, Seeing this, this,
+[00:20:15] this disorder more, more commonly than hyperkalemic periodic paralysis.
+[00:20:20] Um, and it's triggered by high, high carbohydrate meals, all
+[00:20:23] right?
+[00:20:23] This is important because it's red, all right?
+[00:20:25] High carbohydrate meals, you eat a big thing of pasta,
+[00:20:28] right?
+[00:20:28] Noodles on the screen.
+[00:20:30] And um that's, that leads to insulin release.
+[00:20:32] What does insulin do?
+[00:20:33] Pushes potassium into the cells.
+[00:20:35] So insulin can cause that potassium to go down just
+[00:20:37] enough to trigger this paralysis.
+[00:20:41] This also is associated with hyperthyroidism.
+[00:20:43] Again, for the same reason hype that, that.
+[00:20:46] Uh, thyroid hormone stimulates sodium, potassium ATPs, moves potassium into
+[00:20:51] the cell.
+[00:20:53] All right.
+[00:20:54] Acid, you have not had your metabolic acidosis lecture, I
+[00:20:57] think it's in a week or two.
+[00:20:59] but, so I'm not gonna go too in-depth, but essentially
+[00:21:02] there are two basic types of acids, we call them
+[00:21:05] or inorganic acids which are also normal and gap metabolic
+[00:21:08] acidosis.
+[00:21:10] And the organic or monocarboxylic acids, which are high tiga
+[00:21:14] metabolic acidosis.
+[00:21:15] Inorganic or normal antiga metabolic acidosis, usually hydrochloric acid accumulates
+[00:21:20] in the extracellular fluid, whereas in organic or high tiga
+[00:21:23] metabolic acid is acidosis, there's other acids, organic acids like
+[00:21:26] lactic acid or ketoacids are examples.
+[00:21:29] There's others, but these are some examples, all right.
+[00:21:33] Inorganic acid or normal antigap metabolic acidosis can lead to
+[00:21:38] hyperkalemia, OK?
+[00:21:40] Organic or high elevated tigalic acids do not, OK?
+[00:21:45] There's a distinction and this is something that you should
+[00:21:47] know.
+[00:21:48] And you don't need to know the mechanism, but if
+[00:21:50] you kind of like me and you geek out over
+[00:21:52] electrolytes, for anyone who's interested, listen for those who just
+[00:21:55] tune out for the next like 30 seconds.
+[00:21:58] So why do inorganic or normal or normal igmatic acidosis
+[00:22:03] lead to hyperkalemia?
+[00:22:04] Well, you've got this accumulation of hydrochloric acid in the
+[00:22:06] extracellular fluid.
+[00:22:08] That chloride is going to go into the cell and
+[00:22:09] be exchanged for bicarbonate.
+[00:22:11] That you know bicarbonates can be secreted by the cells
+[00:22:13] to help neutralize this, this hydrogen ion, all right?
+[00:22:16] This, as this bicarbonates leaving, hydrogen ions accumulate inside the
+[00:22:22] cell.
+[00:22:22] And these hydrogen ions are cations and, you know, potassium
+[00:22:26] doesn't want to be around other cations.
+[00:22:27] So this accumulation of intracellular hydrogen ions can help push
+[00:22:32] more potassium out of their leaky potassium channels, and that's
+[00:22:36] how this can lead to hyperkalemia.
+[00:22:39] Organic acids, it's a different mechanism.
+[00:22:42] They're like lactic acid, for instance, ketoacid, whatever.
+[00:22:44] They're taken into the cell with the, the lactate and
+[00:22:48] the hydrogen ion, but there's no accumulation of hydrogen ions
+[00:22:51] because this whole complex gets metabolized by the cell.
+[00:22:54] So there's no accumulation of hydrogen ions.
+[00:22:56] There's no push for potassium to leave the cell.
+[00:22:58] All right, wake up.
+[00:23:00] Pay attention now.
+[00:23:02] Sources of plasma potassium.
+[00:23:04] All right, so we all, right, we talked about dietary
+[00:23:07] intake.
+[00:23:07] That's a no-brainer.
+[00:23:08] Potatoes, tomatoes, right?
+[00:23:11] But it's important for you to recognize that there are
+[00:23:14] endogenous sources of potassium.
+[00:23:16] Where is most of our potassium?
+[00:23:18] In the cells.
+[00:23:19] So any situation where you've got this massive chunk of
+[00:23:22] cells that's like dying is gonna release potassium cause When
+[00:23:26] a cell dies, it fills its guts and what's in
+[00:23:29] cell guts?
+[00:23:30] Potassium and phosphorus, you'll learn that in the next hour.
+[00:23:33] So, any situation where there's massive cell lysis, we're gonna
+[00:23:36] see that can be a source of, of endogenous potassium
+[00:23:40] can lead potentially to hyperkalemia.
+[00:23:42] It's red blood cells are that's hemolysis.
+[00:23:44] If it's muscle cells breaking open like from a crush
+[00:23:47] injury or something, that's rhabdomyolysis.
+[00:23:49] If it's tumor cells, you know, that's a good thing,
+[00:23:51] right?
+[00:23:51] You got big cancer with a huge tumor load and
+[00:23:55] you put them on some treatment and all those leukemia
+[00:23:58] or whatever cells are splitting open, that's a good thing,
+[00:24:00] but they're gonna release potassium.
+[00:24:02] And so tumor lysis syndrome, one of the effects of
+[00:24:05] tumor lysis syndrome is hyperkalemia, which could become a medical
+[00:24:08] emergency.
+[00:24:10] Insulin deficiency is another potential source of hyperkalemia, all right?
+[00:24:14] People with type diabetes, or any, you're fasting, all right?
+[00:24:19] Because again, insulin, if you don't have enough insulin around,
+[00:24:21] you, you don't have that effect that insulin has on
+[00:24:25] stimulating the sodium, potassium ATPA moving potassium into the cells.
+[00:24:28] Hyperglycemia, hyperglycemia actually can create hyperkalemia by osmosis, right?
+[00:24:35] You learned about, you've reviewed osmosis on Wednesday, but when
+[00:24:39] The plasma osmality, commonly by acute hyperglycemia, when that plasma
+[00:24:43] os rises rapidly, water is going to osmotically leave the
+[00:24:48] cells, go into the axillary fluid, and it's gonna drag
+[00:24:50] convection.
+[00:24:51] It's gonna drag potassium out, and that can lead to
+[00:24:53] acute hyperkalemia.
+[00:24:54] So a lot of times patients are presenting with acute
+[00:24:57] hyperglycemia, they're also found to be hyperkalemic at the same
+[00:25:01] time.
+[00:25:01] It's an osmotic effect.
+[00:25:04] And lastly, there's something called pseudohyperkalemia, which means that when
+[00:25:08] you measure the pla the pla uh the plasma potassium
+[00:25:11] concentration, it's high, but it's not actually high in the
+[00:25:14] body, it's false, it's erroneous.
+[00:25:17] And that can happen, you know, when you have like
+[00:25:18] a, you know, you're, you're drawing blood from a little
+[00:25:21] tiny butterfly needle and as they're, they're, they're drawing up,
+[00:25:24] they're aspirating the blood, the red blood cells are lying
+[00:25:27] in the, in the, the needle, all right, it's like
+[00:25:29] the sheer stress.
+[00:25:30] So that can release potassium in the test tube, but
+[00:25:32] it's not high in naturally the patient's body.
+[00:25:36] Prolonged depolarization.
+[00:25:37] This actually happens more commonly what I, than I think
+[00:25:39] most of us realize, but when you have a patient
+[00:25:42] go to the lab and the phlebotomist saying, make a
+[00:25:44] tight fist as they're drawing the blood, what happens when
+[00:25:47] you're making a tight fist?
+[00:25:49] You're depolarizing your muscle, the forearm muscle.
+[00:25:52] What happens during depolarization, potassium's leaving the cell through those
+[00:25:56] voltage gated potassium channels, and if you keep tight, making
+[00:25:58] that tight fist, while you're drawing blood, you're sucking up
+[00:26:01] potassium that just leaked out of your muscle cells, not
+[00:26:04] reflective of your actual mixed venous potassium concentration, but that's
+[00:26:08] an effect called pseudohyperkalemia.
+[00:26:11] And lastly, patients who have leukemia or essential thrombocytosis where
+[00:26:15] there's a ton of platelets, these are fragile cells that
+[00:26:17] when you draw the blood and it sits in the
+[00:26:19] test tube or it gets shaken around too much, they
+[00:26:21] just kind of automatically lice within the test tube and
+[00:26:24] that can be a source of pseudohyperkalemia.
+[00:26:26] So just things to be aware of when you're trying,
+[00:26:28] when you're trying to interpret a high potassium concentration in
+[00:26:31] a blood test.
+[00:26:34] All right, that's all for where does potassium come from
+[00:26:37] and how does like, what, what do our like insulin
+[00:26:40] and what, what do our hormones do to kind of
+[00:26:42] rapidly um move potassium in, into our cells.
+[00:26:47] But for the next, for the rest of the hour,
+[00:26:49] we're gonna talk about because this is nephrology, we're gonna
+[00:26:52] talk about how the kidneys regulate the potassium concentration, all
+[00:26:55] right?
+[00:26:55] Cause ultimately, the kidneys are the boss of, of how
+[00:26:58] like electrolytes, fluid, all this is regulated in our body.
+[00:27:02] All right?
+[00:27:03] So you've seen a nephron before, I'm pretty sure.
+[00:27:06] This is the glomerulus.
+[00:27:08] This is the proximal tubule, the descending limb, the thick
+[00:27:11] ascending limb of the loop of Henley, the distal convoluted
+[00:27:13] tubule.
+[00:27:15] And then the collecting duct, there's a cortical and medullary,
+[00:27:18] that's not as important right now, I don't think.
+[00:27:21] All right, um, but you will find that this part
+[00:27:23] of the nephron is where all the magic happens, all
+[00:27:26] the regulation happens.
+[00:27:27] This is gonna be a very, very important part of
+[00:27:28] this lecture.
+[00:27:29] This is, you know, so the proximal tubule, about 65%
+[00:27:32] of all the filtered potassium is going to be reabsorbed.
+[00:27:35] In the thick a signal, about 25%, all right?
+[00:27:38] The distal nephron, the distal nephron can reabsorb filtered potassium
+[00:27:42] or secret it.
+[00:27:43] This is where all the regulation happens.
+[00:27:45] All right?
+[00:27:46] So let's, let's start.
+[00:27:48] So we're in the proximal tubule, let's orient ourselves.
+[00:27:50] This is the pro this is the cell.
+[00:27:52] This is the apical side of the membrane where it
+[00:27:55] faces the lumen.
+[00:27:56] This is the basilateral side of the membrane which faces
+[00:27:58] the interstitial.
+[00:27:59] This is where those peritubular capillaries are.
+[00:28:01] Remember, whenever these electrolytes are being reabsorbed, they go into
+[00:28:04] the interstitial for a brief period of time before they're
+[00:28:06] picked up by the pertuberal capillaries, returned to the central
+[00:28:08] circulation.
+[00:28:10] This is our old friend, our good friend, sodium potassium
+[00:28:13] ATPase.
+[00:28:15] We talked about this with respect to potassium concentration.
+[00:28:18] Now we're gonna see um our friend's effect on electrolyte
+[00:28:23] transport in the, in the kidney.
+[00:28:26] So remember, remember, remember, sodium, potassium ATPH keeps all the
+[00:28:30] sodium out of the cell.
+[00:28:31] Intercellular sodium is very low, and all the potassium in
+[00:28:34] the cell.
+[00:28:36] So, the, in the proximal common tubule, about 65% of
+[00:28:40] this filtered potassium is gonna just passively be reabsorbed paracellularly.
+[00:28:44] There's not a lot of, it's not really interesting.
+[00:28:46] It's kind of a boring part of the cell, you
+[00:28:48] know a lot's happening, so it's, I don't, it's kind
+[00:28:50] of boring, so we're just gonna move on.
+[00:28:51] It's just passive reabsorption.
+[00:28:54] Now we're the thick ascending limb.
+[00:28:55] We have some friends here, some new friends.
+[00:28:57] We've got our old friends sodium potassium ATPase, but now
+[00:29:00] we've got sodium, potassium, uh 2 chloride co-transporter in the
+[00:29:04] apical membrane in the lumen.
+[00:29:06] All right?
+[00:29:07] What does this guy do?
+[00:29:08] Well, this guy absorbs 1 sodium, 1 potassium, and 2
+[00:29:12] chloride ions all at the same time.
+[00:29:14] It's isoelectric, all right?
+[00:29:15] They're all, right?
+[00:29:16] It's, there's no charge.
+[00:29:19] How is it doing it?
+[00:29:20] Because sodium's bringing it all in.
+[00:29:21] This is facilitated diffusion, right?
+[00:29:23] So because that sodium concentration in the cell is very
+[00:29:26] low, sodium's going down its concentration gradient and it's bringing
+[00:29:30] along its friends potassium chloride at the same time.
+[00:29:33] All right?
+[00:29:34] The energy for this is created by this.
+[00:29:39] So, sodium, potassium 2 chloride is coming in in an
+[00:29:41] isoelectric fashion.
+[00:29:43] Um, and some of that potassium is actually gonna be
+[00:29:45] reabsorbed in the interstitial picked up by the perubbular capillary
+[00:29:49] along this, this transporter, which is not important for you
+[00:29:51] to know.
+[00:29:52] But we have another friend, Ram K, rectifying outer medullary
+[00:29:57] potassium channel.
+[00:29:57] You really don't need to know what these, the names
+[00:29:59] of these channels, but recognize the, like the acronyms, all
+[00:30:02] right?
+[00:30:03] So Rhom, there's a ROMK, which is actually gonna permit
+[00:30:06] potassium to leak back into the lumen.
+[00:30:09] Why is that important?
+[00:30:10] Well, it's actually gonna be really important for calcium and
+[00:30:11] magnesium.
+[00:30:13] All right.
+[00:30:13] But what this does, as these positively charged potassium cations
+[00:30:19] are leaking back into the lumen, it's going to create
+[00:30:21] an electrical charge in the lumen.
+[00:30:23] The lummen is going to become electropositive, and that's important
+[00:30:26] as we're trying to absorb positively charged ions.
+[00:30:29] This positive charge is actually going to encourage some of
+[00:30:32] this potassium to diffuse paracellulite down its electrical gradient, OK.
+[00:30:39] Uh, but this is gonna be more important in, in
+[00:30:41] the next election we talk about calcium magnesium because this
+[00:30:43] is how calcium magnesium is reabsorbed in thick ascending limb.
+[00:30:47] All right.
+[00:30:48] Um, so these are the transport mechanisms that are important
+[00:30:51] to know in the thick ascending limb, and there's some
+[00:30:54] pharmacology.
+[00:30:54] I think you may have learned this in the other
+[00:30:56] lecture like loop diuretics, but loop diuretics impair the sodium
+[00:31:01] potassium to chloride co-transporter.
+[00:31:03] And that's important to inhibit sodium reabsorption.
+[00:31:06] That's the diuretic effect of, of, of the loop diuretic.
+[00:31:10] But by impairing this, you're also going to impair some
+[00:31:14] of this potassium leaking out in the cell and you're
+[00:31:16] gonna impair some of that potassium absorption, all right?
+[00:31:18] So loop diuretics can impair potassium reabsorption in the thick
+[00:31:22] ace and newum as well.
+[00:31:23] Although their primary role is to inhibit sodium reabsorption.
+[00:31:28] That's the thick ascending limb.
+[00:31:31] All right, we're gonna move to where a lot more
+[00:31:33] activity is going in the distal nephron.
+[00:31:35] OK, so pay attention.
+[00:31:37] This is important stuff.
+[00:31:38] But before we do, we're gonna talk about the hormones.
+[00:31:41] There's some hormones in this lecture, there's hormones in the
+[00:31:43] next lecture.
+[00:31:44] I know you've had endocrinology, but let's do a little
+[00:31:46] bit of review because this is important.
+[00:31:49] Aldosterone is a very important hormone.
+[00:31:51] You learned about well, you did talk about aldosterone with
+[00:31:54] Dr.
+[00:31:54] Weissberg's lecture about it's, how it absorbed it, it, its
+[00:31:57] role in absorbing sodium in the distal nephron.
+[00:32:00] But aldosterone also has an effect on potassium flux as
+[00:32:03] well.
+[00:32:04] OK, so let's talk about that really quick.
+[00:32:07] Remember, you've got a liver that makes angiotensinogen, and you've
+[00:32:11] got a kidney that makes renin.
+[00:32:13] When renin is secreted, it converts angiotensinogen to angiotensin one.
+[00:32:18] Angiotensin 1 floats up from the liver to lungs, and
+[00:32:21] angiotensin converting enzyme is an enzyme that converts 1 to
+[00:32:25] 2, angiotensin 2.
+[00:32:27] Angiotensin 2 is a vasoconstrictor.
+[00:32:29] It's very important for our bodies because it, it constricts
+[00:32:32] our smooth muscle of our arterials, our precapillary arterials, and
+[00:32:36] that increases vascular resistance, that raises blood pressure.
+[00:32:39] So when our bodies need higher blood pressure, this is,
+[00:32:42] this RAS system is jacked up and angiotenin 1, I'm
+[00:32:46] sorry, angiotensin 2 is going to help constrict.
+[00:32:48] The, the, you raise our blood pressure.
+[00:32:51] But another effect that angiotensin 2 has is it's gonna
+[00:32:54] go to the zonag glomerulosa of the adrenal gland.
+[00:32:57] And angiotensin 2 stimulates aldosterone secretion.
+[00:33:01] All right?
+[00:33:02] Hyperkalemia, independent of angiotensin 2, hyperkalemia also stimulates aldosterone secretion
+[00:33:09] in the adrenal gland.
+[00:33:11] All right, so both of those, those scenarios will increase
+[00:33:14] aldosterone secretion.
+[00:33:16] So let's talk about why this is all important.
+[00:33:19] So we're in the cortical collecting duct.
+[00:33:21] There's a new cell, the pri well, it's not only
+[00:33:23] you talked about this in Weisberg's lecture, but there we
+[00:33:25] got the principal cell.
+[00:33:27] We've got our old friend sodium potassium ATPase keeping intracellular
+[00:33:30] sodium very low.
+[00:33:31] You've got Our old, our old friend Ram K, we
+[00:33:35] just met earlier, well, he's back.
+[00:33:37] Ram K is back in, in, um the, the principal
+[00:33:40] cell here and allowing potassium to leave the cell and
+[00:33:44] be secreted into the lumen.
+[00:33:46] And we've got epithelial sodium channel, ENAC is the name
+[00:33:50] that we all know and love.
+[00:33:52] So EAC channel allows sodium to enter into the cell.
+[00:33:55] OK, this is important, so pay attention.
+[00:33:58] You learn how, you know, sodium, this is how sodium
+[00:34:00] gets reabsorbed and sodium gets reabsorbed, it gets returned to
+[00:34:04] circulation.
+[00:34:05] Sodium raises our intravascular plasma volume, or fluid volume, and
+[00:34:09] that can raise our blood pressure.
+[00:34:10] And that's sometimes a good thing, sometimes it's not intended.
+[00:34:14] But there's some effects that are going on.
+[00:34:16] So this is a busy slide.
+[00:34:18] We're going to go through it gently.
+[00:34:20] OK?
+[00:34:21] So, So these EEC channels are always open.
+[00:34:26] They're always allowing sodium to come in to a certain
+[00:34:29] extent.
+[00:34:30] But a mineral or corticoid like aldosterone, we just talked
+[00:34:33] about aldosterone, a minerallic corticoid like aldosterone is going to
+[00:34:37] lead to uh uh genes transcribed that are going to
+[00:34:42] lead to an increased opening of that EEC channel.
+[00:34:45] So essentially, aldosterone.
+[00:34:48] Increases the opening of the sodium channel that allows more
+[00:34:51] sodium to rush on in down its concentration gradient that
+[00:34:53] was established by our friend sodium tassium ATPase.
+[00:34:57] So aldosterone is going to cause sodium to enter in
+[00:34:59] the cell, and that's great for when you want to
+[00:35:01] absorb that sodium to raise the plasma volume, raise the
+[00:35:04] blood pressure.
+[00:35:05] But it's also going to influence potassium.
+[00:35:07] How?
+[00:35:08] So, aldosterone, as the sodium's coming into the cell, it's
+[00:35:11] going to affect the electronegativity of the cell.
+[00:35:13] You've got all these positively charged sodium ions coming into
+[00:35:16] the cell because aldosterone's opening that EA channel.
+[00:35:20] These positively charged sodium ions are coming into the cell,
+[00:35:24] but when they're coming into the cell, the inside of
+[00:35:26] the cell is becoming a little more electropositive.
+[00:35:29] And the lumen is gonna become a little more electronegative
+[00:35:31] because you've lost all these positively charged cations.
+[00:35:35] What's going to happen with this?
+[00:35:37] Well, you've got this rhomK that's going to allow potassium
+[00:35:39] to move out of the cell.
+[00:35:40] Well, now potassium wants to leave the cell because of
+[00:35:42] the concentration gradient, but now it's also going to leave
+[00:35:46] down an electrical gradient.
+[00:35:48] OK?
+[00:35:48] You've got all this potassium in the cell wants to
+[00:35:50] leave, and now you've encouraged more potassium leaks because you
+[00:35:53] have a negatively charged atmosphere for these positively charged cations
+[00:35:57] to want to go to.
+[00:35:59] And these positively charged sodium ions are going to basically
+[00:36:03] electrically push potassium out of the cell.
+[00:36:06] Also, um, Uh, aldosterone has an effect at opening those
+[00:36:10] rhomK.
+[00:36:11] So not only is aldosterone bringing sodium into the cell,
+[00:36:15] but it's creating this electrical situation that, that's influencing potassium
+[00:36:20] to leave the cell, and it's gonna directly open up
+[00:36:22] that channel the potassium can go through.
+[00:36:24] All right?
+[00:36:25] So, under the influence of aldosterone at the principal cell,
+[00:36:28] sodium is gonna go in and potassium is gonna go
+[00:36:31] out and be secreted into the lumen.
+[00:36:33] All right.
+[00:36:35] Now angiotensin 2.
+[00:36:39] So during times of remember, hyperkalemia stimulates aldosterone.
+[00:36:43] So when we're hyperkalemic, our body's gonna make aldosterone and
+[00:36:47] make all this magic witchcraft happen, all right?
+[00:36:50] When we hyperkalemia stimits aldosterone, opening the sodium, the, the
+[00:36:53] potassium channel and allowing our kidneys to pee out more
+[00:36:56] potassium and fix the hyperkalemia.
+[00:36:59] But sometimes haldosterin is secreted when we're hypovolemic, when our
+[00:37:03] blood pressure is low, when the renin angiotensin system is
+[00:37:07] activated.
+[00:37:08] All right?
+[00:37:09] In that setting, we may not want, our bodies may
+[00:37:11] not want to lose potassium.
+[00:37:12] That's not the primary role of of aldosterone in that
+[00:37:15] setting.
+[00:37:16] All right?
+[00:37:17] So when we're hypovolemic, angiotensin is also present because the
+[00:37:21] RAS system is, is working.
+[00:37:24] And angiotensin 2 is gonna help our kidneys mitigate Unnecessary
+[00:37:29] potassium loss, all right?
+[00:37:32] So when aldosterone is secreted because of hyperkalemia's direct stimulation,
+[00:37:37] We're gonna dump a lot of potassium.
+[00:37:39] When adosin is secreted and angiotensin is also present because
+[00:37:42] the rat system is, is present, we're not gonna lose
+[00:37:45] as much of that potassium.
+[00:37:47] It's gonna help prevent us from getting too hypokalemic.
+[00:37:51] All right?
+[00:37:53] All right, that was a lot to talk about.
+[00:37:55] You have more to talk about.
+[00:37:57] OK, so now we're talking the pharmacology at this part
+[00:37:59] of the cell that's affects, that's affected by these mechanisms.
+[00:38:03] Uh, you probably have heard about potassium-sparing diuretics.
+[00:38:06] Well, this is where they work.
+[00:38:07] All right.
+[00:38:08] There are potassium spare potassium, they're called potassium sparing because
+[00:38:10] they basically inhibit potassium secretion through the ROMK directly or
+[00:38:15] indirectly, indirectly.
+[00:38:18] So there are mineral minerallic corticoid receptor antagonists like spironolactone,
+[00:38:22] eleinone, and phenarinone.
+[00:38:25] All right?
+[00:38:25] They block aldosterone's action at the, at the mineral cortico
+[00:38:28] receptor.
+[00:38:28] So it's gonna inhibit the movement of sodium into the
+[00:38:31] cell and potassium out of the cell.
+[00:38:33] And then there are potassium sparing diuretics that directly block
+[00:38:36] the EAC, that's triamterene and the milloride.
+[00:38:40] Um, I mentioned this drug trimethoprim.
+[00:38:43] It's a part of an antibiotic, it, the Bactrim.
+[00:38:46] It's a very, very common antibiotic used to treat anything
+[00:38:49] from urinary tract infections to like cellulitis.
+[00:38:53] It's, it's a, it's a pretty common, um, pneumocystis, like
+[00:38:56] it's, it, it, it's used a lot, but it contains
+[00:39:00] a, a drug called trimethoprim which has uh Uh, potassium
+[00:39:05] sparing diuretic, it, it, it, it blocks the EA similar
+[00:39:08] to triamterene amylerides.
+[00:39:10] That's not the intent, but sometimes patients who are put
+[00:39:13] on Bactrim, especially if they have other like chronic kidney
+[00:39:15] disease or other, other conditions that can predispose to hyperkalemia,
+[00:39:19] sometimes Bactrim can lead to hyperkalemia, right?
+[00:39:23] It's an adverse effect.
+[00:39:27] All right.
+[00:39:28] So there are other hormones out there besides aldosterone and
+[00:39:31] that can influence the minerallic corticoid receptor, and one of
+[00:39:34] those is cortisol.
+[00:39:35] Cortisol is a glucocorticoid made by the um adrenal gland
+[00:39:41] under like stress, it's a stress hormone, but it does,
+[00:39:44] it does have minerallic corticoid receptor binding activity.
+[00:39:47] So at normal concentrations, physiologic concentrations, cortisol will bind to
+[00:39:53] the mineral cortico receptor and behave just like aldosterone.
+[00:39:58] Well, this is not a problem for most of us
+[00:40:00] because this is important to know because it's red, there
+[00:40:04] is an enzyme in the kidney, in the collecting duct
+[00:40:08] called 11 beta hydroxysteroid dehydrogenase, and what this enzyme does
+[00:40:13] is it converts normal levels of cortisol to cortisone.
+[00:40:17] Cortisol binds readily to the mineral corta receptor.
+[00:40:21] Cortisone does not.
+[00:40:22] Cortisone is very low affinity.
+[00:40:24] So even at normal cortisol levels, as long as we
+[00:40:27] have this, uh, this enzyme intact, this leaden be hydroxysteroid
+[00:40:31] dehydrogenase type 2 actually, that's going to convert that normal
+[00:40:34] cortisol to cortisone and we will not have activity at
+[00:40:38] the mineral cortical receptor.
+[00:40:39] All right?
+[00:40:41] But you know, life happens.
+[00:40:43] This is normal, but there is uh something they call
+[00:40:46] it apparent minerallic corticoid excess or the syndrome of merit
+[00:40:48] of apparent minerallic corticoid excess.
+[00:40:51] And this can happen either due to a genetic mutation
+[00:40:53] of the gene that codes for that 11 beta hydroxysteroid
+[00:40:56] dehydrogenase type 2 enzyme which converts cortisol to cortisone, or
+[00:41:00] it could be an, an introduction of an inhibitor of
+[00:41:05] the, of this enzyme.
+[00:41:07] There's, there's a substance called glyceroinic acid, which is actually
+[00:41:09] in black licorice.
+[00:41:11] I'm not talking about Twizzlers, like the fake stuff.
+[00:41:13] I'm talking about the real black licorice chewing tobacco.
+[00:41:15] There are some substances that have this glycerotinic acid that
+[00:41:19] inhibit this enzyme.
+[00:41:21] And so people who might be eating black licorice or
+[00:41:23] doing chewing tobacco, they may actually develop hype, you know,
+[00:41:26] hypertension because of um cortisol's effect on that mineral stimulating
+[00:41:31] cortic receptor causing sodium to be reabsorbed.
+[00:41:34] They can develop hypertension and hypokalemia.
+[00:41:37] And actually we're gonna talk about this in the um
+[00:41:40] the what do you call it, the uh uh the
+[00:41:43] workshop in another week or two.
+[00:41:46] So this is this kind of a cool thing.
+[00:41:48] Know that this enzyme exists, all right, because this is
+[00:41:51] apparent minerallic corticoated excess.
+[00:41:53] And then there of course, there are sometimes uh hormone
+[00:41:56] secreting tumors that, that secrete adrenal corticotropic hormone or cortisol
+[00:42:00] that leads to increased A super physiologic concentration of cortisol
+[00:42:04] that overwhelmed this, this, this enzyme and some of that
+[00:42:08] cortisol is able to bind to mineralto cortic receptor and
+[00:42:11] lead to this, this uh mineral corticoid excess type of
+[00:42:14] state.
+[00:42:17] OK.
+[00:42:21] So the next thing I wanna talk about are disorders
+[00:42:25] that can lead to increased sodium delivery and how that
+[00:42:29] affects potassium regulation in the distal nephron.
+[00:42:32] So, we talked, you've talked already about like diuretics, loop
+[00:42:36] diuretics and thiazide diuretics.
+[00:42:38] Loop diuretics impair the Um, sodium reabsorption in the thick
+[00:42:45] ascending limb and thiazide diuretics impair sodium reabsorption and chlo
+[00:42:48] reabsorption in the, the, um, distal convoluted tubule.
+[00:42:53] All right.
+[00:42:54] There's also disorders, um, I don't know if you've learned
+[00:42:57] about this before, but there is a genetic disorder called
+[00:43:00] Barter's syndrome.
+[00:43:02] Barter's syndrome involves a gene that encodes for either the
+[00:43:05] sodium potassium 2 chloride co-transporter, this potassium chloride or the
+[00:43:08] ROMK.
+[00:43:09] You don't really to know that, but just know that
+[00:43:11] Barter's syndrome is a genetic mutation that behaves just like
+[00:43:15] someone who might be on lifelong loop diuretic, all right?
+[00:43:19] Gettleman's syndrome is, is a, is a genetic condition where
+[00:43:24] the, the gene that encodes for the sodium chloride co-transporter
+[00:43:27] is impaired.
+[00:43:29] And so these patients uh behave as if they were
+[00:43:33] on a lifelong thiazide diuretic, all right?
+[00:43:36] Regardless of whether you're on a loop diuretic, a thiazide,
+[00:43:38] you've got Barterson-McGelman syndrome, if you're not absorbing sodium upstream,
+[00:43:43] Where's that sodium gonna go?
+[00:43:44] That sodium's gonna float downstream to the collecting duct.
+[00:43:48] All right, where our principal cell is.
+[00:43:50] All right.
+[00:43:51] So remember, we're at our principal cell, there's nothing new.
+[00:43:53] We've got EAC, we've got ROMK, we've got sodium potassium
+[00:43:55] HPA this is creating a concentration gradient that is driving
+[00:44:00] sodium into the cell.
+[00:44:02] Even with aldosterone not present.
+[00:44:06] Some of these EA channels are always going to be
+[00:44:08] open, all right.
+[00:44:10] Aldoshin just makes more of them open, all right?
+[00:44:12] But it's not like a light switch where it's either
+[00:44:14] on or off, that's not reality, OK?
+[00:44:17] Some of these Eno channels are always going to be
+[00:44:19] open at any given period of time.
+[00:44:21] And so if you have a ton of sodium that's
+[00:44:24] being dumped in that distal nephron, some of that's gonna
+[00:44:28] be absorbed or reabsorbed into the EAC channel.
+[00:44:32] All right?
+[00:44:32] Even if aldosterone is not present.
+[00:44:34] And if that sodium is going into the cell because
+[00:44:37] there's a lot of it out there, that's going to
+[00:44:40] lead to the same situation, the electrical, electrochemical grain that's
+[00:44:43] gonna drive potassium out of the cell.
+[00:44:45] So anything that can increase uh distal sodium delivery to
+[00:44:51] The distal nephron is is going to promote.
+[00:44:56] Potassium, uh, secretion into the nephron and potentially hypokalemia, all
+[00:45:02] right?
+[00:45:06] There are other factors that can affect potassium secretion into
+[00:45:11] the, into the lumen, all right?
+[00:45:14] Hyperkalalemia in and of itself.
+[00:45:16] Hyperkalemia can stimulate the sodium, potassium ATBH driving more potassium
+[00:45:20] into the cell.
+[00:45:21] You have more potassium going into the cell, that, that
+[00:45:23] potassium is going to rise in concentration and leak out
+[00:45:26] of that rhom K.
+[00:45:28] Hypomagnessemia, we'll talk about that in the next hour.
+[00:45:31] Hypomagnessemia can lead to potassium, it, it, it impairs the
+[00:45:35] rhomca's function and it, it permits potassium to leak out.
+[00:45:39] A high potassium diet, we're not sure of the exact
+[00:45:41] mechanisms.
+[00:45:42] They, they're, it's proposed that if you eat a high
+[00:45:45] potassium diet, even if your potassium level doesn't rise, it's
+[00:45:48] a high potassium diet, um, there might be some peptide
+[00:45:51] that's secreted by the intestinal tract, but that That opens
+[00:45:54] up the rhom K channel, but just eating high potassium
+[00:45:57] diet without affecting plasma potassium concentration can open up the
+[00:46:00] Rhom K and lead to potassium secretion.
+[00:46:05] Right, so these are factors that can affect potassium secretion
+[00:46:07] from the principal cell.
+[00:46:09] There's another cell in the same area in the, in
+[00:46:12] the collecting duct.
+[00:46:13] It's called the intercalated cell.
+[00:46:14] There's actually an alpha and a beta.
+[00:46:16] They're very important for acid-base management by the kidneys, you'll
+[00:46:20] get to that.
+[00:46:21] But the alpha intercalated cell has a mechanism to secrete
+[00:46:23] potassium that you should be aware of, all right?
+[00:46:26] And it's this little, it's called a BK channel or
+[00:46:30] maxiK channel, all right?
+[00:46:32] It's a new friend.
+[00:46:34] Um, and we have this hydrogen potassium ATPase, another new
+[00:46:37] friend which is present in the luminal side of, of
+[00:46:39] the alpinerculated cell.
+[00:46:42] Hypokalemia stimulates the hydrogen potassium ATPase.
+[00:46:45] What this does is it secretes a hydrogen ion and
+[00:46:48] absorbs the potassium ion.
+[00:46:49] So this is the part of the distal nephron where
+[00:46:51] potassium can actually be reabsorbed.
+[00:46:53] In the principal cell, it's only secreted, but this cell
+[00:46:55] can actually reabsorb potassium.
+[00:46:58] When we want it, when during hypokalemia.
+[00:47:01] Um, the, the BK channel is a potassium, it's a,
+[00:47:04] it's a very effective, um, channel to dump potassium, secrete
+[00:47:08] potassium out of the, out of the cell, and it's
+[00:47:10] stimulated by two things high potassium diet and high urine
+[00:47:14] flow.
+[00:47:14] It's got like these little like fingers on, on the
+[00:47:17] outside of the cell.
+[00:47:17] So if you've got a high flow of urine like
+[00:47:20] with a diuretic or something, and that, that, that urine
+[00:47:23] is flowing down and Just imagine like you've got this,
+[00:47:26] this little like sensor that is like sensing fresh like
+[00:47:29] flow.
+[00:47:30] If you have more flow, it's going to bend the
+[00:47:32] sensor and as that center gets bent, it's going to
+[00:47:34] open up that maxi KBK channel and allow potassium to
+[00:47:37] be secreted out.
+[00:47:38] So that's one effect of how diuretics can increase your
+[00:47:41] urinary potassium excretion.
+[00:47:46] All right, we're wrapping it up, I promise.
+[00:47:48] So, this is a sort of a summary of things
+[00:47:52] that can stimulate potassium secretion in the distal nephron and
+[00:47:56] things that can inhibit it.
+[00:47:57] OK?
+[00:47:57] So a high potassium diet will stimulate the rhom K
+[00:48:00] and BK channels to open up and dump potassium into
+[00:48:03] the lumen.
+[00:48:04] Hypomagnessemia impairs the rhomK and, and it makes it open
+[00:48:09] inappropriately and that can cause potassium to leak out.
+[00:48:13] The high distal sodium delivery to the nephron, right?
+[00:48:16] Diuretics, barters, gittleman's, anything that leads to a lot of
+[00:48:18] sodium entering into that, that distal nephron where the cortical
+[00:48:22] collecting duct is where the EAC channel is, that's going
+[00:48:24] to promote sodium to go in and potassium to be
+[00:48:27] secreted out.
+[00:48:29] Aldosterone or other mineral or corticoids like, um, you know,
+[00:48:33] cortisol or apparent minerallic corticoid excess stimulates EA and rhom
+[00:48:37] K, dumps potassium out of the cell.
+[00:48:40] And high urine flow, it stimulates the maxiK channel and
+[00:48:43] hyperkalamia directly stimulates the sodium potassium ATPase and um Uh,
+[00:48:50] the aldosterone secretion.
+[00:48:51] And then low potassium diet, angiotensin 2, and hyperalmia all
+[00:48:55] inhibit potassium secretion and distal nephron.
+[00:48:58] All right.
+[00:48:59] The last few slides are just really quick.
+[00:49:01] Um, there's not much, this is like the dietary potassium
+[00:49:04] absorption.
+[00:49:05] It's not a major part of the lecture, but just
+[00:49:07] recognize that most of us get about 100 millequivalents of
+[00:49:10] potassium a day.
+[00:49:11] All right?
+[00:49:12] And most of it, 90% up to 90 millequivalents is
+[00:49:14] absorbed.
+[00:49:15] All right.
+[00:49:16] There is some secretion in the colon, the distal colon,
+[00:49:20] all right.
+[00:49:21] Um, and there's actually these potassium secreting channels in the
+[00:49:24] distal colon that are, that are influenced by aldosterone, all
+[00:49:28] right.
+[00:49:29] But most of the, most of the potassium is, is
+[00:49:31] absorbed in the um intestinal, the small intestine and large
+[00:49:35] intestine.
+[00:49:36] All right, so in the in the site, there are
+[00:49:39] these EAC channels, OK, you don't, but, but there's this
+[00:49:43] BK channel, and the BK, this is where it gets
+[00:49:45] a little confusing.
+[00:49:46] Don't get too hung up over this, but it's called
+[00:49:47] a BK channel, but it's almost, it acts like a
+[00:49:50] ROMK channel that exists in the kidney.
+[00:49:52] It's It's under, it's it's influenced by aldosterone just like
+[00:49:56] ROMK in the kidney, but the BK in the in
+[00:49:59] the colon is stimulated by aldosterone.
+[00:50:01] So anytime there's an increased aldosterone presence, it's going to
+[00:50:05] lead to potassium secretion not only in the kidney, but
+[00:50:08] also in the gut.
+[00:50:09] All right.
+[00:50:10] So aldosterone is very effective at um eliminating potassium from
+[00:50:14] our bodies.
+[00:50:17] All right, I bring this up only because there is
+[00:50:20] some pharmacology.
+[00:50:21] Just be aware, there are these, these potassium binder agents.
+[00:50:25] They're also called cation exchange resins because what they do
+[00:50:29] is they basically kick off one cation from the drug
+[00:50:32] molecule and exchange it for potassium.
+[00:50:36] All right.
+[00:50:37] There's something called sodium polystyrene, it's also known as K-exylate.
+[00:50:40] We don't really use it so much anymore because it,
+[00:50:42] it's been associated with bowel ischemia and nobody wants that.
+[00:50:46] It also causes diarrhea, gas, and it's just very unpleasant
+[00:50:48] for the patient.
+[00:50:50] Um, but it does exist, you may hear about it
+[00:50:52] some, uh, you know, some time.
+[00:50:53] Um, uh, and poterramer and something called sodium zirconium.
+[00:50:58] They all have a cion that they kick off and
+[00:51:02] replace it with a potassium to bind up potassium and
+[00:51:04] you just, it just gets eliminated in the, in the
+[00:51:06] stool.
+[00:51:08] Uh, sodium zirconium and, and sodium zirconium and sodium polystyrene.
+[00:51:13] The cation is sodium, and poterium or the cion is
+[00:51:16] calcium, but otherwise they they essentially work the same way.
+[00:51:19] All right?
+[00:51:20] And they can increase gut excretion of potassium.
+[00:51:23] And so sometimes we use that for our patients who
+[00:51:25] have potassium, um, high potassium, and, and it helps keep
+[00:51:29] their potassium levels normal.
+[00:51:32] Alright, so.
+[00:51:35] Hyperkalemia, just this, these are just sort of review slides.
+[00:51:38] Um, uh, this can be caused due to increased entry
+[00:51:41] into the cell, um, insulin, increased beta-adrenergic activity, or increased
+[00:51:46] gastrointestinal losses, you can lose a lot of potassium from
+[00:51:49] your stool.
+[00:51:50] OK, Remember we just talked about that it is secreted
+[00:51:52] by the stool, uh, in, in the colon.
+[00:51:55] And increased urinary losses.
+[00:51:56] Anything that leads to an increased distal, um, sodium delivery,
+[00:52:01] um, minerallic corticoid excess, hypomagnessemia, and polyuria or, you know,
+[00:52:05] um, increasing activation of the BK and hyperkalemia can be
+[00:52:10] caused by outward potassium shifting.
+[00:52:13] Um, the inorganic or normal antig metabolic acidosis can cause
+[00:52:16] this inhibition of catecholamines or insulin, which will inhibit that
+[00:52:21] sodium potassium ATPase activity.
+[00:52:24] Cell lysis increases endogenous potassium, you know, cells are spilling
+[00:52:29] their guts, and hyperkalamic periodic paralysis can all lead to
+[00:52:32] outward potassium shifting.
+[00:52:34] And anything that that can reduce urinary excretion of potassium
+[00:52:37] can lead to retention of potassium in the body and
+[00:52:39] potentially hyperkalemia, and these are the conditions again that that
+[00:52:42] can lead to that that we just covered.
+[00:52:45] All right, so this is just a really quick question
+[00:52:48] to see if anyone's been listening, just to wake you
+[00:52:51] up.
+[00:52:52] 32 year old is admitted with confusion, and found to
+[00:52:54] have hyperkalemia, potassium is 6.9.
+[00:52:57] That's high.
+[00:52:58] And hyperglycemia, the glucose is 742, that's also high.
+[00:53:03] So what therapy would most rapidly improve the potassium level?
+[00:53:09] It's insulin.
+[00:53:10] I'm hearing that and that's good, right?
+[00:53:11] Insulin works in minutes.
+[00:53:12] It stimulates the sodium potassium ATPase and um helps to
+[00:53:16] move that extra potassium into, into the cells before that
+[00:53:20] potassium can start acting on the cardiac myocyte, you know,
+[00:53:23] raising that, that um resting member potential and firing off
+[00:53:27] action potentials we we don't want to have.
+[00:53:30] All right, any questions?
+[00:53:32] Yeah.
+[00:53:35] asset it makes it.
+[00:53:51] Are we doing hyperkalemia or hypokalemia?
+[00:53:55] It makes Yeah.
+[00:54:07] Why would you think that?
+[00:54:08] Just curious.
+[00:54:08] I'm gonna see where your thought.
+[00:54:15] You got it.
+[00:54:16] In hypokalemia, you've got intercellular potassium that's whatever, whatever it
+[00:54:20] is, and the potassium is supposed to be like this.
+[00:54:24] If you suddenly drop your that potassium outside the cell,
+[00:54:28] the gradient.
+[00:54:30] For potassium to want to leave the cell has now
+[00:54:32] been much, much greater.
+[00:54:33] I can't even stretch my arms out, right?
+[00:54:35] And so pota that's gonna allow more potassium to just
+[00:54:38] leak out of the cell.
+[00:54:40] Does that make sense?
+[00:54:41] Like, OK, OK, that's all right.
+[00:54:43] And as the potassium is leaving the cell, those positively
+[00:54:46] charged potassiums are leaving the cell.
+[00:54:48] That cell is not gonna have as many positively charged
+[00:54:50] cations, and that's gonna be allowed to become more electronegative.
+[00:54:54] Resting potential moves farther away from the, um, the end
+[00:54:57] zone.
+[00:54:58] The scrimmage line moves farther away from the end zone.
+[00:55:02] All right.
+[00:55:02] Any other questions?
+[00:55:03] Take a break, go to the bathroom, pee out some
+[00:55:06] potassium, and then we'll talk about calcium, magnesium, and phosphorus.

@@ -41,6 +41,109 @@
     }
    ],
    "note": "**Low albumin means low plasma oncotic pressure in the glomerular capillaries, so less fluid is pulled back and GFR goes up.** The lecturer posed this as an in-class poll (a cirrhosis patient with low albumin) and read the five choices aloud. The stem and choices are taken from the lecturer's spoken words, lightly tidied. The choice slide itself is not in the posted PDF.\n\nDecreased GFR: false. Lower capillary oncotic pressure removes a force that opposes filtration, so GFR rises.\n\nIncreased GFR: true. Slide 16: arterial plasma oncotic pressure sets glomerular capillary oncotic pressure, and higher oncotic pressure lowers GFR, so the reverse raises it.\n\nDecreased glomerular hydrostatic pressure: false. Albumin does not change the capillary hydrostatic pressure, which is set by arterial pressure and arteriolar resistance (slide 15).\n\nIncreased Bowman's hydrostatic pressure: false. That rises with urinary obstruction, not low albumin.\n\nDecreased Kf: false. Kf falls with fewer working capillaries or a thicker membrane, which this patient doesn't have."
+  },
+  {
+   "id": "renal-w01-lec03-q02",
+   "source": "formative",
+   "source_ref": "Week 1 Formative Q1",
+   "stem": "A volunteer is paid to be a subject in a research study in the renal physiology laboratory. During the study, inulin is infused and urine is collected 60 minutes later. The following renal physiology measurements are obtained:\n\n[[labs 0]]\n\nWhich of the following is the best estimate of the filtration fraction in this subject?",
+   "labs": [
+    [
+     [
+      "Urine Inulin",
+      "50 mg/dL"
+     ],
+     [
+      "Plasma Inulin",
+      "1 mg/dL"
+     ],
+     [
+      "Urine Volume",
+      "120 mL"
+     ],
+     [
+      "Renal Blood Flow (RBF)",
+      "600 mL/min"
+     ],
+     [
+      "Hematocrit",
+      "30%"
+     ]
+    ]
+   ],
+   "choices": [
+    "12%",
+    "16%",
+    "20%",
+    "24%",
+    "28%"
+   ],
+   "answer": 3,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "so if you look at all that gets put into the kidney, so all the plasma that goes into the kidney and look at how much is filtered out of that, that's your filtration fraction.",
+     "at": "00:25:06"
+    },
+    {
+     "type": "transcript",
+     "quote": "So 20% that goes into the kidney gets pulled out. So your filtration fraction would be 20%.",
+     "at": "00:25:32"
+    },
+    {
+     "type": "notes",
+     "quote": "RPF = RBF × (1 − hematocrit)",
+     "page": 2
+    },
+    {
+     "type": "notes",
+     "quote": "FF = GFR ÷ RPF",
+     "page": 2
+    },
+    {
+     "type": "slide",
+     "slide": 16,
+     "image": "img/renal-w01-lec03/slide_16.jpg"
+    }
+   ],
+   "note": "**Filtration fraction is GFR divided by renal plasma flow, and plasma flow is blood flow corrected for hematocrit.**\n\nThe work: urine flow V = 120 mL / 60 min = 2 mL/min. GFR = inulin clearance = U × V / P = (50 × 2) / 1 = 100 mL/min. RPF = RBF × (1 − Hct) = 600 × 0.7 = 420 mL/min. FF = 100 / 420 = 0.238, about 24%.\n\n12%: false. That's 50 / 420, half the right GFR (the 2 mL/min urine flow was dropped).\n\n16%: false. That's 100 / 600 rounded down, using blood flow instead of plasma flow.\n\n20%: false. That's the normal filtration fraction from the lecture (125 / 625), not this subject's numbers.\n\n24%: true. 100 mL/min over 420 mL/min.\n\n28%: false. That would need a GFR of about 120 mL/min over the same 420 mL/min plasma flow."
+  },
+  {
+   "id": "renal-w01-lec03-q03",
+   "source": "formative",
+   "source_ref": "Week 1 Formative Q3",
+   "stem": "A 30-year-old man experiences soreness of the lower back after shoveling snow. He has no significant past medical history. He takes several doses of naproxen over the course of the next 24 hours. Which of the following is most likely to occur in this individual?",
+   "choices": [
+    "Renal blood flow will increase",
+    "Glomerular filtration rate will increase",
+    "The afferent arteriole will dilate",
+    "The efferent arteriole will dilate",
+    "The filtration fraction will be unchanged"
+   ],
+   "answer": 4,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "prostaglandins are also produced in response to sympathetic stimulation, and they're gonna bind to their own receptors on the afferent and efferent arterials, um, and again, causes smooth muscle cells to relax.",
+     "at": "00:37:05"
+    },
+    {
+     "type": "transcript",
+     "quote": "so the prostaglandins are going to relax them enough, so it prevents kidney damage during sympathetic stimulation",
+     "at": "00:37:45"
+    },
+    {
+     "type": "notes",
+     "quote": "Renal vasodilator prostaglandins buffer vasoconstriction, particularly during reduced effective circulating volume.",
+     "page": 3
+    },
+    {
+     "type": "slide",
+     "slide": 21,
+     "image": "img/renal-w01-lec03/slide_21.png"
+    }
+   ],
+   "note": "**Naproxen blocks the vasodilating prostaglandins, so RBF and GFR fall together and the filtration fraction stays about the same.**\n\nThe lecture covers prostaglandins as the brake that keeps the arterioles from clamping down too hard; it doesn't name NSAIDs (that comes in the Week 2 pharmacology lecture). Take the brake away and vasoconstriction goes unopposed.\n\nRenal blood flow will increase: false. Losing a vasodilator raises resistance, so RBF drops.\n\nGlomerular filtration rate will increase: false. Less afferent flow means lower glomerular pressure, so GFR drops too.\n\nThe afferent arteriole will dilate: false. Prostaglandins are what dilate it; without them it constricts.\n\nThe efferent arteriole will dilate: false. NSAIDs don't cause efferent dilation.\n\nThe filtration fraction will be unchanged: true. GFR and RBF both fall, so their ratio stays roughly the same."
   }
  ]
 }

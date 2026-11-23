@@ -1,0 +1,141 @@
+{
+ "lecture_id": "renal-w01-lec07",
+ "block": "RENAL",
+ "week": 1,
+ "lecture": "07 Potassium Homeostasis and Disorders",
+ "contributor": "thirth",
+ "questions": [
+  {
+   "id": "renal-w01-lec07-q01",
+   "source": "formative",
+   "source_ref": "Week 1 Formative Q6",
+   "stem": "A 17-year-old high school track and field athlete collapses after trying out for the 3200-meter event. He is conscious and breathing, but unable to move major muscle groups. He is taken to a nearby emergency room where blood is immediately drawn for laboratory studies. He recalls similar, but less intense episodes after consuming large amounts of pasta or noodles. The action of which of the following medications most closely mimics the pathophysiology underlying the patient’s condition?",
+   "choices": [
+    "Spironolactone",
+    "Propranolol",
+    "Albuterol",
+    "Cinacalcet",
+    "Cholecalciferol"
+   ],
+   "answer": 2,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "High carbohydrate meals, you eat a big thing of pasta, right? Noodles on the screen. And um that's, that leads to insulin release. What does insulin do? Pushes potassium into the cells.",
+     "at": "00:20:25"
+    },
+    {
+     "type": "transcript",
+     "quote": "but insulin directly stimulates that sodium potassium ATPase. So do catecholamines like epinephrine",
+     "at": "00:17:20"
+    },
+    {
+     "type": "transcript",
+     "quote": "this can be caused due to increased entry into the cell, um, insulin, increased beta-adrenergic activity",
+     "at": "00:51:38"
+    },
+    {
+     "type": "slide",
+     "slide": 13,
+     "image": "img/renal-w01-lec07/slide_13.jpg"
+    },
+    {
+     "type": "slide",
+     "slide": 41,
+     "image": "img/renal-w01-lec07/slide_41.png"
+    }
+   ],
+   "note": "**This is hypokalemic periodic paralysis, where insulin or catecholamines push potassium into muscle cells; a beta-2 agonist like albuterol does the same thing.**\n\nAttacks after exertion and after big pasta meals point to an inward potassium shift. The lecture names insulin, epinephrine and beta-adrenergic activity as the inward shifters (slide 41); it never names albuterol, so the drug link is one step beyond the slides.\n\nSpironolactone: false. It blocks aldosterone and tends to raise plasma potassium, with no shift into cells.\n\nPropranolol: false. A beta blocker works the other way, at most letting potassium drift out of cells.\n\nAlbuterol: true. Beta-2 stimulation activates the Na-K ATPase and drives potassium into cells, like the attacks.\n\nCinacalcet: false. A calcium-sensing receptor agonist; no potassium shift.\n\nCholecalciferol: false. Vitamin D; no potassium shift."
+  },
+  {
+   "id": "renal-w01-lec07-q02",
+   "source": "formative",
+   "source_ref": "Week 1 Formative Q7",
+   "stem": "A 64-year-old patient is brought to the emergency room with palpitations. They have a history of chronic kidney disease. Outpatient medications include spironolactone and lisinopril. The patient is placed on telemetry revealing episodes of non-sustained ventricular tachycardia. Plasma potassium level is 7.1 mEq/L. Which of the following best describes the impact of this electrolyte disturbance on the function of cardiac myocytes?",
+   "choices": [
+    "Resting membrane potential will be reduced",
+    "Action potential duration will be reduced",
+    "QT interval will be increased",
+    "Oxygen consumption will be increased"
+   ],
+   "answer": 0,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "In hyperkalemia, these little blips that weren't never, that were never intended to, you know, cause an action potential are going to cause an action potential because you, the resting memory potential is now closer to that threshold potential.",
+     "at": "00:13:11"
+    },
+    {
+     "type": "transcript",
+     "quote": "hyperkalemia and hypokalemia are going to, because of their effects on the resting mem potential of the cardiac myocytes, they can create arrhythmias, all right?",
+     "at": "00:14:59"
+    },
+    {
+     "type": "slide",
+     "slide": 10,
+     "image": "img/renal-w01-lec07/slide_10.jpg"
+    }
+   ],
+   "note": "**Hyperkalemia makes the resting membrane potential less negative (smaller in magnitude), moving it closer to threshold.**\n\n\"Reduced\" here means reduced in magnitude, i.e. depolarized (slide 10). The lecture covers the resting-potential effect; the action potential duration and QT points below come from the official explanation and general physiology, not the slides.\n\nResting membrane potential will be reduced: true. Less negative, closer to threshold, so stray impulses fire and arrhythmias follow.\n\nAction potential duration will be reduced: false per the key. Hyperkalemia does in fact speed repolarization and shorten the QT, so this choice isn't wrong physiology; the key picks the resting-potential change as the best description.\n\nQT interval will be increased: false. Hyperkalemia shortens the QT; a long QT goes with hypokalemia.\n\nOxygen consumption will be increased: false. Not an effect of hyperkalemia."
+  },
+  {
+   "id": "renal-w01-lec07-q03",
+   "source": "formative",
+   "source_ref": "Week 1 Formative Q8",
+   "stem": "A 23-year-old patient presents to the emergency department with 3 days of fevers, cough and body aches as well as dizziness with standing. They have no past medical history. On examination they have a blood pressure of 95/60 mmHg and a heart rate of 101 beat per minute with dry mucous membranes and axillae. Laboratory examination shows a serum potassium concentration of 3.7 mEq/L. The direct action of which of the following hormones helps to mitigate unwanted urinary potassium losses in this patient?",
+   "choices": [
+    "Insulin",
+    "Renin",
+    "Angiotensin I",
+    "Angiotensin II",
+    "Aldosterone"
+   ],
+   "answer": 3,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "So when we're hypovolemic, angiotensin is also present because the RAS system is, is working. And angiotensin 2 is gonna help our kidneys mitigate Unnecessary potassium loss, all right?",
+     "at": "00:37:17"
+    },
+    {
+     "type": "transcript",
+     "quote": "And then low potassium diet, angiotensin 2, and hyperalmia all inhibit potassium secretion and distal nephron.",
+     "at": "00:48:51"
+    },
+    {
+     "type": "slide",
+     "slide": 37,
+     "image": "img/renal-w01-lec07/slide_37.png"
+    }
+   ],
+   "note": "**In hypovolemia, angiotensin II inhibits ROMK in the collecting duct, offsetting aldosterone's push to secrete potassium.**\n\nDizziness on standing, low blood pressure, tachycardia and dry mucous membranes mean volume depletion, so the whole renin-angiotensin-aldosterone system is switched on.\n\nInsulin: false. It shifts potassium into cells but has no direct role in renal potassium handling here.\n\nRenin: false. It makes angiotensin I; it has no direct effect on potassium secretion.\n\nAngiotensin I: false. An inactive precursor; no direct potassium effect.\n\nAngiotensin II: true. It limits ROMK-mediated potassium secretion (slide 37), protecting against potassium loss.\n\nAldosterone: false. It increases potassium secretion; it's the hormone whose effect angiotensin II blunts."
+  },
+  {
+   "id": "renal-w01-lec07-q04",
+   "source": "formative",
+   "source_ref": "Week 1 Formative Q9",
+   "stem": "A 28-year-old woman presents to her primary care office with fatigue, muscle cramps and dizziness upon standing for several months. She has no past medical history. On examination, her blood pressure is 95/58, and her heart rate is 98 bpm. Laboratory examination reveals a potassium of 2.9 mEq/L, bicarbonate of 31 mEq/L, Sodium of 138 mEq/L, a normal serum creatinine level, and a low urinary calcium level. Use of which of the following medications would most closely resemble this patient’s underlying genetic disorder? This is a factoid (albeit an interesting one).",
+   "choices": [
+    "Triamterene",
+    "Amiloride",
+    "Hydrochlorothiazide",
+    "Furosemide",
+    "Eplerenone"
+   ],
+   "answer": 2,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "Gettleman's syndrome is, is a, is a genetic condition where the, the gene that encodes for the sodium chloride co-transporter is impaired. And so these patients uh behave as if they were on a lifelong thiazide diuretic, all right?",
+     "at": "00:43:19"
+    },
+    {
+     "type": "slide",
+     "slide": 32,
+     "image": "img/renal-w01-lec07/slide_32.png"
+    }
+   ],
+   "note": "**Hypokalemia, metabolic alkalosis, low blood pressure and low urinary calcium point to Gitelman syndrome, a defect in the thiazide-sensitive NaCl cotransporter, so a thiazide mimics it.**\n\nTriamterene: false. A potassium-sparing ENaC blocker; it causes hyperkalemia, not hypokalemia.\n\nAmiloride: false. Also an ENaC blocker that raises potassium.\n\nHydrochlorothiazide: true. It blocks the same DCT cotransporter that Gitelman patients lack, including the low urinary calcium.\n\nFurosemide: false. A loop diuretic mimics Bartter syndrome, which has normal or high urinary calcium.\n\nEplerenone: false. An aldosterone antagonist that raises potassium."
+  }
+ ]
+}

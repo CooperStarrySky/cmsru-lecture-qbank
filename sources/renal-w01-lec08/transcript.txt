@@ -1,0 +1,1168 @@
+[00:00:06] OK, I don't, I don't mean to rush you, but
+[00:00:08] we have a lot to cover in this lecture too,
+[00:00:10] and I want to finish on time so you guys
+[00:00:12] can get out of here.
+[00:00:13] So we're gonna start talking about calcium, magnesium, and phosphorus.
+[00:00:17] I really have to ask you guys to sit down,
+[00:00:19] please, please.
+[00:00:20] It's time to start, all right?
+[00:00:22] So we're gonna burn through calcium, mag and phosphorus.
+[00:00:26] Calcium, all right.
+[00:00:28] This is like stuff we learned in like 9th grade
+[00:00:30] health, because I'm not gonna teach you that much of
+[00:00:32] what it does.
+[00:00:33] It's obviously a major constitute of the bone, all right.
+[00:00:36] Um, but what you should know is most of the
+[00:00:38] calcium is inside the cells.
+[00:00:40] It's, it's an intercellular ion.
+[00:00:42] It's not really outside the cell, all right?
+[00:00:44] And um so the external calcium concentration is going to
+[00:00:48] influence electro-excitable cells.
+[00:00:49] We're gonna talk about that in a minute.
+[00:00:51] All right?
+[00:00:51] But most of the calciums inside the cells, most of
+[00:00:54] it is in bone and muscle, as it turns out.
+[00:00:57] All right.
+[00:00:58] Um, and bone, because most of the calcium is inside
+[00:01:00] bone, it acts as a buffer for Calcium.
+[00:01:02] So anytime we have like hypocalcemia when our body needs
+[00:01:06] more plasma calcium, it just draws it from the bone,
+[00:01:09] which is great for the plasma, but it's not so
+[00:01:11] good for the bone.
+[00:01:12] Chronic, you know, loss of calcium from the bone can
+[00:01:16] lead to weakening of the bone, demineralized bone, increased risk
+[00:01:18] of fractures.
+[00:01:21] All right.
+[00:01:22] Inside the cell, it acts as a second messenger for
+[00:01:24] a lot of intracellular signaling pathways.
+[00:01:27] You've learned about this, we're not gonna go into detail
+[00:01:30] about it.
+[00:01:30] But what's really important outside the cell is its interaction
+[00:01:33] on those voltage-gated sodium, uh, voltage-gated sodium potassium ions.
+[00:01:39] And we just talked about that and how, you know,
+[00:01:41] potassium's effect on it.
+[00:01:42] Well, now we're gonna talk about calcium.
+[00:01:44] Hypocalcemia.
+[00:01:47] Makes these like muscle cells much more twitchy.
+[00:01:49] All right.
+[00:01:50] Hypocalcemia, we see tetani, muscle spasms, we see a positive
+[00:01:54] schwastic sign and trousseau sign.
+[00:01:56] I'm gonna show you what that means next slide.
+[00:01:59] All right, so it makes cells like twitchy and uh
+[00:02:02] hypercalcemia has the opposite effect.
+[00:02:03] Hypercalcemia slows down the muscles, all right.
+[00:02:06] It inhibits the voltage gated sodium channels, inhibits depolarization, it,
+[00:02:11] it inhibits muscles.
+[00:02:12] So in hypercalcium, we can see CNS depression because the
+[00:02:15] neurons aren't firing.
+[00:02:17] We can see muscle weakness, and with hypercalcium, we can
+[00:02:20] see reduced GI motility, constipation is a very frequent um
+[00:02:23] symptom of hypercalcemia.
+[00:02:27] All right.
+[00:02:28] These are some physical findings, all right, this is Trousseau's
+[00:02:31] sign if you suspect this is with hypocalcemia, hypo in
+[00:02:34] the setting of hypocalcemia.
+[00:02:36] If you take a blood pressure cuff, you kind of
+[00:02:38] put it on their upper arm, you pump it up,
+[00:02:40] they're, they kind of make this like cloth, like that's
+[00:02:42] Trousseau's sign and shivastic's sign if you type the, you
+[00:02:46] tap on the facial nerve, cranial nerve, I think it's
+[00:02:48] 5.
+[00:02:48] I'm not sure, don't I'm pretty sure.
+[00:02:50] But you type, you tap on the cranial nerve on
+[00:02:53] the facial nerve and they kind of like twitch on
+[00:02:54] that side, right?
+[00:02:55] Hypocalcemia, not hyper.
+[00:02:58] Why is this happening?
+[00:03:00] Well, we just spent in, in the last hour talking
+[00:03:02] about how the resting membrane potential is affected by pota
+[00:03:06] extracellular potassium concentration and ignore this -90.
+[00:03:10] I think it should be -60, but this is, I,
+[00:03:12] I couldn't figure out a way to fix this.
+[00:03:14] So, all right, so potassium affects the resting membrane potential.
+[00:03:18] What does calcium affect?
+[00:03:20] Calcium affects the threshold potential, all right?
+[00:03:24] Potassium influenced the line of scrimmage.
+[00:03:28] The um calcium is gonna, going to influence where the
+[00:03:31] end zone is.
+[00:03:33] All right?
+[00:03:34] So this is normal, you've got a normal resting potential,
+[00:03:36] this should be 70 and um 55 or whatever.
+[00:03:41] You've got a normal resting memory potential, you've got this
+[00:03:43] normal, like normal stimulus that creates an action potential cause
+[00:03:47] it, cause that, that stimulus allowed the Uh, electronegativity of
+[00:03:52] the cell to reach the the threshold potential, all right?
+[00:03:55] Action potential fires.
+[00:03:57] Remember, with hypokalemia, the line of scrimmage is moved back,
+[00:04:01] right?
+[00:04:02] The resting me potential is much more negative and that
+[00:04:05] moves it farther away from the threshold potential.
+[00:04:08] And hyperkalemia that the resting me potential moves closer to
+[00:04:11] the threshold potential.
+[00:04:13] And with calcium, it's the threshold potentials that's moving.
+[00:04:16] The resting membrane potential stays constant.
+[00:04:18] But in hypercalcemia, Hypercalcemia, the voltage-gated sodium, potassium channels are
+[00:04:25] deadened.
+[00:04:26] They're impaired, calcium, uh, it just sort of like stabilizes
+[00:04:31] those voltage gated channels a little too much overstabilization, all
+[00:04:35] right?
+[00:04:35] And the effect of that is that it takes a
+[00:04:38] higher, there's a higher threshold to reach for a stimulus
+[00:04:41] to, to act on the cell to initiate a, uh,
+[00:04:44] um, an action potential, right?
+[00:04:48] Hypercalcemia by stabilization of those voltticated channels raises the threshold.
+[00:04:54] Conversely, hypocalcemia destabilizes those voltage gated channels and it moves
+[00:04:59] that resting, I'm sorry, the threshold potential closer to the
+[00:05:04] resting membrane potential.
+[00:05:05] That's why hypocalcemia makes the cells more twitchy.
+[00:05:08] It's easier to depolarize those muscles, like twitchy, spastic, all
+[00:05:12] that.
+[00:05:13] So you can imagine a very dangerous condition can happen
+[00:05:17] if someone has hyperkalemia and hypocalcemia, or if they have
+[00:05:21] hypokalemia and hypercalcemia.
+[00:05:23] But right, cause these patients are very unstable.
+[00:05:28] In fact, when patients come in with hyperkalemia, one of
+[00:05:31] the first things that we do to try to, especially
+[00:05:34] if they're starting to have changes in their EKG concerning
+[00:05:37] for potential and uh um imminent arrhythmia, we give them
+[00:05:41] calcium.
+[00:05:42] We don't give calcium to lower their potassium.
+[00:05:44] Don't let anyone tell you that because I've been told
+[00:05:46] that, and no, calcium does not affect the potassium concentration.
+[00:05:51] All calcium does by giving calcium to somebody who's hyperkalemic
+[00:05:55] is their resting potential is already is already high, giving
+[00:05:58] calcium moves that threshold a little bit higher.
+[00:06:01] It makes, it makes it, it stabilizes those cardiac myocytes
+[00:06:04] so that we can help prevent a fatal arrhythmia of
+[00:06:06] someone coming in with acute hyperkalemia before we can Act
+[00:06:10] on the potassium, all right?
+[00:06:12] Calcium does not affect plasma potassium concentration.
+[00:06:17] I said that 3 times.
+[00:06:18] It's important to know.
+[00:06:21] All right, so what happens when we wait with calcium?
+[00:06:23] What's the fate of calcium?
+[00:06:24] Well, let's say we, we, the average diet, we get
+[00:06:27] about 1 g 1000 mg a day.
+[00:06:29] Uh, we absorb, we have a, there's a net absorption
+[00:06:32] of about only 20% of it, believe it or not,
+[00:06:34] because a lot of that calcium gets bound up by
+[00:06:36] other like oxalate and other anions that are staying in
+[00:06:39] the gut and we just eliminate through our feces.
+[00:06:41] But about 20%.
+[00:06:43] 200 mg gets absorbed and that calcium, you know, does
+[00:06:46] its thing.
+[00:06:47] It's kind of like equilibrating when the bones and the
+[00:06:49] muscles, it's doing what it needs to do.
+[00:06:51] Um, our kidneys will, will filter about 1010 g of
+[00:06:56] calcium, but reabsorb whatever we don't need.
+[00:06:58] So if we're in steady state, if our bodies don't
+[00:07:02] need any more calcium and we've absorbed 200 mg, the
+[00:07:05] kidneys are going to excrete that 200 mg as long
+[00:07:07] as we're in steady state.
+[00:07:09] Most adults are in steady state.
+[00:07:11] Children who are growing are not in a steady state.
+[00:07:13] They need to be in a positive calcium balance.
+[00:07:15] Their bones are growing, they, their muscles are growing and
+[00:07:17] so they're, if they eat 200 mg of calcium, they're
+[00:07:20] not going to excrete all that calcium because they, they
+[00:07:22] need it for their bone growth.
+[00:07:26] What happens in the gut?
+[00:07:27] OK, we're gonna start talking about some hormones.
+[00:07:31] So here we are in the enterocyte.
+[00:07:32] This is the intestinal lumen, this is the interstitial.
+[00:07:35] All right, we have our friends sodium, potassium ATPase keeping
+[00:07:38] intracellular sodium concentration very low, that's good.
+[00:07:41] Um, and we have a friend here called the TRIPV6.
+[00:07:45] You don't need to know what it stands for.
+[00:07:47] It stands for transient receptor potential vanyloid type 6.
+[00:07:51] You don't know that but recognize what that is trip
+[00:07:53] V6, all right?
+[00:07:55] That is a calcium channel.
+[00:07:57] It's, it allows calcium to be absorbed from the gut
+[00:08:00] lumen into the enterocyte.
+[00:08:03] Calcium then binds to this protein called calbindin, which is
+[00:08:06] basically like a school bus.
+[00:08:08] It just shuttles calcium from the one end of the
+[00:08:10] cell to the other end of the cell where it
+[00:08:12] gets picked up by a sodium calcium exchanger or calcium
+[00:08:15] ATPase and that's how calcium is extruded into the interstitium
+[00:08:18] or it gets picked up by um in the like
+[00:08:22] the uh uh branches of the portal vein and it
+[00:08:25] gets turned, it gets absorbed into our body.
+[00:08:31] Hormone, calcitriol, calcitriol is active vitamin D.
+[00:08:35] We're gonna talk, you probably already learned about vitamin D
+[00:08:37] and endocrine.
+[00:08:37] We're gonna talk a little more about vitamin D in
+[00:08:39] this hour.
+[00:08:40] Calcitriol is active vitamin D, all right?
+[00:08:43] And it It influenced the trip V6 channel.
+[00:08:46] It opens up, increases more numbers of the V6 channel
+[00:08:50] to allow more calcium to be absorbed.
+[00:08:53] So vitamin D, active vitamin D, increases dietary calcium absorption.
+[00:08:59] That's why they put it in milk.
+[00:09:01] OK.
+[00:09:03] That's all I want to talk about the gut.
+[00:09:05] Now let's talk about how calcium is affected by the
+[00:09:07] kidney.
+[00:09:07] So we're in the proximal tubule, and again, the proximal
+[00:09:10] tubule is just like a site where it's like that
+[00:09:12] game Hungry Hungry Hippos where it just gobbles up everything
+[00:09:15] that gets filtered in the proximal tube.
+[00:09:16] It just absorbs it all, all, right?
+[00:09:18] There's not a lot of, there's really very little regulation
+[00:09:20] here.
+[00:09:21] So filtered calcium gets into the loom and, and it
+[00:09:23] just kind of like potassium, it just kind of passively
+[00:09:26] gets absorbed paracellularly.
+[00:09:28] Not a lot of interesting, you know, things happen with
+[00:09:30] calcium in the proximal tubule.
+[00:09:33] But in thick ascending limb, more things are happening.
+[00:09:36] We actually talked about this at the last lecture.
+[00:09:38] So kind of compare and contrast.
+[00:09:41] This is a thick ascending limb and cell.
+[00:09:43] We have our old friends sodium potassium ATPase keeping intracellular
+[00:09:46] sodium concentration very low.
+[00:09:47] And that, that low intercellular concentration is going to help
+[00:09:50] our other friends, sodium potassium to chloride co-transporter to remove
+[00:09:53] sodium into the cell.
+[00:09:55] And as it does so, it's going to bring potassium
+[00:09:57] to chloride.
+[00:09:58] Some of that potassium is going to leak out and
+[00:10:00] be recycled back into the lumen through our friend Ram
+[00:10:04] Kay, and that's going to lead to a positively charged
+[00:10:06] lumen in the thick ascending limb.
+[00:10:08] We already talked about that's effect on potassium movement paracellularly,
+[00:10:14] but this, this positively charged lumen also helps repel other
+[00:10:17] cations like calcium and just pushes them right on through.
+[00:10:21] And it goes through this gap junction protein.
+[00:10:23] There's this family of proteins called cloudins.
+[00:10:26] You don't even know all, but there's something called loudin
+[00:10:27] 16, which is the, the specific cloudin that allows calcium
+[00:10:31] to move through between the cells, all right.
+[00:10:34] But it does so under the influence of this positively
+[00:10:36] charged.
+[00:10:37] Lumin, which is created by the ROMK, which is helped
+[00:10:40] by the sodium potassium 2 chloride co-transporter.
+[00:10:43] So anything like loop diuretics that impair the sodium potassium
+[00:10:47] 2 chloride co-transporter and the ROMK is going to impair
+[00:10:51] and diminish that positive.
+[00:10:53] Charge in the lumen.
+[00:10:54] If you have a diminished positive charge in lumen, that's
+[00:10:56] going to impair calcium absorption in the thick ascending limb.
+[00:11:00] So loop diuretics can have an effect at increasing calcium
+[00:11:04] secretion, or excretion, I should say through the kidneys, all
+[00:11:08] right?
+[00:11:09] Um, if you have someone who's hypercalcemia in theory, you
+[00:11:11] could give a loop diuretic to help their kidneys excrete
+[00:11:14] that calcium and by not absorbing the calcium, the thick
+[00:11:17] ascending limb.
+[00:11:20] We have another friend now.
+[00:11:21] All right, this is the calcium sensing receptor.
+[00:11:24] We're gonna see calcium sensing receptor a little bit later
+[00:11:28] because it, it's also in our parathyroid.
+[00:11:30] Cells, all right?
+[00:11:31] But we're gonna talk about its presence in the thick
+[00:11:33] ascending limb cell.
+[00:11:35] Calcium sensing receptor, surprise, surprise, senses calcium, all right?
+[00:11:40] Calcium and actually magnesium too, but calcium binds to the
+[00:11:43] calcium sensory receptor.
+[00:11:44] So it's basically almost like a thermostat.
+[00:11:46] It kind of senses like the body's extracellular calcium concentration.
+[00:11:51] So we have times aplenty where there's lots of calcium
+[00:11:54] around, calcium is going to bind that calcium sensor receptor
+[00:11:57] and that receptor is gonna tell the cell to do
+[00:11:59] something.
+[00:12:00] The thick ascending limb, when there's a lot of calcium,
+[00:12:03] extracellular.
+[00:12:04] You know, fluid, calcium lying around, it's going to bind
+[00:12:08] to the calcium scent receptor, and the calcium sensory receptor
+[00:12:10] is going to inhibit sodium, potassium to chloride, just like
+[00:12:14] a loop diuretic.
+[00:12:15] All right?
+[00:12:16] So when there's hypercalcemia, by doing so, that's going to
+[00:12:20] inhibit calcium, filtered calcium reabsorption back into the body.
+[00:12:25] All right.
+[00:12:25] So that has an effect that increasing calcium excretion through
+[00:12:28] the urine, we dump all this extra calcium that our
+[00:12:30] body doesn't need and once our plasma calcium comes down
+[00:12:33] to a normal level, there's no more calcium to bind
+[00:12:36] the sensory receptor and then it's almost like a negative
+[00:12:38] feedback loop.
+[00:12:39] All right?
+[00:12:41] One of the symptoms of hypercalcemia is polyuria.
+[00:12:45] All right.
+[00:12:45] A lot of these patients like, I keep peeing.
+[00:12:47] Well, that's because that hypercalcemia is acting almost like a
+[00:12:50] loop diuretic, all right?
+[00:12:51] So it does increase urination that can lead to hypovolemia
+[00:12:54] and some other issues, but we won't get into all
+[00:12:56] those details, but Hypercalcemia almost acts like a loop diuretic
+[00:13:02] in the thick asic limb to, but its purpose is
+[00:13:04] to diminish uh filtered calcium reabsorption at this site.
+[00:13:11] All right, we're moving downstream.
+[00:13:13] Now we're in the distal convoluted tubule.
+[00:13:15] OK, the distal convoluted tubule you've learned already has the
+[00:13:17] sodium chloride co-transporter.
+[00:13:19] This is where thiazide diuretics act.
+[00:13:22] This is where, um, like Gettleman syndrome, right?
+[00:13:25] This is like a genetic mutation that affects this, this
+[00:13:28] transporter, all right?
+[00:13:30] And this transporter is, why we talk about sodium where
+[00:13:32] it's, it's a calcium lecture?
+[00:13:33] Well, we don't really, I'm gonna be fully, we don't
+[00:13:36] really understand the mechanism or the like why this is.
+[00:13:41] But for some reason, activity of the sodium chloride that
+[00:13:44] the thiazide sensitive sodium chloride co-transporter inhibits a calcium channel
+[00:13:50] in this, in this cell.
+[00:13:51] All right?
+[00:13:52] There's a calcium channel the enterocyte called the trip V6
+[00:13:55] in the kidney, it happens to be called the tripV5.
+[00:13:58] It's not all that particularly important, but it is a
+[00:14:01] calcium channel, the trip V5 in the, in the disallow
+[00:14:04] convolute tubule that permits calcium to be reabsorbed into the
+[00:14:07] cell, all right?
+[00:14:08] And just like in the enterocyte, there's cal bindin which
+[00:14:11] shuttles the calcium from the apical side to the basolateral
+[00:14:14] side where it gets extruded through similarly to the enterocyte
+[00:14:18] via a sodium uh calcium exchanger and a calcium ATPase.
+[00:14:22] But again, this sodium chloride co-transporter inhibits calcium, um, Reabsorption,
+[00:14:29] OK?
+[00:14:30] So, if you were to inhibit this co-trans so yeah,
+[00:14:35] the sodium potassium co-transporter with a thiazide diuretic, you're going
+[00:14:38] to inhibit this inhibition.
+[00:14:40] And I'm not one for double negatives, but that's just
+[00:14:42] the way it is here.
+[00:14:43] So if you inhibit an inhibitor with a diet with
+[00:14:45] thiazide diuretic, you're actually going to stimulate, you're allowing more
+[00:14:49] of that calcium, that trip V5 to be active to
+[00:14:52] absorb calcium.
+[00:14:54] Thiazide diuretics are also are thought of as calcium sparing
+[00:14:58] diuretics, whereas loop diuretics promote calcium excretion through the urine,
+[00:15:03] thiazide diuretics promote calcium reabsorption, and this is the mechanism.
+[00:15:11] So if you have someone who is, you know, on
+[00:15:14] the borderline hypocalcemic, you had to put him on a
+[00:15:16] diuretic for some reason, a thiazide would make more sense,
+[00:15:19] right?
+[00:15:21] OK.
+[00:15:23] We're in the same cell but we have another friend.
+[00:15:25] You've learned about this friend before PTH, but we're gonna
+[00:15:28] talk about its interaction here in the distal convoluted cell.
+[00:15:31] Um, Right, so parathyroid hormone, calcitriol, and estrogen all help
+[00:15:37] to promote calcium reabsorption.
+[00:15:40] PTH and estrogen actually increase the calcium, um, Uh, the,
+[00:15:46] the, the, the sodium calcium exchanger, uh, and that helps
+[00:15:49] promote more cal calcium reabsorbed from the cell and then
+[00:15:52] calcitriol directly stimulates the, the trip V5, um, channel.
+[00:15:57] All right, but all these hormones help to promote increased,
+[00:16:00] what's important is all these hormones help to promote increased
+[00:16:02] calcium reabsorption by the kidneys.
+[00:16:07] All right.
+[00:16:08] I'm not gonna talk too much about PTH in the
+[00:16:09] bone because you learned all this before, but just remember
+[00:16:12] parathyroid hormone stimulates osteoblasts.
+[00:16:15] Osteoblasts, um, uh, have this, this rank ligand which will
+[00:16:20] bind to the rank receptor on osteoclasts.
+[00:16:24] Osteoclasts are those Um, like cells that kind of glom
+[00:16:28] together and they, they sort of like basically dissolve bone.
+[00:16:31] They secrete, um, alkaline phosphatase which breaks up bone and
+[00:16:35] dissolves the the hydroxy apatite mineral to calcium and phosphate
+[00:16:39] basically.
+[00:16:40] And so when PTH is present, it basically stimulates osteoclast
+[00:16:44] formation to chew away and dissolve bone.
+[00:16:47] It releases calcium and so it's, it's pro-calcemic.
+[00:16:50] It, it, it increases, it increases um extracellular fluid, uh,
+[00:16:54] calcium concentration.
+[00:16:58] PH has an effect on calcium, all right?
+[00:17:00] And this is kind of an interesting, I think.
+[00:17:03] So in normal plasma pH we have albumin.
+[00:17:05] Albumin is a protein, it's not an ion, but some
+[00:17:08] of the some of the um the amino acids on
+[00:17:11] that, on albumin carry a negative charge.
+[00:17:14] So as a whole, the molecule has several negative charges.
+[00:17:18] And those negative charges are going to bind to cations.
+[00:17:21] Well, during including calcium, all right?
+[00:17:24] So in a normal, with a normal plasma pH you've
+[00:17:26] got albumin binds to hydrogen ions and calcium, all right?
+[00:17:31] And we've got normal ionized calcium concentration.
+[00:17:35] In alkalemia, when they, when the pH of the, of
+[00:17:38] the plasma rises, The hydrogen ions that are on albumen
+[00:17:42] are gonna kind of kick off to try to help
+[00:17:45] neutralize and, and correct that abnormally high pH to try
+[00:17:48] to lower it a little bit.
+[00:17:50] Well, as these hydrogen ions are being kicked off in
+[00:17:53] an alkalemia, that's gonna expose these negative charges to allow
+[00:17:57] calcium now to bind to it, OK?
+[00:17:59] So, in an alkalemia, especially if you raise the plasma
+[00:18:02] pH to fairly rapidly, What you can do is basically
+[00:18:07] move ionized calcium to bound, protein-bound, albumin-bound calcium.
+[00:18:12] Why is that important?
+[00:18:13] Well, we talked about how hypocalcemia affects the uh threshold
+[00:18:18] potential of like muscles and nerves.
+[00:18:20] It's the ionized calcium that's affecting that.
+[00:18:22] The, the, the calcium that's bound to album is, is
+[00:18:25] not physiologically active, right?
+[00:18:27] So even though you have not, alkaleia does not change
+[00:18:30] the total concentration of calcium in the blood if you're
+[00:18:34] if you're to measure the whole calcium concentration because that
+[00:18:36] also includes the calcium that's bound to albumen.
+[00:18:39] Rapidly raising the pH will lower the ionized calcium concentration
+[00:18:43] and the, the patient can behave just as if they
+[00:18:45] had hypocalcemia.
+[00:18:47] All right.
+[00:18:47] So it's something to be aware of as we're trying
+[00:18:49] to correct a metabolic acidosis, we don't want to raise
+[00:18:52] the pH too rapidly, particularly if their calcium's on the
+[00:18:54] lower side.
+[00:18:57] OK, so, um.
+[00:19:01] Summary slide, hypercalcemia, this is a consequence of hyperparathyroidism.
+[00:19:05] Anything where we see increased parathyroid hormone presence is going
+[00:19:09] to stimulate increased calcium dissolving from the bone, and it's
+[00:19:13] going to increase renal calcium reabsorption.
+[00:19:15] So elevated parathyroid hormone levels, whatever cause, are going to
+[00:19:20] raise plasma calcium concentration.
+[00:19:22] Certain malignancies can lead to hypercalcemia.
+[00:19:25] Some malignancies can can release a parathyroid-like protein.
+[00:19:30] We call it parathyroid-related protein which acts just like PTH.
+[00:19:33] Um, there are some cancers like that, like, like multiple
+[00:19:37] myeloma which can produce lytic lesions.
+[00:19:40] They, they're lesions involving the bone.
+[00:19:41] They stimulate osteoclasts to dissolve the bone that can release
+[00:19:44] calcium.
+[00:19:46] Vitamin D intoxication, if you have too much calcitriol, that
+[00:19:49] can lead to increased calcium reabsorption from the gut.
+[00:19:52] And we increase calcium reabsorption in the kidneys.
+[00:19:56] There are chronic granulomatous diseases, sarcoidosis, tuberculosis, leprosy, lymphoma.
+[00:20:01] These are in red, so they're important.
+[00:20:04] Um, but what these do, these, these granulominous diseases actually
+[00:20:08] increase the enzyme that activates vitamin D, right?
+[00:20:11] So these diseases lead to basically vitamin D intoxication and
+[00:20:16] can lead to hypercalcemia.
+[00:20:17] Thiazide diuretics increased uh calcium reabsorption and distal convoluted tubule,
+[00:20:23] and anything that leads to increased bone turnover, increased release
+[00:20:27] of calcium from the bone can lead to hypercalcemia.
+[00:20:30] And hypercalcemia, hypocalcemia can be a consequence of of the
+[00:20:34] PTH level being too low or resistance to parathyroid hormone,
+[00:20:39] uh, vitamin D deficiency, right?
+[00:20:40] That can lead to hypocalcemia.
+[00:20:42] And through different mechanisms, you'll learn about later chronic kidney
+[00:20:45] disease can lead to hypocalcemia.
+[00:20:47] We talked about metabolic alkalosis rapidly dropping ionized calcium, OK?
+[00:20:53] And lastly, calcium sequestration.
+[00:20:55] So there are conditions where um If there's damage to
+[00:20:59] like the pancreas or muscle cells, the insides of those
+[00:21:02] cells will bind calcium, right?
+[00:21:05] They act in like like they can bind calcium that
+[00:21:07] can rapidly lower, um, that can cause acute hypocalcemia.
+[00:21:12] All right, that's calcium.
+[00:21:14] Let me move on to phosphate now.
+[00:21:16] Phosphorus, like calcium, is a major constituent of the bone.
+[00:21:20] About 85% of our, of our, of our total body
+[00:21:24] phosphorus is trapped as this hydroxy apatite bound with calcium
+[00:21:28] inside the bone, teeth and bones, all right?
+[00:21:31] Uh, the other 50% is mostly intracellular or other cells
+[00:21:34] like muscles and other cells of the body.
+[00:21:37] It is the most abundant intracellular anion.
+[00:21:41] So, the guts of a cell are potassium and phosphate.
+[00:21:47] Phosphate, of course, is necessary for ATP production.
+[00:21:50] When we have hypophosphatemia that can lead to an impairment
+[00:21:52] of ATP production and that you can imagine what that
+[00:21:55] can do to a person's body if you're not making
+[00:21:56] enough ATP.
+[00:21:58] Um, it can form insoluble complexes with calcium.
+[00:22:01] That's good in the bone or the teeth.
+[00:22:04] That's not good if the, if the calcium and phosphorus
+[00:22:06] are binding outside like in the plasma and that can
+[00:22:09] lead to kidney stones, it can lead to calcium and
+[00:22:12] phosphorus deposition in the, in the like hisperkinji fibers, the
+[00:22:14] conducting system of the heart.
+[00:22:16] All right, so, calcium and phosphorus will bind together.
+[00:22:19] We want it to occur where it should, but not
+[00:22:23] outside of the, um, the bones or muscle.
+[00:22:25] I'm sorry, the bones or teeth.
+[00:22:27] Insulin, like potassium, insulin will drive phosphorus into the cell.
+[00:22:32] All right?
+[00:22:33] And that's actually what I wanted to mention here.
+[00:22:35] So there's a, I'm not sure, I don't know if
+[00:22:37] you've heard of refeeding syndrome, but refeeding syndrome is something
+[00:22:40] that was first reported, um, uh, post World War II
+[00:22:45] when concentration camp survivors were liberated, um, uh, by Western.
+[00:22:50] You know, allies and uh they were of course starving,
+[00:22:54] they were treated horribly and they were given regular food,
+[00:22:57] right?
+[00:22:57] Like they were given bread, whatever.
+[00:22:59] They were given carbohydrate.
+[00:23:00] They've been deprived of carbohydrate for who knows how long,
+[00:23:03] but now they're suddenly given carbohydrate.
+[00:23:05] And what happens, what is secreted when our body is
+[00:23:07] exposed to glucose, insulin.
+[00:23:11] All right.
+[00:23:11] So, if you can imagine someone who's been starving for
+[00:23:13] a very long time, not getting a lot of nutrients
+[00:23:16] in general, you suddenly expose them to carbohydrates and they're
+[00:23:20] gonna start to, they're secreting insulin, and what's insulin going
+[00:23:24] to do to our electrolytes?
+[00:23:26] It's going to push potassium into the cell and it's
+[00:23:29] gonna push phosphorus into the cell.
+[00:23:31] So, many people who, who have been starving and by
+[00:23:37] starvation, it's really, it could be fasting even as up
+[00:23:40] to as short as a week, all right?
+[00:23:43] Um, or longer.
+[00:23:44] Uh, if you're fasting for a prolonged period of time
+[00:23:46] and suddenly you start eating and you're not like eating
+[00:23:49] enough potassium and phosphorase, it's just a lot of carbohydrates.
+[00:23:52] You could develop symptomatic hypo severe hypophosphatemia and hypokalemia.
+[00:23:57] Hypokalemia can lead to cardiac, you know, fatal cardiac arrhythmias.
+[00:24:02] Hypophosphatemia impairs ATP production.
+[00:24:05] If you don't have ATP, your muscles can't move, and
+[00:24:07] that can affect diaphragm.
+[00:24:10] And so some people with severe hypophosphatemia, that acute developing
+[00:24:14] during this refeeding syndrome can develop muscle weakness, but it
+[00:24:17] can also cause respiratory depression or respiratory failure.
+[00:24:20] So it's a very serious condition and we And it
+[00:24:24] doesn't, it, it happens now.
+[00:24:26] We have patients, people coming into the emergency room because
+[00:24:28] they, they, they have food insecurity, housing insecurity.
+[00:24:31] They're coming in.
+[00:24:32] They haven't been eating for a week, and we do
+[00:24:34] the right thing.
+[00:24:34] We, we put them on dextrose infusion to give them
+[00:24:37] some, and then if we're not careful, we're not measuring
+[00:24:40] their potassium phosphorus closely and, and repleting these electrolytes, they
+[00:24:44] could get really sick.
+[00:24:46] So, um, re, it's in red, you have to know
+[00:24:48] this, all right?
+[00:24:49] It's very important.
+[00:24:50] It's not just for the exam, like this is, you
+[00:24:51] have to just know this to take care of people
+[00:24:54] and recognize the risk factors.
+[00:24:56] Um, so hypophosphatemia acutely can cause muscle weakness, confusion, delirium,
+[00:25:00] and, that's all because of the lack of ATP production.
+[00:25:04] Hyperphosphatemia usually doesn't cause acute problems, um, but over a
+[00:25:09] long period of time it can lead to ectopic calcification,
+[00:25:12] meaning calcification in areas of the body where it's not
+[00:25:14] supposed to happen, like our blood vessels, our conducting system,
+[00:25:17] our kidneys.
+[00:25:20] OK.
+[00:25:21] So phosphorus, we use are some foods that are high
+[00:25:24] in phosphorus, dairy products, whole grains, egg yolks in particular,
+[00:25:30] you know, animal, animal-based protein and legumes tend to be
+[00:25:34] high, relatively high in phosphorus, all right?
+[00:25:37] Um, we absorb, you know, if we take in 1200
+[00:25:40] mg a day, there's some absorption, there's some secretion, but
+[00:25:43] we absorb about 950 mg of that.
+[00:25:46] And again, as long as we're in steady state.
+[00:25:48] Uh, that some of that phosphorus is, is, you know,
+[00:25:51] part of bone turnover, right?
+[00:25:53] No normal physiologic bone turnover.
+[00:25:55] And any excess of phosphorus that we take in that
+[00:25:57] our bodies do not need for any physiologic reasons just
+[00:26:00] get excreted into the urine.
+[00:26:05] So what happens in the diet, in our, in our,
+[00:26:07] our, our um intestines when we increase our dietary phosphorus
+[00:26:11] intake?
+[00:26:12] Well, there are two mechanisms.
+[00:26:14] There is a passive um absorption of phosphorus paracellularly.
+[00:26:18] This is not regulated in any way.
+[00:26:20] And then there is um a sodium phosphorus co-transporter which
+[00:26:23] brings in a sodium and phosphorus down sodium's concentration gradient
+[00:26:27] facilitated diffusion.
+[00:26:28] Into the cell and then phosphorus gets absorbed, uh, it's
+[00:26:31] uh extruded out into the interstitial through a, a, a
+[00:26:35] transport mechanism.
+[00:26:36] Um, but what's important to know is hormones, all right?
+[00:26:40] This is regulated.
+[00:26:41] So calcitriol, active vitamin D stimulates the sodium phosphorus co-transporter.
+[00:26:46] So active vitamin D increases dietary phosphorus absorption, all right?
+[00:26:51] We have another friend, FGF 23.
+[00:26:53] I don't know if you heard about this in endocrine,
+[00:26:55] but FGF 23 is fibroblast growth factor 23.
+[00:27:00] It's technically something called a, a phosphotonin, um, uh, but
+[00:27:04] what it does is it basically, its job is to
+[00:27:08] lower phosphorus from our body.
+[00:27:09] That's the general purpose of FGF 23.
+[00:27:12] There might be some other things that might do with
+[00:27:14] faster calcification like super, like, but the, what you need
+[00:27:18] to know right now is that FDF 23, its purpose
+[00:27:20] is to remove phosphorus from the body.
+[00:27:23] And so it acts on the sodium phosphorus co-transport, inhibits
+[00:27:26] it in the enterocytes.
+[00:27:27] So, FGF 23 will uh reduce dietary phosphorus absorption from
+[00:27:33] our, from our food.
+[00:27:37] All right, that's the gut, not much, the kidneys, OK?
+[00:27:41] So the kidneys, it's a very similar mechanism.
+[00:27:43] This is the proximal tubule.
+[00:27:44] This is really the only site in the nephron where
+[00:27:47] filtered phosphorus is reabsorbed, OK?
+[00:27:50] Um, and it has a similar sodium phosphorus co-transporter, all
+[00:27:54] right, and has similar influences.
+[00:27:56] Um, like the, the sodium phosphorus co-transporter in the gut,
+[00:28:01] calcitriol stimulates phosphorus entry into the cell.
+[00:28:05] So calcitriol increases, um, Uh, phosphorus reabsorption in, into the
+[00:28:12] kidneys.
+[00:28:13] So calcitriol increases dietary phosphorus reabsor uh dietary phosphorus absorption
+[00:28:17] and reabsorption of the kidneys.
+[00:28:19] So calcitriol is gonna raise phosphorus levels in our blood.
+[00:28:23] PTH actually has an effect here.
+[00:28:25] PTH is the opposite.
+[00:28:26] PTH inhibits the sodium phosphorus co-transporter in the kidneys.
+[00:28:30] So PTH, even though PTH will increase phosphorus generation from
+[00:28:35] the bone, remember PTH stimulates osteoclasts to dissolve calcium phosphorus
+[00:28:39] from the bone that releases calcium and phosphorus, so you
+[00:28:42] would think, oh, PTH is gonna increase phosphorus.
+[00:28:44] Well, the net effect is actually it decreases phosphorus level
+[00:28:47] from the body because of the kidney.
+[00:28:49] So PTH removes phosphorus from the bone, but it's gonna
+[00:28:52] help the kidneys just dump that phosphorus out, right?
+[00:28:57] And FTF 23, like in the enterocyte, it's going to
+[00:29:00] inhibit this, this pseud phosphorus co-transporter.
+[00:29:03] So, FGF 23 and PH is going to help the
+[00:29:06] kidneys dump phosphorus.
+[00:29:08] Vitamin D will reabsorb it.
+[00:29:13] OK, so hyperphosphatemia, again, it's in cell guts, so any
+[00:29:18] type of cell lysis is going to increase endogenous, you
+[00:29:22] know, release of phosphorus into our extracellular fluid.
+[00:29:26] Vitamin D toxicity, remember vitamin D increases phosphorus levels.
+[00:29:30] Um, any, anything that, that diminishes our kidneys' ability to
+[00:29:34] filter out phosphorus is going to potentially lead to hyperphosphatemia
+[00:29:37] and hypoparathyroidism, right?
+[00:29:40] If your parathyroid hormone, you're not making enough of it,
+[00:29:42] that's not, you're not PTH helps to, helps to remove
+[00:29:46] phosphorus from the kidneys, and if you don't have enough
+[00:29:48] of it, it's, it's, it risks an increase in plasma
+[00:29:51] phosphorus levels, extra phosphorus levels.
+[00:29:55] Hypophosphatemia can be a consequence of increased insulin secretion.
+[00:29:59] You see it from an insulinoma rarely, or refeeding syndrome
+[00:30:02] through insulin's effects.
+[00:30:04] Um, decreased ingestion, this can happen particularly with chronic alcohol
+[00:30:08] use.
+[00:30:09] Um, this is usually from a poor diet, um.
+[00:30:13] Vitamin D deficiency, chronic diarrhea, or any diarrhea, chronic diarrhea
+[00:30:18] can lead to um phosphorus, um, loss from the body.
+[00:30:22] Hyperparathyroidism can lead to hypophosphatemia by increasing, uh, phosphorus excretion
+[00:30:27] through the kidney.
+[00:30:29] And there are 2.
+[00:30:32] There's several, but there are two disorders I want you
+[00:30:35] guys to be aware of that, that can lead to
+[00:30:37] increased FGF 23 production, all right?
+[00:30:40] One is called tumor-induced osteomalacia, and tumor-induced osteomalacia, these are,
+[00:30:45] these are cancers that are of mesenchymal cell origins like
+[00:30:49] bone cancers, for instance, um, cost, you know, chondromas.
+[00:30:53] These are, um, or costosarcoma rather.
+[00:30:56] These Cancer cells can secrete FGF 23.
+[00:31:00] FGF 23 is usually secreted by osteoblasts.
+[00:31:03] So, that's where, that's the idea of like these, these
+[00:31:06] um tumor cells act almost like osteoblasts and inappropriately secrete
+[00:31:10] um FGF 23.
+[00:31:12] And FGF 20, you know, so FGF 23 can lead
+[00:31:14] to hypophosphatemia by impairing dietary phosphorus absorption and increasing renal
+[00:31:19] phosphorus excretion.
+[00:31:21] And then this is an interesting thing, ferrocarboxy maltose.
+[00:31:24] Ferrocarboxy maltose is one of the forms of intravenous iron.
+[00:31:28] This doesn't happen with all IV iron, but this is,
+[00:31:31] this is a common, not common, I shouldn't say that,
+[00:31:33] but this is more and more becoming recognized in um
+[00:31:38] anyone who is being treated for iron deficiency with uh
+[00:31:42] anemia, iron deficiency anemia with IV iron, specifically ferric carboxy
+[00:31:46] maltose.
+[00:31:47] Ferricarboxymal, I don't want to get into too much detail,
+[00:31:50] but basically, when something like FGF 23 is made by
+[00:31:53] the body, it gets broken down by the body, all
+[00:31:55] right, by different enzymes, whatever, you know, these mechanisms, and
+[00:31:59] ferric-carboxy maltose inhibits the breakdown of FGF 23.
+[00:32:03] And so, just know that ferric-carboxy maltose can increase FGF
+[00:32:08] 23 and the effects, one of the effects of FGF
+[00:32:10] 23 is basically inappropriate um phosphorus loss.
+[00:32:15] And hypophosphatemia.
+[00:32:19] That's phosphorus.
+[00:32:20] Magnesium, we're blowing through.
+[00:32:22] This is, this is like rapid fire, um, cause I
+[00:32:25] only get an hour for this.
+[00:32:27] So magnesium You're hopefully sensing a pattern.
+[00:32:31] Magnesium like phosphorus, like calcium is mostly stored in the
+[00:32:35] bone.
+[00:32:36] All right?
+[00:32:36] That's where these divalent cations and phosphorus are stored.
+[00:32:39] All right?
+[00:32:39] It has, it has, it's a, it has a protein
+[00:32:44] uh effects.
+[00:32:45] Its role in ATP synthesis and transport, it helps to
+[00:32:48] regulate ion channels like the ROMK.
+[00:32:50] I'll show you that in a minute.
+[00:32:52] Like calcium, it helps to stabilize those voltage-gated sodium potassium
+[00:32:56] channels in electrically excitable cells.
+[00:32:58] So hypermagnessemia can behave almost like hypercalcemia and causing overstability
+[00:33:05] of these cells.
+[00:33:06] Hypomagnessemia, like hypocalcemia, can lead to like, like twitchiness, right?
+[00:33:12] Tetani, phostic sign, all that.
+[00:33:17] Magnesium balance, this is, this is a Another pattern that
+[00:33:22] you should recognize that when, when we're in steady state,
+[00:33:24] whatever we take in has to be excreted.
+[00:33:27] So if we have a net absorption of 120 mg
+[00:33:30] of magnesium, I'm sorry, net absorption of 100 mg of
+[00:33:34] magnesium, there is some equilibration in the bone.
+[00:33:37] Most of us adults are in a stable, you know,
+[00:33:40] steady state, and whatever we absorb in our gut, we,
+[00:33:43] our kidneys will excrete through the regulatory mechanisms.
+[00:33:46] Um, all right.
+[00:33:50] So, magnesium is kind of similar to calcium.
+[00:33:53] There are magnesium channels in the in the lumen of
+[00:33:55] the enterocy.
+[00:33:56] These are tripM channels.
+[00:33:58] So the Calcium are the trip V channels, the phyloid
+[00:34:02] channels, the M stands for melostatin.
+[00:34:05] You don't need to know that, but it's a trip
+[00:34:06] M 6 and 7.
+[00:34:08] These are magnesium channels that just absorb magnesium.
+[00:34:10] So magnesium is absorbed in, in the intestine through these
+[00:34:13] channels, but also there is a percellular pathway as well.
+[00:34:18] And um what's important is pharmacology.
+[00:34:21] Proton pump inhibitors are very, very, and you can get
+[00:34:23] them over the counter.
+[00:34:24] They're really common, you don't need a prescription to get
+[00:34:26] them.
+[00:34:27] But one effect, one side effect that we don't always
+[00:34:30] are, you know, are reminded of is that they inhibit
+[00:34:35] these magnesium channels in the enterocyte.
+[00:34:37] And so that inhibits dietary magnesium absorption.
+[00:34:40] So proton pump inhibitors can be a cause of hypomagnessemia.
+[00:34:46] It's in red.
+[00:34:48] That's important.
+[00:34:49] All right, so that's the important aspects of the gut
+[00:34:53] with magnesium.
+[00:34:54] With the kidney in the proximal tubule, another pattern, it's
+[00:34:58] absorbed paracellular just like potassium, just like calcium, all right?
+[00:35:03] It's just, it's 20% of the filtered magnesium is absorbed
+[00:35:06] just passively um between the cells.
+[00:35:09] The thick ascending limb, this is very similar to calcium,
+[00:35:13] all right?
+[00:35:13] You have this positive charge that's created by the recycling
+[00:35:16] of potassium by the ROMK channel and that positive charge
+[00:35:19] helps to repel and push positively charged magnesium cations paracellularly
+[00:35:24] through the clot in 16 just like calcium.
+[00:35:29] All right.
+[00:35:30] And just like calcium, loop diuretics and stimulation of the
+[00:35:33] calcium sensing receptor are going to abolish that, uh, or
+[00:35:38] diminish, I should say that, um, positively charged lumen, and
+[00:35:41] that's going to impair magnesium and calcium absorption.
+[00:35:46] All right?
+[00:35:46] So these loop diuretics can lead to increased magnesium excretion
+[00:35:52] through the urine.
+[00:35:55] Just like calcium.
+[00:35:56] Now, here's where magnesium and calcium are different, so pay
+[00:35:59] attention to this because I don't want you to get
+[00:36:01] confused.
+[00:36:04] The trip V5 calcium channel is inhibited by the sodium
+[00:36:08] chloride co-transporter in the distal convoluted tubule.
+[00:36:12] For some world, for some reason, the universe switched it
+[00:36:15] up for magnesium.
+[00:36:17] I, I don't make the rules, but this is just
+[00:36:19] how it is.
+[00:36:20] So, um, the, the sodium chloride co-transporter increases expression of
+[00:36:25] the magnesium channel, the trip M6 channel in the distal
+[00:36:28] condylo tubule that normally allows magnesium to reabsorb.
+[00:36:32] So whereas thiazide diuretics allow more calcium to be reabsorbed
+[00:36:37] in the distalcombula tubule, or calcium sparing diuretics, thiazide diuretics
+[00:36:42] inhibit the, the magnesium channel, the trip M6 channel.
+[00:36:46] So thiazide diuretics.
+[00:36:49] are a very common cause of urinary magnesium wasting and
+[00:36:52] can be implicated in hypomagnesmia, right?
+[00:36:57] Sorry, that's the way it is, um, but just, that's
+[00:36:59] the only really as far as like magnesium regulation and
+[00:37:04] calcium regulation, this is the major difference where it's like
+[00:37:06] a complete opposite.
+[00:37:09] OK.
+[00:37:10] There are some other drugs that can impact, uh, or
+[00:37:13] can impair magnesium reabsorption, and they, they do so through
+[00:37:17] various mechanisms.
+[00:37:19] Um, you don't need to know all the mechanisms, but
+[00:37:20] amphotericin B is a, is an antifungal which sometimes we
+[00:37:24] have to use for really bad fungal infections.
+[00:37:27] Calcineurin inhibitors are, um, drugs that are used, uh, commonly,
+[00:37:32] they're immunosuppressant drugs.
+[00:37:33] They are used in transplant transplant medicine and, um, sometimes
+[00:37:37] for autoimmune disorders.
+[00:37:39] Cisplatin is a platinum chemotherapy agent, cetuximab, um, also chemotherapy,
+[00:37:45] pentamidine, um, rapamycin.
+[00:37:48] They're, so these are, these are medications that directly, um,
+[00:37:52] impair the trip M6.
+[00:37:53] They all can be associated with, um, urinary magnesium wasting,
+[00:37:57] potentially hypomagnesmia.
+[00:37:59] The more common drugs are the ones in bold, I
+[00:38:01] would say.
+[00:38:04] All right, more hormones, PTH, so PTH increases calcium absorption
+[00:38:10] in the distalcomla tubule.
+[00:38:11] It also increases magnesium absorption by stimulating the, the, the
+[00:38:15] magnesium channel, the trip M6.
+[00:38:20] All right.
+[00:38:21] The principal cells.
+[00:38:22] So we talked a little bit about how like magnesium
+[00:38:24] can influence that ROMK um channel.
+[00:38:27] So the ROMK needs magnesium for it to be sequestered.
+[00:38:32] So I don't want to get into too much detail,
+[00:38:33] but the ROMK isn't always open.
+[00:38:35] It's rectifying, meaning it can go one side or the
+[00:38:38] other.
+[00:38:39] But, um, magnesium helps to kind of make, keep it
+[00:38:42] in check, so it's not always open, all right?
+[00:38:45] So as long as you have enough intracellular magnesium levels,
+[00:38:47] the ROMK is gonna act and behave just the way
+[00:38:50] it's supposed to.
+[00:38:51] But if you don't have enough magnesium, if your, your
+[00:38:54] total body magnesium depleted, You may not have enough magnesium
+[00:38:57] to kind of like corral in that Rhom K and
+[00:39:01] so hypomagnessemia can lead to inappropriate expression of that RhomMK
+[00:39:06] in the principal cell, allowing potassium to leak out, sometimes
+[00:39:09] inappropriately.
+[00:39:10] And so hypomagnesmia can be a cause of urinary potassium
+[00:39:13] wasting and potentially hypokalemia as a result.
+[00:39:18] Alright, so, um.
+[00:39:21] What are causes of hypermagnesmia?
+[00:39:22] We very rarely see it as long as a person
+[00:39:25] has normal kidney function.
+[00:39:26] Um, usually the only time we ever see hypermagnessemia is
+[00:39:30] if someone's getting a lot of magnesium, um, potentially from,
+[00:39:33] like, you know, a, a massive intravenous load that can
+[00:39:36] be sometimes used in obstetrics, um, or someone has renal
+[00:39:40] insufficiency and they might be on like milk of magnesia
+[00:39:43] or some, you know, some, um, stomach acid reduced that
+[00:39:47] contains magnesium in it.
+[00:39:49] Hypomagnesium is far more common, and it can be related
+[00:39:53] to decreased absorption in the gut from proton pump inhibitors,
+[00:39:56] that's important.
+[00:39:57] It could be related to GI losses, vomiting or diarrhea,
+[00:40:00] just like phosphorus.
+[00:40:01] Or it can be related to renal losses.
+[00:40:04] Remember, loop diuretics, but in particular thiazide diuretics, right?
+[00:40:08] Thiazides directly impair that trip M6 channel, that magnesium channel
+[00:40:13] in the distal convoluted tubules.
+[00:40:14] So thiazides can really cause um inappropriate renal magnesium loss.
+[00:40:19] And then Like thiazide's Gettleman syndrome, which is just like
+[00:40:22] being on a thiazide for your life, um, can lead
+[00:40:25] to that.
+[00:40:25] Then we talked about some of those tubular toxic medications,
+[00:40:29] um, that can lead to, it can impair magnesium reabsorption
+[00:40:32] in the kidney.
+[00:40:35] All right.
+[00:40:36] For the rest of this time, uh, last 10 minutes
+[00:40:38] or so, I want to talk about the hormonal control.
+[00:40:41] OK?
+[00:40:42] We kind of like talked about like the hormones effect
+[00:40:44] of each of the cell and I kind of want
+[00:40:45] to take a bigger picture of what these hormones do
+[00:40:48] so that there's, there's, there's no confusion, all right?
+[00:40:52] You've probably seen this before, a diagram of calcitriol synthesis.
+[00:40:56] We can, cholecalciferol is basically um a, a nutritional source
+[00:41:02] of vitamin D.
+[00:41:03] We can, we get it from our diet, like bony
+[00:41:05] fish, like um salmon and sardines and mackerel and all
+[00:41:09] that.
+[00:41:10] We also, our skin makes it under the influence of
+[00:41:12] UV radiation, unless we're using like sunscreen.
+[00:41:16] But the cholecalciferol gets hydroxylated in the liver by 25
+[00:41:20] hydroxylase to 25 hydroxycholecalciferol.
+[00:41:23] This is calcidiol.
+[00:41:24] This is like a precursor to the active vitamin D.
+[00:41:27] Then calcidiol or 25 hydroxycholecalciferol gets hydroxylated a second time
+[00:41:33] um to form calcitriol, and this is through 1 alpha
+[00:41:36] hydroxylase.
+[00:41:37] That's the enzyme that's important.
+[00:41:39] This enzyme is mostly found in the kidney.
+[00:41:42] All right, so chronic kidney disease, you're gonna learn, um,
+[00:41:45] in chronic kidney disease we see reduction in 1 alpha
+[00:41:48] hydroxylase activity and that can lead to uh active vitamin
+[00:41:52] D deficiency and then the consequences of that.
+[00:41:55] One alpha hydroxylase though is also found in monocytes.
+[00:42:00] And, uh, which are in granuloma diseases, all right.
+[00:42:03] So, this is why in like, uh, sarcoidosis, leprosy, grain
+[00:42:08] lymphoma, these conditions can lead to increased 1 alpha hydroxylase
+[00:42:13] activity and vitamin D intoxication, active calcitriol intoxication endogenously.
+[00:42:21] Parathyroid, you guys are already familiar with the, this is
+[00:42:24] the, the, the, the Honda car looks like that that's
+[00:42:27] the thyroid, but the parathyroid glands is like the size
+[00:42:30] like little lentils, right on, on um on each of
+[00:42:33] the corners of the thyroid gland.
+[00:42:35] And they're under the influence of the calcium sensing receptor.
+[00:42:39] We talked about the calcium sensory receptor with calcium magnesium
+[00:42:41] in the thick ascending limb.
+[00:42:43] Well, here we are again with the same receptor in
+[00:42:46] the parathyroid, parathyroid cell.
+[00:42:50] Excuse me.
+[00:42:51] Under normal circumstances when calcium is low or calcium is
+[00:42:55] normal, where there's no binding of the calcium sensory receptor.
+[00:42:58] There's inactivation of PTH.
+[00:43:02] I'm sorry, the, there's inactivation of the calcium cent receptor
+[00:43:05] and what that allows, that allows PTH to be secreted.
+[00:43:08] So the cell wants to constantly secrete PTH.
+[00:43:11] It's, it's constituently secreting PTH, but If the calcium receptor
+[00:43:17] is bound by calcium or anything else, it's going to
+[00:43:20] be activated and that's going to inhibit the PTH, all
+[00:43:23] right?
+[00:43:23] So hyper when we have hypercalcemia, we don't want PTH
+[00:43:27] to raise our calcium any higher.
+[00:43:29] In hypercalcemia, the calcium cent receptor is going to inhibit
+[00:43:32] PTH secretion, all right, a negative feedback mechanism.
+[00:43:38] OK, this is basically my attempt to try to summarize
+[00:43:42] the net.
+[00:43:44] Effects of all of these, these hormones.
+[00:43:48] Calcitriol, it increases absorption of intestinal calcium and phosphorus, and
+[00:43:54] it, it increases the reabsorption of filtered calcium and phosphorus
+[00:43:58] in the kidneys.
+[00:43:59] Um, and so it's going to lead to both an
+[00:44:02] increase in calcium and phosphorus in the body, right?
+[00:44:06] Um, PTH, it mobilizes calcium phosphorus from the bone through
+[00:44:11] the osteoclasts.
+[00:44:12] So it's initially going to raise both calcium and phosphorus,
+[00:44:15] um, but also in the kidneys, it's going to lead
+[00:44:17] to increased calcium reabsorption, further raising calcium, but it's going
+[00:44:21] to dump phosphorus.
+[00:44:23] So the net effect of PTH on these, these, um,
+[00:44:26] calcium phosphorus, it increases calcium but lowers phosphorus from the
+[00:44:29] body.
+[00:44:31] And then after you have 23.
+[00:44:33] It's going to, it's going to, I shouldn't put this
+[00:44:36] out because it's going to inhibit intestinal phosphorus absorption and
+[00:44:39] it's going to increase renal phosphorus excretion, so it has
+[00:44:42] a net effect at lowering phosphorus.
+[00:44:44] It really doesn't have a direct effect on calcium.
+[00:44:46] There might be some indirect effects if you really look
+[00:44:48] at things closely, but it's mostly a direct effect on
+[00:44:50] phosphorus by lowering phosphorus from the body.
+[00:44:55] So, this is one summary slide, and this is the
+[00:44:58] ugly summary slide.
+[00:45:00] I, I just put it there, just if you want
+[00:45:02] to take some time and look through it because there's
+[00:45:06] There's interactions between some of these hormones and obviously the
+[00:45:10] calcium and phosphorus, but calcitriol inhibits PTH.
+[00:45:15] All right.
+[00:45:16] We actually, patients with chronic kidney disease, they can develop
+[00:45:18] secondary hypoparathyroidism and sometimes tertiary hyperparathyroidism.
+[00:45:21] We can, we actually use vitamin D or vitamin D
+[00:45:24] analogs to suppress the parathyroid hormone.
+[00:45:27] Whereas parathyroid hormone is gonna stimulate the one-off hydroxylase and
+[00:45:30] stimulate calcitriol production.
+[00:45:32] So this is like its own little negative feedback system
+[00:45:34] here.
+[00:45:35] Um.
+[00:45:37] FGF 23 inhibits both PTH and calcitriol.
+[00:45:40] I just urge you, just, I, I, I, I always
+[00:45:43] dread this part of the lecture because I'm asking you
+[00:45:45] to like memorize this slide and I hate, I, I'm
+[00:45:47] not good at memorizing.
+[00:45:48] I suck at it.
+[00:45:48] I'm more, but this is just something that if you
+[00:45:51] know this, everything's gonna make sense with, with like the
+[00:45:54] calcium and phosphorus balance and, and the interactions with the
+[00:45:56] hormones.
+[00:45:57] All right?
+[00:45:57] So the easier slide was the one before, but this
+[00:46:00] is a little more Another summary, but I apologize.
+[00:46:03] But this, this, this really, if you know this, honestly,
+[00:46:06] this is gonna help you tremendously, yeah.
+[00:46:14] Uh, PTH stimulates calcitriol production and calcitriol increases calcium levels.
+[00:46:21] So the, the plus and minuses, well, the, the plus
+[00:46:23] means it, it, um, stimulates production and the, the arrows
+[00:46:28] just means it increases the concentration.
+[00:46:30] So the arrows are more for, um, it, it, there
+[00:46:34] really is no difference, I guess.
+[00:46:35] Sorry.
+[00:46:37] I'm just not being very consistent.
+[00:46:40] But arrow up is like a plus.
+[00:46:43] Down is like a net, it's like a minus.
+[00:46:47] OK.
+[00:46:49] There is another hormone and I don't want to like,
+[00:46:51] I, I also dread this part because it exists, but
+[00:46:54] it really plays a very minor physiologic role.
+[00:46:57] So I don't want you like, you know, studying.
+[00:47:00] Only on this slide, but calcitonin actually has a very
+[00:47:03] minor physiologic effect.
+[00:47:05] It is secreted by the thyroid C cells, the para
+[00:47:09] follicular cells in response to hypercalcemia.
+[00:47:12] There's a calcium sensory receptor on those cells, and when
+[00:47:15] you have hypercalcemia, it binds to the receptor and the
+[00:47:17] receptor tells the cell to secrete calcitonin.
+[00:47:21] And calcitonin inhibits um calcium absorption, but also initially it
+[00:47:27] kind of, um, so it, it, it, it kind of
+[00:47:29] diminishes calcium absorption, but also has a major effect at
+[00:47:33] um inhibiting osteoclasts.
+[00:47:35] So it has a major effect basically lowering calcium.
+[00:47:39] But it's really not a major effect at physiologic concentrations.
+[00:47:43] The effect really occurs pharmacologically.
+[00:47:46] So one treatment, when someone comes in with hypercalcemia, one
+[00:47:49] thing that we can do is give them recombinant calcitonin.
+[00:47:54] We can give them calcitonin as a drug, and it
+[00:47:56] works great for about 1 or 2 days, but then
+[00:47:58] something called tachyphylaxis occurs, which just basically is a fancy
+[00:48:02] term meaning that the body stops responding to the drug.
+[00:48:05] And so it's really not really effective after 48 hours
+[00:48:07] at lowering calcium.
+[00:48:08] So There is a, there is a, um, pharmacologic effect,
+[00:48:12] but physiologically, it's really not all that important.
+[00:48:16] Not as important as PTH.
+[00:48:19] Or, um, uh, vitamin D.
+[00:48:24] Uh, so, lastly, we're gonna wrap the, I promise this
+[00:48:27] is where we're at the end.
+[00:48:28] The disorders of the, of PTH hypoparathyroidism can be a
+[00:48:32] consequence of anything that destroys the parathyroid glands.
+[00:48:36] This can be an autoimmune disease.
+[00:48:37] Sometimes there are certain autoimmune disease that where autoantibodies attack
+[00:48:41] the parathyroid cells.
+[00:48:44] Sometimes it could be a surgical misadventure, you know, patient
+[00:48:46] going, undergoing subtotal thyroidectomy, sometimes they accidentally removed the parathyroid
+[00:48:51] glands as well, and I actually have a patient of
+[00:48:53] mine who I've seen in clinic that's happened to him,
+[00:48:56] um.
+[00:48:57] Uh, so he takes massive amounts of calcium, um, radiation,
+[00:49:01] OK.
+[00:49:01] So people like head and neck cancer, they might get
+[00:49:04] radiation to like the back of their tongue or something
+[00:49:06] for some squamous cell carcinoma.
+[00:49:08] Well, that radiation is meant to target the and kill
+[00:49:10] off the cancer cells, but sometimes, you know, it's all
+[00:49:13] in the neck, there's not a lot of space there.
+[00:49:15] So sometimes radiation can damage the um parathyroid cells and
+[00:49:18] lead to hypoparathyroidism.
+[00:49:21] And there are some sometimes the granulomatous disease can lead
+[00:49:24] to destruction of um of the uh of the parathyroid
+[00:49:28] cell.
+[00:49:30] Um, primary hypoparathyroidism is a result of a A rogue
+[00:49:37] parathyroid adenoma.
+[00:49:39] All right, this is where you have 3 glands that
+[00:49:41] are behaving, one that's not.
+[00:49:42] And this is secreting too much parathyroid hormone.
+[00:49:45] It's not really under, under regulatory control from hypercalcemia.
+[00:49:49] So these patients present as hypercalcemia.
+[00:49:52] Secondary hyperparathyroid, and this is like a system maybe scan
+[00:49:55] showing increased physio uh uh metabolic activity of the, of
+[00:49:59] that adenoma.
+[00:50:01] Secondary hyperparathyroidism is a consequence of chronic hypocalcemia.
+[00:50:05] This is not a disease, it's not a primary disease,
+[00:50:08] it's actually an adaptive, uh, response to chronic hypocalcemia.
+[00:50:14] You measure a parathyroid hormone level and it's high.
+[00:50:17] But it's appropriately high because that patient has chronic hypocalcemia
+[00:50:20] from some whatever reason, all right?
+[00:50:23] A lot of times we see this in chronic kidney
+[00:50:25] disease.
+[00:50:26] Um, and lastly, tertiary hyperparathyroid is basically people almost exclusively
+[00:50:31] seen in advanced chronic kidney disease or people on dialysis
+[00:50:35] who have had secondary hyperparathyroidism for so long that their
+[00:50:38] glands become, they stop responding to the inhibitory effects of
+[00:50:42] calcitriol or FGF 23, and they start secreting way too
+[00:50:45] much parathyroid hormone.
+[00:50:47] They, they usually end up having to get a parathyroidectomy.
+[00:50:53] Disorders of vitamin D, um, Uh, deficiency can affect children
+[00:50:58] and adults differently, and that's only because children, their growth
+[00:51:01] plates still open, they're still growing their long bones.
+[00:51:04] In adults, we don't, we're not growing.
+[00:51:07] So, in vitamin D deficiency in children can cause rickets,
+[00:51:10] all right, this bowing of the, of a, of a
+[00:51:13] child's legs.
+[00:51:14] In adults, we can get vitamin deficiency.
+[00:51:16] It doesn't affect our leg.
+[00:51:18] You know, shape, but it affects the mineralization of the
+[00:51:21] bone, and that's called osteomalacia, basically brittle bones, demineralized bones.
+[00:51:26] Right, and the deficiency is common in chronic kidney disease
+[00:51:28] due to reduced activity of the one-off hydroxylase.
+[00:51:32] Excess vitamin D is not as common.
+[00:51:34] Um, uh, it can happen sometimes with over, I guess
+[00:51:38] overdosing on vitamin D, but, um, more, I think we
+[00:51:42] can definitely see it in, um, these granulomus disorders, lymphomas
+[00:51:46] where there's increased activity of one alpha hydroxylase.
+[00:51:51] All right.
+[00:51:52] And we kind of talked about the disorders of FGF
+[00:51:54] 23 already.
+[00:51:56] Um, oversecretion or reduced breakdown leads to elevated FGF 23
+[00:51:59] levels and that leads to hypophosphatemia with hyperphosphaturia, increased urinary
+[00:52:04] phosphorus excretion.
+[00:52:06] It also inhibits calcitriol production.
+[00:52:08] So we see vitamin D deficiency as a consequence of
+[00:52:10] this excess FGF 23.
+[00:52:12] There are genetic causes, they exist.
+[00:52:15] You're not responsible for knowing them for, for this course
+[00:52:17] if that's much higher, but you should know that this
+[00:52:21] specifically, this form of IV iron we talked about ferric
+[00:52:24] carboxy maltose inhibits the breakdown of FDF 23 where FDF
+[00:52:28] 23 is lying around to lower phosphorus, and that tumor-induced
+[00:52:32] or oncogenic osteomalacia, all right?
+[00:52:34] They're in red, that's important.
+[00:52:37] Um, I think this is the last slide on pharmacology.
+[00:52:40] Uh, so we treat hyperphosphatemia, we mentioned calcitonin, it's has
+[00:52:44] a transient effect.
+[00:52:46] Sometimes we can use loop diuretics because again, loop diuretics
+[00:52:49] inhibit calcium reabsorption in the thick ascending limb.
+[00:52:54] And then bisphosphonates are a, a, um, class of medications
+[00:52:58] that directly inhibit osteoclasts, so that can help, um, uh,
+[00:53:02] treat hypercalcemia.
+[00:53:03] Hyperphosphatemia.
+[00:53:05] We have a, a whole slew of these medications called
+[00:53:08] phosphorus binders.
+[00:53:09] They're kind of like the potassium binders we talked about
+[00:53:12] last hour, but they basically bind up dietary phosphorus preventing
+[00:53:15] it from being absorbed.
+[00:53:16] And there's a medicine called tapinor which also directly inhibits
+[00:53:19] absorption of phosphorus.
+[00:53:21] And lastly, there's a class of medications called calcium emetics,
+[00:53:24] which um are agonists to the calcium sensory receptors.
+[00:53:27] So if that calcium sensory receptor is not responding properly
+[00:53:31] to um the calcium, actually like fluid calcium, we can
+[00:53:34] use these medicines to further stimulate it to suppress PTH
+[00:53:37] secretion.
+[00:53:41] All right, I do have two questions like.
+[00:53:44] Exam type questions, so.
+[00:53:47] I said this is it, I promise.
+[00:53:48] 60 year old is diagnosed with primary hyperparathyroidism.
+[00:53:52] What two electrolyte abnormals would most likely be encountered?
+[00:53:55] You got too much PTH inappropriately being made.
+[00:54:00] calcium and Increase calcium, and what would it do to
+[00:54:03] the phosphorus?
+[00:54:07] Yeah.
+[00:54:08] So hypercalcemia, hypophosphatemia.
+[00:54:11] Remember, PTH releases calcium from the bone, it also causes
+[00:54:15] more calcium to reabsorb by the kidneys, so it's gonna
+[00:54:17] increase calcium.
+[00:54:19] PTH releases phosphorus from the bone, but it's going to
+[00:54:23] increase urinary phosphorus excretion.
+[00:54:25] The net effect is gonna, PTH causes a loss of
+[00:54:29] phosphorus in the body, hypophosphatemia.
+[00:54:33] One more, this is the last, a 7 year old
+[00:54:35] is diagnosed with a genetic mutation leading to impaired cleavage
+[00:54:39] of the FGF 23 protein, which of the following clinical
+[00:54:43] findings would be expected.
+[00:54:44] So this cleavage means it's not um Uh, it's not
+[00:54:49] being made.
+[00:55:01] We didn't really talk about FGF 23 affecting bone mineralization.
+[00:55:05] It really doesn't directly affect calcium or magnesium.
+[00:55:08] All it really affects is the most direct effect is
+[00:55:11] phosphorus.
+[00:55:13] So if you're not making enough, oh I'm sorry, I'm
+[00:55:15] sorry.
+[00:55:16] I'm looking at hypophosphate, I'm reading hypophosphatemia.
+[00:55:18] It impairs bone mineralization through the calcitriol, all right?
+[00:55:24] In cleavage of FDF 23 means that it breaks it
+[00:55:27] down.
+[00:55:27] All right?
+[00:55:27] So you have too much FDF 23 lying around and
+[00:55:30] what does FDF 23 do?
+[00:55:31] It, it inhibits calcitriol and calcitriol is necessary for bone
+[00:55:36] mineralization.
+[00:55:37] All right?
+[00:55:37] So you're gonna see too much FGF 23 you see
+[00:55:40] hypophosphatemia.
+[00:55:42] But also by inhibiting calcitriol can lead to um Uh
+[00:55:48] Consequences of bone mineralization, basically vitamin D deficiency.
+[00:55:52] So some of these questions that are going to be
+[00:55:54] asked are going to be like direct like the first
+[00:55:56] one but it might be kind of like a, a
+[00:55:58] second or third, um, right.
+[00:56:01] Any, uh, that's it.
+[00:56:02] I promise, that's the last.
+[00:56:04] You've made it through the marathon.
+[00:56:06] Any questions about these electrolyte disorders we talked about today?
+[00:56:09] It's a lot of information, but it's all there.
+[00:56:12] You're not gonna be tested on anything that wasn't on,
+[00:56:14] if that's not in the lecture.
+[00:56:17] Please come to the, um, the workshops, all right, because
+[00:56:20] they're gonna, we're gonna use this, these lecture information to,
+[00:56:23] um, uh, what do you call it, to, uh, put
+[00:56:25] it more of like a clinical approach toward identifying and
+[00:56:29] managing these disorders.
+[00:56:31] All right, thank you.

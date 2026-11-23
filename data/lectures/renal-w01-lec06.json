@@ -28,6 +28,233 @@
     }
    ],
    "note": "**No rise in urine osmolality after DDAVP means the kidney can't respond to vasopressin, which is nephrogenic DI.** The lecturer asked \"central or nephrogenic?\" aloud (00:29:55) and answered it in the same passage (00:31:26). The stem stitches together the lecturer's spoken setup: water deprivation, then exogenous ADH (DDAVP), then no change in urine osmolality.\n\nCentral diabetes insipidus: false. These patients make no vasopressin of their own but their kidneys still respond, so urine osmolality rises after DDAVP, even if only a little.\n\nNephrogenic diabetes insipidus: true. Vasopressin is there, or has just been given, but the collecting duct doesn't respond, so urine stays dilute (slide 43)."
+  },
+  {
+   "id": "renal-w01-lec06-q02",
+   "source": "formative",
+   "source_ref": "Week 1 Formative Q17",
+   "stem": "In the above figure, the dashed outlines represent the normal baseline state, and the solid outlines represent the perturbed state. The perturbed state most closely reflects changes seen under which of the following circumstances?",
+   "stem_image": "img/renal-w01-lec06/formative_q17.jpg",
+   "choices": [
+    "A person hiking in the hot desert for hours without water",
+    "A person with severe diarrhea and free access to water",
+    "A person with severe diarrhea and no access to water",
+    "A patient who was given an intravenous infusion of hypertonic 3% saline",
+    "A patient who was given an intravenous infusion of normal 0.9% saline"
+   ],
+   "answer": 3,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "And what happens, again, if you add pure sodium chloride to the extracellular compartment, right?",
+     "at": "00:04:03"
+    },
+    {
+     "type": "transcript",
+     "quote": "You get an expansion, and you get an increase in the osmolarity of the extracellular fluid compartment, because you're adding solute without water. And then water moves down its concentration gradient from the intracellular compartment to the extracellular compartment, expanding the ECF and shrinking the uh the intracellular fluid compartment.",
+     "at": "00:04:10"
+    },
+    {
+     "type": "transcript",
+     "quote": "So, what happens if you add a solution of sodium chloride that has an osmolarity that is identical to that of plasma? What would happen? What would happen to the volume of the extracellular fluid in space? It would expand proportionately.",
+     "at": "00:05:27",
+     "from": "renal-w01-lec05",
+     "lecture": "05 Sodium Homeostasis and Disorders"
+    },
+    {
+     "type": "slide",
+     "slide": 10,
+     "image": "img/renal-w01-lec06/slide_10.png"
+    }
+   ],
+   "note": "**Taller boxes, a narrower ICF and a wider ECF mean sodium chloride was added to the ECF without enough water, which is what hypertonic saline does.**\n\nThe figure matches slide 10, the lecture's \"add pure NaCl\" diagram: osmolarity rises in both compartments, water leaves the cells, the ICF shrinks and the ECF expands.\n\nA person hiking in the hot desert for hours without water: false. Pure water loss raises osmolarity but shrinks both compartments; the ECF doesn't grow.\n\nA person with severe diarrhea and free access to water: false. The ECF shrinks from salt and fluid loss, and drinking water with AVP on board lowers osmolarity.\n\nA person with severe diarrhea and no access to water: false. The ECF shrinks; osmolarity may rise because diarrheal fluid is hypo-osmolar, but the ECF can't expand.\n\nA patient who was given an intravenous infusion of hypertonic 3% saline: true. Salt in excess of water raises ECF osmolarity, pulls water out of cells and expands the ECF.\n\nA patient who was given an intravenous infusion of normal 0.9% saline: false. Isotonic saline expands the ECF but leaves osmolarity and ICF volume unchanged."
+  },
+  {
+   "id": "renal-w01-lec06-q03",
+   "source": "formative",
+   "source_ref": "Week 1 Formative Q18",
+   "stem": "A patient is sent to the Emergency Department from his nursing home because of lethargy for five days. He is barely able to be aroused. His plasma sodium concentration is 165 mEq/L. His total-body water deficit is estimated to be 4.5L. Which of the following is the greatest risk associated with correcting this deficit too rapidly?",
+   "choices": [
+    "Cerebral edema",
+    "Fluid overload and pulmonary edema",
+    "Osmotic demyelination syndrome",
+    "Dehydration",
+    "Accelerated increase in plasma osmolarity"
+   ],
+   "answer": 0,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "If you give him a lot of exogenous water to correct his hypernatremia, what's the danger?",
+     "at": "00:35:55"
+    },
+    {
+     "type": "transcript",
+     "quote": "So if you give him exogenous water now, the cell will swell and The brain does not like that either, does not like that at all.",
+     "at": "00:36:15"
+    },
+    {
+     "type": "transcript",
+     "quote": "So you have to be careful about how you rep replenish water in people who have had, especially long-standing hypernatremia.",
+     "at": "00:36:29"
+    },
+    {
+     "type": "slide",
+     "slide": 49,
+     "image": "img/renal-w01-lec06/slide_49.png"
+    },
+    {
+     "type": "slide",
+     "slide": 50,
+     "image": "img/renal-w01-lec06/slide_50.png"
+    }
+   ],
+   "note": "**After days of hypernatremia, brain cells have rebuilt their volume with idiogenic osmoles, so giving water too fast makes them swell: cerebral edema.**\n\nFive days of lethargy says this is not acute, so cell volume adaptation has had time to happen (slides 47 to 49).\n\nCerebral edema: true. Lowering ECF osmolarity quickly drives water into adapted brain cells (slide 50).\n\nFluid overload and pulmonary edema: false. Only about 1/12 of the water given stays in the vessels (1/12 of 4.5 L is about 375 mL), so the circulation barely notices.\n\nOsmotic demyelination syndrome: false. That's the risk of correcting hyponatremia too fast, the opposite problem.\n\nDehydration: false. That's the starting state (water deficit relative to sodium), not a complication of treating it.\n\nAccelerated increase in plasma osmolarity: false. Giving water lowers plasma osmolarity."
+  },
+  {
+   "id": "renal-w01-lec06-q04",
+   "source": "formative",
+   "source_ref": "Week 1 Formative Q19",
+   "stem": "A 65-year-old patient presents to the nephrologists office for hyponatremia. They have a history of hypertension and type 2 diabetes. They were recently started on diuretic for their hypertension but do not remember the name. They drink about 6 bottles of water a day. 2 weeks after starting their new medication, lab work demonstrated a serum sodium concentration of 125 mEq/L. Which of the following diuretics was the patient started on?",
+   "choices": [
+    "Furosemide",
+    "Spironolactone",
+    "Hydrochlorothiazide",
+    "Amiloride",
+    "Acetazolamide"
+   ],
+   "answer": 2,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "The characteristics, the transport characteristics of the of the distal tubule are more or less the same as those of the thick ascending limb. That is, It's permeable to sodium chloride transport, but not water. And so, this is called the cortical diluting site",
+     "at": "00:20:23"
+    },
+    {
+     "type": "transcript",
+     "quote": "Thiazide diuretics, and they block the sodium chloride co-transporter here.",
+     "at": "00:44:13",
+     "from": "renal-w01-lec05",
+     "lecture": "05 Sodium Homeostasis and Disorders"
+    },
+    {
+     "type": "slide",
+     "slide": 54,
+     "image": "img/renal-w01-lec06/slide_54.png"
+    },
+    {
+     "type": "slide",
+     "slide": 63,
+     "image": "img/renal-w01-lec05/slide_63.png",
+     "lecture": "05 Sodium Homeostasis and Disorders"
+    }
+   ],
+   "note": "**Thiazides block NaCl reabsorption in the distal convoluted tubule, the cortical diluting site, so a heavy water drinker on a thiazide can't make a maximally dilute urine and becomes hyponatremic.**\n\nNeither lecture says \"thiazides cause hyponatremia\" in so many words; it follows from the DCT being the diluting site (Lecture 06) and thiazides acting there (Lecture 05, slide 63).\n\nFurosemide: false. Loop diuretics block the thick ascending limb and weaken the medullary gradient, which mainly limits concentrating the urine, not diluting it.\n\nSpironolactone: false. It doesn't act on the diluting segment's NaCl transport, so it has no direct effect on water handling.\n\nHydrochlorothiazide: true. It disables the cortical diluting site, so the large water intake can't all be excreted.\n\nAmiloride: false. No direct effect on urinary dilution.\n\nAcetazolamide: false. A proximal tubule drug with no direct effect on water handling."
+  },
+  {
+   "id": "renal-w01-lec06-q05",
+   "source": "formative",
+   "source_ref": "Week 1 Formative Q21",
+   "stem": "In order to mitigate her tendency to develop hypernatremia, a hiker in the desert without water must have all of the following EXCEPT:",
+   "choices": [
+    "A functional loop of Henle",
+    "A functional distal convoluted tubule",
+    "Adequate circulating vasopressin",
+    "An intact medullary collecting duct"
+   ],
+   "answer": 1,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "The purpose of the, the shape of the loop is to create a concentrated, a highly concentrated interstitial. In the medulla of the kidney.",
+     "at": "00:15:43"
+    },
+    {
+     "type": "transcript",
+     "quote": "So arginine vasopressin acts on the collecting dust.",
+     "at": "00:12:57"
+    },
+    {
+     "type": "transcript",
+     "quote": "It's permeable to sodium chloride transport, but not water. And so, this is called the cortical diluting site",
+     "at": "00:20:23"
+    },
+    {
+     "type": "slide",
+     "slide": 33,
+     "image": "img/renal-w01-lec06/slide_33.png"
+    }
+   ],
+   "note": "**A water-deprived hiker has to make a maximally concentrated urine, which needs the loop of Henle, vasopressin and a responsive medullary collecting duct, but not the distal convoluted tubule, which only dilutes.**\n\nA functional loop of Henle: false, it is required. The countercurrent multiplier builds the concentrated medullary interstitium that pulls water out of the collecting duct.\n\nA functional distal convoluted tubule: true, it is the one not required. The DCT is the cortical diluting site; diluting the urine is the last thing a hypernatremic person needs.\n\nAdequate circulating vasopressin: false, it is required. AVP puts water channels in the collecting duct so water can be reabsorbed.\n\nAn intact medullary collecting duct: false, it is required. That's where water leaves the urine along the medullary gradient (slide 33)."
+  },
+  {
+   "id": "renal-w01-lec06-q06",
+   "source": "formative",
+   "source_ref": "Week 1 Formative Q22",
+   "stem": "Which of the following plasma solute-related conditions would not affect transcellular water movement?",
+   "choices": [
+    "Acute hyperglycemia in uncontrolled diabetes mellitus",
+    "Hypernatremia",
+    "Elevated blood urea nitrogen (BUN)",
+    "Intravenous Mannitol (a physiologically inert sugar alcohol that is unable to be taken up by cells)"
+   ],
+   "answer": 2,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "Urea, on the other hand, urea is freely permeent across almost all cell membranes in the body. There are urea channels all over the place. And so urea is not an effective osmo. It doesn't cause water movement across the cell membrane.",
+     "at": "00:05:09"
+    },
+    {
+     "type": "transcript",
+     "quote": "glucose is an effective osmole under certain circumstances, like people with diabetes mellitus in poor control.",
+     "at": "00:04:44"
+    },
+    {
+     "type": "slide",
+     "slide": 7,
+     "image": "img/renal-w01-lec06/slide_07.png"
+    }
+   ],
+   "note": "**Urea crosses cell membranes freely, so a high BUN raises osmolarity without changing tonicity and moves no water into or out of cells.**\n\nAn effective osmole is one that stays on one side of the membrane and so drags water with it (slide 7).\n\nAcute hyperglycemia in uncontrolled diabetes mellitus: false. Without enough insulin, glucose stays in the ECF and acts as an effective osmole, pulling water out of cells.\n\nHypernatremia: false. The Na-K ATPase keeps sodium mostly outside cells, so sodium is an effective osmole.\n\nElevated blood urea nitrogen (BUN): true. Urea equilibrates across cell membranes, so it doesn't shift water.\n\nIntravenous Mannitol: false. It can't enter cells, so it stays in the ECF and draws water out of them."
+  },
+  {
+   "id": "renal-w01-lec06-q07",
+   "source": "formative",
+   "source_ref": "Week 1 Formative Q24",
+   "stem": "A 28-year-old man is admitted to the hospital for an abnormal sodium level. He has a history of schizophrenia. A sodium abnormality was recognized by his psychiatrist who sent him to the hospital. Based on further evaluation, a diagnosis of primary (psychogenic) polydipsia is confirmed. Which of the following changes in plasma and urine studies would most likely be observed in this patient?",
+   "stem_image": "img/renal-w01-lec06/formative_q24.jpg",
+   "choices": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+   ],
+   "answer": 1,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "One is, you can drink more than 18 L a day. Some people do that. It's called primary polydipsia.",
+     "at": "00:41:03"
+    },
+    {
+     "type": "transcript",
+     "quote": "It happens because this subtle decrease in plasma osmolarity is read again by these osma receptors in the hypothalamus, these osmo receptors in the hypothalamus, and they shut off vasopressin.",
+     "at": "00:37:38"
+    },
+    {
+     "type": "slide",
+     "slide": 57,
+     "image": "img/renal-w01-lec06/slide_57.png"
+    },
+    {
+     "type": "slide",
+     "slide": 65,
+     "image": "img/renal-w01-lec06/slide_65.png"
+    }
+   ],
+   "note": "**Primary polydipsia overwhelms the kidney's diluting capacity: plasma sodium falls, ADH is suppressed and the urine is maximally dilute.**\n\nThe answer choices are rows of the table in the question image (plasma sodium / plasma ADH / urine osmolality). Slide 65 puts primary polydipsia under hypotonic hyponatremia with urine osmolality under 100.\n\nA (sodium decreased, ADH suppressed, urine osmolality increased): false. With no ADH the collecting duct can't reabsorb water, so the urine can't be concentrated.\n\nB (sodium decreased, ADH suppressed, urine osmolality decreased): true. Low plasma osmolality shuts off vasopressin and the kidney puts out very dilute urine.\n\nC (sodium decreased, ADH elevated, urine osmolality decreased): false. Low plasma osmolality suppresses ADH rather than raising it.\n\nD (sodium increased, ADH elevated, urine osmolality increased): false. That's the picture of water deprivation, not excess water intake.\n\nE (sodium increased, ADH elevated, urine osmolality decreased): false. Excess water lowers plasma sodium; it doesn't raise it."
   }
  ]
 }

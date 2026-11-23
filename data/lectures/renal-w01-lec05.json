@@ -1,0 +1,127 @@
+{
+ "lecture_id": "renal-w01-lec05",
+ "block": "RENAL",
+ "week": 1,
+ "lecture": "05 Sodium Homeostasis and Disorders",
+ "contributor": "thirth",
+ "questions": [
+  {
+   "id": "renal-w01-lec05-q01",
+   "source": "formative",
+   "source_ref": "Week 1 Formative Q20",
+   "stem": "A patient is found to have a plasma sodium concentration of 115 mEq/L. Which of the following best characterizes this patient?",
+   "choices": [
+    "She has ECF volume depletion",
+    "She has ECF volume overload",
+    "She has normal ECF volume",
+    "She has the syndrome of inappropriate antidiuretic hormone",
+    "It is impossible to know the patient's ECF volume status from the given information"
+   ],
+   "answer": 4,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "OK, so the volume of the extracellular fluid compartment depends on total body sodium. The volume of the extracellular fluid compartment depends on total on, on total body sodium content.",
+     "at": "00:06:38"
+    },
+    {
+     "type": "transcript",
+     "quote": "Disorders of water homeostasis, mostly manifested by hyper and hyponatremia",
+     "at": "00:54:45",
+     "from": "renal-w01-lec06",
+     "lecture": "06 Water Homeostasis and Disorders"
+    },
+    {
+     "type": "slide",
+     "slide": 19,
+     "image": "img/renal-w01-lec05/slide_19.png"
+    }
+   ],
+   "note": "**A plasma sodium concentration reflects water balance, while ECF volume reflects total body sodium content, so a PNa of 115 alone says nothing about volume status.**\n\nLecture 05 ties ECF volume to total body sodium content (slide 19); Lecture 06 treats hypo- and hypernatremia as disorders of water. Hyponatremia can occur with a low, normal or high ECF volume.\n\nShe has ECF volume depletion: false. Possible, but nothing in the stem tells you so.\n\nShe has ECF volume overload: false. Also possible (heart failure, cirrhosis), but not shown.\n\nShe has normal ECF volume: false. Also possible, and still not shown.\n\nShe has the syndrome of inappropriate antidiuretic hormone: false. SIAD is one cause of euvolemic hyponatremia; you'd need urine studies and a volume exam to say so.\n\nIt is impossible to know the patient's ECF volume status from the given information: true. You need a sodium content (volume) assessment, not a concentration."
+  },
+  {
+   "id": "renal-w01-lec05-q02",
+   "source": "formative",
+   "source_ref": "Week 1 Formative Q23",
+   "stem": "A 70-year-old woman loses her job, her health insurance, and prescription medication plan. She has a history of congestive heart failure but is stabilized on torsemide. Due to the loss of her job, she runs out of torsemide and is unable to afford a medication refill. Over the next 2 weeks, her body weight increases by 6 kg, and she is admitted to the hospital with hypoxia and pulmonary edema. She is treated with IV diuretics, and loses 6 kg, returning to her previous body weight. Her breathing improves and she is discharged to home after the transitional navigator team provides assistance for affordable medication coverage. Which of the following best explains the patient’s weight loss during the hospitalization?",
+   "choices": [
+    "Low circulating arginine vasopressin (AVP) level",
+    "Water shifted from the intracellular to the extracellular compartment",
+    "Positive sodium balance",
+    "Urinary sodium excretion exceeded dietary sodium intake",
+    "Fractional excretion of sodium increased while she was off torsemide"
+   ],
+   "answer": 3,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "And this serves to emphasize that changes in body weight from day to day reflect changes in sodium balance.",
+     "at": "00:20:39"
+    },
+    {
+     "type": "transcript",
+     "quote": "But during that time, they're in negative sodium balance, and that's reflected in a decrease in their weight.",
+     "at": "00:21:15"
+    },
+    {
+     "type": "transcript",
+     "quote": "So, how can you put them into negative sodium balance? Make them pee what? You make them pee sodium.",
+     "at": "00:39:56"
+    },
+    {
+     "type": "slide",
+     "slide": 59,
+     "image": "img/renal-w01-lec05/slide_59.png"
+    },
+    {
+     "type": "slide",
+     "slide": 37,
+     "image": "img/renal-w01-lec05/slide_37.png"
+    }
+   ],
+   "note": "**IV diuretics put her into negative sodium balance (urinary sodium out exceeds dietary sodium in), and the 6 kg she loses is that sodium plus the water that follows it.**\n\nDay-to-day weight change tracks sodium balance, and the treatment of volume overload is to make sodium excretion exceed intake (slide 59).\n\nLow circulating arginine vasopressin (AVP) level: false. AVP sets water balance and plasma sodium concentration, not the large change in ECF volume. If anything, brisk diuresis tends to raise AVP a bit.\n\nWater shifted from the intracellular to the extracellular compartment: false. Moving water between compartments doesn't change body weight.\n\nPositive sodium balance: false. That's what happened off torsemide, when she gained the 6 kg.\n\nUrinary sodium excretion exceeded dietary sodium intake: true. That's negative sodium balance, which shrinks the ECF and drops her weight.\n\nFractional excretion of sodium increased while she was off torsemide: false. Off the diuretic, her fractional sodium excretion fell; that's how she gained weight."
+  },
+  {
+   "id": "renal-w01-lec05-q03",
+   "source": "formative",
+   "source_ref": "Week 1 Formative Q25",
+   "stem": "A hospitalized patient receives 1000 mL of water (with 5% dextrose) intravenously. After equilibration of the fluid across the body compartments, which of the following best represents the increase in this patient’s intravascular compartment?",
+   "choices": [
+    "0 mL",
+    "83 mL",
+    "250 mL",
+    "333 mL",
+    "500 mL",
+    "667 mL",
+    "750 mL",
+    "1000 mL"
+   ],
+   "answer": 1,
+   "evidence": [
+    {
+     "type": "transcript",
+     "quote": "And the intravascular space, which is only 25% of the Uh, extracellular fluid volume, right?",
+     "at": "00:03:54"
+    },
+    {
+     "type": "transcript",
+     "quote": "So the intravascular volume is only 125 of 3 of total body water or 112 of Total body water space,",
+     "at": "00:04:07"
+    },
+    {
+     "type": "transcript",
+     "quote": "The intravascular space is only 1/12 of total body water.",
+     "at": "00:27:40",
+     "from": "renal-w01-lec06",
+     "lecture": "06 Water Homeostasis and Disorders"
+    },
+    {
+     "type": "slide",
+     "slide": 11,
+     "image": "img/renal-w01-lec05/slide_11.png"
+    }
+   ],
+   "note": "**Once the dextrose is metabolized, D5W is free water that spreads through all body water, and only 1/12 of it stays in the vessels: 1000 mL / 12 = about 83 mL.**\n\nThe work: ICF is 2/3 and ECF 1/3 of total body water; plasma is 1/4 of the ECF. 1/3 × 1/4 = 1/12. 1000 mL × 1/12 = 83 mL. (The transcript's \"125 of 3\" and \"112\" are the captioner's rendering of 1/4 of 1/3 and 1/12.)\n\n0 mL: false. Some of the water does stay in the plasma.\n\n83 mL: true. 1/12 of 1000 mL.\n\n250 mL: false. That's what a liter of isotonic saline would add, since saline stays in the ECF and plasma is 1/4 of the ECF.\n\n333 mL: false. That's the ECF share (1/3), not the plasma share.\n\n500 mL: false. No compartment rule gives one half.\n\n667 mL: false. That's the ICF share (2/3).\n\n750 mL: false. That's the interstitial share of an isotonic saline liter (3/4 of the ECF).\n\n1000 mL: false. That would mean none of the water leaves the vessels."
+  }
+ ]
+}
